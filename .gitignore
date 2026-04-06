@@ -1,0 +1,31 @@
+# Obsidian vault files
+.obsidian/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.vscode/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node/npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.log
