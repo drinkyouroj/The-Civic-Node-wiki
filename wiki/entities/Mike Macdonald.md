@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 8
 ---
 
 ## Overview
@@ -36,6 +36,10 @@ Head coach of the Seattle Seahawks since 2024. Former Baltimore Ravens defensive
 - [[Seattle Seahawks Built Right Roster for Coach's Scheme]] — roster built to execute his vision
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — Schneider's partnership with Macdonald highlighted
 - [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]] — rebuild framed around Macdonald's vision
+- [[Inside Mike Macdonald's Seahawks Defense Philosophy]] — schematic deep dive; 3-Buzz concept explained
+- [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]] — Baltimore-era profile; simulated pressure mechanics
+- [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]] — quantified before/after across organizations
+- [[24 Numbers That Sum Up the Seahawks 2024 Season]] — Year 1 installation data; defensive second-half improvement
 
 ## Open Questions
 

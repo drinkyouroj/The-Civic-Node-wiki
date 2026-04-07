@@ -5,7 +5,7 @@ entity_type: person
 tags: [journalism, federal-immunity, minneapolis]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 5
 ---
 
 ## Overview
@@ -46,3 +46,6 @@ Don Lemon, 30-year journalist, arrested January 30, 2026, while documenting prot
 
 - [[The Pastor Runs the Gestapo]] — primary subject; detailed arrest timeline, judicial findings, Bondi's circumvention of magistrate
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Lemon arrest as parallel pattern to evidence control
+- [[Don Lemon arrested after covering protest at Minnesota church]] — initial arrest coverage
+- [[Feds arrest Don Lemon Minnesota journalist and others over church protest]] — federal charges documentation
+- [[Operation Metro Surge - Wikipedia]] — the broader enforcement operation providing context for his arrest

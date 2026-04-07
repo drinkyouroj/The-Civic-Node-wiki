@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, justice, federal-immunity]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 6
 ---
 
 ## Overview
@@ -41,3 +41,8 @@ Jack Smith, former special counsel investigating Trump's election interference a
 ## Source Appearances
 
 - [[The False Balance Trap]] — primary subject; congressional deposition details, asymmetric equivalence analysis
+- [[Capitol riot 'does not happen' without Trump, Jack Smith told Congress]] — NPR/AP coverage of deposition transcript; Smith called Trump "most culpable"
+- [[House Judiciary Committee Jack Smith Deposition Transcript]] — full Dec. 17, 2025 transcript
+- [[Jack Smith tells Congress he could prove Trump engaged in criminal scheme]] — "criminal scheme" framing
+- [[Jack Smith says 'no historical analog' for Trump's actions around 2020 election, denies political influence]] — historical framing
+- [[Jack Smith told lawmakers Trump was 'the most culpable' in election interference case, deposition transcript shows]] — additional coverage

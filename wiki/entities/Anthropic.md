@@ -5,7 +5,7 @@ entity_type: organization
 tags: [power, depin, politics]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 2
 ---
 
 ## Overview
@@ -43,6 +43,7 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 ## Source Appearances
 
 - [[Britain woos Anthropic expansion after US defence clash]] — central subject; blacklisting and UK recruitment
+- [[Anthropic Raises $3.5B at $61.5B Valuation]] — $3.5B funding round; $61.5B valuation; Claude 3.7 Sonnet; competitive positioning vs. OpenAI
 
 ## Open Questions
 
