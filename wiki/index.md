@@ -1,8 +1,8 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-06
-total_pages: 49
+updated: 2026-04-07
+total_pages: 57
 total_sources: 5
 ---
 
@@ -30,25 +30,28 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### Domestic Politics
 - [[Supreme Court clears way for Trump DOJ to wipe out Steve Bannon's conviction]] — USA Today, Apr 6 2026; SCOTUS vacated contempt conviction after sentence served; conviction erasure as institutional accommodation
 - [[8 arrests in federal crackdown on alleged health care fraud in Southern California]] — AP, Apr 2 2026; Medicare fraud crackdown; federal enforcement as political instrument in California
+- [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — California Gov. press release, Mar 24 2026; state's independent enforcement record predates federal pressure; federal oversight defunded while feds attacked CA
 
 ---
 
 ## Entities
 
 ### People
-- [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; driving coercive diplomacy vs. Iran
+- [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; driving coercive diplomacy vs. Iran; defunded federal hospice fraud oversight
 - [[Marjorie Taylor Greene]] — Former R-GA rep; resigned; broke publicly with Trump over Iran war rhetoric
 - [[Jake Auchincloss]] — D-MA rep, Marine vet; called war "strategically a failure"
 - [[Tim Kaine]] — D-VA Senator, Armed Services; criticized Trump's Iran rhetoric
 - [[Rick Crawford]] — R-AR, House Intel Chair; defending Trump's war posture
 - [[Dario Amodei]] — Anthropic CEO; target of UK government recruitment effort
-- [[Mehmet Oz]] — CMS Administrator; leading hospice fraud crackdown targeting California
-- [[Gavin Newsom]] — California Governor; pushback on Trump/Oz federal enforcement framing
+- [[Mehmet Oz]] — CMS Administrator; leading hospice fraud crackdown targeting California while federal oversight was defunded
+- [[Gavin Newsom]] — California Governor; built independent hospice enforcement infrastructure (2021+); filed civil rights complaint against Oz
 - [[Keir Starmer]] — UK PM; backing Anthropic recruitment effort
 - [[Bob Weir]] — Grateful Dead co-founder (1947-2026); rhythm guitar innovation; 60-year performance career
 - [[Jack Smith]] — Former special counsel; investigated Trump election interference; prosecuted despite evidence being documented
 - [[Don Lemon]] — Journalist arrested while documenting Minneapolis church protests; First Amendment protections functioned as performance
 - [[Steve Bannon]] — Trump political strategist; paradoxed pardon (2021 border wall) + conviction vacation (2022 contempt, Apr 6 2026); MAGA podcast host
+- [[Andrej Karpathy]] — Former Tesla AI Director, early OpenAI researcher; originated LLM wiki agent architecture
+- [[Vannevar Bush]] — 1945 "As We May Think" / Memex concept; intellectual ancestor of associative knowledge retrieval
 
 ### Organizations
 - [[Iran Revolutionary Guards Corps]] — Iran's elite paramilitary; conducting Gulf energy infrastructure strikes
@@ -88,6 +91,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### AI & Technology
 - [[Tech-State Conflict]] — Private AI companies refusing military use; state retaliating with regulatory weapons
 - [[AI Sovereignty]] — Nations competing for AI infrastructure; UK exploiting US-Anthropic rift
+- [[LLM Wiki Agent]] — Karpathy's concept: LLM as active maintenance agent; operational foundation of this wiki
+- [[PKM Failure Pattern]] — Why personal knowledge management systems collapse; the Memex → Obsidian → LLM arc
 
 ---
 
@@ -101,6 +106,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[HDftS E04 — The Form Spiral]] — Dex requests vacation; OWEN generates 340 forms
 
 ### Nonfiction Essays (Chronological, newest first)
+- [[Obsidian Was Never the Problem]] — PKM systems fail because humans are bad maintenance agents; Karpathy's LLM wiki fixes that; meta: describes the architecture running this wiki
 - [[Schneider Solved the Salary Cap While Everyone Else Complained]] — Salary cap as optimization puzzle; Seahawks building dynasty through disciplined cap management
 - [[Bad Bunny Just Showed You Where Real Power Lives]] — NFL chose international revenue over domestic politics; fortress walls turned around
 - [[Game Theory Assumes You're a Sociopath. You're Not.]] — Focal point coordination; shared threats enable cooperation without enforcement
@@ -128,9 +134,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 5 |
-| Published articles tracked | 19 (1 series + 4 episodes + 14 nonfiction essays) |
-| Entity pages | 18 (+4: Bob Weir, Jack Smith, Don Lemon, Steve Bannon) |
-| Concept pages | 14 (+4: Institutional Gaslighting, Leverage Erasure, Focal Point Coordination, Retroactive Executive Protection) |
+| Total sources ingested | 6 |
+| Published articles tracked | 20 (1 series + 4 episodes + 15 nonfiction essays) |
+| Entity pages | 20 (+2: Andrej Karpathy, Vannevar Bush; +1 file: Gavin Newsom) |
+| Concept pages | 16 (+2: LLM Wiki Agent, PKM Failure Pattern) |
 | Synthesis pages | 0 |
-| Last updated | 2026-04-06 |
+| Last updated | 2026-04-07 |

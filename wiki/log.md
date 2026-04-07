@@ -176,3 +176,42 @@ Set up directory structure and schema. Files created:
 Updated `wiki/index.md`: total pages 46 → 49, sources 4 → 5, entities 17 → 18, concepts 13 → 14.
 
 ---
+
+---
+
+## [2026-04-07] ingest | California revoked over 280 hospice licenses (Gov. press release)
+
+**Source**: State of California, gov.ca.gov, Mar 24, 2026. Author: State of California Governor's office.
+**Raw file**: `raw/News you won't see on Fox News California revoked over 280 hospice licenses, 300 more providers under investigation since Governor Newsom's hospice moratorium.md`
+
+**Pages created**:
+- `wiki/sources/News you won't see on Fox News — California revoked over 280 hospice licenses.md` — state enforcement record predates federal pressure; 280+ revocations, 300+ under investigation, 284 arrests; moratorium since 2021; federal oversight defunded while feds attacked CA
+
+**Pages updated**:
+- `wiki/entities/Gavin Newsom.md` — **new file** (was in index but had no page); signed hospice moratorium 2021; established multi-agency task force; filed civil rights complaint against Oz
+- `wiki/entities/Mehmet Oz.md` — added second source appearance; updated open questions on jurisdictional asymmetry
+- `wiki/entities/Donald Trump.md` — added source appearance; noted federal fraud oversight defunded
+- `wiki/concepts/Regulatory Weaponization.md` — added contradiction flag; hospice evidence complicates "weaponization" framing — may be better characterized as enforcement displacement (withdrawing federal capability while attacking the state that filled the gap)
+
+**Key takeaway**: The federal vs. California hospice enforcement story is an inversion. California built independent enforcement infrastructure years before Trump-era pressure (moratorium 2021, task force before 2026). The Trump administration defunded federal Medicare fraud prevention while CMS officials publicly attacked California's Medi-Cal enforcement — two separate programs with different jurisdiction. The framing of federal enforcement as targeting California omits that California was already enforcing harder than the feds.
+
+Updated `wiki/index.md`: sources 5→6, entities +1 file (Gavin Newsom), total pages updated.
+
+---
+
+## [2026-04-07] update | Published article added — Obsidian Was Never the Problem
+
+**Source**: Published essay, Apr 6, 2026. Author: Justin Hearn. Substack: drinkyouroj.substack.com.
+
+**Pages created**:
+- `wiki/articles/Obsidian Was Never the Problem.md` — PKM failure pattern + Karpathy LLM wiki fix; meta: this essay describes the architecture running this vault
+- `wiki/entities/Andrej Karpathy.md` — Former Tesla AI Director, early OpenAI; originated LLM wiki agent gist
+- `wiki/entities/Vannevar Bush.md` — 1945 "As We May Think" / Memex; intellectual ancestor of associative knowledge retrieval
+- `wiki/concepts/LLM Wiki Agent.md` — Karpathy's architecture: LLM as active maintenance agent; CLAUDE.md + index.md + log.md; operational foundation of this wiki
+- `wiki/concepts/PKM Failure Pattern.md` — why personal knowledge systems collapse: maintenance entropy; the Memex → Obsidian → LLM arc
+
+**Key takeaway**: The essay argues the PKM failure mode is structural (humans can't sustain maintenance) not philosophical. The LLM wiki agent solves it by replacing the human agent with an LLM. Notable: the essay was written by the author of this wiki and describes the exact architecture in operation here.
+
+Updated `wiki/index.md`: articles 14→15 nonfiction, entities +2 (Karpathy, Bush), concepts +2 (LLM Wiki Agent, PKM Failure Pattern), total pages 49→57.
+
+---

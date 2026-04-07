@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 2
 ---
 
 ## Overview
@@ -32,9 +32,11 @@ Dr. Mehmet Oz, celebrity physician and former Republican Senate candidate (Penns
 
 ## Source Appearances
 
-- [[8 arrests in federal crackdown on alleged health care fraud in Southern California]] — leading the hospice crackdown
+- [[8 arrests in federal crackdown on alleged health care fraud in Southern California]] — leading the hospice crackdown; made "Russian Armenian mafia" remarks that triggered civil rights complaint
+- [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — CMS social media attacks on California's independent enforcement cited; California's rebuttal documents years of state enforcement predating Trump admin
 
 ## Open Questions
 
 - What is Oz's actual authority over CMS enforcement priorities vs. career staff?
 - Has the civil rights complaint from Newsom's office gone anywhere?
+- Oz attacks California's Medi-Cal enforcement while the Trump admin defunded federal Medicare fraud prevention — does he acknowledge this asymmetry?
