@@ -4,7 +4,7 @@ type: concept
 tags: [power, automation, labor, infrastructure, ownership]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 3
 ---
 
 ## Definition
@@ -60,8 +60,11 @@ Path 3 requires leverage workers currently have. Path 1/2 will lock in before wo
 
 **Counter**: Robots learn faster than curricula update. By the time workers retrain, the robots have already learned better. The ATM pattern proved this: retraining doesn't restore leverage; it just provides a better-sounding explanation for wage stagnation.
 
+> ⚠️ Contradiction: The [[Mechanical Turk Pattern]] reveals an inverse dynamic that complicates the leverage erasure frame. Leverage erasure describes *real* automation eliminating bargaining power before jobs. The Mechanical Turk Pattern shows companies *simulating* automation with concealed human labor — workers are invisibilized and stripped of leverage without being displaced. Both patterns produce the same outcome (leverage gone, workers unprotected) through opposite mechanisms. The full picture requires both concepts.
+
 ## Related Concepts
 
+- [[Mechanical Turk Pattern]] — the inverse dynamic; simulated automation that erases leverage by making labor invisible rather than replacing it
 - [[Ownership of Automation]] — who controls the means of automation
 - [[When Robots Leave the Lab]] — detailed exploration of physical AI deployment patterns
 
@@ -69,3 +72,5 @@ Path 3 requires leverage workers currently have. Path 1/2 will lock in before wo
 
 - [[When Robots Leave the Lab]] — comprehensive framework for automation's labor implications
 - [[The Algorithm Ate My Amygdala]] — related pattern in digital automation
+- [[Ghost Work — The Hidden Humans Behind AI]] — global ghost labor ecosystem; workers made invisible by API abstraction
+- [[The Exploited Labor Behind Artificial Intelligence]] — historical etymology (original Mechanical Turk) + full AI labor stack

@@ -5,7 +5,7 @@ article_type: nonfiction
 tags: [power, infrastructure, systems-thinking, nfl, economics]
 published: 2026-02-08
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-04-07
 source: "published/Schneider Solved the Salary Cap While Everyone Else Complained.md"
 ---
 
@@ -34,11 +34,28 @@ Schneider's blueprint: young players (Devon Witherspoon, Charles Cross, Jaxon Sm
 - **Power & Infrastructure**: Salary cap as a form of distributed constraint that advantages systems-thinking over reactive management
 - **Emerging theme**: Intelligent decentralization (Schneider's approach distributes decision-making across draft classes, contract years, positional flexibility) defeats centralized command (GMs who make one-time "win-now" decisions and pay for it later)
 
+## Payoff
+
+**The thesis played out.** The Seahawks won Super Bowl LX (2025 season). [[John Schneider]] was named NFL Executive of the Year. He became the first GM in NFL history to lead a team to the Super Bowl with zero player or coaching holdovers from a previous roster.
+
+The essay's open question — "Is this one championship window or the start of a dynasty?" — is now the live question. The projected $128.3M in 2027 cap space remained intact post-Super Bowl. The model held.
+
+See: [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]], [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]], [[Seattle Seahawks Built Right Roster for Coach's Scheme]].
+
+## Cross-References
+
+- [[John Schneider]] — entity page; career and cap philosophy
+- [[Mike Macdonald]] — coaching vision that Schneider built around
+- [[Sam Darnold]] — QB acquisition at the center of the rebuild
+- [[NFL Dynasty]] — the dynasty question now active
+- [[Is the NFL Salary Cap Real or a Mirage]] — ESPN's analytical framework underlying the essay's argument
+- [[NFL Salary Cap — How Parity Has Become Disparity]] — 2009 historical context
+
 ## What It Leaves Open
 
-- Can Schneider sustain this? The test is 2027-2029. Is this one championship window or the start of a dynasty?
-- How transferable is this to organizations with different front office cultures?
-- What happens when the first generation of young stars reaches free agency and demands market rates?
+- Dynasty window or one-year peak? The 2027-2029 test remains.
+- How transferable is this model to organizations with different cultures?
+- What happens when JSN, Witherspoon, and Zabel hit free agency and demand market rates?
 
 ## Sourcing
 

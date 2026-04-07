@@ -5,7 +5,7 @@ entity_type: person
 tags: [technology, ai]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 ---
 
 ## Overview
@@ -33,6 +33,7 @@ American engineer and science administrator (1890–1974). Director of the Offic
 ## Source Appearances
 
 - [[Obsidian Was Never the Problem]] — cited as intellectual predecessor to the LLM wiki concept
+- [[As We May Think]] — **primary source**; the actual Atlantic article; now in raw/ — use for direct quotes and detailed Memex description
 
 ## Open Questions
 
