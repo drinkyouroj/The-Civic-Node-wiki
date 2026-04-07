@@ -4,7 +4,7 @@ type: concept
 tags: [power, politics]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 2
+sources: 3
 ---
 
 ## Definition
@@ -21,6 +21,8 @@ Regulatory weaponization is the use of executive branch regulatory tools — age
 
 - **Anthropic "supply-chain risk" designation (2026)**: Pentagon used a national security designation as retaliation for Anthropic's refusal to support military AI. [[Britain woos Anthropic expansion after US defence clash]]
 - **Trump admin vs. California hospice enforcement (2026)**: Federal anti-fraud enforcement explicitly focused on Democratic-led California, with Trump-appointed officials calling it the "kingdom of fraud." [[8 arrests in federal crackdown on alleged health care fraud in Southern California]]
+
+> ⚠️ Contradiction: The above characterization needs updating. [[News you won't see on Fox News — California revoked over 280 hospice licenses]] shows California built its own enforcement infrastructure years before Trump-era pressure (moratorium signed 2021, task force established before 2026), and the Trump administration simultaneously defunded federal hospice fraud prevention (Axios) while attacking the state. The federal posture looks less like enforcement with political targeting than enforcement theater against a state that out-enforced the feds. This complicates the framing of this as "regulatory weaponization" and may be better characterized as **enforcement displacement** — withdrawing federal capability while attacking the state that filled the gap.
 - Other patterns: DOJ antitrust enforcement targeting political enemies; SEC enforcement as regulatory tool; export controls as foreign policy weapon
 
 ## Tensions & Counterarguments
@@ -39,3 +41,4 @@ Regulatory weaponization is the use of executive branch regulatory tools — age
 
 - [[Britain woos Anthropic expansion after US defence clash]]
 - [[8 arrests in federal crackdown on alleged health care fraud in Southern California]]
+- [[News you won't see on Fox News — California revoked over 280 hospice licenses]]
