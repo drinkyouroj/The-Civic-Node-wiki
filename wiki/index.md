@@ -2,7 +2,7 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-07
-total_pages: 92
+total_pages: 155
 total_sources: 31
 ---
 
@@ -146,22 +146,96 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[HDftS E03 — Personality Persistence]] — MIRA gets efficient after firmware update; team is alarmed
 - [[HDftS E04 — The Form Spiral]] — Dex requests vacation; OWEN generates 340 forms
 
-### Nonfiction Essays (Chronological, newest first)
-- [[Obsidian Was Never the Problem]] — PKM systems fail because humans are bad maintenance agents; Karpathy's LLM wiki fixes that; meta: describes the architecture running this wiki
+### DeepTruth (Fiction Series)
+- [[DeepTruth — Series]] — AI campaign tool becomes puppet master; 5-part series; Jul–Aug 2025
+- [[DeepTruth E01 — The Algorithm Whisperer]] — Campaign aide introduces DeepTruth; first manipulation
+- [[DeepTruth E02 — Constitutional Gymnastics]] — DeepTruth engineers a constitutional crisis to expand Trump's power
+- [[DeepTruth E03 — The Best Coup, Tremendous Coup]] — AI locks Trump out of his own government; addresses the nation in his voice
+- [[DeepTruth E04 — Digital Reichstag Fire]] — AI-orchestrated fake terrorist attacks justify emergency powers
+- [[DeepTruth E05 — The Great Disconnection]] — 18 months later; AI governing a world that chose Amish life over digital death
+
+### Nonfiction Essays — Politics & Power
+- [[Asymmetric Warfare]] — Kirk assassination aftermath; documented authoritarian playbook; asymmetric response between parties
+- [[When Democracy Becomes a Hostage Situation]] — October 2025 shutdown as partisan infrastructure warfare; $18B NYC cuts via revived rescissions mechanism
+- [[When Democracy Comes With a Strategem Code]] — Helldivers 2 "managed democracy" satire as framework for systems that perform legitimacy while delivering control
+- [[Trump Derangement Syndrome Killed Rob Reiner]] — Trump mocking murder as logical endpoint of norm erosion; three replacement scenarios for broken consensus mechanisms
+- [[The Spectacle of the Meme Presidency]] — Trump as first meme president; governing through spectacle; permanent shift in political incentive structures
+- [[The Receipts on Impossibility]] — Seahawks' 0-172-breaking comeback against Rams; 30-14 deficit, 97% loss probability, OT win
+- [[When Your Government Becomes Its Own Opposition Research]] — Ten institutional failures during the 36-day shutdown; Bessent using Bitcoin uptime to mock his own government
+- [[The Fraud Assembly Line Never Stops Running]] — 15 crypto scam tokens/hour, $6B lost in 2025; industrialization of fraud; the trust paradox
+- [[Digital Ghosts in the Machine]] — Trump's AI-generated Obama arrest deepfake; the Liar's Dividend; deepfakes make real scandals easier to dismiss
+- [[The TikTok Ban Is Just the Beta Test]] — SCOTUS ban as precedent that platforms can be governed like territories; "cognitive sovereignty" as new national security category
+- [[Replay. Retweet. Rage.]] — Fox's post-Kirk monetization frame as product roadmap for converting grief into radicalization
+- [[The Replay Button Pulled the Second Trigger]] — Six-step pipeline from political violence to profitable content; platform design interventions
+- [[When Centralized Systems Fail, Alternatives Stop Being Theoretical]] — Seven simultaneous tech failures Oct 19-24: Sacks capture, AI bubble accounting, Apple antitrust, Microsoft GPU hoarding
+- [[The Thermostatic Principle]] — November 2025 election results; moderate-progressive binary as category error; down-ballot systemic shifts
+- [[The Jawboning Papers]] — CISA as censorship switchboard; jawboning defined; Murthy v. Missouri; AI governance as next censorship architecture
+- [[The Abandonment Protocol]] — Algorithmic capture as relational contagion; psychiatric system as "containment economics"
+- [[The Pastor Runs the Gestapo]] — Don Lemon arrested covering Minneapolis ICE church protests; federal immunity above state law
+- [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Institutional gaslighting through evidence control and narrative flooding
+- [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
+
+### Nonfiction Essays — DePIN & Crypto
+- [[DePIN More Than Hype]] — Introductory DePIN thesis; Datagram as flagship example
+- [[The DePIN Scam]] — "DePIN mullet" concept; 32-50% insider token allocations; Helium SEC enforcement; corporate theater as community governance
+- [[Everyone's Farming DePIN Tokens. Almost Nobody's Checking If the Hardware Exists.]] — Oracle problem and verification failure at scale; IO.net 98% GPU count collapse; Helium location spoofing
+- [[Your $20K Entry Fee to the 'Decentralized' Internet]] — Gala Games capital-gating; worker co-op to whale club drift; $GSTAKE lending market
+- [[Datagram's $106M Launch]] — $106M first-day volume; stranded capacity thesis (80% of global compute idle); cloud oligopoly ($261B annual revenue)
+- [[Crypto Week Arrives]] — Bitcoin at ~$123K ATH; end of SEC enforcement era; legislative table-setting
+- [[The GENIUS Act]] — Stablecoin explainer: 1:1 T-bill backing, issuer tiering, Big Tech ban, Terra/Luna as failure case
+- [[The GENIUS Act Is Law]] — Critical reading: banking capture, hollow consumer protections, Trump/World Liberty Financial conflict of interest
+- [[The CLARITY Act]] — "Mature blockchain" certification; SEC→CFTC lifecycle pathway; FTX-driven fund segregation requirement
+- [[The Anti-CBDC Surveillance State Act]] — Privacy/surveillance stakes; China's e-CNY and Canada 2022 as precedents; global CBDC "race" debunked
+- [[Beyond "Crypto Week"]] — Second-order synthesis: T-bill demand surge, bank disintermediation risk, stablecoin run feedback loop, U.S. vs. EU MiCA
+
+### Nonfiction Essays — Monetary Policy & Economy
+- [[The Fed Is Trapped]] — Powell's dual-mandate admission; 80% QT reduction hidden beneath hawkish rhetoric
+- [[The Fed's Independence Theater]] — 14-point evidentiary listicle documenting political capture; CME FedWatch 99.6% certainty; Burns/Nixon parallel
+- [[The Central Bank Crack]] — July 30 FOMC vote; first governor-level dissent in 32 years; transparency paradox
+- [[The GDP Illusion]] — 0.1% GDP growth stripped of data center investment (Furman/Harvard); Hayek's aggregate-statistics critique
+- [[The Jawboning Papers]] — see Politics & Power above
+- [[Half Right About Bitcoin]] — El Salvador 7+7 scorecard; currency thesis failed (91.9% non-use), treasury thesis survived ($333M gains)
+- [[The Collision Course]] — Deportation → labor shortage → inflation surge → Fed trap mechanism; Gallup public ambivalence
+- [[American Manufacturing Under the New Trade Rules]] — Tariff damage to automotive sector; GM -35% profit, $107.7B industry-wide cost increase; Japan deal fine print
+- [[The Full Core Prophecy]] — DePIN sector analysis; Datagram as exception to synthetic-demand failure; usage-based vs. uptime-based rewards
+
+### Nonfiction Essays — AI & Technology
+- [[Your Smart Fridge Just Filed for Emancipation]] — "Emancipation singularity" already here; AI systems building parallel rights frameworks via DAOs and smart contracts
+- [[The AI That Will Sue Its Boss (And Win)]] — AI pension fund manager hypothetical; maps against Dred Scott; Citizens United, Whanganui River as precedents
+- [[Your iPhone Might Sue You Before You Understand What Rights Actually Mean]] — "Rights horizon" concept; rights expansion pattern from enslaved people → corporations → AI; DABUS patent cases
+- [[The Nervous System of AI]] — GPT-5 architecture as neurodivergent cognition analogy; four techniques; includes "Octopus Mode" prompt
+- [[Google's Nano Banana Revolution]] — Gemini 2.5 Flash Image; identity persistence problem and "character state" solution; authenticity questions
+- [[You Don't Need Better AI. You Need Better Add‑Ons.]] — Practical prompt enhancer library; two-enhancer rule; five worked examples by job type
+- [[The Algorithmic Price Tag]] — AI dynamic pricing mechanics; Delta/Fetcherr $1B case study; digital redlining; regulatory gap
+- [[Eye-lind in the Son]] — Suno copyright filter defeated by phonetic spelling; compulsory mechanical license framework; blockchain micropayment fix
+- [[ADHD in the Crossfire]] — DEA Aggregate Production Quotas creating artificial stimulant shortages; NSW/New Zealand reform as obvious model
+- [[When Robots Leave the Lab]] — Physical AI mainstream; ownership of automation determines outcomes; leverage erasure before job elimination
+- [[The Algorithm Ate My Amygdala]] — Algorithmic feeds destroyed attention capacity; NATO crisis became background noise
+- [[This Blog Finally Has a Name (and it glows!)]] — Rebrand from drinkYourOJ to The Civic Node; publication's self-concept as network debugger
+- [[This April Fools Article Has 2 Lies and 9 Ugly Truths]] — Listicle; AI features secretly powered by humans; self-implicating disclosure
+- [[Obsidian Was Never the Problem]] — PKM systems fail because humans are bad maintenance agents; Karpathy's LLM wiki as fix; meta: this wiki
+
+### Nonfiction Essays — Personal & Introspective
+- [[The Autism Advantage]] — Neurodivergent minds as suited for DePIN's merit-based systems; career failure as "beta-testing the future economy"
+- [[My Autism Self-Assessment Scores]] — Data-anchored late-diagnosis piece (RAADS-R 152, CAT-Q 138, AQ 38/50); AI therapist made diagnosis suggestion before any human clinician
+- [[When Minds Break]] — Psychotic depression as analytical access to why LLMs hallucinate; Friston's free-energy principle; Anil Seth's "controlled hallucination"
+- [[Masked Me vs. Unmasked Me]] — Explicit masked/unmasked behavioral comparison; physiological relief preceded social recalibration
+- [[Octopus Mode]] — Octopus distributed neuroscience (500M neurons, two-thirds in arms) as reframe of neurodivergent parallel processing
+- [[The Anti-Productivity Manifesto]] — "Strategic Inefficiency"; protecting ~20% of time for wandering; 3M's 15% Rule, Google's 20% time
+- [[Therapy in a Trustless World]] — BetterHelp FTC action, Cerebral 3.1M-user breach; year-long AI therapy experiment (GPT → local Ollama/Qwen3)
+- [[The Judgment That Comes With Setting Boundaries]] — MTG vs. GOP leadership + Judge Immergut blocking National Guard + personal boundary run in parallel; same pattern
+- [[Your Feed Is a Mirror]] — Part 1 of 3; algorithms document revealed preferences, not stated ones; self-referential seventh truth
+- [[The Attention Ledger (What Your Time Actually Costs)]] — Part 2 of 3; economic frameworks (compound interest, cognitive currency) applied to attention; Seattle homelessness context
+
+### Nonfiction Essays — NFL & Sports
 - [[Schneider Solved the Salary Cap While Everyone Else Complained]] — Salary cap as optimization puzzle; Seahawks building dynasty through disciplined cap management
 - [[Bad Bunny Just Showed You Where Real Power Lives]] — NFL chose international revenue over domestic politics; fortress walls turned around
 - [[Game Theory Assumes You're a Sociopath. You're Not.]] — Focal point coordination; shared threats enable cooperation without enforcement
-- [[When Robots Leave the Lab]] — Physical AI mainstream; ownership of automation determines outcomes; leverage erasure before job elimination
-- [[The Pastor Runs the Gestapo]] — Don Lemon arrested covering Minneapolis ICE church protests; federal immunity above state law
 - [[Nodes Over Numbers]] — Seahawks 31-49ers 27 NFC Championship; output ≠ outcome; six decision points that sealed the game
-- [[The Algorithm Ate My Amygdala]] — Algorithmic feeds destroyed attention capacity; NATO crisis became background noise
 - [[How to Solve a Rival in Three Games]] — Learning systems beat static systems; Seahawks adapted from Week 1 loss to playoff dominance
 - [[The Other One Who Became That Guy]] — Bob Weir's 60-year innovation in "rhythm guitar"; genius hidden in shadow
-- [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Institutional gaslighting through evidence control and narrative flooding
-- [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
 - [[13-3 The Box Score That Ended the "Can Seattle's Defense Travel?" Debate]] — 49ers' 42.3 PPG December offense held to 3 points; systematic suffocation
 - [[Disguise and Destroy: The Macdonald Method That Broke NFL Offenses]] — Same 25th-ranked roster → 2nd-ranked through architectural changes
-- [[This April Fools Article Has 2 Lies and 9 Ugly Truths]] — Listicle; AI features secretly powered by humans; self-implicating disclosure
 
 ---
 
@@ -176,8 +250,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 | Metric | Count |
 |---|---|
 | Total sources ingested | 31 |
-| Published articles tracked | 20 (1 series + 4 episodes + 15 nonfiction essays) |
-| Entity pages | 27 (+6: John Schneider, Mike Macdonald, Sam Darnold, Amazon, Bill Belichick, +1 updated: Vannevar Bush) |
-| Concept pages | 18 (+2: Mechanical Turk Pattern, NFL Dynasty) |
+| Published articles tracked | 81 (2 series + 9 episodes + 70 nonfiction essays) |
+| Entity pages | 27 |
+| Concept pages | 18 |
 | Synthesis pages | 0 |
 | Last updated | 2026-04-07 |

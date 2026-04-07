@@ -5,6 +5,24 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-07] update | Batch article pages — 61 wiki/articles/ pages created
+
+Created wiki/articles/ summary pages for all 62 backfilled Substack posts (plus 1 pre-existing file that needed its page).
+
+**New series:**
+- DeepTruth — 5-part fiction series (Jul–Aug 2025); AI campaign tool → coup; 1 series page + 5 episode pages in wiki/articles/episodes/
+
+**New nonfiction clusters (57 pages):**
+- Politics & Power (14): Kirk assassination response, October 2025 shutdown, Helldivers 2 satire, meme presidency, Fraud Assembly Line, deepfakes, TikTok ban precedent, radicalization pipeline, centralized failure cascade, Thermostatic Principle, Jawboning Papers, Abandonment Protocol
+- DePIN & Crypto (11): DePIN thesis → scam → oracle problem → capital gating → Datagram; Crypto Week legislative series (GENIUS Act, CLARITY Act, Anti-CBDC Act, Beyond Crypto Week)
+- Monetary Policy & Economy (9): Fed trap, Fed independence theater, central bank crack, GDP illusion, Bitcoin El Salvador scorecard, Collision Course (deportation → inflation), American manufacturing tariffs, Full Core Prophecy
+- AI & Technology (13): AI rights trilogy (Smart Fridge, AI boss suit, iPhone rights), Nervous System of AI, Google Nano Banana, prompt add-ons, Algorithmic Price Tag, Eye-lind (Suno/copyright), ADHD stimulant crisis, This Blog rebrand, April Fools disclosure
+- Personal & Introspective (10): Autism advantage/scores/disclosure, When Minds Break, Masked Me, Octopus Mode, Anti-Productivity Manifesto, Therapy in a Trustless World, Judgment/Boundaries, Feed Is a Mirror, Attention Ledger
+
+**Index updated:** total_pages 92 → 155; articles tracked 20 → 81 (2 series + 9 episodes + 70 nonfiction)
+
+---
+
 ## [2026-04-06] update | Cross-links created between essays and research wiki
 
 Created 3 concept pages to bridge essays ↔ research:
