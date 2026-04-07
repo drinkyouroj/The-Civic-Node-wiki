@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, crypto, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 5
 ---
 
 ## Overview
@@ -34,6 +34,9 @@ Hagerty is the legislative architect of stablecoin regulation. The Hagerty Amend
 
 - [[GENIUS Act Signed into Law — JD Supra]] — Hagerty Amendment identified as key change to final law
 - [[GENIUS Act Establishes 100% Reserve Backing for Stablecoins]] — cited as key Senate figure
+- [[House Announces Crypto Week July 14 — Financial Services Committee]] — quoted: "I look forward to enacting the GENIUS act into law, and to working with my colleagues to move the CLARITY act through the Senate in short order"
+- [[Ending the Era of Uncertainty — House Agriculture Committee Op-Ed]] — credited as sponsor of bipartisan GENIUS Act
+- [[Congress Advances Crypto Bills — StratNews Global]] — GENIUS Act credited to Hagerty with bipartisan Senate support
 
 ## Open Questions
 

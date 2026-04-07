@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, crypto, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 5
 ---
 
 ## Overview
@@ -37,6 +37,9 @@ Lummis represents the political coalition that made crypto legislation happen: l
 
 - [[Bitcoin soars past $120,000 ahead of Crypto Week]] — quoted on Crypto Week significance
 - [[GENIUS Act Establishes 100% Reserve Backing for Stablecoins]] — cited as key Senate figure facilitating bipartisan support
+- [[House Announces Crypto Week July 14 — Financial Services Committee]] — quoted extensively; Wyoming Stable Token mentioned as first public-entity fiat-backed stablecoin
+- [[Crypto Week Kicks Off — Global Government Fintech]] — quoted on Wyoming's decade of crypto work; "exciting to see the federal government beginning to follow in the Cowboy State's footsteps"
+- [[Ending the Era of Uncertainty — House Agriculture Committee Op-Ed]] — mentioned as Senate partner in crypto framework
 
 ## Open Questions
 

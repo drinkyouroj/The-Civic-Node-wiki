@@ -2,10 +2,10 @@
 title: "Donald Trump"
 type: entity
 entity_type: person
-tags: [politics, power, geopolitics, monetary-policy]
+tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 25
+sources: 32
 ---
 
 ## Overview
@@ -28,6 +28,24 @@ sources: 25
 **Politics**: Trump's dual-track messaging (negotiation + maximalist threat) is a recurring pattern worth tracking. The fracturing of his coalition (MTG, others) as the war drags on is a significant political data point.
 
 **Power**: Trump is using infrastructure targeting (power plants, bridges, desalination) as the primary coercive lever — essentially threatening to destroy Iran's centralized infrastructure as leverage. This is a case study in how state power projects against physical infrastructure.
+
+## Crypto Conflicts of Interest (2025)
+
+Trump's personal financial exposure to the crypto industry raises unprecedented conflict-of-interest questions about the GENIUS Act and Crypto Week legislation he signed.
+
+- **World Liberty Financial (WLF)**: Trump family holds majority stake (60%) in this DeFi protocol; WLF raised ~$550M from investors including significant foreign capital; Trump family entitled to 75% of net revenue. Estimated Trump family gain: $57M+ from WLF alone [[Congress Advances Crypto Bills — StratNews Global]].
+- **USD1 Stablecoin**: WLF issued its own stablecoin (USD1). If the GENIUS Act drives stablecoin adoption into the trillions, Trump directly profits as a stablecoin issuer — the same class of asset the GENIUS Act regulates [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]].
+- **$TRUMP Meme Coin**: Trump launched a personal meme coin ($TRUMP) days before his January 20 inauguration; generated enormous speculative trading volume; Trump insiders hold majority of tokens.
+- **$Melania Meme Coin**: Melania Trump launched a parallel meme coin simultaneously.
+- **Trump Media Crypto ETF**: Trump Media & Technology Group (TMTG) filed to launch a crypto ETF — diversifying Trump's financial exposure to the asset class his administration was simultaneously moving to regulate favorably.
+- **2024 Campaign Crypto Donations**: Trump received approximately $119M–$250M in crypto industry spending (across super PACs and direct) during the 2024 cycle.
+- **White House Defense**: When asked about conflicts, White House officials said Trump "complies with all applicable laws" and pointed to existing disclosure requirements. No prohibition on the president profiting from stablecoin ventures exists in the GENIUS Act or the CLARITY Act.
+
+## Crypto Policy Actions (2025)
+
+- **January 23, 2025 — Executive Order on Digital Financial Technology**: Signed day three of second term. Established President's Working Group on Digital Asset Markets, chaired by David Sacks ("AI and Crypto Czar"). Set 180-day deadline for policy reports — the deadline that drove Crypto Week's July 2025 timeline [[Trump EO on Digital Financial Technology — White House]].
+- **July 18, 2025 — GENIUS Act signing**: Signed the first federal stablecoin regulatory framework into law at a White House ceremony. Called it "one of the most consequential pieces of legislation for American financial dominance in modern history."
+- **Anti-CBDC EO**: Directed federal agencies to never issue a U.S. CBDC — later codified by Congress in the Anti-CBDC Surveillance State Act.
 
 ## Federal Reserve Pressure Campaign (2025)
 
@@ -55,6 +73,10 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 
 ## Source Appearances
 
+- [[Trump EO on Digital Financial Technology — White House]] — signed Jan 23, 2025; established Working Group; set policy deadline that drove Crypto Week timing
+- [[What is Crypto Week — Al Jazeera]] — crypto conflicts quantified ($57M WLF, meme coins, ETF); signing of GENIUS Act
+- [[Congress Advances Crypto Bills — StratNews Global]] — $57M WLF stake detailed; meme coin launches; ETF filing
+- [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]] — Trump as stablecoin issuer via USD1; conflict framing
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — central actor; issued the Easter ultimatum
 - [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — administration defunded federal hospice fraud prevention
 - [[Trump calls Powell 'too stupid' after fifth rate hold]] — Truth Social attack after July FOMC hold

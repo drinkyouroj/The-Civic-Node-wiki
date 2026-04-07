@@ -4,7 +4,7 @@ type: concept
 tags: [politics, technology, crypto, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 9
 ---
 
 ## Definition
@@ -53,8 +53,34 @@ Americans for Financial Reform and other critics argued the CLARITY Act was "wor
 - [[Stablecoin Legislation]] — broader context
 - [[DePIN]] — DePIN token issuance may be affected by the CFTC/SEC boundary
 
+## House Passage Details
+
+The CLARITY Act passed the House on July 17, 2025, by a bipartisan vote of 294-134. Key legislative milestones:
+- Introduced May 29, 2025 by Chairman French Hill (AR-02); 20 cosponsors (13 R, 7 D).
+- Passed House Financial Services and Agriculture Committees June 10, 2025.
+- Full House passage: 294-134 on July 17, 2025.
+- Senate target: end of September 2025.
+
+## Ethics Provision Gap (Sec. 111)
+
+The CLARITY Act (Sec. 111) prohibits members of Congress and senior executive branch officials from issuing a "digital commodity" while in public service. However, this prohibition applies to **digital commodities** — not payment stablecoins, which are governed by the GENIUS Act. Trump's USD1 and World Liberty Financial are stablecoins, not commodities under this framework, so the CLARITY Act ethics provision does not address the Trump conflict-of-interest concern.
+
+## Meme Coins and NFTs
+
+The CLARITY Act creates a new "tradable asset" category for digital assets that are neither securities nor commodities (meme coins, NFTs). These are subject to CFTC requirements under Section 412, but listing is prohibited if the primary purpose is fraud, market manipulation, or campaign finance violations. Critics (AFR, Consumer Reports) say this oversight is weaker than securities regulation; supporters say it's better than no oversight.
+
+## Systemic Risk Concern
+
+Consumer Reports (July 2025) raised a significant concern: the CLARITY Act could allow traditional financial companies to reorganize operations onto blockchain to escape SEC oversight — using the CFTC's lighter touch. Amanda Fischer (former Gensler chief of staff): "This bill's regulatory gaps will not be quarantined to crypto."
+
 ## Key Sources
 
 - [[CLARITY Act — Faegre Drinker]]
 - [[Bitcoin soars past $120,000 ahead of Crypto Week]]
-- [[Fact Sheet CLARITY Act Worse than FIT21 — Americans for Financial Reform]]
+- [[CLARITY Act Worse than FIT21 — Americans for Financial Reform]]
+- [[CLARITY Act Section-by-Section — House Financial Services Committee]]
+- [[CLARITY Act Industry Support — House Financial Services Committee]]
+- [[House Approves CLARITY Act — Consumer Reports]]
+- [[House GOP Plans Crypto Week — Sludge]]
+- [[Crypto Week Kicks Off — Global Government Fintech]]
+- [[Ending the Era of Uncertainty — House Agriculture Committee Op-Ed]]
