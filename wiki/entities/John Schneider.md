@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 10
 ---
 
 ## Overview
@@ -41,6 +41,10 @@ General Manager of the Seattle Seahawks since 2010. Considered one of the most a
 - [[Seattle Seahawks Built Right Roster for Coach's Scheme]] — roster depth across all acquisition channels
 - [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]] — rebuild timeline and key moves
 - [[Seahawks Signing QB Sam Darnold to 3-Year $100.5 Million Contract]] — QB acquisition rationale
+- [[24 Numbers That Sum Up the Seahawks 2024 Season]] — Year 1 baseline; the defensive improvement and offensive failures that drove the 2025 rebuild decisions
+- [[2025-26 NFL Playoffs Wikipedia]] — NFC champion GM
+- [[Salary Cap Optimization]] — concept page; Schneider is the central case study
+- [[Organizational Continuity]] — concept page; 16-year tenure as the defining example
 
 ## Open Questions
 

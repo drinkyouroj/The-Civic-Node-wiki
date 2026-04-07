@@ -34,7 +34,11 @@ War-driven inflation is a supply-shock inflationary dynamic triggered by militar
 - [[Chokepoint Control]] — the physical mechanism that creates the supply shock
 - [[Strait of Hormuz]] — the specific chokepoint driving current war-driven inflation
 - [[Coercive Diplomacy]] — war-driven inflation as a coercive tool Iran is wielding
+- [[Stagflation]] — the macro outcome when supply-shock inflation meets weakening growth; tariff-driven stagflation has the same structure
+- [[Tariff-Driven Inflation]] — trade-policy analog to war-driven inflation; same mechanism (supply-shock), different political cause; both cannot be fixed by rate hikes
+- [[Fed Independence]] — the institution under pressure to respond to supply shocks it can't control
 
 ## Key Sources
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
+- [[The Great Inflation]] — 1973 Arab oil embargo as the paradigm case of war-driven inflation becoming embedded stagflation

@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 6
 ---
 
 ## Overview
@@ -34,6 +34,9 @@ Quarterback for the Seattle Seahawks. Career narrative: selected 3rd overall by 
 - [[Seahawks Signing QB Sam Darnold to 3-Year $100.5 Million Contract]] — signing rationale and contract terms
 - [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]] — role in Seahawks rebuild
 - [[Seattle Seahawks Built Right Roster for Coach's Scheme]] — part of the broader roster architecture
+- [[NFC Championship — Seahawks 31 Rams 27]] — 346 yards, 3 TDs, 0 turnovers; career playoff performance
+- [[Seahawks Beat 49ers Week 18 — 4 Takeaways]] — clean Week 18 performance mirrors/inverts his 2024 Vikings collapse
+- [[49ers Defeat Seahawks Season Opener 2025]] — debut game; sacked on final play of 17-13 loss
 
 ## Open Questions
 

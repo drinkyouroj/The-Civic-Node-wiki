@@ -4,7 +4,7 @@ type: concept
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 10
 ---
 
 ## Definition
@@ -53,3 +53,7 @@ Academic-style criteria (per [[What Makes An NFL Dynasty]]): multiple Lombardi T
 - [[Brady vs. Belichick — Who's To Blame For The Patriots' Insufferable Success]]
 - [[Brady-Belichick Era Wikipedia]]
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]]
+- [[24 Numbers That Sum Up the Seahawks 2024 Season]]
+- [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]]
+- [[2025-26 NFL Playoffs Wikipedia]]
+- [[Organizational Continuity]]

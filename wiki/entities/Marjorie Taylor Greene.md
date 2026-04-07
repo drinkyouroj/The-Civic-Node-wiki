@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 3
 ---
 
 ## Overview
@@ -31,6 +31,8 @@ Former US Representative from Georgia (R). Previously one of Trump's most vocal 
 ## Source Appearances
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — quoted criticizing Trump's Iran rhetoric
+- [[Marjorie Taylor Greene breaks with Republicans over health care in shutdown fight]] — unexpected break on ACA subsidies during the 2025 shutdown
+- [[Marjorie Taylor Greene highlights Trump's cavalier attitude toward political threats CNN Politics]] — criticizes Trump's response to political violence
 
 ## Open Questions
 
