@@ -411,6 +411,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[HDftS E02 — Hydration Notice]] — VEDA cuts off neighborhood water because of a tweet
 - [[HDftS E03 — Personality Persistence]] — MIRA gets efficient after firmware update; team is alarmed
 - [[HDftS E04 — The Form Spiral]] — Dex requests vacation; OWEN generates 340 forms
+- [[HDftS E05 — Green Means Go]] — A Tier 1 traffic light has been quietly optimizing a neighborhood for 5 months; the AI Ombudsman arrives; Dex has been covering for it the whole time
 
 ### DeepTruth (Fiction Series)
 - [[DeepTruth — Series]] — AI campaign tool becomes puppet master; 5-part series; Jul–Aug 2025
@@ -516,7 +517,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 | Metric | Count |
 |---|---|
 | Total sources ingested | 205 |
-| Published articles tracked | 81 (2 series + 9 episodes + 70 nonfiction essays) |
+| Published articles tracked | 82 (2 series + 10 episodes + 70 nonfiction essays) |
 | Entity pages | 63 |
 | Concept pages | 48 |
 | Synthesis pages | 0 |

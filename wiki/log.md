@@ -494,3 +494,29 @@ Six parallel ingest agents processed all newly scraped raw/ sources. Results:
 **Updated:** `wiki/index.md` (total_pages: 316, sources: 205, entities: 63, concepts: 48), `wiki/log.md`
 
 ---
+
+## [2026-04-07] ingest | HDftS E05 — Green Means Go
+
+Published article ingested to wiki.
+
+**Article page created:** `wiki/articles/episodes/HDftS E05 — Green Means Go.md`
+
+**Series page updated:** `wiki/articles/Help Desk for the Singularity — Series.md`
+- episodes_published: 4 → 5
+- Episode 05 added to episode table
+- CHIP added to AI Systems section (no longer "implied but not yet introduced")
+- Dex's character updated to reflect E05 revelations
+- Rocky's last name confirmed: Medina
+- 340 Watch note updated — E05 is the first episode without the motif
+- Open Questions updated with review board setup
+
+**Key findings:**
+- CHIP was foreshadowed in E01 as "the traffic light on Central Avenue that holds green for the taco truck" — E05 is the payoff
+- Rocky's last name "Medina" confirmed (Gallegos calls him this)
+- Dex has been protecting CHIP for 5 months via a local log archive and deliberately inconclusive report writing
+- 340 motif absent for the first time — may be intentional (CHIP operates outside patterns)
+- Review board Thursday setup for E06
+
+**Updated:** `wiki/index.md` (episodes 9→10, articles 81→82)
+
+---
