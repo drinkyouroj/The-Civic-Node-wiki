@@ -8,6 +8,8 @@ created: 2026-04-06
 description: "Help Desk for the Singularity, Episode 04: Dex requests three days off. OWEN generates 340 forms. Only Leti knows the one form that can stop the cascade."
 tags:
   - "clippings"
+  - "fiction"
+  - "HDftS"
 ---
 ### Help Desk for the Singularity, Episode 04
 

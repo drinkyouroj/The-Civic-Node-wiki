@@ -8,6 +8,8 @@ created: 2026-04-06
 description: "Episode 01: Ticket Zero"
 tags:
   - "clippings"
+  - "fiction"
+  - "HDftS"
 ---
 ### Episode 01: Ticket Zero
 

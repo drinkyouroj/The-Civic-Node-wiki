@@ -8,6 +8,7 @@ created: 2026-04-06
 description: "Every PKM tool fails for the same reason: you’re the maintenance worker. Karpathy’s LLM wiki fixes that."
 tags:
   - "clippings"
+  - "system-audit"
 ---
 ### Every PKM tool fails for the same reason: you’re the maintenance worker. Karpathy’s LLM wiki fixes that.
 
