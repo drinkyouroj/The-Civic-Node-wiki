@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, geopolitics]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 2
 ---
 
 ## Overview
@@ -41,6 +41,7 @@ sources: 1
 ## Source Appearances
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — central actor; issued the Easter ultimatum
+- [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — administration defunded federal hospice fraud prevention per Axios reporting; CMS officials publicly attacked California's state enforcement while federal oversight was suspended
 
 ## Open Questions
 

@@ -176,3 +176,128 @@ Set up directory structure and schema. Files created:
 Updated `wiki/index.md`: total pages 46 → 49, sources 4 → 5, entities 17 → 18, concepts 13 → 14.
 
 ---
+
+---
+
+## [2026-04-07] ingest | California revoked over 280 hospice licenses (Gov. press release)
+
+**Source**: State of California, gov.ca.gov, Mar 24, 2026. Author: State of California Governor's office.
+**Raw file**: `raw/News you won't see on Fox News California revoked over 280 hospice licenses, 300 more providers under investigation since Governor Newsom's hospice moratorium.md`
+
+**Pages created**:
+- `wiki/sources/News you won't see on Fox News — California revoked over 280 hospice licenses.md` — state enforcement record predates federal pressure; 280+ revocations, 300+ under investigation, 284 arrests; moratorium since 2021; federal oversight defunded while feds attacked CA
+
+**Pages updated**:
+- `wiki/entities/Gavin Newsom.md` — **new file** (was in index but had no page); signed hospice moratorium 2021; established multi-agency task force; filed civil rights complaint against Oz
+- `wiki/entities/Mehmet Oz.md` — added second source appearance; updated open questions on jurisdictional asymmetry
+- `wiki/entities/Donald Trump.md` — added source appearance; noted federal fraud oversight defunded
+- `wiki/concepts/Regulatory Weaponization.md` — added contradiction flag; hospice evidence complicates "weaponization" framing — may be better characterized as enforcement displacement (withdrawing federal capability while attacking the state that filled the gap)
+
+**Key takeaway**: The federal vs. California hospice enforcement story is an inversion. California built independent enforcement infrastructure years before Trump-era pressure (moratorium 2021, task force before 2026). The Trump administration defunded federal Medicare fraud prevention while CMS officials publicly attacked California's Medi-Cal enforcement — two separate programs with different jurisdiction. The framing of federal enforcement as targeting California omits that California was already enforcing harder than the feds.
+
+Updated `wiki/index.md`: sources 5→6, entities +1 file (Gavin Newsom), total pages updated.
+
+---
+
+## [2026-04-07] update | Published article added — Obsidian Was Never the Problem
+
+**Source**: Published essay, Apr 6, 2026. Author: Justin Hearn. Substack: drinkyouroj.substack.com.
+
+**Pages created**:
+- `wiki/articles/Obsidian Was Never the Problem.md` — PKM failure pattern + Karpathy LLM wiki fix; meta: this essay describes the architecture running this vault
+- `wiki/entities/Andrej Karpathy.md` — Former Tesla AI Director, early OpenAI; originated LLM wiki agent gist
+- `wiki/entities/Vannevar Bush.md` — 1945 "As We May Think" / Memex; intellectual ancestor of associative knowledge retrieval
+- `wiki/concepts/LLM Wiki Agent.md` — Karpathy's architecture: LLM as active maintenance agent; CLAUDE.md + index.md + log.md; operational foundation of this wiki
+- `wiki/concepts/PKM Failure Pattern.md` — why personal knowledge systems collapse: maintenance entropy; the Memex → Obsidian → LLM arc
+
+**Key takeaway**: The essay argues the PKM failure mode is structural (humans can't sustain maintenance) not philosophical. The LLM wiki agent solves it by replacing the human agent with an LLM. Notable: the essay was written by the author of this wiki and describes the exact architecture in operation here.
+
+Updated `wiki/index.md`: articles 14→15 nonfiction, entities +2 (Karpathy, Bush), concepts +2 (LLM Wiki Agent, PKM Failure Pattern), total pages 49→57.
+
+---
+
+---
+
+## [2026-04-07] ingest | Batch ingest — 25 raw sources across 4 clusters
+
+**Session**: Ingested all raw files added to the vault since initial setup. 25 source files processed across 4 thematic clusters.
+
+---
+
+### Cluster A — AI Hidden Labor (11 sources)
+
+**Source pages created:**
+- `wiki/sources/Amazon Just Walk Out — AI Needed Humans to Do the Job Right.md` — Entrepreneur, Apr 2024; Amazon's official response and product pivot
+- `wiki/sources/Amazon's Just Walk Out Technology Relies on Hundreds of Workers in India.md` — Business Insider, Apr 2024; original investigation; 700/1,000 transactions required human review
+- `wiki/sources/Cruise Confirms Robotaxis Rely on Human Assistance Every Four to Five Miles.md` — CNBC, Nov 2023; human operators every 4-5 miles; Cruise permit revoked
+- `wiki/sources/Ghost Work — The Hidden Humans Behind AI.md` — Science Array, Oct 2025; global ghost worker ecosystem; $1-2/hr; psychological harm
+- `wiki/sources/Ghost Work — The Labor That Powers AI.md` — MIT IDE, Apr 2021; Suri/Gray book presentation; $2/hr median; structural not transitional argument
+- `wiki/sources/Ghost Workers in the AI Machine — US Data Worker Conditions Report.md` — AWU-CWA/TechEquity, Sep 2025; US data workers; $22,620/yr median; 25% on public assistance
+- `wiki/sources/Google Search Quality Rater Guidelines — Key Insights About AI Use.md` — Originality.ai, Oct 2025; 16,000 human raters behind Google search
+- `wiki/sources/Human Labor Is Propping Up Some Companies' Fake AI Software.md` — MIT Tech Review, Jul 2018; AI-washing as established practice by 2018
+- `wiki/sources/The Exploited Labor Behind Artificial Intelligence.md` — NOEMAG, Oct 2022; Mechanical Turk etymology; full AI labor stack
+- `wiki/sources/The Hidden Labor That Makes AI Work.md` — Rest of World, Jul 2025; ImageNet as AI's founding labor event; *The AI Con* review
+- `wiki/sources/The Humans Hiding Behind the Chatbots.md` — Bloomberg, Apr 2016; X.ai Amy; earliest major Mechanical Turk Pattern exposure
+
+**New concept page:** `wiki/concepts/Mechanical Turk Pattern.md` — systematic concealment of human labor behind AI branding; named for 1770 chess automaton; includes contradiction flag noting inverse relationship with Leverage Erasure Through Automation.
+
+**New entity page:** `wiki/entities/Amazon.md` — AMT named after original Turk; Just Walk Out; 750K warehouse robots; paradigmatic example of the pattern.
+
+**Updated:** `wiki/concepts/Leverage Erasure Through Automation.md` — added contradiction flag noting the Mechanical Turk Pattern as the inverse dynamic; real automation erases leverage vs. simulated automation invisibilizes workers.
+
+**Key takeaway:** The Mechanical Turk Pattern predates the current AI boom by decades. Bloomberg exposed it in 2016 (X.ai Amy), MIT Tech Review named it in 2018, and Amazon Named their crowdwork platform after the original 1770 automaton. The ImageNet labeling project (2009) that launched deep learning was built by crowdworkers — making human ghost labor *constitutionally* foundational to AI, not a temporary workaround. This is a major theme cluster with deep sourcing.
+
+---
+
+### Cluster B — NFL Seahawks / Super Bowl LX (6 sources)
+
+**Source pages created:**
+- `wiki/sources/Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers.md` — WBAY, Feb 2026; zero-holdover GM wins Super Bowl; Executive of the Year
+- `wiki/sources/Seattle Seahawks Built Right Roster for Coach's Scheme.md` — MyNorthwest, Feb 2026; 90% of starters at career best; multi-channel acquisition
+- `wiki/sources/NFL Insider Details How the Seahawks Built Their Super Bowl Contender.md` — SI.com, Feb 2026; 10-7 → 14-3 → Super Bowl in one offseason
+- `wiki/sources/Seahawks Signing QB Sam Darnold to 3-Year $100.5 Million Contract.md` — NFL.com, Mar 2025; $100.5M/3yr; Vikings renaissance background
+- `wiki/sources/Is the NFL Salary Cap Real or a Mirage.md` — ESPN, Apr 2022; 10 front-office truths; restructuring/void years explained
+- `wiki/sources/NFL Salary Cap — How Parity Has Become Disparity.md` — Bleacher Report, Oct 2009; cap amplifies management quality
+
+**New entity pages:** `wiki/entities/John Schneider.md`, `wiki/entities/Mike Macdonald.md`, `wiki/entities/Sam Darnold.md`
+
+**Updated:** `wiki/articles/Schneider Solved the Salary Cap While Everyone Else Complained.md` — added Payoff section documenting Super Bowl LX win; cross-references to new sources; the essay's thesis played out.
+
+**Key takeaway:** The Seahawks won Super Bowl LX. Schneider became the first GM with zero holdovers to reach the Super Bowl. The Schneider essay's thesis is validated; the dynasty question is now open.
+
+---
+
+### Cluster C — NFL Dynasty (6 sources)
+
+**Source pages created:**
+- `wiki/sources/Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty.md` — ESPN/Barnwell, Jan 2024; year-by-year retrospective; 266-121 record
+- `wiki/sources/Brady vs. Belichick — Who's To Blame For The Patriots' Insufferable Success.md` — FiveThirtyEight, Feb 2017; statistical interdependence thesis
+- `wiki/sources/Brady-Belichick Era Wikipedia.md` — Wikipedia; complete statistical record
+- `wiki/sources/How Do We Define a True NFL Dynasty.md` — Bleacher Report, Jun 2018; definitional framework
+- `wiki/sources/What Makes An NFL Dynasty.md` — Sports History Network, Jul 2023; mathematical framework; 12-14 true dynasties in NFL history
+- `wiki/sources/The NFL and Sample Sizes — It's Not Just the Salary Cap That Creates Parity.md` — EXACT Sports, Jul 2010; variance as primary parity driver
+
+**New concept page:** `wiki/concepts/NFL Dynasty.md` — definition, historical examples, rarity mechanics, Seahawks 2026 as live question.
+
+**New entity page:** `wiki/entities/Bill Belichick.md` — 24-year Patriots tenure; 6 championships; the benchmark for Schneider comparisons.
+
+---
+
+### Cluster D — Vannevar Bush (1 source)
+
+**Source page created:**
+- `wiki/sources/As We May Think.md` — The Atlantic, Jul 1945; Memex concept; primary source
+
+**Updated:** `wiki/entities/Vannevar Bush.md` — added As We May Think as primary source (previously relied on secondary summaries only).
+
+---
+
+### Index & Stats
+
+Updated `wiki/index.md`:
+- Sources: 6 → 31 (+25)
+- Entities: 20 → 27 (+7: Schneider, Macdonald, Darnold, Amazon, Belichick, Bush updated)
+- Concepts: 16 → 18 (+2: Mechanical Turk Pattern, NFL Dynasty)
+- Total pages: 57 → 92 (+35)
+
+---
