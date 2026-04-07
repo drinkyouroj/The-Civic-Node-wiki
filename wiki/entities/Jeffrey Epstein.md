@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, criminal, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 7
 ---
 
 ## Overview
@@ -35,7 +35,14 @@ The Epstein files case is a slow-motion transparency crisis: a bipartisan law, a
 - [[How the Epstein files could affect Trump]] — political risk analysis
 - [[Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes]] — polling
 
+## Source Appearances (continued)
+- [[For Trump, the Epstein Cover-Up Beats the Truth]] — argument that Pam Bondi's Day 1 letter demanding files proves Trump is deliberately suppressing them
+- [[With few Epstein files released, conspiracy theories flourish]] — NPR overview of file release status; 40K released, 1M+ remaining; forged documents in the released set; no FBI witness interview memos released
+- [[Sen. Whitehouse on Congress enormous step forward with Epstein probe]] — House Oversight subpoenaed Les Wexner and estate executors
+
 ## Open Questions
 - What is actually in the files? Has any released content produced new revelations about named individuals?
 - Was the Christmas Eve "discovery" of 1M+ additional documents a genuine oversight or deliberate delay?
 - Will full release occur before Trump's term ends?
+- What did Les Wexner say in his deposition? The Wexner-Epstein relationship has never been fully explained
+- Did the DOJ ever release the FBI witness interview memos naming alleged co-conspirators?

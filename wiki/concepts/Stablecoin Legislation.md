@@ -4,7 +4,7 @@ type: concept
 tags: [politics, monetary-policy, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 14
 ---
 
 ## Definition
@@ -67,9 +67,36 @@ The reserve requirement creates a structural linkage: every dollar of stablecoin
 - [[Petrodollar System]] — historical analog for how reserve currency status works
 - [[Fed Independence]] — banking regulators now have stablecoin oversight; Fed's monetary policy role is affected
 
+## Corporate Adoption Horizon
+
+Multiple sources indicate major corporations are already developing stablecoin strategies in anticipation of GENIUS Act compliance:
+- Bank of America: developing dollar-pegged stablecoin
+- Walmart and Amazon: may issue stablecoins per Bankrate reporting
+- Circle: NYSE IPO completed in 2025 ahead of GENIUS Act signing
+- DAOs and decentralized protocols: explicitly excluded from PPSI framework — cannot issue regulated stablecoins
+
+## FDIC Pre-Legislation Groundwork
+
+The FDIC (under Acting Chairman Travis Hill) rescinded FIL-16-2022 on March 28, 2025, removing the prior-approval requirement for banks engaging in crypto activities. This executive action preceded and enabled the GENIUS Act's banking supervisor framework. The FDIC characterized the prior requirement as "the flawed approach of the past three years." [[FDIC Clarifies Crypto Activities for Banks — FDIC.gov]]
+
+## SEC Pre-Legislation Groundwork
+
+The SEC's Division of Corporation Finance issued a statement on April 4, 2025, declaring that "Covered Stablecoins" (dollar-pegged, 1:1 redemption, liquid reserves) are not securities. This administrative statement preceded the GENIUS Act's statutory non-security classification by months. SEC Commissioner Crenshaw dissented, noting most stablecoin holders can't redeem directly with issuers — a retail consumer gap. [[Securities Enforcement Roundup April 2025 — Morgan Lewis]]
+
+## Bailout Risk
+
+Georgetown's Adam Levitin argues GENIUS Act insolvency priority reform sets up a future government bailout: when a stablecoin fails (as TerraUSD did in 2022), the implied safety framework creates moral hazard. "It sets up a bailout." [[GENIUS Act Impact on Stablecoins and Taxpayers — Bankrate]]
+
 ## Key Sources
 
 - [[GENIUS Act Passes in US Congress — Morgan Lewis Breakdown]]
 - [[Banking Committee Democratic Staff Analysis on Latest GENIUS Act Draft]]
 - [[Bitcoin soars past $120,000 ahead of Crypto Week]]
 - [[Global Regulation of Stablecoins in 2025 — Transfi]]
+- [[GENIUS Act Comprehensive Framework — Goodwin Law]]
+- [[GENIUS Act Framework — Sidley Austin]]
+- [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]]
+- [[FDIC Clarifies Crypto Activities for Banks — FDIC.gov]]
+- [[Securities Enforcement Roundup April 2025 — Morgan Lewis]]
+- [[GENIUS Act Impact on Stablecoins and Taxpayers — Bankrate]]
+- [[Trump EO on Digital Financial Technology — White House]]

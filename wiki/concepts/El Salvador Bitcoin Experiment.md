@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, politics, crypto, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 15
 ---
 
 ## Definition
@@ -56,8 +56,37 @@ El Salvador's experience demonstrates:
 - [[Strategic Bitcoin Reserve]] — U.S. attempt to hold BTC as reserve asset; El Salvador shows the risks
 - [[Petrodollar System]] — contrast: dollar dominance built on oil, not crypto adoption mandates
 
+## Accountability Failures
+
+Cristosal's 2023 report documents governance problems beyond adoption failure:
+- The Fidebitcoin (Bitcoin trust fund) operated with minimal transparency — Cristosal calls it a "black hole for public funds."
+- The Chivo Wallet enrolled citizens using their national IDs without consent, apparently to capture the $30 bonus.
+- The Bitcoin Law was passed on the same day it was presented — no debate, no expert consultation. [[El Salvador y el bitcoin Cristosal 2023]]
+
+## The Volcano Bond Episode
+
+In 2021, Bukele announced a $1 billion "Volcano Bond" — the world's first Bitcoin-denominated sovereign bond. It was intended to bypass the IMF entirely and fund Bitcoin City construction using geothermal energy. The bond was postponed indefinitely in 2022 due to the bear market. Its failure effectively ended the most ambitious phase of the Bitcoin experiment and pushed El Salvador back toward the IMF. [[La adopcion de Bitcoin en El Salvador parece fracasando]]
+
+## Sovereign BTC Portfolio Performance
+
+While Bitcoin failed as a medium of exchange, El Salvador's BTC holdings appreciated dramatically:
+- December 2024: portfolio valued at ~$603M (initial investment ~$269.7M; unrealized gain ~$333M). [[El Salvador President Bitcoin Success Elon Musk Reply]]
+- 7,614 BTC held as of Bitcoin Treasuries data; also mined ~474 BTC via Tecapa volcano geothermal energy. [[El Salvador Bitcoin Holdings and Analysis]]
+- The country is a net financial winner on the speculation side even as the currency experiment failed.
+
 ## Key Sources
 
 - [[Agencia Administradora de Fondos Bitcoin — $212 Million Report]]
 - [[Bitcoin is no longer legal tender in El Salvador — Digital Watch Observatory]]
 - [[Are Cryptocurrencies Currencies — University of Chicago Booth School]]
+- [[El Salvador Bitcoin Holdings and Analysis]]
+- [[El Salvador Macro Poverty Outlook World Bank]]
+- [[El Salvador President Bitcoin Success Elon Musk Reply]]
+- [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]]
+- [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]]
+- [[El Salvador y el bitcoin Cristosal 2023]]
+- [[Fitch Upgrades El Salvador Credit Rating to B- Stable]]
+- [[La adopcion de Bitcoin en El Salvador parece fracasando]]
+- [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]]
+- [[Top 5 Cryptocurrency Apps El Salvador Q1 2024]]
+- [[Un 92 Porciento de Salvadorenos No Uso Bitcoin en 2024]]

@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [music, innovation, systems-design]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 1
+updated: 2026-04-07
+sources: 6
 ---
 
 ## Overview
@@ -31,7 +31,14 @@ Bob Weir (1947-2026), co-founder of Grateful Dead, rhythm guitarist who reinvent
 ## Connections
 
 - [[The Other One Who Became That Guy]] — comprehensive biography essay
+- [[Grateful Dead]] — the band he co-founded in 1965
+- [[Dead & Company]] — most successful post-Garcia continuation; co-led 2015-2023
+- [[Jerry Garcia]] — lifelong musical partner; Weir's harmonic architecture enabled Garcia's melodic improvisation
+- [[John Perry Barlow]] — lyricist; met at school for boys with behavioral problems; wrote many of the Dead's best-known songs together
+- [[John Mayer]] — Dead & Company lead guitarist; effusively praised Weir's originality
 - Pattern parallels: [[Focal Point Coordination]] (musician coordination without explicit agreement); [[Leverage Erasure]] (shadow work enabling visible stars)
+- [[Jam Band Genre]] — Weir's harmonic framework is foundational to the genre he helped create
+- [[Improvisational Music]] — Weir's six principles and guitar philosophy are a practical manual for the practice
 
 ## Open Questions
 
@@ -42,3 +49,9 @@ Bob Weir (1947-2026), co-founder of Grateful Dead, rhythm guitarist who reinvent
 ## Source Appearances
 
 - [[The Other One Who Became That Guy]] — primary subject; detailed analysis of rhythm guitar innovation, career arc, legacy
+- [[Bob Weir the Grateful Dead Co-Founder Reinvented Rhythm Guitar and the Art of the Jam]] — academic obituary; biography, guitar approach, jam band legacy
+- [[Bob Weir Dies at 78 as Tributes Pour in for Grateful Dead Founder]] — news obituary; family statement, tribute roster
+- [[Bob Weir's Final Concert Was a Joyous Celebration of Grateful Dead]] — account of final performance, August 3, 2025, Golden Gate Park
+- [[Bob Weir's Guitar Playing Was Even More Radical Than You Think]] — deepest analytical piece on guitar philosophy; McCoy Tyner influence, Indian classical, songs-as-characters philosophy
+- [[Bob Weir's Six Principles of Rhythm Guitar]] — 1982 Guitar World interview; practical methodology
+- [[Dead and Company by the Numbers Final Tour Totals]] — commercial scale of the band he co-led

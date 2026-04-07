@@ -497,7 +497,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### Nonfiction Essays — NFL & Sports
 - [[Schneider Solved the Salary Cap While Everyone Else Complained]] — Salary cap as optimization puzzle; Seahawks building dynasty through disciplined cap management
 - [[Bad Bunny Just Showed You Where Real Power Lives]] — NFL chose international revenue over domestic politics; fortress walls turned around
-- [[Game Theory Assumes You're a Sociopath. You're Not.]] — Focal point coordination; shared threats enable cooperation without enforcement
+- [[published/Game Theory Assumes You're a Sociopath. You're Not.]] — Focal point coordination; shared threats enable cooperation without enforcement
 - [[Nodes Over Numbers]] — Seahawks 31-49ers 27 NFC Championship; output ≠ outcome; six decision points that sealed the game
 - [[How to Solve a Rival in Three Games]] — Learning systems beat static systems; Seahawks adapted from Week 1 loss to playoff dominance
 - [[The Other One Who Became That Guy]] — Bob Weir's 60-year innovation in "rhythm guitar"; genius hidden in shadow

@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, minnesota, legal, immigration]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 6
 ---
 
 ## Overview
@@ -32,6 +32,9 @@ Ellison represents the institutional counter-strategy to federal overreach: usin
 - [[Attorney General Ellison and cities of Minneapolis and Saint Paul sue to halt ICE surge into Minnesota]] — filing the ICE suit
 - [[Killing of Renée Good - Wikipedia]] — role in the investigation and legal battles
 - [[Minnesota's legal fight against ICE 'Operation Metro Surge']] — broader legal strategy
+- [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — quoted extensively on the investigation breakdown: "Maybe they don't care"
+- [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — the legal ecosystem in which the preliminary injunction sits
+- [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — parallel legal strategy to his AG suit
 
 ## Open Questions
 - Did Ellison's state-level investigations produce any indictments or convictions?

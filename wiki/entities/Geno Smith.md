@@ -37,6 +37,7 @@ Quarterback; played for the Seattle Seahawks from 2019 to 2024. Named starting Q
 
 - [[24 Numbers That Sum Up the Seahawks 2024 Season]] — Smith's franchise records and weaknesses detailed
 - [[Seahawks Signing QB Sam Darnold to 3-Year $100.5 Million Contract]] — Smith's departure and replacement
+- [[Seahawks Are Biggest Threat to Overthrow the NFC]] — detailed cap comparison: Smith's $40M cap hit vs. Darnold's $13.4M; $18.5M guaranteed for Smith in 2026 vs. $0 for Darnold; "Geno now leads the NFL in interceptions (7) after another rough start in Week 4" with Raiders
 
 ## Open Questions
 

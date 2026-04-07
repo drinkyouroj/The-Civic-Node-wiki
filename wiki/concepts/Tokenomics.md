@@ -4,7 +4,7 @@ type: concept
 tags: [technology, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 10
 ---
 
 ## Definition
@@ -64,3 +64,9 @@ For [[DePIN]] protocols, tokenomics is the mechanism that converts physical infr
 - [[Render RENDER Tokenomics — Tokenomist]]
 - [[Gala GALA CoinMarketCap]]
 - [[Why DePIN Matters — a16z crypto]] — token subsidy mechanics explained
+- [[Understanding Bitcoins 21 Million Cap]] — foundational case study in fixed supply tokenomics
+- [[Gala Games Founder Node Staking Whats Changing]] — complex staking redesign with $GSTAKE
+- [[Pump.fun Eyes 1B Token Sale 4B Valuation Memecoin]] — tokenomics of a memecoin launchpad
+- [[Most Crypto Scams on BNB Chain Solidus Labs]] — how scam contracts exploit token launch mechanics
+- [[Solana Project CEO Sybil Attackers Gamed Metric io.net]] — airdrop incentives creating sybil attack incentives
+- [[VWA Crypto Surges on Simpson Prediction Red Flags]] — insider concentration as tokenomics red flag

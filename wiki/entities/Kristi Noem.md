@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, immigration, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 7
 ---
 
 ## Overview
@@ -31,6 +31,11 @@ Noem's role illustrates how DHS operates as a political communications office as
 ## Source Appearances
 - [[Killing of Renée Good - Wikipedia]] — her claims vs. video evidence
 - [[Operation Metro Surge - Wikipedia]] — DHS's public framing of the operation
+- [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — Fox News live blog; Noem's "domestic terrorism" label; "experienced officer who followed his training"
+- [[ICE Officer Who Shot Woman in Minneapolis Was Dragged and Injured in Prior Incident CNN]] — Noem's defense of Ross; "experienced officer who followed his training"
+- [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — Noem stated state officials "don't have any jurisdiction in this investigation"
+- [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — DHS claimed agents used "minimum amount of force necessary" against "dangerous rioters"
+- [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — named as defendant in Hussen v. Noem
 
 ## Open Questions
 - Has any of Noem's public misinformation about the Good killing been corrected or retracted?

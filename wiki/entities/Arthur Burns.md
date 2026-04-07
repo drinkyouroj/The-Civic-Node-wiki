@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 6
 ---
 
 ## Overview
@@ -47,9 +47,12 @@ Arthur Burns served as Federal Reserve Chair from 1970 to 1978 under Presidents 
 - [[Column Paul Volcker's legacy, an independent Federal Reserve, is under threat]] — PBS NewsHour; Burns as negative archetype to Volcker
 - [[The Great Inflation]] — Fed history essay; Burns's role in the Great Inflation (1965–1982)
 - [[Memories of the 1970s haunt the Fed, pushing its aggressive rate moves]] — NPR; Burns invoked as cautionary tale
+- [[Rethinking Arthur Burns the Worst Fed Chair in History]] — Democracy Journal revisionist essay; argues Burns was more principled and adversarial toward Nixon than the standard narrative holds; credits him with inventing modern systemic risk management (Penn Central 1970, Franklin National 1974)
 
 ## Open Questions
 
 - Would Burns have behaved differently if Nixon hadn't had such personal leverage over him?
 - Is the revisionist defense of Burns (fragile financial system, supply shocks) compelling enough to partially rehabilitate his record?
 - How much of the Great Inflation was attributable to Burns specifically vs. structural forces he couldn't control?
+
+> ⚠️ Contradiction: The "Rethinking Arthur Burns" source (Democracy Journal, 2022) presents a revisionist case significantly complicating the standard narrative. Burns is portrayed as frequently in open conflict with Nixon, as having principled reasons for keeping rates lower than orthodox economists preferred (financial system fragility, desire to avoid social unrest), and as the pioneer of systemic risk management. The revisionist view: Burns's real failure was not political capitulation but an overcommitment to fiscal/regulatory tools that Congress never deployed. See [[Rethinking Arthur Burns the Worst Fed Chair in History]] for full argument.

@@ -2,10 +2,10 @@
 title: "European Union"
 type: entity
 entity_type: organization
-tags: [politics, technology, legal, power]
+tags: [politics, technology, legal, power, crypto, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 5
 ---
 
 ## Overview
@@ -33,10 +33,24 @@ The EU is the primary state actor shaping global digital and AI governance. The 
 - [[Tech-State Conflict]] — EU regulation as primary state challenge to US tech dominance
 - [[AI Sovereignty]] — EU seeking technological independence and regulatory leadership
 
+## MiCA: Markets in Crypto-Assets Regulation
+
+The EU's Markets in Crypto-Assets (MiCA) regulation came into full force in December 2024, establishing the world's first comprehensive crypto regulatory framework before the U.S. GENIUS Act (July 2025). MiCA:
+- Covers stablecoins (asset-referenced tokens and e-money tokens)
+- Sets reserve requirements for stablecoin issuers
+- Establishes CASP (Crypto Asset Service Provider) licensing
+- Applies to all 27 EU member states simultaneously
+
+The GENIUS Act's foreign issuer provisions give Treasury authority to determine whether regimes like MiCA are "comparable" to U.S. standards — meaning EU stablecoin issuers may be able to operate in the U.S. if Treasury grants comparability.
+
+Industry leaders (Coinbase, Kraken, CCI) cited EU's MiCA framework as proof the U.S. was "falling behind" — a key argument for passing GENIUS/CLARITY. [[CLARITY Act Industry Support — House Financial Services Committee]]
+
 ## Source Appearances
 - [[EU AI Act — First Regulation on Artificial Intelligence]] — primary AI regulation framework
 - [[Apple Hit with EU Antitrust Complaint Over App Store Policies]] — DMA enforcement
 - [[Echo Chamber Research Systematic Review]] — DSA as research enabler
+- [[Crypto Week Kicks Off — Global Government Fintech]] — MiCA as comparable/competing framework to GENIUS Act
+- [[CLARITY Act Industry Support — House Financial Services Committee]] — EU cited as ahead on crypto regulation; argument for U.S. action
 
 ## Open Questions
 - How effectively can the EU AI Office enforce the AI Act against US companies?

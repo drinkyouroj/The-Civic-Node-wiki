@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 17
 ---
 
 ## Overview
@@ -45,6 +45,15 @@ Metro Surge is the clearest recent example of [[Sanctuary Infrastructure]] under
 - [[Minnesota community split on ICE surge Polling]] — public opinion
 - [['They're trying to break us' Trump's focus on Minnesota boils over with ICE shooting]] — political context
 - [[New ICE tactic - churches]] — churches as enforcement and sanctuary sites
+- [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — class-action civil rights suit challenging racial profiling; Hussen case illustrates suspicionless arrest of U.S. citizen
+- [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — preliminary injunction restricting pepper spray, protester arrests, and vehicle stops during the operation
+- [[A Majority of Voters Are Unfavorable of ICE, Are Divided on What Abolish ICE Means]] — polling data showing ICE favorability flipped during operation
+- [[Fox News Poll 59 Percent of Voters Say ICE Is Too Aggressive]] — 10-point shift in "too aggressive" rating since July 2025
+- [[Poll 63 Percent Disapprove of ICE Trump Approval at 34 Percent UPI]] — NYT/Siena poll; 63% disapprove, 61% say tactics gone too far
+- [[Today More Americans Support Than Oppose Abolishing ICE YouGov]] — first time "abolish ICE" support exceeded opposition in YouGov history
+- [[DOJ Investigating After Activists Disrupt St Paul Church Where MN ICE Official Is a Pastor]] — church protest against Pastor Easterwood who directs the St. Paul ICE field office
+- [[Protesters Disrupt Southern Baptist Church of Pastor Who Leads ICE Office Minnesota]] — detailed inside account of the Cities Church protest
+- [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — Fox News live blog; contemporaneous record of administration narrative construction Jan. 8
 
 ## Open Questions
 - What happened to the Feeding Our Future fraud prosecutions after the lead prosecutors resigned?

@@ -5,7 +5,7 @@ entity_type: asset
 tags: [monetary-policy, crypto, stablecoin, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 4
 ---
 
 ## Overview
@@ -37,6 +37,9 @@ Tether is the most important test case for whether stablecoin regulation can act
 ## Source Appearances
 
 - [[Banking Committee Democratic Staff Analysis on Latest GENIUS Act Draft]] — cited as "new kingpin of illicit crypto activity"; "Tether loophole" named after it
+- [[GENIUS Act Impact on Stablecoins and Taxpayers — Bankrate]] — Tether holds T-bills, Bitcoin, and gold in reserves; third-largest crypto by market cap
+- [[GENIUS Act Comprehensive Framework — Goodwin Law]] — foreign issuer framework; Tether must register with OCC, hold U.S. reserves, be subject to comparable regime
+- [[What is Crypto Week — Al Jazeera]] — foreign issuer risk; stablecoin reserve quality concerns
 
 ## Open Questions
 

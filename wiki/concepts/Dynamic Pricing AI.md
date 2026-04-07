@@ -4,7 +4,7 @@ type: concept
 tags: [technology, ai, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 4
 ---
 
 ## Definition
@@ -21,6 +21,8 @@ Dynamic pricing AI creates a fundamental power asymmetry in market transactions:
 - CMU research: personalized ranking systems (which require personalized pricing to work optimally) may harm consumer welfare by reducing price elasticity and enabling tacit collusion [[AI-Driven Personalized Pricing May Not Help Consumers]]
 - Tacit collusion mechanism: AI pricing algorithms independently discover that higher prices are an equilibrium — no explicit coordination needed, but antitrust law wasn't written for this [[AI-Driven Personalized Pricing May Not Help Consumers]]
 - Regulatory compliance required: AI pricing must navigate GDPR, EU AI Act, anti-price discrimination laws, consumer protection laws, price disclosure requirements [[AI for Dynamic Pricing — Apriorit]]
+- Delta Air Lines: 18-month Fetcherr pilot; 3% of domestic routes as of Q2 2025; targeting 20% coverage by year-end 2025; company explicitly acknowledges regulatory scrutiny risk on transparency/fairness [[Delta Air Lines AI Pricing with Fetcherr — Early Results]]
+- Microsoft-OpenAI compute exclusivity as pricing weapon: Microsoft's control over Azure supply inflated ChatGPT API tokens 100–200x versus competitors; resolved when OpenAI gained alternative compute and immediately cut prices 80% [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]]
 
 ## Tensions & Counterarguments
 - Industry claims: dynamic pricing benefits consumers through better inventory management, reduced waste, off-peak deals
@@ -39,3 +41,4 @@ Dynamic pricing AI creates a fundamental power asymmetry in market transactions:
 - [[AI and the Future of Dynamic Pricing — Entefy]]
 - [[AI for Dynamic Pricing — Apriorit]]
 - [[AI-Driven Personalized Pricing May Not Help Consumers]]
+- [[Delta Air Lines AI Pricing with Fetcherr — Early Results]] — real-world airline deployment; 3% of Delta domestic routes in 2025, targeting 20% by year-end; industry acknowledges regulatory scrutiny risk

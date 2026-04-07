@@ -4,7 +4,7 @@ type: concept
 tags: [technology, power, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 5
 ---
 
 ## Definition
@@ -37,3 +37,6 @@ The scale of intimate data now held by consumer AI applications — mental healt
 ## Key Sources
 - [[AI Girlfriend Apps Leak Millions of Private Chats]]
 - [[EU AI Act — First Regulation on Artificial Intelligence]]
+- [[FTC Bans BetterHelp from Sharing Mental Health Data with Advertisers]] — definitive case study: therapy platform used psychiatric intake data as Facebook ad targeting raw material; first FTC consumer health data refund action
+- [[CCPA Strikes Back — Tractor Supply $1.35 Million Fine]] — largest CCPA enforcement action to date; retroactive investigation authority confirmed; job applicants protected
+- [[California Targets Tractor Supply's Tricky Tracking — EFF]] — Global Privacy Control violation; private right of action gap; consumer complaints as enforcement trigger

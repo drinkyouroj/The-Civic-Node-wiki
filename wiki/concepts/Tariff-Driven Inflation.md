@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, economics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 8
+sources: 12
 ---
 
 ## Definition
@@ -33,6 +33,9 @@ Tariff-driven inflation is price-level increases caused by government-imposed im
 - Stellantis: projected $2.7B loss H1 2025 [[Stellantis warns of $2.7 billion loss for 1st half of 2025 due to tariffs and some big charges]]
 - Michigan: $3.3B in tariff-related costs hitting state companies in first 5 months of 2025 [[Online resource center offers help for Washtenaw County businesses struggling with tariff impacts]]
 - Powell: "Essentially all inflation forecasts for the United States went up materially as a consequence of the tariffs" [[Trump's tariffs kept Fed from cutting rates, Jerome Powell says]]
+- PWBM national modeling: ~6% long-run GDP reduction; ~5% wage reduction; $22,000 lifetime loss for middle-income household; 2x more damaging than equivalent corporate tax increase [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]]
+- Michigan auto sector: ~13.8% average effective rate on imported parts post-reimbursement; ~$6,220 average vehicle price increase; ~200,000 unit/year domestic production reduction [[Michigan Economic Outlook 2025-2027 Executive Summary]]
+- Q1 2025 GDP: -0.3% annualized; import surge (tariff front-running) was primary drag; H1 2025 average growth ~1.25% vs. 2.8% in 2024 [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]]
 
 ## The Fed's Dilemma
 
@@ -50,6 +53,7 @@ Powell's framing: "A reasonable base case is these are one-time price effects" â
 - **Negotiating tool**: Some tariffs were reduced or paused via deals (Japan: 25% â†’ 15%; auto parts partial exemptions). The final tariff level is uncertain.
 - **One-time vs. sustained**: A tariff that raises prices once is not the same as a sustained inflation dynamic. If firms absorb the shock and prices stabilize, the Fed can declare victory.
 - **China decoupling**: Some tariff-driven cost increases represent intentional supply chain reshoring â€” a structural choice accepting higher near-term costs for reduced long-term dependency.
+- **M2 money supply evidence**: M2 contracted year-over-year throughout 2023 while inflation remained elevated â€” supporting the supply-shock rather than demand-pull diagnosis. Tariff inflation is not primarily a monetary phenomenon. [[US M2 Money Supply YoY Historical Data]]
 
 ## Related Concepts
 
@@ -66,3 +70,8 @@ Powell's framing: "A reasonable base case is these are one-time price effects" â
 - [[General Motors profit drops 35% as Trump tariffs hit car industry]]
 - [[Stellantis warns of $2.7 billion loss for 1st half of 2025 due to tariffs and some big charges]]
 - [[Federal Reserve holds its benchmark rate steady at today's FOMC meeting]]
+- [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]]
+- [[Michigan Economic Outlook 2025-2027 Executive Summary]]
+- [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]]
+- [[Trump announces massive trade deal with Japan Al Jazeera]]
+- [[US M2 Money Supply YoY Historical Data]]

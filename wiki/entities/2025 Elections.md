@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, power, elections]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 12
 ---
 
 ## Overview
@@ -38,7 +38,27 @@ The 2025 elections are a data point in the [[Thermostatic Principle]] — the co
 - [[What's at stake in the 2025 elections]] — pre-election stakes analysis
 - [[The New York special election and the political climate]] — NY special election context
 
+## Key Facts (additions)
+- Beyond marquee races: Democrats flipped Georgia PSC seats (first nonfederal statewide wins since 2006); swept PA bellwether counties; broke Mississippi GOP supermajority [[Democrats 2025 election wins go beyond big races]]
+- Latino voters: Spanberger and Sherrill both won Latinos 2-to-1; NJ Passaic County swung 18 points from Trump to Sherrill [[Democrats had a big night — 5 takeaways from the 2025 elections]]
+- Virginia went for Spanberger 57.4%-42.4% — largest Democratic margin in VA governor race in decades [[Democrat Abigail Spanberger wins Virginia governor's race]]
+- Spanberger won independents by 19 points; Sherrill by 13 — independents who gave Youngkin his 2021 win flipped [[Democrats had a big night — 5 takeaways from the 2025 elections]]
+- Day 36 of shutdown: shutdown became longest in US history on Nov. 5 (beat Trump's own first-term record) [[Supreme Court hears tariff arguments; government shutdown becomes record longest]]
+- Newsom raised $120M for Prop 50; Obama, AOC featured in ads; called it a counter to Trump-directed TX/NC/MO gerrymandering [[California voters OK new congressional lines boosting Democrats]]
+- Republican reaction: Cruz called it "an electoral blowout"; Vance said "idiotic to overreact" but acknowledged turnout problem [[Democrats sweep the first major elections of Trump's second term]]
+
+## Source Appearances (additions)
+- [[Democrats had a big night — 5 takeaways from the 2025 elections]] — five-takeaway framework; Latino reversal; identity tension
+- [[Democrats sweep the first major elections of Trump's second term]] — live coverage; post-election statements; GOP nationalizing Mamdani
+- [[Democrats 2025 election wins go beyond big races]] — down-ballot wins; Georgia, Pennsylvania, Mississippi
+- [[Democrat Abigail Spanberger wins Virginia governor's race]] — primary VA coverage
+- [[Democrat Abigail Spanberger to make history as Virginia's 1st female governor]] — ABC exit poll data
+- [[Virginia results map shows where Abigail Spanberger won election]] — geographic breakdown; Sabato commentary
+- [[California voters OK new congressional lines boosting Democrats]] — Prop 50 primary coverage
+- [[Supreme Court hears tariff arguments; government shutdown becomes record longest]] — Cruz "blowout" quote; shutdown record context
+
 ## Open Questions
 - Did Mamdani's housing and climate platform translate into actual governing priorities?
 - How did California's Prop 50 redistricting ultimately shift the House map heading into 2026?
 - Did the Democrats' 2025 wins translate into the anticipated 2026 midterm wave?
+- Did Spanberger's redistricting authority produce 4 new House seats?

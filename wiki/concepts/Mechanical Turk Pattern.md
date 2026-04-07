@@ -4,7 +4,7 @@ type: concept
 tags: [technology, ai, labor, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 12
 ---
 
 ## Definition
@@ -64,3 +64,5 @@ The pattern has three elements:
 - [[Cruise Confirms Robotaxis Rely on Human Assistance Every Four to Five Miles]]
 - [[The Exploited Labor Behind Artificial Intelligence]]
 - [[The Hidden Labor That Makes AI Work]]
+- [[Ghost Work — The Hidden Humans Behind AI (Science Array)]] — global offshore ghost work ecosystem; psychological harm; subcontracting architecture for plausible deniability
+- [[Ghost Workers in the AI Machine — US Data Workers Report]] — US-based ghost workers earning median $22,620/year; 25% on public assistance; domestic supply chain identical to offshore

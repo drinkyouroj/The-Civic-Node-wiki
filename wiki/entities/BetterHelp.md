@@ -2,10 +2,10 @@
 title: "BetterHelp"
 type: entity
 entity_type: organization
-tags: [mental-health, technology]
+tags: [mental-health, technology, data-privacy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 ---
 
 ## Overview
@@ -26,7 +26,8 @@ BetterHelp's privacy scandal illustrates the structural tension in commercial me
 - [[Therapist Shortage]] — BetterHelp's growth was partly driven by the gap between mental health demand and traditional provider supply
 
 ## Source Appearances
-- FTC enforcement action (raw file not readable due to filename encoding); FTC Ban documented in cluster list
+- [[FTC Bans BetterHelp from Sharing Mental Health Data with Advertisers]] — primary FTC press release documenting the enforcement action, settlement terms, and consumer harm
+- [[HHS OCR Breach Portal — Health Data Breaches]] — regulatory context: BetterHelp's conduct was FTC (not HIPAA) jurisdiction, illustrating the regulatory gap in commercial mental health app oversight
 
 ## Open Questions
 - What is BetterHelp's current data sharing policy post-FTC settlement?

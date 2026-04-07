@@ -4,7 +4,7 @@ type: concept
 tags: [politics, power, immigration, infrastructure, religion]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 12
 ---
 
 ## Definition
@@ -39,3 +39,9 @@ During [[Operation Metro Surge]], sanctuary infrastructure became a frontline de
 - [[DOJ probing protesters group that disrupted services at church with ICE pastor]]
 - [[Don Lemon arrested after covering protest at Minnesota church]]
 - [[Protest outside ICE detention center]]
+- [[Protesters Disrupt Southern Baptist Church of Pastor Who Leads ICE Office Minnesota]] — inside account of the Cities Church protest; theological framing of sanctuary as moral imperative
+- [[DOJ Investigating After Activists Disrupt St Paul Church Where MN ICE Official Is a Pastor]] — Easterwood's dual role; DOJ's immediate FACE Act investigation as counter-move
+- [[Former CNN Anchor Don Lemon Appears in Court After Arrest Over Church Protest]] — FACE Act weaponized against journalists in sanctuary-adjacent space
+- [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — racial profiling creates the demand for sanctuary infrastructure
+- [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — judicial protection for protest/observation activity that supports sanctuary function
+- [[A Majority of Voters Are Unfavorable of ICE, Are Divided on What Abolish ICE Means]] — public opposition to ICE creates political space for sanctuary politics

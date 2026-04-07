@@ -4,7 +4,7 @@ type: concept
 tags: [technology, legal, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 5
 ---
 
 ## Definition
@@ -17,7 +17,8 @@ Platform antitrust is where political power and tech power most directly collide
 - UK Competition Appeal Tribunal: Apple has monopoly over iOS app distribution and in-app payments; charged excessive commissions October 2015–2020; liable for up to £1.5B in damages [[Apple Loses UK Antitrust Lawsuit Over App Store Fees]]
 - EU Digital Markets Act: Apple's €1M SBLC requirement for App Store access challenged as DMA violation; civil rights groups filed complaint [[Apple Hit with EU Antitrust Complaint Over App Store Policies]]
 - FTC antitrust case against Meta: Facebook's acquisitions of Instagram and WhatsApp were allegedly anticompetitive; case ongoing [[Meta]]
-- Microsoft-OpenAI deal: sued on antitrust grounds for exclusive AI partnership [[OpenAI]]
+- Microsoft-OpenAI antitrust suit: class action filed October 2025 alleging Microsoft's Azure exclusivity clause artificially inflated ChatGPT prices 100–200x; OpenAI held 82.65% of consumer generative AI market (HHI: 6,916); compute infrastructure framed as "AI Computational Barrier to Entry" [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]]
+- Proof of harm: When OpenAI gained Google compute access in June 2025 (ending Microsoft exclusivity), ChatGPT prices dropped 80% immediately; long-delayed features launched [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]]
 - CMU research: algorithmic pricing systems can engage in tacit collusion without explicit coordination — a new form of anticompetitive behavior that existing antitrust law wasn't designed to address [[AI-Driven Personalized Pricing May Not Help Consumers]]
 - EU DMA gatekeeper designation: Apple, Meta, Google, Amazon, Microsoft, TikTok all subject to structural behavioral requirements
 
@@ -39,3 +40,4 @@ Platform antitrust is where political power and tech power most directly collide
 - [[Apple Hit with EU Antitrust Complaint Over App Store Policies]]
 - [[AI-Driven Personalized Pricing May Not Help Consumers]]
 - [[Fueling the Fire — Social Media and Political Polarization]]
+- [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]] — compute infrastructure as antitrust leverage; AI Computational Barrier to Entry; 82% market concentration; class action filed October 2025

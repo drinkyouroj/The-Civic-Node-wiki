@@ -4,7 +4,7 @@ type: concept
 tags: [technology, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 6
 ---
 
 ## Definition
@@ -21,6 +21,9 @@ Algorithmic radicalization is the mechanism connecting platform business models 
 - California SB 771: legislation to allow civil rights lawsuits against platforms for algorithmic contribution to hate and harassment [[If Hate-Fueled Algorithms Cause Real-World Harm, California's Tech Companies Should Pay]]
 - **Counter-evidence**: systematic review of 129 echo chamber studies finds no consensus on whether echo chambers exist or affect behavior — methodological dependency is significant [[Echo Chamber Research Systematic Review]]
 - [[TikTok]] and instant messaging platforms underexplored in radicalization research despite significant political content [[Echo Chamber Research Systematic Review]]
+- Memes as the content layer: ISD documents how extreme-right memes use humor and irony to "lower the barrier for participation in extreme ideologies"; prolonged exposure normalizes hateful content [[Memes and the Extreme Right Wing — ISD Explainer]]
+- Overton Window mechanism: progressive ironic exposure to extremist content via memes moves those positions into mainstream consciousness; documented in "red-pilling" Discord logs from Charlottesville [[Memes and the Extreme Right Wing — ISD Explainer]]
+- Journalism legitimacy crisis: 78-study systematic review finds algorithmic curation reshapes "newsworthiness" as "shareworthiness"; journalists self-censor to avoid algorithmic suppression [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]]
 
 ## Tensions & Counterarguments
 - The 129-study systematic review finds methodological splits: computational methods support radicalization hypothesis; surveys challenge it. The "science is settled" framing is overconfident.
@@ -41,3 +44,5 @@ Algorithmic radicalization is the mechanism connecting platform business models 
 - [[Echo Chamber Research Systematic Review]]
 - [[If Hate-Fueled Algorithms Cause Real-World Harm, California's Tech Companies Should Pay]]
 - [[2024 Deepfakes and Election Disinformation Report]]
+- [[Memes and the Extreme Right Wing — ISD Explainer]] — content-layer mechanism; humor/irony as Overton Window tool; Christchurch as meme-terrorism case study
+- [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]] — journalism-specific evidence; "shareworthiness" replacing newsworthiness; self-censorship by journalists; 78-study systematic review

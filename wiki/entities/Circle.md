@@ -5,7 +5,7 @@ entity_type: organization
 tags: [monetary-policy, crypto, stablecoin, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 5
 ---
 
 ## Overview
@@ -42,6 +42,9 @@ The IPO filing is a direct bet that the regulatory framework will drive the stab
 
 - [[Circle Internet Financial Overview]] — company background
 - [[Circle Publicly Files for IPO]] — 2025 IPO filing
+- [[GENIUS Act Federal Framework for Stablecoin Issuers — Pillsbury]] — Circle's NYSE IPO cited as proof of stablecoin industry legitimacy; "vastly outperformed expectations"
+- [[What is Crypto Week — Al Jazeera]] — implied as primary compliant U.S. stablecoin issuer
+- [[GENIUS Act Impact on Stablecoins and Taxpayers — Bankrate]] — contrast with Tether's non-cash reserves
 
 ## Open Questions
 

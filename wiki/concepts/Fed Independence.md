@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 12
+sources: 20
 ---
 
 ## Definition
@@ -22,12 +22,16 @@ When presidents pressure the Fed to cut rates for political benefit (election cy
 - **Trump I vs. Powell (2018-2019)**: Trump publicly attacked Powell for rate hikes; Powell maintained independence.
 - **Trump II vs. Powell (2025)**: More aggressive campaign — personal insults on Truth Social, physical confrontation at Fed HQ, threats of removal. Fed held rates steady five consecutive meetings despite pressure.
 
-## The 2025 Flashpoints
+## The 2025–2026 Flashpoints
 
 1. **July 31, 2025**: Fed holds rates at 4.3% for fifth straight meeting. Trump posts that Powell is "TOO LATE... TOO ANGRY, TOO STUPID, & TOO POLITICAL."
 2. **July 24, 2025**: Trump visits Fed construction site with Powell; publicly disputes building renovation cost ($3.1B vs. Fed's $2.5B figure). Powell pushes back on camera.
 3. Rate held steady despite tariff-driven inflation rising to 2.6% YoY in June 2025 (core at 2.8%).
 4. Two Fed governors (Waller, Bowman) dissented in favor of cuts — first dual governor dissent in over 30 years.
+5. **September 2025**: Trump appointee Stephen Miran installed; dissented on his first meeting for a 50-bps cut vs. the 25-bps majority. Trump also attempted to fire Governor Lisa Cook (a Biden appointee); federal courts blocked the move. [[Fed approves quarter-point rate cut September 2025 CNBC]]
+6. **October 2025 shutdown**: BLS furloughed, denying the Fed September jobs data ahead of its October meeting. The government shutdown compounded the Fed's data blind spot. [[Government shutdown could delay economic reports NPR October 2025]]
+7. **March 2026**: Rate held at 3.5%–3.75%; dot plot revised to show fewer 2026 cuts. Core PCE projected at 2.7% — persistently above target. [[US Fed Funds Rate CME FedWatch April 2026]]
+8. **Arthur Burns revisionism**: New scholarly analysis argues Burns was more adversarial toward Nixon than the standard narrative holds, and that his "all-of-government" anti-inflation approach was principled rather than capitulatory. Complicates the simple "independence good, capture bad" framing. [[Rethinking Arthur Burns the Worst Fed Chair in History]]
 
 ## Why the Fed Isn't Cutting
 
@@ -55,3 +59,9 @@ The Federal Reserve Act gives Fed governors "for cause" removal protection, but 
 - [[Trump calls Powell "too stupid" — Times of India]]
 - [[Paul Volcker's legacy — PBS]]
 - [[The cautionary tale of Richard Nixon vs. his Fed chair]]
+- [[Rethinking Arthur Burns the Worst Fed Chair in History]]
+- [[Fed approves quarter-point rate cut September 2025 CNBC]]
+- [[Federal Reserve issues FOMC statement June 18 2025]]
+- [[Powell holds rates July 2025 Times of India]]
+- [[Government shutdown could delay economic reports NPR October 2025]]
+- [[US Fed Funds Rate CME FedWatch April 2026]]

@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl, seahawks, wide-receiver]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 7
 ---
 
 ## Overview
@@ -16,8 +16,9 @@ Wide receiver for the Seattle Seahawks. Selected 20th overall in the 2023 NFL Dr
 
 - Selected 20th overall in 2023 by Seattle (pick acquired via Russell Wilson trade from Denver) [[Seattle Seahawks Built Right Roster for Coach's Scheme]]
 - 2024 season (Year 2): 1,130 receiving yards — franchise-record 7 straight games with 70+ yards (Weeks 8-15); one of 73 players since 1970 to reach 1,100 yards in their first or second season [[24 Numbers That Sum Up the Seahawks 2024 Season]]
-- 2025 season: led the NFL in receiving yards
-- NFC Championship (Jan 25, 2026): 10 catches, 153 yards, 1 TD — 2nd most receiving yards by a Seahawk in any playoff game [[NFC Championship — Seahawks 31 Rams 27]]
+- 2025 regular season: 119 catches (franchise record), 1,793 yards, 10 TDs — led the NFL in receiving yards [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]]; set franchise single-season receptions record (104) in Week 16 vs. Rams [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]]
+- NFC Championship (Jan 25, 2026): 10 catches, 153 yards, 1 TD — 2nd most receiving yards by a Seahawk in any playoff game; 5 of 7 targets thrown 10+ yards downfield [[NFC Championship — Seahawks 31 Rams 27]] [[NFC Championship — ESPN Game Analysis]]
+- Pro Bowl selection in 2025 (2nd overall); also candidate for Offensive Player of the Year [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]]
 - Part of the "third-year weapons" group on the 2025 roster — alongside Devon Witherspoon, Zach Charbonnet — that came from the franchise-changing 2023 draft class
 
 ## Newsletter Relevance

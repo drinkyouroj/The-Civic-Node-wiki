@@ -4,7 +4,7 @@ type: concept
 tags: [nfl, salary-cap, power, systems-thinking, finance]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 7
 ---
 
 ## Definition
@@ -23,7 +23,8 @@ The salary cap is the central competitive variable in the NFL. Every team has ap
 
 ## Evidence & Examples
 
-- **The Schneider Model**: Seattle signed [[Sam Darnold]] at $33M/yr — below market for a Super Bowl QB — and surrounded him with rookie-deal players. The cap space freed by cutting [[DK Metcalf]] and Tyler Lockett funded better scheme fits at lower costs [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]]
+- **The Schneider Model**: Seattle signed [[Sam Darnold]] at $33M/yr ($13.4M cap hit in 2025) — below market for a Super Bowl QB — and surrounded him with rookie-deal players. The cap space freed by cutting [[DK Metcalf]] and Tyler Lockett funded better scheme fits at lower costs [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]]. Crucially, $0 guaranteed for Darnold in 2026 vs. Geno Smith's $18.5M guaranteed — Schneider built in an exit door [[Seahawks Are Biggest Threat to Overthrow the NFC]]
+- **Rashid Shaheed acquisition**: Acquired mid-season (trade deadline) for 4th and 5th round picks; immediately became a Pro Bowl kick returner with 2 return TDs in 7 games with Seattle [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]]
 - **The Rams Model (counter-example)**: Los Angeles absorbed high-salary players via trade and restructured contracts to defer obligations. Won Super Bowl LVI, then faced cap hell — trading away draft picks and releasing players for years afterward [[Is the NFL Salary Cap Real or a Mirage]]
 - **The Patriots Model**: Belichick consistently found value in discarded veterans (low cap cost, high production) and refused to overpay any player — similar to Schneider but without Schneider's rebuild-while-winning track record
 - **Rookie deals as hidden assets**: Players on their first 4-year deals are often drastically underpaid relative to their production. Identifying and developing these players (Witherspoon, JSN, Zabel) is the highest-return cap activity. [[Seattle Seahawks Built Right Roster for Coach's Scheme]]

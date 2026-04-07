@@ -4,7 +4,7 @@ type: concept
 tags: [politics]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 5
 ---
 
 ## Definition
@@ -32,6 +32,19 @@ Coalition fracture is the process by which a political coalition — built aroun
 - [[Coercive Diplomacy]] — the war posture driving the fracture
 - [[Donald Trump]] — the center of the fracturing coalition
 
+## Evidence & Examples (continued)
+
+**2025 Elections: Republican Coalition Failure Without Trump**
+- Virginia: independents went for Spanberger by 19 points; Trump won independents in 2021 with Youngkin [[Democrats had a big night — 5 takeaways from the 2025 elections]]
+- New Jersey: independents went for Sherrill by 13 points [[Democrats had a big night — 5 takeaways from the 2025 elections]]
+- Latino voters: Spanberger and Sherrill both won Latinos 2-to-1; NJ Passaic County (nearly half Latino, Trump won +3 in 2024) went for Sherrill by +15 — 18-point swing [[Democrats had a big night — 5 takeaways from the 2025 elections]]
+- Sen. Ted Cruz: called results "an electoral blowout"; "the left showed up in big numbers and common sense conservatives did not" [[Supreme Court hears tariff arguments; government shutdown becomes record longest]]
+- Vance: "idiotic to overreact to a couple of elections in blue states" but warned GOP must "do better at turning out voters" — acknowledged structural problem [[Democrats sweep the first major elections of Trump's second term]]
+
 ## Key Sources
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
+- [[Democrats had a big night — 5 takeaways from the 2025 elections]] — Latino reversal; independent collapse; structural turnout problem
+- [[Democrats sweep the first major elections of Trump's second term]] — Republican reactions; Vance and Cruz statements
+- [[Supreme Court hears tariff arguments; government shutdown becomes record longest]] — Cruz "electoral blowout" quote
+- [[Virginia results map shows where Abigail Spanberger won election]] — suburban collapse documented geographically

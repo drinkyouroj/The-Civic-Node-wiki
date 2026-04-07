@@ -5,7 +5,7 @@ entity_type: person
 tags: [journalism, federal-immunity, minneapolis]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 5
+sources: 7
 ---
 
 ## Overview
@@ -48,4 +48,7 @@ Don Lemon, 30-year journalist, arrested January 30, 2026, while documenting prot
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Lemon arrest as parallel pattern to evidence control
 - [[Don Lemon arrested after covering protest at Minnesota church]] — initial arrest coverage
 - [[Feds arrest Don Lemon Minnesota journalist and others over church protest]] — federal charges documentation
+- [[Journalist Don Lemon Arrested in Connection to Minnesota ICE Protest]] — Al Jazeera international press freedom framing; press organizations' condemnation
+- [[Former CNN Anchor Don Lemon Appears in Court After Arrest Over Church Protest]] — CBS News; most detailed legal account; indictment allegations; two judicial rejections before grand jury bypass; Julius Nam's precedent warning
+- [[Protesters Disrupt Southern Baptist Church of Pastor Who Leads ICE Office Minnesota]] — account of the Jan. 18 church protest where Lemon was present; his exchange with pastor Parnell
 - [[Operation Metro Surge - Wikipedia]] — the broader enforcement operation providing context for his arrest

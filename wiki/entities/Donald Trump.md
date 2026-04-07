@@ -2,10 +2,10 @@
 title: "Donald Trump"
 type: entity
 entity_type: person
-tags: [politics, power, geopolitics, monetary-policy]
+tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 25
+sources: 39
 ---
 
 ## Overview
@@ -41,6 +41,34 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - Announced tariffs that raised the US effective rate to 20.6% (highest since 1910) — the same tariffs that prevented the rate cuts Trump demanded [[State of U.S. Tariffs July 14, 2025]]
 - Japan trade deal (July 2025): $550B investment commitment; 15% reciprocal tariffs (down from threatened 25%); demonstrates tariffs-as-leverage model [[Trump secures $550B trade deal with Japan]]
 
+## Crypto Conflicts of Interest (2025)
+
+Trump's crypto policy agenda is directly intertwined with his personal financial interests — the most explicit conflict of interest in recent presidential history:
+- **World Liberty Financial**: Crypto company partly owned by Trump and his sons; earned Trump ~$57 million by mid-2025.
+- **$TRUMP meme coin**: Launched January 2025; flash-in-the-pan meme coin bearing his name.
+- **$Melania meme coin**: Similar Trump-family crypto venture.
+- **Trump Media "Crypto Blue-Chip ETF"**: Trump Media & Technology Group filed with SEC in July 2025 to launch a cryptocurrency ETF.
+- **USD1 stablecoin**: World Liberty Financial's stablecoin; one of the world's largest. The GENIUS Act explicitly allows "USD" abbreviation in stablecoin names (carving out benefit for USD1) and permits private companies (as opposed to public companies) to issue stablecoins — a structure that benefits Trump's private venture.
+- **2024 campaign**: Trump was the first major-party presidential candidate to accept campaign donations via crypto. Crypto industry spent $119M-$250M (sources vary) backing pro-crypto candidates in 2024 elections.
+
+The White House position: "No conflicts of interest" — assets are in a trust managed by his children.
+
+## Crypto Policy Actions (2025)
+
+- January 23, 2025: Signed EO "Strengthening American Leadership in Digital Financial Technology" — revoked Biden's EO 14067; prohibited CBDC development; created President's Working Group on Digital Asset Markets (chaired by David Sacks).
+- Signed GENIUS Act into law July 18, 2025 — first major federal crypto legislation.
+- Target: Make the U.S. the "Crypto Capital of the World."
+
+## 2025 Elections and Domestic Political Losses
+
+- November 4, 2025: Democrats swept all major races — VA governor (Spanberger), NJ governor (Sherrill), NYC mayor (Mamdani), CA Prop 50 [[Democrats sweep the first major elections of Trump's second term]]
+- Trump reaction: "I don't think it was good for Republicans"; blamed government shutdown and his absence from ballot [[Supreme Court hears tariff arguments; government shutdown becomes record longest]]
+- Called Mamdani a "communist" at Miami American Business Forum; predicted NYC would fail under him [[Democrats sweep the first major elections of Trump's second term]]
+- Epstein files: 49% of Americans say Trump is covering them up; his worst approval rating on any tracked issue (25% approve, 56% disapprove of his Epstein handling) [[Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes]]
+- Kirk assassination response: blamed only "radical left" rhetoric; omitted Democratic victims; called for "revenge at the voter box" [[Trump blames the radical left for Charlie Kirk's killing]] [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]]
+- Dec. 17, 2025 prime-time address: repeated numerous false claims on inflation, grocery prices, investments, immigration numbers [[Fact check Trump repeats numerous false claims in prime-time address]]
+- Shutdown: Oct. 2025 government shutdown became longest in US history (36+ days); broke Trump's own first-term record of 35 days [[Supreme Court hears tariff arguments; government shutdown becomes record longest]]
+
 ## Connections
 
 - [[Iran]] — adversary; target of ultimatum
@@ -55,12 +83,28 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 
 ## Source Appearances
 
+- [[Democrats sweep the first major elections of Trump's second term]] — reaction to Democratic sweep; "communist" attack on Mamdani
+- [[Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes]] — poll showing 56% disapprove of his Epstein handling
+- [[Fact check Trump repeats numerous false claims in prime-time address]] — December 17, 2025 speech; systematic false claims documented
+- [[Trump blames the radical left for Charlie Kirk's killing]] — selective mourning; omitted Democratic victims
+- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — "revenge at the voter box" framing
+- [[Trump EO on Digital Financial Technology — White House]] — crypto EO signed January 23, 2025; foundational document for Crypto Week legislation
+- [[What is Crypto Week — Al Jazeera]] — conflict-of-interest profile; $57M World Liberty, $TRUMP, $Melania, Trump Media ETF
+- [[Congress Advances Crypto Bills — StratNews Global]] — conflict-of-interest framing; White House "no conflicts" position
+- [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]] — GENIUS Act signed July 18, 2025
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — central actor; issued the Easter ultimatum
 - [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — administration defunded federal hospice fraud prevention
 - [[Trump calls Powell 'too stupid' after fifth rate hold]] — Truth Social attack after July FOMC hold
 - [[Trump and Powell bicker over Fed building renovations]] — physical visit to Fed building; renovation cost dispute
 - [[Trump's tariffs kept Fed from cutting rates, Jerome Powell says]] — the tariff-rate paradox
 - [[Trump secures $550B trade deal with Japan]] — tariff diplomacy in practice
+- [[Trump announces massive trade deal with Japan Al Jazeera]] — Al Jazeera coverage of July 23 Japan deal announcement; 15% tariff rate context
+- [[Government shutdown Day 1 CNN Politics October 1 2025]] — used shutdown to cancel $8B in energy grants to Democratic states; no public appearances Day 1
+- [[Government shutdown Day 2 CNN Politics October 2 2025]] — directed RIF (mass firing) list compilation; met with Vought multiple times daily
+- [[Trump cuts energy projects California Carlsbad NOTUS]] — energy grants canceled along political lines; White House confirmed it as shutdown leverage
+- [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]] — Q1 GDP -0.3% driven by tariff front-running; Trump used Q2 rebound to pressure Fed
+- [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]] — PWBM tariff package as of April 8, 2025; projects -6% long-run GDP; $22K household lifetime loss
+- [[Michigan Economic Outlook 2025-2027 Executive Summary]] — Michigan as most tariff-exposed state; auto and auto parts tariffs driving ~13,000 job losses
 
 ## Open Questions
 

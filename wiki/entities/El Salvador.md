@@ -5,7 +5,7 @@ entity_type: country
 tags: [crypto, monetary-policy, geopolitics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 14
 ---
 
 ## Overview
@@ -18,11 +18,18 @@ El Salvador is a small Central American country of ~6.5 million people. Under Pr
 - Chivo Wallet launched with $30 per-user download incentive from government.
 - By 2024: 92% of Salvadorans not using Bitcoin for transactions; only ~1% of population actively used it. [[Bitcoin is no longer legal tender — Digital Watch Observatory]]
 - Only ~1% of businesses accepted Bitcoin in practice.
-- February 2025: Congress removed mandatory Bitcoin acceptance per IMF loan condition ($1.4B loan).
+- February 2025: Congress removed mandatory Bitcoin acceptance per IMF loan condition ($1.4B loan). 55-2 vote. [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]]
 - Government claimed $212 million in "financial income" from Bitcoin holdings (AAB, June 2024 report). [[Agencia Administradora de Fondos Bitcoin — $212M]]
-- Official Bitcoin holdings: ~5,861 BTC (publicly announced), though the $212M figure implies far larger unrealized holdings (~25,000 BTC).
-- Fitch upgraded El Salvador's credit rating to 'B-' (stable) after IMF deal.
-- Tourism grew 81% between 2019 and 2024 — Bukele attributes partly to Bitcoin-driven attention.
+- Official Bitcoin holdings: 7,614 BTC (~$522M as of data capture); other sources cite ~5,861 BTC officially announced. [[El Salvador Bitcoin Holdings and Analysis]]
+- Mined ~474 BTC using geothermal energy from Tecapa volcano since 2021. [[El Salvador Bitcoin Holdings and Analysis]]
+- Fitch upgraded El Salvador's credit rating to 'B-' (stable) after IMF deal. Bitcoin mandate removal was explicitly cited as a driver. [[Fitch Upgrades El Salvador Credit Rating to B- Stable]]
+- Tourism grew 81% between 2019 and 2024. [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]]
+- Public debt: 88.9% of GDP in 2024; World Bank projects ~30% poverty rate through 2027. [[El Salvador Macro Poverty Outlook World Bank]]
+- Remittances = 24% of GDP; mostly from U.S. — primary economic vulnerability (Trump immigration policy threat). [[Fitch Upgrades El Salvador Credit Rating to B- Stable]]
+- December 2024 portfolio value hit ~$603M (Elon Musk replied "Impressive" to Bukele's announcement). [[El Salvador President Bitcoin Success Elon Musk Reply]]
+- Cristosal (2023) documented opacity in Fidebitcoin trust fund and Chivo identity theft (citizens enrolled without consent). [[El Salvador y el bitcoin Cristosal 2023]]
+- Only 40% of Chivo users continued using the app after spending the $30 bonus. [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]]
+- Volcano Bond ($1B Bitcoin-denominated sovereign bond) announced and then postponed indefinitely in 2022. [[La adopcion de Bitcoin en El Salvador parece fracasando]]
 
 ## Newsletter Relevance
 
@@ -40,6 +47,17 @@ El Salvador is the only real-world experiment in a nation-state adopting Bitcoin
 - [[Bitcoin is no longer legal tender — Digital Watch Observatory]] — removal of legal tender status
 - [[Are Cryptocurrencies Currencies — University of Chicago Booth School]] — academic analysis of adoption failure
 - [[El Salvador Bitcoin Experiment]] — concept page synthesizing all sources
+- [[El Salvador Bitcoin Holdings and Analysis]] — holdings data (7,614 BTC, geothermal mining)
+- [[El Salvador Macro Poverty Outlook World Bank]] — economic context (poverty, remittances, IMF deal)
+- [[El Salvador President Bitcoin Success Elon Musk Reply]] — December 2024 portfolio milestone
+- [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]] — January 2025 Congress vote
+- [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — tourism growth claim
+- [[El Salvador y el bitcoin Cristosal 2023]] — accountability failures, Chivo identity theft
+- [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — credit upgrade post-IMF deal
+- [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure assessment
+- [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — adoption data
+- [[Un 92 Porciento de Salvadorenos No Uso Bitcoin en 2024]] — 2024 final adoption verdict
+- [[Top 5 Cryptocurrency Apps El Salvador Q1 2024]] — app usage data
 
 ## Open Questions
 

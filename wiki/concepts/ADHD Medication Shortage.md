@@ -4,7 +4,7 @@ type: concept
 tags: [mental-health, health, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 5
 ---
 
 ## Definition
@@ -22,6 +22,10 @@ Approximately 22.5 million Americans (15.5 million adults, 7 million children) l
 - Telehealth prescriptions for Schedule II drugs rose from 1% to 10% of total in the first month of COVID-19 emergency rules; remained elevated above pre-pandemic levels through at least 2025. [[Adderall Shortage Continues to Impact Millions of Americans with ADHD]]
 - Australia (NSW, QLD, WA) and New Zealand reformed GP prescribing authority specifically to address specialist bottleneck driving the access crisis. [[GPs to Diagnose ADHD Under NSW Reforms — Australia]], [[GPs and Nurse Practitioners to Start ADHD Treatment — New Zealand]]
 - Patients resorting to counterfeit pills in illegal markets, with fentanyl contamination risk. [[Adderall Shortage Continues to Impact Millions of Americans with ADHD]]
+- DEA quota mechanism explained: the DEA determines how much of each medication can be released to pharmacies each month; decisions made in March/April for the following calendar year, creating 21-month forecasting rigidity. [[The DEA's Manufactured Crisis — ADHD Medication Shortage]]
+- Dr. Dodson (ADDitude): DEA concluded stimulants were being diverted/abused despite "virtually no evidence"; ~90% of diverted immediate-release stimulants used by white male college students to stay awake — not ADHD patients. [[The DEA's Manufactured Crisis — ADHD Medication Shortage]]
+- The growth in prescriptions is largely adult late-diagnosis — a legitimate population; "the relative number of children and adolescents taking stimulants has not changed in 20 years." [[The DEA's Manufactured Crisis — ADHD Medication Shortage]]
+- Claim: the FTC's public inquiry was designed to diffuse blame away from the DEA rather than fix the underlying quota system. [[The DEA's Manufactured Crisis — ADHD Medication Shortage]]
 
 ## Tensions & Counterarguments
 - The DEA's quota system was designed to prevent stimulant abuse and diversion — a legitimate public health goal. The shortage is a side effect of strict abuse-prevention policy, not regulatory capture per se.
@@ -39,3 +43,4 @@ Approximately 22.5 million Americans (15.5 million adults, 7 million children) l
 - [[Frontiers — ADHD Medication Shortage and Reddit Coping Behaviors]] — peer-reviewed qualitative research on patient experience
 - [[GPs to Diagnose ADHD Under NSW Reforms — Australia]] — international reform comparison
 - [[GPs and Nurse Practitioners to Start ADHD Treatment — New Zealand]] — international reform comparison
+- [[The DEA's Manufactured Crisis — ADHD Medication Shortage]] — Dr. Dodson's advocacy piece; clearest explanation of DEA quota mechanism as root cause

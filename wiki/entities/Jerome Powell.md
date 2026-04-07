@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 12
+sources: 16
 ---
 
 ## Overview
@@ -48,6 +48,10 @@ Jerome Powell is the 16th Chair of the Federal Reserve, serving since 2018. He w
 - [[Federal Reserve holds its benchmark rate steady at today's FOMC meeting]] — July 30, 2025 rate hold; dual mandate framing
 - [[Fed meeting recap Fed Chair Powell calls quarter-point trim a 'risk management cut']] — September 2025 first cut; Powell's framing
 - [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]] — Miran dissents; Waller/Bowman unite behind Powell
+- [[Federal Reserve issues FOMC statement June 18 2025]] — June 2025 unanimous hold; Powell chairs 12-0 vote
+- [[Powell holds rates July 2025 Times of India]] — July 30, 2025 hold; Powell resists Trump's Q2 GDP pressure campaign
+- [[Fed approves quarter-point rate cut September 2025 CNBC]] — Powell frames September cut as "risk management"; defends independence amid Miran dissent and Cook court battle
+- [[Government shutdown delays jobs report NBC News October 2025]] — Powell forced to make October rate decision without September jobs data due to BLS shutdown
 
 ## Open Questions
 

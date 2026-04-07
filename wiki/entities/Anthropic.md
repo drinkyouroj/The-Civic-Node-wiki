@@ -2,10 +2,10 @@
 title: "Anthropic"
 type: entity
 entity_type: organization
-tags: [power, depin, politics]
+tags: [power, depin, politics, ai, technology]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 2
+updated: 2026-04-07
+sources: 7
 ---
 
 ## Overview
@@ -14,13 +14,22 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 
 ## Key Facts
 
-- Creator of Claude AI chatbot
+- Creator of Claude AI chatbot; Claude Code is a key enterprise revenue driver
 - **Refused** to allow Claude to be used for US military surveillance or autonomous weapons [[Britain woos Anthropic expansion after US defence clash]]
 - Trump directed federal agencies to cease Anthropic use: **February 27, 2026**
 - Pentagon designated Anthropic a supply-chain risk: **March 5, 2026**
 - US judge **temporarily blocked** the blacklisting: **March 26, 2026**; second lawsuit pending
 - Britain (Keir Starmer's government) actively recruiting Anthropic to expand to UK; proposals include London office + dual stock listing
 - CEO: [[Dario Amodei]]; UK visit planned for late May 2026
+- Valuation: $183B (Series F, $13B raised, October 2025)
+- Revenue: ~$7B ARR as of October 2025; projected $9B ARR by year-end 2025; 2026 target: up to $26B
+- Actual booked revenue as of July 2025: ~$1.5B (per Zitron analysis) — significantly below ARR figures
+- Burns $5B+/year; not profitable
+- Holds $200M DoD contract and GSA App Store access despite political conflict with Trump administration
+- Offered Claude to all government customers for $1/year (2025)
+- Politically opposed to Trump: opposed 10-year state AI regulation moratorium in "Big Beautiful Bill"; endorsed California SB 53 (AI transparency); hired senior Biden-era officials for government relations
+- [[Dario Amodei]] compared Trump to a "feudal warlord" during 2024 election; publicly supported Kamala Harris; excluded from White House dinners attended by OpenAI, Meta, and Nvidia leaders
+- Co-founder [[Jack Clark]]'s essay "Technological Optimism and Appropriate Fear" (October 2025) triggered David Sacks's "regulatory capture through fear-mongering" accusation
 
 ## Newsletter Relevance
 
@@ -44,6 +53,11 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 
 - [[Britain woos Anthropic expansion after US defence clash]] — central subject; blacklisting and UK recruitment
 - [[Anthropic Raises $3.5B at $61.5B Valuation]] — $3.5B funding round; $61.5B valuation; Claude 3.7 Sonnet; competitive positioning vs. OpenAI
+- [[Anthropic vs White House — Anthropic Tries to Keep Pace with OpenAI While Taking on the US Government]] — political conflict with Trump administration; David Sacks accusation; policy divergence from OpenAI
+- [[Import AI 431 — Technological Optimism and Appropriate Fear]] — Jack Clark's speech on AI fear and safety; the flashpoint for the Sacks conflict
+- [[How Much Money Do OpenAI and Anthropic Actually Make]] — actual revenue analysis (vs. ARR); burn rate context
+- [[Anthropic Catching Up to OpenAI — On Track for $9 Billion Annual Run Rate]] — October 2025 revenue and valuation update
+- [[Ghost Work — The Hidden Humans Behind AI (Science Array)]] — Scale AI (Anthropic's former data labeling partner) context
 
 ## Open Questions
 

@@ -3,8 +3,8 @@ title: "Institutional Gaslighting"
 type: concept
 tags: [power, politics, truth-control, federal-immunity]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 3
+updated: 2026-04-07
+sources: 13
 ---
 
 ## Definition
@@ -75,3 +75,13 @@ Not jail preventing crime. Pardons enabling it.
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — full documentation of pattern across three cases
 - [[The Pastor Runs the Gestapo]] — Minneapolis case details
 - [[The False Balance Trap]] — how false equivalence obscures institutional gaslighting
+- [[ICE Agent Cellphone Captures Fatal Confrontation in Minneapolis CNN]] — Vance released the video as exculpatory before investigation; video is actually ambiguous
+- [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — investigation structure as narrative control
+- [[Trump Says Hes Freezing Minnesota Out of ICE Shooting Probe Because Walz Is a Stupid Person]] — delegitimization of state government as pretext for evidence control
+- [[Woman Fatally Shot by ICE Officer Remembered as One of the Kindest People]] — family testimony vs. "domestic terrorist" label
+- [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — administration narrative construction in real time
+- [[Former CNN Anchor Don Lemon Appears in Court After Arrest Over Church Protest]] — DOJ bypassing two federal judges to prosecute a journalist
+- [[Fact check Trump repeats numerous false claims in prime-time address]] — systematic documented false claims on inflation, grocery prices, immigration numbers; gaslighting at presidential address scale
+- [[With few Epstein files released, conspiracy theories flourish]] — toothless transparency law; released files contain forgeries; information environment poisoned regardless of truth
+- [[For Trump, the Epstein Cover-Up Beats the Truth]] — Bondi Day 1 letter proves files could have been released; timeline argument
+- [[Trump administration uses taxpayer dollars to blame Democrats for government shutdown]] — official government websites converted to partisan blame machines; Hatch Act nullified in practice

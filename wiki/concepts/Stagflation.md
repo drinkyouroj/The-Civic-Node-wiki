@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, economics, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 11
 ---
 
 ## Definition
@@ -23,6 +23,11 @@ Stagflation is the simultaneous occurrence of high inflation and stagnant or dec
 - **2025 tariff risk**: Economists warn Trump's tariffs risk stagflation — raising consumer prices while dampening growth. Q1 2025 GDP shrank 0.5% (annualized) amid tariff front-running; H1 2025 averaged ~1.25% growth vs. 2.8% in 2024. [[Federal Reserve holds its benchmark rate steady at today's FOMC meeting]]
 - **Data centers masking slowdown**: Without AI/data center investment, US GDP growth in H1 2025 was 0.1% annualized — the rest of the economy was essentially flat while tariff inflation persisted [[Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says Fortune]]
 - **Auto sector**: GM's profits dropped 35%, Stellantis projected $2.7B loss H1 2025 — tariffs hitting production costs while consumer prices rise [[General Motors profit drops 35% as Trump tariffs hit car industry]]
+- **BEA Q1 2025**: Official advance estimate shows -0.3% GDP (annualized) in Q1 2025 — first quarterly contraction since 2022 [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]]
+- **Michigan labor market**: Unemployment climbed from 4.2% to 5.5% (March 2024 to March 2025) — largest increase of any state; projected to peak at 6.0% in H1 2026 amid tariff headwinds. Tariff-driven inflation expected to re-accelerate to 3.5% in 2026. [[Michigan Economic Outlook 2025-2027 Executive Summary]]
+- **PWBM quantification**: Tariffs project to reduce long-run GDP by ~6% and wages by ~5% — not stagflation in isolation, but a sustained reduction in productive capacity alongside persistent above-target inflation [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]]
+- **The Burns parallel**: Arthur Burns's all-of-government approach in the 1970s — using wage/price controls, fiscal tools, antitrust — was a response to stagflation driven by supply shocks rather than demand excess, same as today. His approach was revisionist but arguably appropriate for the diagnosis. [[Rethinking Arthur Burns the Worst Fed Chair in History]]
+- **September 2025**: Fed cut rates amid dual-mandate tension: "Job gains have slowed" + "inflation remains somewhat elevated" — the textbook stagflation policy trap [[Fed approves quarter-point rate cut September 2025 CNBC]]
 
 ## The Phillips Curve Breakdown
 
@@ -48,3 +53,9 @@ The core analytical insight from the 1970s: economists believed there was a stab
 - [[Federal Reserve holds its benchmark rate steady at today's FOMC meeting]]
 - [[Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says Fortune]]
 - [[General Motors profit drops 35% as Trump tariffs hit car industry]]
+- [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]]
+- [[Michigan Economic Outlook 2025-2027 Executive Summary]]
+- [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]]
+- [[Rethinking Arthur Burns the Worst Fed Chair in History]]
+- [[Fed approves quarter-point rate cut September 2025 CNBC]]
+- [[United States Unemployment Rate Trading Economics]]

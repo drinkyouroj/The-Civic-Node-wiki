@@ -4,7 +4,7 @@ type: concept
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 4
 ---
 
 ## Definition
@@ -29,7 +29,7 @@ Masking is a survival strategy with severe long-term costs: sustained masking is
 - Methodological critique: self-report data (the dominant research method) may not capture the full autism spectrum, particularly those with linguistic or intellectual disabilities.
 - Some research finds no gender differences in camouflaging — suggesting gender stereotypes and inadequate diagnostic tools, not masking per se, explain under-diagnosis of women.
 - The "masking causes harm" claim has been challenged by those who argue the issue is learning social skills late, not that the skills themselves are harmful. Counter-counter: the harm is documented in mental health outcomes, not the social skill acquisition.
-- Masking is not unique to autism — neurotypical people mask too. But sensory suppression and stimming suppression appear specific to autistic masking.
+- Masking is not unique to autism — neurotypical people mask too. But sensory suppression and stimming suppression appear specific to autistic masking. [[Masking Is Life — Experiences of Masking in Autistic and Nonautistic Adults]] confirms shared experiences (exhaustion, identity disconnection) alongside autistic-specific ones.
 
 ## Related Concepts
 - [[Neurodiversity]] — ideological framework that frames autistic masking as a systemic harm, not a personal deficit
@@ -41,3 +41,4 @@ Masking is a survival strategy with severe long-term costs: sustained masking is
 - [[Autistic Masking — Wikipedia]] — comprehensive research overview
 - [[Why Unmasking Is Critical for Autistic People]] — clinical + personal narrative perspective
 - [[The Journey of Unmasking Autism]] — practical framework + statistical summary
+- [[Masking Is Life — Experiences of Masking in Autistic and Nonautistic Adults]] — 2021 peer-reviewed qualitative study; cross-neurotype comparison; documents shared masking experiences and those specific to autistic people (suicidal ideation, sensory suppression)

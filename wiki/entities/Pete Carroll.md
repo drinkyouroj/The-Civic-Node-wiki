@@ -38,6 +38,7 @@ Head coach of the Seattle Seahawks from 2010 to 2023. Architect of the "Legion o
 
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — noted that Schneider became first GM to lead team to Super Bowl with zero holdovers from a previous era
 - [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]] — rebuild from 3rd place (Carroll's final year) to Super Bowl (Macdonald's Year 2)
+- [[Seahawks Are Biggest Threat to Overthrow the NFC]] — Carroll's final 9 games in 2023 documented as a nadir: 29th in points allowed, 32nd in rushing yards allowed, 32nd in YPC; framed as the moment the defense broke beyond repair; "Seattle had the worst defense in the league after that"
 
 ## Open Questions
 

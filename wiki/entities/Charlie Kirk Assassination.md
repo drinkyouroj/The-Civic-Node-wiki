@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, political-violence, polarization, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 12
+sources: 16
 ---
 
 ## Overview
@@ -33,6 +33,14 @@ The assassination is a case study in how political violence is asymmetrically pr
 - [[2025 United States Government Shutdown]] — Kirk's death directly delayed the CR bill and added $203.5M in security funding to the eventual deal
 - [[Political Violence Cycle]] — Kirk's death is a key node in the escalating pattern of U.S. political assassinations
 
+## Key Facts (additions)
+- Suspected shooter Tyler Robinson (22) confessed in a Discord group chat ~2 hours before surrendering; wrote "Some hatred cannot be negotiated with" per FBI Director Kash Patel [[Live updates Vance hosts Charlie Kirk Show]]
+- Note: Sources use both "Tyler Robinson" and "Kian Kordestani" as the suspect's name — potential early identification confusion; cross-check required
+- Trump called for "revenge at the voter box" on Fox & Friends two days after Kirk's death; called right-wing radicals "radical because they don't want crime" — rationalizing right-wing radicalism [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]]
+- Vance hosted "The Charlie Kirk Show" Sept. 15 and called the killing the product of "a growing and powerful minority on the far left" [[Live updates Vance hosts Charlie Kirk Show]]
+- Trump planned to speak at Kirk's funeral in Phoenix at a stadium; called Kirk "an amazing guy" [[Live updates Vance hosts Charlie Kirk Show]]
+- Utah Democrats received threatening calls and messages from people blaming them for Kirk's death in the days after the assassination [[Live updates Vance hosts Charlie Kirk Show]]
+
 ## Source Appearances
 - [[Charlie Kirk assassinated at university event in Utah]] — primary AP live blog of the event
 - [[Conservative activist Charlie Kirk assassinated at Utah university]] — AP retrospective
@@ -46,6 +54,9 @@ The assassination is a case study in how political violence is asymmetrically pr
 - [[Murder suspect Kian Kordestani faces charges in Charlie Kirk's death]] — criminal case
 - [[Flashback Trump repeatedly praised and defended Charlie Kirk]] — historical relationship
 - [[Trump's political impact of Kirk assassination]] — political analysis
+- [[Trump blames the radical left for Charlie Kirk's killing]] — immediate response; selective mourning; omitted Democratic victims
+- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — Fox & Friends appearance; "revenge at the voter box"
+- [[Live updates Vance hosts Charlie Kirk Show]] — Sept. 15 investigation updates; Discord confession; Vance hosting Kirk's show; DOJ weighing charges
 
 ## Open Questions
 - What was Kordestani's stated motive? Was there organizational connection or lone-wolf radicalization?

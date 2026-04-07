@@ -4,7 +4,7 @@ type: concept
 tags: [mental-health, politics, culture]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 5
 ---
 
 ## Definition
@@ -23,6 +23,12 @@ Political stress has measurable public health consequences: elevated anxiety, de
 - Watching collective disasters on television linked to long-term PTSD symptoms years later. [[Political Stress — UCSF Wellbeing Resources]]
 - 64% of social media users report political content on platforms is overwhelming and emotionally draining (Pew Research Center). [[Mental Health Crisis in US Politics — 2025 Inauguration]]
 - Political stress is now explicitly addressed in institutional wellness programs (e.g., UCSF HR). [[Political Stress — UCSF Wellbeing Resources]]
+- Over 70% of adults in APA 2024 survey cite the nation's future as a major stressor — an increase from prior years. [[More Than 70 Percent of Adults Cite the Nation's Future as a Major Stressor]]
+- UC Irvine study: increased political worry during the 2020 election correlated with a 10% rise in physical health issues (cancer, stroke, heart attacks) up to three years later. [[More Than 70 Percent of Adults Cite the Nation's Future as a Major Stressor]]
+- The second Trump presidency (2025) is functioning as a chronic public health stressor through five identified mechanisms: perpetual threat cues, narrative chaos, moral injury, social-identity threat, and profit-as-virtue messaging. [[The Psychological Toll of Perpetual-Crisis Politics in 2025 America]]
+- LGBTQ youth crisis lines logged a sevenfold increase in calls during the ten days following Trump's 2024 election victory. [[The Psychological Toll of Perpetual-Crisis Politics in 2025 America]]
+- Therapy-capacity crunch: clinicians themselves report "vicarious political trauma," mirroring patients' despair and fatigue. [[The Psychological Toll of Perpetual-Crisis Politics in 2025 America]]
+- Neurobiology of threat cues: the brain asymmetrically processes threat vs. safety signals — fear receives sustained cortical attention, safety is quickly discounted. [[Differential Prefrontal Cortex and Amygdala Habituation to Emotional Stimuli]]
 
 ## Tensions & Counterarguments
 - Political stress also motivates civic engagement: 51% of respondents felt more compelled to volunteer/support causes as a result of political stress in 2024. Stress can be galvanizing, not only paralyzing. [[APA Stress in America 2024 — A Nation in Political Turmoil]]
@@ -39,3 +45,6 @@ Political stress has measurable public health consequences: elevated anxiety, de
 - [[APA Stress in America 2024 — A Nation in Political Turmoil]] — primary quantitative benchmark
 - [[Mental Health Crisis in US Politics — 2025 Inauguration]] — synthesis with clinical framing
 - [[Political Stress — UCSF Wellbeing Resources]] — institutional acknowledgment; practical coping guidance
+- [[The Psychological Toll of Perpetual-Crisis Politics in 2025 America]] — deepest mechanistic analysis; five-mechanism framework; 2025 clinical observations
+- [[More Than 70 Percent of Adults Cite the Nation's Future as a Major Stressor]] — corroborating APA data + UC Irvine physical health consequence study
+- [[Differential Prefrontal Cortex and Amygdala Habituation to Emotional Stimuli]] — neuroscience basis for why threat-based political messaging is disproportionately sticky

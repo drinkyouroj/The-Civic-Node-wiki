@@ -75,11 +75,11 @@ Identified by economist Thomas Schelling (1960): people coordinate on solutions 
 
 ## Related Concepts
 
-- [[Game Theory Assumes You're a Sociopath. You're Not.]] — detailed exploration
+- [[published/Game Theory Assumes You're a Sociopath. You're Not.]] — detailed exploration
 - [[Cooperative Equilibrium]] — stable strategy where repeated interaction + focal point sustains cooperation
 - [[Shared Threat as Coordination Mechanism]] — how external pressure enables implicit agreements
 
 ## Key Sources
 
-- [[Game Theory Assumes You're a Sociopath. You're Not.]] — comprehensive framework
+- [[published/Game Theory Assumes You're a Sociopath. You're Not.]] — comprehensive framework
 - Thomas C. Schelling, *The Strategy of Conflict* (1960)

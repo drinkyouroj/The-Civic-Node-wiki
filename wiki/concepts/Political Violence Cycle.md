@@ -4,7 +4,7 @@ type: concept
 tags: [politics, polarization, political-violence, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 8
+sources: 11
 ---
 
 ## Definition
@@ -43,3 +43,7 @@ The U.S. is in an active phase of this cycle. Between 2016 and 2023, there were 
 - [[ICE, the church shooter, and how conservatives hope to control the narrative of political violence]]
 - [[Polarization framing analysis]]
 - [[Media analysis of Charlie Kirk's assassination]]
+- [[Trump blames the radical left for Charlie Kirk's killing]] — selective mourning documented; omitted Democratic victims
+- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — electoralizing assassination within 48 hours
+- [[Live updates Vance hosts Charlie Kirk Show]] — Vance's "growing and powerful minority on the far left" framing; Utah Democrats receiving threats
+- [[Trump's Tweets Trade on Supporters' Anger]] — theoretical foundation: anger memes spread; reconciliation doesn't; Kirk death frames will be picked up verbatim by Trump supporters

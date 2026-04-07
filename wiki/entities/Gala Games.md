@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 3
 ---
 
 ## Overview
@@ -27,6 +27,9 @@ Gala is a Web3 entertainment ecosystem built on GalaChain, a proprietary Layer-1
 - Token burn: $GALA used as gas is burned (reducing supply).
 - Security rating: AAA / Gold badge from CertiK; ranked #3 most secure altcoin (behind BTC, ETH).
 - June 2025: 2.8 billion $GALA migrated from Ethereum to GalaChain as part of new Node Staking Program. [[GalaChain Sees 2.8 Billion GALA Migration]]
+- New token $GSTAKE introduced in Phase 2 (late June 2025): minted by converting eligible NFTs, initially 1:1 with $GALA; tradeable on GalaChain. [[Gala Games Founder Node Staking Whats Changing]]
+- Phase 4 (Q3 2025): $GSTAKE lending — surplus holders can lend to other node operators for a share of rewards. [[Gala Games Founder Node Staking Whats Changing]]
+- 20,000-node minimum threshold removed; daily emissions continue regardless of node count. [[Gala Games Founder Node Staking Whats Changing]]
 
 ## The Staking Upgrade
 
@@ -53,6 +56,7 @@ Gala Games is the entertainment-sector DePIN experiment — asking whether block
 
 - [[Gala GALA CoinMarketCap]] — price, market cap, ecosystem description
 - [[GalaChain Sees 2.8 Billion GALA Migration]] — staking upgrade and on-chain migration
+- [[Gala Games Founder Node Staking Whats Changing]] — official announcement of four-phase staking overhaul and $GSTAKE token
 
 ## Open Questions
 

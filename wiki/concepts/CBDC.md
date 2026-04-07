@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, politics, technology, crypto]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 7
 ---
 
 ## Definition
@@ -56,8 +56,33 @@ The U.S. has simultaneously blocked a government digital dollar while enabling d
 - [[Fed Independence]] — CBDC debate is partly about who controls the money supply
 - [[Nixon Shock]] — last major transformation of what "the dollar" means
 
+## Anti-CBDC Act Passage Details
+
+The Anti-CBDC Surveillance State Act (H.R. 1919) passed the House on July 17, 2025, by a vote of 219-210. This was the narrowest and most partisan of the three Crypto Week bills:
+- GENIUS Act: 68-30 in Senate (bipartisan)
+- CLARITY Act: 294-134 in House (bipartisan)
+- Anti-CBDC Act: 219-210 (narrow; partisan)
+
+The White House issued a formal Statement of Administration Policy (SAP) supporting the bill, using the word "deplatform" — framing a CBDC as capable of deplatforming Americans from the financial system, linking it to social media censorship debates. The Administration stated: "The United States will never allow the creation of a central bank digital currency."
+
+## Key Framing Moves
+
+Tom Emmer's floor remarks invoked two international examples to justify the prohibition:
+1. **China's digital yuan (e-CNY)**: Used to monitor spending and build a social credit system.
+2. **Canada 2022**: Trudeau administration froze trucker bank accounts during COVID mandate protests.
+
+These examples frame CBDC as a tool of authoritarian financial control — even as critics note U.S. private stablecoins (Circle, Tether) also surveil users via BSA/KYC compliance requirements.
+
+## Non-Problem Argument
+
+Multiple sources note the Federal Reserve had not expressed any desire to develop a CBDC. The Anti-CBDC Act codifies a prohibition against something that wasn't happening. This "solving a non-problem" framing is prominent among critics — while supporters argue codification prevents any future administration from pursuing it.
+
 ## Key Sources
 
 - [[Bitcoin soars past $120,000 ahead of Crypto Week]]
 - [[CBDC — Central Bank Digital Currency Tracker]]
-- [[Majority Whip Tom Emmer Anti-CBDC Act]]
+- [[Anti-CBDC Act Passes House — Tom Emmer Press Release]]
+- [[White House SAP Anti-CBDC Act — OMB]]
+- [[Trump EO on Digital Financial Technology — White House]]
+- [[What is Crypto Week — Al Jazeera]]
+- [[Congress Advances Crypto Bills — StratNews Global]]

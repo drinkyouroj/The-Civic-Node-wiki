@@ -17,6 +17,8 @@ Kian Kordestani is the murder suspect charged in the assassination of Charlie Ki
 - Wore dark clothing; shot Kirk with a single bullet [[Charlie Kirk assassinated at university event in Utah]]
 - Charged with murder following identification as the shooter
 
+> ⚠️ Contradiction: CNN live blog from September 15, 2025 [[Live updates Vance hosts Charlie Kirk Show]] identifies the suspect as "Tyler Robinson" (22), while other sources name "Kian Kordestani." The two names may refer to the same person (legal name vs. reported name), or this may reflect early misidentification. Requires reconciliation when more sources available.
+
 ## Newsletter Relevance
 Kordestani's profile — background, motive, organizational connections or lack thereof — is central to the [[Political Violence Cycle]] analysis. Lone-wolf vs. organized radicalization matters enormously for what the assassination means politically.
 

@@ -4,7 +4,7 @@ type: concept
 tags: [nfl, defense, scheme, systems-thinking, macdonald]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 9
 ---
 
 ## Definition
@@ -24,11 +24,15 @@ Macdonald's "Ravens 2.0" system achieves all three. The result: the same players
 ## Evidence & Examples
 
 - **Macdonald at Baltimore Ravens**: Inherited a defense ranking 19th in scoring → 3rd in Year 1 → 1st in Year 2. Same core personnel. The system changed. [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]]
-- **Ravens after Macdonald**: Defense fell from 1st (Macdonald's last year) to 30th within two seasons of his departure — the single most powerful evidence that his individual contribution was structural, not personnel-based [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]]
+- **Ravens after Macdonald**: Defense fell from 1st (Macdonald's last year) to 30th within two seasons of his departure — the single most powerful evidence that his individual contribution was structural, not personnel-based [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]] [[Seahawks Are Biggest Threat to Overthrow the NFC]]
+- **Macdonald's coaching tree as control group**: All of Macdonald's former assistants given equal time to build defenses — Zach Orr (Baltimore), Anthony Weaver (Miami), Dennard Wilson (Tennessee) — are all struggling significantly (30th, 26th, 29th in points allowed); Macdonald's Seahawks were #1 in defensive DVOA. Same players, different coaches, opposite outcomes. [[Seahawks Are Biggest Threat to Overthrow the NFC]]
 - **Seahawks Year 1 (2024)**: Defense improved from 21st in points allowed (first half) to tied 3rd (second half) — the scheme was installing in real time [[24 Numbers That Sum Up the Seahawks 2024 Season]]
+- **Seahawks 2025 statistical dominance**: #1 in defensive DVOA (19.4%), #1 in yards allowed per pass attempt (6.1), 2nd in yards allowed per play (4.55) — the statistical evidence for historically elite defense [[Where Seahawks Defense Ranks Among League's Best]]
 - **The 3-Buzz concept**: Macdonald's signature zone shell — looks like one coverage pre-snap, rotates to another post-snap. Creates confusion by controlling the information the QB receives at the line of scrimmage [[Inside Mike Macdonald's Seahawks Defense Philosophy]]
-- **Pressure stats without blitzing**: Ravens blitzed just 21.5% of the time (below average) but led the league with 54 sacks. Seahawks blitzed at 19% (2nd lowest) but had the 4th highest QB pressure rate in the NFL. [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]]
+- **Pressure stats without blitzing**: Ravens blitzed just 21.5% of the time (below average) but led the league with 54 sacks. Seahawks blitzed at 19% (2nd lowest) but had the 4th highest QB pressure rate in the NFL. In the NFC Championship, blitzed only 6% in the first half, yet still 5th in season pressure rate. [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]] [[NFC Championship — ESPN Game Analysis]]
+- **Non-Traditional Tampas (NTTs)**: Showing a closed post (MOFC look) then rolling to split-field coverages post-snap; MOF disguise rate under Macdonald 27.8% vs. predecessor Martindale's 16.3% — nearly double the deception [[Cool Clips — Ravens Tag Sim vs. the Lions]]
 - **Rotating unexpected rushers into coverage**: 355-lb Michael Pierce in man coverage; 338-lb Travis Jones in zone. The opponent cannot game-plan for this in practice. [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]]
+- **McCaffrey shutout**: Held Christian McCaffrey (116.4 career scrimmage yds/game; 3rd in NFL history) to 23 rush yards and 57 scrimmage yards in the Week 18 NFC clincher [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]]
 
 ## Tensions & Counterarguments
 
@@ -46,5 +50,10 @@ Macdonald's "Ravens 2.0" system achieves all three. The result: the same players
 
 - [[Inside Mike Macdonald's Seahawks Defense Philosophy]] — best technical source on 3-Buzz and the zone-centric system
 - [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]] — Ravens-era profile; simulated pressure and positional rotation
+- [[Cool Clips — Ravens Tag Sim vs. the Lions]] — most technical source on NTTs, MOF disguise, and simulated pressure mechanics
+- [[Don't Expect the Ravens' Defense to Lose Their Aggression with Macdonald as DC]] — origin document; Macdonald's first press conference defining "aggression" as information-warfare
+- [[Ravens Pass Rush Is Being Unleashed]] — Year 2 at Baltimore; positional versatility and universal sack opportunity philosophy
 - [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]] — quantified before/after across organizations
+- [[Seahawks Are Biggest Threat to Overthrow the NFC]] — coaching tree as control group; same players, different outcomes
+- [[Where Seahawks Defense Ranks Among League's Best]] — 2025 statistical ranking vs. League of Boom benchmarks
 - [[24 Numbers That Sum Up the Seahawks 2024 Season]] — Year 1 installation data

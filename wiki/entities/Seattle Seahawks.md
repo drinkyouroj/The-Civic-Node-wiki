@@ -5,7 +5,7 @@ entity_type: organization
 tags: [nfl, seahawks, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 18
+sources: 24
 ---
 
 ## Overview
@@ -46,7 +46,13 @@ NFL franchise based in Seattle, Washington. Members of the NFC West division. Wo
 - [[Inside Mike Macdonald's Seahawks Defense Philosophy]] — schematic deep dive
 - [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]] — mid-season defensive analysis
 - [[NFC Championship — Seahawks 31 Rams 27]] — playoff clinching game
+- [[NFC Championship — ESPN Game Analysis]] — tactical breakdown of championship win
 - [[Seahawks Beat 49ers Week 18 — 4 Takeaways]] — regular season clincher
+- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — consolidated coverage of Week 18 win; NFC West title, #1 seed
+- [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — identity-forming comeback win; first 16-pt 4Q comeback in franchise history
+- [[Seahawks Are Biggest Threat to Overthrow the NFC]] — Week 4 analytical piece; early-season case for the Seahawks' ceiling
+- [[Where Seahawks Defense Ranks Among League's Best]] — Week 12 statistical analysis; #1 defensive DVOA
+- [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 6 Pro Bowl selections; Leonard Williams "Dark Side" framing
 - [[2025-26 NFL Playoffs Wikipedia]] — bracket and results
 
 ## Open Questions

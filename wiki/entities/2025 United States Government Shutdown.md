@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, power, monetary-policy, government]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 8
+sources: 14
 ---
 
 ## Overview
@@ -48,6 +48,11 @@ The shutdown reveals the brittle nature of federal data infrastructure — econo
 - [[Shutdown impact on financial markets]] — market effects
 - [[Some Republicans suggest January 6 tactics to force shutdown resolution]] — hardliner position
 - [[Timeline of US government shutdowns since 1974]] — historical context
+- [[Government shutdown Day 1 CNN Politics October 1 2025]] — Day 1: energy grant cancellations announced; ACA subsidy dispute; ~$8B in grants to Democratic states canceled
+- [[Government shutdown Day 2 CNN Politics October 2 2025]] — Day 2: White House compiles RIF agency list; air traffic controllers working without pay; FAA funding lapses
+- [[Government shutdown could delay economic reports NPR October 2025]] — BLS furloughed; September jobs report withheld; October CPI at risk; Social Security COLA calculation disrupted
+- [[Government shutdown delays jobs report NBC News October 2025]] — ADP September jobs data: -32,000 (vs. +45,000 expected); Fed October meeting facing data blackout
+- [[Trump cuts energy projects California Carlsbad NOTUS]] — investigative analysis showing pattern of cancellations tracking political alignment; White House explicitly linking restoration to CR passage
 
 ## Open Questions
 - What was the long-term damage to federal statistical agencies — did they fully recover?

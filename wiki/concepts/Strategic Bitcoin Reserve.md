@@ -4,7 +4,7 @@ type: concept
 tags: [politics, monetary-policy, crypto]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 5
 ---
 
 ## Definition
@@ -50,3 +50,5 @@ Senator [[Cynthia Lummis]] has been the most vocal advocate for the SBR in Congr
 - [[Bitcoin soars past $120,000 ahead of Crypto Week]]
 - [[iShares Bitcoin Trust ETF IBIT — BlackRock]]
 - [[Trump declares Bitcoin strategic reserve asset — executive order]]
+- [[Strategy Q2 2025 Financial Results Bitcoin Treasury Company]] — corporate parallel to state SBR; $628K BTC held
+- [[El Salvador Bitcoin Holdings and Analysis]] — sovereign precedent; 7,614 BTC held, plus geothermal mining

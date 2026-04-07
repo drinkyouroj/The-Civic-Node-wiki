@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, elections, progressive, new-york]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 5
 ---
 
 ## Overview
@@ -30,6 +30,12 @@ Mamdani tests whether democratic socialist politics can deliver governance resul
 - [[Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia]] — his win analyzed
 - [[Mamdani elected NYC mayor as Democrats enjoy big wins across the board]] — direct coverage
 
+## Source Appearances (continued)
+- [[Democrats had a big night — 5 takeaways from the 2025 elections]] — win analyzed as identity tension in Democratic Party; AOC pushed back on making him "the face of the party"
+- [[Democrats sweep the first major elections of Trump's second term]] — Trump called him "communist" at Miami forum; GOP tried to nationalize him as Democratic brand
+- [[Democrats 2025 election wins go beyond big races]] — mentioned in context of DSA municipal wins pattern
+
 ## Open Questions
 - How has Mamdani governed in his first year — did he make progress on housing and climate?
 - How did his victory affect the intra-Democratic debate about electability of progressives vs. centrists?
+- Did Trump's funding threats against NYC materialize, or did the "we'll help them a little, maybe" framing stick?
