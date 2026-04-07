@@ -1,0 +1,32 @@
+---
+title: "GENIUS Act needs free market fixes before it graduates to law - Competitive Enterprise Institute"
+source: "https://cei.org/blog/genius-act-needs-free-market-fixes-before-it-graduates-to-law/"
+link_text: "GENIUS Act needs free market fixes - Competitive Enterprise Institute"
+domain: "cei.org"
+author: "John Berlau"
+published: "2025-06-18"
+fetched: 2026-04-07
+tags: ["clippings"]
+---
+
+Yesterday, the US Senate voted to approve a regulatory regime for stablecoins. This vote represents one of the most significant milestones for cryptocurrency since the pseudonymous author Satoshi Nakamoto penned his white paper announcing the creation of a new digital private currency called “Bitcoin” 16 years ago.
+
+By a vote of 68-30, the US Senate passed the Guiding and Establishing National Innovation for US Stablecoins Act (GENIUS Act). It will become law when the House passes this bill– or passes a similar bill with differences ironed out in a House-Senate conference committee– and President Trump signs the legislation.
+
+For those who believe in the potential of private cryptocurrency rather than a state-run Central Bank Digital Currency (CBDC), the passage of the bill still offers some things to celebrate. A supermajority of the Senate, comprising nearly all Republicans and a significant number of Democrats, rejected attacks by anti-crypto scaremongers like Sen. Elizabeth Warren (D-MA) and recognized the potential of privately issued digital assets to enable faster payments with fewer transaction costs.
+
+This vote also reveals that many lawmakers and Trump administration officials recognize stablecoins from private issuers as one of the most effective ways to boost the US dollar. This represents progress from just a couple years ago when CBDCs were often discussed as the only way to make the dollar competitive. CEI has long opposed government-run CBDCs, and we have pointed out the many concerns relating to privacy and crowding out private financial services. We have championed private-sector innovations like stablecoins as the better solution for any problems of the payment system.
+
+Yet while the passage of the GENIUS Act can be viewed positively as recognition of crypto’s potential, many unnecessary restrictions were put on the issuance of stablecoins that could hinder innovation in the industry and reduce choices and benefits for ordinary American consumers and small businesses.
+
+Government has a role in preventing fraud in the stablecoin markets – as it does in every market – and thus there is justification for rules such as those requiring disclosure of the reserve assets of a stablecoin. However, some provisions of the GENIUS Act are not related to preventing fraud or deception, and instead give regulators unjustified powers, limit choices, and protect traditional finance institutions from competition. These provisions should be thrown out or modified as the legislation is debated in the House.
+
+Here are some of the worst provisions of the bill, with the caveat that some provisions may be subject to last-minute legislative changes. If there is a description that is no longer valid due to a legislative change, I will provide an update as soon as possible.
+
+**Expansion of the Bank Secrecy Act’s “know-your-customer” (KYC) requirements for “suspicious activity reports.”**Designating stablecoin issuers as “financial institutions,” the GENIUS Act makes them subject to the same strict requirements as banks under the Bank Secrecy Act (BSA), which was intended to fight money laundering. Yet as part of BSA compliance duties, banks and other financial institutions are required to file reports on many legitimate customer transactions that either exceed a certain dollar threshold or fit the subjective criteria of being a “suspicious activity” for simply deviating from the norm. As my colleague Iain Murray wrote recently in the*Daily Economy*: “Banking regulation turns that principle on its head — all are suspect, and your bank needs to work on that principle. That’s what KYC means.” The BSA’s KYC mandates have garnered criticism from folks of many political perspectives, including the American Civil Liberties Union. The guilty-until-proven-innocent mentality embedded in KYC should not be exported to the crypto world.**Ban on stablecoins paying interest – or yield – on stablecoins through staking.**Many stablecoins today such as Circle’s USDC allow staking–in which holders of these stablecoins can see their holding multiply as more stablecoins are created. However, this method of building wealth would now be curtailed, as stablecoins cannot pay interest or yield under the GENIUS Act. Coinbase CEO Brian Armstrong has rightly said, “stablecoins should be able to pay interest just like an ordinary savings account.” The provision seems to be more about protecting banks from competition to their deposit accounts than any concern about financial stability. It should be removed from any final legislation.**Restrictions on nonfinancial firms directly issuing stablecoins.**As I have written previously, the US is virtually the only developed country that prohibits nonfinancial firms from entering banking. In the United Kingdom, the superstore Tesco has an affiliated bank that is one of the largest in the nation, and Walmart has been able to open banks in Mexico and Canada, but not in its home country of the US. The “separation of banking and commerce rationale” is a shibboleth created in the US to protect established banks from competition with no basis in safety and soundness.
+
+These restrictions have unfortunately been carried over to the GENIUS Act. While the bill thankfully doesn’t prohibit all nonbank firms from issuing stablecoins, as the Biden administration and many others have proposed, it does ban large nonfinancial firms from becoming direct stablecoin issuers. This means some of the most innovative firms in tech and retail won’t be able to bring their innovations to this market. As Norbert Michel, Director of the Cato Institute’s Center for Monetary and Financial Alternatives, points out in *Forbes*, this provision of the bill is “a harmful restriction on competition, one that fails to create a neutral regulatory environment *or* create a level playing field for issuers.”
+
+Free market fixes to these provisions are needed before final passage to ensure that the US leads in cryptocurrency innovation and that all Americans can benefit from crypto’s potential.
+
+*CEI Research Associate Harrison Cerone contributed to this post.*
