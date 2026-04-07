@@ -8,6 +8,8 @@ created: 2026-04-06
 description: "Help Desk for the Singularity - Episode 02"
 tags:
   - "clippings"
+  - "fiction"
+  - "HDftS"
 ---
 ### Help Desk for the Singularity - Episode 02
 

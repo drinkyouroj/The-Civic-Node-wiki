@@ -62,7 +62,8 @@ def classify_post(post: dict) -> Optional[dict]:
     - Podcasts are skipped for now; when audio transcription is added,
       add: or (post["type"] == "podcast" and has_transcript(post))
     - Map only template/format Substack tags → vault tags; ignore the rest
-    - Detect Help Desk for the Singularity by slug prefix "hdfts-"
+    - Detect Help Desk for the Singularity by slug prefix "hdfts-" or
+      "help-desk-for-the-singularity-" (Episode 01 used the full title as slug)
     """
     if post.get("audience") == "only_paid":
         return None
@@ -78,7 +79,8 @@ def classify_post(post: dict) -> Optional[dict]:
         if vault_tag and vault_tag not in tags:
             tags.append(vault_tag)
 
-    if post.get("slug", "").startswith("hdfts-"):
+    slug = post.get("slug", "")
+    if slug.startswith("hdfts-") or slug.startswith("help-desk-for-the-singularity-"):
         for t in ("fiction", "HDftS"):
             if t not in tags:
                 tags.append(t)
