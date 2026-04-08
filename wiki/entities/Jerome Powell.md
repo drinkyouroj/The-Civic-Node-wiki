@@ -29,15 +29,29 @@ Jerome Powell is the 16th Chair of the Federal Reserve, serving since 2018. He w
 
 **Politics**: The question of whether Trump can legally fire Powell, and who replaces him, has become a proxy battle over whether the executive branch can capture monetary policy. Powell's successor will be one of the most consequential appointments of the Trump second term.
 
-**Historical parallel**: Powell is explicitly trying to avoid being "the next Arthur Burns" — the cautionary tale of a Fed chair who capitulated to Nixon. His 1970s-aware framing is deliberate. [[Arthur Burns]]
+**Historical parallel**: Powell is explicitly trying to avoid being "the next Arthur Burns" — the cautionary tale of a Fed chair who capitulated to Nixon. His 1970s-aware framing is deliberate. [[Arthur Burns]] But the wiki has flagged (see [[Fed Independence]]) that the Burns parallel is contested and that the closer historical analog is actually [[William McChesney Martin]] vs. LBJ in 1965 — a chair holding the line against direct presidential pressure during a fiscal-pressure episode.
+
+## The Serious Non-Trump Critique of Powell
+
+The wiki's Powell coverage has historically been weighted entirely on the Trump-vs-Powell axis, which inadvertently made any criticism of Powell read as partisanship by association. There is a serious technocratic critique of Powell's record that is independent of Trump and that needs to be held alongside the "Powell-as-Volcker" defense:
+
+- **The transitory call (2021–2022)**: Powell and the FOMC characterized the 2021 inflation surge as "transitory" through most of 2021 and into early 2022, holding emergency-low rates and continuing large-scale asset purchases longer than that diagnosis justified. By late 2021 / early 2022 inflation was clearly not transitory in the sense the Fed had used, and Powell's policy response was widely seen as roughly a year late.
+- **The mainstream critics**: Larry Summers, Jason Furman, and Mohamed El-Erian (among others) made the contemporaneous case that Powell's transitory framing was wrong and that the Fed risked having to over-correct later. None of these voices is a Trump partisan; they are mainstream center-left macroeconomists. Summers in particular spent most of 2021 publicly arguing the Fed was behind the curve.
+- **The over-correction question**: The same critique can be turned forward: holding rates high in 2025 may be *partly* a reputational hedge against the 2021 mistake, not a pure dual-mandate response to current data. Powell may be over-weighting the cost of being late twice in a row.
+- **The honest framing**: Trump's attack on Powell is personal and political; the Furman/Summers/El-Erian critique is analytical and substantive. Both can be true. The wiki should be able to say "Powell got 2021 wrong *and* is right to hold the line in 2025" without collapsing those into a single verdict, and *should not* let Trump's attack crowd out the serious critique by making the latter look like fellow-traveling.
+
+This is the version of the Powell-skeptic case that survives outside MAGA media. It is also the version Trump cannot make, because the critique is technocratic and Trump's attack is not.
 
 ## Connections
 
 - [[Donald Trump]] — named Powell chair; now hostile critic demanding rate cuts
 - [[Federal Reserve]] — institution Powell chairs
 - [[Kevin Warsh]] — rumored successor; dissenter Christopher Waller also mentioned
-- [[Arthur Burns]] — cautionary predecessor Powell is trying not to replicate
+- [[Arthur Burns]] — cautionary predecessor Powell is trying not to replicate (parallel is contested)
+- [[William McChesney Martin]] — the closer historical analog: a chair who held the line against direct presidential pressure
 - [[Paul Volcker]] — the model Powell aspires to: independence under pressure
+- [[1951 Treasury-Fed Accord]] — the institutional basis for the independence Powell is defending
+- [[Fed Independence]] — the concept page where the Burns/Martin/Powell analogies are reconciled
 
 ## Source Appearances
 

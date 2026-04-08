@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-07
-total_pages: 594
-total_sources: 385
+total_pages: 618
+total_sources: 378
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -400,17 +400,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Inside Mike Macdonald's Seahawks Defense Philosophy]] — NFL.com deep dive; 3-Buzz system; simulated pressure mechanics
 - [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]] — Baltimore Banner; Ravens-era profile; pressure mechanics
 - [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]] — NFL.com; quantified before/after performance across organizations
-- [[NFC Championship — Seahawks 31 Rams 27]] — Yahoo Sports; 2026 NFC Championship game recap
-- [[Rams Fall to Seahawks 31-27 in NFC Championship]] — CBS News; companion recap; XLIX historical context
-- [[Sam Darnold Seahawks Advance to Super Bowl — Fox Sports]] — AP wire; Darnold oblique injury detail
+- [[NFC Championship — Seahawks 31 Rams 27]] — Yahoo Sports; canonical NFC Championship recap (CBS + AP details merged)
+- [[NFC Championship — ESPN Game Analysis]] — ESPN tactical breakdown; blitz rate data; Woolen taunting; Stafford perspective
 - [[24 Numbers That Sum Up the Seahawks 2024 Season]] — Statistical retrospective; Year 1 Macdonald numbers
-- [[2025-26 NFL Playoffs Wikipedia]] — Wikipedia; complete playoff bracket and results
+- [[2025-26 NFL Playoffs Wikipedia]] — Wikipedia; partial playoff bracket (incomplete extraction; see page caveat)
 - [[49ers Defeat Seahawks Season Opener 2025]] — Week 1 loss; season arc context
-- [[Seahawks Beat 49ers Week 18 — 4 Takeaways]] — Fox Sports; #1 seed clincher analysis
-- [[Seahawks OT Win Over Rams — December 2025]] — Identity-defining comeback win; TNF
-- [[Seahawks Clinch NFC West — 13-3 Win Over 49ers]] — ESPN box score; Week 18 NFC West clinch
-- [[Seahawks 41-6 Divisional Win Over 49ers]] — Divisional Round blowout
-- [[Seahawks OT Win Over Rams — Regular Season Trilogy Context]] — Three-game Seahawks-Rams rivalry context
+- [[Seahawks 41-6 Divisional Win Over 49ers]] — Jan 17 Divisional Round blowout
 - [[Sam Darnold Spotrac Contract Details]] — Contract mechanics; performance comparison data
 - [[A Party and a Protest — Bad Bunny at Super Bowl LX]] — NPR; halftime preview; joy-as-resistance thesis
 - [[Bad Bunny Super Bowl 60 Controversy Explained]] — Yahoo; MAGA backlash; NFL's global-reach rationale
@@ -424,9 +419,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Ravens Pass Rush Is Being Unleashed]] — Macdonald Year 2 at Baltimore; everyone-gets-a-sack philosophy; positional versatility
 - [[Cool Clips — Ravens Tag Sim vs. the Lions]] — Most technical source on NTTs, MOF disguise, simulated pressure mechanics
 - [[Don't Expect the Ravens' Defense to Lose Their Aggression with Macdonald as DC]] — Origin document; Macdonald first press conference defining "aggression" as information-warfare
-- [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — Consolidates 10 raw files; Week 16 OT thriller; historic 4Q comeback; go-for-2-in-OT
-- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — Consolidates 6 raw files; Week 18; Darnold redemption arc; McCaffrey shutout; Schneider praised
-- [[NFC Championship — ESPN Game Analysis]] — ESPN tactical breakdown; blitz rate data; Woolen taunting; Stafford perspective
+- [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — Consolidates 7 raw files; Dec 18 Week 16 OT thriller; historic 4Q comeback; go-for-2-in-OT (canonical)
+- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — Consolidates 6 raw files; Jan 3 Week 18; Darnold redemption arc; McCaffrey shutout; Schneider praised (canonical)
 
 ### NFL — Dynasty
 - [[Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty]] — ESPN/Barnwell, Jan 11 2024; year-by-year 266-121 dynasty retrospective
@@ -457,6 +451,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Jerome Powell]] — Federal Reserve Chair; resisted Trump pressure through 5 consecutive holds; "risk management" rate cuts Sep–Oct 2025; term ends May 2026
 - [[Arthur Burns]] — Fed Chair 1970–1978; capitulated to Nixon pressure on inflation; the cautionary archetype Powell is trying not to be
 - [[Paul Volcker]] — Fed Chair 1979–1987; defeated Great Inflation through brutal rate hikes; archetype of central bank independence under political pressure
+- [[William McChesney Martin]] — Fed Chair 1951–1970; longest-serving in history; defied LBJ's Johnson Ranch pressure; the actual benchmark for Fed independence
 - [[Kevin Warsh]] — Former Fed Governor; potential Trump replacement for Powell; more rate-cut-friendly; market-friendly profile
 - [[Marjorie Taylor Greene]] — Former R-GA rep; resigned; broke publicly with Trump over Iran war rhetoric and political violence response
 - [[Dario Amodei]] — Anthropic CEO; target of UK government recruitment effort; refused DoD military AI demands
@@ -499,6 +494,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[French Hill]] — House Financial Services Committee Chair (R-AR); CLARITY Act architect; 294-134 passage
 - [[David Sacks]] — "AI and Crypto Czar"; chairs President's Working Group on Digital Asset Markets; PayPal Mafia background
 - [[Jack Clark]] — Anthropic co-founder; Import AI newsletter author; "appropriate fear" vs. techno-optimism framing
+- [[Stephen Miran]] — Trump CEA chair; Fed governor (Sept 2025); dissented for 50 bps cut at first FOMC meeting; "unpaid leave" arrangement
+- [[Lisa Cook]] — Fed governor Trump tried to fire; appeals court blocked the removal; central case in for-cause removal limits
+- [[Mikie Sherrill]] — Democratic NJ governor-elect Nov 4 2025; part of the 2025 elections sweep alongside Spanberger and Mamdani
 
 ### Organizations
 - [[Federal Reserve]] — US central bank; under intense political pressure 2025; dual mandate; board composition shifting via Trump appointments
@@ -527,11 +525,13 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Dead and Company]] — Grateful Dead revival (2015-2023); John Mayer + 3 surviving members; final tour 2023
 - [[Strategy MicroStrategy]] — World's largest corporate Bitcoin holder; 628K BTC; preferred stock ecosystem; Michael Saylor's vehicle
 - [[io.net]] — DePIN GPU compute network; 500K→12K GPUs after sybil attack; TEE attestation as proposed solution
+- [[World Liberty Financial]] — Trump-family DeFi protocol (60% stake); USD1 stablecoin issuer; central GENIUS Act conflict of interest
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
 - [[United Kingdom]] — Recruiting Anthropic post-blacklisting; offering London expansion + dual listing
 - [[El Salvador]] — First country to make Bitcoin legal tender (2021); Bitcoin experiment largely failed; IMF forced removal 2025; Bukele authoritarian consolidation
+- [[Israel]] — US co-belligerent in 2026 Iran war; co-launched Feb 28 2026 strikes; partner in joint operations through Trump's Easter ultimatum
 
 ### Infrastructure
 - [[Strait of Hormuz]] — World's critical oil chokepoint; closed by Iran Apr 2026; center of current conflict
@@ -549,6 +549,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Retroactive Executive Protection]] — Pattern of Trump erasing consequences for allies through pardons, conviction vacation, prosecution abandonment
 - [[Regulatory Weaponization]] — Using agency designations and enforcement as political punishment tools
 - [[Federal Power as Political Instrument]] — Executive branch tools deployed with partisan logic
+- [[Federal Immunity Above Constitutional Law]] — Pattern of immunity doctrines defeating ordinary constitutional/statutory accountability for federal actors
+- [[International Humanitarian Law]] — Geneva framework regulating armed conflict; the legal standard against which Iran-war infrastructure targeting is being evaluated
+- [[Institutional Capture]] — Slow-motion failure mode where regulators come to serve the regulated; baseline against which dramatic interventions are measured
 
 - [[ICE Public Opinion Shift]] — Rapid deterioration of ICE favorability during Operation Metro Surge; four major polls; video effect on opinion; "Abolish ICE" messaging
 - [[Budget as Weapon]] — Blue-state targeting via federal spending; $18B NYC freeze; energy grants cancellation; "pass the CR and it goes away" stated explicitly
@@ -561,8 +564,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Fed Independence]] — Central bank freedom from executive branch pressure; Burns (failure) vs. Volcker (success); 2025 Trump-Powell test case
 - [[Stagflation]] — Simultaneous inflation + stagnant growth; 1970s paradigm; 2025 tariff risk; Phillips curve breakdown
 - [[Nixon Shock]] — August 15, 1971; end of Bretton Woods; gold window closed; fiat dollar begins; SWIFT origin
-- [[Tariff-Driven Inflation]] — Policy-created supply shock; 20.6% effective rate (1910 high); Fed can't fix with rate tools; $108B auto cost
+- [[Tariff-Driven Inflation]] — Policy-created supply shock; 20.6% pre-substitution / 19.7% post-substitution (Yale Budget Lab); 1933/Smoot-Hawley is the honest comparison; expectations vs. realized passthrough distinction
 - [[Trade War Currency Dynamics]] — How tariffs escalate into currency wars; competitive devaluation; Smoot-Hawley parallel
+- [[1951 Treasury-Fed Accord]] — Founding moment of modern Fed independence; Fed stopped pegging Treasury yields; precedent for why independence is a contingent institutional achievement
+- [[Narrow Banking and the Chicago Plan]] — The missing analytical frame for GENIUS; 100% reserve issuance is narrow banking by another name; Simons/Fisher/Friedman/Tobin/Kotlikoff/Cochrane lineage
+- [[Free Banking and Wildcat Banking]] — 1837–63 historical parallel for the modern stablecoin landscape; Suffolk System as private clearing precedent; National Banking Acts 1863–64 as GENIUS analog
 
 ### DePIN & Crypto
 - [[DePIN]] — Decentralized Physical Infrastructure Networks; blockchain-coordinated hardware deployment; token incentive verification problem
@@ -571,9 +577,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Stablecoin Legislation]] — GENIUS + STABLE Act landscape; dollar hegemony implications; Big Tech ban; consumer protection gaps
 - [[CBDC]] — Central Bank Digital Currency; surveillance concerns; Anti-CBDC Surveillance State Act; China's e-CNY precedent
 - [[Strategic Bitcoin Reserve]] — US holding BTC (+ ETH, XRP, SOL) as reserve asset via executive order; institutional legitimization
-- [[El Salvador Bitcoin Experiment]] — Only real-world test of Bitcoin as national currency; 92% non-use rate; IMF forced rollback; cautionary tale
-- [[Petrodollar System]] — Global oil trade priced in USD; recycled into US Treasuries; stablecoins as potential digital successor
+- [[El Salvador Bitcoin Experiment]] — Only real-world test of Bitcoin as national currency; 92% non-use rate; IMF forced rollback; currency-policy vs. money-policy distinction
+- [[Petrodollar System]] — Global oil trade priced in USD; recycled into US Treasuries; digital-petrodollar framing is rhetorical not mechanical
 - [[Tokenomics]] — Token economic design; DePIN incentive structures; Helium/Render/Gala case studies; sybil attack vulnerability
+- [[Dollarization via Stablecoins]] — What Tether actually does in Argentina, Turkey, Nigeria, Lebanon, Venezuela; why Circle cannot replace it (KYC perimeter); the strongest version of the hegemony claim
 
 - [[Crypto Week]] — July 14-18 2025 legislative sprint; GENIUS Act + CLARITY Act + Anti-CBDC Act; partisan gradient; executive-legislative coordination
 - [[Bitcoin as Digital Gold]] — Core thesis of BTC maximalism; evidence for/against; Strategy model; SBR connection; inflation hedge
@@ -724,7 +731,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ## Syntheses
 
-*None yet.*
+- [[audit-2026-04-07-lead-researcher]] — Five-agent audit; schema hygiene, broken wikilinks, frontmatter drift, missing cross-cluster concept pages
+- [[audit-2026-04-07-historian]] — Volcker dates, "longest shutdown" qualifier, Bannon Munsingwear precedent, Glass-Steagall/Chicago Plan/Free Banking missing priors, Martin as the real Powell precedent
+- [[audit-2026-04-07-economist]] — GENIUS causal-chain hand-waving, 20.6% pre/post-substitution selection bias, currency/money/payment-instrument conflation, tariff expectations-vs-passthrough
+- [[audit-2026-04-07-millennial-contrarian]] — Tether-as-dollarization framing, Powell transitory steelman, Trump-conflict vs. legislation-merits decoupling, generation/class blind spot
+- [[audit-2026-04-07-sports-nut]] — Super Bowl LX unsourced, "zero holdovers" contradiction, Macdonald "25→2 in one season" wrong, 3-Buzz misdescribed, coaching-tree "control group" caveat
 
 ---
 

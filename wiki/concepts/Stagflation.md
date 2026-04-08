@@ -37,7 +37,7 @@ The core analytical insight from the 1970s: economists believed there was a stab
 
 - **Tariff inflation may be transient**: Powell's "one-time price effect" framing — if tariffs are a one-time shock, inflation expectations don't need to be re-anchored, and the Fed can look through it.
 - **Not yet stagflation**: As of July 2025, unemployment remained low and inflation elevated but not catastrophic. The stagflation scenario is a risk, not yet a fact.
-- **Historical differences**: 1970s stagflation was partly caused by monetary policy (Burns). 2025's risk is primarily fiscal/trade policy. The Fed didn't create this problem — it just can't fully fix it.
+- **Historical differences**: 1970s stagflation was partly caused by monetary policy ([[Arthur Burns]], on the standard reading) responding to a genuinely *exogenous* supply shock (the OPEC oil embargo, which Nixon did not cause). 2025's risk is structurally different and arguably worse: the supply shock is *endogenous* — Trump's tariffs are being created by the same political actor pressuring the Fed to ignore them. The Fed didn't create this problem and can't fully fix it, but the political actor demanding rate cuts could end the inflation source unilaterally and chooses not to. This is closer to LBJ vs. [[William McChesney Martin]] (a president demanding accommodation of fiscal stimulus he himself chose) than to Nixon vs. Burns. See [[Fed Independence]].
 
 ## Related Concepts
 

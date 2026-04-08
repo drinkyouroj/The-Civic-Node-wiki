@@ -5,12 +5,14 @@ entity_type: organization
 tags: [nfl, seahawks, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 24
+sources: 21
 ---
+
+> ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** The latest sourced events in this cluster are the Jan 26, 2026 NFC Championship and the Feb 6, 2026 pre-game Schneider profile. No raw post-game Super Bowl LX recap exists in the cluster as of 2026-04-07. Statements below that the Seahawks "won" Super Bowl LX trace to the pre-game profile and the bracket entry, not to a game recap.
 
 ## Overview
 
-NFL franchise based in Seattle, Washington. Members of the NFC West division. Won Super Bowl LX (February 8, 2026) — their second championship in franchise history, following Super Bowl XLVIII (January 2014). The 2024-2026 Seahawks are the analytical subject of a cluster of sources examining how a franchise rebuilt from playoff miss (2024) to Super Bowl winner (2025) in a single year through scheme-first roster construction.
+NFL franchise based in Seattle, Washington. Members of the NFC West division. Played in Super Bowl LX (February 8, 2026) as NFC champion — sourcing for the game outcome itself is incomplete (see caveat above). Their first championship was Super Bowl XLVIII (January 2014). The 2024-2026 Seahawks are the analytical subject of a cluster of sources examining how a franchise rebuilt from playoff miss (2024) to NFC champion (2025) in a single year through scheme-first roster construction.
 
 ## Key Facts
 
@@ -18,8 +20,8 @@ NFL franchise based in Seattle, Washington. Members of the NFC West division. Wo
 - GM [[John Schneider]] has been in place since 2010 — a rarity in an era of constant front office turnover
 - Two distinct championship eras: 2012-2015 "Legion of Boom" (Pete Carroll + Russell Wilson + LOB defense) and 2025 (Mike Macdonald + Sam Darnold)
 - 2024 season (Year 1 under [[Mike Macdonald]]): 10-7, missed playoffs via tiebreaker; defense improved from 25th to 11th in points allowed [[24 Numbers That Sum Up the Seahawks 2024 Season]]
-- 2025 season: 14-3 regular season (first 14-win season in franchise history), NFC's #1 seed, Super Bowl LX champions [[2025-26 NFL Playoffs Wikipedia]]
-- Schneider became the first GM ever to lead a team to the Super Bowl with zero holdovers on the player or coaching side [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]]
+- 2025 season: 14-3 regular season (first 14-win season in franchise history), NFC's #1 seed, NFC champion (defeated Rams 31-27 in NFC Championship) [[2025-26 NFL Playoffs Wikipedia]] [[NFC Championship — Seahawks 31 Rams 27]]
+- ⚠️ **Contradiction**: WBAY's pre-game Schneider profile claims Schneider became "the first GM ever to lead a team to the Super Bowl with zero holdovers from any previous roster (player or coaching staff)." But [[Seahawks Are Biggest Threat to Overthrow the NFC]] explicitly states **9 of the 2023 defensive starters were still on the 2025 roster**. The "zero holdovers" framing appears to be team-PR / marketing language about "zero holdovers from the prior coaching regime" (i.e., no coach hired by Carroll's staff) rather than literal player turnover. Treat the literal "zero holdovers" claim as unsupported and use the looser "complete coaching-staff turnover plus heavy roster churn" framing instead. [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]]
 - Road record under Macdonald: 10-1 since 2024 (best in NFL over that span) [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]]
 
 ## Newsletter Relevance
@@ -47,9 +49,9 @@ NFL franchise based in Seattle, Washington. Members of the NFC West division. Wo
 - [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]] — mid-season defensive analysis
 - [[NFC Championship — Seahawks 31 Rams 27]] — playoff clinching game
 - [[NFC Championship — ESPN Game Analysis]] — tactical breakdown of championship win
-- [[Seahawks Beat 49ers Week 18 — 4 Takeaways]] — regular season clincher
-- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — consolidated coverage of Week 18 win; NFC West title, #1 seed
-- [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — identity-forming comeback win; first 16-pt 4Q comeback in franchise history
+- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — consolidated coverage of the Jan 3 Week 18 win; NFC West title, #1 seed, McCaffrey shutout
+- [[Seahawks 41-6 Divisional Win Over 49ers]] — Jan 17 Divisional Round blowout
+- [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — identity-forming Dec 18 comeback win; first 16-pt 4Q comeback in franchise history
 - [[Seahawks Are Biggest Threat to Overthrow the NFC]] — Week 4 analytical piece; early-season case for the Seahawks' ceiling
 - [[Where Seahawks Defense Ranks Among League's Best]] — Week 12 statistical analysis; #1 defensive DVOA
 - [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 6 Pro Bowl selections; Leonard Williams "Dark Side" framing

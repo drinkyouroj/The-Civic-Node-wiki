@@ -3,8 +3,8 @@ title: "War-Driven Inflation"
 type: concept
 tags: [monetary-policy, energy, geopolitics]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 1
+updated: 2026-04-07
+sources: 7
 ---
 
 ## Definition
@@ -40,5 +40,11 @@ War-driven inflation is a supply-shock inflationary dynamic triggered by militar
 
 ## Key Sources
 
-- [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
+- [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — gas prices as transmission mechanism from military conflict to consumer economy
 - [[The Great Inflation]] — 1973 Arab oil embargo as the paradigm case of war-driven inflation becoming embedded stagflation
+- [[Paul Volcker's Legacy — PBS]] — 1970s inflation context
+- [[Paul Volcker Legacy — PBS]] — Vietnam War spending plus political monetary stimulus as the 1970s mechanism
+- [[The Weimar Republic Holocaust Encyclopedia]] — WWI reparations-driven inflation as the upstream mechanism behind Weimar hyperinflation
+- [[US M2 Money Supply YoY Historical Data]] — comparison to COVID-era M2 spike as an extreme case of monetized spending
+- [[Rethinking Arthur Burns the Worst Fed Chair in History]] — Korean War / WWII price controls as Burns's historical models
+- [[Trump and Powell bicker — AP]] — tariff inflation as the contemporary war-adjacent supply shock keeping the Fed from cutting

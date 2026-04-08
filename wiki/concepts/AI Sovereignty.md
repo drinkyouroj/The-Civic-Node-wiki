@@ -3,8 +3,8 @@ title: "AI Sovereignty"
 type: concept
 tags: [power, depin, politics]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 1
+updated: 2026-04-07
+sources: 3
 ---
 
 ## Definition
@@ -38,4 +38,6 @@ AI sovereignty refers to nations' efforts to establish control over, or domestic
 
 ## Key Sources
 
-- [[Britain woos Anthropic expansion after US defence clash]]
+- [[Britain woos Anthropic expansion after US defence clash]] — UK exploiting US-Anthropic rift as a sovereignty move
+- [[Anthropic Raises $3.5B at $61.5B Valuation]] — international expansion and geopolitical competition for AI infrastructure
+- [[Shut Your App — Senate Commerce Committee Jawboning Hearing]] — Cruz's CISA-to-AI extension as preview of the next regulatory sovereignty battle

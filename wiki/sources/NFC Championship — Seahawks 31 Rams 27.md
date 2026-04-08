@@ -22,6 +22,8 @@ Live game recap of the 2026 NFC Championship Game — Seahawks 31, Rams 27. Sam 
 - Costly: Riq Woolen's taunting penalty extended a Rams 3rd-and-12 stop into a first down → Stafford hit Nacua for a TD; Seahawks lead shrank from 31-20 to 31-27
 - Stafford: 374 yards, 3 TDs — Rams offense was legitimate, undone by Xavier Smith's muffed punt (turned directly into a Seahawks TD)
 - Cooper Kupp (ex-Rams) caught the first-down conversion that helped Seattle run clock in the final minutes
+- Darnold became the first USC Trojan QB ever to start a Super Bowl (per CBS recap merged in)
+- Super Bowl LX is a rematch of Super Bowl XLIX (Feb 2015, the Malcolm Butler interception game) — first time since 2005 that two franchises with prior Super Bowl history meet again in the championship game (per AP wire merged in)
 
 ## Newsletter Angles
 

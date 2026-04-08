@@ -24,12 +24,14 @@ Circle Internet Financial is a U.S.-based financial technology company and the i
 
 ## Newsletter Relevance
 
-Circle is the clearest beneficiary of the GENIUS Act's passage. As a U.S.-compliant stablecoin issuer, regulatory clarity:
+Circle is the clearest U.S.-domestic beneficiary of the GENIUS Act's passage. As a U.S.-compliant stablecoin issuer, regulatory clarity:
 1. Removes the overhang of SEC enforcement risk.
 2. Enables institutional adoption (banks, fintechs, payment networks can partner without legal uncertainty).
-3. Potentially forces offshore competitors like Tether to either comply or lose U.S. market access.
+3. Positions Circle to capture the U.S. institutional and consumer stablecoin market.
 
-The IPO filing is a direct bet that the regulatory framework will drive the stablecoin market into the trillions — and that Circle will be the dominant compliant issuer.
+The IPO filing is a direct bet on the regulatory framework driving the U.S. stablecoin market larger.
+
+**Important caveat that the wiki should hold:** Circle's compliance perimeter is also Circle's market ceiling. Because Circle is a U.S.-regulated entity subject to OFAC/BSA/KYC obligations, it cannot serve the use case that drives the bulk of [[Tether]]'s float — savers in dollarized or capital-controlled economies (Argentina, Turkey, Nigeria, Lebanon, Venezuela) for whom KYC compliance is the access barrier they are routing around. The DC framing of "Circle is what Tether should become" misunderstands what Tether is actually doing in those markets. See [[Dollarization via Stablecoins]]. "Closing the Tether loophole" does not transfer Tether's user base to Circle; it just removes the rail those users were using.
 
 ## Connections
 

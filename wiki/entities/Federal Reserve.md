@@ -34,7 +34,7 @@ The Federal Reserve (the Fed) is the central bank of the United States, created 
 
 **Politics/Power**: Trump's efforts to stack the board (Miran), fire members (Cook), and publicly humiliate the chair represent an attempt to bring the Fed inside the executive power structure. This is the domestic institutional analog to the foreign policy coercion patterns the newsletter tracks elsewhere.
 
-**Historical context**: The Fed was originally designed to break the cycle of politically driven panics. Every major challenge to its independence — Nixon/Burns, Reagan/Volcker, Trump I/II — has tested whether that design holds.
+**Historical context**: The Fed was originally designed to break the cycle of politically driven panics, but its modern operational independence dates to the [[1951 Treasury-Fed Accord]] — not the 1913 founding. Every major challenge to its independence — Truman vs. the FOMC (1951), [[William McChesney Martin]] vs. LBJ (1965), Nixon vs. [[Arthur Burns]] (1971–73), Reagan vs. [[Paul Volcker]] (1984), Trump I/II vs. [[Jerome Powell]] (2018–present) — has been a renewal-or-loss of the Accord-era refusal that founded the modern norm. Fed independence is contingent and roughly 75 years old, not constitutional.
 
 ## Crypto Week Role (2025)
 
@@ -48,11 +48,13 @@ The GENIUS Act and Crypto Week legislation significantly shaped the Fed's regula
 ## Connections
 
 - [[Jerome Powell]] — current chair
-- [[Arthur Burns]] — chair 1970–1978; capitulated to Nixon; cautionary archetype
-- [[Paul Volcker]] — chair 1979–1987; defeated inflation by resisting political pressure
+- [[William McChesney Martin]] — chair 1951–1970; longest-serving; held the line against LBJ in 1965
+- [[Arthur Burns]] — chair 1970–1978; the contested cautionary archetype (revisionist case complicates the standard narrative)
+- [[Paul Volcker]] — chair 1979–1987; defeated inflation through the two-phase 1980–81 tightening that peaked at ~22%
 - [[Kevin Warsh]] — potential next chair
 - [[Donald Trump]] — current president pressuring the Fed
 - [[Stephen Miran]] — Trump board appointee; former Council of Economic Advisers chair
+- [[1951 Treasury-Fed Accord]] — the institutional basis of modern Fed independence
 
 ## Source Appearances
 

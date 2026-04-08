@@ -43,7 +43,7 @@ Trump's 2025 assault on Federal Reserve independence is the most aggressive exec
 
 ### 3. Domestic Politics — Shutdown, Kirk, ICE, Elections (~60 sources)
 
-The October 1 – November 12, 2025 government shutdown ran 43 days — longest in U.S. history. It overlapped with the [[Charlie Kirk]] assassination (Sept. 10), [[Operation Metro Surge]] (Minnesota ICE crackdown including the [[Killing of Renée Good]]), and the November 4 Democratic sweep ([[Spanberger]] in VA, [[Sherrill]] in NJ, [[Mamdani]] in NYC, CA Prop 50).
+The October 1 – November 12, 2025 government shutdown ran 43 days — longest in U.S. history. It overlapped with the [[Charlie Kirk Assassination]] (Sept. 10), [[Operation Metro Surge]] (Minnesota ICE crackdown including the [[Killing of Renée Good]]), and the November 4 Democratic sweep ([[Abigail Spanberger]] in VA, [[Mikie Sherrill]] in NJ, [[Zohran Mamdani]] in NYC, CA Prop 50).
 
 Key threads:
 - **Shutdown as enforcement leverage**: White House canceled $8B in energy grants to Democratic states on Day 1; explicitly linked restoration to CR passage
@@ -89,15 +89,15 @@ A cluster that builds the case for structural — not individual — explanation
 - **[[BetterHelp]] FTC action**: $7.8M settlement for sharing mental health data with Facebook/Snapchat — the privacy/HIPAA gap
 - **The Bob Weir cluster**: musical practice as a model of sustainable creative attention; the Grateful Dead's improvisational architecture as counterpoint to attention economy
 
-### 7. NFL — Seahawks Dynasty (~50 sources)
+### 7. NFL — Seahawks (~45 sources)
 
-The Seahawks won Super Bowl LX (Feb 8, 2026). The cluster provides a real-time test case for what constitutes a dynasty under modern NFL constraints.
+The Seahawks reached Super Bowl LX (Feb 8, 2026) as NFC champion. ⚠️ **The cluster does not contain a post-game Super Bowl LX recap** — the latest sourced events are the Jan 26 NFC Championship and the Feb 6 pre-game Schneider profile. All "Seahawks won Super Bowl LX" framing in the cluster is provisional pending a post-game source. The cluster is best read as a "potential dynasty window opening" case study, not a "dynasty achieved" one.
 
-- **The Schneider method**: [[John Schneider]] built the Super Bowl roster via compensatory picks, restructured contracts, multi-channel acquisition; no holdovers from prior regime. 10-7 → 14-3 → Super Bowl in one offseason
-- **The Macdonald method**: [[Mike Macdonald]] transformed the same defensive personnel from 25th to 2nd-ranked through scheme (disguised coverages, pre-snap ambiguity). The coaching tree control group: his former assistants at Baltimore, Miami, Tennessee all failed simultaneously, suggesting his contribution is structural/scheme, not personnel
+- **The Schneider method**: [[John Schneider]] built the NFC champion roster via compensatory picks, multi-channel acquisition, and aligned philosophy with his HC. 10-7 → 14-3 → NFC champion in one offseason. ⚠️ The "first GM with zero player or coaching holdovers" claim is contradicted by the wiki's own sources — 9 of the 2023 defensive starters were on the 2025 roster — and should be read as "zero holdovers from the prior coaching regime," not literal player turnover.
+- **The Macdonald method**: [[Mike Macdonald]] improved the Seahawks defense from 25th in points allowed (2023, pre-Macdonald) to 11th (Year 1, 2024) to top-3 (Year 2, 2025) — a *two-season* installation, not a one-season transformation. Scheme-first defense built on MOF disguise, two-high-to-one-high rotations, simulated pressure, and specific coverage variants like 3-Buzz (a Cover-3 with a buzzing safety, not a generic "disguise" umbrella). ⚠️ The "coaching-tree control group" framing (Orr/Weaver/Wilson all struggling) is suggestive, not a true control group — it is a Week 4 sample with uncontrolled confounders (personnel turnover, schedule strength, first-year-DC noise).
 - **Sam Darnold**: career renaissance under specific schematic conditions; $100.5M contract justified
-- **Dynasty framework**: Brady-Belichick benchmark (6 SBs); ~12-14 true dynasties in NFL history; organizational continuity is the master variable
-- **The 2025–26 season arc**: NFC West clinched via 13-3 win over 49ers; 41-6 divisional rematch; OT comeback over Rams in regular season; NFC Championship 31-27 over Rams; Super Bowl LX victory
+- **Dynasty framework**: Brady-Belichick benchmark (6 SBs); a defensible dynasty list must include the 1960s Packers (5 titles), the 1980s-90s 49ers (5 SBs across two HCs), and the current Reid-Mahomes Chiefs (3 SBs in 6 seasons). The Chiefs are the relevant 2026 counter-case: their continuity exists but they are personnel-first / Mahomes-centered, not architecture-first. The 2025 Seahawks fit "potential dynasty window opening," not "dynasty achieved."
+- **The 2025–26 season arc**: Dec 18 Rams OT comeback (38-37); Jan 3 Week 18 13-3 win over 49ers clinches NFC West and #1 seed; Jan 17 Divisional Round 41-6 over 49ers; Jan 26 NFC Championship 31-27 over Rams; Feb 8 Super Bowl LX appearance (game outcome unsourced in this cluster)
 
 ### 8. Iran War & Geopolitical Infrastructure (~10 sources)
 

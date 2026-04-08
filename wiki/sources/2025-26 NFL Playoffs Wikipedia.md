@@ -16,8 +16,8 @@ Wikipedia overview of the 2025-26 NFL playoff bracket. Seattle Seahawks won as t
 
 ## Key Points
 
-- NFC: Seahawks (#1 seed, NFC West winner), Bears (#2), Eagles (#3), Panthers (#4), Rams (#5 wild card)
-- AFC: Broncos (#1 seed), Patriots (#2, East winner), Jaguars (#3), Steelers (#4), Texans (#5 wild card)
+- NFC seeds (partial list extracted on first ingest): Seahawks (#1, NFC West winner), Bears (#2), Eagles (#3), Panthers (#4), Rams (#5). ⚠️ The NFC playoff field is 7 teams (1 division winner per division + 3 wild cards = 7). The 5 seeds above are incomplete; the missing seeds 6 and 7 were not extracted on first ingest. The 49ers were one of the missing wild card seeds — they appear in the Divisional Round vs. Seattle on Jan 17, 2026 per the raw ESPN box score [[Seahawks 41-6 Divisional Win Over 49ers]], confirming they made the playoffs. The earlier wiki framing of "49ers not in the bracket" was an artifact of this incomplete extraction, not a real contradiction.
+- AFC seeds (partial): Broncos (#1), Patriots (#2, East winner), Jaguars (#3), Steelers (#4), Texans (#5 wild card). Same caveat — full 7-team AFC field not fully extracted here.
 - Seahawks won Super Bowl LX — their second title in franchise history (first was Super Bowl XLVIII after 2013 season)
 - First postseason since 2014 without Patrick Mahomes, Tom Brady, or Peyton Manning
 - Wild Card round featured 12 fourth-quarter lead changes in 4 of 6 games

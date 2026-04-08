@@ -3,8 +3,8 @@ title: "Tech-State Conflict"
 type: concept
 tags: [power, depin, politics]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 1
+updated: 2026-04-07
+sources: 19
 ---
 
 ## Definition
@@ -39,4 +39,22 @@ Tech-state conflict describes confrontations between private technology companie
 
 ## Key Sources
 
-- [[Britain woos Anthropic expansion after US defence clash]]
+- [[Britain woos Anthropic expansion after US defence clash]] — private AI company refusing military use; state retaliating with blacklist
+- [[Anthropic vs White House — Anthropic Tries to Keep Pace with OpenAI While Taking on the US Government]] — the structural dynamic this story exemplifies
+- [[Anthropic Raises $3.5B at $61.5B Valuation]] — Anthropic's DoD conflict as backdrop to the fundraise
+- [[Anthropic Catching Up to OpenAI — On Track for $9 Billion Annual Run Rate]] — commercial success context for the political conflict
+- [[Jack Clark on AI Fear — Anthropic Co-Founder Speech]] — Anthropic navigating government relationships while expressing existential AI concern
+- [[Import AI 431 — Technological Optimism and Appropriate Fear]] — the essay as proximate cause of Sacks's attack on Anthropic
+- [[Senate Republicans Hold Social Media Jawboning Hearing — Transcript]] — government-platform relationship as contested terrain
+- [[Apple Loses UK Antitrust Lawsuit Over App Store Fees]] — judicial enforcement against tech platform power
+- [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]] — antitrust law as regulatory check on AI company power
+- [[EU AI Act — First Regulation on Artificial Intelligence]] — EU regulation as state assertion over the AI industry
+- [[Thaler v Vidal — Federal Circuit DABUS Patent Ruling 2022]] — courts refusing to adapt IP law to AI-generated output
+- [[Fueling the Fire — Social Media and Political Polarization]] — platforms vs. government regulation dynamic
+- [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]] — algorithmic journalism regulation as contested across jurisdictions
+- [[State of Digital Health 2024 — CB Insights]] — FDA regulation of AI-powered diagnostics as emerging chokepoint
+- [[How Much Money Do OpenAI and Anthropic Actually Make]] — political positioning of AI companies in context of financial fragility
+- [[What's Next in AI — Microsoft 7 Trends 2026]] — AI sovereignty and security within enterprise AI deployments
+- [[AI Tech Trends 2026 — IBM Think]] — AI sovereignty as enterprise concern; geopolitical trust shaping data flows
+- [[Google Search Quality Rater Guidelines — Key Insights About AI Use]] — Google's AI content policies as regulatory self-defense
+- [[If Hate-Fueled Algorithms Cause Real-World Harm, California's Tech Companies Should Pay]] — California vs. Silicon Valley state-level conflict

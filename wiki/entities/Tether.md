@@ -10,7 +10,14 @@ sources: 4
 
 ## Overview
 
-Tether (USDT) is the world's largest stablecoin by market capitalization, issued by Tether Ltd., a company registered in the British Virgin Islands with operations historically tied to Bitfinex exchange. It is a dollar-pegged stablecoin — 1 USDT is supposed to equal $1 in USD value — maintained by reserves held by Tether Ltd. Tether is the dominant stablecoin in global crypto trading, but has faced sustained scrutiny for reserve opacity, alleged facilitating of illicit finance, and its offshore structure. The [[GENIUS Act]] created what critics call a "Tether loophole" — allowing offshore issuers to continue trading on U.S. decentralized exchanges even without complying with U.S. regulations.
+Tether (USDT) is the world's largest stablecoin by market capitalization (~$120–140B in mid-2025), issued by Tether Ltd., a company registered in the British Virgin Islands with operations historically tied to Bitfinex exchange. It is a dollar-pegged payment instrument — a redemption claim on USD held in Tether's reserves — and is the dominant settlement asset in global crypto trading. Tether occupies two roles simultaneously, and **the wiki should hold both honestly rather than picking the framing of either side's lobbyists**:
+
+1. **Compliance problem.** Tether has had documented reserve attestation issues, settled with the NYAG ($18.5M, 2021) and CFTC ($41M, 2021) over reserve misrepresentation, and operates outside U.S. regulatory perimeters. Senate Banking Committee Democratic staff (whose framing is partly informed by [[Circle]]'s commercial interest in displacing USDT) called it "the new kingpin of illicit crypto activity."
+2. **Dollar export infrastructure.** Tether is the de facto dollar in Argentina, Turkey, Nigeria, Lebanon, Venezuela, and Russia-adjacent commerce. Hundreds of millions of users in capital-controlled or failing-currency economies use USDT to hold dollar value when their domestic banking systems block direct USD access. Tether holds more U.S. Treasuries than Germany — that is not a paradox, it is the entire point. Tether is the most effective mechanism the U.S. has ever had for exporting dollar demand to capital-controlled economies. See [[Dollarization via Stablecoins]] for the empirical detail.
+
+**Why these two views describe the same product:** the "financial crime vector" framing and the "dollar-access tool" framing differ on whose monetary sovereignty you are counting. To the U.S. Treasury and Senate Banking Democrats, USDT routing around BSA/KYC/sanctions perimeters is a compliance problem. To an Argentine saver whose peso has lost half its value, USDT is the only available product. Both descriptions are accurate.
+
+The [[GENIUS Act]] created what critics call a "Tether loophole" — allowing offshore issuers to continue trading on U.S. decentralized exchanges. But "closing the Tether loophole" is, in operational terms, code for transferring Tether's user base to Circle — which is impossible because Circle (as a U.S.-regulated entity subject to OFAC) cannot serve the dollarized-economy users for whom KYC/AML perimeters are themselves the access barrier. This is the structural feature of the situation that the DC framing misses.
 
 ## Key Facts
 
@@ -26,12 +33,17 @@ Tether (USDT) is the world's largest stablecoin by market capitalization, issued
 
 ## Newsletter Relevance
 
-Tether is the most important test case for whether stablecoin regulation can actually work. The GENIUS Act was partly built around closing the Tether problem — requiring 100% reserves, AML compliance, U.S. regulatory oversight. Critics argue the final bill fails this test. If Tether continues to circulate freely in U.S. digital markets without compliance, the regulatory framework is porous. For the dollar hegemony angle: Tether holds billions in U.S. Treasuries — it's simultaneously a financial crime vector and a prop for U.S. debt.
+Tether is the most underwritten stablecoin story of 2025–2026, and the wiki's strongest unclaimed lane. The dominant DC framing ("Tether bad, Circle good, close the loophole") is laundered Senate Banking Democratic staff language that mistakes compliance status for product description. The crypto-Twitter framing ("Tether is fine, leave it alone") is laundered Tether PR. Neither captures the structural fact that USDT is the most effective dollar-export product the United States has ever built — and that the regulated U.S. alternative is operationally incapable of replacing it because the regulatory perimeter (KYC, AML, sanctions screening) is exactly the barrier dollarized-economy users are routing around.
+
+The newsletter angle: **"Tether is not the problem the GENIUS Act says it is. Here's what Tether actually does in Buenos Aires."** This requires holding "USDT is a compliance nightmare" and "USDT is the most successful dollar-export product the U.S. has ever built" as simultaneously true. See [[Dollarization via Stablecoins]] for the supporting argument.
+
+This does not whitewash Tether. The reserve-opacity history is real, the settlement with NYAG/CFTC is real, the illicit-finance use cases are real. But the wiki should not adopt one side's framing as if it were neutral description.
 
 ## Connections
 
-- [[Circle]] — regulated U.S.-based competitor (USDC); the contrast highlights Tether's opacity
-- [[GENIUS Act]] — creates framework Tether was designed to address, but critics say falls short
+- [[Circle]] — regulated U.S. competitor (USDC); Circle cannot operationally serve dollarized-economy users because of its regulatory perimeter
+- [[GENIUS Act]] — created the "Tether loophole"; the loophole is partly a feature, not a bug, depending on whose monetary sovereignty you're counting
+- [[Dollarization via Stablecoins]] — the empirical context for what Tether actually does
 - [[Stablecoin Legislation]] — broader context of why Tether matters to regulatory debate
 
 ## Source Appearances

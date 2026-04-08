@@ -8,22 +8,24 @@ updated: 2026-04-07
 sources: 10
 ---
 
+> ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** No raw post-game Super Bowl LX recap exists in this cluster; the latest sourced events are the Jan 26, 2026 NFC Championship and the Feb 6, 2026 pre-game Schneider profile. Statements that Schneider "won" Super Bowl LX trace to the pre-game profile and the bracket entry, not to a game recap.
+
 ## Overview
 
-General Manager of the Seattle Seahawks since 2010. Considered one of the most analytically sophisticated front office executives in the NFL. Built two distinct championship-caliber rosters: the 2012–2015 Legion of Boom era (1 Super Bowl win) and the 2024–2026 rebuild around [[Mike Macdonald]]'s defensive vision (Super Bowl LX win). Named NFL Executive of the Year 2026.
+General Manager of the Seattle Seahawks since 2010. Considered one of the most analytically sophisticated front office executives in the NFL. Built two distinct championship-caliber rosters: the 2012–2015 Legion of Boom era (1 Super Bowl win) and the 2024–2026 rebuild around [[Mike Macdonald]]'s defensive vision (NFC champion 2025). Named NFL Executive of the Year 2026.
 
 ## Key Facts
 
 - GM since January 2010; first hired by Pete Carroll as collaborative partner in a coach-GM model
-- Led Seahawks to Super Bowl XLVIII win (2014 season), Super Bowl XLIX loss, and Super Bowl LX win (2025 season)
-- In 2026, became the first GM ever to lead a team to the Super Bowl with zero player or coaching holdovers from a previous roster [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]]
+- Led Seahawks to Super Bowl XLVIII win (2013 season), Super Bowl XLIX loss (2014 season), and Super Bowl LX appearance (2025 season)
+- ⚠️ **Contradiction**: WBAY's pre-game profile claims Schneider became "the first GM ever to lead a team to the Super Bowl with zero holdovers from any previous roster (player or coaching staff)." [[Seahawks Are Biggest Threat to Overthrow the NFC]] explicitly states **9 of the 2023 defensive starters were still on the 2025 roster**. The literal "zero holdovers" claim is therefore unsupported. The defensible version is "first GM to lead a team to the Super Bowl with zero holdovers from the prior *coaching* regime" — i.e., Schneider stayed but every coach Pete Carroll hired was replaced. [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]]
 - 2026 roster construction: signed [[Sam Darnold]] ($100.5M/3yr), acquired Cooper Kupp, DeMarcus Lawrence; released D.K. Metcalf and Tyler Lockett; aligned roster with Macdonald's scheme
-- Maintains cap discipline others don't: $128.3M projected available for 2027 while winning Super Bowl LX [[Schneider Solved the Salary Cap While Everyone Else Complained]]
+- Maintains cap discipline others don't: $128.3M projected available for 2027 entering Super Bowl LX [[Schneider Solved the Salary Cap While Everyone Else Complained]]
 - Treats the salary cap as a systems optimization problem, not a constraint
 
 ## Newsletter Relevance
 
-**Power & Systems**: Schneider is the clearest case in professional sports of a front office executive treating organizational management as a *systems problem* rather than a talent problem. His cap philosophy — young talent on rookie deals, strategic veteran signings, never restructure to defer — is the sports equivalent of the argument that structural clarity beats reactive optimization.
+**Power & Systems**: Schneider is the clearest case in professional sports of a front office executive treating organizational management as a *systems problem* rather than a talent problem. His cap approach — young talent on rookie deals, strategic veteran signings, comp picks, and notably restrained use of restructures-to-defer — is the sports equivalent of the argument that structural clarity beats reactive optimization. ⚠️ Note: maximizing comp picks and rookie-deal leverage are table stakes for any competently run NFL front office (Eagles/Roseman, Chiefs/Veach, etc.); Schneider's distinctive edge is the *combination* of long tenure, clean cap sheets, and aligned philosophy with his HC, not any single tactic.
 
 **Power**: The lesson from Schneider is that sustained dominance in a constrained-resource environment comes from *how you think about the constraint*, not from the resources themselves. Every team has the same cap. Only a few treat it as an intelligence test.
 

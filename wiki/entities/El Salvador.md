@@ -10,7 +10,9 @@ sources: 15
 
 ## Overview
 
-El Salvador is a small Central American country of ~6.5 million people. Under President [[Nayib Bukele]], it made global headlines in 2021 as the first country to adopt Bitcoin as legal tender. The experiment largely failed by its own metrics, and El Salvador removed Bitcoin's mandatory legal tender status in early 2025 as a condition of an IMF $1.4 billion loan — though the government continues to hold Bitcoin and it remains legal for private trade.
+El Salvador is a small Central American country of ~6.5 million people, already ~90% dollarized before the Bitcoin experiment (USD has been legal tender since 2001). Under President [[Nayib Bukele]], it made global headlines in 2021 as the first country to adopt Bitcoin as legal tender. The experiment largely failed by its own metrics, and El Salvador removed Bitcoin's mandatory legal tender status in early 2025 as a condition of an IMF $1.4 billion loan — though the government continues to hold Bitcoin and it remains legal for private trade.
+
+**Terminology precision:** El Salvador's Bitcoin Law was a **currency policy** (a legal-tender mandate requiring businesses to accept Bitcoin in payment of debts), not a **money policy** (Bitcoin's volatility prevented it from performing the unit-of-account or store-of-value functions that define money in the economic sense). The 92%-non-use number documents the failure of the *currency* mandate, not a separate failure of Bitcoin-as-money — Bitcoin was never going to be money in the economic-function sense in a country where the unit of account is already USD. As a *speculative sovereign reserve allocation* (a different policy question), El Salvador's holdings appreciated substantially. The wiki holds these two evaluations separately and does not use one to settle the other.
 
 ## Key Facts
 

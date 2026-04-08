@@ -9,7 +9,9 @@ sources: 7
 
 ## Definition
 
-A Central Bank Digital Currency (CBDC) is a digital form of a nation's fiat currency issued directly by the central bank — as opposed to commercial bank deposits or private stablecoins. A U.S. retail CBDC (a "digital dollar") would be a Federal Reserve liability held directly by consumers, analogous to physical cash but digital. During U.S. "Crypto Week" in July 2025, the Anti-CBDC Surveillance State Act was passed by the House, explicitly blocking the Federal Reserve from issuing a retail CBDC.
+A Central Bank Digital Currency (CBDC) is a digital form of a nation's fiat currency, issued as a **direct liability of the central bank** — as opposed to commercial bank deposits (liabilities of private banks) or private stablecoins (liabilities of private issuers). A U.S. retail CBDC would be a Federal Reserve liability held directly by consumers, the digital analog of physical cash. During U.S. "Crypto Week" in July 2025, the Anti-CBDC Surveillance State Act was passed by the House, explicitly blocking the Federal Reserve from issuing a retail CBDC.
+
+**Terminology note:** A CBDC, a stablecoin, and a bank deposit are all *payment instruments* denominated in dollars, but they differ in *who is liable for redemption*. A CBDC is direct central-bank money. A stablecoin is a *redemption claim* on dollar money issued by a private firm. A bank deposit is a claim on a commercial bank. None of these is "currency" in the legal-tender sense — currency is the legal status of a payment medium, not its technical form. The Anti-CBDC vs. GENIUS choice is a choice between two private-issuer models of digital dollar payment instruments, not a choice about the dollar itself.
 
 ## Why It Matters
 

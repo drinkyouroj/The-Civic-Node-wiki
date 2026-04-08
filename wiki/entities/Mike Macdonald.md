@@ -8,6 +8,8 @@ updated: 2026-04-07
 sources: 14
 ---
 
+> ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** The latest sourced events in this cluster are the Jan 26, 2026 NFC Championship and the Feb 6, 2026 pre-game Schneider profile. No raw post-game Super Bowl LX recap exists in the cluster as of 2026-04-07. All "Super Bowl LX winner" claims here trace to the pre-game profile or to the bracket entry, not to a game recap.
+
 ## Overview
 
 Head coach of the Seattle Seahawks since 2024. Former Baltimore Ravens defensive coordinator (2022–2023). Known for defensive scheme complexity — pre-snap disguise, post-snap deception, positional versatility requirements — that became the analytical subject of the essay "Disguise and Destroy." In his second season (2025), led the Seahawks to Super Bowl LX.
@@ -15,17 +17,19 @@ Head coach of the Seattle Seahawks since 2024. Former Baltimore Ravens defensive
 ## Key Facts
 
 - Hired as Seahawks HC January 2024, replacing Pete Carroll
-- Ravens DC background: took a 25th-ranked defense to 2nd-ranked in one season through *architectural* changes, not personnel upgrade [[Disguise and Destroy — The Macdonald Method That Broke NFL Offenses]]
+- **Seahawks defensive trajectory under Macdonald**: 25th in points allowed (2023, pre-Macdonald) → 11th (Year 1, 2024) → top-3 (Year 2, 2025; #1 in defensive DVOA per Week 12 statistical snapshot). The improvement is two seasons of installation, not one [[How Macdonald Is Authoring a New Chapter of Seahawks Defensive Dominance]] [[Where Seahawks Defense Ranks Among League's Best]]
+- Ravens DC background: inherited a defense ranked 19th in scoring → improved to 3rd in Year 1 (2022) → 1st in Year 2 (2023) — single-season improvements at Baltimore that the Seahawks transformation echoes [[Appreciate the Wizardry of Ravens Coordinator Mike Macdonald]]
 - His defensive vision drove [[John Schneider]]'s personnel decisions in the rebuild: every acquisition was evaluated against scheme fit
 - Communication style noted as a key organizational differentiator — direct, philosophy-first, information-sharing across departments
 - Ravens DC philosophy origin (2022): explicitly redefined "aggression" from blitz-volume to information-warfare — "What does aggressiveness actually mean? It's about keeping the offense off-balance" [[Don't Expect the Ravens' Defense to Lose Their Aggression with Macdonald as DC]]
 - In Baltimore's 2023 season (Year 2 as DC): 11 Ravens players had at least one sack; blitzed at only 21.5% but led league with 54 sacks; shift to coverage diversity, Non-Traditional Tampas, 27.8% MOF disguise rate (vs. predecessor Martindale's 16.3%) [[Ravens Pass Rush Is Being Unleashed]] [[Cool Clips — Ravens Tag Sim vs. the Lions]]
 - NFC Championship 2026: blitzed only 6% of the time in the first half yet Seattle ranked 5th in pressure rate for the season — scheme over blitz volume in the highest-stakes game [[NFC Championship — ESPN Game Analysis]]
-- His defensive system transferred distinctly: all his former Ravens assistants (Zach Orr, Anthony Weaver, Dennard Wilson) have struggled — Baltimore fell from 1st to 32nd in points allowed; Macdonald's Seahawks ranked 1st in defensive DVOA [[Seahawks Are Biggest Threat to Overthrow the NFC]]
+- Coaching-tree pattern: his former Ravens assistants (Zach Orr at Baltimore, Anthony Weaver at Miami, Dennard Wilson at Tennessee) all had struggling defenses early in 2025 (Week 4 snapshot: Ravens 32nd, Dolphins 30th, Titans 26th in points allowed); Macdonald's Seahawks ranked 1st in defensive DVOA. ⚠️ This is a Week 4 sample with uncontrolled confounders (personnel turnover, schedule strength, first-year-DC noise) — suggestive, not a true control group. [[Seahawks Are Biggest Threat to Overthrow the NFC]]
+- Source contradiction on the post-Macdonald Ravens decline: Seaside Joe (Sept 2025) reports Baltimore went 1st (2023) → 9th (2024) → 32nd (Week 4, 2025); the [[Defensive Scheme Architecture]] page summarizes this as 1st → 30th. The "1st → 32nd in points allowed" framing here uses the Week 4, 2025 snapshot from Seaside Joe — full-season figures may differ.
 
 ## Newsletter Relevance
 
-**Systems Thinking**: Macdonald represents the "architecture beats talent" thesis. The same 25th-ranked defensive personnel becomes 2nd-ranked when the *structural system* changes. This is the same insight as Schneider's cap philosophy: the constraint (talent, money) is less determining than how you structure around it.
+**Systems Thinking**: Macdonald represents the "architecture beats talent" thesis. The same 25th-ranked defensive personnel improves to 11th in Year 1 and to top-3 in Year 2 when the *structural system* changes — and it's worth noting that 9 of the 2023 defensive starters were still on the 2025 roster per [[Seahawks Are Biggest Threat to Overthrow the NFC]], so the "same players, different scheme" framing is at least defensible at the unit level (though offseason churn at safety/edge complicates a strict apples-to-apples). This is the same insight as Schneider's cap philosophy: the constraint (talent, money) is less determining than how you structure around it.
 
 ## Connections
 

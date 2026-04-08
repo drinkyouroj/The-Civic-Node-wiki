@@ -22,7 +22,7 @@ Steve Bannon, political strategist and Trump ally. Convicted in 2022 for contemp
 - **2022 conviction**: Contempt of Congress for refusing subpoena; claimed he relied on lawyer's advice that Trump could invoke executive privilege
 - **2024 prison sentence**: Served four months (Supreme Court rejected 2024 bid to remain free during appeal)
 - **2021 pardon**: Already pardoned by Trump for border wall fraud charges (We Build the Wall GoFundMe scheme)
-- **April 6, 2026**: SCOTUS vacated contempt conviction at Trump DOJ request; case sent back to district court for dismissal
+- **April 6, 2026**: SCOTUS granted a Munsingwear-style vacatur of the contempt conviction on Trump DOJ motion; case sent back to district court for dismissal. The procedural vehicle (DOJ-requested vacatur per *United States v. Munsingwear* (1950)) is routine and has ~75 years of precedent; the substantive novelty is the use of that vehicle to erase a completed post-service criminal sentence as political accommodation. See [[Retroactive Executive Protection]] for the framing correction.
 
 ## Newsletter Relevance
 

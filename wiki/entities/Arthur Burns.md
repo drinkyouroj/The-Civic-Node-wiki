@@ -27,17 +27,22 @@ Arthur Burns served as Federal Reserve Chair from 1970 to 1978 under Presidents 
 
 **Monetary Policy**: Burns is the negative archetype that Jerome Powell explicitly invokes when explaining why he won't cave to Trump's pressure. Understanding Burns is understanding what the Fed is trying to avoid in 2025.
 
-**Politics/Power**: The Nixon-Burns dynamic is the closest historical parallel to Trump-Powell. Nixon used personal relationships, informal pressure, and public signaling; Trump uses social media attacks, renovation pretexts, and board appointments. The mechanism is different; the intent is the same.
+**Politics/Power**: The Nixon-Burns dynamic is *a* historical parallel to Trump-Powell, but it is not the closest one and using it as such has been quietly distorting the wiki's analysis. The closest parallel is actually [[William McChesney Martin]] vs. LBJ (1965) — a chair who held the line under direct presidential pressure and was vindicated. Nixon used personal relationships, informal pressure, and public signaling; Trump uses social media attacks, renovation pretexts, and board appointments. The mechanism differs; the intent is comparable.
 
-**Pattern**: Burns shows that institutional independence can fail not through overt assault but through incremental capitulation. Each small accommodation makes the next easier, and the cumulative damage takes a decade to manifest and a brutal recession to fix.
+**The endogenous-shock problem (Trump 2025 vs. Nixon 1973)**: The Burns-Powell parallel has a structural defect that the wiki should make explicit. The 1973–74 supply shock that made Burns's job impossible was *exogenous* — Nixon did not cause the OPEC embargo. The 2025 supply shock that is testing Powell is *endogenous* — Trump's tariffs *are* the supply shock the Fed is being pressured to ignore. The same political actor demanding rate cuts is also the actor manufacturing the inflation that justifies holding. This makes the 2025 configuration not Burns-redux but *structurally different* and arguably worse: Burns at least faced an inflation source the president could not unilaterally remove, while Powell faces an inflation source the president could end with a signature and chooses not to. The honest historical claim is not "Powell must avoid being Burns" — it is "Powell is in a configuration with no clean precedent, closest to Martin–LBJ but with the additional perversity of an endogenous shock."
+
+**Pattern**: Burns has functioned in mainstream commentary as the negative archetype for what happens when institutional independence fails through incremental capitulation. The revisionist case (see Contradiction note below) complicates whether "capitulation" is even the right description. Whichever framing is correct, the Burns/Powell analogy should be used as a *contested* parallel, not a settled one.
 
 ## Connections
 
 - [[Federal Reserve]] — institution Burns led
 - [[Paul Volcker]] — successor who inherited and fixed Burns's inflation legacy
+- [[William McChesney Martin]] — Burns's predecessor; held the line against LBJ in 1965 (the positive counterpart to Burns)
+- [[1951 Treasury-Fed Accord]] — the institutional precondition for any Fed chair, including Burns, to face this kind of pressure at all
 - [[Donald Trump]] — current president using Burns-style pressure on Powell
 - [[Jerome Powell]] — trying explicitly not to be Arthur Burns
 - [[Nixon Shock]] — related Nixon-era monetary policy disruption (gold window closure, 1971)
+- [[Fed Independence]] — the broader concept page where the Burns/Powell parallel is contested
 
 ## Source Appearances
 

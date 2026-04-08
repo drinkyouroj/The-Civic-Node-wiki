@@ -19,13 +19,16 @@ Academic-style criteria (per [[What Makes An NFL Dynasty]]): multiple Lombardi T
 
 ## Evidence & Examples
 
-### True NFL Dynasties (selective)
+### True NFL Dynasties (selective; not exhaustive)
 - **1940-46 Chicago Bears**: Greatest single-era concentration; went 55-10-2; 4 championships in 7 years
-- **1972-79 Miami Dolphins / 1974-79 Pittsburgh Steelers**: Sustained dominance in early cap-free era
+- **1961-67 Green Bay Packers**: Lombardi era — 5 NFL championships in 7 years, including the first two Super Bowls. Often listed as the top-2 dynasty in NFL history. The wiki previously omitted this; it is indefensible to discuss "12-14 dynasties" without it.
+- **1972-79 Miami Dolphins / 1974-79 Pittsburgh Steelers**: Sustained dominance in early cap-free era; the Steelers won 4 Super Bowls in 6 years
+- **1981-94 San Francisco 49ers**: Walsh / Seifert / Montana / Young — 5 Super Bowl wins across two HC tenures with sustained organizational continuity. The 49ers are the canonical "scheme + continuity + QB development" dynasty and are a direct precedent for the Seahawks' organizational thesis. The wiki previously omitted this.
 - **1993-96 Dallas Cowboys**: 3 Super Bowls in 4 years; compressed peak
 - **2000-04 / 2014-18 New England Patriots**: The modern paradigm; 6 total Super Bowl wins, 9 appearances over 20 years with [[Bill Belichick]] + [[Tom Brady]]
+- **2019-present Kansas City Chiefs (Reid / Mahomes / Veach)**: 3 Super Bowl wins, 5 appearances in 6 seasons through 2024. The Chiefs are the most recent and most relevant comparison for any 2026 dynasty discussion — and they are a *counter-case* to the "organizational continuity is the master variable" thesis: they are personnel-first and Mahomes-centered, not architecture-first. Any honest 2026 dynasty framework must engage with them. The wiki previously omitted this entirely.
 - **2012-15 Seattle Seahawks**: Mini-dynasty; 2 Super Bowl appearances, 1 win; ended with Legion of Boom cap casualties
-- **2026 Seattle Seahawks**: Under [[John Schneider]] + [[Mike Macdonald]], won Super Bowl LX; cap position suggests a sustained window, not a one-year peak
+- **2025 Seattle Seahawks**: Under [[John Schneider]] + [[Mike Macdonald]], NFC champion and Super Bowl LX participant. ⚠️ With one Super Bowl win (XLVIII, 2013 season) plus the 2025 NFC Championship across two completely different eras 12 years apart, this is a "potential dynasty window" — *not* a current dynasty under the page's own multi-year multi-championship criterion. Earlier wording on this page conflated "window opened" with "dynasty achieved" and has been corrected.
 
 ### Why Dynasties Are Rare in the NFL (vs. Other Sports)
 - 53-man rosters + salary cap = maximum exposure to variance

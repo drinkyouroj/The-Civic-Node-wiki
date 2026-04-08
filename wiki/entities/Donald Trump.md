@@ -31,21 +31,30 @@ sources: 40
 
 ## Crypto Conflicts of Interest (2025)
 
-Trump's personal financial exposure to the crypto industry raises unprecedented conflict-of-interest questions about the GENIUS Act and Crypto Week legislation he signed.
+Trump's personal financial exposure to the crypto industry while signing crypto legislation is a textbook presidential conflict of interest. Note: this is a claim about *Trump's personal stake* in the asset class his administration regulates. It is **separate from** the question of whether the [[GENIUS Act]] or [[CLARITY Act]] are good or bad legislation on the merits — the analytical critiques of those bills (Tether loophole, CFPB exclusion, bailout priority structure) stand or fall on their own and are evaluated on the dedicated concept pages. A reader should be able to hold both "the GENIUS Act may be a reasonable first attempt at a stablecoin framework" and "Trump has a corrupt personal stake in its primary asset class" simultaneously. The wiki does not collapse the two.
 
-- **World Liberty Financial (WLF)**: Trump family holds majority stake (60%) in this DeFi protocol; WLF raised ~$550M from investors including significant foreign capital; Trump family entitled to 75% of net revenue. Estimated Trump family gain: $57M+ from WLF alone [[Congress Advances Crypto Bills — StratNews Global]].
-- **USD1 Stablecoin**: WLF issued its own stablecoin (USD1). If the GENIUS Act drives stablecoin adoption into the trillions, Trump directly profits as a stablecoin issuer — the same class of asset the GENIUS Act regulates [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]].
-- **$TRUMP Meme Coin**: Trump launched a personal meme coin ($TRUMP) days before his January 20 inauguration; generated enormous speculative trading volume; Trump insiders hold majority of tokens.
-- **$Melania Meme Coin**: Melania Trump launched a parallel meme coin simultaneously.
-- **Trump Media Crypto ETF**: Trump Media & Technology Group (TMTG) filed to launch a crypto ETF — diversifying Trump's financial exposure to the asset class his administration was simultaneously moving to regulate favorably.
-- **2024 Campaign Crypto Donations**: Trump received approximately $119M–$250M in crypto industry spending (across super PACs and direct) during the 2024 cycle.
-- **White House Defense**: When asked about conflicts, White House officials said Trump "complies with all applicable laws" and pointed to existing disclosure requirements. No prohibition on the president profiting from stablecoin ventures exists in the GENIUS Act or the CLARITY Act.
+What Trump owns:
+
+- **World Liberty Financial (WLF)**: Trump family holds a majority stake (60%) in this DeFi protocol; WLF raised ~$550M from investors including significant foreign capital; Trump family entitled to 75% of net revenue. Estimated Trump family gain: $57M+ from WLF alone [[Congress Advances Crypto Bills — StratNews Global]].
+- **USD1 Stablecoin**: WLF issues its own stablecoin (USD1). If GENIUS-style regulation drives stablecoin adoption into the trillions, Trump directly profits as a stablecoin issuer in the asset class his administration regulates [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]].
+- **$TRUMP meme coin**: Launched days before the January 20 inauguration; enormous speculative trading volume; Trump insiders hold the majority of tokens.
+- **$Melania meme coin**: Parallel meme coin launched simultaneously.
+- **Trump Media Crypto ETF**: Trump Media & Technology Group (TMTG) filed with the SEC in July 2025 to launch a crypto ETF.
+- **2024 campaign crypto donations**: Trump was the first major-party presidential candidate to accept campaign donations via crypto. Crypto industry spent ~$119M–$250M backing pro-crypto candidates in the 2024 cycle.
+
+White House position: assets are "in a trust managed by his children"; officials say Trump "complies with all applicable laws." There is no statutory prohibition on the president profiting from stablecoin ventures in either the GENIUS Act or the CLARITY Act.
+
+What is contested vs. what is conceded:
+
+- **Conceded fact**: Trump has a direct personal financial interest in the success of stablecoins as an asset class.
+- **Contested claim**: That the specific provisions of the GENIUS Act exist *because of* this stake. The "USD" ticker carve-out and the public-vs-private issuer distinction may be defensible drafting decisions on the merits — see [[GENIUS Act]] for the policy analysis. The conflict-of-interest critique (this page) and the legislative-merits critique (concept pages) are separate layers and should stay separate.
 
 ## Crypto Policy Actions (2025)
 
-- **January 23, 2025 — Executive Order on Digital Financial Technology**: Signed day three of second term. Established President's Working Group on Digital Asset Markets, chaired by David Sacks ("AI and Crypto Czar"). Set 180-day deadline for policy reports — the deadline that drove Crypto Week's July 2025 timeline [[Trump EO on Digital Financial Technology — White House]].
+- **January 23, 2025 — Executive Order on Digital Financial Technology**: Signed day three of second term. Revoked Biden's EO 14067; prohibited CBDC development; established President's Working Group on Digital Asset Markets, chaired by David Sacks ("AI and Crypto Czar"). Set 180-day deadline for policy reports — the deadline that drove Crypto Week's July 2025 timeline [[Trump EO on Digital Financial Technology — White House]].
 - **July 18, 2025 — GENIUS Act signing**: Signed the first federal stablecoin regulatory framework into law at a White House ceremony. Called it "one of the most consequential pieces of legislation for American financial dominance in modern history."
-- **Anti-CBDC EO**: Directed federal agencies to never issue a U.S. CBDC — later codified by Congress in the Anti-CBDC Surveillance State Act.
+- **Anti-CBDC EO**: Directed federal agencies never to issue a U.S. CBDC — later codified by Congress in the Anti-CBDC Surveillance State Act.
+- **Stated target**: Make the U.S. the "Crypto Capital of the World."
 
 ## Federal Reserve Pressure Campaign (2025)
 
@@ -59,24 +68,6 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - Announced tariffs that raised the US effective rate to 20.6% (highest since 1910) — the same tariffs that prevented the rate cuts Trump demanded [[State of U.S. Tariffs July 14, 2025]]
 - Japan trade deal (July 2025): $550B investment commitment; 15% reciprocal tariffs (down from threatened 25%); demonstrates tariffs-as-leverage model [[Trump secures $550B trade deal with Japan]]
 
-## Crypto Conflicts of Interest (2025)
-
-Trump's crypto policy agenda is directly intertwined with his personal financial interests — the most explicit conflict of interest in recent presidential history:
-- **World Liberty Financial**: Crypto company partly owned by Trump and his sons; earned Trump ~$57 million by mid-2025.
-- **$TRUMP meme coin**: Launched January 2025; flash-in-the-pan meme coin bearing his name.
-- **$Melania meme coin**: Similar Trump-family crypto venture.
-- **Trump Media "Crypto Blue-Chip ETF"**: Trump Media & Technology Group filed with SEC in July 2025 to launch a cryptocurrency ETF.
-- **USD1 stablecoin**: World Liberty Financial's stablecoin; one of the world's largest. The GENIUS Act explicitly allows "USD" abbreviation in stablecoin names (carving out benefit for USD1) and permits private companies (as opposed to public companies) to issue stablecoins — a structure that benefits Trump's private venture.
-- **2024 campaign**: Trump was the first major-party presidential candidate to accept campaign donations via crypto. Crypto industry spent $119M-$250M (sources vary) backing pro-crypto candidates in 2024 elections.
-
-The White House position: "No conflicts of interest" — assets are in a trust managed by his children.
-
-## Crypto Policy Actions (2025)
-
-- January 23, 2025: Signed EO "Strengthening American Leadership in Digital Financial Technology" — revoked Biden's EO 14067; prohibited CBDC development; created President's Working Group on Digital Asset Markets (chaired by David Sacks).
-- Signed GENIUS Act into law July 18, 2025 — first major federal crypto legislation.
-- Target: Make the U.S. the "Crypto Capital of the World."
-
 ## 2025 Elections and Domestic Political Losses
 
 - November 4, 2025: Democrats swept all major races — VA governor (Spanberger), NJ governor (Sherrill), NYC mayor (Mamdani), CA Prop 50 [[Democrats sweep the first major elections of Trump's second term]]
@@ -85,7 +76,7 @@ The White House position: "No conflicts of interest" — assets are in a trust m
 - Epstein files: 49% of Americans say Trump is covering them up; his worst approval rating on any tracked issue (25% approve, 56% disapprove of his Epstein handling) [[Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes]]
 - Kirk assassination response: blamed only "radical left" rhetoric; omitted Democratic victims; called for "revenge at the voter box" [[Trump blames the radical left for Charlie Kirk's killing]] [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]]
 - Dec. 17, 2025 prime-time address: repeated numerous false claims on inflation, grocery prices, investments, immigration numbers [[Fact check Trump repeats numerous false claims in prime-time address]]
-- Shutdown: Oct. 2025 government shutdown became longest in US history (36+ days); broke Trump's own first-term record of 35 days [[Supreme Court hears tariff arguments; government shutdown becomes record longest]]
+- Shutdown: Oct 1 – Nov 12, 2025 government shutdown ran 43 days, becoming the longest full-government shutdown in US history; broke Trump's own first-term record of 35 days [[Supreme Court hears tariff arguments; government shutdown becomes record longest]] [[2025 United States Government Shutdown]]
 
 ## Connections
 

@@ -32,9 +32,17 @@ The Petrodollar System is the root architecture of U.S. financial hegemony. By e
 - By mid-1970s: System formalized; OPEC countries universally pricing oil in USD.
 - This replaced gold convertibility with oil commodity convertibility as the dollar's anchor.
 
-## Stablecoin as Petrodollar Successor?
+## Stablecoin as Petrodollar Successor? — Rhetorical, Not Mechanical
 
-Some analysts argue the GENIUS Act's T-bill reserve requirement creates a "digital petrodollar" system: stablecoin issuers must hold U.S. Treasuries, creating structural dollar/Treasury demand in the digital age analogous to petrodollar recycling. If global digital payments shift to dollar-pegged stablecoins, every digital transaction becomes a structural dollar demand event — a more decentralized but functionally similar mechanism to the petrodollar's oil-based demand.
+Some analysts argue the GENIUS Act's T-bill reserve requirement creates a "digital petrodollar" system. The analogy is rhetorically attractive but structurally weak. The petrodollar system worked because:
+
+1. **Oil was a chokepoint commodity**, priced and invoiced globally in dollars under a Saudi-U.S. arrangement.
+2. **OPEC surpluses generated involuntary recycling** — exporters had to park dollar earnings somewhere, and Treasuries were the deepest market.
+3. **Reserve currency status** (in the international monetary sense) was reinforced through *invoicing share*, *FX reserves held by foreign central banks*, and *settlement network effects* — not just through who happened to buy bills.
+
+The stablecoin analog only touches piece (3), and only at the front of the curve. Stablecoin issuers buy T-bills as *backing* (sense (a) of "reserve"), which is a very different concept from *reserve currency status* (sense (b)). The wiki used to slide between these two meanings of "reserve" without acknowledging the jump. See [[GENIUS Act]] glossary and the Treasury Demand section for the careful version.
+
+The strongest defensible version of the "digital petrodollar" claim is **invoicing-margin reinforcement**: globally circulating dollar-pegged payment instruments reinforce dollar incumbency at the digital-settlement layer through habit and rail dominance. That is real but bounded. It is not the structural Treasury-recycling dynamic the petrodollar created. See [[Dollarization via Stablecoins]] for the empirically richer story about what stablecoins actually do in failing-currency economies — and why that story does not require the hegemony framing.
 
 ## Tensions & Threats
 

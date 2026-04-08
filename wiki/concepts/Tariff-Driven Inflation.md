@@ -13,7 +13,9 @@ Tariff-driven inflation is price-level increases caused by government-imposed im
 
 ## Why It Matters for the Newsletter
 
-**Monetary Policy**: This is the specific mechanism trapping the Fed in 2025. Trump's tariffs raised the effective US tariff rate from ~2.4% to ~20.6% — highest since 1910. [[State of U.S. Tariffs July 14, 2025]] The resulting price increases gave the Fed a dilemma: raise rates to fight inflation (risking recession), hold rates (tolerating above-target inflation), or wait and see if price effects are transient. Powell chose the third option — holding rates steady for five meetings while repeatedly citing tariffs as the obstacle to cuts.
+**Monetary Policy**: This is the specific mechanism trapping the Fed in 2025. Trump's tariffs raised the effective US tariff rate from ~2.4% to **20.6% pre-substitution** ("highest since 1910") or **19.7% post-substitution** ("highest since 1933") per the Yale Budget Lab. [[State of U.S. Tariffs July 14, 2025]] The two numbers are not interchangeable: pre-substitution measures the full consumer welfare cost before firms and consumers reroute purchases; post-substitution measures the rate that actually shows up after that rerouting. **The analytically honest historical parallel is 1933 (Smoot-Hawley) using the post-substitution number, not 1910 using the pre-substitution number.** The 1910 baseline is a Payne–Aldrich-era level that predates the income tax and reflects a fundamentally different federal revenue architecture; the comparison is structurally misleading without that qualification. The wiki has previously picked the bigger number paired with the older year — that selection drops the analytically meaningful comparison.
+
+The resulting price increases gave the Fed a dilemma: raise rates to fight inflation (risking recession), hold rates (tolerating above-target inflation), or wait and see if price effects are transient. Powell chose the third option — holding rates steady for five meetings while repeatedly citing tariffs as the obstacle to cuts.
 
 **Power**: Tariff-driven inflation is a political instrument as much as a trade tool. Trump used tariffs as leverage in negotiations (Japan deal at 15% vs. threatened 25%), as domestic political signaling, and as an economic weapon. The Fed's inability to fix tariff inflation means the president, not the central bank, controls a major inflation driver.
 
@@ -26,7 +28,7 @@ Tariff-driven inflation is price-level increases caused by government-imposed im
 
 ## Key Data Points (2025)
 
-- US average effective tariff rate reached 20.6% (pre-substitution) — highest since 1910 [[State of U.S. Tariffs July 14, 2025]]
+- US average effective tariff rate: **20.6% pre-substitution** (highest since 1910, the Payne–Aldrich era) or **19.7% post-substitution** (highest since 1933, the Smoot-Hawley era). The post-substitution number is the realized rate; the 1933 comparison is the analytically honest one. [[State of U.S. Tariffs July 14, 2025]]
 - PCE inflation rose to 2.6% YoY in June 2025 (from 2.4% in May); core held at 2.8% [[`'Costing our country trillions of dollars' Donald Trump calls Jerome Powell 'too stupid'`]]
 - Auto industry: tariffs raised production costs for all US automakers by ~$107.7 billion in 2025; average $4,239 per vehicle [[Tariffs could spike costs for domestic automakers by $108B]]
 - GM: 35% profit drop, $1.1B tariff hit in Q2 2025 [[General Motors profit drops 35% as Trump tariffs hit car industry]]
@@ -37,15 +39,20 @@ Tariff-driven inflation is price-level increases caused by government-imposed im
 - Michigan auto sector: ~13.8% average effective rate on imported parts post-reimbursement; ~$6,220 average vehicle price increase; ~200,000 unit/year domestic production reduction [[Michigan Economic Outlook 2025-2027 Executive Summary]]
 - Q1 2025 GDP: -0.3% annualized; import surge (tariff front-running) was primary drag; H1 2025 average growth ~1.25% vs. 2.8% in 2024 [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]]
 
-## The Fed's Dilemma
+## The Fed's Dilemma — Expectations vs. Realized Passthrough
 
-Powell explicitly stated that tariffs were what prevented earlier rate cuts. The tariff-inflation paradox:
+Powell explicitly stated that tariffs were what prevented earlier rate cuts. But the precise causal claim is more specific than "tariff inflation forced the Fed to hold," and the wiki has previously been imprecise about this:
+
+- **Realized passthrough channel**: Tariff costs flowing through supply chains to consumer prices. Goldman Sachs and others have shown that 2025 passthrough is "tracking somewhat lower than in 2019" — firms are absorbing meaningful share in margins. Core PCE has not moved up in proportion to a 20.6% effective rate increase. *Realized* tariff inflation alone does not explain a five-meeting hold.
+- **Expectations channel**: All major inflation forecasts re-rated upward when tariffs took effect. Powell's explicit framing — "essentially all inflation forecasts for the United States went up materially as a consequence of the tariffs" — is a forecast-and-expectations statement, not a price-data statement. The Fed is holding because of what tariffs *could* do if passthrough rises and expectations un-anchor, not because tariffs have already shown up in CPI.
+
+This distinction matters for analytical honesty: "tariffs prevented Fed cuts" is true, but the mechanism is precautionary expectations management, not mechanical inflation response. The tariff-inflation paradox stands either way:
 - Trump wants lower rates to stimulate growth
-- Trump's own tariff policy is the primary obstacle preventing lower rates
-- The Fed cannot cut rates while tariff-driven inflation is elevated — that would validate inflation
-- But tariff-driven inflation is supply-side; rate hikes can't fix it either
+- Trump's own tariff policy is the primary obstacle preventing lower rates (via the expectations channel)
+- The Fed cannot cut rates while tariff-driven inflation *risk* is elevated, even if realized passthrough is so far modest — that would un-anchor expectations
+- And tariff-driven inflation is supply-side; rate hikes can't fix it either, only restrain demand around it
 
-Powell's framing: "A reasonable base case is these are one-time price effects" — if correct, the Fed can look through it. If incorrect, and tariff inflation becomes embedded in expectations, the Fed faces a much harder problem.
+Powell's framing: "A reasonable base case is these are one-time price effects" — if correct, the Fed can eventually look through it. If incorrect, and tariff inflation becomes embedded in expectations, the Fed faces a much harder problem.
 
 ## Tensions & Counterarguments
 

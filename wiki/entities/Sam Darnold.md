@@ -5,12 +5,14 @@ entity_type: person
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 12
+sources: 10
 ---
+
+> ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** No raw post-game Super Bowl LX recap exists in this cluster; the latest sourced Darnold appearance is the Jan 26, 2026 NFC Championship win.
 
 ## Overview
 
-Quarterback for the Seattle Seahawks. Career narrative: selected 3rd overall by the New York Jets in 2018, struggled under poor organizational conditions, released by the Carolina Panthers, resurrected with the Minnesota Vikings in 2024 (4,319 yards, 35 TDs), signed by Seattle on a 3-year, $100.5M deal in March 2025. Won Super Bowl LX in his first Seahawks season.
+Quarterback for the Seattle Seahawks. Career narrative: selected 3rd overall by the New York Jets in 2018, struggled under poor organizational conditions, released by the Carolina Panthers, resurrected with the Minnesota Vikings in 2024 (4,319 yards, 35 TDs), signed by Seattle on a 3-year, $100.5M deal in March 2025. Led Seahawks to Super Bowl LX in his first Seahawks season.
 
 ## Key Facts
 
@@ -18,8 +20,8 @@ Quarterback for the Seattle Seahawks. Career narrative: selected 3rd overall by 
 - 2024 Vikings season: 4,319 passing yards, 35 TDs — career best under OC Klint Kubiak
 - Cap hit: $13.4M in 2025 (vs. Geno Smith's $40M deal); $0 guaranteed for 2026 — structural optionality Schneider valued [[Seahawks Are Biggest Threat to Overthrow the NFC]]
 - Reunited with Kubiak (49ers connection) in Seattle; scheme familiarity was a factor in the signing
-- Full player development arc: Jets (2018-2020, failure) → Panthers (2021-2022, adversity, 4-2 in final 6 games) → 49ers (2023, Shanahan backup year) → Vikings (2024, renaissance) → Seahawks Super Bowl [[How Sam Darnold's Time in Carolina Paved the Way for Career Resurgence]]
-- 5th QB in NFL history with multiple 14-win seasons (Brady, Mahomes, Manning, Montana); first QB with 12+ win seasons with two different teams [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]]
+- Career arc: Jets (2018-2020, dysfunction-era struggles) → Panthers (2021-2022, mostly replacement-level QB play; Baker Mayfield benching; 4-2 in final 6 of 2022) → 49ers (2023, Shanahan backup year) → Vikings (2024, renaissance) → Seahawks (2025, Super Bowl run). ⚠️ Note: the Carolina-as-developmental-foundation framing comes from team-produced content (Seahawks.com); a less PR-flavored read is "replacement-level QB the Panthers benched, who later thrived under better systems." [[How Sam Darnold's Time in Carolina Paved the Way for Career Resurgence]]
+- ⚠️ The "5th QB in NFL history with multiple 14-win seasons (Brady, Mahomes, Manning, Montana)" / "first QB with 12+ win seasons with two different teams" lines are team-media factoids and contradict another Seahawks-cluster source (which says "5th QB to win 13+ games in consecutive seasons — Brady, Favre, Manning, Rodgers"). Different thresholds, different company; neither version is corroborated by a non-team source. Treat as unverified. [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] [[How Sam Darnold's Time in Carolina Paved the Way for Career Resurgence]]
 - 2025 regular season: led NFL with 20 turnovers but also led team to 14-3 record; redemption in Week 18 (same stakes as 2024 Vikings collapse, opposite outcome)
 - NFC Championship: 25/36, 346 yards, 3 TDs, 0 turnovers; played through oblique injury; answered big-game questions [[NFC Championship — ESPN Game Analysis]]
 - Pro Bowl selections: 2024 (Vikings) and 2025 (Seahawks) [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]]
@@ -40,8 +42,7 @@ Quarterback for the Seattle Seahawks. Career narrative: selected 3rd overall by 
 - [[Seattle Seahawks Built Right Roster for Coach's Scheme]] — part of the broader roster architecture
 - [[NFC Championship — Seahawks 31 Rams 27]] — 346 yards, 3 TDs, 0 turnovers; career playoff performance
 - [[NFC Championship — ESPN Game Analysis]] — tactical breakdown; big-game question answered; oblique injury detail
-- [[Seahawks Beat 49ers Week 18 — 4 Takeaways]] — clean Week 18 performance mirrors/inverts his 2024 Vikings collapse
-- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — 0 turnovers; 5th QB with multiple 14-win seasons
+- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — clean Week 18 performance mirrors/inverts his 2024 Vikings collapse; 0 turnovers
 - [[49ers Defeat Seahawks Season Opener 2025]] — debut game; sacked on final play of 17-13 loss
 - [[How Sam Darnold's Time in Carolina Paved the Way for Career Resurgence]] — his own account of the Carolina years as developmental foundation
 - [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — overcame 2 INTs; decisive in 4Q and OT comeback

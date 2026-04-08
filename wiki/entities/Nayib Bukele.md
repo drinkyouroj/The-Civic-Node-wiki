@@ -10,7 +10,7 @@ sources: 11
 
 ## Overview
 
-Nayib Bukele is the president of [[El Salvador]], elected in 2019 and re-elected in 2024. He is globally known for two things: making Bitcoin legal tender in El Salvador in 2021 (a first for any country) and running an authoritarian security crackdown — including the construction of CECOT, a 40,000-person mega-prison for gang members — that dramatically reduced El Salvador's historically high murder rate. He presents himself as a tech-forward populist leader aligned with Trump-era nationalism.
+Nayib Bukele is the president of [[El Salvador]], elected in 2019 and re-elected in 2024. He is globally known for two things: making Bitcoin legal tender in El Salvador in 2021 — a **currency-policy** intervention (a legal-tender mandate), distinct from making Bitcoin function as money in the economic-function sense, which it never did — and running an authoritarian security crackdown including the construction of CECOT, a 40,000-person mega-prison, that dramatically reduced El Salvador's historically high murder rate. He presents himself as a tech-forward populist leader aligned with Trump-era nationalism.
 
 ## Key Facts
 

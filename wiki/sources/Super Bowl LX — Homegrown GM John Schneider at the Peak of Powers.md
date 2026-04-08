@@ -10,9 +10,13 @@ author: "Dave Schroeder"
 published: 2026-02-06
 ---
 
+> ⚠️ **This is a pre-game profile (Feb 6, 2026), published before Super Bowl LX kicked off.** It is not a post-game source and contains no Super Bowl LX result. The wiki has no raw post-game Super Bowl LX recap as of 2026-04-07 — the latest sourced events are this pre-game profile and the Jan 26 NFC Championship.
+>
+> ⚠️ **Contradiction**: this source's "first GM with zero player or coaching holdovers" claim is contradicted by [[Seahawks Are Biggest Threat to Overthrow the NFC]], which states 9 of the 2023 defensive starters were still on the 2025 roster. Treat the literal "zero holdovers" line as team-PR / marketing language, not as a factual claim about player turnover.
+
 ## Summary
 
-WBAY profile of John Schneider surrounding the Seahawks' Super Bowl LX appearance. Schneider became the first GM in NFL history to lead a team to the Super Bowl with zero player or coaching holdovers from a previous roster. Named NFL Executive of the Year in his 16th season. Frames the achievement as validation of his complete roster rebuild philosophy built around Mike Macdonald's vision.
+WBAY profile of John Schneider surrounding the Seahawks' Super Bowl LX appearance. Schneider was named NFL Executive of the Year in his 16th season. Frames the achievement as validation of his complete roster rebuild philosophy built around Mike Macdonald's vision. The "first GM ever with zero player or coaching holdovers" framing should be read as "zero holdovers from the prior coaching regime" — see contradictions caveat above.
 
 ## Key Points
 

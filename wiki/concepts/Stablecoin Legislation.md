@@ -11,9 +11,15 @@ sources: 14
 
 Stablecoin legislation refers to the body of law and proposed law governing the issuance, backing, and oversight of payment stablecoins — digital assets pegged to fiat currencies (primarily the U.S. dollar). The 2025 U.S. legislative cycle produced three major crypto bills during "Crypto Week" (July 14-18, 2025): the [[GENIUS Act]] (stablecoins), the [[CLARITY Act]] (market structure), and the Anti-CBDC Surveillance State Act. The GENIUS Act was signed into law July 18, 2025.
 
+## Terminology Note
+
+Stablecoins are **payment instruments** that represent **redemption claims on dollar money** issued by a private issuer. They are not currency (no legal tender status), they are not themselves money, and the "100% reserves" they hold are *backing assets* — not the same word "reserve" that appears in "reserve currency status." See [[GENIUS Act]] glossary for the full distinction. This terminology matters because the "stablecoins extend dollar hegemony" claim depends on quietly sliding between these meanings.
+
 ## Why It Matters
 
-Stablecoins had grown to ~$70 billion in daily U.S. transaction volume by 2025. Regulatory clarity is expected to drive the market into the multi-trillion dollar range. The macroeconomic stakes: if stablecoin issuers must hold 100% reserves in U.S. Treasuries, mass adoption creates a massive captive buyer for government debt — potentially reinforcing dollar dominance the way the [[Petrodollar System]] did for oil-era geopolitics.
+Stablecoin float reached roughly $200–250B by mid-2025, with daily on-chain transaction volume often quoted at ~$70B (a velocity statistic, not a float statistic; provenance is weak — see [[GENIUS Act]] for the careful version). Regulatory clarity is expected to drive the market larger, though "multi-trillion" projections are aspirational, not bounded.
+
+The macroeconomic stakes are real but more bounded than earlier framings suggested: the 100% reserve requirement reallocates dollar holdings into the front of the Treasury curve (T-bills ≤93 days), which lowers short-end yields at the margin without meaningfully affecting U.S. borrowing costs at the long end where fiscal sustainability lives. The strongest defensible claim is **invoicing-margin reinforcement** — globally circulating dollar-pegged payment rails reinforce dollar incumbency at the digital-payments layer through habit and network effects, not through Treasury demand. See [[GENIUS Act]] for the full quantification, including the substitution problem (MMF → USDC = ~zero net new Treasury demand). The [[Petrodollar System]] analogy is rhetorical, not mechanical.
 
 ## Legislative History
 
@@ -35,9 +41,16 @@ Stablecoins had grown to ~$70 billion in daily U.S. transaction volume by 2025. 
 | Offshore issuers | Loophole: can issue offshore, trade on U.S. DEXs |
 | Algorithmic stablecoins | Study required; no moratorium (unlike STABLE Act) |
 
-## Dollar Hegemony Implications
+## Dollar Hegemony Implications — Steelmanned and Bounded
 
-The reserve requirement creates a structural linkage: every dollar of stablecoin in circulation requires a dollar of U.S. government paper. At scale (multi-trillion), this means stablecoin issuers become major buyers of Treasuries — an analog to petrodollar recycling. See [[T-Bill Demand and Stablecoin Issuance]].
+The reserve requirement does create a structural linkage between issued stablecoin float and short-dated U.S. Treasury holdings. But the chain from "issuer holds T-bills" to "dollar hegemony reinforced" is weaker than earlier wiki framings claimed:
+
+- **Substitution** is the dominant first-order effect: most marginal stablecoin demand comes from dollars that were already held in T-bill-adjacent vehicles (MMFs, bank deposits). Net new Treasury demand is a fraction of headline float growth.
+- **Duration** is concentrated at ≤93 days. Stablecoin issuance does not finance the long end where fiscal pressure lives.
+- **Reserve currency status** is driven by invoicing share, foreign central bank reserves, safe-asset depth, and settlement network effects. Stablecoin T-bill demand affects safe-asset depth at the front of the curve and may modestly reinforce dollar incumbency at the digital-settlement margin. It does not mechanically extend the petrodollar system.
+- The honest claim: stablecoins lock a growing share of dollar-denominated digital payments into dollar-denominated collateral, which helps incumbency at the *invoicing/settlement* margin without meaningfully changing U.S. borrowing costs.
+
+See also: [[Narrow Banking and the Chicago Plan]] (the framing the DC consensus is missing — 100% reserve issuance is narrow banking, the policy debate that has been running since 1933) and [[Dollarization via Stablecoins]] (what stablecoins actually do in failing-currency economies, and why "Tether bad / Circle good" misses the point).
 
 ## Global Competition Context
 
@@ -64,7 +77,9 @@ The reserve requirement creates a structural linkage: every dollar of stablecoin
 - [[GENIUS Act]] — the legislation itself
 - [[CBDC]] — what was explicitly blocked by the parallel Anti-CBDC Act
 - [[CLARITY Act]] — market structure companion
-- [[Petrodollar System]] — historical analog for how reserve currency status works
+- [[Narrow Banking and the Chicago Plan]] — the analytical frame nobody is using; 100% reserve issuance has 90 years of policy history
+- [[Dollarization via Stablecoins]] — USDT as de facto dollar in Argentina/Turkey/Nigeria/Lebanon; what the DC framing misses
+- [[Petrodollar System]] — historical analog (rhetorical, not mechanical) for how dollar incumbency works
 - [[Fed Independence]] — banking regulators now have stablecoin oversight; Fed's monetary policy role is affected
 
 ## Corporate Adoption Horizon

@@ -3,8 +3,8 @@ title: "Infrastructure Warfare"
 type: concept
 tags: [power, infrastructure, geopolitics, military]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 1
+updated: 2026-04-07
+sources: 4
 ---
 
 ## Definition
@@ -42,4 +42,7 @@ Infrastructure warfare is the deliberate targeting or weaponization of critical 
 
 ## Key Sources
 
-- [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
+- [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Trump's threats against Iran's power plants, bridges, and desalination plants
+- [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — Iran expanding strikes to Gulf state energy sites
+- [[Trump cuts energy projects California Carlsbad NOTUS]] — energy infrastructure funding as a domestic political weapon
+- [[Cruise Confirms Robotaxis Rely on Human Assistance Every Four to Five Miles]] — autonomous vehicles as contested infrastructure under regulatory siege

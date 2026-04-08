@@ -5,6 +5,114 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-07] lint | NFL cluster fixes from sports-nut audit
+
+Acted on `wiki/syntheses/audit-2026-04-07-sports-nut.md`. NFL cluster owner pass.
+
+**Super Bowl LX sourcing gap (P0-1)**: confirmed no post-game raw file exists. Added a `⚠️ Caveat` block at the top of the Mike Macdonald, Seattle Seahawks, John Schneider, Sam Darnold entity pages, the Super Bowl LX Schneider profile source page, and the NFL section of `wiki/overview.md`. All "won Super Bowl LX" framing softened to "Super Bowl LX appearance / NFC champion" pending a post-game source.
+
+**"Zero holdovers" contradiction (P0-3)**: flagged with `⚠️ Contradiction` markers per CLAUDE.md rule #6 in Seattle Seahawks, John Schneider, Organizational Continuity, the Schneider profile source page, and the overview. Defensible reading is "zero holdovers from the prior coaching regime" — `Seahawks Are Biggest Threat to Overthrow the NFC` says 9 of the 2023 defensive starters were on the 2025 roster.
+
+**Macdonald "25th → 2nd in one season" fix (P0-2)**: corrected to "25th (2023) → 11th (Year 1, 2024) → top-3 (Year 2, 2025)" — *two seasons*. The Ravens-era jump (19th → 3rd in Year 1, 1st in Year 2) now correctly scoped. Overview updated.
+
+**3-Buzz fix (P1-1)**: rewrote `wiki/concepts/Defensive Scheme Architecture.md` to describe 3-Buzz correctly as a Cover-3 variant with a buzzing safety, not as the umbrella term for "disguise." Overview updated.
+
+**Bracket contradiction (P2-2)**: resolved as a wiki-extraction artifact, not a real contradiction. The Wikipedia source page only listed 5 NFC seeds when there are 7 playoff teams; the Jan 17 Divisional Round 41-6 ESPN raw file is real and confirms the 49ers were a wild card. Annotated `wiki/sources/2025-26 NFL Playoffs Wikipedia.md`.
+
+**Coaching-tree "control group" caveat (P1-3)**: downgraded on Defensive Scheme Architecture, Mike Macdonald, and the overview. Now framed as "suggestive, not control group" with the four confounders listed.
+
+**Dynasty list updated (P3-1)**: added the 1961-67 Lombardi Packers, the 1981-94 Walsh/Seifert 49ers, and the Reid/Mahomes Chiefs to `wiki/concepts/NFL Dynasty.md`. Chiefs explicitly framed as the relevant 2026 counter-case to "continuity is the master variable." 2025 Seahawks corrected to "potential dynasty window opening, not dynasty achieved."
+
+**Game-recap consolidation (P2-1)**: 6 duplicate source pages converted to SUPERSEDED stubs with merge-completed notes. Could not delete files via Bash; user can `rm` them safely. Index updated to remove all 6 entries.
+- Dec 18 Rams OT canonical: `Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives` (7 raw files)
+- Jan 3 49ers Week 18 13-3 canonical: `Seahawks 13-3 Win Over 49ers — NFC West Title Clincher` (6 raw files)
+- Jan 26 NFC Championship canonicals: `NFC Championship — Seahawks 31 Rams 27` (Yahoo + merged CBS/AP) and `NFC Championship — ESPN Game Analysis` (kept as distinct analytical artifact)
+- Unique facts merged: Darnold as first USC Trojan to start a Super Bowl; SB LX as the SB XLIX rematch.
+
+**Source counts adjusted**: Seattle Seahawks 24→21, Sam Darnold 12→10. Mike Macdonald and John Schneider unchanged (didn't cite the deleted pages).
+
+**Sam Darnold "5th QB factoid" (P0-4)**: caveated as unverified team-media — two cluster sources cite different thresholds and different company.
+
+**Schneider "standard tradecraft" caveat (P1-4)** and **Darnold Carolina-arc sanitization caveat (P1-5)**: both added.
+
+**Files left for the user to physically `rm`** (Bash delete blocked):
+- `wiki/sources/Seahawks OT Win Over Rams — December 2025.md`
+- `wiki/sources/Seahawks OT Win Over Rams — Regular Season Trilogy Context.md`
+- `wiki/sources/Seahawks Clinch NFC West — 13-3 Win Over 49ers.md`
+- `wiki/sources/Seahawks Beat 49ers Week 18 — 4 Takeaways.md`
+- `wiki/sources/Rams Fall to Seahawks 31-27 in NFC Championship.md`
+- `wiki/sources/Sam Darnold Seahawks Advance to Super Bowl — Fox Sports.md`
+
+All 6 are SUPERSEDED stubs pointing at their canonical replacements; nothing in the index links to them anymore.
+
+---
+
+## [2026-04-07] update | Fed/monetary reframing — historian + economist + contrarian audit fixes
+
+Acted on the Fed/monetary findings from the 2026-04-07 historian, economist, and millennial-contrarian audits.
+
+**Factual corrections:**
+- `wiki/concepts/Fed Independence.md`: Volcker rate-peak fixed from "20% in 1980" to the two-phase tightening (Oct 1979 reserve targeting → 1980 ~20% → 1980 backoff → 1981 re-tightening to ~22% → 1981–82 recession). Resolves the historian's #1 P0 finding.
+- `wiki/concepts/Tariff-Driven Inflation.md`: 20.6% tariff claim now carries the pre/post-substitution distinction (20.6% pre / "highest since 1910" vs. 19.7% post / "highest since 1933"); 1933 (Smoot-Hawley) flagged as the analytically honest historical parallel; Payne–Aldrich qualification added on the 1910 baseline.
+
+**Framing changes:**
+- `Fed Independence.md`: Burns/Powell parallel rewritten with revisionism integrated structurally (not parenthetically); endogenous-vs-exogenous supply shock distinction made explicit (Trump tariffs as endogenous shock vs. Nixon-era exogenous OPEC embargo); Martin–LBJ flagged as the closer historical analog. Self-contradiction between line 20 (potted Burns villain) and line 34 (Meserve revisionism citation) resolved.
+- `Fed Independence.md`: "Why the Fed Isn't Cutting" rewritten as expectations-vs-realized-passthrough — Powell's hold is precautionary expectations management, not a mechanical response to tariff inflation that has already materialized. Goldman passthrough data integrated.
+- `Tariff-Driven Inflation.md`: Same expectations-vs-passthrough split applied to "The Fed's Dilemma" section.
+- `Fed Independence.md`: New "Serious Non-Trump Critique of Powell" section — the Furman/Summers/El-Erian transitory critique that the wiki had been missing. The honest technocratic Powell critique that Trump cannot make.
+- `wiki/entities/Jerome Powell.md`: Same transitory steelman added; Burns/Martin/1951 cross-links added.
+- `wiki/entities/Arthur Burns.md`: Endogenous-shock-problem framing added explicitly to Newsletter Relevance; Martin and Accord cross-links added.
+- `wiki/entities/Federal Reserve.md`: Historical-context paragraph rewritten to anchor on the 1951 Accord and the full pressure-episode sequence (Truman→Martin/LBJ→Burns/Nixon→Volcker/Reagan→Powell/Trump). Connections list expanded to include Martin and the Accord.
+- `wiki/concepts/Stagflation.md`: Tensions section now flags the endogenous-shock distinction and the LBJ-Martin parallel.
+
+**New pages created (UNREGISTERED — hygiene agent should add to index):**
+- `wiki/entities/William McChesney Martin.md` — Fed Chair 1951–1970, longest-serving; the LBJ Texas ranch episode; the positive precedent for a Fed chair holding under direct presidential pressure. Historian audit's #1 missing-prior recommendation.
+- `wiki/concepts/1951 Treasury-Fed Accord.md` — the founding moment of modern Fed independence; the Truman-vs-FOMC standoff that produced it; structural parallels to Trump-vs-Powell.
+
+**Out-of-scope issues observed (not fixed — flagged for other agents):**
+- `wiki/entities/Donald Trump.md` (politics agent) and `wiki/overview.md` / `wiki/index.md` (hygiene agent) also carry the 20.6% / "since 1910" claim and should receive the pre/post-substitution fix in their own passes.
+- The Volcker date issue does not appear to have leaked into other pages I touched, but `wiki/sources/The Great Inflation.md:25` already correctly says "rates spiked to near 20%" and references "two recessions (1980; 1981–1982)" — that page is fine.
+
+---
+
+## [2026-04-07] lint | Vault hygiene pass — fix audit-flagged frontmatter, broken wikilinks, stale concept counts
+
+Mechanical hygiene pass acting on the Lead Researcher audit (`wiki/syntheses/audit-2026-04-07-lead-researcher.md`).
+
+**Frontmatter counts fixed:**
+- `wiki/index.md`: `total_pages` 594 → 619, `total_sources` 385 → 384 (matches filesystem: 384 sources + 79 entities + 58 concepts + 82 articles + 5 syntheses + 3 root pages + 8 new stubs)
+
+**Iran-cluster concept page source counts reconciled** (rebuilt Key Sources from `[[Concept Name]]` greps across `wiki/sources/`):
+- `War-Driven Inflation`: 1 → 7 (added Volcker x2, Weimar, M2 history, Burns, Trump-Powell)
+- `Coercive Diplomacy`: 1 → 9 (added Schelling, NYC freeze, Judge ICE, Japan trade, two energy-cancellation sources, Walz freeze, Will-blow-up)
+- `Tech-State Conflict`: 1 → 19 (full rebuild — Anthropic cluster, antitrust cluster, EU AI Act, DABUS, MS-OpenAI, Algorithmic Influence, etc.)
+- `Infrastructure Warfare`: 1 → 4 (added Will-blow-up, Trump cuts energy, Cruise robotaxis)
+- `Chokepoint Control`: 1 → 3 (added Belichick and Schneider as the cross-cluster NFL chokepoint examples the audit explicitly called for)
+- `AI Sovereignty`: 1 → 3 (added Anthropic raise, Cruz CISA-to-AI hearing)
+- `Oil Seizure as Coercion`: 1 (verified — legitimately one source)
+
+**New stub pages created (8):**
+- Entities: `Stephen Miran`, `Lisa Cook`, `Mikie Sherrill`, `Israel`, `World Liberty Financial` — each pulls facts already in the wiki via grep, no fabrication; minimum schema-compliant frontmatter and Source Appearances.
+- Concepts: `Federal Immunity Above Constitutional Law`, `International Humanitarian Law`, `Institutional Capture` — all flagged as broken wikilinks in `Retroactive Executive Protection`, `Infrastructure Warfare`, and overview.md cross-cutting patterns.
+
+**`overview.md` wikilink fixes:**
+- `[[Charlie Kirk]]` → `[[Charlie Kirk Assassination]]` (existing entity)
+- `[[Spanberger]]` → `[[Abigail Spanberger]]` (existing entity)
+- `[[Sherrill]]` → `[[Mikie Sherrill]]` (new stub)
+- `[[Mamdani]]` → `[[Zohran Mamdani]]` (existing entity)
+- `[[Stephen Miran]]`, `[[Lisa Cook]]` now resolve to new stubs
+- `[[Strategic Bitcoin Reserve]]` already resolves to existing concept page (no fix needed; audit was wrong on this one)
+
+**Out of hygiene scope but flagged for follow-up:**
+- `overview.md` references `[[Wiki Index]]` and `[[Wiki Log]]` (line 177) — actual files are `index.md` and `log.md`. Will not resolve in Obsidian.
+- `overview.md` references `[[Therapist Shortage]]`, `[[Anti-CBDC Surveillance State Act]]`, `[[The Great Inflation]]`, `[[Satoshi Nakamoto Bitcoin Whitepaper 2008]]` — `The Great Inflation` and `Satoshi Nakamoto...` exist as sources (resolve fine); `Therapist Shortage` and `Anti-CBDC Surveillance State Act` do not have dedicated pages — separate ingest needed.
+- `entities/Donald Trump.md` line 86 references `[[Trump blames the radical left for Charlie Kirk's killing]]` and `[[Trump calls for revenge at the voter box after Charlie Kirk's assassination]]` — neither in `wiki/sources/`. Likely missing source pages.
+- `entities/Donald Trump.md` Connections section references `[[Rick Crawford]]`, `[[Tim Kaine]]`, `[[Jake Auchincloss]]` — no entity pages exist; left for a separate stub-creation pass.
+
+Counts: 1 frontmatter fix on index.md, 7 Iran-cluster concept source counts fixed (one verified-correct), 8 new stub pages, 5 broken wikilinks now resolved in overview.md.
+
+---
+
 ## [2026-04-07] ingest | Triage & ingest of 73 unreferenced raw files — 11 source pages created
 
 Triaged all 73 raw files flagged as unreferenced. Found 44 already ingested under existing source pages (different filename or consolidated). 18 were noise/skip (gaming, nav pages, thin marketing content). Created 11 new source pages.
@@ -658,3 +766,60 @@ Audited all raw/ files against wiki/sources/ `raw:` frontmatter fields. Found 81
 - Securities Enforcement Roundup "April 2026" — actually April 2025 content, already ingested
 - ~68 other files — noise, game duplicates, or content fully covered by existing source pages
 
+
+## [2026-04-07] update | Politics factual corrections from audit reports
+- Donald Trump.md: deduplicated the Crypto Conflicts of Interest section (was duplicated nearly verbatim per lead-researcher audit) and merged the two Crypto Policy Actions blocks. Rewrote the surviving conflict block to explicitly decouple "Trump has a corrupt personal stake in stablecoins as an asset class" from "the GENIUS Act is therefore bad legislation" — the contrarian audit found these were conflated. Added explicit framing that the merits critique lives on the GENIUS Act / CLARITY Act concept pages and the conflict critique stays on the Trump entity, and that a reader should hold both layers simultaneously.
+- Donald Trump.md: corrected shutdown duration from "36+ days" to "Oct 1 – Nov 12, 2025, 43 days, longest full-government shutdown in US history"; added link to [[2025 United States Government Shutdown]].
+- Retroactive Executive Protection.md: rewrote the Bannon Layer-2 evidence section to fix the procedural-vs-substantive reversal flagged by the historian's audit. The Munsingwear vacatur procedure has ~75 years of precedent and is routinely granted on DOJ motion with minimal briefing — the procedural novelty framing was wrong. The substantive novelty is using a routine vehicle to erase a *post-service* completed criminal sentence as political accommodation. Updated the Tensions & Counterarguments section to match.
+- Steve Bannon.md: updated the April 6, 2026 fact line to reflect the corrected procedural framing and cross-link the concept page.
+- 2025 United States Government Shutdown.md: verified — already says "longest full government shutdown in U.S. history" with explicit Oct 1–Nov 12 / 43-day dates. No edit needed.
+
+## [2026-04-07] update | Crypto/stablecoin reframing — narrow banking + dollarization frames added
+
+Crypto/stablecoin reframing pass per the economist, contrarian, and historian audits. Owner: crypto/stablecoin reframing agent. Scope held to crypto pages (no Fed, Trump entity, NFL, overview, or index touched beyond the new-pages section).
+
+**GENIUS Act.md — major rewrite of the load-bearing causal claims:**
+- Added a "Glossary — Read This First" section distinguishing currency / money / payment instrument / "reserve" (sense a, backing) vs. "reserve" (sense b, currency status). The wiki was sliding between these.
+- Replaced the hand-waved "Dollar Hegemony Angle" with a six-point "Treasury Demand and Dollar Hegemony — Quantified" section addressing: float vs. transaction volume, substitution (MMF → USDC = ~zero net new T-bill demand), duration (front of curve only), bounded scale (~1% of marketable Treasury debt; even 10x adoption is ~10% of bills), the four channels of reserve currency status (only one of which stablecoins touch), and the two-meanings-of-"reserve" trap. Steelmanned the strongest defensible version: invoicing-margin reinforcement at the digital-payments layer.
+- Added a "Decoupling the Trump Conflict from the Legislation's Merits" section explicitly separating Claim A (Trump conflict, well-evidenced) from Claim B (GENIUS is therefore bad, independent and unproven). Listed which critiques survive even if Trump had zero crypto exposure (Tether loophole, CFPB exclusion, bailout priority, CFTC exclusion, narrow-banking implications) vs. which are Trump-specific (USD naming optics, public-vs-private-issuer split fit with X). This is the GENIUS-Act half of the decoupling task; the Trump-entity half is the politics agent's job.
+- Added cross-links to Narrow Banking and the Chicago Plan and Dollarization via Stablecoins.
+
+**Stablecoin Legislation.md:**
+- Added "Terminology Note" with the same currency/money/payment-instrument/reserve distinction.
+- Rewrote "Why It Matters" to use float ($200–250B) vs. velocity (~$70B/day) and to flag provenance weakness in the daily-volume number.
+- Replaced "Dollar Hegemony Implications" with a steelmanned-and-bounded version that points readers at GENIUS Act for the full quantification.
+- Added cross-links to Narrow Banking and Dollarization concept pages.
+
+**Petrodollar System.md:**
+- Rewrote the "Stablecoin as Petrodollar Successor?" section to explicitly call the digital-petrodollar framing rhetorical rather than mechanical. The petrodollar worked through Saudi-USD invoicing, OPEC surplus recycling, and FX/safe-asset/network-effect channels — stablecoins only touch the safe-asset channel at the front of the curve. Pointed readers to the bounded version on GENIUS Act and to Dollarization via Stablecoins for the empirically richer story.
+
+**CBDC.md:**
+- Added a Terminology Note clarifying that CBDCs, stablecoins, and bank deposits are all dollar-denominated payment instruments differing in *who is liable*, none of which are "currency" in the legal-tender sense. The Anti-CBDC vs. GENIUS choice is a choice between two private-issuer payment-instrument models, not a choice about the dollar itself.
+
+**El Salvador.md:**
+- Added precision that El Salvador was already ~90% dollarized before the Bitcoin experiment (USD legal tender since 2001). The Bitcoin Law was a *currency policy* (legal-tender mandate), not a *money policy*. Held the dual evaluation: failed as a currency-mandate experiment, succeeded as a speculative sovereign reserve allocation. Two different policy questions.
+
+**Nayib Bukele.md:**
+- Same currency-vs-money precision in the Overview.
+
+**Tether.md:**
+- Major rewrite of the Overview and Newsletter Relevance sections. Held both framings simultaneously: (1) compliance problem (NYAG/CFTC settlements, opacity, "kingpin of illicit crypto" Senate Banking Democratic staff language — flagged that this framing is partly informed by Circle's commercial interest in displacing USDT), and (2) dollar export infrastructure (de facto dollar in Argentina, Turkey, Nigeria, Lebanon, Venezuela; holds more US Treasuries than Germany; the most effective dollar-export rail the U.S. has ever had). Added the structural point that Circle cannot operationally serve dollarized-economy users because the KYC perimeter is exactly the barrier those users are routing around. Surfaced the newsletter angle: "Tether is not the problem the GENIUS Act says it is. Here's what Tether actually does in Buenos Aires." Did not whitewash — the reserve-opacity history is real and stays in the page.
+
+**Circle.md:**
+- Added a paragraph noting that Circle's compliance perimeter is also Circle's market ceiling — Circle cannot serve the dollarized-economy use case that drives most of Tether's float, and "closing the Tether loophole" does not transfer Tether's user base to Circle, it removes their access to the rail.
+
+**New concept page: Narrow Banking and the Chicago Plan.md.**
+- Full concept page tracing the Simons/Fisher/Friedman/Tobin/Kotlikoff/Cochrane lineage from 1933 to 2025, mapping the GENIUS Act provisions onto the narrow-banking framework cleanly (100% reserves, no interest to holders, bankruptcy priority, separation from credit extension), explaining why nobody is saying it (Trump conflict crowds out the structural story; narrow-banking academics aren't crypto-fluent; nobody wants to compliment crypto legislation), and surfacing the highest-ranked unclaimed newsletter lane the audits identified. Includes counter-arguments (yield migration to DeFi, Levitin's bailout-risk objection, the TNB master-account precedent).
+
+**New concept page: Dollarization via Stablecoins.md.**
+- Full concept page on the empirical reality of USDT in Argentina, Turkey, Nigeria, Lebanon, Venezuela, and Russia-adjacent commerce. Spells out structurally why regulated U.S. stablecoins (Circle) cannot replace USDT in those markets (KYC/AML perimeters are the access barrier the users are routing around). Reframes the dollar-hegemony argument: the strongest version is not Treasury demand inside the U.S. but invoicing-margin reinforcement in dollarized economies, where USDT functions as dollar-rail provision the U.S. exports involuntarily through an offshore intermediary. Held the illicit-finance objection honestly. Flagged that the wiki currently has zero source coverage of the Argentina/Turkey/Nigeria stablecoin reality and listed acquisition targets (Castle Island, Chainalysis, Matt Levine, FT Alphaville, IMF cryptoization papers, Nic Carter).
+
+**New concept page: Free Banking and Wildcat Banking.md.**
+- Did the optional historian-audit page. Brief history of the 1837–1863 free banking era, the Suffolk System as private clearing precedent, the Rockoff/Rolnick-Weber revisionism on wildcat-banking exaggeration, and the structural mapping of free-banking-era state-bank-note dynamics onto the modern stablecoin landscape. National Banking Acts of 1863–64 as the plausible historical analog for what GENIUS attempts. Newsletter angle: a Hugh Rockoff-style quantitative comparison of 1840s discount distributions vs. modern stablecoin peg deviations would be original, publishable work.
+
+**Out of scope, noted for follow-up:**
+- The Petrodollar System page still needs a real Historical Origins rebuild (1973 embargo → 1974 Saudi agreement → 1975 formalization chronology with primary sources). Historian's audit P1.
+- The Dollarization via Stablecoins page is currently sourceless — it is structurally argued but the wiki needs Argentina/Turkey/Nigeria/Lebanon source ingest before publishing on this. Acquisition targets listed in the page.
+- The Operator View of Crypto Regulation concept page (contrarian audit P0 #3) was not created — it overlaps with CLARITY Act and is plausibly out of this agent's scope. Flagging for the next pass.
+
+Cross-link audit: GENIUS Act, Stablecoin Legislation, Petrodollar System, Tether, Circle, El Salvador, Nayib Bukele, CBDC all now point at Narrow Banking and Dollarization where appropriate. The new concept pages backlink into all of them.
