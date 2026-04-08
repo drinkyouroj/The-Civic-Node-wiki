@@ -264,6 +264,185 @@ When the user says "lint" or "health check":
 4. Suggest new sources to seek out (specific outlets, reports, people to follow).
 5. Append lint entry to `wiki/log.md`.
 
+### INSIGHT_SWEEP
+
+When the user says "insight sweep", "surface insights", "find content hooks", "editorial sweep", or "what should I write about":
+
+This workflow runs a three-agent team against the wiki in parallel to surface editorial opportunities. Each agent has a focused mandate. When all three finish, run a synthesis pass to write results to `wiki/syntheses/`.
+
+**Step 0 — Orient before launching agents.** Read `wiki/index.md` (full) and `wiki/log.md` (last 10 entries) to understand current scope and what was recently touched. Note: what topic clusters dominate the index? What was last ingested? What syntheses already exist?
+
+---
+
+#### Agent 1: The Pattern Mapper
+
+**Mandate**: Identify cross-domain patterns — themes that span 3+ topic areas and have not yet been synthesized or published.
+
+**Reading list** (read all of these):
+1. `wiki/overview.md`
+2. All files in `wiki/concepts/` — every concept page in full
+3. The 10–15 most recently ingested source pages (identify from `wiki/log.md`)
+
+**What to surface**:
+- Concepts that appear as cross-links in many other pages but have no dedicated synthesis or article
+- Cross-topic clusters where the same dynamic (e.g., institutional capture, dollar weaponization, AI sovereignty) appears across 3+ topic areas without a unified piece connecting them
+- Sources ingested in the same period that share a latent connection that hasn't been named yet
+- Concepts where the `sources:` count is high but the page is thin relative to what the source material would support
+
+**Output** (return as structured markdown):
+
+```
+## Pattern Mapper Findings
+
+### Pattern [N]: [Short name]
+**Evidence**: [list of specific wiki pages and sources — use [[wikilinks]]]
+**Cross-domain reach**: [which topic areas this spans]
+**What's missing**: [why this hasn't been connected yet]
+**Article angle**: [one-sentence hook a writer could start from]
+```
+
+Aim for 5–7 patterns. Prioritize patterns with the most cross-domain reach and the largest gap between source density and published coverage.
+
+---
+
+#### Agent 2: The Contradiction Hunter
+
+**Mandate**: Surface productive editorial tensions — places where the wiki holds conflicting evidence, where the mainstream narrative diverges from what the accumulated sources actually show, or where an entity's documented behavior contradicts their stated position.
+
+**Reading list** (read all of these):
+1. Grep the entire wiki for `⚠️ Contradiction:` — read every flagged instance
+2. All entity pages in `wiki/entities/` — focus on the "Open Questions" and "Notes" sections
+3. All source pages where the `Notes:` section flags methodology bias, funding conflicts, or conflicting findings
+4. `wiki/overview.md` — audit each major claim against its cited evidence base
+
+**What to surface**:
+- Explicit contradiction flags already in the wiki (⚠️ markers) with editorial potential
+- Implicit contradictions: two credible sources asserting opposite things about the same phenomenon
+- Consensus-vs-evidence gaps: where the wiki's sourcing supports a position that contradicts the mainstream framing
+- Entity contradictions: a person or org whose documented actions diverge from their public position
+- Internal wiki tensions: the overview's synthesis claims something the underlying source pages don't fully support
+
+**Output**:
+
+```
+## Contradiction Hunter Findings
+
+### Tension [N]: [Short name]
+**Claim A**: [what one source/entity asserts] — [[Page Title]]
+**Claim B**: [what contradicts it] — [[Page Title]]
+**Evidence weight**: [which side the wiki's accumulated sources favor, and by how much]
+**Why it's editorial**: [the tension worth writing about — what makes this interesting rather than just ambiguous]
+**Suggested framing**: [one-sentence angle that uses the tension productively]
+```
+
+Aim for 5–7 tensions. Prioritize tensions where the wiki has enough sourcing to take a defensible position, not just "both sides" coverage.
+
+---
+
+#### Agent 3: The Underexplored Angle Finder
+
+**Mandate**: Map the gap between what the wiki deeply knows and what has actually been published. Find the richest, best-sourced topics that have never anchored a piece.
+
+**Reading list** (read all of these):
+1. All files in `wiki/articles/` — catalog every published piece (title, topic, angle)
+2. All entity pages in `wiki/entities/` — note the `sources:` count and "Open Questions" section
+3. All concept pages in `wiki/concepts/` — note the `sources:` count and "Key Sources" section
+4. `wiki/index.md` — to cross-reference what appears frequently as a cross-link
+
+**What to surface**:
+- Entities or concepts with `sources: 5` or higher that have never had a dedicated article
+- Entities that appear as `[[cross-links]]` in 8+ other wiki pages but have never been the subject of a piece
+- Open questions listed in entity/concept pages that are genuinely answerable from existing wiki material
+- Topic clusters where the wiki has primary sources (government data, court records, earnings reports, central bank statements) that haven't been synthesized for a general reader
+- "Second-order" angles: where the interesting story is not the entity itself but what the entity reveals about a larger dynamic
+
+**Output**:
+
+```
+## Underexplored Angle Finder Findings
+
+### Angle [N]: [Entity or Concept Name]
+**Source density**: [sources: count from frontmatter] sources
+**Cross-link appearances**: [approximately how many other pages link to this one]
+**What the wiki knows**: [2–3 sentences — what evidence is already in hand]
+**The gap**: [what's missing, or why this hasn't been written yet]
+**Article hook**: [one sentence — the specific angle, not just "write about X"]
+```
+
+Aim for 5–7 angles. Prioritize angles where the wiki already has enough material to draft without additional source ingestion.
+
+---
+
+#### Synthesis Pass (run after all three agents complete)
+
+Read all three agents' findings. Then execute:
+
+**1. Score every finding** on two axes (1–3 each):
+- **Evidence density**: how much wiki material exists to write from right now
+- **Editorial novelty**: how distinct is this from anything published in `wiki/articles/`
+
+**2. Rank and select the top 5 hooks** (highest combined score). Tiebreak: prefer underexplored angles over patterns (more immediately actionable). Flag any that require source acquisition before drafting.
+
+**3. Write synthesis pages** — for each of the top 5 hooks, create a full synthesis page at `wiki/syntheses/insight-[slug]-YYYY-MM-DD.md` using the Synthesis page format from this schema. The "Newsletter Application" section must be specific and opinionated — concrete angle, suggested structure, identified source gaps, what makes this publishable now vs. later.
+
+**4. Write a master briefing page** at `wiki/syntheses/insight-sweep-YYYY-MM-DD.md`:
+
+```markdown
+---
+title: "Insight Sweep — YYYY-MM-DD"
+type: synthesis
+tags: [insight-sweep, editorial]
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+sources: 0
+query: "Three-agent editorial sweep: patterns, contradictions, underexplored angles"
+---
+
+## Top 5 Hooks (ranked)
+
+### 1. [Hook name] — Score: [X/6]
+**Type**: [Pattern | Contradiction | Underexplored]
+**One-line**: [hook sentence]
+**Status**: [Ready to draft | Needs source acquisition]
+→ [[insight-[slug]-YYYY-MM-DD]]
+
+[repeat for 2–5]
+
+---
+
+## Full Findings
+
+### Patterns ([N] found)
+[brief list with scores]
+
+### Contradictions ([N] found)
+[brief list with scores]
+
+### Underexplored Angles ([N] found)
+[brief list with scores]
+
+---
+
+## Source Acquisition Targets
+[list any topics where the wiki needs more sources before writing]
+
+## Follow-up Questions
+[what the sweep raised that the wiki can't yet answer]
+```
+
+**5. Update `wiki/index.md`**: Add all new synthesis pages under the "Insight Sweeps" subsection (create this subsection if it doesn't exist yet).
+
+**6. Append to `wiki/log.md`**:
+```
+## [YYYY-MM-DD] insight-sweep | [N] hooks surfaced
+
+Three-agent sweep complete. [N] patterns, [N] tensions, [N] underexplored angles identified. Top 5 hooks filed as synthesis pages. Master briefing at [[insight-sweep-YYYY-MM-DD]].
+```
+
+---
+
+**Tone for insight sweep synthesis pages**: These are editorial briefings, not neutral summaries. The "Article hook" and "Newsletter Application" sections must be specific, opinionated, and immediately usable — a writer should be able to start drafting from them without additional research. Vague angles ("this connects to power dynamics") are not acceptable outputs.
+
 ---
 
 ## Log Format
@@ -274,7 +453,7 @@ Each entry must start with:
 ## [YYYY-MM-DD] <type> | <title>
 ```
 
-Types: `ingest`, `query`, `lint`, `update`, `note`
+Types: `ingest`, `query`, `lint`, `update`, `note`, `insight-sweep`
 
 Parse with: `grep "^## \[" wiki/log.md`
 
@@ -361,7 +540,7 @@ At the start of every session:
 1. Read `wiki/log.md` (last 5-10 entries) to understand recent activity.
 2. Read `wiki/index.md` to load the current map.
 3. Briefly summarize what's in the wiki and what was done recently.
-4. Ask: What do you want to work on today?
+4. Ask: What do you want to work on today? Available workflows: **INGEST** (add a source), **QUERY** (ask a question), **LINT** (health check), **INSIGHT_SWEEP** (surface editorial hooks — patterns, contradictions, underexplored angles).
 
 ---
 
