@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "drinkyouroj.github.io/The-Civic-Node-wiki",
+    baseUrl: "justin.hearn.me/The-Civic-Node-wiki",
     ignorePatterns: [
       "private",
       "templates",
