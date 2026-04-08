@@ -174,4 +174,4 @@ Primary source documents that anchor analytical concepts elsewhere in the wiki:
 
 ---
 
-For the full, current catalog of sources organized by category, see [[Wiki Index]]. For the chronological activity log, see [[Wiki Log]].
+For the full, current catalog of sources organized by category, see [[index]]. For the chronological activity log, see [[log]].

@@ -2,7 +2,7 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-07
-total_pages: 618
+total_pages: 622
 total_sources: 378
 ---
 
@@ -583,8 +583,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Dollarization via Stablecoins]] — What Tether actually does in Argentina, Turkey, Nigeria, Lebanon, Venezuela; why Circle cannot replace it (KYC perimeter); the strongest version of the hegemony claim
 
 - [[Crypto Week]] — July 14-18 2025 legislative sprint; GENIUS Act + CLARITY Act + Anti-CBDC Act; partisan gradient; executive-legislative coordination
+- [[Anti-CBDC Surveillance State Act]] — H.R. 1919; bans Federal Reserve retail CBDC; 219-210 House vote; codifies Trump EO; "solving a problem that doesn't exist" critique
 - [[Bitcoin as Digital Gold]] — Core thesis of BTC maximalism; evidence for/against; Strategy model; SBR connection; inflation hedge
 - [[Crypto Fraud and Scam Ecosystem]] — Industrialized fraud supply chain; ZachXBT influencer payouts; rugpull scale ($6B); DePIN sybil attacks
+- [[Operator View of Crypto Regulation]] — What people who actually build and run crypto products think; five operator-vs-commentator divergences; Tether dollarization, narrow banking, capture risk
 
 ### Diplomacy & Politics
 - [[Coercive Diplomacy]] — Combining credible threats with negotiated off-ramps; Trump's operating mode
@@ -593,6 +595,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Political Violence Cycle]] — Assassination → radicalization → counter-radicalization spiral; CSIS data (2→21 attacks on officials); asymmetric mourning
 - [[Echo Chamber and Polarization]] — 129-study systematic review finds no consensus; methodology drives divergent results; TikTok underexplored
 - [[Sanctuary Infrastructure]] — Churches, mosques, synagogues as protective networks against ICE; inverse case (ICE pastor church) documented
+- [[Affordability Populism]] — Politics organized around cost-of-life inputs; Mamdani as the 2025 test case; the analytical concept connecting housing/healthcare/childcare to electoral behavior; Mamdani vs. Spanberger/Sherrill incompatible coalitions
 
 ### AI & Technology
 - [[Tech-State Conflict]] — Private AI companies refusing military use; state retaliating with regulatory weapons
@@ -612,6 +615,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### Mental Health & Culture
 - [[Autistic Masking]] — Suppression of autistic traits; 3x suicide rate; ABA critique; gender diagnosis gap; unmasking movement
 - [[ADHD Medication Shortage]] — FDA-declared shortage since Oct 2022; DEA quota chokepoint; 1B-dosage deficit; global access reform parallels
+- [[Therapist Shortage]] — Specialist bottleneck driving the mental health access crisis; Australia/NZ GP-prescribing reform model; supply-side analog to ADHD shortage
 - [[Political Stress]] — APA benchmark data; 77% nation's future as stressor; 5% suicidal ideation; bipartisan distribution; racial trauma
 - [[Attention Economy]] — How platforms monetize attention; ADHD as systemic response to designed distraction
 

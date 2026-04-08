@@ -823,3 +823,36 @@ Crypto/stablecoin reframing pass per the economist, contrarian, and historian au
 - The Operator View of Crypto Regulation concept page (contrarian audit P0 #3) was not created — it overlaps with CLARITY Act and is plausibly out of this agent's scope. Flagging for the next pass.
 
 Cross-link audit: GENIUS Act, Stablecoin Legislation, Petrodollar System, Tether, Circle, El Salvador, Nayib Bukele, CBDC all now point at Narrow Banking and Dollarization where appropriate. The new concept pages backlink into all of them.
+
+## [2026-04-07] update | Audit follow-up — broken links resolved, missing concept pages created
+
+Continuation of the five-agent audit fixes. Addressed the items the agents had logged but not implemented.
+
+**Broken wikilinks resolved:**
+- `[[Wiki Index]]` / `[[Wiki Log]]` in `overview.md` — relinked to `[[index]]` / `[[log]]`
+- `[[Therapist Shortage]]` (8 references) — created concept page
+- `[[Anti-CBDC Surveillance State Act]]` (4 references) — created concept page
+
+**Frontmatter drift fixes:**
+- `wiki/concepts/Retroactive Executive Protection.md` — sources 1 → 3 (matches Key Sources count)
+
+**Entity expansion:**
+- `wiki/entities/Zohran Mamdani.md` — expanded from 7 lines of "Newsletter Relevance" into substantive analysis covering (a) the affordability platform as the actual story, (b) Mamdani/Spanberger/Sherrill as three incompatible coalitions, (c) the generational/material fault line, and (d) governance tests to track. sources 5 → 6.
+
+**New concept pages (4):**
+1. `wiki/concepts/Anti-CBDC Surveillance State Act.md` — H.R. 1919; 6 sources; the third Crypto Week bill; "solving a problem that doesn't exist" critique; international context
+2. `wiki/concepts/Therapist Shortage.md` — 6 sources; supply-side mental health access failure; Australia/NZ GP-prescribing reform model; concept the wiki had been referencing without defining
+3. `wiki/concepts/Affordability Populism.md` — 4 sources; the connecting concept the contrarian audit demanded; politics organized around cost-of-life inputs; Mamdani as test case; the underlying material conditions; why it doesn't map onto standard ideological labels
+4. `wiki/concepts/Operator View of Crypto Regulation.md` — 5 sources; what people who actually build crypto products think (vs. commentator framing); five operator-vs-commentator divergences (Tether dollarization, CBDC threat model, narrow banking frame, mature blockchain capture risk, El Salvador legal-tender vs. reserve-asset distinction)
+
+**Petrodollar System rebuild:**
+- `wiki/concepts/Petrodollar System.md` — Historical Origins section rebuilt from a 4-bullet outline into a 4-phase chronology covering 1971–1975, including: Yom Kippur War / OAPEC embargo / oil price quadrupling; the Simon-Parsky negotiations of 1974; the U.S.-Saudi Arabian Joint Commission (June 8 1974); the Treasury "add-on" auction mechanism revealed by Bloomberg's 2016 FOIA reporting; the bundle-not-treaty structure of the arrangement. New section explaining the two common chronological errors. Cross-links to Narrow Banking, Dollarization, Operator View added. sources 2 → 3.
+
+**Index updated:** total_pages 618 → 622 (+4 concepts). New entries added to DePIN & Crypto, Diplomacy & Politics, and Mental Health & Culture concept subsections.
+
+**Still outstanding** (logged for future passes):
+- `Dollarization via Stablecoins` is argued structurally but sourceless — needs Argentina/Turkey/Nigeria source ingest
+- Petrodollar primary-source ingest (Spiro, Bloomberg 2016 reporting) — page now has the chronology but needs raw archival sources
+- Housing-economics and student-debt source ingest to support `Affordability Populism`
+- The audit reports themselves are now in `wiki/syntheses/` as the first residents of that directory; future syntheses should accumulate there
+
