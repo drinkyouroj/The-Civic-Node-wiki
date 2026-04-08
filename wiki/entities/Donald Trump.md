@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
-updated: 2026-04-07
-sources: 32
+updated: 2026-04-08
+sources: 35
 ---
 
 ## Overview
@@ -102,6 +102,9 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - [[Congress Advances Crypto Bills — StratNews Global]] — $57M WLF stake detailed; meme coin launches; ETF filing; White House "no conflicts" position
 - [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]] — Trump as stablecoin issuer via USD1; GENIUS Act signed July 18, 2025
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — central actor; issued the Easter ultimatum
+- [[CBC — Trump Iran ceasefire what happens next]] — announced two-week ceasefire 90 minutes before deadline; "we have already met and exceeded all Military objectives"
+- [[Reason — Trump is openly targeting innocent civilians]] — "A whole civilization will die tonight" Truth Social post; "Stone Age" rhetoric; bragging about destroying "the biggest bridge in Iran"
+- [[The Hill — Clay Fuller wins Georgia special election]] — Trump-endorsed Fuller won GA-14 special, replacing Marjorie Taylor Greene; House GOP majority becomes 218-214
 - [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — administration defunded federal hospice fraud prevention
 - [[Trump calls Powell 'too stupid' after fifth rate hold]] — Truth Social attack after July FOMC hold
 - [[Trump and Powell bicker over Fed building renovations]] — physical visit to Fed building; renovation cost dispute

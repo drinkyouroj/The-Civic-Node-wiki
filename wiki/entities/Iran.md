@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 7
+updated: 2026-04-08
+sources: 9
 ---
 
 ## Overview
@@ -25,6 +25,9 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - IRGC spokesperson Zolfaghari warned: "The entire region will turn into hell for you; the illusion of defeating the Islamic Republic of Iran will become a quagmire" [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]]
 - Iranian negotiators in backchannel talks have been granted **limited amnesty** by the US — confirms active negotiations alongside public defiance
 - Trump's prior threats targeted Iran's desalination plants; legal experts flagged this as potential violation of international humanitarian law
+- **April 7, 2026 — Two-week ceasefire announced**: 90 minutes before Trump's deadline. Iran agreed to reopen Strait of Hormuz "via coordinating with Iran's Armed Forces" and reportedly will charge $2M per ship transit fee, with revenue earmarked for war reconstruction. [[CBC — Trump Iran ceasefire what happens next]]
+- **Iran's 10-point peace plan**: compensation for war damage, lift all sanctions, release frozen assets, withdraw US combat forces from regional bases. Trump initially called it "not good enough" but reframed as "a workable basis on which to negotiate" in his ceasefire post
+- **Civilian harm during pre-ceasefire campaign**: U.S. bombed the unfinished B1 highway bridge near Tehran, killing 8 at a family picnic; Israel bombed Sharif University of Technology, a recent site of anti-regime protests; Trump publicly bragged about destroying "the biggest bridge in Iran" and stated the goal was sending Iranians "back to the Stone Age, where they belong" [[Reason — Trump is openly targeting innocent civilians]]
 
 ## Newsletter Relevance
 
@@ -46,6 +49,8 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 ## Source Appearances
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — subject of ultimatum; actor in conflict
+- [[CBC — Trump Iran ceasefire what happens next]] — two-week ceasefire; conditional Hormuz reopening; dueling peace plans
+- [[Reason — Trump is openly targeting innocent civilians]] — civilian harm during the pre-ceasefire bombing campaign; Sharif University and B1 bridge strikes
 
 ## Open Questions
 

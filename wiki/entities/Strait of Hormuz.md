@@ -4,8 +4,8 @@ type: entity
 entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 5
+updated: 2026-04-08
+sources: 7
 ---
 
 ## Overview
@@ -19,6 +19,8 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - Rep. Jake Auchincloss noted Iran's Strait control is "more strategically vital to them than the development of a nuclear weapon" [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
 - US gasoline rose ~37% (~$3 → $4.11/gallon) in ~5 weeks following closure [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
 - Trump set April 8, 2026 8 PM ET deadline for Iran to reopen or face strikes on power plants and bridges
+- **April 7, 2026 — Conditional reopening**: 90 minutes before Trump's deadline, Iran agreed to a two-week ceasefire and reopening of the Strait. Foreign Minister Abbas Araghchi specified safe passage "will be possible via coordinating with Iran's Armed Forces" — implying continued Iranian gatekeeping. NYT reports Iran intends to charge $2M per ship in transit fees, with revenue earmarked for war reconstruction. Iran's 5-week blockade triggered the global energy price spike. [[CBC — Trump Iran ceasefire what happens next]]
+- **Civilian-targeting context**: The pre-ceasefire days featured Trump's "Stone Age" rhetoric and the U.S. strike on the unfinished B1 highway bridge that killed 8 civilians at a family picnic. [[Reason — Trump is openly targeting innocent civilians]]
 
 ## Newsletter Relevance
 
@@ -38,6 +40,8 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 ## Source Appearances
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — central subject; Trump ultimatum to reopen or face strikes
+- [[CBC — Trump Iran ceasefire what happens next]] — conditional reopening; transit fee monetization; ceasefire context
+- [[Reason — Trump is openly targeting innocent civilians]] — civilian harm during the pre-ceasefire bombing campaign
 
 ## Open Questions
 

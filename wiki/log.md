@@ -881,3 +881,115 @@ Continuation of the five-agent audit fixes. Addressed the items the agents had l
 **Key insight**: DeepSeek R1 (671B parameters) runs locally on a 512GB Mac Studio as of early 2026. Frontier reasoning on consumer hardware is no longer a future projection. This extends [[AI Sovereignty]] from the nation-state level to the individual/team level.
 
 **Index:** total_pages 622 → 628, total_sources 378 → 387
+
+## [2026-04-08] insight-sweep | 5 hooks surfaced
+
+Three-agent sweep complete. 7 patterns, 8 contradictions, 7 underexplored angles identified. Scored on evidence density × editorial novelty (max 6). Top 5 hooks filed as synthesis pages. Master briefing at [[Insight Sweep — 2026-04-08]].
+
+**Top 5 hooks (all ready to draft):**
+1. [[Institutional Gaslighting as Operational Pattern]] — 6/6 — federal evidence custody as accountability-destruction mechanism
+2. [[Fed Independence Under Endogenous Supply Shock]] — 6/6 — Martin not Burns; endogenous tariff inflation as unprecedented Fed leverage
+3. [[Operation Metro Surge as Institutional Breakdown]] — 6/6 — $200M, 3,789 arrests, 2 deaths, 96 court order violations, FBI evidence seizure
+4. [[Chokepoint Control as Power's Architecture]] — 6/6 — cross-domain theory connecting Strait, GENIUS Act, DEA quotas, App Store, Fed, salary cap
+5. [[El Salvador Bitcoin: Policy Failure as Profit Model]] — 5/6 — 92% non-adoption + $333M government gain = the scheme worked as designed
+
+**Secondary candidates for next sweep:** Anthropic "supply chain risk" vs. $200M DoD contract; GENIUS Act corruption-vs-defensibility tension; Tech Sovereignty Cascade; Political Violence Cycle.
+
+**Source acquisition targets:** IMF El Salvador conditionality text; Metro Surge 96-court-order-violations primary source; Warsh monetary views.
+
+## [2026-04-08] update | Source acquisition for insight-sweep-2026-04-08
+
+Independent web search to fulfill the 5 source acquisition targets flagged by the morning insight sweep. All 5 addressed; critical numerical correction discovered on Hook #3.
+
+**Critical correction (Hook #3 Metro Surge)**: The "$81B business revenue disruption" figure that appeared in early wiki drafts was an order-of-magnitude error. Correct figures: City of Minneapolis preliminary assessment (Feb 2026) total one-month impact $203.1M; business revenue component ~$81M; Rosenthal & Sojourner independent wage-loss estimate $106.1M (Jan 3–Feb 17). Filed corrections to [[Operation Metro Surge as Institutional Breakdown]]. Earlier-published or draft material referencing the $81B figure should be audited.
+
+**Material development (Hook #2 Fed)**: Warsh nomination is no longer hypothetical — Trump formally nominated him Jan 30 2026. Warsh track record and projected regime now filed to [[Fed Independence Under Endogenous Supply Shock]]. Editorial framing shifts from "will Powell hold?" to "which Warsh shows up at the FOMC?" Note: need to create [[Kevin Warsh]] entity page in next update cycle.
+
+**Other resolutions:**
+- Hook #5 El Salvador: IMF Press Release 24/485 (Dec 18 2024) + Country Reports 25/58 and 25/68 cited to [[El Salvador Bitcoin: Policy Failure as Profit Model]]
+- Hook #3 Metro Surge: 96 court-order violations sourced to Chief Judge Schiltz ruling Jan 28 2026 (D. Minn.), with CNBC/JURIST/Wikipedia coverage
+- Hook #4 Chokepoint: DEA quota legal framework partially resolved (Federal Register APQ, Ascent v. DEA, Barbara v. Shire, Vermont Law Review). App Store side (Epic v. Apple, EU DMA) still requires ingestion.
+
+**Follow-up tasks:**
+1. Create [[Kevin Warsh]] entity page — he's now nominated Fed Chair
+2. Audit any published articles citing the $81B Metro Surge figure
+3. Ingest Epic v. Apple decision + EU Digital Markets Act enforcement materials for chokepoint legal framework
+4. Locate the specific docket number for Schiltz's 96-violations ruling for print-ready citation
+
+## [2026-04-08] ingest | 12 sources (Warsh ×5, Metro Surge ×3, DEA ×3, IMF ×1)
+
+Full INGEST workflow on the 12 sources clipped to resolve the insight-sweep source acquisition targets. User clipped the raw files; this pass created source pages, updated entities/concepts, and fixed material errors.
+
+**Source pages created (12):**
+
+*Warsh / Fed Independence cluster (5):*
+- [[PBS NewsHour — What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve]] (Jan 30 2026)
+- [[CFR — Kevin Warsh Won't Revolutionize the Fed]] (Jan 30 2026) — Roger Ferguson Jr. (former Fed Vice Chair) analysis; documents DOJ Powell probe + Tillis hold
+- [[The Fulcrum — Warsh's Family Fight Model]] (Apr 7 2026) — Bowmaker/Wachtel based on 2023 Warsh interview; most substantive
+- [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]] (Jan 30 2026)
+- [[Commonfund — Fed Watching under Warsh]] (Feb 18 2026) — Cohn quote, "hawk-turned-dove" framing
+
+*Metro Surge cluster (3):*
+- [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] (Feb 12 2026) — primary source that corrects the $81B error
+- [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]] (Mar 2 2026) — methodological accountability piece; $106.1M Rosenthal-Sojourner wage estimate
+- [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]] (Feb 3 2026) — Judge Menendez's Jan 31 denial of preliminary injunction
+
+*DEA quota cluster (3):*
+- [[Federal Register — 2026 Aggregate Production Quotas Final Order]] (Jan 5 2026) — primary regulatory text, 91 FR 287
+- [[Reason — DEA shuts down drug factory even as Adderall shortage persists]] (Feb 26 2024) — Ascent Pharmaceuticals case
+- [[Vermont Law Review — The Quota Crisis Vyvanse Adderall and the Regulation That Limits Access]] (Oct 27 2025) — legal-academic framing, three reform proposals
+
+*IMF / El Salvador (1):*
+- [[IMF — Staff-Level Agreement with El Salvador on Extended Fund Facility]] (Dec 17 2024) — primary source with exact Bitcoin conditionality language
+
+**Entity/concept pages updated:**
+- [[Kevin Warsh]] — full rewrite from stub; nomination is now official, not hypothetical; added "family fight" model, balance-sheet-plus-rates framework, AI productivity thesis, DOJ Powell probe context, Tillis hold, Senate confirmation status. sources: 5 → 6
+- [[Operation Metro Surge]] — **CRITICAL CORRECTION** of $81 billion → $81 million business revenue figure. Replaced with full $203.1M one-month sector breakdown from Feb 12 City assessment. Added Menendez Jan 31 PI denial with Tenth Amendment / equal sovereignty theories. sources: 24 → 27
+- [[Fed Independence]] — added Flashpoints 9-11: Warsh nomination, DOJ criminal probe of Powell, structural constraints on a compliant chair. sources: 17 → 22
+- [[El Salvador Bitcoin Experiment]] — IMF conditionality primary source citation with exact quoted text; attribution of tourism pickup to security situation (per IMF) not Bitcoin policy. sources: 19 → 20
+- [[ADHD Medication Shortage]] — added full Ascent Pharmaceuticals case (audit, shutdown, lawsuit, Operation Bottleneck, FDA-DEA interagency contradictions), Vermont Law Review statutory framework + three reform proposals, 2026 APQ Federal Register citation. sources: 9 → 12
+
+**Material corrections flagged:**
+1. **The $81B Metro Surge figure was an order-of-magnitude error.** Correct: $203.1M total one-month impact; $81M is specifically restaurant and small business revenue losses. Any prior published material citing "$81B" needs audit.
+2. **Separate Metro Surge rulings**: Chief Judge Schiltz (Jan 28, 96-violations finding) and Judge Menendez (Jan 31, PI denial) are two distinct rulings in related but separate proceedings. The wiki was treating them as one.
+3. **Warsh nomination is official**: Jan 30 2026 formal nomination, confirmation hearing expected spring 2026, Tillis (R-NC) blocking Senate Banking Committee recommendation pending resolution of DOJ Powell probe.
+
+**Still deferred:**
+- `raw/Trump is openly targeting innocent civilians.md` — Reason piece on Iran civilian targeting (Apr 7 2026). Unrelated to source acquisition targets; needs its own ingest under Iran/Strait of Hormuz cluster.
+- [[Katherine Menendez]] entity page (one-off; may not warrant dedicated page)
+- Specific docket number for Judge Schiltz's 96-violations finding (still only secondary-sourced via Wikipedia)
+- Epic v. Apple + EU Digital Markets Act materials for completing the Chokepoint Control legal framework
+
+**Index:** total_sources 387 → 399
+
+## [2026-04-08] note | Metro Surge $81B correction audit needed
+
+**Action item**: Any wiki/articles, wiki/syntheses, or published pieces that cite "$81 billion" as the Metro Surge business revenue impact should be audited and corrected to "$81 million" (city estimate for restaurant and small business revenue losses specifically) or "$203.1 million" (total one-month impact across all categories). The error originated in the Operation Metro Surge entity page and propagated into this morning's insight sweep synthesis before being corrected. See [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] for the authoritative breakdown.
+
+## [2026-04-08] ingest | 5 new sources — Epic v. Apple, Iran ceasefire, civilian targeting, Wisconsin SC, GA-14 special
+
+Scraped Epic Games v. Apple from Wikipedia (the chokepoint legal-framework target identified in [[insight-sweep-2026-04-08]]) and ingested 4 user-clipped raw files covering the April 7, 2026 news cycle: Reason on Trump's open civilian targeting, CBC on the Trump-Iran two-week ceasefire, Newsweek on Chris Taylor's Wisconsin Supreme Court win, and The Hill on Clay Fuller's GA-14 special election victory.
+
+**Source pages created** (5):
+- [[Epic Games v Apple - Wikipedia]] — comprehensive case record; chokepoint reconstituting itself in compliance form before April 2025 contempt finding
+- [[Reason — Trump is openly targeting innocent civilians]] — Petti on the bipartisan continuity of civilian-targeting cruelty, now stripped of its euphemistic cover
+- [[CBC — Trump Iran ceasefire what happens next]] — two-week ceasefire 90 min before deadline; Iran's reported $2M-per-ship Hormuz transit fee
+- [[Newsweek — Liberal flips Conservative Wisconsin Supreme Court seat]] — Taylor wins 61%; differential-engagement pattern; 5-2 liberal majority
+- [[The Hill — Clay Fuller wins Georgia special election]] — Trump-endorsed Fuller wins GA-14 runoff; House GOP margin tightens to 218-214
+
+**Entities created** (2):
+- [[Clay Fuller]] — incoming GA-14 representative
+- [[Wisconsin Supreme Court]] — court entity for the recurring bellwether story
+
+**Entities updated** (5):
+- [[Apple]] — added Epic v. Apple full procedural record + April 2025 contempt finding + EU Sweden account termination; sources 8→9
+- [[Strait of Hormuz]] — added April 7 conditional reopening, Araghchi quote, $2M transit fee plan; sources 5→7
+- [[Iran]] — added two-week ceasefire details, 10-point peace plan, civilian-targeting context; sources 7→9
+- [[Donald Trump]] — added ceasefire announcement, "Stone Age" rhetoric source, Fuller endorsement; sources 32→36
+- [[Marjorie Taylor Greene]] — added January 2026 resignation date and Fuller-as-successor; sources 3→4
+
+**Concepts updated** (1):
+- [[Chokepoint Control]] — added App Store as platform chokepoint, Hormuz conditional reopening + transit fees; sources 6→9
+
+**Index:** total_sources 399 → 404; total_pages 628 → 635
+

@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-08
-total_pages: 628
-total_sources: 387
+total_pages: 635
+total_sources: 404
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -437,6 +437,13 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[The Use of Knowledge in Society — Hayek]] — Friedrich Hayek, AER, 1945; dispersed knowledge; price system as information; epistemic case against central planning
 - [[The Strategy of Conflict — Thomas Schelling]] — Thomas Schelling, 1960; focal points; power to bind oneself; compellence vs. deterrence; game theory foundations
 
+### Recent Ingests (2026-04-08, post-insight-sweep)
+- [[Epic Games v Apple - Wikipedia]] — Wikipedia, Apr 8 2026; comprehensive Epic v. Apple case record (2020-2025); 9-of-10 Apple win, anti-steering UCL violation, April 2025 contempt finding eliminating 27% compliance fee; chokepoint reconstituting itself
+- [[Reason — Trump is openly targeting innocent civilians]] — Matthew Petti, Reason, Apr 7 2026; "Stone Age" rhetoric; B1 bridge strike killing 8; Sharif University bombing; bipartisan civilian-targeting continuity
+- [[CBC — Trump Iran ceasefire what happens next]] — Mike Crawley, CBC, Apr 7 2026; two-week ceasefire 90 min before deadline; Iran's 10-point plan; reported $2M-per-ship Hormuz transit fees
+- [[Newsweek — Liberal flips Conservative Wisconsin Supreme Court seat]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
+- [[The Hill — Clay Fuller wins Georgia special election]] — Caroline Vakil, The Hill, Apr 7 2026; Trump-endorsed Fuller wins GA-14 special; House GOP margin tightens to 218-214; Democratic overperformance pattern continues
+
 ---
 
 ## Entities
@@ -444,7 +451,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### Events
 - [[Charlie Kirk Assassination]] — Sep 10 2025; Turning Point USA CEO killed at UVU; shooter Kian Kordestani; massive political fallout; shutdown delayed
 - [[Killing of Renée Good]] — Jan 7 2026; ICE agent Jonathan Ross fatally shoots U.S. citizen Renée Good; DOJ investigated victim not shooter; mass prosecutor resignations
-- [[Operation Metro Surge]] — Dec 2025–Feb 2026; ICE/CBP mass enforcement in Minneapolis; 3,789+ arrests; 35% collateral; 96+ court order violations; $81B local business revenue lost
+- [[Operation Metro Surge]] — Dec 2025–Feb 2026; ICE/CBP mass enforcement in Minneapolis; 3,789+ arrests; 35% collateral; 96+ court order violations; $203.1M total one-month impact ($81M business revenue + $47M lost wages per City of Minneapolis preliminary assessment)
 - [[2025 United States Government Shutdown]] — Oct 1–Nov 12 2025; 43-day record; Kirk assassination delayed CR; Timothy Mellon private $130M military pay donation
 - [[2025 Elections]] — Nov 4 2025; Mamdani (NYC), Sherrill (NJ), Spanberger (VA), Prop 50 (CA); thermostatic Democratic wave on Day 35 of shutdown
 
@@ -499,8 +506,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Stephen Miran]] — Trump CEA chair; Fed governor (Sept 2025); dissented for 50 bps cut at first FOMC meeting; "unpaid leave" arrangement
 - [[Lisa Cook]] — Fed governor Trump tried to fire; appeals court blocked the removal; central case in for-cause removal limits
 - [[Mikie Sherrill]] — Democratic NJ governor-elect Nov 4 2025; part of the 2025 elections sweep alongside Spanberger and Mamdani
+- [[Clay Fuller]] — GA-14 Trump-endorsed special election winner Apr 7 2026; replaces MTG; House GOP majority becomes 218-214
 
 ### Organizations
+- [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
 - [[Federal Reserve]] — US central bank; under intense political pressure 2025; dual mandate; board composition shifting via Trump appointments
 - [[Iran Revolutionary Guards Corps]] — Iran's elite paramilitary; conducting Gulf energy infrastructure strikes
 - [[Anthropic]] — AI company; refused DoD military AI demands; blacklisted; being recruited by UK
@@ -739,11 +748,20 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ## Syntheses
 
+### Audit Reports
 - [[audit-2026-04-07-lead-researcher]] — Five-agent audit; schema hygiene, broken wikilinks, frontmatter drift, missing cross-cluster concept pages
 - [[audit-2026-04-07-historian]] — Volcker dates, "longest shutdown" qualifier, Bannon Munsingwear precedent, Glass-Steagall/Chicago Plan/Free Banking missing priors, Martin as the real Powell precedent
 - [[audit-2026-04-07-economist]] — GENIUS causal-chain hand-waving, 20.6% pre/post-substitution selection bias, currency/money/payment-instrument conflation, tariff expectations-vs-passthrough
 - [[audit-2026-04-07-millennial-contrarian]] — Tether-as-dollarization framing, Powell transitory steelman, Trump-conflict vs. legislation-merits decoupling, generation/class blind spot
 - [[audit-2026-04-07-sports-nut]] — Super Bowl LX unsourced, "zero holdovers" contradiction, Macdonald "25→2 in one season" wrong, 3-Buzz misdescribed, coaching-tree "control group" caveat
+
+### Insight Sweeps
+- [[Insight Sweep — 2026-04-08]] — Master briefing; 3-agent sweep; 7 patterns, 8 contradictions, 7 underexplored angles; top 5 hooks filed
+- [[Institutional Gaslighting as Operational Pattern]] — Federal evidence custody as accountability-destruction mechanism; Minneapolis, Epstein, Trump investigations; ready to draft
+- [[Fed Independence Under Endogenous Supply Shock]] — Burns comparison is wrong; Martin is right; tariff-driven endogenous inflation as unprecedented leverage; ready to draft
+- [[Operation Metro Surge as Institutional Breakdown]] — $200M cost, 3,789 arrests, 2 deaths, 96 court order violations, FBI evidence seizure; enforcement theater; ready to draft
+- [[Chokepoint Control as Power's Architecture]] — Strait of Hormuz, GENIUS Act reserves, DEA quotas, App Store, Fed rate-setting as the same mechanism; DePIN as structural response
+- [[El Salvador Bitcoin: Policy Failure as Profit Model]] — 92% non-adoption, $333M government gain, IMF forced removal; failed as currency, succeeded as insider enrichment
 
 ---
 
@@ -751,9 +769,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 365 |
+| Total sources ingested | 399 |
 | Published articles tracked | 82 (2 series + 11 episodes + 70 nonfiction essays) |
-| Entity pages | 79 |
-| Concept pages | 58 |
-| Synthesis pages | 0 |
-| Last updated | 2026-04-07 |
+| Entity pages | 99 |
+| Concept pages | 86 |
+| Synthesis pages | 11 (5 audits + 6 insight sweep) |
+| Last updated | 2026-04-08 |
