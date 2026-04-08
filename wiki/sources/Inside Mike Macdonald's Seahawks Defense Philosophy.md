@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, defense, macdonald, scheme, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Inside Mike Macdonald's Seahawks Defense Philosophy, Play Calls, & His 3-Buzz Concept.md"
 author: "Cody Alexander"
 published: 2025-06-16

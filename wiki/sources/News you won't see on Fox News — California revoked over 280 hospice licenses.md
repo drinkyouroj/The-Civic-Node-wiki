@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, healthcare]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/News you won't see on Fox News California revoked over 280 hospice licenses, 300 more providers under investigation since Governor Newsom's hospice moratorium.md"
 author: "State of California"
 published: 2026-03-24

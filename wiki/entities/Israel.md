@@ -5,7 +5,7 @@ entity_type: country
 tags: [geopolitics, military, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 6
 ---
 
 ## Overview

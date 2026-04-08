@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, january-6, trump]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Capitol riot 'does not happen' without Trump, Jack Smith told Congress.md"
 author: "The Associated Press"
 published: 2025-12-31

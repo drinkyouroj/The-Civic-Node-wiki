@@ -4,7 +4,7 @@ type: concept
 tags: [politics, monetary-policy, technology, stablecoin, crypto, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 18
+sources: 21
 ---
 
 ## Glossary — Read This First

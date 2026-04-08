@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 10
 raw: "raw/House Announces Week of July 14th as \"Crypto Week\".md"
 author: "House Financial Services Committee"
 published: 2025-07-03

@@ -4,7 +4,7 @@ type: source
 tags: [crypto, politics, monetary-policy, power, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 12
 raw: "raw/Strengthening American Leadership in Digital Financial Technology.md"
 author: "White House"
 published: 2025-01-23

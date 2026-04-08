@@ -4,7 +4,7 @@ type: concept
 tags: [mental-health, healthcare, labor, structural-failure]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 10
 ---
 
 ## Definition

@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, technology, legal, data-privacy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/FTC to Ban BetterHelp from Revealing Consumers' Data, Including Sensitive Mental Health Information, to Facebook and Oth.md"
 author: "FTC Bureau of Consumer Protection"
 published: 2023-03-02

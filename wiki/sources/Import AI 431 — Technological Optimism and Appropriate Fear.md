@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, power, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Import AI 431 Technological Optimism and Appropriate Fear.md"
 author: "Jack Clark"
 published: 2025-10-13

@@ -5,7 +5,7 @@ entity_type: person
 tags: [journalism, federal-immunity, minneapolis]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 7
+sources: 10
 ---
 
 ## Overview

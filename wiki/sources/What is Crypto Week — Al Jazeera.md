@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/What is the US's Crypto Week Why has Bitcoin hit a record high.md"
 author: "Al Jazeera"
 published: 2025-07-14

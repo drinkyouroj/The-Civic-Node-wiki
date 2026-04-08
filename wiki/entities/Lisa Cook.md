@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ Lisa Cook is a Federal Reserve Board governor whom President Trump attempted to 
 
 ## Key Facts
 
-- Trump moved to fire Cook from the Federal Reserve Board of Governors in 2025; a federal appeals court blocked the action [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]]
+- Trump moved to fire Cook from the Federal Reserve Board of Governors in 2025; a federal appeals court blocked the action [[New Trump appointee Miran calls for half-point cut]]
 - The blocked firing is the most direct test of for-cause removal protections at the Fed since their statutory creation
 - The episode preceded and motivated the Trump administration's pivot to an additive board strategy via [[Stephen Miran]]'s appointment
 
@@ -31,7 +31,7 @@ Lisa Cook is a Federal Reserve Board governor whom President Trump attempted to 
 
 ## Source Appearances
 
-- [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]] — references the blocked Cook firing in context of the Miran appointment
+- [[New Trump appointee Miran calls for half-point cut]] — references the blocked Cook firing in context of the Miran appointment
 
 ## Open Questions
 

@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, legal, minnesota, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/What's behind the highly unusual move to block Minnesota officials from investigating ICE shooting CNN Politics.md"
 author: "Hannah Rabinowitz; Evan Perez; Kristen Holmes"
 published: 2026-01-09

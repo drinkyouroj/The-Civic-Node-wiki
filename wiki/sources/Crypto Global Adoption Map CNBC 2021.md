@@ -4,7 +4,7 @@ type: source
 tags: [crypto, geopolitics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/This map shows where cryptocurrency is taking off around the world.md"
 author: "MacKenzie Sigalos / CNBC"
 published: 2021-08-18

@@ -20,7 +20,7 @@ Trade wars frequently escalate into currency wars because tariffs alter the term
 ## The 2025 Dynamics
 
 - Trump's "Liberation Day" tariffs (April 2025) initially triggered dollar volatility as markets priced in trade war escalation
-- Japan deal framework: 15% tariffs vs. threatened 25%; markets cheered — S&P 500 +0.8%, Nikkei +3.5% [[US stocks hit more records following US-Japan trade deal]]; Mazda +17%, Toyota/Nissan/Honda +8.5–12% on initial announcement [[Trump announces massive trade deal with Japan Al Jazeera]]
+- Japan deal framework: 15% tariffs vs. threatened 25%; markets cheered — S&P 500 +0.8%, Nikkei +3.5% [[US stocks hit records following US-Japan trade deal]]; Mazda +17%, Toyota/Nissan/Honda +8.5–12% on initial announcement [[Trump announces massive trade deal with Japan Al Jazeera]]
 - The deal structure (Japan invests $550B in US, opens rice/agricultural markets, LNG Alaska joint venture) illustrates how trade wars get resolved through asymmetric concessions rather than clean rebalancing
 - "It's a sign of the times that markets would cheer 15 percent tariffs. A year ago, that level of tariffs would be shocking." — Brian Jacobsen, Annex Wealth Management [[Trump announces massive trade deal with Japan Al Jazeera]]
 - Penn Wharton projects tariff-driven capital flow reduction of $6.9 trillion over 10 years (fewer foreign purchases of US assets as imports decline) — the capital account channel linking trade policy to investment and interest rates [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]]
@@ -53,7 +53,7 @@ A key policy assumption behind Trump's tariff strategy is that trade deficits re
 
 ## Key Sources
 
-- [[US stocks hit more records following US-Japan trade deal]]
-- [[Trump secures historic $550B trade deal with Japan]]
+- [[US stocks hit records following US-Japan trade deal]]
+- [[Trump secures $550B trade deal with Japan]]
 - [[Nixon shock - Wikipedia]]
 - [[Federal Reserve Signals Further Rate Cuts Amidst Worsening Labor Market and Divided Opinions]]

@@ -4,7 +4,7 @@ type: source
 tags: [politics, fiscal-policy, public-media, foreign-aid]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Rescissions Act of 2025 - Wikipedia [en.wikipedia.org].md"
 author: "Wikipedia"
 published: 2025-06-12

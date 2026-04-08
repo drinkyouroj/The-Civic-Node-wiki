@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, geopolitics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Agencia Administradora de Fondos Bitcoin refleja ingresos por $212 millones.md"
 author: "Moises Alvarado"
 published: 2024-09-03

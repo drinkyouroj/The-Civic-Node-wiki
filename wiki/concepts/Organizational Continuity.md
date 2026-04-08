@@ -4,7 +4,7 @@ type: concept
 tags: [nfl, power, systems-thinking, organizational-design]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 8
 ---
 
 ## Definition

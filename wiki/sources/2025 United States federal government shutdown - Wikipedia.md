@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, monetary-policy, government]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/2025 United States federal government shutdown - Wikipedia.md"
 author: "Wikipedia contributors"
 published: 2025-09-30

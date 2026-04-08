@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Powell doesn't bow to Trump pressure; US Fed keeps interest rate unchanged - here's what the FOMC statement said - Times.md"
 author: "TOI Business Desk"
 published: 2025-07-30

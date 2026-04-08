@@ -4,7 +4,7 @@ type: source
 tags: [crypto, politics, monetary-policy, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/El Salvador removes Bitcoin mandate Digital Watch Observatory.md"
 author: "Digital Watch Observatory"
 published: 2025-05-29

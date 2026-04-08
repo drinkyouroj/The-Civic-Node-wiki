@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Co-founder of AI giant Anthropic makes chilling prediction as more Aussies fear the worst.md"
 author: "Stewart Perrie"
 published: 2025-10-15

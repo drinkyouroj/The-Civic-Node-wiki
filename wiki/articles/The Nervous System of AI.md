@@ -31,7 +31,7 @@ Four sections following the newsletter's Spark / Pattern / Protocol / Debug form
 
 ## Connections
 
-- [[You Don't Need Better AI. You Need Better Add-Ons.]] — the prior piece on general prompt enhancers; this piece follows up with GPT-5-specific techniques
+- [[You Don't Need Better AI. You Need Better Add-Ons]] — the prior piece on general prompt enhancers; this piece follows up with GPT-5-specific techniques
 - [[Octopus Mode]] — wiki page likely exists for this concept given the broader wiki content
 - [[GPT-5]] — subject of the piece
 - [[OpenAI]] — builder of GPT-5 and the routing architecture described

@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 6
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ Stephen Miran is the chair of Trump's Council of Economic Advisers (CEA) and a T
 
 ## Key Facts
 
-- Confirmed to the Federal Reserve Board September 2025; retained CEA chair role on unpaid leave [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]]
+- Confirmed to the Federal Reserve Board September 2025; retained CEA chair role on unpaid leave [[New Trump appointee Miran calls for half-point cut]]
 - Dissented at his first FOMC meeting calling for a 50 bps cut while the rest of the committee approved a quarter-point cut [[Fed 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent]]
 - The Miran appointment was the centerpiece of Trump's strategy to bring the Fed inside executive influence after the failed attempt to fire Governor [[Lisa Cook]]
 
@@ -31,7 +31,7 @@ Stephen Miran is the chair of Trump's Council of Economic Advisers (CEA) and a T
 
 ## Source Appearances
 
-- [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]]
+- [[New Trump appointee Miran calls for half-point cut]]
 - [[Fed 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent]]
 
 ## Open Questions

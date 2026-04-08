@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, january-6, trump, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 8
 ---
 
 ## Overview
@@ -18,7 +18,7 @@ The January 6, 2021 attack on the U.S. Capitol by supporters of Donald Trump att
 - Mark Meadows interview: Rep. Jim Jordan was in contact with White House during the riot [[Capitol riot 'does not happen' without Trump, Jack Smith told Congress]]
 - Trump pardoned Jan. 6 defendants early in second term; framed as correcting political prosecution [[Trump Jan 6 pardons rollout explainer]]
 - Trump says Jan. 6 pardons are "good for America" [[Trump says Jan 6 pardons are good for America]]
-- New report: FBI and Secret Service had critical information gaps before the Trump assassination attempt — separate but related security failure pattern [[New report says FBI, Secret Service had critical information gaps before Trump assassination attempt]]
+- New report: FBI and Secret Service had critical information gaps before the Trump assassination attempt — separate but related security failure pattern [[New report says FBI Secret Service had critical information gaps before Trump assassination attempt]]
 
 ## Newsletter Relevance
 Jan. 6 remains the defining contested event in American politics. The Smith deposition adds significant specificity to what was known — but Trump's pardons reframe the legal record. The political management of Jan. 6's meaning (Smith vs. pardons; Republican committee suppressing Smith's public testimony) is a case study in how governing power controls historical narrative.
@@ -30,7 +30,7 @@ Jan. 6 remains the defining contested event in American politics. The Smith depo
 
 ## Source Appearances
 - [[Capitol riot 'does not happen' without Trump, Jack Smith told Congress]] — Smith deposition
-- [[Jack Smith's congressional testimony reveals more than we knew about Jan 6 planning]] — same deposition, different framing
+- [[Jack Smith congressional testimony reveals more than we knew about Jan 6]] — same deposition, different framing
 - [[Jack Smith says 'no historical analog' for Trump's actions around 2020 election, denies political influence]] — additional testimony
 - [[Trump Jan 6 pardons rollout explainer]] — pardon context
 - [[Trump says Jan 6 pardons are good for America]] — Trump framing

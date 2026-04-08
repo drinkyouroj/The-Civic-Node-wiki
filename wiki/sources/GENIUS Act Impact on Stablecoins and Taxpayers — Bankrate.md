@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, legislation, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/What The GENIUS Act Could Mean For Stablecoins, Investors And Taxpayers Bankrate.md"
 author: "James Royal, PhD, Bankrate"
 published: 2025-07-18

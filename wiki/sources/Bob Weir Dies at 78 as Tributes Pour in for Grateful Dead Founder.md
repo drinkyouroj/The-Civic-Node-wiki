@@ -4,7 +4,7 @@ type: source
 tags: [music, obituary]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Bob Weir Dies at 78 as Tributes Pour in for Grateful Dead Founder.md"
 author: "Michelle Stein"
 published: 2026-01-11

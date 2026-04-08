@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/The government shutdown is likely to cement additional Fed interest rate cuts.md"
 author: "Jeff Cox"
 published: 2025-10-01

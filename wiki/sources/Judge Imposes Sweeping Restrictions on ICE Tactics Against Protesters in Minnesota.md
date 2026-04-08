@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, legal, civil-rights, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Judge Imposes Sweeping Restrictions on the Tactics ICE Can Use Against Protesters in Minnesota.md"
 author: "Rebecca Schneid"
 published: 2026-01-17

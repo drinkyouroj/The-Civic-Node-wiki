@@ -4,7 +4,7 @@ type: source
 tags: [politics, legal, judiciary, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/In rare interviews, federal judges criticize Supreme Court's handling of Trump cases.md"
 author: "Lawrence Hurley"
 published: 2025-09-04

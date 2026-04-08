@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, legislation, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Crypto Week Policy Playbook for CFOs PYMNTS.com.md"
 author: "PYMNTS"
 published: 2025-07-14

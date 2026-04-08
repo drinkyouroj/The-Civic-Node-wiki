@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Stablecoins in DeFi Ultimate Guide for 2024 Types, Uses, Risks.md"
 author: "Jesse Anglen / Rapid Innovation"
 published: 2024-09-19

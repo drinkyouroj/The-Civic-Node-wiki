@@ -4,7 +4,7 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Consumer advocate group slams Genius Act.md"
 author: "Tatiana Walk-Morris, Lynne Marek (Payments Dive)"
 published: 2025-07-21

@@ -4,7 +4,7 @@ type: source
 tags: [music, innovation, obituary]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Bob Weir the Grateful Dead co-founder reinvented rhythm guitar and the art of the jam [theconversation.com].md"
 author: "Max Bowden"
 published: 2026-01-12
@@ -32,7 +32,7 @@ Academic obituary published by The Conversation following Bob Weir's death on Ja
 - [[Grateful Dead]] — band Weir co-founded in 1965; credited with founding the jam band genre
 - [[Jerry Garcia]] — lifelong musical partner; died 1995
 - [[John Perry Barlow]] — lyricist; met Weir at school for behavioral problems; co-wrote major Dead songs
-- [[Dead & Company]] — post-Garcia iteration (2015-2023) featuring [[John Mayer]]
+- [[Dead and Company]] — post-Garcia iteration (2015-2023) featuring [[John Mayer]]
 - [[Phil Lesh]] — bassist; his unconventional style gave Weir harmonic freedom
 - [[John Mayer]] — lead guitarist in Dead & Company; praised Weir effusively
 

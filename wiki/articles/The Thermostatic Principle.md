@@ -40,7 +40,7 @@ Seven numbered analytical patterns, each with supporting evidence:
 - [[Abigail Spanberger]] — Virginia governor, central case study
 - [[Zohran Mamdani]] — NYC mayor, progressive wing case study
 - [[Donald Trump]] — whose approval ratings and policy failures are the independent variable
-- [[Thermostatic Principle]] — the political science concept named in the title
+- [[The Thermostatic Principle]] — the political science concept named in the title
 - [[California Proposition 50]] — redistricting case study on power vs. principle
 - [[Democratic Socialists of America]] — municipal wins noted in down-ballot analysis
 

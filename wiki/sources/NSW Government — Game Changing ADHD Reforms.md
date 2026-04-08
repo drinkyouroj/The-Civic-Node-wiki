@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Game changing reforms allow GPs to treat ADHD to reduce wait times and costs.md"
 author: "NSW Health / NSW Premier's Department"
 published: 2025-05-26

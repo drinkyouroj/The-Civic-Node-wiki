@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, politics, power, tech-state-conflict]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/As Anthropic tries to keep pace with OpenAI, it's also taking on the U.S. government.md"
 author: "MacKenzie Sigalos"
 published: 2025-10-19

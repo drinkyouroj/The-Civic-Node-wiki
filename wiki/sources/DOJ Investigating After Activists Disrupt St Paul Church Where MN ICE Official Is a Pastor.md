@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, press-freedom, religion]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/DOJ investigating after activists disrupt St. Paul church where MN ICE official is a pastor.md"
 author: "Kristi Miller; The Associated Press"
 published: 2026-01-18

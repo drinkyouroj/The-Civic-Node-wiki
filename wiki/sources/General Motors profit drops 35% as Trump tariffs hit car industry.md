@@ -43,4 +43,4 @@ Al Jazeera report on GM's Q2 2025 earnings: profits fell 35.4% to $1.9 billion d
 
 ## Notes
 
-Al Jazeera sourcing. Straightforward earnings report. Companion piece: [[General Motors and the Tariff-EV Dilemma Strategic Resilience and Margin Recovery]] (Ainvest analysis, same day) provides more strategic framing.
+Al Jazeera sourcing. Straightforward earnings report. Companion piece: [[General Motors and the Tariff-EV Dilemma]] (Ainvest analysis, same day) provides more strategic framing.

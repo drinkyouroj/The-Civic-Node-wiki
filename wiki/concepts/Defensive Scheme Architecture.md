@@ -4,7 +4,7 @@ type: concept
 tags: [nfl, defense, scheme, systems-thinking, macdonald]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 9
+sources: 12
 ---
 
 ## Definition

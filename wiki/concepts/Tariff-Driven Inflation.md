@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, economics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 12
+sources: 15
 ---
 
 ## Definition
@@ -56,7 +56,7 @@ Powell's framing: "A reasonable base case is these are one-time price effects" �
 
 ## Tensions & Counterarguments
 
-- **Inflation passthrough lower than expected**: Goldman Sachs noted that tariff passthrough to consumer prices was "tracking somewhat lower than in 2019" — firms absorbing some costs rather than passing them on [[US stocks hit more records following US-Japan trade deal]]
+- **Inflation passthrough lower than expected**: Goldman Sachs noted that tariff passthrough to consumer prices was "tracking somewhat lower than in 2019" — firms absorbing some costs rather than passing them on [[US stocks hit records following US-Japan trade deal]]
 - **Negotiating tool**: Some tariffs were reduced or paused via deals (Japan: 25% → 15%; auto parts partial exemptions). The final tariff level is uncertain.
 - **One-time vs. sustained**: A tariff that raises prices once is not the same as a sustained inflation dynamic. If firms absorb the shock and prices stabilize, the Fed can declare victory.
 - **China decoupling**: Some tariff-driven cost increases represent intentional supply chain reshoring — a structural choice accepting higher near-term costs for reduced long-term dependency.

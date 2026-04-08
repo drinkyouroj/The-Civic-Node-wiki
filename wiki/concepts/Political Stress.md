@@ -4,7 +4,7 @@ type: concept
 tags: [mental-health, politics, culture]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 9
 ---
 
 ## Definition

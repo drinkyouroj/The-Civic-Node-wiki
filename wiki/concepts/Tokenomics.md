@@ -4,7 +4,7 @@ type: concept
 tags: [technology, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 15
 ---
 
 ## Definition

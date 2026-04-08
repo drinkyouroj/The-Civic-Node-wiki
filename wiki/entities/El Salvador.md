@@ -5,7 +5,7 @@ entity_type: country
 tags: [crypto, monetary-policy, geopolitics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 15
+sources: 19
 ---
 
 ## Overview
@@ -18,10 +18,10 @@ El Salvador is a small Central American country of ~6.5 million people, already 
 
 - Bitcoin Law enacted September 2021; became first country to make Bitcoin legal tender. [[Are Cryptocurrencies Currencies — University of Chicago Booth School]]
 - Chivo Wallet launched with $30 per-user download incentive from government.
-- By 2024: 92% of Salvadorans not using Bitcoin for transactions; only ~1% of population actively used it. [[Bitcoin is no longer legal tender — Digital Watch Observatory]]
+- By 2024: 92% of Salvadorans not using Bitcoin for transactions; only ~1% of population actively used it. [[Bitcoin is no longer legal tender in El Salvador — Digital Watch Observatory]]
 - Only ~1% of businesses accepted Bitcoin in practice.
 - February 2025: Congress removed mandatory Bitcoin acceptance per IMF loan condition ($1.4B loan). 55-2 vote. [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]]
-- Government claimed $212 million in "financial income" from Bitcoin holdings (AAB, June 2024 report). [[Agencia Administradora de Fondos Bitcoin — $212M]]
+- Government claimed $212 million in "financial income" from Bitcoin holdings (AAB, June 2024 report). [[Agencia Administradora de Fondos Bitcoin — $212 Million Report]]
 - Official Bitcoin holdings: 7,614 BTC (~$522M as of data capture); other sources cite ~5,861 BTC officially announced. [[El Salvador Bitcoin Holdings and Analysis]]
 - Mined ~474 BTC using geothermal energy from Tecapa volcano since 2021. [[El Salvador Bitcoin Holdings and Analysis]]
 - Fitch upgraded El Salvador's credit rating to 'B-' (stable) after IMF deal. Bitcoin mandate removal was explicitly cited as a driver. [[Fitch Upgrades El Salvador Credit Rating to B- Stable]]
@@ -45,8 +45,8 @@ El Salvador is the only real-world experiment in a nation-state adopting Bitcoin
 
 ## Source Appearances
 
-- [[Agencia Administradora de Fondos Bitcoin — $212M]] — disputed Bitcoin income figures
-- [[Bitcoin is no longer legal tender — Digital Watch Observatory]] — removal of legal tender status
+- [[Agencia Administradora de Fondos Bitcoin — $212 Million Report]] — disputed Bitcoin income figures
+- [[Bitcoin is no longer legal tender in El Salvador — Digital Watch Observatory]] — removal of legal tender status
 - [[Are Cryptocurrencies Currencies — University of Chicago Booth School]] — academic analysis of adoption failure
 - [[El Salvador Bitcoin Experiment]] — concept page synthesizing all sources
 - [[El Salvador Bitcoin Holdings and Analysis]] — holdings data (7,614 BTC, geothermal mining)

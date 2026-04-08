@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 13
 ---
 
 > ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** No raw post-game Super Bowl LX recap exists in this cluster; the latest sourced Darnold appearance is the Jan 26, 2026 NFC Championship win.

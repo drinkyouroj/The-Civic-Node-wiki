@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Only 4 in 10 Continued Using El Salvador's Chivo Bitcoin Wallet After Bonus Report CoinMarketCap.md"
 author: "CoinMarketCap"
 published: 2022-05-05

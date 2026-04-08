@@ -4,7 +4,7 @@ type: concept
 tags: [politics, polarization, political-violence, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 11
+sources: 15
 ---
 
 ## Definition
@@ -21,7 +21,7 @@ The U.S. is in an active phase of this cycle. Between 2016 and 2023, there were 
 - United Healthcare CEO assassination (2024): executive targeted; sparked public sympathy discussion about corporate power
 - Rep. Steve Scalise shooting: Republican congressmember shot at baseball practice
 - Princeton's Bridging Divides Initiative documents gradual rise in threat and harassment incidents against local officials [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]]
-- Right-wing social media response to Kirk death: users saying "we're at war" [[After Charlie Kirk's killing, MAGA world mourns, but some say 'we're at war']]
+- Right-wing social media response to Kirk death: users saying "we're at war" [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]]
 
 ## Tensions & Counterarguments
 - Most Americans in polling say they do not support political violence, suggesting the cycle is driven by a minority that is amplified by partisan media rather than a genuine mass movement toward violence
@@ -30,14 +30,14 @@ The U.S. is in an active phase of this cycle. Between 2016 and 2023, there were 
 - The asymmetric treatment of victims (Kirk vs. Hortman) means the cycle may be structurally biased toward right-wing radicalization in the current political environment
 
 ## Related Concepts
-- [[Echo Chamber / Polarization]] — algorithmic media fragmentation reinforces partisan interpretations of violent events
+- [[Echo Chamber and Polarization]] — algorithmic media fragmentation reinforces partisan interpretations of violent events
 - [[Institutional Gaslighting]] — selective official narratives about violent incidents shape which violence gets investigated
 - [[Sanctuary Infrastructure]] — non-state institutions providing protection as state violence becomes normalized
 
 ## Key Sources
 - [[Charlie Kirk assassinated at university event in Utah]]
 - [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]]
-- [[After Charlie Kirk's killing, MAGA world mourns, but some say 'we're at war']]
+- [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]]
 - [[How Charlie Kirk's death exposes the peril of political violence in America]]
 - [[The Right's grievance machine kicks into high gear after Kirk's death]]
 - [[ICE, the church shooter, and how conservatives hope to control the narrative of political violence]]

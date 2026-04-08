@@ -5,7 +5,7 @@ entity_type: organization
 tags: [music, innovation, culture]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 10
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ The Grateful Dead were an American rock band founded in 1965 in San Francisco, c
 - Founded 1965 in San Francisco by Bob Weir, Jerry Garcia, Phil Lesh, Bill Kreutzmann, and Ron "Pigpen" McKernan; Mickey Hart joined as second drummer.
 - Inducted into the Rock & Roll Hall of Fame 1994; Grammy Lifetime Achievement Award 2007.
 - Garcia died August 9, 1995; the band officially dissolved shortly after.
-- Post-Garcia iterations: The Other Ones, Furthur, The Dead, [[Dead & Company]] (2015-2023), and the 60th anniversary shows (August 2025).
+- Post-Garcia iterations: The Other Ones, Furthur, The Dead, [[Dead and Company]] (2015-2023), and the 60th anniversary shows (August 2025).
 - Dead & Company drew 4 million+ fans over 235 shows across its 8-year career; final tour grossed ~$115 million. [[Dead and Company by the Numbers Final Tour Totals]]
 - The band is credited with founding the jam band genre — Phish, Widespread Panic, and Billy Strings are among the direct successors.
 - Hundreds of cover bands exist, some having played more shows than the Dead ever did.
@@ -28,7 +28,7 @@ The Grateful Dead are a case study in system design outlasting its creators: a m
 - [[Bob Weir]] — co-founder; rhythm guitarist; primary surviving musical voice through 2026
 - [[Jerry Garcia]] — co-founder; lead guitarist; the band's creative center until his death in 1995
 - [[Phil Lesh]] — co-founder; bassist; died 2024
-- [[Dead & Company]] — most successful post-Garcia commercial iteration
+- [[Dead and Company]] — most successful post-Garcia commercial iteration
 - [[John Perry Barlow]] — lyricist for Weir's songs; met Weir at reform school
 
 ## Source Appearances

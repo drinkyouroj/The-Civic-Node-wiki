@@ -22,7 +22,7 @@ Fox Business report on Trump's announced "massive" trade deal with Japan: $550 b
 - Japan buys 100 Boeing planes; hikes defense spending with US firms from $14B to $17B annually
 - Deal comes two weeks after Trump threatened 25% tariffs with Aug 1 deadline
 - Trump: "Tariff Power" is what enabled opening Japan's market — market access as valuable as tariff revenue
-- S&P 500 +0.8%, Nikkei +3.5% on deal announcement [[US stocks hit more records following US-Japan trade deal]]
+- S&P 500 +0.8%, Nikkei +3.5% on deal announcement [[US stocks hit records following US-Japan trade deal]]
 
 ## Newsletter Angles
 
@@ -41,4 +41,4 @@ Fox Business report on Trump's announced "massive" trade deal with Japan: $550 b
 
 ## Notes
 
-Fox Business sourcing — favorable framing toward Trump. The $550B "investment" figure is Trump's characterization and somewhat inflated relative to the specific commitments listed. The actual agreed terms (15% tariffs, Boeing, rice, defense spending) are the useful elements. Companion: [[US stocks hit more records following US-Japan trade deal]] (AP, more neutral).
+Fox Business sourcing — favorable framing toward Trump. The $550B "investment" figure is Trump's characterization and somewhat inflated relative to the specific commitments listed. The actual agreed terms (15% tariffs, Boeing, rice, defense spending) are the useful elements. Companion: [[US stocks hit records following US-Japan trade deal]] (AP, more neutral).

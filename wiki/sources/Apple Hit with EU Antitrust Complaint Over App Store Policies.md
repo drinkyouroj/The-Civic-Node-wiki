@@ -4,7 +4,7 @@ type: source
 tags: [technology, legal, antitrust, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Apple hit with EU antitrust complaint over App Store policies.md"
 author: "MacDailyNews Webmaster"
 published: 2025-10-22

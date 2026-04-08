@@ -4,7 +4,7 @@ type: concept
 tags: [music, innovation, culture]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 10
 ---
 
 ## Definition
@@ -15,7 +15,7 @@ The jam band model is an unusual economic and cultural structure: it generates e
 
 ## Evidence & Examples
 - [[Grateful Dead]] credited as founders of the genre; performed 2,300+ shows over 30 years.
-- [[Dead & Company]] (2015-2023) drew 4+ million fans across 235 shows; $115M final tour gross. [[Dead and Company by the Numbers Final Tour Totals]]
+- [[Dead and Company]] (2015-2023) drew 4+ million fans across 235 shows; $115M final tour gross. [[Dead and Company by the Numbers Final Tour Totals]]
 - Successors: Phish, Widespread Panic, Billy Strings — each with massive touring followings.
 - Hundreds of Grateful Dead cover bands exist, some having played more shows than the Dead ever did.
 - Dead & Company was one of the first acts to play the Las Vegas Sphere, demonstrating the genre's contemporary commercial scale.

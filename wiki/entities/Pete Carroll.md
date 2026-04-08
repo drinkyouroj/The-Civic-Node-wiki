@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl, seahawks, coaching, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 8
 ---
 
 ## Overview

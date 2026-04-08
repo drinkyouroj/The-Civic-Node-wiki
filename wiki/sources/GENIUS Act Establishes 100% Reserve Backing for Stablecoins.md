@@ -4,7 +4,7 @@ type: source
 tags: [politics, monetary-policy, crypto, stablecoin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/GENIUS Act Establishes 100% Reserve Backing for Stablecoins.md"
 author: "Coin World / AInvest"
 published: 2025-07-20

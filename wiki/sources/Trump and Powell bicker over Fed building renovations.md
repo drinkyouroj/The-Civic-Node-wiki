@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Trump and Powell bicker over Fed building renovations as president ratchets up pressure campaign.md"
 author: "Christopher Rugaber; Josh Boak; Chris Megerian"
 published: 2025-07-24

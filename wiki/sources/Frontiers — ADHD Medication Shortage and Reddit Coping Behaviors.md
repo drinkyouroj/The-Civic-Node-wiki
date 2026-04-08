@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Frontiers Attention-deficit hyperactivity disorder medication shortage in the United States a qualitative assessment of.md"
 author: "Shrestha, Shikhar; Varghese, Shama; Mehta, Simran; Dev, Saloni"
 published: 2025-07-07

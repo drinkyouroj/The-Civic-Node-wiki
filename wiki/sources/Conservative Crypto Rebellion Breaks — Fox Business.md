@@ -4,7 +4,7 @@ type: source
 tags: [politics, crypto, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Conservative crypto rebellion breaks after longest House vote in US history.md"
 author: "Elizabeth Elkind (Fox Business)"
 published: 2025-07-17

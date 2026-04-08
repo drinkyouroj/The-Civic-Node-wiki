@@ -39,20 +39,20 @@ This is a defining civil liberties event: a U.S. citizen killed by federal agent
 
 ## Source Appearances
 - [[Killing of Renée Good - Wikipedia]] — comprehensive Wikipedia entry with full timeline
-- [[ICE agent shoots, kills U.S. citizen Renee Good in south Minneapolis]] — initial reporting
+- [[ICE agent shoots kills Renee Good in south Minneapolis]] — initial reporting
 - [[Minneapolis ICE shooting A minute-by-minute timeline of how Renee Nicole Good died]] — timeline reconstruction
 - [['Made of sunshine' Renee Good's wife speaks out following fatal Minneapolis ICE shooting]] — family response
-- [[Who was Renee Nicole Good, the woman killed in ICE Minneapolis shooting]] — profile
+- [[Who was Renee Nicole Good the woman killed in ICE Minneapolis shooting]] — profile
 - [[ICE agent shooter's own cellphone video undercuts Trump administration's account of Minneapolis killing]] — video analysis
 - [[ICE Agent Cellphone Captures Fatal Confrontation in Minneapolis CNN]] — CNN video analysis; Ross's personal cellphone footage obtained by CNN; shows Good saying "That's fine dude, I'm not mad at you" before agents order her out; shooting itself not visible
 - [[ICE Officer Who Shot Woman in Minneapolis Was Dragged and Injured in Prior Incident CNN]] — Ross's career background and June 2025 dragging incident; expert consensus that Ross had other options
 - [[Woman Fatally Shot by ICE Officer Remembered as One of the Kindest People]] — NBC News profile; family and neighbor testimony; Good's mother said she was "probably terrified"
 - [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — Fox News live blog; documents administration narrative construction in real time; BCA withdrawal story
 - [[Minneapolis ICE Shooting Updates Protests Remain Peaceful ABC News]] — DHS's congressional oversight policy change (7-day advance notice) the day after Good's killing
-- [[Minnesota and federal officials are no longer cooperating on ICE shooting investigation]] — investigation standoff
+- [[Minnesota and federal officials no longer cooperating on ICE shooting investigation]] — investigation standoff
 - [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — CNN investigation; sources reveal administration's stated reason (doxxing fear) and mutual distrust; Ellison: "Maybe they don't care"
 - [[Trump Says Hes Freezing Minnesota Out of ICE Shooting Probe Because Walz Is a Stupid Person]] — Trump's personal justification; daycare fraud used to delegitimize Walz
-- [[Attorney General Ellison and cities of Minneapolis and Saint Paul sue to halt ICE surge into Minnesota]] — legal challenge
+- [[Attorney General Ellison and Minneapolis Saint Paul sue to halt ICE surge]] — legal challenge
 - [[Was the ICE church shooting preventable]] — preventability analysis
 
 ## Open Questions

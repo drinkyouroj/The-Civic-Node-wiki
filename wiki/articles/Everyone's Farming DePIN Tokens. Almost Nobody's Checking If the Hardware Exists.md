@@ -30,8 +30,8 @@ Personal frame: father's frame shop with POS software that was subverted by a di
 ## Connections
 - [[DePIN]] — central concept; the piece is a forensic critique of the sector's verification failure
 - [[Helium Network]] — location spoofing case study
-- [[IO.net]] — GPU inflation case study
-- [[Datagram Network]] — performance-based routing as structural solution
+- [[io.net]] — GPU inflation case study
+- [[Datagram Network — Windows Setup]] — performance-based routing as structural solution
 - [[Filecoin]] — mentioned as a counter-example with working verification
 - [[Render Network]] — mentioned as a counter-example with hardware authentication
 

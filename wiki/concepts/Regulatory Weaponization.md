@@ -4,7 +4,7 @@ type: concept
 tags: [power, politics]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 17
+sources: 21
 ---
 
 ## Definition
@@ -47,7 +47,7 @@ Regulatory weaponization is the use of executive branch regulatory tools — age
 - [[Trump administration uses taxpayer dollars to blame Democrats for government shutdown]] — Hatch Act potential violation; agencies directed to post partisan blame messaging on official websites
 - [[White House freezes $18 billion in New York City infrastructure funding]] — targeted NYC infrastructure freeze in Schumer/Jeffries home districts on Day 1 of shutdown
 - [[Trump Admin Says It's Canceling Energy Projects in 16 Blue States]] — $8B blue-state energy cuts announced Day 1 of shutdown
-- [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs.]] — red-state carveout documented; identical projects kept in GOP states
+- [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs]] — red-state carveout documented; identical projects kept in GOP states
 - [[Is that legal Trump's $8B cuts in the crosshairs]] — legal analysis; Train v. City of New York (1975) applies; "This is unlawful" per Georgetown Law
 - [[White House says layoffs for federal workers are imminent]] — shutdown-as-restructuring framing; firings planned not as temporary furlough but as permanent reduction
 - [[Trump appealing ruling against Portland National Guard deployment]] — deploying military against domestic protesters; judge (Trump appointee) called it "untethered to the facts"

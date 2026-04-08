@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, religion, civil-rights, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Protesters Disrupt Southern Baptist Church of Pastor Who Leads ICE Office in Minnesota.md"
 author: "Brian Kaylor"
 published: 2026-01-18

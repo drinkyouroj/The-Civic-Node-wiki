@@ -4,7 +4,7 @@ type: source
 tags: [politics, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 12
 raw: "raw/Transcript Senate Republicans Hold Social Media Jawboning Hearing.md"
 author: "Cristiano Lima-Strong / TechPolicy.press"
 published: 2025-10-09

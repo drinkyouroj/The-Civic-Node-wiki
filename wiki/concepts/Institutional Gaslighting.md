@@ -4,7 +4,7 @@ type: concept
 tags: [power, politics, truth-control, federal-immunity]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 13
+sources: 16
 ---
 
 ## Definition

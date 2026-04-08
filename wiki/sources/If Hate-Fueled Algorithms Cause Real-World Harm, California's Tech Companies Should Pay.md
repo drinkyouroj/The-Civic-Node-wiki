@@ -4,7 +4,7 @@ type: source
 tags: [technology, politics, legal, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Opinion If hate-fueled algorithms cause real-world harm, California's tech companies should pay.md"
 author: "Guest Commentary, CalMatters"
 published: 2025-10-03

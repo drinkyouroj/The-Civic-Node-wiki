@@ -5,7 +5,7 @@ entity_type: country
 tags: [politics, power, depin]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 5
 ---
 
 ## Overview

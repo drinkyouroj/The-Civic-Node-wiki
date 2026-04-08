@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, depin]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 10
 raw: "raw/Britain woos Anthropic expansion after US defence clash, FT says.md"
 author: "Reuters / Chandni Shah"
 published: 2026-04-05

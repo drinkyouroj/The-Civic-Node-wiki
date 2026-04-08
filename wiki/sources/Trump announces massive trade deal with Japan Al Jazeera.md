@@ -4,7 +4,7 @@ type: source
 tags: [geopolitics, economics, monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Trump announces 'massive' trade deal with Japan.md"
 author: "John Power"
 published: 2025-07-23

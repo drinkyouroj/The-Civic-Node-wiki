@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, minnesota, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Trump Says He's Freezing Minnesota Out of ICE Shooting Probe Because Walz Is 'A Stupid Person'.md"
 author: "Willa Pope Robbins"
 published: 2026-01-09

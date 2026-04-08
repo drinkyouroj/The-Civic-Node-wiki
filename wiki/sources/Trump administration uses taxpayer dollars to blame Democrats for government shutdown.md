@@ -4,7 +4,7 @@ type: source
 tags: [politics, government-shutdown, ethics, regulatory-weaponization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Trump administration uses taxpayer dollars to blame Democrats for government shutdown.md"
 author: "Shannon Bond"
 published: 2025-09-30

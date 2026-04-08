@@ -4,7 +4,7 @@ type: source
 tags: [crypto, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Trump's GENIUS move Donald Trump urges GOP to vote 'Yes' for digital asset bill; says 'all part of MAGA' - Times of Indi.md"
 author: "TOI Business Desk"
 published: 2025-07-16

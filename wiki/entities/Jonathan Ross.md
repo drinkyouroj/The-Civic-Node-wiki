@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, immigration, police-violence, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 10
 ---
 
 ## Overview
@@ -36,7 +36,7 @@ Ross is the specific human instrument of a systemic failure. His June 2025 traum
 - [[Killing of Renée Good - Wikipedia]] — confirmed identity; comprehensive event timeline
 - [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — Marcos Charles's defense of Ross; Noem's defense
 - [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — the investigation blocked to protect him
-- [[ICE agent shooter's own cellphone video undercuts Trump administration account]] — expert analysis of what the video does and doesn't show
+- [[ICE agent cellphone video undercuts Trump administration account]] — expert analysis of what the video does and doesn't show
 
 ## Open Questions
 - Has Ross faced any state-level charges following the federal refusal to prosecute?

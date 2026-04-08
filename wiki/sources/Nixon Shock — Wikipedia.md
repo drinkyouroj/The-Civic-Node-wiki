@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Nixon shock - Wikipedia.md"
 author: "Wikipedia"
 published: 2006-01-03

@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, geopolitics, energy]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 7
 raw: "raw/Will blow up everything, take over Iran's oil Trump says can reach deal by Monday.md"
 author: "India Today World Desk"
 published: 2026-04-05

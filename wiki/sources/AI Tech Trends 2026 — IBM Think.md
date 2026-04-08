@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/The trends that will shape AI and tech in 2026 IBM.md"
 author: "Anabelle Nicoud"
 published: 2026-01-01

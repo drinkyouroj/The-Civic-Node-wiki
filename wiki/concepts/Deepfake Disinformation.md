@@ -4,7 +4,7 @@ type: concept
 tags: [technology, ai, politics, disinformation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 6
 ---
 
 ## Definition

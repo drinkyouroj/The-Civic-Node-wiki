@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, technology, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/WHAT THEY ARE SAYING Financial Services Highlights Support for CLARITY Act.md"
 author: "House Financial Services Committee"
 published: 2025-07-18

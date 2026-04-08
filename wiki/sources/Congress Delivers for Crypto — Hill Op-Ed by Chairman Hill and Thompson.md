@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/The Hill Ending the Era of Uncertainty Congress Delivers for Crypto.md"
 author: "French Hill; G.T. Thompson"
 published: 2025-07-14

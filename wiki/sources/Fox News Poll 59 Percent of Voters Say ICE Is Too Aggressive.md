@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, polling]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Fox News Poll 59% of voters say ICE is too aggressive, up 10 points since July.md"
 author: "Dana Blanton"
 published: 2026-01-28

@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Forty-Five Years After the Gold Standard A Failed Experiment - UFM Market Trends.md"
 author: "Daniel Fernández"
 published: 2016-08-15

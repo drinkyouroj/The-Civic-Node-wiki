@@ -5,7 +5,7 @@ entity_type: infrastructure
 tags: [technology, infrastructure, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 7
 ---
 
 ## Overview

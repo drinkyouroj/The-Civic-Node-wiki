@@ -4,7 +4,7 @@ type: source
 tags: [technology, politics, algorithmic-radicalization, media, journalism]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Frontiers Algorithmic influence and media legitimacy a systematic review of social media's impact on news production.md"
 author: "Hastuti; Maulana; Harry Fajar; Lawelai; Herman; Suherman; Ansar"
 published: 2025-10-14

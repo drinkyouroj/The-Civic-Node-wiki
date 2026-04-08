@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, politics, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Ending the era of uncertainty Congress delivers for crypto.md"
 author: "Chairman French Hill and Chairman G.T. Thompson"
 published: 2025-07-14

@@ -4,7 +4,7 @@ type: concept
 tags: [politics, technology, polarization, media]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 8
 ---
 
 ## Definition
@@ -32,8 +32,8 @@ The empirical evidence for echo chambers is more contested than the public disco
 - [[Institutional Gaslighting]] — partisan information environments make it easier to gaslight about institutional behavior
 
 ## Key Sources
-- [[A systematic review of echo chamber research comparative analysis of conceptualizations, operationalizations, and varyin]]
-- [[Fueling the Fire How Social Media Intensifies U.S. Political Polarization – And What Can Be Done About It]]
+- [[A systematic review of echo chamber research]]
+- [[Fueling the Fire How Social Media Intensifies US Political Polarization]]
 - [[Polarization framing analysis]]
 - [[How Right-wing Media Consumed the Death of Charlie Kirk]]
 - [[Media analysis of Charlie Kirk's assassination]]

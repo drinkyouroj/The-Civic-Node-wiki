@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Bureau of Economic Analysis. \"Gross Domestic Product, First Quarter 2025 (Advance Estimate).\".md"
 author: "Bureau of Economic Analysis"
 published: 2025-04-30

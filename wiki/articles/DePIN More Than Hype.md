@@ -25,7 +25,7 @@ Personal narrative framing (crypto burnout, searching for something real) → de
 - **Datagram Network**: Positioned as a "network of networks" — a foundational substrate letting other DePIN projects build and scale without starting from scratch.
 
 ## Connections
-- [[Datagram Network]] — featured as the primary example of a DePIN project worth building on
+- [[Datagram Network — Windows Setup]] — featured as the primary example of a DePIN project worth building on
 - [[DePIN]] — central concept the piece introduces and advocates for
 
 ## What It Leaves Open

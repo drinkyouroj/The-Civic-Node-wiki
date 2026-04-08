@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 17
+sources: 24
 ---
 
 ## Overview
@@ -39,12 +39,12 @@ Metro Surge is the clearest recent example of [[Sanctuary Infrastructure]] under
 
 ## Source Appearances
 - [[Operation Metro Surge - Wikipedia]] — comprehensive Wikipedia overview
-- [[Attorney General Ellison and cities of Minneapolis and Saint Paul sue to halt ICE surge into Minnesota]] — legal challenge
-- [[Minnesota's legal fight against ICE 'Operation Metro Surge']] — legal analysis
+- [[Attorney General Ellison and Minneapolis Saint Paul sue to halt ICE surge]] — legal challenge
+- [[Minnesota legal fight against ICE Operation Metro Surge]] — legal analysis
 - [[ICE operations in Minneapolis Minnesota]] — operational overview
 - [[Minnesota community split on ICE surge Polling]] — public opinion
 - [['They're trying to break us' Trump's focus on Minnesota boils over with ICE shooting]] — political context
-- [[New ICE tactic - churches]] — churches as enforcement and sanctuary sites
+- [[New ICE tactic churches]] — churches as enforcement and sanctuary sites
 - [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — class-action civil rights suit challenging racial profiling; Hussen case illustrates suspicionless arrest of U.S. citizen
 - [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — preliminary injunction restricting pepper spray, protester arrests, and vehicle stops during the operation
 - [[A Majority of Voters Are Unfavorable of ICE, Are Divided on What Abolish ICE Means]] — polling data showing ICE favorability flipped during operation

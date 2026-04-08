@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/The Great Inflation.md"
 author: ""
 published: 2025-04-07

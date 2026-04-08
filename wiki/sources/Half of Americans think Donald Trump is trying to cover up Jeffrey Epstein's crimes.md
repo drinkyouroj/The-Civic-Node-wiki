@@ -4,7 +4,7 @@ type: source
 tags: [politics, epstein, polling]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes.md"
 author: "David Montgomery"
 published: 2026-01-06

@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, statistics, macdonald, darnold, jsn]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/24 numbers that sum up the Seattle Seahawks' 2024 season.md"
 author: "Cameron Van Til"
 published: 2025-01-26

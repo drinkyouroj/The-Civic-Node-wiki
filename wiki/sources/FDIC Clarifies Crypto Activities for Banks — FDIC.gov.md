@@ -4,7 +4,7 @@ type: source
 tags: [crypto, regulation, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/FDIC Clarifies Process for Banks to Engage in Crypto-Related Activities FDIC.gov.md"
 author: "FDIC"
 published: 2025-03-28

@@ -4,7 +4,7 @@ type: source
 tags: [crypto, politics, monetary-policy, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/White House SAP (PDF).md"
 author: "Office of Management and Budget"
 published: 2025-07-15

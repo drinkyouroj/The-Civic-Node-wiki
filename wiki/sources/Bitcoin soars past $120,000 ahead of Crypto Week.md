@@ -4,7 +4,7 @@ type: source
 tags: [politics, crypto, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Bitcoin soars past $120,000 ahead of US Congress' 'Crypto week'. What to expect from Genius Act as House plans vote.md"
 author: "Economic Times / India"
 published: 2025-07-14

@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, minnesota, legal, immigration]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 10
 ---
 
 ## Overview
@@ -13,7 +13,7 @@ Keith Ellison is the Minnesota Attorney General who led the state's legal challe
 
 ## Key Facts
 - Minnesota Attorney General; former U.S. Representative (first Muslim elected to Congress)
-- Filed suit against DHS along with Minneapolis and St. Paul to halt ICE deployments during Operation Metro Surge [[Attorney General Ellison and cities of Minneapolis and Saint Paul sue to halt ICE surge into Minnesota]]
+- Filed suit against DHS along with Minneapolis and St. Paul to halt ICE deployments during Operation Metro Surge [[Attorney General Ellison and Minneapolis Saint Paul sue to halt ICE surge]]
 - Called for state-level investigation of Good's killing after FBI revoked Minnesota BCA's access to evidence [[Killing of Renée Good - Wikipedia]]
 - Asked residents to submit videos, photos, and eyewitness accounts of the shooting to enable state prosecution [[Killing of Renée Good - Wikipedia]]
 - DOJ subsequently probed Ellison, Governor Walz, and Mayor Frey for alleged conspiracy to impede federal officers [[Killing of Renée Good - Wikipedia]]
@@ -29,9 +29,9 @@ Ellison represents the institutional counter-strategy to federal overreach: usin
 - [[Kristi Noem]] — DHS Secretary; primary federal counterpart
 
 ## Source Appearances
-- [[Attorney General Ellison and cities of Minneapolis and Saint Paul sue to halt ICE surge into Minnesota]] — filing the ICE suit
+- [[Attorney General Ellison and Minneapolis Saint Paul sue to halt ICE surge]] — filing the ICE suit
 - [[Killing of Renée Good - Wikipedia]] — role in the investigation and legal battles
-- [[Minnesota's legal fight against ICE 'Operation Metro Surge']] — broader legal strategy
+- [[Minnesota legal fight against ICE Operation Metro Surge]] — broader legal strategy
 - [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — quoted extensively on the investigation breakdown: "Maybe they don't care"
 - [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — the legal ecosystem in which the preliminary injunction sits
 - [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — parallel legal strategy to his AG suit

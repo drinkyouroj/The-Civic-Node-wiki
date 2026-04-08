@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/La adopción de Bitcoin en El Salvador parece estar fracasando.md"
 author: "Stephanie López / Bitfinanzas"
 published: 2022-07-08

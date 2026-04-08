@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, geopolitics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 8
 ---
 
 ## Definition
@@ -26,8 +26,8 @@ The Nixon Shock refers to the series of economic measures announced by President
 - Nixon suspended dollar-gold convertibility, imposed a 90-day wage and price freeze, and levied a 10% import surcharge simultaneously
 - Paul Volcker (then Treasury Undersecretary) was present at the Camp David secret meeting; later expressed regret over the abandonment of the Bretton Woods system [[Nixon shock - Wikipedia]]
 - By 1973, floating exchange rates had fully replaced the fixed-rate Bretton Woods system
-- Average US federal deficit to GDP: 0.6% from 1951–1971; jumped to 3.0% from 1972–2015 — suggesting gold convertibility had functionally constrained deficit spending [[Forty-Five Years After the Gold Standard A Failed Experiment - UFM Market Trends]]
-- Average inflation: 2.2% from 1951–1971; nearly doubled to 4.1% from 1971–2015 [[Forty-Five Years After the Gold Standard A Failed Experiment - UFM Market Trends]]
+- Average US federal deficit to GDP: 0.6% from 1951–1971; jumped to 3.0% from 1972–2015 — suggesting gold convertibility had functionally constrained deficit spending [[Forty-Five Years After the Gold Standard]]
+- Average inflation: 2.2% from 1951–1971; nearly doubled to 4.1% from 1971–2015 [[Forty-Five Years After the Gold Standard]]
 
 ## Consequences
 
@@ -54,5 +54,5 @@ The Nixon Shock refers to the series of economic measures announced by President
 
 - [[Nixon shock - Wikipedia]]
 - [[The Great Inflation]]
-- [[Forty-Five Years After the Gold Standard A Failed Experiment - UFM Market Trends]]
+- [[Forty-Five Years After the Gold Standard]]
 - [[Memories of the 1970s haunt the Fed, pushing its aggressive rate moves]]

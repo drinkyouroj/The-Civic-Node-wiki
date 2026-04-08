@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, polling]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Poll 63% disapprove of the job ICE is doing; Trump approval at 34% - UPI.com.md"
 author: "Lisa Hornung"
 published: 2026-01-23

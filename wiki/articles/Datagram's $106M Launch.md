@@ -29,7 +29,7 @@ The launch event and what makes it unusual (institutional volume, enterprise cli
 - **Author's node operation**: Ran testnet node since May 2025. "My desktop spends 16 hours a day doing absolutely nothing while I sleep."
 
 ## Connections
-- [[Datagram Network]] — the subject of the piece
+- [[Datagram Network — Windows Setup]] — the subject of the piece
 - [[AWS]] — primary competitive foil
 - [[DePIN]] — the sector context
 - [[Avalanche]] — blockchain infrastructure Datagram builds on

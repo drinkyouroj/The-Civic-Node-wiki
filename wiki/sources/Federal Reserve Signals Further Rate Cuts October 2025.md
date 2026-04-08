@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Federal Reserve Signals Further Rate Cuts Amidst Worsening Labor Market and Divided Opinions.md"
 author: "MarketMinute"
 published: 2025-10-14

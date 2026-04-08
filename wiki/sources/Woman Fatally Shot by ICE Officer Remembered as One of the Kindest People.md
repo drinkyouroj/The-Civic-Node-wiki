@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, minnesota, police-violence]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Woman fatally shot by ICE officer remembered as 'one of the kindest people'.md"
 author: "Tim Stelloh; Minyvonne Burke; Selina Guevara"
 published: 2026-01-08

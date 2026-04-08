@@ -4,7 +4,7 @@ type: source
 tags: [technology, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Fueling the Fire How Social Media Intensifies U.S. Political Polarization – And What Can Be Done About It.md"
 author: "Paul M. Barrett, Justin Hendrix, J. Grant Sims (NYU Stern Center for Business and Human Rights)"
 published: 2021-09-01

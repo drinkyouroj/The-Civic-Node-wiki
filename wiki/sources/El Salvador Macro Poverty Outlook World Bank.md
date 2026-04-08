@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, geopolitics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/El Salvador - Macro Poverty Outlook - World Bank.md"
 author: "World Bank"
 published: 2025-10-01

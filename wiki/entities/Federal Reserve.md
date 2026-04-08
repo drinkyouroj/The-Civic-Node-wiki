@@ -5,7 +5,7 @@ entity_type: organization
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 23
+sources: 26
 ---
 
 ## Overview
@@ -19,9 +19,9 @@ The Federal Reserve (the Fed) is the central bank of the United States, created 
 - Held rates at 4.25%–4.5% through five consecutive meetings in 2025 before cutting to 4.0%–4.25% in September 2025 [[Fed meeting recap Fed Chair Powell calls quarter-point trim a 'risk management cut']]
 - By October 2025, cut again to 3.75%–4.0%; FOMC projections pointed toward 3.4% by end of 2026 [[Board of Governors of the Federal Reserve System (October 2025)]]
 - July 2025 FOMC: Governors Waller and Bowman dissented in favor of a cut — first dual governor dissent since 1993 [[Fed keeps rates steady, despite historic contrary votes and Trump pressure]]
-- Trump appointee Stephen Miran confirmed to the board September 2025; dissented for a larger (50 bps) cut at his first meeting [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]]
-- Trump fired Governor Lisa Cook; federal appeals court ruled he cannot do so [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]]
-- $2.5 billion headquarters renovation became a flashpoint when Trump claimed $3.1 billion and used it to pressure Powell [[Trump and Powell bicker over Fed building renovations as president ratchets up pressure campaign]]
+- Trump appointee Stephen Miran confirmed to the board September 2025; dissented for a larger (50 bps) cut at his first meeting [[New Trump appointee Miran calls for half-point cut]]
+- Trump fired Governor Lisa Cook; federal appeals court ruled he cannot do so [[New Trump appointee Miran calls for half-point cut]]
+- $2.5 billion headquarters renovation became a flashpoint when Trump claimed $3.1 billion and used it to pressure Powell [[Trump and Powell bicker over Fed building renovations]]
 - FOMC has 19 members; 12 vote at each meeting; seven Washington-based governors serve 14-year terms
 - Balance sheet as of March 2026: $6.68 trillion; QT halted in Q4 2025; Fed buying short-term T-bills to manage reserve levels and prevent repo rate spikes [[United States Central Bank Balance Sheet Trading Economics]]
 - June 2025: unanimous 12-0 hold; statement noted "swings in net exports" — code for tariff front-running distorting GDP [[Federal Reserve issues FOMC statement June 18 2025]]
@@ -65,9 +65,9 @@ The GENIUS Act and Crypto Week legislation significantly shaped the Fed's regula
 - [[Board of Governors of the Federal Reserve System (October 2025)]] — FOMC cut to 3.75%–4%
 - [[Fed keeps rates steady, despite historic contrary votes and Trump pressure]] — July 2025 dual dissent
 - [[Federal Reserve holds its benchmark rate steady at today's FOMC meeting]] — CBS News coverage of July hold
-- [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]] — September FOMC; Miran's dissent
+- [[New Trump appointee Miran calls for half-point cut]] — September FOMC; Miran's dissent
 - [[The Great Inflation]] — historical essay on Fed's failures in 1965–1982
-- [[Trump and Powell bicker over Fed building renovations as president ratchets up pressure campaign]] — building renovation pressure campaign
+- [[Trump and Powell bicker over Fed building renovations]] — building renovation pressure campaign
 - [[Federal Reserve issues FOMC statement June 18 2025]] — June 18, 2025 unanimous hold at 4.25%–4.5%
 - [[Fed approves quarter-point rate cut September 2025 CNBC]] — September 2025 first cut; 11-1 vote; Miran dissent
 - [[Fed 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent]] — market analysis; dot plot projections; global central bank context

@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, politics, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 8
 raw: "raw/The Crypto Question Bitcoin, Digital Dollars, and the Future of Money Council on Foreign Relations.md"
 author: "Anshu Siripurapu; Noah Berman"
 published: 2021-09-23

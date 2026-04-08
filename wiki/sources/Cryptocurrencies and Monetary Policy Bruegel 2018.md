@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Cryptocurrencies and monetary policy - Bruegel.md"
 author: "Grégory Claeys; Maria Demertzis; Konstantinos Efstathiou / Bruegel"
 published: 2018-06-01

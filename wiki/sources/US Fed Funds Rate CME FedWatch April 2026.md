@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/US Fed Funds Interest Rate Latest Updates and Trends.md"
 author: ""
 published: 2026-04-07

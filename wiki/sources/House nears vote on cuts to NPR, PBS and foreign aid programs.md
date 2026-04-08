@@ -4,7 +4,7 @@ type: source
 tags: [politics, fiscal-policy, public-media, foreign-aid]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/House nears vote on cuts to NPR, PBS and foreign aid programs.md"
 author: "Scott Neuman"
 published: 2025-07-17

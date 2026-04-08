@@ -4,7 +4,7 @@ type: source
 tags: [nfl, politics, culture, bad-bunny, super-bowl, immigration]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Super Bowl 2026 Roger Goodell backs Bad Bunny for halftime show after 'ICE out' speech at the Grammys.md"
 author: "Ryan Young"
 published: 2026-02-08

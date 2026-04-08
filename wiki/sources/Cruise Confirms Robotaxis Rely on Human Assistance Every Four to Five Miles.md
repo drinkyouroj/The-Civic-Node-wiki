@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, labor, infrastructure]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Cruise confirms robotaxis rely on human assistance every four to five miles.md"
 author: "Lora Kolodny"
 published: 2023-11-06

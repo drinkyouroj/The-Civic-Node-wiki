@@ -32,7 +32,7 @@ Former US Representative from Georgia (R). Previously one of Trump's most vocal 
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — quoted criticizing Trump's Iran rhetoric
 - [[Marjorie Taylor Greene breaks with Republicans over health care in shutdown fight]] — unexpected break on ACA subsidies during the 2025 shutdown
-- [[Marjorie Taylor Greene highlights Trump's cavalier attitude toward political threats CNN Politics]] — criticizes Trump's response to political violence
+- [[Marjorie Taylor Greene highlights Trump cavalier attitude toward political threats]] — criticizes Trump's response to political violence
 
 ## Open Questions
 

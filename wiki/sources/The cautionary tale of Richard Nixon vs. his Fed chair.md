@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/The cautionary tale of Richard Nixon vs. his Fed chair.md"
 author: "Kenny Malone; Mary Childs; Planet Money"
 published: 2025-02-10

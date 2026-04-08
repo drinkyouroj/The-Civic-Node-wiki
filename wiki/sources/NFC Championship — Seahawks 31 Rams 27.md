@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, playoffs, darnold, nfc-championship]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/NFC championship Seahawks ride late fourth-down stop, career game from Sam Darnold past Rams into Super Bowl.md"
 author: "Jason Owens; Ian Casselberry; Ben Fawkes"
 published: 2026-01-26

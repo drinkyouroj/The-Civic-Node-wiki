@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, economics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/How Much Money Do OpenAI And Anthropic Actually Make.md"
 author: "Edward Zitron"
 published: 2025-08-01

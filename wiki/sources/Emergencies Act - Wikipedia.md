@@ -21,7 +21,7 @@ Wikipedia reference article on Canada's Emergencies Act — the federal statute 
 - Public Order Emergency Commission (Rouleau Commission) investigated the invocation; found it was justified but raised concerns about process
 
 ## Newsletter Angles
-- The financial account freezing without court order is the most constitutionally significant power — it is a template for what emergency financial censorship looks like in a democratic state. Relevant to [[Monetary Policy]] and [[Power]] themes
+- The financial account freezing without court order is the most constitutionally significant power — it is a template for what emergency financial censorship looks like in a democratic state. Relevant to [[Cryptocurrencies and Monetary Policy Bruegel 2018]] and [[Power]] themes
 
 ## Entities Mentioned
 - [[Canada]] — country using the act; United Kingdom entity page exists; Canada does not yet have one

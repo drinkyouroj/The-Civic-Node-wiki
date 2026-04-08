@@ -4,7 +4,7 @@ type: concept
 tags: [politics, power, fiscal-policy, regulatory-weaponization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 10
 ---
 
 ## Definition
@@ -15,7 +15,7 @@ The budget-as-weapon dynamic represents a fundamental shift from spending author
 
 ## Evidence & Examples
 - Day 1 of Oct. 2025 shutdown: OMB Director Vought simultaneously announced $18B NYC infrastructure freeze (targeting Schumer's and Jeffries' home) and $8B energy grant cancellations in 16 blue states [[White House freezes $18 billion in New York City infrastructure funding]] [[Trump Admin Says It's Canceling Energy Projects in 16 Blue States]]
-- Energy cuts: identical projects in red states left untouched; Montana kept $700M transmission grant while Minnesota's $460M equivalent was cut; Georgia Power kept $160M grid resilience grant while Hawaii's equivalent was cut [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs.]]
+- Energy cuts: identical projects in red states left untouched; Montana kept $700M transmission grant while Minnesota's $460M equivalent was cut; Georgia Power kept $160M grid resilience grant while Hawaii's equivalent was cut [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs]]
 - Legal assessment: Georgetown Law Prof. Super: "This is unlawful"; cites Train v. City of New York (1975) unanimous Supreme Court ruling that president must distribute Congress-appropriated funds [[Is that legal Trump's $8B cuts in the crosshairs]]
 - Federal agencies directed to post partisan blame-Democrats messaging on official websites during shutdown; OMB sent template language to all agencies; SBA suggested employees use partisan auto-reply templates [[Trump administration uses taxpayer dollars to blame Democrats for government shutdown]]
 - Mass layoff threat: Vought told House Republicans firings would begin "one to two days" after shutdown start — using shutdown as restructuring opportunity, not temporary furlough [[White House says layoffs for federal workers are imminent]]
@@ -37,7 +37,7 @@ The budget-as-weapon dynamic represents a fundamental shift from spending author
 ## Key Sources
 - [[White House freezes $18 billion in New York City infrastructure funding]]
 - [[Trump Admin Says It's Canceling Energy Projects in 16 Blue States]]
-- [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs.]]
+- [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs]]
 - [[Is that legal Trump's $8B cuts in the crosshairs]]
 - [[Trump administration uses taxpayer dollars to blame Democrats for government shutdown]]
 - [[White House says layoffs for federal workers are imminent]]

@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Mental Health Crisis in U.S. Politics 2025 Presidential Inauguration.md"
 author: "Torreya Simon / NeuroStim TMS"
 published: 2025-01-15

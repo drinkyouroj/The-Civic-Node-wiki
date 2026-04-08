@@ -4,7 +4,7 @@ type: source
 tags: [technology, politics, research]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/A systematic review of echo chamber research comparative analysis of conceptualizations, operationalizations, and varyin.md"
 author: "Hartmann, David; Wang, Sonja Mei; Pohlmann, Lena; Berendt, Bettina (Journal of Computational Social Science)"
 published: 2025-04-07

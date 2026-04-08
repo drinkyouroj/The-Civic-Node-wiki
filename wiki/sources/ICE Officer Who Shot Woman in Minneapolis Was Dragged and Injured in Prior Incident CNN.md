@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, police-violence, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/ICE officer who shot woman in Minneapolis was dragged and injured in traffic stop last year CNN.md"
 author: "Holmes Lybrand; Allison Gordon; Jeff Winter; Casey Tolan; Isabelle Chapman"
 published: 2026-01-08

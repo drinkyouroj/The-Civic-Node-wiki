@@ -4,7 +4,7 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Banking Committee Democratic Staff Analysis on Latest GENIUS Act Draft.md"
 author: "Senate Banking Committee Democratic Staff"
 published: 2025-05-01

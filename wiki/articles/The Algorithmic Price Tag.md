@@ -34,7 +34,7 @@ Explainer organized as:
 
 ## Connections
 
-- [[Delta Air Lines]] — case study subject
+- [[Delta Air Lines AI Pricing with Fetcherr — Early Results]] — case study subject
 - [[Fetcherr]] — AI pricing firm partnered with Delta
 - [[Federal Trade Commission]] — regulatory body attempting to address surveillance pricing
 - [[Digital Markets Act]] — EU regulatory framework for algorithmic collusion

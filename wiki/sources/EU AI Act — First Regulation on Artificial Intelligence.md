@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, legal, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/EU AI Act first regulation on artificial intelligence Topics European Parliament.md"
 author: "European Parliament"
 published: 2025-02-19

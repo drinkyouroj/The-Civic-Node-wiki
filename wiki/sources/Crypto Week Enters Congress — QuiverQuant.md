@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, legislation, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Crypto Regulation Enters \"Crypto Week\" in U.S. Congress (GBTC) COIN Stock News.md"
 author: "David Love"
 published: 2025-07-14

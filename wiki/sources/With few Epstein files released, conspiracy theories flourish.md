@@ -4,7 +4,7 @@ type: source
 tags: [politics, epstein, disinformation, institutional-gaslighting]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/With few Epstein files released, conspiracy theories flourish and questions remain.md"
 author: "Stephen Fowler"
 published: 2026-01-02

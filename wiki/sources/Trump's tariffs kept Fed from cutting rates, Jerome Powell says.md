@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Trump's tariffs kept Fed from cutting rates, Jerome Powell says.md"
 author: "Steve Kopack"
 published: 2025-07-01

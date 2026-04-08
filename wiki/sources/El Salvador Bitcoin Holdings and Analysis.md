@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, geopolitics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/El Salvador - Bitcoin Holdings & Analysis.md"
 author: "Bitcoin Treasuries"
 published: 2021-09-06

@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, legislation, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Federal Stablecoin Legislation Poised to Implement Comprehensive Regulatory Framework for Payment Stablecoins Insights &.md"
 author: "William E Stern; Mitzi Chang; Karen Ubell; John Servidio; Ximeng Tang"
 published: 2025-06-24

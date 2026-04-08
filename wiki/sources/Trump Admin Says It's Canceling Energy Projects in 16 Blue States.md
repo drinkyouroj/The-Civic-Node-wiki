@@ -4,7 +4,7 @@ type: source
 tags: [politics, government-shutdown, energy, regulatory-weaponization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Trump Admin Says It's Canceling Energy Projects in 16 Blue States.md"
 author: "Amelia Benavides-Colón"
 published: 2025-10-01

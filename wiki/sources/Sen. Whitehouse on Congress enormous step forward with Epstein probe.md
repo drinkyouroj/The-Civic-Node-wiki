@@ -4,7 +4,7 @@ type: source
 tags: [politics, epstein, congress]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Sen. Whitehouse on Congress' \"enormous step forward\" with Epstein probe.md"
 author: "Allison Detzel"
 published: 2026-01-08

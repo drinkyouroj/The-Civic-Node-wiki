@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Understanding Bitcoin's 21 Million Cap.md"
 author: "Abhinav Soomaney / Kelly+Partners Accountants"
 published: 2024-07-29

@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, politics, crypto, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 15
+sources: 19
 ---
 
 ## Definition

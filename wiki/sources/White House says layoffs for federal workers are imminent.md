@@ -4,7 +4,7 @@ type: source
 tags: [politics, government-shutdown, federal-workers, regulatory-weaponization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/White House says layoffs for federal workers are 'imminent'.md"
 author: "NBC News live blog"
 published: 2025-10-01

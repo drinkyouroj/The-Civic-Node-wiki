@@ -4,7 +4,7 @@ type: concept
 tags: [politics, monetary-policy, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 14
+sources: 22
 ---
 
 ## Definition
@@ -107,7 +107,7 @@ Georgetown's Adam Levitin argues GENIUS Act insolvency priority reform sets up a
 - [[GENIUS Act Passes in US Congress — Morgan Lewis Breakdown]]
 - [[Banking Committee Democratic Staff Analysis on Latest GENIUS Act Draft]]
 - [[Bitcoin soars past $120,000 ahead of Crypto Week]]
-- [[Global Regulation of Stablecoins in 2025 — Transfi]]
+- [[Global Regulation of Stablecoins 2025 — Transfi]]
 - [[GENIUS Act Comprehensive Framework — Goodwin Law]]
 - [[GENIUS Act Framework — Sidley Austin]]
 - [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]]

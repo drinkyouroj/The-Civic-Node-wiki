@@ -4,7 +4,7 @@ type: source
 tags: [politics, political-violence, polarization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Charlie Kirk assassinated at university event in Utah.md"
 author: "Bridget Brown; Bill Cormier; Curtis Yee; Sam Burdette; Nell Clark"
 published: 2025-09-11

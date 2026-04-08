@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, macdonald, darnold, salary-cap, scheme]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Seahawks are biggest threat to overthrow the NFC.md"
 author: "Seaside Joe"
 published: 2025-09-29

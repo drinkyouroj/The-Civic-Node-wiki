@@ -4,7 +4,7 @@ type: concept
 tags: [politics, technology, crypto, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 9
+sources: 13
 ---
 
 ## Definition

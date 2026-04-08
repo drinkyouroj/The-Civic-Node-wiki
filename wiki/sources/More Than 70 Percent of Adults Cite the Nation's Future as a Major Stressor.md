@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, politics, culture]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/More than 70% of adults cite the nation's future as a major stressor.md"
 author: "Genevieve Glass"
 published: 2025-03-19

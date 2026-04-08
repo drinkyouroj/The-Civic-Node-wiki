@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, trump-allies, january-6, federal-immunity]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 5
 ---
 
 ## Overview

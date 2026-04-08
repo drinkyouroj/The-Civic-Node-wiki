@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, crypto, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Are Cryptocurrencies Currencies Bitcoin as Legal Tender in El Salvador - University of Chicago Booth School.md"
 author: "Fernando E. Alvarez, David Argente, Diana Van Patten"
 published: 2022-04-01

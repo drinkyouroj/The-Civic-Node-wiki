@@ -4,7 +4,7 @@ type: source
 tags: [technology, legal, antitrust, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Apple Loses UK Antitrust Lawsuit Over App Store Fees, Faces £1.5 Billion in Damages.md"
 author: "Juli Clover, MacRumors"
 published: 2025-10-23

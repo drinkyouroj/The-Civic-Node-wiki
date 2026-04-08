@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 13
 ---
 
 > ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** No raw post-game Super Bowl LX recap exists in this cluster; the latest sourced events are the Jan 26, 2026 NFC Championship and the Feb 6, 2026 pre-game Schneider profile. Statements that Schneider "won" Super Bowl LX trace to the pre-game profile and the bracket entry, not to a game recap.
@@ -34,7 +34,7 @@ General Manager of the Seattle Seahawks since 2010. Considered one of the most a
 - [[Mike Macdonald]] — head coach; partnership built on shared vision, direct communication, aligned personnel philosophy
 - [[Sam Darnold]] — the QB acquisition that defined the 2025-26 rebuild
 - [[NFL Dynasty]] — Seahawks now entering a potential dynasty window under Schneider's architecture
-- [[Disguise and Destroy — The Macdonald Method That Broke NFL Offenses]] — essay on the defensive architecture Schneider built around
+- [[Disguise and Destroy The Macdonald Method That Broke NFL Offenses]] — essay on the defensive architecture Schneider built around
 
 ## Source Appearances
 

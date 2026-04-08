@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Fed Interest Rate Predictions for the Next 3 Years 2026-2028.md"
 author: "Marco Santarelli"
 published: 2026-01-22

@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, legal, civil-rights]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/ACLU Sues Federal Government to End ICE, CBP's Practice of Suspicionless Stops, Warrantless Arrests, and Racial Profilin.md"
 author: "ACLU"
 published: 2026-01-15

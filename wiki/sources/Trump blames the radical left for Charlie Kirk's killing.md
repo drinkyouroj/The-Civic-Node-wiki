@@ -4,7 +4,7 @@ type: source
 tags: [politics, political-violence, charlie-kirk]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Trump blames the 'radical left' for Charlie Kirk's killing.md"
 author: "Jonathan Allen; Amanda Terkel"
 published: 2025-09-10

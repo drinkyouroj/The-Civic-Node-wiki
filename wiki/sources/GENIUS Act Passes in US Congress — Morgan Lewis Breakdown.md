@@ -4,7 +4,7 @@ type: source
 tags: [politics, monetary-policy, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/GENIUS Act Passes in US Congress A Breakdown of the Landmark Stablecoin Law.md"
 author: "Morgan Lewis"
 published: 2025-07-17

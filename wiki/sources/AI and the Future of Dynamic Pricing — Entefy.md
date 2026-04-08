@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/AI and the future of dynamic pricing - Entefy AI & Automation.md"
 author: "Entefy"
 published: 2025-06-16

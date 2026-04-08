@@ -5,7 +5,7 @@ entity_type: organization
 tags: [power, depin, politics, ai, technology]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 8
+sources: 15
 ---
 
 ## Overview

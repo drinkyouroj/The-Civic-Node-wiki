@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, politics, monetary-policy, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Majority Whip Tom Emmer's Flagship Legislation, the Anti-CBDC Surveillance State Act, Passes House of Representatives.md"
 author: "Rep. Tom Emmer"
 published: 2025-07-17

@@ -4,7 +4,7 @@ type: source
 tags: [politics, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/The Weaponization of CISA — House Committee on the Judiciary.md"
 author: "House Committee on the Judiciary / Select Subcommittee on the Weaponization of the Federal Government"
 published: 2023-06-26

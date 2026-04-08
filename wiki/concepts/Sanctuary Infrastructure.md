@@ -4,7 +4,7 @@ type: concept
 tags: [politics, power, immigration, infrastructure, religion]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 12
+sources: 15
 ---
 
 ## Definition
@@ -16,8 +16,8 @@ During [[Operation Metro Surge]], sanctuary infrastructure became a frontline de
 ## Evidence & Examples
 - Minnesota synagogue sheltered undocumented immigrants during Operation Metro Surge [[Minnesota synagogue hosts undocumented immigrants to protect them from ICE]]
 - Mosque in Minneapolis sheltered migrants; imam gave public Q&A on the practice [[Q&A with Imam at mosque sheltering migrants from ICE]]
-- DOJ investigated protesters who disrupted a Southern Baptist church where the Minnesota ICE regional director was a pastor [[DOJ probing protesters group that disrupted services at church with ICE pastor]]
-- New ICE tactic of targeting or surveilling church communities emerged during Metro Surge [[New ICE tactic - churches]]
+- DOJ investigated protesters who disrupted a Southern Baptist church where the Minnesota ICE regional director was a pastor [[DOJ probing protesters group that disrupted church with ICE pastor]]
+- New ICE tactic of targeting or surveilling church communities emerged during Metro Surge [[New ICE tactic churches]]
 - Don Lemon and other journalists arrested while covering protests at a Minnesota church [[Don Lemon arrested after covering protest at Minnesota church]]
 - Sanctuary infrastructure historically preceded formal sanctuary city policies — it creates facts on the ground that politicians then either formalize or oppose
 
@@ -35,8 +35,8 @@ During [[Operation Metro Surge]], sanctuary infrastructure became a frontline de
 ## Key Sources
 - [[Minnesota synagogue hosts undocumented immigrants to protect them from ICE]]
 - [[Q&A with Imam at mosque sheltering migrants from ICE]]
-- [[New ICE tactic - churches]]
-- [[DOJ probing protesters group that disrupted services at church with ICE pastor]]
+- [[New ICE tactic churches]]
+- [[DOJ probing protesters group that disrupted church with ICE pastor]]
 - [[Don Lemon arrested after covering protest at Minnesota church]]
 - [[Protest outside ICE detention center]]
 - [[Protesters Disrupt Southern Baptist Church of Pastor Who Leads ICE Office Minnesota]] — inside account of the Cities Church protest; theological framing of sanctuary as moral imperative

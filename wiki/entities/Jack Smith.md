@@ -45,4 +45,4 @@ Jack Smith, former special counsel investigating Trump's election interference a
 - [[House Judiciary Committee Jack Smith Deposition Transcript]] — full Dec. 17, 2025 transcript
 - [[Jack Smith tells Congress he could prove Trump engaged in criminal scheme]] — "criminal scheme" framing
 - [[Jack Smith says 'no historical analog' for Trump's actions around 2020 election, denies political influence]] — historical framing
-- [[Jack Smith told lawmakers Trump was 'the most culpable' in election interference case, deposition transcript shows]] — additional coverage
+- [[Jack Smith told lawmakers Trump was most culpable in election interference case]] — additional coverage

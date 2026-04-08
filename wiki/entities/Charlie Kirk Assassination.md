@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, political-violence, polarization, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 16
+sources: 20
 ---
 
 ## Overview
@@ -45,7 +45,7 @@ The assassination is a case study in how political violence is asymmetrically pr
 - [[Charlie Kirk assassinated at university event in Utah]] — primary AP live blog of the event
 - [[Conservative activist Charlie Kirk assassinated at Utah university]] — AP retrospective
 - [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]] — media analysis of political fallout
-- [[After Charlie Kirk's killing, MAGA world mourns, but some say 'we're at war']] — right-wing response
+- [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]] — right-wing response
 - [[How Right-wing Media Consumed the Death of Charlie Kirk]] — media consumption analysis
 - [[Republicans struggle to address 'America First' faction following Kirk's assassination]] — GOP political fallout
 - [[Senate Republicans delay spending package after Kirk's killing – Politico]] — legislative impact

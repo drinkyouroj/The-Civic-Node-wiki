@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, labor, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/New Report Details Exploitative Working Conditions of U.S. Data Workers Behind The Big Tech AI Boom.md"
 author: "Alphabet Workers Union-CWA Local 9009"
 published: 2025-09-30

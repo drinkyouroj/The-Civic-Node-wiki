@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 20
+sources: 17
 ---
 
 ## Definition
@@ -95,8 +95,8 @@ The Federal Reserve Act gives Fed governors "for cause" removal protection, but 
 ## Key Sources
 
 - [[Trump and Powell bicker — AP]]
-- [[Trump calls Powell "too stupid" — Times of India]]
-- [[Paul Volcker's legacy — PBS]]
+- [[Trump calls Powell too stupid — Times of India]]
+- [[Paul Volcker's Legacy — PBS]]
 - [[The cautionary tale of Richard Nixon vs. his Fed chair]]
 - [[Rethinking Arthur Burns the Worst Fed Chair in History]]
 - [[Fed approves quarter-point rate cut September 2025 CNBC]]

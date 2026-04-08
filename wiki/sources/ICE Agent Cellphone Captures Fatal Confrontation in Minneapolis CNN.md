@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, police-violence, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/ICE agent's cellphone captures fatal confrontation in Minneapolis CNN.md"
 author: "Holmes Lybrand; Justin Lear; Sarah Dewberry"
 published: 2026-01-09

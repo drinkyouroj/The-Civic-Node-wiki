@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, health, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Adderall shortage continues to impact millions of Americans living with ADHD.md"
 author: "Ali Hickerson"
 published: 2025-02-07

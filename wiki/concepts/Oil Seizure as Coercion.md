@@ -4,7 +4,7 @@ type: concept
 tags: [power, energy, monetary-policy, geopolitics]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 4
 ---
 
 ## Definition

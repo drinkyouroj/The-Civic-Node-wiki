@@ -4,7 +4,7 @@ type: source
 tags: [politics, political-violence, charlie-kirk, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Live updates Vance hosts 'Charlie Kirk Show,' shooting investigation, latest Trump news CNN Politics [cnn.com].md"
 author: "CNN Politics live blog"
 published: 2025-09-15

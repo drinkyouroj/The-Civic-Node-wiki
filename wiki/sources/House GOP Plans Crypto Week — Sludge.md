@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/House GOP Plans 'Crypto Week' to Pass Deregulatory Bills on Digital Assets.md"
 author: "David Moore"
 published: 2025-07-11

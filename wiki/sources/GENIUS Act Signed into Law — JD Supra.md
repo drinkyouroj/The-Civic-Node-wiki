@@ -4,7 +4,7 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/GENIUS Act Signed into Law US Enacts Federal Stablecoin Legislation JD Supra.md"
 author: "JD Supra"
 published: 2025-07-20

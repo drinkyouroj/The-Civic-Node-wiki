@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 ---
 
 ## Overview

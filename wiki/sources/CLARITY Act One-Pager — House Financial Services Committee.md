@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/The Digital Asset Market Clarity (CLARITY) Act.md"
 author: "House Financial Services Committee"
 published: 2025-07-10

@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, 49ers, game-recap, nfc-west, macdonald, darnold]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 9
 raw: "raw/Rapid Reactions Seahawks Clinch NFC West and No. 1 Seed With 13-3 Win Over 49ers.md"
 author: "Multiple (Seahawks.com, CBS, NBC Bay Area, Field Gulls, SI, MyNorthwest)"
 published: 2026-01-04

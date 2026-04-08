@@ -5,7 +5,7 @@ entity_type: asset
 tags: [monetary-policy, crypto, stablecoin, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 8
 ---
 
 ## Overview

@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, geopolitics, monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Thomas C. Schelling,.md"
 author: "Thomas C. Schelling"
 published: 1960-01-01

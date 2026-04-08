@@ -4,7 +4,7 @@ type: source
 tags: [politics, energy, legal, regulatory-weaponization, impoundment]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Is that legal Trump's $8B cuts in the crosshairs.md"
 author: "Hannah Northey; Pamela King; Christa Marshall"
 published: 2025-10-03

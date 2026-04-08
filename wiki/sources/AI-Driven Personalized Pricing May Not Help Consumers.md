@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/AI-Driven Personalized Pricing May Not Help Consumers.md"
 author: "Carnegie Mellon University Tepper School"
 published: 2025-09-08

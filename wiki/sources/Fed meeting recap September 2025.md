@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Fed meeting recap Fed Chair Powell calls quarter-point trim a 'risk management cut'.md"
 author: "Christina Cheddar Berk"
 published: 2025-09-17

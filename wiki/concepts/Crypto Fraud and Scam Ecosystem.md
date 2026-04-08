@@ -4,7 +4,7 @@ type: concept
 tags: [crypto, technology, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 11
 ---
 
 ## Definition

@@ -4,7 +4,7 @@ type: source
 tags: [music]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Dead & Company by the Numbers Tallying up the amazing totals from final tour.md"
 author: "Jim Harrington"
 published: 2023-07-18
@@ -24,7 +24,7 @@ Mercury News data roundup of Dead & Company's final tour (2023) and career total
 - 4 million career fans across 235 shows is remarkable for a band with no new material, operating purely on the power of live improvisation and the Dead back-catalog.
 
 ## Entities Mentioned
-- [[Dead & Company]] — subject; the band's career data
+- [[Dead and Company]] — subject; the band's career data
 - [[Bob Weir]] — co-headliner and Grateful Dead representative in the band
 - [[John Mayer]] — co-headliner
 - [[Grateful Dead]] — source of the entire musical catalog being performed

@@ -4,7 +4,7 @@ type: source
 tags: [politics, monetary-policy, economics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Government shutdown could delay key economic reports at an especially sensitive time.md"
 author: "Scott Horsley"
 published: 2025-10-01

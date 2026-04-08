@@ -5,7 +5,7 @@ entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 2
+sources: 7
 ---
 
 ## Overview

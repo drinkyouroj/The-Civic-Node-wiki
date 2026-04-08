@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 8
 raw: "raw/Rethinking Arthur Burns, the \"Worst\" Fed Chair in History.md"
 author: "Jack Meserve"
 published: 2022-09-26

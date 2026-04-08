@@ -4,7 +4,7 @@ type: source
 tags: [economics, monetary-policy, power, information, markets]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/The Use of Knowledge in Society - Econlib.md"
 author: "Friedrich A. Hayek"
 published: 1945-09-01

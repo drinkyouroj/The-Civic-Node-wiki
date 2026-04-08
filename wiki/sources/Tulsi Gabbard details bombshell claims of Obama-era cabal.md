@@ -4,7 +4,7 @@ type: source
 tags: [politics, intelligence, disinformation, trump]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Tulsi Gabbard details bombshell claims of Obama-era cabal's 'treasonous conspiracy' against Trump.md"
 author: "Taylor Penley"
 published: 2025-07-20

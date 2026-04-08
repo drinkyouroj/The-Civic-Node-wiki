@@ -36,7 +36,7 @@ Most DePIN (Decentralized Physical Infrastructure Network) projects follow a pre
 
 ## Connections
 
-- [[Datagram Network]] — the project under analysis; the apparent exception to the DePIN failure pattern
+- [[Datagram Network — Windows Setup]] — the project under analysis; the apparent exception to the DePIN failure pattern
 - [[DePIN]] — Decentralized Physical Infrastructure Networks; the sector whose failure pattern the piece diagnoses
 - [[Helium]] — the primary negative example; "People's Network" with no actual people using it
 - [[Gala]] — secondary negative example; gaming infrastructure that powered no games

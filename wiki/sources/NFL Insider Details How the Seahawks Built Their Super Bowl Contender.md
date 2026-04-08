@@ -4,7 +4,7 @@ type: source
 tags: [nfl, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/NFL Insider Details How the Seahawks Built Their Super Bowl Contender.md"
 author: "Russell Baxter"
 published: 2026-02-04

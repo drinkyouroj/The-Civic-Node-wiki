@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/AI for Dynamic Pricing - Apriorit.md"
 author: "Olya VP, Apriorit"
 published: 2025-07-17

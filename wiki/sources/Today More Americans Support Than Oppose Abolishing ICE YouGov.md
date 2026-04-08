@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, polling]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Today more Americans support than oppose abolishing ICE.md"
 author: "Alexander Rossell Hayes"
 published: 2026-01-26

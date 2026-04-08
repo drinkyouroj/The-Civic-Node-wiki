@@ -4,7 +4,7 @@ type: source
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Bill Belichick's Patriots legacy The NFL's greatest dynasty.md"
 author: "Bill Barnwell"
 published: 2024-01-11

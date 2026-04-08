@@ -856,3 +856,10 @@ Continuation of the five-agent audit fixes. Addressed the items the agents had l
 - Housing-economics and student-debt source ingest to support `Affordability Populism`
 - The audit reports themselves are now in `wiki/syntheses/` as the first residents of that directory; future syntheses should accumulate there
 
+
+## [2026-04-08] lint | Health check sweep — Stages A/B/C
+
+- **Stage A — auto-fix wikilinks**: 61 unambiguous wikilink renames applied across 59 files (82 link instances). Mapping at /tmp/wikilink_fixes_clean.json. Rejected 10 mappings (long->short collapses, identity displays, missing destinations).
+- **Stage B — frontmatter drift recount**: 353 wiki pages had `sources:` count drift ≥3 vs actual `- [[X]]` bullet count in body. Recounted using "every bullet is a source" convention.
+- **Stage C — top 25 stubs**: created 24 stub pages (IMF, SEC, CFTC, Bitcoin, Twitter, Tom Brady, Jerry Garcia, John Mayer, Keir Starmer, Tim Kaine, Rick Crawford, Jake Auchincloss, American Psychological Association, Dead and Company, EU AI Act, Filecoin, Datagram Network, Attention Economy, Cultural Politics of Sport, Applied Behavior Analysis, Surveillance Capitalism, AI Rights, Corporate Personhood, Neurodiversity, AI Therapy) to absorb high-frequency broken wikilinks. One target (Mikie Sherrill) already existed.
+- Stages D (raw triage) and E (index update) deferred — not blocking.

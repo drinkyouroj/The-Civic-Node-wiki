@@ -33,7 +33,7 @@ A listicle of ten documented institutional failures during late October–early 
 - [[Federal Power as Political Instrument]] — rules enforced with precision on the powerless, ignored for those who matter
 - [[Regulatory Weaponization]] — SEC regulatory capture made explicit policy; crypto ETF approval through administrative absence
 - [[Institutional Gaslighting]] — the pattern of claiming function while demonstrating dysfunction
-- [[Monetary Policy]] — Fed making monetary policy blind is directly relevant; Bitcoin as institutional no-confidence signal
+- [[Cryptocurrencies and Monetary Policy Bruegel 2018]] — Fed making monetary policy blind is directly relevant; Bitcoin as institutional no-confidence signal
 
 ## What It Leaves Open
 - Whether the 36-day shutdown represents a new equilibrium or a transition to something more stable (the piece explicitly poses this as unanswered)

@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/How Richard Nixon Pressured Arthur Burns Evidence from the Nixon Tapes.md"
 author: "Abrams; Burton A"
 published: 2006-12-07

@@ -4,7 +4,7 @@ type: source
 tags: [politics, elections, virginia]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Virginia results map shows where Abigail Spanberger won election.md"
 author: "Giulia Carbonaro"
 published: 2025-11-05

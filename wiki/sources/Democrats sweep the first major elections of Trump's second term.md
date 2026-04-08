@@ -4,7 +4,7 @@ type: source
 tags: [politics, elections, new-york, virginia, new-jersey]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Democrats sweep the first major elections of Trump's second term - live updates CNN Politics.md"
 author: "CNN Politics live blog"
 published: 2025-11-04

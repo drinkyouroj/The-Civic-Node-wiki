@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, press-freedom, legal, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Former CNN anchor Don Lemon appears in court after being arrested over protest at Minnesota church service.md"
 author: "Lilia Luciano; Jacob Rosen; Jennifer Jacobs; Sarah N Lynch; Nicole Sganga"
 published: 2026-01-30

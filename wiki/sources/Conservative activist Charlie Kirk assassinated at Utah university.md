@@ -4,7 +4,7 @@ type: source
 tags: [politics, political-violence, polarization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Conservative activist Charlie Kirk assassinated at Utah university.md"
 author: "The Associated Press"
 published: 2025-09-11

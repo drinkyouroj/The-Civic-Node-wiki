@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, legislation, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 8
 raw: "raw/The GENIUS Act A New Era of Stablecoin Regulation.md"
 author: "Richard Manfredi, Gibson Dunn"
 published: 2025-07-18

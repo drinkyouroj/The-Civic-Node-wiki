@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, geopolitics, power, energy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 11
 ---
 
 ## Definition
@@ -111,7 +111,7 @@ The strongest defensible version of the "digital petrodollar" claim is **invoici
 
 - [[Nixon Shock — Wikipedia]] — origin of the fiat dollar that needed petrodollar support
 - [[The Great Inflation]] — Fed History essay on the 1965–1982 monetary regime; provides the policy backdrop against which the petrodollar emerged
-- [[Strait of Hormuz Oil Flow]] — modern data on the chokepoint that the petrodollar system is built around
+- [[Strait of Hormuz]] — modern data on the chokepoint that the petrodollar system is built around
 
 ## Open Questions
 

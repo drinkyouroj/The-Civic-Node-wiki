@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, legislation, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/The GENIUS Act A New Federal Framework for Stablecoin Issuers.md"
 author: "Austin Chegini; Adam Chernichaw; Elizabeth Zimmer; J C Freeman, Pillsbury"
 published: 2025-07-02

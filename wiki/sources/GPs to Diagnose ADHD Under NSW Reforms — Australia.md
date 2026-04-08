@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/GPs to diagnose ADHD and prescribe drugs for children and adults under NSW reforms.md"
 author: "Natasha May"
 published: 2025-05-25

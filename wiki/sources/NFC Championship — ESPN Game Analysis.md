@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, rams, nfc-championship, playoffs, darnold, macdonald]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 6
 raw: "raw/Seahawks prevail over Rams in NFC Championship Game.md"
 author: "Sarah Barshop; Brady Henderson; ESPN News Services"
 published: 2026-01-26

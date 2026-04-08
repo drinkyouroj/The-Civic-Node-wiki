@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 2
+sources: 5
 ---
 
 ## Overview

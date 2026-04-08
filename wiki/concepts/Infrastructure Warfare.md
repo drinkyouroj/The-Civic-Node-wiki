@@ -4,7 +4,7 @@ type: concept
 tags: [power, infrastructure, geopolitics, military]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 4
+sources: 8
 ---
 
 ## Definition

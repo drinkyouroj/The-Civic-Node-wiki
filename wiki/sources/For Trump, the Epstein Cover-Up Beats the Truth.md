@@ -4,7 +4,7 @@ type: source
 tags: [politics, epstein, power, institutional-gaslighting]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/For Trump, the Epstein Cover-Up Beats the Truth.md"
 author: "Democracy Docket (unnamed)"
 published: 2026-01-03

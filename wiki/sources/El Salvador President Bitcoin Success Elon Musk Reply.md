@@ -4,7 +4,7 @@ type: source
 tags: [crypto, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/El Salvador President shares the country's Bitcoin success; gets this 'one-word' reply from Elon Musk - Times of India.md"
 author: "TOI Tech Desk"
 published: 2024-12-06

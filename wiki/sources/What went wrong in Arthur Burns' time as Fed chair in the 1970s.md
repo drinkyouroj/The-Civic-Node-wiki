@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/What went wrong in Arthur Burns' time as Fed chair in the 1970s.md"
 author: "Wailin Wong"
 published: 2023-02-03

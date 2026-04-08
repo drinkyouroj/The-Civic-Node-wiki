@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, monetary-policy, geopolitics, energy, infrastructure]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 16
 raw: "raw/Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked.md"
 author: "Bo Erickson, Humeyra Pamuk, Susan Heavey"
 published: 2026-04-05

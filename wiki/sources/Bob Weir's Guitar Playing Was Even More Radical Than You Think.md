@@ -4,7 +4,7 @@ type: source
 tags: [music, innovation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Bob Weir's Guitar Playing Was Even More Radical Than You Think.md"
 author: "Alan Paul"
 published: 2026-01-11
@@ -36,7 +36,7 @@ Rolling Stone obituary-analysis by author Alan Paul, who interviewed Weir extens
 - [[Warren Haynes]] — guitarist; played multiple stints with the Dead
 - [[Don Was]] — bassist with Bob Weir & Wolf Bros; producer
 - [[Oteil Burbridge]] — Dead & Company bassist
-- [[Dead & Company]] — post-2015 band bringing Dead music to new audiences
+- [[Dead and Company]] — post-2015 band bringing Dead music to new audiences
 
 ## Concepts Mentioned
 - [[Improvisational Music]] — Weir's philosophy of seeking new territory every night

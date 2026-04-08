@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/EPO refuses DABUS patent applications designating a machine inventor.md"
 author: "European Patent Office"
 published: 2019-12-20

@@ -4,7 +4,7 @@ type: source
 tags: [music, obituary]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 8
 raw: "raw/Bob Weir's Final Concert Was a Joyous Celebration of Grateful Dead.md"
 author: "Corey Irwin"
 published: 2026-01-10
@@ -28,7 +28,7 @@ Retrospective account of Bob Weir's final concert — August 3, 2025, at Golden 
 
 ## Entities Mentioned
 - [[Bob Weir]] — subject; final performance
-- [[Dead & Company]] — performing band
+- [[Dead and Company]] — performing band
 - [[Grateful Dead]] — anniversary being celebrated; 60 years
 - [[Mickey Hart]] — drummer; stood with Weir for final bow
 - [[Trey Anastasio]] — guest; Phish frontman

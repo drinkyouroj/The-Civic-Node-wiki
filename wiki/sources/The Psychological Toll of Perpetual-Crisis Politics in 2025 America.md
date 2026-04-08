@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, politics, culture, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/The Psychological Toll of Perpetual‑Crisis Politics in 2025 America — Simply Put Psych.md"
 author: "JC Pass"
 published: 2025-04-18

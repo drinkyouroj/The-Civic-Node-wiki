@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, legal, platform-antitrust, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Microsoft Sued Over ChatGPT Pricing, Antitrust Claims Emerge.md"
 author: "Prabhanu Kumar Das"
 published: 2025-10-14

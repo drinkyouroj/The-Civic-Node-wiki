@@ -4,7 +4,7 @@ type: concept
 tags: [politics, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 7
 ---
 
 ## Definition
@@ -39,5 +39,5 @@ The issue is bipartisan in practice but partisan in who complains about it — R
 ## Key Sources
 - [[The Weaponization of CISA — House Judiciary Report]] — House Republican investigation; primary documentary source on Biden-era CISA
 - [[Senate Republicans Hold Social Media Jawboning Hearing — Transcript]] — 2025 Senate hearing revisiting allegations with contemporaneous Trump-era examples
-- [[Murthy v. Missouri — Wikipedia]] — SCOTUS 6-3 ruling (June 2024); dismissed on standing, not merits; March 2026 settlement bars CISA coercion for 10 years; Alito dissent: "one of the most important free speech cases in years"
+- [[Murthy v Missouri — Wikipedia]] — SCOTUS 6-3 ruling (June 2024); dismissed on standing, not merits; March 2026 settlement bars CISA coercion for 10 years; Alito dissent: "one of the most important free speech cases in years"
 - [[Shut Your App — Senate Commerce Committee Jawboning Hearing]] — Cruz Commerce Committee hearing Oct 8 2025; Cruz explicitly links CISA jawboning to AI as the next frontier

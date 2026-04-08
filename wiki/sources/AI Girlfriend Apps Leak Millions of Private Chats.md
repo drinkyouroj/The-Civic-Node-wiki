@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, privacy, data]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/AI girlfriend apps leak millions of private chats.md"
 author: "Kurt Knutsson, CyberGuy Report (Fox News)"
 published: 2025-10-20

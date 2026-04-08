@@ -4,7 +4,7 @@ type: concept
 tags: [power, federal-immunity, trump-allies, january-6]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 3
+sources: 6
 ---
 
 ## Definition

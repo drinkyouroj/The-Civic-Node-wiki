@@ -4,7 +4,7 @@ type: source
 tags: [crypto, regulation, technology, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Securities Enforcement Roundup – April 2025.md"
 author: "Morgan Lewis"
 published: 2025-05-09

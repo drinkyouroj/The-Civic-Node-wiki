@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, data-privacy, legal, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/U.S. Department of Health and Human Services Office for Civil Rights Breach Portal.md"
 author: "HHS Office for Civil Rights"
 published: 2026-04-07

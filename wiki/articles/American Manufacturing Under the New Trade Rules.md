@@ -46,7 +46,7 @@ Trump's Liberation Day tariffs promised to revive American manufacturing but are
 - [[Japan]] — the $550B trade deal; auto tariff reduction vs. steel/aluminum exceptions
 - [[Michigan]] — geographic ground zero for automotive tariff impact
 - [[Yale Budget Lab]] — GDP and household income projections
-- [[Penn Wharton Budget Model]] — long-term GDP contraction forecast
+- [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]] — long-term GDP contraction forecast
 - [[University of Michigan]] — vehicle price increase and job loss projections
 
 ## What It Leaves Open

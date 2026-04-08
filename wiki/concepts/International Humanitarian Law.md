@@ -4,7 +4,7 @@ type: concept
 tags: [legal, military, geopolitics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 ---
 
 ## Definition

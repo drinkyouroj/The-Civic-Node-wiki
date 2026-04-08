@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, immigration, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 7
+sources: 11
 ---
 
 ## Overview

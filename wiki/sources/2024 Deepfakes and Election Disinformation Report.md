@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, politics, disinformation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/2024 Deepfakes and Election Disinformation Report Key Findings & Mitigation Strategies.md"
 author: "Insikt Group (Recorded Future)"
 published: 2024-09-24

@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, defense, macdonald, statistics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Where Seattle Seahawks' defense ranks among league's best.md"
 author: "Cameron Van Til"
 published: 2025-12-02

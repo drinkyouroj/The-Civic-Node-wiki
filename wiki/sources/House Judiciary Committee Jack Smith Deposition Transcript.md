@@ -4,7 +4,7 @@ type: source
 tags: [politics, january-6, trump, doj, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/House Judiciary Committee, Jack Smith Deposition Transcript, December 17, 2025.md"
 author: "House Judiciary Committee"
 published: 2025-12-31

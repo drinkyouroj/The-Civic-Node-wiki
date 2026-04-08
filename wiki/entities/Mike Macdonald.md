@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 14
+sources: 17
 ---
 
 > ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** The latest sourced events in this cluster are the Jan 26, 2026 NFC Championship and the Feb 6, 2026 pre-game Schneider profile. No raw post-game Super Bowl LX recap exists in the cluster as of 2026-04-07. All "Super Bowl LX winner" claims here trace to the pre-game profile or to the bracket entry, not to a game recap.
@@ -36,11 +36,11 @@ Head coach of the Seattle Seahawks since 2024. Former Baltimore Ravens defensive
 - [[John Schneider]] — GM; partnership built on aligned vision; both describe philosophy-first decision-making
 - [[Sam Darnold]] — QB whose acquisition Macdonald endorsed; offense built around Macdonald's defensive complementarity
 - [[NFL Dynasty]] — Macdonald's scheme is the defensive foundation of a potential multi-year window
-- [[Disguise and Destroy — The Macdonald Method That Broke NFL Offenses]] — essay on his defensive architecture
+- [[Disguise and Destroy The Macdonald Method That Broke NFL Offenses]] — essay on his defensive architecture
 
 ## Source Appearances
 
-- [[Disguise and Destroy — The Macdonald Method That Broke NFL Offenses]] — central subject; pre-snap disguise and post-snap deception methodology
+- [[Disguise and Destroy The Macdonald Method That Broke NFL Offenses]] — central subject; pre-snap disguise and post-snap deception methodology
 - [[Seattle Seahawks Built Right Roster for Coach's Scheme]] — roster built to execute his vision
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — Schneider's partnership with Macdonald highlighted
 - [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]] — rebuild framed around Macdonald's vision

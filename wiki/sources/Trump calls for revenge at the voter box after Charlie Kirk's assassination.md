@@ -4,7 +4,7 @@ type: source
 tags: [politics, political-violence, charlie-kirk, elections]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Trump calls for 'revenge at the voter box' after Charlie Kirk's assassination as he blasts 'radicals on the left'.md"
 author: "Eric Garcia"
 published: 2025-09-12

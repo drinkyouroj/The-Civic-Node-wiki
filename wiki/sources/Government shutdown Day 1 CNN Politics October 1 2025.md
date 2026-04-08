@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/October 1, 2025 Day 1 coverage of the government shutdown CNN Politics.md"
 author: "CNN Staff (multiple reporters)"
 published: 2025-10-01

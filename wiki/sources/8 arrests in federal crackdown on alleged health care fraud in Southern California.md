@@ -4,7 +4,7 @@ type: source
 tags: [politics, power]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 7
 raw: "raw/8 arrests made in federal crackdown on alleged health care fraud in Southern California.md"
 author: "Jaimie Ding (AP)"
 published: 2026-04-02

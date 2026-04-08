@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Column Paul Volcker's legacy, an independent Federal Reserve, is under threat.md"
 author: "Michael W Klein; The Conversation"
 published: 2019-12-12

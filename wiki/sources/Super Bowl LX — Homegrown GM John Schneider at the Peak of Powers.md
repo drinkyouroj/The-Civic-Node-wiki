@@ -4,7 +4,7 @@ type: source
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Super Bowl LX Homegrown GM John Schneider at the peak of powers with Seahawks.md"
 author: "Dave Schroeder"
 published: 2026-02-06

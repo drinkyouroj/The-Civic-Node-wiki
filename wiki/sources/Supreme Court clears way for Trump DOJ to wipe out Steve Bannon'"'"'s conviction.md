@@ -4,7 +4,7 @@ type: source
 tags: [politics, federal-immunity, january-6, trump-allies]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 7
 raw: "raw/Supreme Court clears way for Trump DOJ to wipe out Steve Bannon's conviction.md"
 author: "Maureen Groppe"
 published: 2026-04-06

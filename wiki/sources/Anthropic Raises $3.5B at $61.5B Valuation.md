@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Anthropic raises $3.5B at $61.5B valuation, can it outspace OpenAI in the AI race — TFN.md"
 author: "Abhinaya Prabhu, Tech Funding News"
 published: 2025-03-04

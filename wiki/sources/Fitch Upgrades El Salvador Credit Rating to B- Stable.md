@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, geopolitics, politics, crypto]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Fitch upgrades El Salvador's rating to 'B-'; stable outlook - InvestinElSalvador.md"
 author: "Fitch Ratings / Forbes Centroamerica"
 published: 2025-01-13

@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, politics, power, history]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 0
+sources: 3
 ---
 
 ## Definition

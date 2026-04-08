@@ -4,7 +4,7 @@ type: source
 tags: [crypto, legislation, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 8
 raw: "raw/US Congress Set To Advance Key Crypto Bills This Week.md"
 author: "Team StratNews"
 published: 2025-07-14

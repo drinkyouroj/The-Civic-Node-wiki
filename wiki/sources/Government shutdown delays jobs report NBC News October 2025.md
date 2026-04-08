@@ -4,7 +4,7 @@ type: source
 tags: [politics, monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Government shutdown delays key monthly jobs report at pivotal moment for the U.S. economy.md"
 author: "Steve Kopack"
 published: 2025-10-03

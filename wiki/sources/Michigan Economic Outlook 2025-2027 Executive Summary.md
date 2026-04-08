@@ -4,7 +4,7 @@ type: source
 tags: [economics, monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/The Michigan Economic Outlook for 2025–2027 Executive Summary.md"
 author: "Jacob T. Burton, Gabriel M. Ehrlich, Michael R. McWilliams (University of Michigan RSQE)"
 published: 2025-05-16
@@ -51,4 +51,4 @@ The University of Michigan's Research Seminar in Quantitative Economics released
 
 ## Notes
 
-University of Michigan RSQE is a reputable academic forecasting shop. Forecast released May 16, 2025, before later tariff negotiations (some reimbursements granted). Authors acknowledge considerable uncertainty: "We emphasize that these estimates are highly uncertain, both because the tariffs themselves remain fluid." The forecast assumed tariff rates would settle at lower levels than early May 2025 levels. Compare with [[The Economic Effects of President Trump's Tariffs Penn Wharton Budget Model]] for national-level tariff modeling.
+University of Michigan RSQE is a reputable academic forecasting shop. Forecast released May 16, 2025, before later tariff negotiations (some reimbursements granted). Authors acknowledge considerable uncertainty: "We emphasize that these estimates are highly uncertain, both because the tariffs themselves remain fluid." The forecast assumed tariff rates would settle at lower levels than early May 2025 levels. Compare with [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]] for national-level tariff modeling.

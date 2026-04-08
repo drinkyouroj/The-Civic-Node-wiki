@@ -4,7 +4,7 @@ type: source
 tags: [politics, energy, regulatory-weaponization, government-shutdown]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs.md"
 author: "Anna Kramer; Manuela Silva; Amelia Benavides-Colón"
 published: 2025-10-02

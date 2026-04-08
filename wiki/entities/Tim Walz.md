@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, minnesota, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 9
 ---
 
 ## Overview

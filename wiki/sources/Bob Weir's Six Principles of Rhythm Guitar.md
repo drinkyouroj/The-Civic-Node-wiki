@@ -4,7 +4,7 @@ type: source
 tags: [music, innovation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/\"We play three to four hours a night or more. I study in real time, 100 gigs a year. That's a great deal of practice\" Bo.md"
 author: "John Stix"
 published: 2026-01-13

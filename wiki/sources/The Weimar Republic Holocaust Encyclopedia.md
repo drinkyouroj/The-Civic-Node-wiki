@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/The Weimar Republic Holocaust Encyclopedia.md"
 author: ""
 published: 2018-11-01

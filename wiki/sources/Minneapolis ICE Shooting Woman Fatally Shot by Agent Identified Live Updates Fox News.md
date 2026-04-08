@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, police-violence, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 8
 raw: "raw/Minneapolis ICE shooting Woman fatally shot by agent identified I Live Updates from Fox News Digital.md"
 author: "Stephen Sorace; Michael Sinkewicz; Louis Casiano; Greg Wehner; Greg Norman-Diamond"
 published: 2026-01-08

@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, press-freedom, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Journalist Don Lemon arrested in connection to Minnesota ICE protest.md"
 author: "Al Jazeera Staff"
 published: 2026-01-30

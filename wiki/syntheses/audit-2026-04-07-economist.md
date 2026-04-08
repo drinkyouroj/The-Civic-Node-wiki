@@ -89,7 +89,7 @@ No fix needed for the data, but clarify the evaluative criterion up front.
 
 - **$70B stablecoin daily volume** — traces to a Morgan Lewis lawyer memo characterization ("some estimates ranging as high as"), which itself does not cite a primary source. This is a secondary characterization of a tertiary estimate. It is roughly in the ballpark of Visa onchain stablecoin dashboard data, but the wiki should acknowledge the provenance weakness and (ideally) cite the Visa/ARIS analytics dashboard directly. **P1.**
 
-- **$250B stablecoin market** — appears once in [[Trump GENIUS Move]] source page (line 23). Consistent with mid-2025 DeFi Llama / CoinGecko aggregate market cap. No concern. But the wiki conflates "market cap" (~$250B) and "daily volume" ($70B) as if they were different windows on the same thing. They're not — volume/market cap is a velocity statistic, and the wiki doesn't distinguish them. **P2.**
+- **$250B stablecoin market** — appears once in [[Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill]] source page (line 23). Consistent with mid-2025 DeFi Llama / CoinGecko aggregate market cap. No concern. But the wiki conflates "market cap" (~$250B) and "daily volume" ($70B) as if they were different windows on the same thing. They're not — volume/market cap is a velocity statistic, and the wiki doesn't distinguish them. **P2.**
 
 - **20.6% tariff rate** — see P0-2 above. Correct at the pre-substitution number, misleadingly paired with "highest since 1910" throughout. **P0.**
 
@@ -99,7 +99,7 @@ No fix needed for the data, but clarify the evaluative criterion up front.
 
 - **$22,620 US data worker median** — traces correctly to the AWU-CWA/TechEquity report ($15/hr × 29 hr/wk × 52 weeks = $22,620). Arithmetic checks out, methodology is the survey's own (self-reported). Note: the [[Mechanical Turk Pattern]] page at line 42 says "$15/hr median" and the page at line 75 says "$22,620/year" — these are consistent, but different summaries pick different framings. Minor but worth unifying. **P2.**
 
-- **1-billion-dosage ADHD deficit** — traces to DEA-commissioned report per [[Frontiers — ADHD Medication Shortage]]. The underlying methodology is not reproduced in the wiki. This is a Frontiers paper's characterization of a DEA report; not ideal provenance, but not wrong. The number is not independently verifiable from the wiki's current source base. **P2.**
+- **1-billion-dosage ADHD deficit** — traces to DEA-commissioned report per [[ADHD Medication Shortage]]. The underlying methodology is not reproduced in the wiki. This is a Frontiers paper's characterization of a DEA report; not ideal provenance, but not wrong. The number is not independently verifiable from the wiki's current source base. **P2.**
 
 - **$3.1B vs $2.5B Fed construction cost** ([[Fed Independence]] line 28) — a $600M spread between Trump's claim and the Fed's number is real per AP reporting, but the wiki does not flag that this is a *dispute* rather than a fact. **P2.**
 

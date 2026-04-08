@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/GPs and nurse practitioners able to start ADHD treatment from next year.md"
 author: "Pharmac / NZ Government"
 published: 2025-06-24

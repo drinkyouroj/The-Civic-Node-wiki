@@ -19,7 +19,7 @@ Nayib Bukele is the president of [[El Salvador]], elected in 2019 and re-elected
 - Launched Chivo Wallet with $30 per-user government subsidy to drive adoption.
 - Claimed to buy Bitcoin daily ("1 Bitcoin per day" announcement).
 - Built CECOT mega-prison; El Salvador's murder rate dropped dramatically under his crackdown.
-- His government claimed $212M in Bitcoin "financial income" (June 2024) — though the composition of this figure is disputed. [[Agencia Administradora de Fondos Bitcoin — $212M]]
+- His government claimed $212M in Bitcoin "financial income" (June 2024) — though the composition of this figure is disputed. [[Agencia Administradora de Fondos Bitcoin — $212 Million Report]]
 - Accepted IMF $1.4B loan condition requiring removal of Bitcoin's mandatory legal tender status (2025).
 - Elon Musk replied "Impressive" to Bukele's December 2024 announcement of $603M portfolio value. [[El Salvador President Bitcoin Success Elon Musk Reply]]
 - Bitcoin Law passed June 8, 2021, same day as it was presented — no legislative debate, no expert consultation. [[El Salvador y el bitcoin Cristosal 2023]]
@@ -41,8 +41,8 @@ Bukele is the world's most prominent experiment in a political leader staking na
 
 ## Source Appearances
 
-- [[Agencia Administradora de Fondos Bitcoin — $212M]] — disputed Bitcoin holding figures reported under his government
-- [[Bitcoin is no longer legal tender — Digital Watch Observatory]] — end of mandatory Bitcoin acceptance
+- [[Agencia Administradora de Fondos Bitcoin — $212 Million Report]] — disputed Bitcoin holding figures reported under his government
+- [[Bitcoin is no longer legal tender in El Salvador — Digital Watch Observatory]] — end of mandatory Bitcoin acceptance
 - [[Are Cryptocurrencies Currencies — University of Chicago Booth School]] — academic analysis of adoption failure under his government
 - [[El Salvador President Bitcoin Success Elon Musk Reply]] — $603M portfolio announcement and Musk exchange
 - [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]] — Congress vote removing legal tender status

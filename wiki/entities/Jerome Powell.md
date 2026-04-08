@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 16
+sources: 19
 ---
 
 ## Overview
@@ -58,10 +58,10 @@ This is the version of the Powell-skeptic case that survives outside MAGA media.
 - [['Costing our country trillions of dollars' Donald Trump calls Jerome Powell 'too stupid']] — Trump attacks Powell publicly after fifth consecutive rate hold
 - [[Trump's tariffs kept Fed from cutting rates, Jerome Powell says]] — Powell explains the tariff-rate connection at ECB forum
 - [[Fed keeps rates steady, despite historic contrary votes and Trump pressure]] — July 2025 FOMC decision; dual governor dissents
-- [[Trump and Powell bicker over Fed building renovations as president ratchets up pressure campaign]] — Trump visits Fed construction site; Powell pushes back on cost figures
+- [[Trump and Powell bicker over Fed building renovations]] — Trump visits Fed construction site; Powell pushes back on cost figures
 - [[Federal Reserve holds its benchmark rate steady at today's FOMC meeting]] — July 30, 2025 rate hold; dual mandate framing
 - [[Fed meeting recap Fed Chair Powell calls quarter-point trim a 'risk management cut']] — September 2025 first cut; Powell's framing
-- [[New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together]] — Miran dissents; Waller/Bowman unite behind Powell
+- [[New Trump appointee Miran calls for half-point cut]] — Miran dissents; Waller/Bowman unite behind Powell
 - [[Federal Reserve issues FOMC statement June 18 2025]] — June 2025 unanimous hold; Powell chairs 12-0 vote
 - [[Powell holds rates July 2025 Times of India]] — July 30, 2025 hold; Powell resists Trump's Q2 GDP pressure campaign
 - [[Fed approves quarter-point rate cut September 2025 CNBC]] — Powell frames September cut as "risk management"; defends independence amid Miran dissent and Cook court battle

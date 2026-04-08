@@ -4,7 +4,7 @@ type: source
 tags: [nfl, politics, culture, immigration, bad-bunny, super-bowl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Bad Bunny Super Bowl 60 controversy, explained Why NFL kept halftime show despite MAGA backlash.md"
 author: "Dan Treacy"
 published: 2026-02-09

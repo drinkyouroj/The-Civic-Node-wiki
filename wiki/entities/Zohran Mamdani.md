@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, elections, progressive, new-york]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 11
 ---
 
 ## Overview
@@ -13,11 +13,11 @@ Zohran Mamdani is a democratic socialist New York State Assembly member who won 
 
 ## Key Facts
 - Won NYC mayor Nov. 4, 2025; democratic socialist; NY State Assembly member prior
-- Defeated Andrew Cuomo (centrist comeback candidate) and Curtis Sliwa (Republican, Guardian Angels founder) [[Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia]]
-- Campaign platform: housing affordability, climate action, economic justice, democratic socialism [[Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia]]
-- Highest NYC mayoral turnout in decades; especially energized younger voters and minorities [[Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia]]
-- Political scientists cautioned his win reflects NYC's peculiar dynamics (Cuomo scandal, Adams exit) and may not signal national progressive electability [[Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia]]
-- Results widely interpreted as "more anti-establishment than pro-Mamdani" by Northeastern political scientists [[Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia]]
+- Defeated Andrew Cuomo (centrist comeback candidate) and Curtis Sliwa (Republican, Guardian Angels founder) [[Election 2025 Historic night for Democrats]]
+- Campaign platform: housing affordability, climate action, economic justice, democratic socialism [[Election 2025 Historic night for Democrats]]
+- Highest NYC mayoral turnout in decades; especially energized younger voters and minorities [[Election 2025 Historic night for Democrats]]
+- Political scientists cautioned his win reflects NYC's peculiar dynamics (Cuomo scandal, Adams exit) and may not signal national progressive electability [[Election 2025 Historic night for Democrats]]
+- Results widely interpreted as "more anti-establishment than pro-Mamdani" by Northeastern political scientists [[Election 2025 Historic night for Democrats]]
 
 ## Newsletter Relevance
 
@@ -55,8 +55,8 @@ Each is a real governance test, not a slogan, and most will collide with state-l
 - [[Donald Trump]] — labeled Mamdani a "communist"
 
 ## Source Appearances
-- [[Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia]] — his win analyzed
-- [[Mamdani elected NYC mayor as Democrats enjoy big wins across the board]] — direct coverage
+- [[Election 2025 Historic night for Democrats]] — his win analyzed
+- [[Mamdani elected NYC mayor as Democrats enjoy big wins]] — direct coverage
 
 ## Source Appearances (continued)
 - [[Democrats had a big night — 5 takeaways from the 2025 elections]] — win analyzed as identity tension in Democratic Party; AOC pushed back on making him "the face of the party"

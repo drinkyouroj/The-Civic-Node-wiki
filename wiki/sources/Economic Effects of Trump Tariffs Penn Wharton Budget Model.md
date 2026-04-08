@@ -4,7 +4,7 @@ type: source
 tags: [economics, monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/The Economic Effects of President Trumpâs Tariffs Penn Wharton Budget Model.md"
 author: "Lysle Boller, Kody Carmody, Jon Huntley, Felix Reichling, Kent Smetters"
 published: 2025-04-10

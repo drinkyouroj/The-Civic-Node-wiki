@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, infrastructure]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Carlsbad company among those hit by Trump's cuts to energy projects.md"
 author: "Anna Kramer, Manuela Silva, Amelia Benavides-Colón (NOTUS)"
 published: 2025-10-05

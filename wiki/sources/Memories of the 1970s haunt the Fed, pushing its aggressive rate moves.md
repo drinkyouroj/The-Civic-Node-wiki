@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Memories of the 1970s haunt the Fed, pushing its aggressive rate moves.md"
 author: "Scott Horsley"
 published: 2022-09-29

@@ -5,7 +5,7 @@ entity_type: person
 tags: [music, innovation, systems-design]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 6
+sources: 14
 ---
 
 ## Overview
@@ -32,11 +32,11 @@ Bob Weir (1947-2026), co-founder of Grateful Dead, rhythm guitarist who reinvent
 
 - [[The Other One Who Became That Guy]] — comprehensive biography essay
 - [[Grateful Dead]] — the band he co-founded in 1965
-- [[Dead & Company]] — most successful post-Garcia continuation; co-led 2015-2023
+- [[Dead and Company]] — most successful post-Garcia continuation; co-led 2015-2023
 - [[Jerry Garcia]] — lifelong musical partner; Weir's harmonic architecture enabled Garcia's melodic improvisation
 - [[John Perry Barlow]] — lyricist; met at school for boys with behavioral problems; wrote many of the Dead's best-known songs together
 - [[John Mayer]] — Dead & Company lead guitarist; effusively praised Weir's originality
-- Pattern parallels: [[Focal Point Coordination]] (musician coordination without explicit agreement); [[Leverage Erasure]] (shadow work enabling visible stars)
+- Pattern parallels: [[Focal Point Coordination]] (musician coordination without explicit agreement); [[Leverage Erasure Through Automation]] (shadow work enabling visible stars)
 - [[Jam Band Genre]] — Weir's harmonic framework is foundational to the genre he helped create
 - [[Improvisational Music]] — Weir's six principles and guitar philosophy are a practical manual for the practice
 

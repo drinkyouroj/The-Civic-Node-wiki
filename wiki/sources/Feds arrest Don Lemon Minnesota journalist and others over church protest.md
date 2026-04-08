@@ -4,7 +4,7 @@ type: source
 tags: [politics, press-freedom, minnesota, immigration, media]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Feds arrest Don Lemon, Minnesota journalist and 2 others over church protest.md"
 author: ""
 published: 2026-01-15

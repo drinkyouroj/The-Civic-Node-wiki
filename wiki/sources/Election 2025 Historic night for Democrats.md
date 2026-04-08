@@ -4,7 +4,7 @@ type: source
 tags: [politics, elections]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia.md"
 author: "Tanner Stening"
 published: 2025-11-04
@@ -32,7 +32,7 @@ Northeastern University political scientists analyze the November 4, 2025 Democr
 - [[2025 United States Government Shutdown]] — electoral backdrop
 
 ## Concepts Mentioned
-- [[Thermostatic Principle]] — thermostatic correction explicitly invoked by political scientists
+- [[The Thermostatic Principle]] — thermostatic correction explicitly invoked by political scientists
 
 ## Quotes
 > "Democrats have been down in the dumps since bigger-than-expected losses in 2024, and tonight's wins will fire them up." — Costas Panagopoulos

@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, crypto, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 4
+sources: 10
 ---
 
 ## Overview

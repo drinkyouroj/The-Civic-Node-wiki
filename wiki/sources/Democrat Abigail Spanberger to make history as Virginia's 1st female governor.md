@@ -4,7 +4,7 @@ type: source
 tags: [politics, elections, virginia]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/Democrat Abigail Spanberger to make history as Virginia's 1st female governor, flipping governorship blue.md"
 author: "ABC News; Halle Troadec"
 published: 2025-11-05

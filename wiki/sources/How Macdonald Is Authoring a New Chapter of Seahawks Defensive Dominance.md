@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, defense, macdonald, scheme]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/How Mike Macdonald is authoring a new chapter of Seahawks defensive dominance ahead of matchup with 'Legion of Boom' cor.md"
 author: "Anthony Holzman-Escareno"
 published: 2025-10-30

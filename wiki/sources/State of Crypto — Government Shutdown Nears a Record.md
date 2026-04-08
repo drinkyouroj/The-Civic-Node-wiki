@@ -4,7 +4,7 @@ type: source
 tags: [crypto, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/State of Crypto The Government Shutdown Nears a Record.md"
 author: "Nikhilesh De"
 published: 2025-11-01

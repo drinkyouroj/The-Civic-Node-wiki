@@ -33,7 +33,7 @@ Three sections following the newsletter's Spark / Pattern / Protocol format:
 ## Connections
 
 - [[Drug Enforcement Administration]] — the agency controlling the quota system
-- [[Aggregate Production Quotas]] — the specific policy mechanism at issue
+- [[DEA Aggregate Production Quotas 2025 — Federal Register]] — the specific policy mechanism at issue
 - [[ADHD]] — the condition and its treatment landscape
 - [[NSW Health Reforms]] — the international comparator model
 - [[Federal Trade Commission]] — mentioned by analogy in the broader newsletter context around regulatory capture

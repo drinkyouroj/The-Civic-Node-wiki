@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, politics, culture]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/American Psychological Association — Stress in America 2024.md"
 author: "American Psychological Association / The Harris Poll"
 published: 2024-10-01

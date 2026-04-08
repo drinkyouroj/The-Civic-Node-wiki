@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Fed approves quarter-point interest rate cut and sees two more coming this year.md"
 author: "Jeff Cox"
 published: 2025-09-17

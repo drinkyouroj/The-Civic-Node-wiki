@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, immigration, police-violence, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 9
 raw: "raw/Killing of Renée Good - Wikipedia.md"
 author: "Wikipedia contributors"
 published: 2026-01-07

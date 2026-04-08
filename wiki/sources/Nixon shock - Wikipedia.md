@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, geopolitics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Nixon shock - Wikipedia.md"
 author: ""
 published: 2006-01-03
@@ -54,4 +54,4 @@ Wikipedia's comprehensive article on the Nixon Shock — the August 15, 1971 ann
 
 ## Notes
 
-Wikipedia article with strong sourcing. Framing is broadly neutral, drawing on academic sources (Eichengreen, Bordo, Garten). The libertarian critique (gold standard better; post-1971 era a "failed experiment") is a distinct perspective covered separately in [[Forty-Five Years After the Gold Standard A Failed Experiment - UFM Market Trends]].
+Wikipedia article with strong sourcing. Framing is broadly neutral, drawing on academic sources (Eichengreen, Bordo, Garten). The libertarian critique (gold standard better; post-1971 era a "failed experiment") is a distinct perspective covered separately in [[Forty-Five Years After the Gold Standard]].

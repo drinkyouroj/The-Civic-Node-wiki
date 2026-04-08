@@ -4,7 +4,7 @@ type: source
 tags: [politics, elections, redistricting, coalition-fracture]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Democrats had a big night. Here are 5 takeaways from the 2025 elections.md"
 author: "Domenico Montanaro"
 published: 2025-11-05

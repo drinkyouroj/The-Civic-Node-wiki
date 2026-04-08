@@ -14,7 +14,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ## Overview
 
-- [[Overview]] — High-level synthesis of all research; current state of the wiki
+- [[overview]] — High-level synthesis of all research; current state of the wiki
 
 ---
 
@@ -147,7 +147,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[GalaChain Sees 2.8 Billion GALA Migration]] — Node Staking Program launch; 2.8B GALA migration; June 2025
 - [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; P2P electronic cash; 21M cap; proof of work
 - [[iShares Bitcoin Trust ETF IBIT — BlackRock]] — BlackRock IBIT product page; largest Bitcoin ETF; institutional adoption
-- [[Strategic Bitcoin Reserve executive order]] — EO establishing US Strategic Bitcoin Reserve; BTC + ETH + XRP + SOL holdings
+- [[Strategic Bitcoin Reserve]] — EO establishing US Strategic Bitcoin Reserve; BTC + ETH + XRP + SOL holdings
 - [[Trump declares Bitcoin a US Strategic Reserve asset via executive order]] — News coverage of SBR executive order signing
 - [[Are Cryptocurrencies Currencies — University of Chicago Booth School]] — U Chicago academic paper; Bitcoin adoption failure in El Salvador; 92% non-use rate
 - [[El Salvador Bitcoin experiment has mostly failed. So why is IMF giving it a pass]] — Academic/policy analysis; IMF forced removal of legal tender status; experiment assessment
@@ -310,7 +310,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[The Greenland purchase bid under Trump analysis]] — Greenland acquisition bid; strategic rationale
 - [[Emergencies Act - Wikipedia]] — Canada Emergencies Act; 2022 invocation; comparison to US shutdown powers
 
-- [[A Majority of Voters Are Unfavorable of ICE]] — Data for Progress poll; ICE favorability flipped +13 to -9; "Abolish ICE" definition confusion
+- [[A Majority of Voters Are Unfavorable of ICE, Are Divided on What Abolish ICE Means]] — Data for Progress poll; ICE favorability flipped +13 to -9; "Abolish ICE" definition confusion
 - [[ICE Voter Favorability — Data for Progress January 2026]] — Data for Progress, Jan 2026; n=1,225; +13 → -9 favorability flip; 55% oppose increased funding; Independents -20
 - [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — Class-action Hussen v. Noem; racial profiling of Somali/Latino Minnesotans; Jan 15 2026
 - [[DOJ Investigating After Activists Disrupt St Paul Church Where MN ICE Official Is a Pastor]] — Twin Cities/AP; Jan 18 church protest; Easterwood's dual role; DOJ FACE Act probe
@@ -659,7 +659,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[The Fraud Assembly Line Never Stops Running]] — 15 crypto scam tokens/hour, $6B lost in 2025; industrialization of fraud; the trust paradox
 - [[Digital Ghosts in the Machine]] — Trump's AI-generated Obama arrest deepfake; the Liar's Dividend; deepfakes make real scandals easier to dismiss
 - [[The TikTok Ban Is Just the Beta Test]] — SCOTUS ban as precedent that platforms can be governed like territories; "cognitive sovereignty" as new national security category
-- [[Replay. Retweet. Rage.]] — Fox's post-Kirk monetization frame as product roadmap for converting grief into radicalization
+- [[Replay. Retweet. Rage]] — Fox's post-Kirk monetization frame as product roadmap for converting grief into radicalization
 - [[The Replay Button Pulled the Second Trigger]] — Six-step pipeline from political violence to profitable content; platform design interventions
 - [[When Centralized Systems Fail, Alternatives Stop Being Theoretical]] — Seven simultaneous tech failures Oct 19-24: Sacks capture, AI bubble accounting, Apple antitrust, Microsoft GPU hoarding
 - [[The Thermostatic Principle]] — November 2025 election results; moderate-progressive binary as category error; down-ballot systemic shifts
@@ -672,7 +672,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### Nonfiction Essays — DePIN & Crypto
 - [[DePIN More Than Hype]] — Introductory DePIN thesis; Datagram as flagship example
 - [[The DePIN Scam]] — "DePIN mullet" concept; 32-50% insider token allocations; Helium SEC enforcement; corporate theater as community governance
-- [[Everyone's Farming DePIN Tokens. Almost Nobody's Checking If the Hardware Exists.]] — Oracle problem and verification failure at scale; IO.net 98% GPU count collapse; Helium location spoofing
+- [[Everyone's Farming DePIN Tokens. Almost Nobody's Checking If the Hardware Exists]] — Oracle problem and verification failure at scale; IO.net 98% GPU count collapse; Helium location spoofing
 - [[Your $20K Entry Fee to the 'Decentralized' Internet]] — Gala Games capital-gating; worker co-op to whale club drift; $GSTAKE lending market
 - [[Datagram's $106M Launch]] — $106M first-day volume; stranded capacity thesis (80% of global compute idle); cloud oligopoly ($261B annual revenue)
 - [[Crypto Week Arrives]] — Bitcoin at ~$123K ATH; end of SEC enforcement era; legislative table-setting
@@ -699,7 +699,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Your iPhone Might Sue You Before You Understand What Rights Actually Mean]] — "Rights horizon" concept; rights expansion pattern; DABUS patent cases
 - [[The Nervous System of AI]] — GPT-5 architecture as neurodivergent cognition analogy; four techniques; "Octopus Mode" prompt
 - [[Google's Nano Banana Revolution]] — Gemini 2.5 Flash Image; identity persistence problem and "character state" solution
-- [[You Don't Need Better AI. You Need Better Add‑Ons.]] — Practical prompt enhancer library; two-enhancer rule; five worked examples
+- [[You Don't Need Better AI. You Need Better Add-Ons]] — Practical prompt enhancer library; two-enhancer rule; five worked examples
 - [[The Algorithmic Price Tag]] — AI dynamic pricing mechanics; Delta/Fetcherr $1B case study; digital redlining; regulatory gap
 - [[Eye-lind in the Son]] — Suno copyright filter defeated by phonetic spelling; compulsory mechanical license framework
 - [[ADHD in the Crossfire]] — DEA Aggregate Production Quotas creating artificial stimulant shortages; NSW/New Zealand reform as obvious model
@@ -724,12 +724,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### Nonfiction Essays — NFL & Sports
 - [[Schneider Solved the Salary Cap While Everyone Else Complained]] — Salary cap as optimization puzzle; Seahawks building dynasty through disciplined cap management
 - [[Bad Bunny Just Showed You Where Real Power Lives]] — NFL chose international revenue over domestic politics; fortress walls turned around
-- [[published/Game Theory Assumes You're a Sociopath. You're Not.]] — Focal point coordination; shared threats enable cooperation without enforcement
+- [[Game Theory Assumes You're a Sociopath. You're Not.]] — Focal point coordination; shared threats enable cooperation without enforcement
 - [[Nodes Over Numbers]] — Seahawks 31-49ers 27 NFC Championship; output ≠ outcome; six decision points that sealed the game
 - [[How to Solve a Rival in Three Games]] — Learning systems beat static systems; Seahawks adapted from Week 1 loss to playoff dominance
 - [[The Other One Who Became That Guy]] — Bob Weir's 60-year innovation in "rhythm guitar"; genius hidden in shadow
 - [[13-3 The Box Score That Ended the "Can Seattle's Defense Travel?" Debate]] — 49ers' 42.3 PPG December offense held to 3 points; systematic suffocation
-- [[Disguise and Destroy: The Macdonald Method That Broke NFL Offenses]] — Same 25th-ranked roster → 2nd-ranked through architectural changes
+- [[Disguise and Destroy The Macdonald Method That Broke NFL Offenses]] — Same 25th-ranked roster → 2nd-ranked through architectural changes
 
 ---
 

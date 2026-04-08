@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, health, politics, regulatory]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/The DEA's Manufactured Crisis.md"
 author: "William Dodson, MD, LF-APA"
 published: 2024-04-26

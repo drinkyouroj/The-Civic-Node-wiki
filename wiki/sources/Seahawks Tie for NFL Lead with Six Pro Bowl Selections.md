@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, pro-bowl, darnold, jsn, defense]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Seahawks Tie for NFL Lead with Six Pro Bowl Selections.md"
 author: "Mark Harris"
 published: 2025-12-24

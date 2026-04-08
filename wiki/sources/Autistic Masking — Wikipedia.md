@@ -4,7 +4,7 @@ type: source
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 6
 raw: "raw/Autistic masking - Wikipedia.md"
 author: "Wikipedia contributors"
 published: 2020-07-19

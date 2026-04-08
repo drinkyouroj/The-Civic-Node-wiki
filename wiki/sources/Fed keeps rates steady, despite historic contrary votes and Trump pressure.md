@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 7
 raw: "raw/Fed keeps rates steady, despite historic contrary votes and Trump pressure.md"
 author: "Associated Press"
 published: 2025-07-30

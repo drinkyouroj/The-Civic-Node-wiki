@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 4
 raw: "raw/US M2 Money Supply YoY (Monthly) - United States - Historic….md"
 author: ""
 published: 2026-03-24

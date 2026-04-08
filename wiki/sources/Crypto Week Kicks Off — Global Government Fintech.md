@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, legislation, geopolitics, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 8
 raw: "raw/'Crypto Week' kicks off in US with 'landmark' digital asset legislation on agenda.md"
 author: "Ian Hall"
 published: 2025-07-14

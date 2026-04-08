@@ -4,7 +4,7 @@ type: source
 tags: [politics, government-shutdown, infrastructure, regulatory-weaponization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/White House freezes $18 billion in New York City infrastructure funding.md"
 author: "Adam Edelman; Peter Alexander"
 published: 2025-10-01

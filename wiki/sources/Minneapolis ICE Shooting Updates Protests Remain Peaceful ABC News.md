@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, civil-rights, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 5
 raw: "raw/Minneapolis ICE shooting updates Protests remain peaceful despite arrests Officials.md"
 author: "ABC News; Emily Shapiro; Meredith Deliso; Ivan Pereira"
 published: 2026-01-13

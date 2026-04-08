@@ -26,7 +26,7 @@ SEC enforcement action as hook → "what DePIN was supposed to be" (the promise)
 - **Datagram as counter-example**: Nodes functional from day one (testable at demo.datagram.network), CEO Jason "BitBender" Brink learned from Gala Games failures, avoids the foundation-plus-labs structure.
 
 ## Connections
-- [[Datagram Network]] — positioned as the legitimate alternative to corporate DePIN theater
+- [[Datagram Network — Windows Setup]] — positioned as the legitimate alternative to corporate DePIN theater
 - [[Helium Network]] — primary case study for centralized control masquerading as decentralization
 - [[Filecoin]] — cited for 30% insider token allocation
 - [[Render Network]] — cited for 50%+ insider token allocation

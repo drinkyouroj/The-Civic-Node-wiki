@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, politics, antitrust, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 3
+sources: 10
 ---
 
 ## Overview
