@@ -20,6 +20,14 @@ The European Union is the 27-member political and economic bloc headquartered in
 - EU AI Office established to oversee AI Act implementation
 - Penalties: DMA violations up to 10% of global annual revenue; AI Act violations up to €35M or 7% of global revenue
 
+## MiCA and Stablecoin Regulation
+
+The EU was ahead of the U.S. on digital asset regulation through its Markets in Crypto-Assets (MiCA) framework.
+
+- **MiCA fully in force December 2024**: Comprehensive EU digital asset regulation covering crypto-asset service providers (CASPs), stablecoin issuers (EMT/ART), and market abuse rules. EU industry endorsed the CLARITY Act in part by citing MiCA as evidence that regulatory frameworks accelerate rather than stifle markets [[CLARITY Act Industry Support — House Financial Services Committee]].
+- **Comparability lever**: The GENIUS Act empowers the U.S. Treasury Secretary to determine whether a foreign country's stablecoin regulatory regime is "comparable" — making the EU's MiCA framework a geopolitical instrument. EU-based stablecoin issuers can operate in the U.S. if Treasury grants comparability, and vice versa [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]].
+- **Global regulatory race**: Multiple Crypto Week sources cited the EU's MiCA lead as a competitive threat justifying urgency of U.S. legislation. The CLARITY Act's House floor debate explicitly referenced MiCA as evidence that regulatory delay costs market share [[Crypto Week Kicks Off — Global Government Fintech]].
+
 ## Newsletter Relevance
 The EU is the primary state actor shaping global digital and AI governance. The "Brussels Effect" — where EU rules become de facto global standards because companies can't maintain two separate compliance regimes — means EU AI Act provisions are likely to influence US and global AI development even without US legislation. The EU's combination of AI Act + DMA + DSA is the most comprehensive digital regulatory package in the world.
 
@@ -50,7 +58,8 @@ Industry leaders (Coinbase, Kraken, CCI) cited EU's MiCA framework as proof the 
 - [[Apple Hit with EU Antitrust Complaint Over App Store Policies]] — DMA enforcement
 - [[Echo Chamber Research Systematic Review]] — DSA as research enabler
 - [[Crypto Week Kicks Off — Global Government Fintech]] — MiCA as comparable/competing framework to GENIUS Act
-- [[CLARITY Act Industry Support — House Financial Services Committee]] — EU cited as ahead on crypto regulation; argument for U.S. action
+- [[CLARITY Act Industry Support — House Financial Services Committee]] — EU cited as ahead on crypto regulation; MiCA cited as competitive pressure justifying U.S. legislation
+- [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]] — EU MiCA as model for Treasury comparability determination
 
 ## Open Questions
 - How effectively can the EU AI Office enforce the AI Act against US companies?

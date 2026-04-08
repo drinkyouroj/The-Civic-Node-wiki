@@ -43,6 +43,7 @@ International coverage of Crypto Week from Global Government Fintech, emphasizin
 - [[CLARITY Act]] — market structure legislation
 - [[CBDC]] — Anti-CBDC Act blocking retail CBDC
 - [[Stablecoin Legislation]] — global regulatory competition context
+- [[Crypto Week]] — the legislative sprint (July 14-18, 2025)
 
 ## Quotes
 

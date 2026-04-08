@@ -16,9 +16,9 @@ Representative Tom Emmer (R-MN) is the House Majority Whip and the lead sponsor 
 
 - U.S. Representative from Minnesota's 6th district; House Majority Whip.
 - Lead sponsor and primary champion of the Anti-CBDC Surveillance State Act (H.R. 1919) across multiple Congress sessions.
-- Signed legislation passed the House 219-210 on July 17, 2025, as part of Crypto Week.
+- Bill passed the House 219-210 on July 17, 2025, as part of Crypto Week.
 - Framing: CBDC as "Orwellian surveillance tool"; invoked China's digital yuan and Canada's 2022 trucker account freezes as examples.
-- Bill also prohibits the Fed from using any CBDC to implement monetary policy.
+- Bill prohibits the Fed from issuing a CBDC directly or via intermediaries; prevents Fed from using CBDC for monetary policy.
 - 135 House cosponsors for the Anti-CBDC Act.
 - Q2 2025 FEC disclosure: $827.5K raised; $3.8M cash on hand.
 - Bill supported by: American Bankers Association, Heritage Action, Club for Growth, Blockchain Association, Ripple, and others.
@@ -34,6 +34,7 @@ Emmer represents the libertarian-right coalition against government-controlled d
 - [[CLARITY Act]] — companion legislation; co-championed Crypto Week with Hill and Thompson
 - [[Donald Trump]] — Trump's January 2025 EO prohibited CBDC development; Emmer's bill codifies this
 - [[Federal Reserve]] — institution targeted by his legislation
+- [[French Hill]] — House leadership partner on Crypto Week
 
 ## Source Appearances
 
@@ -43,6 +44,6 @@ Emmer represents the libertarian-right coalition against government-controlled d
 
 ## Open Questions
 
-- Will the Anti-CBDC Act pass the Senate? The bill had not been considered in the Senate as of Crypto Week.
-- How does Emmer's anti-CBDC stance interact with the question of whether private stablecoins (Circle, Tether) are themselves surveillance tools via BSA/KYC?
+- Will the Anti-CBDC Act pass the Senate? Not yet considered as of Crypto Week.
+- How does Emmer's anti-CBDC stance interact with the fact that private stablecoins (Circle, Tether) also surveil users via BSA/KYC?
 - Does banking industry support (ABA, ICBA) for the Anti-CBDC Act reflect genuine privacy concerns or strategic opposition to government competition with private banks?

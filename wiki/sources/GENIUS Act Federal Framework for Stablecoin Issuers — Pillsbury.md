@@ -12,22 +12,20 @@ published: 2025-07-02
 
 ## Summary
 
-Pillsbury Winthrop law firm analysis of the GENIUS Act post-Senate passage but pre-House vote (written June 18-20, 2025 timeframe). Covers issuer eligibility, reserve requirements, regulatory oversight structure, consumer protections, and compliance obligations. Notes Circle's IPO on NYSE as signal of stablecoin market legitimacy.
+Pillsbury Winthrop law firm analysis of the GENIUS Act post-Senate passage (June 18, 2025) but pre-House vote. Covers issuer eligibility, reserve requirements, regulatory oversight structure, consumer protections, and compliance obligations. Notes Circle's NYSE IPO as signal of stablecoin market legitimacy. VP Vance endorsement included.
 
 ## Key Points
 
 - Written after Senate passage (68 senators in favor); pre-House vote — useful for "what changed in the House" analysis.
 - Circle's NYSE IPO highlighted as a "pivotal moment for the stablecoin industry."
 - VP Vance quoted at 2025 Bitcoin Conference: GENIUS Act will "vastly expand the use of stablecoins as a payment system."
-- Entities excluded from PPSI: fintech startups, DAOs, decentralized protocols — can't issue "permitted payment stablecoins" under GENIUS framework.
+- Entities excluded from PPSI: fintech startups, DAOs, decentralized protocols — cannot issue "permitted payment stablecoins."
 - Reserve requirements: fully collateralized; public transparency; monthly disclosure.
 - Tiered oversight: federal authority for larger issuers; state regulators for under-$10B.
 - BSA/AML designation: full compliance with Bank Secrecy Act required.
-- Key compliance areas: issuer eligibility, reserve management, regulatory supervision, third-party risk oversight.
 
 ## Newsletter Angles
 
-- Pre-House analysis captures what the bill was before any House modifications — useful for comparing Senate vs. final law.
 - DAOs and decentralized protocols cannot be PPSIs — the GENIUS Act explicitly excludes them from regulated stablecoin issuance.
 - VP Vance endorsement shows full executive branch alignment.
 - Circle's NYSE IPO as "pivotal moment" — market voted on regulatory clarity before law was signed.
@@ -41,7 +39,8 @@ Pillsbury Winthrop law firm analysis of the GENIUS Act post-Senate passage but p
 - [[GENIUS Act]] — full framework; Senate version
 - [[Stablecoin Legislation]] — legislative history
 - [[Tokenomics]] — DAOs excluded from PPSI framework; relevant for decentralized token issuance
+- [[Crypto Week]] — legislative context
 
 ## Notes
 
-Pre-House vote analysis; useful for legislative history. Pillsbury is a major law firm. The DAO/decentralized protocol exclusion is an important detail for DePIN/DeFi newsletter angles.
+Pre-House vote analysis; useful for legislative history. The DAO/decentralized protocol exclusion is an important detail for DePIN/DeFi newsletter angles.

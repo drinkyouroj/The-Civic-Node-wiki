@@ -39,6 +39,7 @@ Investigative journalism outlet Sludge covers Crypto Week from a skeptical "foll
 - [[CLARITY Act]] — market structure; skeptical framing
 - [[Regulatory Weaponization]] — reversed here: deregulation as weapon against existing investor protections
 - [[Platform Antitrust]] — relevant given SEC's diminished role
+- [[Crypto Week]] — the legislative sprint
 
 ## Quotes
 

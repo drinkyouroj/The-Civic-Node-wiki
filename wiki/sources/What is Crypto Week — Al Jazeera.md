@@ -25,7 +25,6 @@ International news coverage of Crypto Week from Al Jazeera, providing global con
 - Trump's conflicts: World Liberty Financial earned him $57M; $TRUMP and $Melania meme coins; Trump Media filed to launch "Crypto Blue-Chip ETF."
 - Trump accepted crypto donations during 2024 campaign — first major-party presidential candidate to do so.
 - Crypto spent "nearly a quarter of a billion dollars" in 2024 elections.
-- Anti-CBDC Act criticized as solving a non-problem: Fed hasn't expressed desire for CBDC.
 
 ## Newsletter Angles
 
@@ -45,6 +44,7 @@ International news coverage of Crypto Week from Al Jazeera, providing global con
 - [[CLARITY Act]] — market structure
 - [[CBDC]] — Anti-CBDC Act
 - [[Regulatory Weaponization]] — Trump family financial interests in legislation
+- [[Crypto Week]] — the legislative sprint
 
 ## Quotes
 
@@ -52,4 +52,4 @@ International news coverage of Crypto Week from Al Jazeera, providing global con
 
 ## Notes
 
-International perspective from Al Jazeera adds non-U.S. framing. The Bitcoin price history ($0.004 to $122,055) is useful for newsletter context. Key data points: $3.8T total crypto market, $122,055 BTC record, Warren's anti-corruption framing.
+International perspective from Al Jazeera. Key data points: $3.8T total crypto market, $122,055 BTC record, Warren's anti-corruption framing.

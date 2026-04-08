@@ -15,10 +15,10 @@ David Sacks is a venture capitalist and former PayPal executive appointed by Pre
 ## Key Facts
 
 - Title: Special Advisor for AI and Crypto; chairs President's Working Group on Digital Asset Markets.
-- Former: Thiel Capital (COO), PayPal (COO under Elon Musk), founder of Yammer (sold to Microsoft for $1.2B), founding partner of Craft Ventures.
-- Key figure in the Silicon Valley "PayPal Mafia" — network that includes Elon Musk, Peter Thiel, Reid Hoffman.
-- Tweet cited in PYMNTS Crypto Week coverage: Bo Hines (his office) — "GENIUS heads to the President's desk. CLARITY moves to the Senate."
-- Participated in February 4, 2025 press conference with Congressional leadership and Chairmen Hill/Thompson/Scott/Boozman on crypto legislative working group.
+- Former: PayPal (COO under Elon Musk), founder of Yammer (sold to Microsoft for $1.2B), founding partner of Craft Ventures.
+- Key figure in the Silicon Valley "PayPal Mafia" — network including Elon Musk, Peter Thiel, Reid Hoffman.
+- Working Group coordinates executive branch crypto regulatory agenda; includes Treasury, DOJ, SEC, CFTC chairs.
+- Participated in February 4, 2025 press conference with Congressional leadership and Hill/Thompson/Scott/Boozman on crypto legislative working group.
 
 ## Newsletter Relevance
 

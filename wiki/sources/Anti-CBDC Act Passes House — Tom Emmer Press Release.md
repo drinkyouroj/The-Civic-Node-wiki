@@ -23,12 +23,12 @@ Official press release from House Majority Whip Tom Emmer (R-MN) on the passage 
 - Emmer's China framing: "The Chinese Communist Party employs a CBDC that is being used to monitor and restrict citizens' spending" and develop a social credit system.
 - Canada trucker framing: Trudeau's 2022 freezing of trucker bank accounts cited as proof CBDCs could be weaponized.
 - Biden Administration framed as having actively pursued a CBDC — 2022 EO "placed urgency on CBDC research and development."
-- Supported by: ABA, American Bankers Association, Heritage Action, Club for Growth, Blockchain Association, Ripple, and others (extensive list).
+- Supported by: ABA, Heritage Action, Club for Growth, Blockchain Association, Ripple, and others.
 - Emmer has championed this since the 117th Congress.
 
 ## Newsletter Angles
 
-- The 219-210 vote is telling: this is the most partisan of the three Crypto Week bills. GENIUS got 68-30 in Senate; CLARITY got 294-134 in House.
+- The 219-210 vote is telling: this is the most partisan of the three Crypto Week bills.
 - The China/Canada framing is the core rhetorical move — CBDC = surveillance state. Worth unpacking: does the U.S. private stablecoin system actually solve these concerns?
 - Banking industry support (ABA, ICBA) is notable — banks benefit if government doesn't issue competing digital currency.
 
@@ -36,6 +36,7 @@ Official press release from House Majority Whip Tom Emmer (R-MN) on the passage 
 
 - [[Donald Trump]] — EO being codified into law
 - [[Federal Reserve]] — prohibited from CBDC issuance
+- [[Tom Emmer]] — bill sponsor; full floor remarks included
 - [[Circle]] — implied private sector alternative to CBDC
 
 ## Concepts Mentioned
@@ -44,6 +45,7 @@ Official press release from House Majority Whip Tom Emmer (R-MN) on the passage 
 - [[Regulatory Weaponization]] — argument that CBDC would be government financial surveillance weapon
 - [[GENIUS Act]] — companion legislation (same week)
 - [[Stablecoin Legislation]] — private alternative to what CBDC would have done
+- [[Crypto Week]] — the legislative sprint
 
 ## Quotes
 
@@ -53,4 +55,4 @@ Official press release from House Majority Whip Tom Emmer (R-MN) on the passage 
 
 ## Notes
 
-Primary source; Emmer's full floor remarks are substantive. The partisan vote (219-210) vs. the bipartisan GENIUS Act vote (68-30 in Senate) is an important data point. The banking industry support list signals who benefits from CBDC prohibition.
+Primary source; Emmer's full floor remarks are substantive. The partisan vote (219-210) vs. the bipartisan GENIUS Act vote (68-30 in Senate) is an important data point.

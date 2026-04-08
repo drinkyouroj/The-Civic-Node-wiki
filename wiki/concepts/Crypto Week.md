@@ -54,7 +54,7 @@ The legislative rationale for all three bills was ending "regulation by enforcem
 ## Executive-Legislative Coordination
 
 Crypto Week was the culmination of a coordinated executive-legislative campaign:
-1. **January 23, 2025**: Trump signs EO revoking Biden crypto EO; prohibits CBDC development; creates President's Working Group on Digital Asset Markets.
+1. **January 23, 2025**: Trump signs EO revoking Biden crypto EO; prohibits CBDC development; creates President's Working Group on Digital Asset Markets (chaired by [[David Sacks]]).
 2. **March 28, 2025**: FDIC rescinds prior-approval requirement for bank crypto activities.
 3. **April 4, 2025**: SEC Corp Fin declares covered stablecoins are not securities.
 4. **April 25, 2025**: SEC Chair Atkins first public remarks signaling regulatory reform.
@@ -65,15 +65,15 @@ Crypto Week was the culmination of a coordinated executive-legislative campaign:
 
 ## Global Implications
 
-U.S. crypto legislation sets the global standard. EU MiCA (in force December 2024) provides a comparable framework; UK is now drafting crypto regulations. UK industry figures described U.S. crypto policy as "making the weather." The Treasury's ability to determine whether foreign stablecoin regimes are "comparable" to GENIUS Act standards gives the U.S. a geopolitical lever in digital finance.
+U.S. crypto legislation sets the global standard. EU [[MiCA]] (in force December 2024) provides a comparable framework; UK is now drafting crypto regulations. UK industry figures described U.S. crypto policy as "making the weather." The Treasury's ability to determine whether foreign stablecoin regimes are "comparable" to GENIUS Act standards gives the U.S. a geopolitical lever in digital finance.
 
 ## Tensions & Counterarguments
 
 - **Consumer protection**: Critics (AFR, Consumer Reports) argue all three bills reduce investor protections relative to existing law.
 - **Regulatory arbitrage**: CLARITY Act could enable traditional finance to reorganize onto blockchain to escape SEC oversight.
 - **Corruption risk**: Trump's family financial interests (World Liberty Financial, $TRUMP meme coin, Trump Media crypto ETF) are in direct conflict with legislation he championed.
-- **CBDC problem**: Anti-CBDC Act prohibits something the Fed wasn't pursuing; critics call it solving a non-problem.
-- **Tether loophole**: GENIUS Act's foreign issuer framework may not effectively constrain Tether.
+- **CBDC non-problem**: Anti-CBDC Act prohibits something the Fed wasn't pursuing.
+- **Tether loophole**: GENIUS Act's foreign issuer framework may not effectively constrain [[Tether]].
 - **Bailout risk**: Stablecoin insolvency priority rules set up potential future government bailout (per Georgetown's Adam Levitin).
 
 ## Related Concepts
@@ -99,3 +99,4 @@ U.S. crypto legislation sets the global standard. EU MiCA (in force December 202
 - [[Securities Enforcement Roundup April 2025 — Morgan Lewis]]
 - [[What is Crypto Week — Al Jazeera]]
 - [[Congress Advances Crypto Bills — StratNews Global]]
+- [[FDIC Clarifies Crypto Activities for Banks — FDIC.gov]]

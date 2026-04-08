@@ -51,4 +51,4 @@ Consumer Reports press release criticizing the CLARITY Act on the day of House p
 
 ## Notes
 
-Consumer Reports is widely perceived as neutral and credible. This is more useful for newsletter balance than AFR's critique (which is explicitly progressive). The specific gap about potential impact on the $120T securities market is the most significant analytical point.
+Consumer Reports is widely perceived as neutral and credible. The specific gap about potential impact on the $120T securities market is the most significant analytical point.

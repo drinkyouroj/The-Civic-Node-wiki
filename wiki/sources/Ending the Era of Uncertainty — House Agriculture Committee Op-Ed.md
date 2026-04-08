@@ -33,7 +33,8 @@ Official op-ed from House Financial Services Committee Chairman French Hill (R-A
 
 - [[Donald Trump]] — legislation framed as fulfilling his campaign promises
 - [[Bill Hagerty]] — credited as GENIUS Act sponsor
-- [[Cynthia Lummis]] — mentioned implicitly as Senate partner
+- [[French Hill]] — co-author
+- [[Tom Emmer]] — Anti-CBDC Act sponsor
 
 ## Concepts Mentioned
 
@@ -41,6 +42,7 @@ Official op-ed from House Financial Services Committee Chairman French Hill (R-A
 - [[CLARITY Act]] — market structure (centerpiece)
 - [[CBDC]] — Anti-CBDC Act (Tom Emmer)
 - [[Regulatory Weaponization]] — Biden SEC "regulation by enforcement" framing
+- [[Crypto Week]] — the legislative sprint
 
 ## Notes
 

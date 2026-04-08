@@ -12,30 +12,26 @@ published: 2025-07-18
 
 ## Summary
 
-Gibson Dunn client alert on the GENIUS Act as "the most significant United States law affecting the digital assets industry to date." Includes Q&A format covering coverage, issuer eligibility, requirements, foreign issuer treatment, and extraterritorial reach. Notes Senate vote (68-30) and House vote (308-122).
+Gibson Dunn client alert on the GENIUS Act as "the most significant United States law affecting the digital assets industry to date." Includes Q&A format covering coverage, issuer eligibility, requirements, foreign issuer treatment, and extraterritorial reach. Confirms Senate vote (68-30) and House vote (308-122).
 
 ## Key Points
 
 - Senate passed GENIUS Act 68-30 on June 17, 2025.
 - House passed GENIUS Act 308-122 on July 17, 2025 (strong bipartisan majority).
-- Payment stablecoin definition: digital asset (1) designed for payment/settlement, AND (2) issuer obligated to 1:1 redemption at fixed monetary value, AND (3) issuer represents stable value.
-- Three PPSI categories: bank subsidiary, federal OCC-approved entity, state-regulated under $10B.
-- "Stablecoin Certification Review Committee" (SCRC): Treasury Secretary + Fed Chair/Vice Chair for Supervision + FDIC Chair. Handles state regime certifications and public company exceptions.
+- Stablecoin Certification Review Committee (SCRC): Treasury Secretary + Fed Chair/Vice Chair for Supervision + FDIC Chair; handles state regime certifications and public company exceptions.
 - SCRC must unanimously approve or deny state certifications within 30 days.
 - Activity limits for PPSIs: issue/redeem stablecoins; manage reserves; provide custody/safekeeping; incidental activities with regulator approval only.
-- Reserve composition: cash, Fed credits, bank deposits, short-term Treasuries, overnight repos, money market funds, tokenized forms.
 - BSA/AML designation: stablecoin issuers are "financial institutions" under Bank Secrecy Act.
 - Foreign issuer standards for comparability not defined in the Act — Treasury determines.
-- Non-compliant stablecoin (not from PPSI): cannot be used as cash/cash-equivalent for accounting, margin, collateral, or wholesale settlement.
+- Non-compliant stablecoin: cannot be used as cash/cash-equivalent for accounting, margin, collateral, or wholesale settlement.
 - Extraterritorial effect: law seeks to prohibit offering/selling to U.S. persons even when conducted outside the U.S.
 - Effective date: January 18, 2027 or 120 days post-final-rules.
 
 ## Newsletter Angles
 
-- 308-122 House vote is notable — that's not a narrow partisan win. Significant Democratic support.
-- The "Treasury determines comparability" for foreign issuers is essentially a geopolitical lever — U.S. Treasury can sanction or bless foreign stablecoin regimes.
-- Non-compliant stablecoins excluded from wholesale settlement between banks — this is the mechanism by which banks will eventually be forced to prefer compliant stablecoins.
-- The Stablecoin Certification Review Committee is an interesting new governance body — Treasury chair plus Fed and FDIC.
+- 308-122 House vote is notable — significant Democratic support.
+- "Treasury determines comparability" for foreign issuers is essentially a geopolitical lever — U.S. Treasury can sanction or bless foreign stablecoin regimes.
+- Non-compliant stablecoins excluded from wholesale settlement between banks — the mechanism by which banks will eventually be forced to prefer compliant stablecoins.
 
 ## Entities Mentioned
 
@@ -49,6 +45,7 @@ Gibson Dunn client alert on the GENIUS Act as "the most significant United State
 - [[GENIUS Act]] — subject; vote counts confirmed
 - [[Stablecoin Legislation]] — full framework
 - [[Petrodollar System]] — dollar stablecoin hegemony analog
+- [[Crypto Week]] — legislative context
 
 ## Notes
 

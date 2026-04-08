@@ -23,7 +23,6 @@ Critical fact sheet from Americans for Financial Reform (progressive consumer ad
 - "Creates the mirage of SEC oversight over crypto securities, but does not offer substantive, real oversight."
 - Venture capital funds that are early investors in crypto firms are the primary beneficiaries.
 - CFTC is characterized as under-resourced vs. SEC — moving oversight to CFTC is a regulatory downgrade.
-- DeFi characterized as "replete with risks" including cyberattacks, illicit finance, exploitative products.
 
 ## Newsletter Angles
 
@@ -49,4 +48,4 @@ Critical fact sheet from Americans for Financial Reform (progressive consumer ad
 
 ## Notes
 
-Progressive advocacy source; explicitly adversarial to CLARITY Act. Bias toward more regulation. The specific critiques about DeFi, meme coins/NFTs, and disclosure loopholes are factually specific and worth tracking against what the industry says. Counterpoint to the House Financial Services "What They Are Saying" source.
+Progressive advocacy source; explicitly adversarial to CLARITY Act. Bias toward more regulation. The specific critiques about DeFi, meme coins/NFTs, and disclosure loopholes are factually specific and worth tracking against what the industry says.

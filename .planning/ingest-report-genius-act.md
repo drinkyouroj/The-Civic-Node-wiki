@@ -1,20 +1,14 @@
 # Ingest Report: GENIUS Act / CLARITY Act / Crypto Week Cluster
 
 **Date**: 2026-04-07
-**Agent**: wiki-ingest-agent (claude-sonnet-4-6)
-**Raw files processed**: 26 (24 substantive + 2 near-duplicates/noise skipped)
+**Agent**: agent-a0b77283
+**Cluster**: Crypto regulation — GENIUS Act, CLARITY Act, Anti-CBDC Act, Crypto Week
 
 ---
 
-## Files Skipped / Minimal Treatment
+## Files Processed
 
-- `How stablecoins could affect borrowing costs for the government, businesses and households ABA Banking Journal.md` — File contained only unrelated content (ISM Services Index, tax refunds); no stablecoin content. **Skipped** (noise).
-- `Press Release House Passes Anti-CBDC Surveillance State Act Sponsored by Majority Whip Tom Emmer.md` (Nasdaq) — Near-duplicate of Emmer official press release; one added data point (fundraising data) but substantially same content. Noted in existing source page.
-- `The Hill Ending the Era of Uncertainty Congress Delivers for Crypto.md` — Near-duplicate of Agriculture Committee op-ed. Content substantially identical; referenced in main op-ed source page.
-
----
-
-## Source Pages Created (21 new)
+### Source Pages Created (23 total)
 
 1. `wiki/sources/Crypto Week Policy Playbook for CFOs — PYMNTS.md`
 2. `wiki/sources/Crypto Week Kicks Off — Global Government Fintech.md`
@@ -40,53 +34,61 @@
 22. `wiki/sources/Securities Enforcement Roundup April 2025 — Morgan Lewis.md`
 23. `wiki/sources/CLARITY Act One-Pager — House Financial Services Committee.md`
 
----
+### Files Skipped as Noise (3)
 
-## Entity Pages Created (3 new)
+- ABA Banking Journal — wrong content (ISM Services Index data, tax refunds)
+- Nasdaq press release — duplicate of Emmer press release
+- The Hill op-ed — duplicate of Agriculture Committee op-ed
 
-1. `wiki/entities/Tom Emmer.md` — House Majority Whip; Anti-CBDC Act sponsor
-2. `wiki/entities/French Hill.md` — House Financial Services Chair; CLARITY Act sponsor
-3. `wiki/entities/David Sacks.md` — "AI and Crypto Czar"; chairs President's Working Group on Digital Asset Markets
+### Entity Pages Created (3)
 
----
+- `wiki/entities/Tom Emmer.md` — House Majority Whip; Anti-CBDC Act sponsor; 219-210 vote
+- `wiki/entities/French Hill.md` — House Financial Services Chair; CLARITY Act architect; 294-134 passage
+- `wiki/entities/David Sacks.md` — "AI and Crypto Czar"; chairs President's Working Group; PayPal Mafia background
 
-## Concept Pages Created (1 new)
+### Concept Pages Created (1)
 
-1. `wiki/concepts/Crypto Week.md` — Comprehensive synthesis concept covering the July 14-18 legislative package
+- `wiki/concepts/Crypto Week.md` — comprehensive synthesis of the July 14-18, 2025 legislative sprint; all three bills; partisan gradients; executive-legislative coordination timeline
 
----
+### Entity Pages Updated (7)
 
-## Existing Pages Updated (8)
+- `wiki/entities/Circle.md` — sources 2→5; 3 new source appearances
+- `wiki/entities/Tether.md` — sources 2→4; 3 new source appearances (non-cash reserves, GENIUS Act foreign issuer framework)
+- `wiki/entities/Bill Hagerty.md` — sources 2→5; 3 new source appearances
+- `wiki/entities/Cynthia Lummis.md` — sources 2→5; 3 new source appearances (Wyoming Stable Token, additional quotes)
+- `wiki/entities/Donald Trump.md` — sources 25→32; added Crypto Conflicts of Interest section ($57M WLF, meme coins, ETF, USD1); added Crypto Policy Actions section (Jan 23 EO, GENIUS Act signing)
+- `wiki/entities/Federal Reserve.md` — sources 14→17; added Crypto Week Role section (excluded from oversight, Fed account access gap, CBDC prohibition, monetary policy implications)
+- `wiki/entities/European Union.md` — sources 3→5; added MiCA and Stablecoin Regulation section (MiCA in force Dec 2024, comparability lever, global regulatory race)
 
-### Concept pages
-- `wiki/concepts/GENIUS Act.md` — sources: 8→16; added vote counts (308-122 House), SCRC details, bailout risk (Levitin), Fed account access gap, executive EO foundation, new sources
-- `wiki/concepts/CLARITY Act.md` — sources: 2→9; added House passage details (294-134), ethics provision gap (Sec. 111 covers commodities not stablecoins), meme coin/NFT "tradable asset" category, systemic risk concern
-- `wiki/concepts/CBDC.md` — sources: 3→7; added Anti-CBDC Act vote (219-210), Emmer's floor rhetoric (China/Canada), "non-problem" argument, White House SAP language
-- `wiki/concepts/Stablecoin Legislation.md` — sources: 6→14; added corporate adoption horizon (BofA, Walmart, Amazon), FDIC pre-legislation groundwork, SEC pre-legislation stablecoin non-security statement, bailout risk (Levitin)
+### Concept Pages Updated (4)
 
-### Entity pages
-- `wiki/entities/Circle.md` — sources: 2→5; NYSE IPO detail, contrast with Tether
-- `wiki/entities/Tether.md` — sources: 2→4; non-cash reserves detail (Bitcoin, gold), GENIUS Act foreign issuer framework
-- `wiki/entities/Bill Hagerty.md` — sources: 2→5; additional source appearances
-- `wiki/entities/Cynthia Lummis.md` — sources: 2→5; Wyoming Stable Token detail, additional appearances
-- `wiki/entities/Donald Trump.md` — sources: 25→32 (linter updated); added Crypto Conflicts section ($57M World Liberty, $TRUMP, $Melania, ETF filing), crypto policy actions
-- `wiki/entities/Federal Reserve.md` — added Crypto Week Role section (excluded from stablecoin oversight; GENIUS Act account access gap; CBDC prohibition)
-- `wiki/entities/European Union.md` — sources: 3→5; added MiCA section; comparability determination lever
+- `wiki/concepts/GENIUS Act.md` — sources 8→16; added vote counts, SCRC governance body, bailout risk, Fed account access gap, executive EO foundation
+- `wiki/concepts/CLARITY Act.md` — sources 2→9; added House passage details, ethics provision gap (Sec. 111), meme coin "tradable asset" category, systemic risk concern
+- `wiki/concepts/CBDC.md` — sources 3→7; added Anti-CBDC Act passage details (219-210), Emmer's framing moves, non-problem argument
+- `wiki/concepts/Stablecoin Legislation.md` — sources 6→14; added corporate adoption horizon, FDIC pre-legislation groundwork, SEC stablecoin statement, bailout risk
 
 ---
 
 ## Key Analytical Findings
 
-1. **Partisan gradient**: The more "freedom from government surveillance" a bill is, the more partisan: GENIUS Act (most bipartisan) → CLARITY Act → Anti-CBDC Act (most partisan).
-2. **Bailout risk is undercovered**: Georgetown's Levitin argument that GENIUS Act insolvency priority creates implicit government bailout guarantee is analytically significant and not in mainstream coverage.
-3. **Ethics provision gap**: CLARITY Act's Sec. 111 prohibits officials from issuing "digital commodities" — not stablecoins. Trump's USD1 is a stablecoin. The gap is real.
-4. **Fed exclusion from stablecoin oversight + no Fed account access resolution**: The GENIUS Act creates a parallel dollar system outside Fed's traditional monetary policy transmission mechanism.
-5. **CBDC: solving a non-problem**: The Fed had not pursued CBDC development; the Anti-CBDC Act prohibits something that wasn't happening. Multiple sources confirm.
-6. **Executive-legislative coordination**: FDIC (March 2025), SEC (April 2025), Trump EO (January 2025) all preceded and enabled Crypto Week legislation. Not rushed — coordinated.
-7. **Global regulatory competition as political justification**: "EU/Singapore/Japan are ahead" is the consistent industry framing; MiCA comparability determinations give Treasury a geopolitical lever.
+1. **Partisan gradient**: The three Crypto Week bills became progressively more partisan in order of controversy. GENIUS Act (68-30 Senate bipartisan) → CLARITY Act (294-134, moderate D support) → Anti-CBDC Act (219-210, nearly party-line). This gradient maps onto actual regulatory stakes — stablecoins had the broadest consensus; government CBDC prohibition was the most partisan.
+
+2. **Executive-legislative coordination timeline**: The Crypto Week bills did not emerge organically. The sequence — Trump EO (Jan 23) → FDIC rescinds prior-approval requirement (Mar 28) → SEC Corp Fin non-security statement (Apr 4) → Crypto Week (Jul 14-18) — is a coordinated regulatory reset executed in parallel tracks over 6 months.
+
+3. **Levitin bailout risk argument**: Georgetown's Adam Levitin identified that the GENIUS Act's insolvency priority reform (stablecoin holders first) sets up a de facto government guarantee. When a stablecoin fails (as TerraUSD did 2022), the priority structure creates moral hazard and eventual pressure for a bailout. This is the clearest structural critique in the sources.
+
+4. **Ethics provision gap (Sec. 111)**: The CLARITY Act's ethics provision prohibits officials from issuing "digital commodities" — not stablecoins. Trump's USD1 (World Liberty Financial) is a stablecoin. The ethics prohibition does not cover the president's most direct crypto conflict of interest.
+
+5. **Fed exclusion + account access gap**: The GENIUS Act assigned stablecoin oversight to OCC/FDIC/state regulators and excluded the Fed from primary oversight. Additionally, the Act does not grant stablecoin issuers access to Fed master accounts — meaning reserves must be held through commercial banks, not in central bank money. Sidley Austin flagged this as a major gap.
+
+6. **Anti-CBDC solving a non-problem**: Multiple sources confirm the Federal Reserve had not expressed any desire to issue a retail CBDC. The Anti-CBDC Act codifies a prohibition against something that wasn't happening. Supporters argue this prevents future administrations from pursuing it; critics call it performative.
+
+7. **Global regulatory competition as political cover**: Multiple Crypto Week sources (House Financial Services press release, industry endorsements, Agriculture Committee op-ed) cited EU MiCA and Asian CBDC programs as justification for urgency. The "America First" framing in digital assets explicitly reframes deregulation as competitive necessity.
 
 ---
 
-## Files NOT Processed
+## Pages to Update Next (Not Covered This Cluster)
 
-None (all 26 raw files were read; 3 had near-duplicate or noise content and were handled accordingly).
+- `wiki/entities/Jerome Powell.md` — should note the Fed account access gap and CBDC prohibition in relation to his institution's crypto-era constraints
+- `wiki/concepts/Regulatory Weaponization.md` — the "regulation by enforcement" frame used by crypto industry to characterize Biden-era SEC policy fits this concept
+- `wiki/syntheses/` — the ethics provision gap (Sec. 111 vs. stablecoins) is strong synthesis material for a newsletter piece on Trump crypto conflicts

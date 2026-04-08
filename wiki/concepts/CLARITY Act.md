@@ -70,7 +70,7 @@ The CLARITY Act creates a new "tradable asset" category for digital assets that 
 
 ## Systemic Risk Concern
 
-Consumer Reports (July 2025) raised a significant concern: the CLARITY Act could allow traditional financial companies to reorganize operations onto blockchain to escape SEC oversight — using the CFTC's lighter touch. Georgetown law professor Amanda Fischer: "This bill's regulatory gaps will not be quarantined to crypto."
+Consumer Reports (July 2025) raised a significant concern: the CLARITY Act could allow traditional financial companies to reorganize operations onto blockchain to escape SEC oversight — using the CFTC's lighter touch. Georgetown law professor Amanda Fischer (former Gensler chief of staff): "This bill's regulatory gaps will not be quarantined to crypto."
 
 ## Key Sources
 

@@ -12,31 +12,32 @@ published: 2025-07-15
 
 ## Summary
 
-Official White House Statement of Administration Policy (SAP) on H.R. 1919, the Anti-CBDC Surveillance State Act. Dated July 15, 2025. The Administration "strongly supports" passage and recommends the President sign it. One-page document.
+Official White House Statement of Administration Policy (SAP) on H.R. 1919, the Anti-CBDC Surveillance State Act. Dated July 15, 2025. The Administration "strongly supports" passage and recommends the President sign it.
 
 ## Key Points
 
 - Administration "strongly supports" the Anti-CBDC Surveillance State Act.
 - Framing: "protects the financial privacy and constitutional liberties of every American."
-- Explicit: "The United States will never allow the creation of a central bank digital currency that could be used to surveil, control, or deplatform American citizens."
+- "The United States will never allow the creation of a central bank digital currency that could be used to surveil, control, or deplatform American citizens."
 - Bill prohibits Fed from developing or issuing a CBDC without explicit Congressional authorization.
 - "Financial freedom is non-negotiable."
 - President's advisors would recommend he sign the bill.
 
 ## Newsletter Angles
 
-- The SAP language is notable for its absolutism: "never allow" and "financial freedom is non-negotiable." This is the formal executive branch position codified.
-- "Deplatform" is interesting word choice — frames CBDC as censorship tool, linking financial surveillance to social media deplatforming debates.
+- The SAP language is notable for its absolutism: "never allow" and "financial freedom is non-negotiable."
+- "Deplatform" is an interesting word choice — frames CBDC as censorship tool, linking financial surveillance to social media deplatforming debates.
 
 ## Entities Mentioned
 
 - [[Donald Trump]] — Administration's position
-- [[Federal Reserve]] — explicitly prohibited
+- [[Federal Reserve]] — explicitly prohibited from CBDC
 
 ## Concepts Mentioned
 
 - [[CBDC]] — prohibited; framed as surveillance tool
 - [[Regulatory Weaponization]] — CBDC framed as government weaponizing digital money against citizens
+- [[Crypto Week]] — legislative context
 
 ## Notes
 

@@ -42,6 +42,7 @@ PYMNTS explains the Crypto Week legislative package (GENIUS Act, CLARITY Act, An
 - [[CLARITY Act]] — market structure regulation
 - [[CBDC]] — blocked by Anti-CBDC Act
 - [[Stablecoin Legislation]] — broader legislative context
+- [[Crypto Week]] — the legislative sprint (July 14-18, 2025)
 
 ## Quotes
 

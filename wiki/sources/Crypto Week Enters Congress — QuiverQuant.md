@@ -43,6 +43,7 @@ Market-oriented summary of Crypto Week legislative package with balanced bull/be
 - [[CBDC]] — government digital dollar ban
 - [[Stablecoin Legislation]] — broader context
 - [[Regulatory Weaponization]] — Biden-era SEC enforcement by lawsuit
+- [[Crypto Week]] — the legislative sprint
 
 ## Notes
 

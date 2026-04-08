@@ -37,6 +37,8 @@ Official House Financial Services Committee press release announcing Crypto Week
 - [[Bill Hagerty]] — Senate sponsor, GENIUS Act; quoted
 - [[Cynthia Lummis]] — Senate champion, crypto week; quoted
 - [[Donald Trump]] — referenced throughout as driving agenda
+- [[French Hill]] — Committee chairman; co-announced Crypto Week
+- [[Tom Emmer]] — Majority Whip; quoted
 
 ## Concepts Mentioned
 
@@ -44,6 +46,7 @@ Official House Financial Services Committee press release announcing Crypto Week
 - [[CLARITY Act]] — market structure bill
 - [[CBDC]] — Anti-CBDC Act
 - [[Stablecoin Legislation]] — legislative background
+- [[Crypto Week]] — the legislative sprint
 
 ## Notes
 

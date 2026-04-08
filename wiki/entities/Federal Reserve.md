@@ -36,6 +36,15 @@ The Federal Reserve (the Fed) is the central bank of the United States, created 
 
 **Historical context**: The Fed was originally designed to break the cycle of politically driven panics. Every major challenge to its independence — Nixon/Burns, Reagan/Volcker, Trump I/II — has tested whether that design holds.
 
+## Crypto Week Role (2025)
+
+The GENIUS Act and Crypto Week legislation significantly shaped the Fed's regulatory perimeter — in ways that reduced its authority.
+
+- **Excluded from stablecoin oversight**: The GENIUS Act assigned stablecoin oversight to the OCC, FDIC, and state banking regulators — not the Fed. The Fed's role is limited to consultative membership on the Stablecoin Certification Review Committee (SCRC), a Treasury-chaired governance body that must approve state-level stablecoin issuers scaling past $10B [[GENIUS Act Comprehensive Framework — Goodwin Law]].
+- **Fed account access gap**: The GENIUS Act does not grant stablecoin issuers access to Federal Reserve master accounts. This is a significant gap: without Fed accounts, stablecoin issuers cannot settle directly in central bank money; they must hold reserves through commercial banks. Sidley Austin flagged this as a material unresolved issue [[GENIUS Act Framework — Sidley Austin]].
+- **CBDC prohibition**: Trump's January 23 EO directed the Fed never to issue a retail CBDC. The Anti-CBDC Surveillance State Act (H.R. 1919, passed July 17, 2025, 219-210) codified this prohibition as statute. Multiple sources note the Fed had never expressed desire to issue a CBDC — the prohibition preempts a non-existent initiative [[CBDC — Central Bank Digital Currency Tracker]].
+- **Stablecoin monetary policy interaction**: At multi-trillion scale, stablecoin reserve requirements (100% liquid U.S. assets) would create a large captive market for Treasuries outside the Fed's direct purview — a potential unintended consequence for monetary policy transmission [[Stablecoin Legislation]].
+
 ## Connections
 
 - [[Jerome Powell]] — current chair
@@ -47,6 +56,9 @@ The Federal Reserve (the Fed) is the central bank of the United States, created 
 
 ## Source Appearances
 
+- [[GENIUS Act Comprehensive Framework — Goodwin Law]] — Fed's limited SCRC consultative role; excluded from primary stablecoin oversight
+- [[GENIUS Act Framework — Sidley Austin]] — Fed account access gap flagged as major unresolved issue
+- [[Anti-CBDC Act Passes House — Tom Emmer Press Release]] — CBDC prohibition codified; Fed had not expressed intent to pursue retail CBDC
 - [[Board of Governors of the Federal Reserve System (June 2025)]] — FOMC statement; unanimous hold
 - [[Board of Governors of the Federal Reserve System (October 2025)]] — FOMC cut to 3.75%–4%
 - [[Fed keeps rates steady, despite historic contrary votes and Trump pressure]] — July 2025 dual dissent

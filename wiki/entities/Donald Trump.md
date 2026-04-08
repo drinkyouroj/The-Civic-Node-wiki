@@ -29,6 +29,24 @@ sources: 39
 
 **Power**: Trump is using infrastructure targeting (power plants, bridges, desalination) as the primary coercive lever — essentially threatening to destroy Iran's centralized infrastructure as leverage. This is a case study in how state power projects against physical infrastructure.
 
+## Crypto Conflicts of Interest (2025)
+
+Trump's personal financial exposure to the crypto industry raises unprecedented conflict-of-interest questions about the GENIUS Act and Crypto Week legislation he signed.
+
+- **World Liberty Financial (WLF)**: Trump family holds majority stake (60%) in this DeFi protocol; WLF raised ~$550M from investors including significant foreign capital; Trump family entitled to 75% of net revenue. Estimated Trump family gain: $57M+ from WLF alone [[Congress Advances Crypto Bills — StratNews Global]].
+- **USD1 Stablecoin**: WLF issued its own stablecoin (USD1). If the GENIUS Act drives stablecoin adoption into the trillions, Trump directly profits as a stablecoin issuer — the same class of asset the GENIUS Act regulates [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]].
+- **$TRUMP Meme Coin**: Trump launched a personal meme coin ($TRUMP) days before his January 20 inauguration; generated enormous speculative trading volume; Trump insiders hold majority of tokens.
+- **$Melania Meme Coin**: Melania Trump launched a parallel meme coin simultaneously.
+- **Trump Media Crypto ETF**: Trump Media & Technology Group (TMTG) filed to launch a crypto ETF — diversifying Trump's financial exposure to the asset class his administration was simultaneously moving to regulate favorably.
+- **2024 Campaign Crypto Donations**: Trump received approximately $119M–$250M in crypto industry spending (across super PACs and direct) during the 2024 cycle.
+- **White House Defense**: When asked about conflicts, White House officials said Trump "complies with all applicable laws" and pointed to existing disclosure requirements. No prohibition on the president profiting from stablecoin ventures exists in the GENIUS Act or the CLARITY Act.
+
+## Crypto Policy Actions (2025)
+
+- **January 23, 2025 — Executive Order on Digital Financial Technology**: Signed day three of second term. Established President's Working Group on Digital Asset Markets, chaired by David Sacks ("AI and Crypto Czar"). Set 180-day deadline for policy reports — the deadline that drove Crypto Week's July 2025 timeline [[Trump EO on Digital Financial Technology — White House]].
+- **July 18, 2025 — GENIUS Act signing**: Signed the first federal stablecoin regulatory framework into law at a White House ceremony. Called it "one of the most consequential pieces of legislation for American financial dominance in modern history."
+- **Anti-CBDC EO**: Directed federal agencies to never issue a U.S. CBDC — later codified by Congress in the Anti-CBDC Surveillance State Act.
+
 ## Federal Reserve Pressure Campaign (2025)
 
 Trump's assault on Federal Reserve independence during 2025 is one of the most aggressive executive attacks on a central bank since Nixon pressured Arthur Burns in the 1970s.
@@ -88,10 +106,10 @@ The White House position: "No conflicts of interest" — assets are in a trust m
 - [[Fact check Trump repeats numerous false claims in prime-time address]] — December 17, 2025 speech; systematic false claims documented
 - [[Trump blames the radical left for Charlie Kirk's killing]] — selective mourning; omitted Democratic victims
 - [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — "revenge at the voter box" framing
-- [[Trump EO on Digital Financial Technology — White House]] — crypto EO signed January 23, 2025; foundational document for Crypto Week legislation
-- [[What is Crypto Week — Al Jazeera]] — conflict-of-interest profile; $57M World Liberty, $TRUMP, $Melania, Trump Media ETF
-- [[Congress Advances Crypto Bills — StratNews Global]] — conflict-of-interest framing; White House "no conflicts" position
-- [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]] — GENIUS Act signed July 18, 2025
+- [[Trump EO on Digital Financial Technology — White House]] — signed January 23, 2025; established Working Group; set policy deadline that drove Crypto Week timing; foundational document for Crypto Week legislation
+- [[What is Crypto Week — Al Jazeera]] — conflict-of-interest profile; $57M World Liberty, $TRUMP, $Melania, Trump Media ETF; signing of GENIUS Act
+- [[Congress Advances Crypto Bills — StratNews Global]] — $57M WLF stake detailed; meme coin launches; ETF filing; White House "no conflicts" position
+- [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]] — Trump as stablecoin issuer via USD1; GENIUS Act signed July 18, 2025
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — central actor; issued the Easter ultimatum
 - [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — administration defunded federal hospice fraud prevention
 - [[Trump calls Powell 'too stupid' after fifth rate hold]] — Truth Social attack after July FOMC hold

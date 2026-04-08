@@ -18,7 +18,7 @@ Official one-page summary of the CLARITY Act from the House Financial Services C
 
 - Introduced May 29, 2025; 20 cosponsors (13 Republicans, 7 Democrats).
 - Passed House Financial Services and Agriculture Committees on June 10, 2025.
-- Three stated benefits: (1) Clear pathways for developers to raise funds under SEC jurisdiction; (2) CFTC registration for digital commodity intermediaries; (3) Consumer protections via required disclosures, fund segregation, and conflict-of-interest management.
+- Three stated benefits: (1) SEC jurisdiction pathways for developers; (2) CFTC registration for digital commodity intermediaries; (3) Consumer protections via required disclosures, fund segregation, and conflict-of-interest management.
 - Framing: "Prioritizing consumer protection while fostering innovation."
 - Problem statement: "regulation-by-enforcement and ongoing regulatory ambiguity have stifled this innovative potential while leaving consumers unprotected."
 
@@ -29,12 +29,14 @@ Official one-page summary of the CLARITY Act from the House Financial Services C
 
 ## Entities Mentioned
 
+- [[French Hill]] — bill sponsor
 - [[Donald Trump]] — implicit (legislation advances his agenda)
 
 ## Concepts Mentioned
 
 - [[CLARITY Act]] — official summary
 - [[Regulatory Weaponization]] — "regulation by enforcement" framing
+- [[Crypto Week]] — legislative context
 
 ## Notes
 

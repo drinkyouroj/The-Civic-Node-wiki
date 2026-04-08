@@ -34,6 +34,7 @@ Hill is the legislative architect of the most sweeping digital asset regulation 
 - [[CBDC]] — supported Anti-CBDC Act passage
 - [[Donald Trump]] — legislation explicitly advances Trump's "Crypto Capital of the World" agenda
 - [[Cynthia Lummis]] — Senate partner on crypto framework
+- [[Tom Emmer]] — House leadership partner on Crypto Week
 
 ## Source Appearances
 

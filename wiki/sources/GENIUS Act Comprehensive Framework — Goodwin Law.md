@@ -50,4 +50,4 @@ Detailed Q&A legal analysis of the GENIUS Act from Goodwin Procter law firm, cov
 
 ## Notes
 
-Authoritative legal analysis; no advocacy bias. Goodwin is a major law firm advising financial institutions. This is the most technically complete source in the batch for the GENIUS Act's actual provisions.
+Authoritative legal analysis; no advocacy bias. This is the most technically complete source in the batch for the GENIUS Act's actual provisions.

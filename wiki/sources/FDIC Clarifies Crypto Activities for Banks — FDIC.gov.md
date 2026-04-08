@@ -32,13 +32,15 @@ FDIC press release announcing Financial Institution Letter FIL-7-2025, which res
 
 - [[Federal Reserve]] — mentioned as coordination partner for new guidance
 - [[Donald Trump]] — Working Group on Digital Asset Markets referenced
+- [[David Sacks]] — Working Group chaired by Sacks
 
 ## Concepts Mentioned
 
 - [[Stablecoin Legislation]] — regulatory foundation for GENIUS Act context
 - [[GENIUS Act]] — FDIC guidance sets the stage for formal stablecoin regulation
 - [[Regulatory Weaponization]] — Biden-era prior approval requirement framed as weaponization of regulation against crypto
+- [[Crypto Week]] — pre-legislative regulatory groundwork
 
 ## Notes
 
-Important pre-Crypto Week document showing executive branch regulatory rollback preceding congressional action. FDIC rescinding prior-approval requirement was a significant practical step for banks considering crypto services. The "three years" language (2022-2025) precisely covers the Biden administration's crypto stance.
+Important pre-Crypto Week document showing executive branch regulatory rollback preceding congressional action. FDIC rescinding prior-approval requirement was a significant practical step for banks considering crypto services.

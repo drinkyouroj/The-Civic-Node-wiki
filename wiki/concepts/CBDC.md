@@ -71,7 +71,7 @@ Tom Emmer's floor remarks invoked two international examples to justify the proh
 1. **China's digital yuan (e-CNY)**: Used to monitor spending and build a social credit system.
 2. **Canada 2022**: Trudeau administration froze trucker bank accounts during COVID mandate protests.
 
-These examples frame CBDC as a tool of authoritarian financial control — even as critics note U.S. private stablecoins (Circle, Tether) also surveil users via BSA/KYC compliance requirements.
+These examples frame CBDC as a tool of authoritarian financial control — even as critics note U.S. private stablecoins ([[Circle]], [[Tether]]) also surveil users via BSA/KYC compliance requirements.
 
 ## Non-Problem Argument
 

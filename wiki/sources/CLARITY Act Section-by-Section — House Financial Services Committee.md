@@ -16,34 +16,35 @@ Official section-by-section summary of H.R. 3633 (CLARITY Act) from the House Fi
 
 ## Key Points
 
-- Title I: CFTC gets expedited registration authority; 180-day deadline for new registration process; non-controlling blockchain developers exempt from money-transmitter obligations; Bank Secrecy Act applies to digital commodity brokers/dealers.
-- Title I, Sec. 111: Members of Congress and senior executive branch officials PROHIBITED from issuing a digital commodity while in public service.
+- Title I: CFTC gets expedited registration authority (180-day deadline); non-controlling blockchain developers exempt from money-transmitter obligations; Bank Secrecy Act applies to digital commodity brokers/dealers.
+- Title I, Sec. 111: Members of Congress and senior executive branch officials PROHIBITED from issuing a digital commodity while in public service. (Note: applies to digital commodities, NOT stablecoins — Trump's USD1 is a stablecoin, not a commodity.)
 - Title II: Digital commodities sold via investment contract are NOT investment contracts themselves; 4-year "mature blockchain" pathway; insider lockup periods and sales volume limits.
-- Title III: Digital commodities and stablecoins explicitly NOT securities under federal law; SEC retains anti-fraud/anti-manipulation authority; DeFi activities exempt from SEC registration (but not anti-fraud).
+- Title III: Digital commodities and stablecoins explicitly NOT securities; SEC retains anti-fraud/anti-manipulation authority; DeFi activities exempt from SEC registration (but not anti-fraud).
 - Title III, Sec. 308: Digital commodities exempt from state "blue sky" securities registration.
-- Title III, Sec. 315: Federal Reserve Surplus Fund cap reduced by $15 million (effective 2035) — pays for enforcement.
-- Title IV: CFTC gets exclusive regulatory jurisdiction over digital commodity spot markets; prohibits CFTC from regulating stablecoin issuers (GENIUS Act's domain); qualified digital asset custodian requirements.
-- Title IV, Sec. 412: Meme coins and NFTs ("tradable assets") subject to CFTC requirements; prohibited from listing if "primary purpose is to commit fraud or market manipulation" or facilitate campaign finance violations.
+- Title III, Sec. 315: Federal Reserve Surplus Fund cap reduced by $15 million (effective 2035).
+- Title IV: CFTC gets exclusive regulatory jurisdiction over digital commodity spot markets; prohibits CFTC from regulating stablecoin issuers; qualified digital asset custodian requirements.
+- Title IV, Sec. 412: Meme coins and NFTs ("tradable assets") subject to CFTC requirements; prohibited if "primary purpose is to commit fraud or market manipulation."
 - Title V: Multiple studies required — DeFi, NFTs, financial literacy, tokenized securities, blockchain in payments, illicit use, foreign adversary participation.
 
 ## Newsletter Angles
 
-- Sec. 111's prohibition on public officials issuing digital commodities is the CLARITY Act's ethics provision — but it applies to "digital commodities" not "stablecoins" (GENIUS Act's domain). Trump's USD1 is a stablecoin, not a commodity. The ethics provision has a gap.
+- Sec. 111's prohibition on public officials issuing digital commodities has a gap: Trump's USD1 is a stablecoin, not a commodity. The ethics provision doesn't cover stablecoins.
 - The meme coin/NFT "tradable asset" category — subject to CFTC requirements — is weaker than securities regulation but stronger than "no oversight," countering AFR's critique.
-- Fed Surplus Fund reduction is an interesting mechanism: crypto legislation is effectively paid for by the Fed.
 - The 4-year "mature blockchain" pathway is the key innovation pathway: tokens start as securities, graduate to commodities.
 
 ## Entities Mentioned
 
 - [[Federal Reserve]] — surplus fund reduced; excluded from stablecoin oversight
 - [[Donald Trump]] — implicit (ethics provision gap: stablecoins not covered by Sec. 111)
+- [[French Hill]] — bill sponsor
 
 ## Concepts Mentioned
 
 - [[CLARITY Act]] — primary subject; complete legislative breakdown
 - [[CBDC]] — CFTC explicitly prohibited from regulating stablecoin issuers (GENIUS Act handles those)
-- [[Tokenomics]] — "mature blockchain" certification pathway is the framework for token economics
+- [[Tokenomics]] — "mature blockchain" certification pathway
 - [[DePIN]] — DeFi exemption from registration has implications for DePIN networks
+- [[Crypto Week]] — context for legislative package
 
 ## Notes
 
