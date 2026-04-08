@@ -4,7 +4,7 @@ type: concept
 tags: [politics, monetary-policy, technology, stablecoin, crypto, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 16
+sources: 18
 ---
 
 ## Definition
@@ -97,3 +97,5 @@ The GENIUS Act codifies the policy direction established by Trump's January 23, 
 - [[Trump EO on Digital Financial Technology — White House]]
 - [[House Announces Crypto Week July 14 — Financial Services Committee]]
 - [[Securities Enforcement Roundup April 2025 — Morgan Lewis]]
+- [[Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill]] — Trump's Truth Social posts during Crypto Week; personally met with 11 of 12 needed House holdouts; "ALL REPUBLICANS SHOULD VOTE YES"; July 16, two days before signing
+- [[State of Crypto — Government Shutdown Nears a Record]] — shutdown's downstream effect on CLARITY Act Senate timeline; Oct 20 markup missed; context for what came after GENIUS Act signing

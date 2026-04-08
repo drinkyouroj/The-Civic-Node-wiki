@@ -559,3 +559,39 @@ Deployed 8 parallel agents to clear the full backlog of raw files (~230 uningest
 7. **Coaching tree as control group**: Macdonald's former assistants at Baltimore, Miami, Tennessee all failing simultaneously = clearest evidence his contribution is structural/scheme, not personnel.
 
 ---
+
+## [2026-04-07] ingest | Phase 2 — 9 legitimate uningestested raw files processed
+
+Audited all raw/ files against wiki/sources/ `raw:` frontmatter fields. Found 81 untracked raw files. After triage (noise, consolidated game coverage, thin duplicates, paywalled content, wrong-date files), identified and ingested 9 legitimate new source pages.
+
+**New source pages created:**
+1. `wiki/sources/Satoshi Nakamoto Bitcoin Whitepaper 2008.md` — original Bitcoin whitepaper; connects to Bitcoin as Digital Gold, Tokenomics, Strategic Bitcoin Reserve, CBDC
+2. `wiki/sources/Murthy v Missouri — Wikipedia.md` — SCOTUS 6-3 dismissed CISA jawboning case on standing; March 2026 settlement bars CISA coercion 10 years; Alito dissent
+3. `wiki/sources/Shut Your App — Senate Commerce Committee Jawboning Hearing.md` — Cruz Commerce Cmte Oct 8 2025; links CISA jawboning to AI as next frontier
+4. `wiki/sources/Thaler v Vidal — Federal Circuit DABUS Patent Ruling 2022.md` — binding US appellate ruling; Patent Act "individual" = natural person only; AI inventor rejected
+5. `wiki/sources/DEA Aggregate Production Quotas 2025 — Federal Register.md` — primary government document; DEA's own quota-setting language; ADHD shortage mechanism
+6. `wiki/sources/What to Know About CECOT — El Salvador Mega-Prison.md` — NPR/AP; $6M Trump-Bukele deportation deal; Alien Enemies Act; no due process
+7. `wiki/sources/ATMs and Bank Tellers — What Automation Really Does to Jobs.md` — AEI/Bessen counter-narrative; ATM proliferation increased teller count via demand expansion
+8. `wiki/sources/State of Crypto — Government Shutdown Nears a Record.md` — CoinDesk Nov 1 2025; shutdown cascades into CLARITY Act Senate timeline; Oct 20 markup missed
+9. `wiki/sources/Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill.md` — TOI Jul 16 2025; Trump Truth Social lobbying; "ALL REPUBLICANS SHOULD VOTE YES"; MAGA-as-crypto framing
+
+**Concept/entity pages updated:**
+- `wiki/concepts/CISA Jawboning.md` — sources 2→4; added Murthy v Missouri and Shut Your App
+- `wiki/concepts/AI Legal Personhood.md` — sources 2→3; added Thaler v Vidal
+- `wiki/concepts/ADHD Medication Shortage.md` — sources 5→6; added DEA Federal Register as primary source
+- `wiki/concepts/Mechanical Turk Pattern.md` — sources 12→13; added ATMs counter-narrative as new section
+- `wiki/concepts/GENIUS Act.md` — sources 16→18; added Trump GENIUS Move + State of Crypto
+- `wiki/entities/El Salvador.md` — sources 14→15; added CECOT source appearance
+- `wiki/entities/Nayib Bukele.md` — sources 10→11; added CECOT source appearance
+- `wiki/entities/DABUS.md` — sources 1→2; added Thaler v Vidal; resolved open question on US status
+- `wiki/entities/Donald Trump.md` — sources 39→40; added Trump GENIUS Move source appearance
+- `wiki/entities/2025 United States Government Shutdown.md` — sources 14→15; added State of Crypto source appearance
+
+**Index updated:** total_pages 574→583, total_sources 365→374
+
+**Skipped (with reason):**
+- Citizens United (Quimbee) — paywalled law school study aid; no substantive content
+- ABA Banking Journal stablecoins — wrong content (ISM Services Index data, not stablecoin analysis)
+- Securities Enforcement Roundup "April 2026" — actually April 2025 content, already ingested
+- ~68 other files — noise, game duplicates, or content fully covered by existing source pages
+

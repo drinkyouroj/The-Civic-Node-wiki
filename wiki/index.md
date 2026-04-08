@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-07
-total_pages: 574
-total_sources: 365
+total_pages: 583
+total_sources: 374
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -90,6 +90,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Apple Loses UK Antitrust Lawsuit Over App Store Fees]] — MacRumors, Oct 2025; UK CAT finds Apple monopoly; £1.5B damages claim
 - [[Apple Hit with EU Antitrust Complaint Over App Store Policies]] — MacDailyNews, Oct 2025; DMA complaint over €1M SBLC requirement
 - [[EPO Refuses DABUS Patent Applications]] — EPO, Dec 2019; AI cannot be inventor under EPC; human inventor requirement
+- [[Thaler v Vidal — Federal Circuit DABUS Patent Ruling 2022]] — Federal Circuit Aug 2022; binding US appellate ruling; "individual" in Patent Act = natural person; AI-assisted human invention left open
 - [[EU AI Act — First Regulation on Artificial Intelligence]] — European Parliament, Feb 2025; world's first comprehensive AI law; risk-based framework
 - [[AI-Driven Personalized Pricing May Not Help Consumers]] — Carnegie Mellon/Tepper, Sep 2025; personalized ranking enables tacit collusion; consumer welfare harm
 - [[Fueling the Fire — Social Media and Political Polarization]] — NYU Stern, Sep 2021; social media intensifies affective polarization; Facebook internal research
@@ -123,6 +124,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 - [[Ghost Work — The Hidden Humans Behind AI (Science Array)]] — Science Array; global $1-2/hr offshore ghost workers; structural not transitional
 - [[Ghost Workers in the AI Machine — US Data Workers Report]] — AWU-CWA/TechEquity Sep 2025; US domestic workers $22,620/yr; 25% on public assistance
+- [[ATMs and Bank Tellers — What Automation Really Does to Jobs]] — AEI/Bessen; ATM proliferation increased total teller count via demand expansion; counter-narrative to automation = job loss
 
 ### DePIN & Crypto
 - [[Why DePIN Matters — a16z crypto]] — a16z crypto; definitive DePIN framework; verification problem; supply-side vs. demand-side DePIN
@@ -221,6 +223,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[What is Crypto Week — Al Jazeera]] — Al Jazeera international framing; Trump crypto conflicts quantified; global dollar implications
 - [[White House SAP Anti-CBDC Act — OMB]] — Official White House Statement of Administration Policy; "deplatform" language; administration position
 - [[Securities Enforcement Roundup April 2025 — Morgan Lewis]] — SEC Corp Fin stablecoin statement Apr 4 2025; Crenshaw dissent; pre-GENIUS groundwork
+- [[Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill]] — TOI Jul 16 2025; Truth Social lobbying; Trump met 11 of 12 holdouts; "ALL REPUBLICANS SHOULD VOTE YES"; MAGA-as-crypto framing
+- [[State of Crypto — Government Shutdown Nears a Record]] — CoinDesk Nov 1 2025; shutdown's cascading effect on CLARITY Act Senate timeline; Oct 20 markup missed; Democratic leverage calculus
 - [[CLARITY Act One-Pager — House Financial Services Committee]] — Official one-page summary; "Digital Asset Market Clarity Act" formal framing
 
 ### Domestic Politics — Shutdown, Kirk, ICE, Elections
@@ -229,6 +233,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — California Gov. press release, Mar 24 2026; state's independent enforcement record; federal oversight defunded
 - [[The Weaponization of CISA — House Judiciary Report]] — House Judiciary, Jun 2023; CISA MDM team; "cognitive infrastructure" framing; censorship by proxy
 - [[Senate Republicans Hold Social Media Jawboning Hearing — Transcript]] — TechPolicy.press, Oct 2025; GOP hearing on Biden-era CISA; FCC Chair Carr's ABC threat
+- [[Murthy v Missouri — Wikipedia]] — SCOTUS Jun 2024; 6-3 dismissed on standing; March 2026 settlement bars CISA coercion 10 years; Alito dissent; "one of the most important free speech cases in years"
+- [[Shut Your App — Senate Commerce Committee Jawboning Hearing]] — Cruz Commerce Cmte, Oct 8 2025; links CISA jawboning to AI as next frontier; Carr FCC threat; cross-platform context
 - [[Charlie Kirk assassinated at university event in Utah]] — AP News live blog, Sep 10 2025; assassination at UVU; Kian Kordestani; political fallout
 - [[Conservative activist Charlie Kirk assassinated at Utah university]] — AP retrospective; Kirk's rise from teenage conservative to TPUSA CEO
 - [[ANALYSIS What Charlie Kirk killing means CBC News]] — CBC News analysis; political implications; polarization escalation
@@ -263,6 +269,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Attorney General Ellison and Minneapolis Saint Paul sue to halt ICE surge]] — Ellison + cities filing suit; legal grounds
 - [[ICE DREAMer arrest in Minnesota for helping evade arrest]] — DACA recipient arrested; collateral enforcement
 - [[New ICE tactic churches]] — ICE targeting churches; sanctuary infrastructure; ICE pastor church
+- [[What to Know About CECOT — El Salvador Mega-Prison]] — NPR/AP; $6M Trump-Bukele deportation deal; 40,000-person mega-prison; Alien Enemies Act; no due process for deportees
 - [[Q&A with Imam at mosque sheltering migrants from ICE]] — Minneapolis mosque sheltering undocumented immigrants; sanctuary logistics
 - [[Protest outside ICE detention center]] — Protests at ICE detention in Minnesota; community response
 - [[DOJ probing protesters group that disrupted church with ICE pastor]] — DOJ investigating protest group; church that employed ICE agent
@@ -368,6 +375,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[FTC Bans BetterHelp from Sharing Mental Health Data with Advertisers]] — FTC primary press release; HIPAA gap; FTC jurisdiction vs. HHS; $7.8M settlement
 - [[More Than 70 Percent of Adults Cite the Nation's Future as a Major Stressor]] — APA benchmark; 77% stressor figure; partisan distribution; racial trauma data
 - [[The DEA's Manufactured Crisis — ADHD Medication Shortage]] — DEA quota mechanism; 1B-dosage deficit; manufactured shortage diagnosis
+- [[DEA Aggregate Production Quotas 2025 — Federal Register]] — Primary government document; DEA's own language on quota-setting; acknowledges stimulant shortage; admits quotas can be increased if prescribing exceeds estimates
 - [[The Psychological Toll of Perpetual-Crisis Politics in 2025 America]] — Five-mechanism framework for neurobiological harm of perpetual crisis governance
 - [[Masking Is Life — Experiences of Masking in Autistic and Nonautistic Adults]] — 2021 peer-reviewed; cross-neurotype masking comparison; 87% autistic adults mask
 - [[Differential Prefrontal Cortex and Amygdala Habituation to Emotional Stimuli]] — PubMed 2001; neuroscience grounding for political stress dynamics; amygdala habituation

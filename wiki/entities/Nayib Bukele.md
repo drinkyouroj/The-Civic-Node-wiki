@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, crypto, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 11
 ---
 
 ## Overview
@@ -50,6 +50,7 @@ Bukele is the world's most prominent experiment in a political leader staking na
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — IMF deal enabling credit upgrade
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure assessment with critical quotes
 - [[El Salvador Macro Poverty Outlook World Bank]] — economic context of his administration
+- [[What to Know About CECOT — El Salvador Mega-Prison]] — CECOT as his signature security infrastructure; $6M Trump deal to house U.S. deportees; authoritarian model exported northward
 
 ## Open Questions
 

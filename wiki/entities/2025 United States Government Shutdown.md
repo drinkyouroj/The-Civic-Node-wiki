@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, power, monetary-policy, government]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 14
+sources: 15
 ---
 
 ## Overview
@@ -53,6 +53,7 @@ The shutdown reveals the brittle nature of federal data infrastructure — econo
 - [[Government shutdown could delay economic reports NPR October 2025]] — BLS furloughed; September jobs report withheld; October CPI at risk; Social Security COLA calculation disrupted
 - [[Government shutdown delays jobs report NBC News October 2025]] — ADP September jobs data: -32,000 (vs. +45,000 expected); Fed October meeting facing data blackout
 - [[Trump cuts energy projects California Carlsbad NOTUS]] — investigative analysis showing pattern of cancellations tracking political alignment; White House explicitly linking restoration to CR passage
+- [[State of Crypto — Government Shutdown Nears a Record]] — CoinDesk Nov 1, 2025; shutdown's cascading effect on CLARITY Act Senate timeline; Oct 20 markup missed; Thanksgiving timeline if Democrats capitulated
 
 ## Open Questions
 - What was the long-term damage to federal statistical agencies — did they fully recover?

@@ -4,7 +4,7 @@ type: concept
 tags: [technology, ai, labor, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 12
+sources: 13
 ---
 
 ## Definition
@@ -43,11 +43,18 @@ The pattern has three elements:
 
 > ⚠️ Contradiction: [[Leverage Erasure Through Automation]] describes automation as eliminating bargaining power before jobs. The Mechanical Turk Pattern reveals the inverse also operates: companies *simulate* automation while human labor continues, but workers are invisibilized and unprotected. The two patterns coexist: real automation erodes leverage for workers who remain visible; simulated automation erodes leverage for workers who are rendered invisible.
 
+## Counter-Narrative: Automation Can Create Jobs
+
+Not all automation follows the Mechanical Turk Pattern in reverse. The ATM case study (AEI/Bessen) shows a different dynamic: between 1970 and 2010, the number of bank tellers *increased* even as ATMs proliferated, because ATMs reduced branch operating costs, enabling banks to open more branches and shift tellers to relationship work. In this frame, demand-side expansion from lower costs can offset direct displacement.
+
+The distinction matters for the newsletter: the Mechanical Turk Pattern is about *concealing* human labor from consumers and regulators; the ATM dynamic is about automation creating new demand rather than eliminating labor. Both are real. They coexist across industries and don't cancel each other out. [[ATMs and Bank Tellers — What Automation Really Does to Jobs]]
+
 ## Tensions & Counterarguments
 
 - Some "hidden" human labor is genuinely transitional — companies building toward full automation while using humans as a bridge
 - The line between "human oversight of AI" (legitimate) and "humans doing the work with AI credited" (Mechanical Turk Pattern) is genuinely contested
 - Amazon's argument that Just Walk Out used humans for "model training" is technically accurate but misrepresents the operational dependency
+- The ATM counter-narrative suggests automation sometimes expands rather than contracts labor markets — the pattern isn't universal
 
 ## Related Concepts
 
@@ -66,3 +73,4 @@ The pattern has three elements:
 - [[The Hidden Labor That Makes AI Work]]
 - [[Ghost Work — The Hidden Humans Behind AI (Science Array)]] — global offshore ghost work ecosystem; psychological harm; subcontracting architecture for plausible deniability
 - [[Ghost Workers in the AI Machine — US Data Workers Report]] — US-based ghost workers earning median $22,620/year; 25% on public assistance; domestic supply chain identical to offshore
+- [[ATMs and Bank Tellers — What Automation Really Does to Jobs]] — AEI/Bessen counter-narrative; ATM proliferation increased total teller count via demand expansion; caution against assuming automation always eliminates labor

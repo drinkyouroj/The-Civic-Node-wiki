@@ -4,7 +4,7 @@ type: concept
 tags: [mental-health, health, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 6
 ---
 
 ## Definition
@@ -39,6 +39,7 @@ Approximately 22.5 million Americans (15.5 million adults, 7 million children) l
 - [[Autistic Masking]] — ADHD and autism frequently co-occur; access failures in both areas compound for dual-diagnosis individuals
 
 ## Key Sources
+- [[DEA Aggregate Production Quotas 2025 — Federal Register]] — primary government document; DEA's own language on quota-setting methodology; acknowledges stimulant shortage; admits quotas can be increased if prescribing exceeds estimates
 - [[Adderall Shortage Continues to Impact Millions of Americans with ADHD]] — patient impact and structural causes
 - [[Frontiers — ADHD Medication Shortage and Reddit Coping Behaviors]] — peer-reviewed qualitative research on patient experience
 - [[GPs to Diagnose ADHD Under NSW Reforms — Australia]] — international reform comparison

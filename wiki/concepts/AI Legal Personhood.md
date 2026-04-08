@@ -4,7 +4,7 @@ type: concept
 tags: [technology, ai, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 3
 ---
 
 ## Definition
@@ -35,3 +35,4 @@ The question is no longer theoretical. AI systems are generating patentable inve
 ## Key Sources
 - [[EPO Refuses DABUS Patent Applications]]
 - [[EU AI Act — First Regulation on Artificial Intelligence]]
+- [[Thaler v Vidal — Federal Circuit DABUS Patent Ruling 2022]] — binding U.S. appellate authority; Patent Act "individual" = natural person only; carves out the AI-assisted human invention question as still open

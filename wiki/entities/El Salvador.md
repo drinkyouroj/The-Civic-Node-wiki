@@ -5,7 +5,7 @@ entity_type: country
 tags: [crypto, monetary-policy, geopolitics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 14
+sources: 15
 ---
 
 ## Overview
@@ -58,6 +58,7 @@ El Salvador is the only real-world experiment in a nation-state adopting Bitcoin
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — adoption data
 - [[Un 92 Porciento de Salvadorenos No Uso Bitcoin en 2024]] — 2024 final adoption verdict
 - [[Top 5 Cryptocurrency Apps El Salvador Q1 2024]] — app usage data
+- [[What to Know About CECOT — El Salvador Mega-Prison]] — CECOT mega-prison as authoritarian infrastructure; Trump-Bukele $6M deportation deal; Alien Enemies Act deportees sent here without due process
 
 ## Open Questions
 

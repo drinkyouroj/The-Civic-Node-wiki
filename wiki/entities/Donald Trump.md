@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 39
+sources: 40
 ---
 
 ## Overview
@@ -117,6 +117,7 @@ The White House position: "No conflicts of interest" — assets are in a trust m
 - [[Trump's tariffs kept Fed from cutting rates, Jerome Powell says]] — the tariff-rate paradox
 - [[Trump secures $550B trade deal with Japan]] — tariff diplomacy in practice
 - [[Trump announces massive trade deal with Japan Al Jazeera]] — Al Jazeera coverage of July 23 Japan deal announcement; 15% tariff rate context
+- [[Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill]] — Truth Social "HAPPY CRYPTO WEEK" post; personally met 11 of 12 needed House holdouts; "ALL REPUBLICANS SHOULD VOTE YES"; MAGA framing of crypto regulation; TOI July 16, 2025
 - [[Government shutdown Day 1 CNN Politics October 1 2025]] — used shutdown to cancel $8B in energy grants to Democratic states; no public appearances Day 1
 - [[Government shutdown Day 2 CNN Politics October 2 2025]] — directed RIF (mass firing) list compilation; met with Vought multiple times daily
 - [[Trump cuts energy projects California Carlsbad NOTUS]] — energy grants canceled along political lines; White House confirmed it as shutdown leverage

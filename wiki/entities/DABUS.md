@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, ai, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 ---
 
 ## Overview
@@ -31,9 +31,10 @@ DABUS is the most important test case for AI legal personhood in the patent cont
 
 ## Source Appearances
 - [[EPO Refuses DABUS Patent Applications]] — primary EPO ruling; inventor-must-be-human standard
+- [[Thaler v Vidal — Federal Circuit DABUS Patent Ruling 2022]] — binding U.S. appellate ruling; Federal Circuit affirmed USPTO rejection Aug 5, 2022; "individual" in Patent Act = natural person only; AI-assisted human invention left open as separate question
 
 ## Open Questions
-- What is the current US status of DABUS cases?
+- ~~What is the current US status of DABUS cases?~~ — Resolved: Federal Circuit affirmed USPTO rejection August 5, 2022 (*Thaler v. Vidal*); Patent Act "individual" means natural person only; only AI-assisted human invention remains open. [[Thaler v Vidal — Federal Circuit DABUS Patent Ruling 2022]]
 - As AI systems become more capable at generating inventions, will any jurisdiction reverse course on AI inventorship?
 - Can AI-generated inventions be patented if the human prompter is named as inventor?
 - Does the DABUS precedent hold when AI plays a more collaborative (rather than fully autonomous) role in invention?
