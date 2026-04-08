@@ -9,6 +9,9 @@ sources: 397
 
 # Research Overview
 
+> [!info] This is the research wiki behind **The Civic Node** — a newsletter covering politics, power, and monetary policy.
+> Subscribe at [drinkyouroj.substack.com](https://drinkyouroj.substack.com) →
+
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
 
 The wiki has grown from 31 source documents to **397** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
