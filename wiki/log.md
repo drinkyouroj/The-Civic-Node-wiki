@@ -520,3 +520,42 @@ Published article ingested to wiki.
 **Updated:** `wiki/index.md` (episodes 9→10, articles 81→82)
 
 ---
+
+## [2026-04-07] ingest | 8-Cluster Backlog Ingest — 160 Sources Across All Themes
+
+Deployed 8 parallel agents to clear the full backlog of raw files (~230 uningestested sources). Each agent handled one thematic cluster. All work committed to main via a GENIUS Act worktree merge (conflict resolution on shared entity pages used union approach). Duplicate " 2.md" files from prior parallel-agent conflicts were identified and deleted before this ingest.
+
+### Stats
+- **New source pages:** ~160 (365 total; was 205)
+- **New entity pages:** 16 (79 total; was 63)
+- **New concept pages:** 10 (58 total; was 48)
+- **Total wiki pages:** 574 (was 316)
+
+### Cluster Summaries
+
+**NFL/Seahawks** (10 new source pages): Baltimore origin sources (Ravens tag sim, first press conference), Seahawks season arc completions (Rams OT thriller consolidation, Week 18 49ers consolidation, NFC Championship ESPN analysis), analytical pieces (defense DVOA ranking, Darnold Carolina resurgence, Pro Bowl selections). Updated: Mike Macdonald (8→14 sources), Sam Darnold (6→12), Seattle Seahawks (18→24). New concept updates: Defensive Scheme Architecture, Salary Cap Optimization.
+
+**Crypto/Bitcoin/El Salvador** (31 new source pages): Full El Salvador experiment documentation (11 sources: Cristosal accountability failures, Fitch upgrade, 92% non-use survey, Volcano Bond collapse). Corporate Bitcoin (Strategy Q2 2025: 628K BTC). Crypto fraud ecosystem (ZachXBT, rugpulls, BNB chain scams, io.net sybil attacks). DeFi governance (ERC-721, Uniswap, Compound, Aragon). New entities: [[Strategy MicroStrategy]], [[io.net]]. New concepts: [[Bitcoin as Digital Gold]], [[Crypto Fraud and Scam Ecosystem]].
+
+**GENIUS Act/Crypto Week** (23 new source pages): Full legislative documentation for July 14-18 2025 "Crypto Week" — GENIUS Act (signed July 18), CLARITY Act (294-134), Anti-CBDC Act (219-210). 10 law firm analyses. 4 official committee documents. Trump EO as foundational executive action. New entities: [[Tom Emmer]], [[French Hill]], [[David Sacks]]. New concept: [[Crypto Week]].
+
+**ICE/Minnesota/Immigration** (17 new source pages): Full Operation Metro Surge accountability arc — 4 major polling sources (ICE favorability flipped to net negative, YouGov "first time abolish support exceeded opposition"), ACLU class-action (Hussen v. Noem), judicial injunction (Judge Menendez), Don Lemon arrest court proceedings, Easterwood church protest documentation. New entities: [[Jonathan Ross]], [[David Easterwood]], [[Tim Walz]]. New concept: [[ICE Public Opinion Shift]].
+
+**Elections/Politics** (33 new source pages): 2025 election wave coverage (5-takeaway pieces, Spanberger VA win, Prop 50 CA redistricting). Epstein files slow-motion transparency crisis (Whitehouse, Bondi letter, forgeries, conspiracy theories). Budget-as-weapon documentation ($18B NYC freeze, blue-state energy grants, shutdown as coercion). Kirk assassination political processing. Legal scholarship (Shadow Docket, State-Created Damages, Saturday Night Massacre reference). New entities: [[Abigail Spanberger]], [[Tulsi Gabbard]], [[Russell Vought]], [[Sheldon Whitehouse]]. New concepts: [[Budget as Weapon]], [[Shadow Docket]], [[Rescissions Act of 2025]], [[Redistricting Arms Race]].
+
+**Fed/Macro** (19 new source pages): Quantitative anchors (Penn Wharton: $22K lifetime household loss, -6% GDP; Michigan leading indicator 4.2%→5.5% unemployment), government shutdown as data weaponization (BLS furloughs before October FOMC), Fed rate path documentation (June unanimous hold → September 25bps → October → March 2026 at 3.5%-3.75%), M2 as supply-shock evidence, Burns revisionism contradiction. Japan deal announced. No new entities. Updated: Federal Reserve (14→23 sources), Jerome Powell (12→16), 2025 Government Shutdown (8→14).
+
+**AI/Tech** (13 new source pages, 11 ingested): Anthropic-White House October 2025 conflict (Sacks attack; political backstory to DoD blacklisting), Microsoft-OpenAI antitrust case (compute as infrastructure = AI Computational Barrier to Entry), ghost work documentation (global offshore + domestic US), Delta/Fetcherr AI pricing early results, algorithmic radicalization 129-study systematic review, Tractor Supply CCPA enforcement, economic narratives theory. New entities: [[Microsoft]], [[Jack Clark]].
+
+**Bob Weir/Mental Health** (13 new source pages): Full Bob Weir cluster — death/obituary, final concert, analytical pieces (Guitar Playing Was Even More Radical, Six Principles 1982 interview, Conversation academic analysis), Dead and Company final tour statistics. Mental health: perpetual-crisis governance neurobiological harm framework, BetterHelp FTC action, APA 77% stressor benchmark, DEA quota mechanism, cross-neurotype autistic masking study, amygdala habituation neuroscience. New entities: [[Grateful Dead]], [[Dead and Company]]. New concepts: [[Jam Band Genre]], [[Improvisational Music]].
+
+### Key Analytical Findings Across All Clusters
+1. **Crypto Week partisan gradient**: GENIUS Act (68-30) → CLARITY Act (294-134) → Anti-CBDC Act (219-210). Partisan gradient maps onto actual regulatory stakes.
+2. **El Salvador: two separate failure modes**: Currency (92% non-use) and governance (Fidebitcoin opacity, identity theft). But the financial bet worked ($603M portfolio vs. $269M invested). IMF leverage over sovereign monetary policy now fully documented.
+3. **ICE opinion shift is historically significant**: Fox News's own poll showing 59% "too aggressive" + YouGov first time abolish support exceeds opposition = center has moved, not just liberal media.
+4. **Penn Wharton as quantitative anchor**: $22K lifetime household loss, -6% long-run GDP from tariffs — 2x more damaging than corporate tax increase. Strongest numbers available.
+5. **Anthropic-White House conflict is two-stage**: October 2025 Sacks attack (political attack) → 2026 DoD blacklisting (enforcement). Timeline now complete.
+6. **Ethics provision gap in CLARITY Act (Sec. 111)**: Prohibits "digital commodities" — not stablecoins. Trump's USD1 (World Liberty Financial) is a stablecoin. The ethics prohibition does not cover the president's most direct crypto conflict.
+7. **Coaching tree as control group**: Macdonald's former assistants at Baltimore, Miami, Tennessee all failing simultaneously = clearest evidence his contribution is structural/scheme, not personnel.
+
+---

@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-07
-total_pages: 316
-total_sources: 205
+total_pages: 574
+total_sources: 365
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -56,6 +56,26 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Trump calls Powell too stupid — Times of India]] — ToI; Truth Social attacks on Powell; tariff-driven inflation trap
 - [[Paul Volcker's Legacy — PBS]] — PBS; Volcker independence model; Burns cautionary tale
 
+- [[Federal Reserve issues FOMC statement June 18 2025]] — June 2025 FOMC; unanimous hold; "swings in net exports" as tariff code; primary Fed source
+- [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]] — BEA advance estimate; data interpretation and revision context
+- [[Fed approves quarter-point rate cut September 2025 CNBC]] — First 2025 cut; "risk management cut"; Miran dissents for 50bps
+- [[Fed 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent]] — Structural account of White House-Fed coordination timeline
+- [[Government shutdown could delay economic reports NPR October 2025]] — BLS furloughs; September jobs data denied to Fed before October FOMC
+- [[Government shutdown delays jobs report NBC News October 2025]] — NBC companion; shutdown as data weaponization
+- [[Michigan Economic Outlook 2025-2027 Executive Summary]] — Michigan 4.2%→5.5% unemployment; auto supply chain tariff exposure; leading indicator
+- [[Government shutdown Day 1 CNN Politics October 1 2025]] — Real-time shutdown coverage; timeline anchor
+- [[Government shutdown Day 2 CNN Politics October 2 2025]] — Day 2 updates; shutdown as political leverage
+- [[Powell holds rates July 2025 Times of India]] — TOI international perspective; July 30 FOMC context
+- [[Rethinking Arthur Burns the Worst Fed Chair in History]] — Revisionist defense of Burns; supply shock argument; contradiction with standard narrative
+- [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]] — $22K lifetime household loss; -6% long-run GDP; strongest quantitative anchor in wiki
+- [[The Weimar Republic Holocaust Encyclopedia]] — Historical context for hyperinflation; Weimar as cautionary reference
+- [[United States Central Bank Balance Sheet Trading Economics]] — $6.68T balance sheet; QT halt Q4 2025; current Fed balance sheet data
+- [[United States Unemployment Rate Trading Economics]] — Historical unemployment data; Michigan comparison anchor
+- [[US Fed Funds Rate CME FedWatch April 2026]] — March 2026 rate at 3.5%–3.75%; dot plot; 75bps of cuts documented
+- [[US M2 Money Supply YoY Historical Data]] — M2 negative YoY during inflation = supply-shock evidence, not monetary
+- [[Trump cuts energy projects California Carlsbad NOTUS]] — NOTUS methodology; blue-state energy grant cancellation political targeting
+- [[Trump announces massive trade deal with Japan Al Jazeera]] — Japan deal; 15% tariffs; Boeing + agricultural concessions
+
 ### Iran / Geopolitics
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
 - [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
@@ -76,6 +96,18 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Echo Chamber Research Systematic Review]] — JCSS, Apr 2025; 129 studies; no consensus; TikTok underexplored
 - [[If Hate-Fueled Algorithms Cause Real-World Harm, California's Tech Companies Should Pay]] — CalMatters, Oct 2025; CA SB 771; product liability framing; Myanmar; hate crime data
 
+- [[Anthropic vs White House — Anthropic Tries to Keep Pace with OpenAI While Taking on the US Government]] — Oct 2025; Sacks attack; Mamdani-Wired narrative; political backstory to DoD blacklisting
+- [[Import AI 431 — Technological Optimism and Appropriate Fear]] — Jack Clark; existential risk framing; "appropriate fear" vs. techno-optimism
+- [[How Much Money Do OpenAI and Anthropic Actually Make]] — Revenue skepticism; ARR vs. actual revenue; ChatGPT vs. API split
+- [[Anthropic Catching Up to OpenAI — On Track for $9 Billion Annual Run Rate]] — Oct 2025 ARR update; $183B valuation; market share dynamics
+- [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]] — Compute as "AI Computational Barrier to Entry"; exclusive Azure deal; UK parallel
+- [[Delta Air Lines AI Pricing with Fetcherr — Early Results]] — Airline AI dynamic pricing early results; consumer surplus implications
+- [[Memes and the Extreme Right Wing — ISD Explainer]] — ISD systematic analysis; meme-to-mainstream pipeline; platform amplification
+- [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]] — 129-study systematic review; no consensus on echo chambers; methodology variance
+- [[CCPA Strikes Back — Tractor Supply $1.35 Million Fine]] — California CCPA enforcement; $1.35M fine; cross-site tracking
+- [[California Targets Tractor Supply's Tricky Tracking — EFF]] — EFF analysis of Tractor Supply CCPA violation; third-party pixel tracking mechanism
+- [[The Role of Narratives in Economics — ProMarket]] — Economic narrative theory; scaffolding for AI hype and polarization analysis
+
 ### AI Hidden Labor
 - [[Amazon Just Walk Out — AI Needed Humans to Do the Job Right]] — Entrepreneur, Apr 5 2024; cashierless AI required 700 human reviewers per 1,000 transactions
 - [[Amazon's Just Walk Out Technology Relies on Hundreds of Workers in India]] — Business Insider, Apr 3 2024; 70% of transactions required human review
@@ -88,6 +120,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[The Exploited Labor Behind Artificial Intelligence]] — NOEMAG, Oct 2022; Mechanical Turk etymology; full AI labor stack; $1.46/hr
 - [[The Hidden Labor That Makes AI Work]] — Rest of World, Jul 2025; ImageNet/AMT as AI's foundational labor infrastructure
 - [[The Humans Hiding Behind the Chatbots]] — Bloomberg, Apr 2016; X.ai Amy as early Mechanical Turk Pattern example
+
+- [[Ghost Work — The Hidden Humans Behind AI (Science Array)]] — Science Array; global $1-2/hr offshore ghost workers; structural not transitional
+- [[Ghost Workers in the AI Machine — US Data Workers Report]] — AWU-CWA/TechEquity Sep 2025; US domestic workers $22,620/yr; 25% on public assistance
 
 ### DePIN & Crypto
 - [[Why DePIN Matters — a16z crypto]] — a16z crypto; definitive DePIN framework; verification problem; supply-side vs. demand-side DePIN
@@ -132,6 +167,61 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Visa Stablecoins — Enterprise Payments Infrastructure]] — Visa; stablecoin enterprise payment infrastructure; T+0 settlement
 - [[Consensus Mechanisms — Ethereum.org]] — Ethereum official docs; PoW vs. PoS; validator economics
 - [[Datagram Network — Windows Setup]] — Datagram desktop setup docs; decentralized wireless protocol
+
+- [[El Salvador Bitcoin Holdings and Analysis]] — Bitcoin Treasuries data; 7,614 BTC, $522M value; geothermal mining program
+- [[El Salvador Macro Poverty Outlook World Bank]] — World Bank Oct 2025; poverty 30%, remittances 24% GDP, IMF EFF terms
+- [[El Salvador President Bitcoin Success Elon Musk Reply]] — Dec 2024 $603M portfolio; Musk "Impressive" exchange; performance vindication narrative
+- [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]] — Jan 2025 Congress 55-2 vote removing Bitcoin legal tender status; IMF conditionality
+- [[El Salvador y el bitcoin Cristosal 2023]] — Accountability failures; Fidebitcoin opacity; Chivo identity theft documentation
+- [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — 81% tourism growth; Bukele rebranding success separate from Bitcoin
+- [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
+- [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
+- [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern
+- [[Top 5 Cryptocurrency Apps El Salvador Q1 2024]] — Chivo 384K users; Binance growing; competitive landscape
+- [[Un 92 Porciento de Salvadorenos No Uso Bitcoin en 2024]] — UCA survey: 91.9% non-use in 2024; definitive usage failure data
+- [[Understanding Bitcoins 21 Million Cap]] — Supply cap design; halving mechanics; deflationary monetary model
+- [[Cryptocurrencies and Monetary Policy Bruegel 2018]] — Bruegel EP paper; crypto as speculative asset not money; academic framing
+- [[The Crypto Question Bitcoin Digital Dollars Future of Money CFR]] — CFR backgrounder; geopolitical crypto framing; CBDC landscape context
+- [[FOMC Cuts Federal Funds Rate Currency Thoughts September 2025]] — Sep 2025 FOMC; Miran dissent; Fed independence risk framing from crypto lens
+- [[Strategy Q2 2025 Financial Results Bitcoin Treasury Company]] — 628K BTC; $14B Q2 "operating income"; preferred stock ecosystem; corporate proof-of-concept
+- [[Crypto Influencers Hidden Payouts ZachXBT]] — ZachXBT investigation; 155/160 undisclosed paid promotions; $60K top payment
+- [[Web3 Rugpulls Plummet in Number Explode in Scale 2025]] — $6B lost in early 2025; Mantra OM collapse = 92% of losses; industrialized fraud
+- [[Most Crypto Scams on BNB Chain Solidus Labs]] — 12% BNB tokens fraudulent; 15 scams/hour baseline rate
+- [[Web3 Sees 15 New Scam Smart Contracts Per Hour Solidus Labs]] — Companion piece; DeFi hacking record Oct 2022; industrialized fraud supply chain
+- [[US Retiree Loses 3M XRP Ellipal Wallet Hack]] — $3M XRP stolen; Huione OTC laundering; law enforcement gap documentation
+- [[VWA Crypto Surges on Simpson Prediction Red Flags]] — Fake Simpsons prediction; 89-90% insider concentration; retail trap anatomy
+- [[Solana Project CEO Sybil Attackers Gamed Metric io.net]] — 500K to 12K GPUs after sybil attack exposed; airdrop gaming vulnerability
+- [[Preventable Cyber Attack Impacts io.net DePIN]] — 2M fake GPUs; TEE hardware attestation as proposed solution; structural DePIN vulnerability
+- [[Crypto Global Adoption Map CNBC 2021]] — 881% growth; emerging markets lead; capital controls as driver of adoption
+- [[Pump.fun Eyes 1B Token Sale 4B Valuation Memecoin]] — $700M revenue; 11M tokens launched; $1B raise planned; memecoin industrialization
+- [[Building a DAO Framework Aragon CTO Interview]] — Aragon OSx modular DAO architecture; governance building blocks
+- [[ERC-721 Non-Fungible Token Standard]] — EIP-721 NFT standard specification; foundational crypto protocol reference
+- [[Uniswap Governance Overview]] — UNI token governance; 40M quorum; Timelock delays; DeFi governance mechanics
+- [[Compound Finance Governance Documentation]] — COMP Governor Bravo; Pause Guardian; DeFi governance reference
+- [[Gala Games Founder Node Staking Whats Changing]] — Four-phase staking; $GSTAKE token introduction; node threshold removal
+- [[Crypto Week Policy Playbook for CFOs — PYMNTS]] — CFO compliance briefing; practical GENIUS Act implementation timeline
+- [[Crypto Week Kicks Off — Global Government Fintech]] — International perspective on US Crypto Week; MiCA comparison; global regulatory race
+- [[Crypto Week Enters Congress — QuiverQuant]] — Capitol Hill perspective; political context; legislative coordination timeline
+- [[Ending the Era of Uncertainty — House Agriculture Committee Op-Ed]] — Agriculture Committee chair on CLARITY Act; CFTC jurisdiction rationale
+- [[FDIC Clarifies Crypto Activities for Banks — FDIC.gov]] — FIL-16-2022 rescission Mar 28 2025; Travis Hill "flawed approach" statement; pre-GENIUS groundwork
+- [[CLARITY Act Worse than FIT21 — Americans for Financial Reform]] — Progressive critique; CFTC lighter touch; investor protection gaps vs. SEC
+- [[GENIUS Act Comprehensive Framework — Goodwin Law]] — Law firm breakdown; PPSI three pathways; compliance implementation guide
+- [[House Announces Crypto Week July 14 — Financial Services Committee]] — Official House announcement; Hagerty and Hill quotes; legislative coordination
+- [[House GOP Plans Crypto Week — Sludge]] — Sludge investigative angle; political economy of crypto legislation; donor influence
+- [[House Approves CLARITY Act — Consumer Reports]] — Consumer advocacy critique; systemic risk concern; Amanda Fischer quote; meme coin oversight gap
+- [[Anti-CBDC Act Passes House — Tom Emmer Press Release]] — Emmer's own framing; 219-210 vote; "deplatform" language; Canada/China examples
+- [[CLARITY Act Section-by-Section — House Financial Services Committee]] — Official technical summary; regulatory pathway mechanics
+- [[Trump EO on Digital Financial Technology — White House]] — Jan 23 2025 EO "Strengthening American Leadership in Digital Financial Technology"; CBDC ban; 180-day deadline
+- [[GENIUS Act Framework — Sidley Austin]] — Law firm analysis; Fed account access gap identified; PPSI operational mechanics
+- [[GENIUS Act New Era of Stablecoin Regulation — Gibson Dunn]] — Law firm synthesis; Trump stablecoin conflict framing; comprehensive regulatory mapping
+- [[GENIUS Act Federal Framework for Stablecoin Issuers — Pillsbury]] — Pillsbury breakdown; state vs. federal pathway; compliance timeline
+- [[Congress Advances Crypto Bills — StratNews Global]] — International perspective; bipartisan vote totals; $57M WLF Trump stake; conflict framing
+- [[CLARITY Act Industry Support — House Financial Services Committee]] — Industry endorsement compilation; EU MiCA competitive pressure argument
+- [[GENIUS Act Impact on Stablecoins and Taxpayers — Bankrate]] — Levitin bailout risk argument; TerraUSD precedent; consumer framing
+- [[What is Crypto Week — Al Jazeera]] — Al Jazeera international framing; Trump crypto conflicts quantified; global dollar implications
+- [[White House SAP Anti-CBDC Act — OMB]] — Official White House Statement of Administration Policy; "deplatform" language; administration position
+- [[Securities Enforcement Roundup April 2025 — Morgan Lewis]] — SEC Corp Fin stablecoin statement Apr 4 2025; Crenshaw dissent; pre-GENIUS groundwork
+- [[CLARITY Act One-Pager — House Financial Services Committee]] — Official one-page summary; "Digital Asset Market Clarity Act" formal framing
 
 ### Domestic Politics — Shutdown, Kirk, ICE, Elections
 - [[Supreme Court clears way for Trump DOJ to wipe out Steve Bannon's conviction]] — USA Today, Apr 6 2026; SCOTUS vacated contempt conviction; conviction erasure as institutional accommodation
@@ -205,6 +295,57 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[The Greenland purchase bid under Trump analysis]] — Greenland acquisition bid; strategic rationale
 - [[Emergencies Act - Wikipedia]] — Canada Emergencies Act; 2022 invocation; comparison to US shutdown powers
 
+- [[A Majority of Voters Are Unfavorable of ICE]] — Data for Progress poll; ICE favorability flipped +13 to -9; "Abolish ICE" definition confusion
+- [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — Class-action Hussen v. Noem; racial profiling of Somali/Latino Minnesotans; Jan 15 2026
+- [[DOJ Investigating After Activists Disrupt St Paul Church Where MN ICE Official Is a Pastor]] — Twin Cities/AP; Jan 18 church protest; Easterwood's dual role; DOJ FACE Act probe
+- [[Fox News Poll 59 Percent of Voters Say ICE Is Too Aggressive]] — Fox poll; 10-point jump since July; non-MAGA Republican shift (+23); abolish ICE doubled
+- [[ICE Agent Cellphone Captures Fatal Confrontation in Minneapolis CNN]] — Ross's personal cellphone video obtained by CNN; Vance shared as exculpatory; ambiguous on review
+- [[ICE Officer Who Shot Woman in Minneapolis Was Dragged and Injured in Prior Incident CNN]] — Ross career background; June 2025 dragging; expert consensus on better options
+- [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — Judge Menendez preliminary injunction; bars pepper spray, protest arrests, vehicle stops
+- [[Journalist Don Lemon Arrested in Connection to Minnesota ICE Protest]] — Al Jazeera international framing; press freedom; press org condemnations
+- [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — Fox News live blog; administration narrative construction; BCA withdrawal buried
+- [[Minneapolis ICE Shooting Updates Protests Remain Peaceful ABC News]] — ABC News; DHS 7-day congressional oversight policy change via One Big Beautiful Bill Act
+- [[Poll 63 Percent Disapprove of ICE Trump Approval at 34 Percent UPI]] — NYT/Siena; 63% disapprove; Trump threatened to sue; deportation split 50/47
+- [[Protesters Disrupt Southern Baptist Church of Pastor Who Leads ICE Office Minnesota]] — A Public Witness (Christian journalism); inside the church; theological framing
+- [[Today More Americans Support Than Oppose Abolishing ICE YouGov]] — YouGov Jan 24-25; first time abolish support exceeded opposition; video effect documented
+- [[Trump Says Hes Freezing Minnesota Out of ICE Shooting Probe Because Walz Is a Stupid Person]] — Mediaite; Trump's personal justification; daycare fraud conflation; racist framing
+- [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — CNN investigation; mutual distrust breakdown; Ellison: "Maybe they don't care"
+- [[Woman Fatally Shot by ICE Officer Remembered as One of the Kindest People]] — NBC News; family testimony; counters "domestic terrorist" label
+- [[Former CNN Anchor Don Lemon Appears in Court After Arrest Over Church Protest]] — CBS News; two judicial rejections; grand jury bypass; precedent warning
+- [[Democrats had a big night — 5 takeaways from the 2025 elections]] — Five key takeaways; Latino reversal; Mamdani as new coalition model; thermostatic politics
+- [[Democrats sweep the first major elections of Trump's second term]] — CNN sweep analysis; down-ballot wins; shutdown Day 35 context
+- [[Democrats 2025 election wins go beyond big races]] — Down-ballot wins in GA, PA, MS; structural coalition signal
+- [[Democrat Abigail Spanberger wins Virginia governor's race]] — Spanberger wins; first female VA governor; moderate Democrat template
+- [[California voters OK new congressional lines boosting Democrats]] — Prop 50 passes; CA redistricting arms race move; counter-gerrymandering
+- [[Supreme Court hears tariff arguments; government shutdown becomes record longest]] — Dual coverage; SCOTUS tariff challenge + shutdown record context
+- [[For Trump, the Epstein Cover-Up Beats the Truth]] — Epstein transparency crisis; 49% believe Trump covering up; worst issue approval rating
+- [[With few Epstein files released, conspiracy theories flourish]] — Files still mostly unreleased; forgeries found; conspiracy theory dynamics
+- [[Sen. Whitehouse on Congress enormous step forward with Epstein probe]] — Whitehouse leading Senate investigation; Les Wexner subpoena
+- [[Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes]] — Poll; 56% disapprove of Epstein handling; Congress doing what DOJ should
+- [[Rescissions Act of 2025 — Wikipedia]] — Wikipedia; $8.3B rescissions; PEPFAR carve-outs; 216-214 House vote; legal insulation function
+- [[First GOP rescissions package narrowly passes the House]] — House passage; fiscal context; party-line dynamics
+- [[House GOP approves $9.4 billion package of DOGE cuts by a single vote]] — $9.4B DOGE cuts; 217-216 margin; Republican defection risk
+- [[House nears vote on cuts to NPR, PBS and foreign aid programs]] — NPR/PBS/foreign aid cuts; ideological vs. fiscal motivation
+- [[Trump administration uses taxpayer dollars to blame Democrats for government shutdown]] — Partisan agency messaging; taxpayer-funded political targeting Day 1
+- [[White House freezes $18 billion in New York City infrastructure funding]] — $18B NYC freeze; Schumer/Jeffries pressure; coercion stated explicitly
+- [[Trump Admin Says It's Canceling Energy Projects in 16 Blue States]] — Blue-state energy grant cancellation pattern; political targeting methodology
+- [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs]] — Side-by-side comparison; red/blue grant retention documented
+- [[Is that legal Trump's $8B cuts in the crosshairs]] — Legal analysis; $8B cuts as legally vulnerable; impoundment doctrine
+- [[White House says layoffs for federal workers are imminent]] — Mass layoff threats; federal workforce pressure campaign
+- [[In rare interviews, federal judges criticize Supreme Court's handling of Trump cases]] — Anonymous judge testimony; "thrown under the bus" framing; institutional integrity signal
+- [[Fact check Trump repeats numerous false claims in prime-time address]] — December 17 2025 address; systematic false claims documented
+- [[Trump appealing ruling against Portland National Guard deployment]] — Portland National Guard; executive overreach pattern
+- [[Trump blames the radical left for Charlie Kirk's killing]] — Selective mourning; omitted Democratic victims; political processing of assassination
+- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — "Revenge at the voter box" framing within 48 hours of shooting
+- [[Live updates Vance hosts Charlie Kirk Show]] — Vance hosting Kirk's show; institutional continuity of MAGA media
+- [[Tulsi Gabbard details bombshell claims of Obama-era cabal]] — DNI releasing declassified docs; "cabal" framing; political use of intelligence
+- [[Journalists face escalating threats in 2026]] — 400+ threat investigations through June 2025; press freedom deterioration data
+- [[Saturday Night Massacre — Britannica]] — Historical reference; Watergate parallel for Trump executive actions
+- [[Trump's Tweets Trade on Supporters' Anger]] — Social media anger monetization; Trump political economy of outrage
+- [[State-Created Damages Remedies Against Federal Officials]] — Legal scholarship; Section 1983 implications for federal accountability
+- [[Virginia results map shows where Abigail Spanberger won election]] — Geographic analysis; coalition composition data
+- [[Democrat Abigail Spanberger to make history as Virginia's 1st female governor]] — Historic first; moderate Democrat as governing template
+
 ### Mental Health / ADHD / Autism
 - [[APA Stress in America 2024 — A Nation in Political Turmoil]] — APA/Harris Poll, Oct 2024; 77% cite nation's future as stressor; 56% fear end of democracy
 - [[Political Stress — UCSF Wellbeing Resources]] — UCSF HR, Jan 2026; institutional acknowledgment; racial trauma; media consumption guidance
@@ -217,6 +358,20 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Autistic Masking — Wikipedia]] — Wikipedia; CAT-Q; gender gap in diagnosis; ABA critique; ML prediction
 - [[Why Unmasking Is Critical for Autistic People]] — Psychology Today, Sep 2023; 3x suicide rate; 58-year lifespan estimate
 - [[The Journey of Unmasking Autism]] — Private Therapy Clinic, Apr 2025; 2.5x suicide risk; 67% employment burnout; identity erosion statistics
+
+- [[Bob Weir the Grateful Dead Co-Founder Reinvented Rhythm Guitar and the Art of the Jam]] — The Conversation; academic analysis of Weir's chordal innovation and structural role
+- [[Bob Weir Dies at 78 as Tributes Pour in for Grateful Dead Founder]] — Obituary; career retrospective; tributes from surviving band members
+- [[Bob Weir's Final Concert Was a Joyous Celebration of Grateful Dead]] — Final performance coverage; joyous send-off; end of an era
+- [[Bob Weir's Guitar Playing Was Even More Radical Than You Think]] — Richest analytical source; jazz piano influence; chordal innovation mechanism
+- [[Bob Weir's Six Principles of Rhythm Guitar]] — 1982 Guitar World interview; six principles articulated in Weir's own words; primary source
+- [[Dead and Company by the Numbers Final Tour Totals]] — Final tour statistics; 50+ years of touring data; attendance and revenue records
+- [[FTC Bans BetterHelp from Sharing Mental Health Data with Advertisers]] — FTC primary press release; HIPAA gap; FTC jurisdiction vs. HHS; $7.8M settlement
+- [[More Than 70 Percent of Adults Cite the Nation's Future as a Major Stressor]] — APA benchmark; 77% stressor figure; partisan distribution; racial trauma data
+- [[The DEA's Manufactured Crisis — ADHD Medication Shortage]] — DEA quota mechanism; 1B-dosage deficit; manufactured shortage diagnosis
+- [[The Psychological Toll of Perpetual-Crisis Politics in 2025 America]] — Five-mechanism framework for neurobiological harm of perpetual crisis governance
+- [[Masking Is Life — Experiences of Masking in Autistic and Nonautistic Adults]] — 2021 peer-reviewed; cross-neurotype masking comparison; 87% autistic adults mask
+- [[Differential Prefrontal Cortex and Amygdala Habituation to Emotional Stimuli]] — PubMed 2001; neuroscience grounding for political stress dynamics; amygdala habituation
+- [[HHS OCR Breach Portal — Health Data Breaches]] — Regulatory context for BetterHelp story; HIPAA gap (HHS had no jurisdiction → FTC did)
 
 ### NFL — Seahawks / Super Bowl LX
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — WBAY, Feb 6 2026; zero-holdover GM wins Super Bowl; Executive of the Year
@@ -244,6 +399,17 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Bad Bunny Super Bowl 60 Controversy Explained]] — Yahoo; MAGA backlash; NFL's global-reach rationale
 - [[Roger Goodell Backs Bad Bunny After ICE Out Speech]] — Goodell public defense; week of the game
 - [[Bad Bunny Spotify Global Top Artist 2025]] — Spotify Wrapped; 19.8B streams; fourth consecutive top-artist title
+
+- [[Seahawks Are Biggest Threat to Overthrow the NFC]] — Week 4 2025; Macdonald coaching tree control group; Darnold/Smith cap comparison
+- [[How Sam Darnold's Time in Carolina Paved the Way for Career Resurgence]] — Darnold's own account of his developmental backstory; Panthers years as foundation
+- [[Where Seahawks Defense Ranks Among League's Best]] — Week 12 statistical analysis; #1 defensive DVOA; Legion of Boom comparison
+- [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 6 Pro Bowlers; "Dark Side" branding; Shaheed mid-season acquisition value
+- [[Ravens Pass Rush Is Being Unleashed]] — Macdonald Year 2 at Baltimore; everyone-gets-a-sack philosophy; positional versatility
+- [[Cool Clips — Ravens Tag Sim vs. the Lions]] — Most technical source on NTTs, MOF disguise, simulated pressure mechanics
+- [[Don't Expect the Ravens' Defense to Lose Their Aggression with Macdonald as DC]] — Origin document; Macdonald first press conference defining "aggression" as information-warfare
+- [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — Consolidates 10 raw files; Week 16 OT thriller; historic 4Q comeback; go-for-2-in-OT
+- [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — Consolidates 6 raw files; Week 18; Darnold redemption arc; McCaffrey shutout; Schneider praised
+- [[NFC Championship — ESPN Game Analysis]] — ESPN tactical breakdown; blitz rate data; Woolen taunting; Stafford perspective
 
 ### NFL — Dynasty
 - [[Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty]] — ESPN/Barnwell, Jan 11 2024; year-by-year 266-121 dynasty retrospective
@@ -303,6 +469,18 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Bill Hagerty]] — Senator (R-TN); GENIUS Act Senate sponsor; authored the Hagerty Amendment
 - [[Cynthia Lummis]] — Senator (R-WY); Senate's leading crypto champion; Bitcoin maximalist; Strategic Bitcoin Reserve advocate
 
+- [[Abigail Spanberger]] — Virginia governor (D); first female; moderate Democrat; 2025 elections centerpiece; suburban coalition model
+- [[Tulsi Gabbard]] — Director of National Intelligence; declassifying Obama-era files; "cabal" framing; MAGA intelligence arm
+- [[Russell Vought]] — OMB Director; operational architect of budget-as-weapon strategy; Blue-state targeting
+- [[Sheldon Whitehouse]] — Senator (D-RI); leading congressional Epstein file investigation; Les Wexner subpoena
+- [[Jonathan Ross]] — ICE agent who shot Renée Good; no body camera; June 2025 dragging incident; personal cellphone video
+- [[David Easterwood]] — St. Paul ICE field office director + Cities Church pastor; Jan 5 court declaration; faith/enforcement dual role
+- [[Tim Walz]] — Minnesota governor; led state opposition to Operation Metro Surge; "propaganda machine"; subpoenaed
+- [[Tom Emmer]] — House Majority Whip (R-MN); Anti-CBDC Act sponsor; 219-210 passage; "deplatform" framing
+- [[French Hill]] — House Financial Services Committee Chair (R-AR); CLARITY Act architect; 294-134 passage
+- [[David Sacks]] — "AI and Crypto Czar"; chairs President's Working Group on Digital Asset Markets; PayPal Mafia background
+- [[Jack Clark]] — Anthropic co-founder; Import AI newsletter author; "appropriate fear" vs. techno-optimism framing
+
 ### Organizations
 - [[Federal Reserve]] — US central bank; under intense political pressure 2025; dual mandate; board composition shifting via Trump appointments
 - [[Iran Revolutionary Guards Corps]] — Iran's elite paramilitary; conducting Gulf energy infrastructure strikes
@@ -324,6 +502,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Gala Games]] — Web3 entertainment ecosystem; GalaChain; gaming/music/film; capital-gating controversy
 - [[Tether]] — World's largest stablecoin (USDT); registered BVI; offshore; GENIUS Act loophole beneficiary
 - [[Circle]] — US-based fintech; issuer of USDC (second-largest stablecoin); GENIUS Act primary compliance model
+
+- [[Microsoft]] — $13B OpenAI investor; compute exclusivity antitrust target; UK parallel lawsuit; AI Computational Barrier to Entry
+- [[Grateful Dead]] — American jam band (1965-1995); Garcia + Weir at core; "Long Strange Trip" as cultural phenomenon; 2,314+ concerts
+- [[Dead and Company]] — Grateful Dead revival (2015-2023); John Mayer + 3 surviving members; final tour 2023
+- [[Strategy MicroStrategy]] — World's largest corporate Bitcoin holder; 628K BTC; preferred stock ecosystem; Michael Saylor's vehicle
+- [[io.net]] — DePIN GPU compute network; 500K→12K GPUs after sybil attack; TEE attestation as proposed solution
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
@@ -347,6 +531,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Regulatory Weaponization]] — Using agency designations and enforcement as political punishment tools
 - [[Federal Power as Political Instrument]] — Executive branch tools deployed with partisan logic
 
+- [[ICE Public Opinion Shift]] — Rapid deterioration of ICE favorability during Operation Metro Surge; four major polls; video effect on opinion; "Abolish ICE" messaging
+- [[Budget as Weapon]] — Blue-state targeting via federal spending; $18B NYC freeze; energy grants cancellation; "pass the CR and it goes away" stated explicitly
+- [[Shadow Docket]] — SCOTUS emergency ruling pattern; 23 applications in 8 months (vs. 19 in full Biden term); 17 granted; 5 with zero reasoning
+- [[Rescissions Act of 2025]] — $8.3B rescissions package; PEPFAR carve-outs; 216-214 vote; impoundment doctrine workaround; legal insulation function
+- [[Redistricting Arms Race]] — California Prop 50 as counter to GOP gerrymandering; arm-race dynamic; structural electoral warfare
+
 ### Monetary Policy & Economics
 - [[War-Driven Inflation]] — Supply-shock inflation from military conflict; Strait closure → gas prices → CPI; analog to tariff-driven inflation
 - [[Fed Independence]] — Central bank freedom from executive branch pressure; Burns (failure) vs. Volcker (success); 2025 Trump-Powell test case
@@ -365,6 +555,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador Bitcoin Experiment]] — Only real-world test of Bitcoin as national currency; 92% non-use rate; IMF forced rollback; cautionary tale
 - [[Petrodollar System]] — Global oil trade priced in USD; recycled into US Treasuries; stablecoins as potential digital successor
 - [[Tokenomics]] — Token economic design; DePIN incentive structures; Helium/Render/Gala case studies; sybil attack vulnerability
+
+- [[Crypto Week]] — July 14-18 2025 legislative sprint; GENIUS Act + CLARITY Act + Anti-CBDC Act; partisan gradient; executive-legislative coordination
+- [[Bitcoin as Digital Gold]] — Core thesis of BTC maximalism; evidence for/against; Strategy model; SBR connection; inflation hedge
+- [[Crypto Fraud and Scam Ecosystem]] — Industrialized fraud supply chain; ZachXBT influencer payouts; rugpull scale ($6B); DePIN sybil attacks
 
 ### Diplomacy & Politics
 - [[Coercive Diplomacy]] — Combining credible threats with negotiated off-ramps; Trump's operating mode
@@ -394,6 +588,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[ADHD Medication Shortage]] — FDA-declared shortage since Oct 2022; DEA quota chokepoint; 1B-dosage deficit; global access reform parallels
 - [[Political Stress]] — APA benchmark data; 77% nation's future as stressor; 5% suicidal ideation; bipartisan distribution; racial trauma
 - [[Attention Economy]] — How platforms monetize attention; ADHD as systemic response to designed distraction
+
+- [[Jam Band Genre]] — Improvisation-first genre; Grateful Dead as origin; setlist-free performance; Phish/String Cheese descendants
+- [[Improvisational Music]] — Collective real-time composition; jazz + jam band traditions; role of structure vs. freedom
 
 ### NFL
 - [[NFL Dynasty]] — What constitutes a dynasty; historical rarity; Brady-Belichick paradigm; Seahawks 2026 opening question
@@ -516,9 +713,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 205 |
-| Published articles tracked | 82 (2 series + 10 episodes + 70 nonfiction essays) |
-| Entity pages | 63 |
-| Concept pages | 48 |
+| Total sources ingested | 365 |
+| Published articles tracked | 82 (2 series + 11 episodes + 70 nonfiction essays) |
+| Entity pages | 79 |
+| Concept pages | 58 |
 | Synthesis pages | 0 |
 | Last updated | 2026-04-07 |
