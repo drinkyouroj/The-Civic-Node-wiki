@@ -365,17 +365,17 @@ Processed remainder of "Drink Your OJ" published pieces from Jan-Feb 2026. All s
 - `wiki/articles/Schneider Solved the Salary Cap While Everyone Else Complained.md` (Feb 8) — salary cap as optimization puzzle
 - `wiki/articles/Nodes Over Numbers.md` (Jan 27) — NFC Championship game; output ≠ outcome
 - `wiki/articles/How to Solve a Rival in Three Games.md` (Jan 18) — learning systems beat static systems
-- `wiki/articles/13-3 The Box Score That Ended the Can Seattle'"'"'s Defense Travel? Debate.md` (Jan 4) — 49ers 3-13 Seahawks systematic suffocation
+- `wiki/articles/13-3 The Box Score That Ended the Can Seattle's Defense Travel? Debate.md` (Jan 4) — 49ers 3-13 Seahawks systematic suffocation
 - `wiki/articles/Disguise and Destroy The Macdonald Method That Broke NFL Offenses.md` (Jan 3) — defense transformation through architectural change
 
 **Politics/Geopolitics/Power** (4 essays):
 - `wiki/articles/Bad Bunny Just Showed You Where Real Power Lives.md` (Feb 7) — corporate power pivot from domestic to global revenue
 - `wiki/articles/The Pastor Runs the Gestapo.md` (Jan 30) — Minneapolis ICE shooting, Don Lemon arrest, federal immunity
-- `wiki/articles/Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He'"'"'s Covering Up Epstein).md` (Jan 12) — institutional gaslighting through evidence control
+- `wiki/articles/Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein).md` (Jan 12) — institutional gaslighting through evidence control
 - `wiki/articles/The False Balance Trap.md` (Jan 7) — false equivalence launders authoritarianism
 
 **Technology/Culture** (3 essays):
-- `wiki/articles/Game Theory Assumes You'"'"'re a Sociopath. You'"'"'re Not..md` (Feb 5) — focal point coordination; humans cooperate more than game theory predicts
+- `wiki/articles/Game Theory Assumes You're a Sociopath. You're Not..md` (Feb 5) — focal point coordination; humans cooperate more than game theory predicts
 - `wiki/articles/When Robots Leave the Lab.md` (Feb 3) — physical AI mainstream; ownership determines outcomes
 - `wiki/articles/The Algorithm Ate My Amygdala.md` (Jan 20) — algorithmic feeds destroyed sustained attention
 
