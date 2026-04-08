@@ -4,7 +4,7 @@ type: overview
 tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health]
 created: 2026-04-06
 updated: 2026-04-08
-sources: 0
+sources: 397
 ---
 
 # Research Overview

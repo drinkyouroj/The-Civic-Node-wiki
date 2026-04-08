@@ -18,6 +18,11 @@ import sys
 FRONTMATTER_RE = re.compile(r'^---\n(.*?)\n---\n(.*)', re.DOTALL)
 BULLET_LINK_RE = re.compile(r'^[-*]\s*\[\[([^\]|]+)', re.MULTILINE)
 SOURCES_LINE_RE = re.compile(r'^sources:\s*\d+', re.MULTILINE)
+TYPE_LINE_RE = re.compile(r'^type:\s*(\w+)', re.MULTILINE)
+
+# Page types whose `sources:` field is a curated prose count, not a
+# bullet-citation tally. Skip these so the hook doesn't clobber the value.
+SKIP_TYPES = {'overview', 'index'}
 
 
 def recount_file(path: str) -> bool:
@@ -33,6 +38,10 @@ def recount_file(path: str) -> bool:
 
     if not SOURCES_LINE_RE.search(fm):
         return False  # no sources field — not a managed wiki page
+
+    type_match = TYPE_LINE_RE.search(fm)
+    if type_match and type_match.group(1) in SKIP_TYPES:
+        return False  # curated prose count — leave it alone
 
     bullets = BULLET_LINK_RE.findall(body)
     actual = len(set(bullets))
