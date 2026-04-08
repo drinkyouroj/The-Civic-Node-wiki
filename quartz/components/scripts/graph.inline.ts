@@ -574,6 +574,10 @@ function cleanupGlobalGraphs() {
 }
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+  // Don't initialize the D3/Pixi simulation on mobile — it crashes iOS WebKit.
+  // Matches the same breakpoint used by the desktop-only CSS class.
+  if (!window.matchMedia("(min-width: 800px)").matches) return
+
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
 
