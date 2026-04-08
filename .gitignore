@@ -17,13 +17,17 @@
 
 # Node/npm
 node_modules/
-package-lock.json
 yarn.lock
+# Note: package-lock.json is intentionally tracked for reproducible CI builds (npm ci)
 
 # IDE
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Quartz build output
+public/
+.quartz-cache/
 
 # Temporary files
 *.tmp
