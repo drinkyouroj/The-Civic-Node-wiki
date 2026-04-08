@@ -6,7 +6,7 @@ tags: [politics, federal-immunity, cover-ups, minneapolis, evidence-control]
 published: 2026-01-12
 created: 2026-04-06
 updated: 2026-04-06
-source: "published/Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He'"'"'s Covering Up Epstein).md"
+source: "published/Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein).md"
 ---
 
 ## What It Is

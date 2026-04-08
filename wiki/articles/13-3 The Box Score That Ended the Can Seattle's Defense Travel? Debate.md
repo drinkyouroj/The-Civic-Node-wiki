@@ -6,7 +6,7 @@ tags: [sports-analysis, defense-systems, road-games]
 published: 2026-01-04
 created: 2026-04-06
 updated: 2026-04-06
-source: "published/13-3 The Box Score That Ended the Can Seattle'"'"'s Defense Travel? Debate.md"
+source: "published/13-3 The Box Score That Ended the Can Seattle's Defense Travel? Debate.md"
 ---
 
 ## What It Is
