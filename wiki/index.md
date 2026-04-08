@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-08
-total_pages: 635
-total_sources: 404
+total_pages: 672
+total_sources: 397
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -769,9 +769,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 399 |
-| Published articles tracked | 82 (2 series + 11 episodes + 70 nonfiction essays) |
-| Entity pages | 99 |
-| Concept pages | 86 |
+| Total sources ingested | 397 |
+| Published articles tracked | 82 |
+| Entity pages | 101 |
+| Concept pages | 81 |
 | Synthesis pages | 11 (5 audits + 6 insight sweep) |
 | Last updated | 2026-04-08 |

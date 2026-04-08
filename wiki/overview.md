@@ -3,15 +3,17 @@ title: "Overview"
 type: overview
 tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health]
 created: 2026-04-06
-updated: 2026-04-07
-sources: 385
+updated: 2026-04-08
+sources: 0
 ---
 
 # Research Overview
 
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
 
-The wiki has grown from 31 source documents to **385** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
+The wiki has grown from 31 source documents to **397** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
+
+**Update 2026-04-08**: A three-agent insight sweep ([[Insight Sweep — 2026-04-08]]) surfaced five high-value editorial hooks and prompted twelve source acquisitions: the [[Kevin Warsh]] nomination cluster (5 sources), the [[Operation Metro Surge]] City of Minneapolis $203.1M assessment (which corrected a critical $81B → $81M order-of-magnitude error throughout the wiki), the IMF Press Release 24/485 on [[El Salvador]]'s Extended Fund Facility, the Federal Register 2026 APQ Final Order plus the Vermont Law Review and Reason / Ascent Pharmaceuticals coverage of the [[ADHD Medication Shortage]] regulatory weaponization story. The same day's news cycle added five more sources: [[Epic Games v Apple - Wikipedia]] (the App Store as a legally adjudicated chokepoint that reconstituted itself in compliance form), the Trump-Iran two-week ceasefire with reported $2M-per-ship Hormuz transit fees, Reason on Trump's open civilian targeting in Iran, Chris Taylor's Wisconsin Supreme Court win expanding the liberal majority to 5-2, and Trump-endorsed Clay Fuller's GA-14 special election victory tightening the House GOP margin to 218-214.
 
 ---
 

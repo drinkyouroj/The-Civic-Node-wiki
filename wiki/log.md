@@ -993,3 +993,20 @@ Scraped Epic Games v. Apple from Wikipedia (the chokepoint legal-framework targe
 
 **Index:** total_sources 399 → 404; total_pages 628 → 635
 
+
+## [2026-04-08] update | index/log/overview reconciliation
+
+Reconciled stale counts in the index, log, and overview after the morning's
+insight-sweep + April-7 ingest commits. Actual counts now reflected:
+
+- **Sources**: 397 (index previously said 404; overview said 385)
+- **Entities**: 101 (index Stats said 99)
+- **Concepts**: 81 (index Stats said 86 — concept page count is below the
+  Stats line because some pages were merged or moved during the April 7
+  audit pass; verified via `ls wiki/concepts/*.md | wc -l`)
+- **Syntheses**: 11 (5 audits + 6 insight sweep)
+- **Articles**: 82
+- **Total wiki pages**: 672 (index Stats now matches)
+
+Overview page also received a 2026-04-08 update paragraph summarizing the
+day's insight sweep + 17 new source acquisitions.
