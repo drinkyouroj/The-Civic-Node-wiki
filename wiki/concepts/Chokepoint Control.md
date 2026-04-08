@@ -3,8 +3,8 @@ title: "Chokepoint Control"
 type: concept
 tags: [power, infrastructure, geopolitics, energy]
 created: 2026-04-06
-updated: 2026-04-07
-sources: 6
+updated: 2026-04-08
+sources: 9
 ---
 
 ## Definition
@@ -23,6 +23,8 @@ Chokepoint control is the ability of a state, organization, or actor to regulate
 
 - **Strait of Hormuz** (2026): [[Iran]] closed the Strait after US-Israeli strikes, causing ~37% spike in US gasoline prices in 5 weeks [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
 - Rep. [[Jake Auchincloss]]: Iran's Strait control is "more strategically vital to them than the development of a nuclear weapon"
+- **Strait of Hormuz reopens with conditions** (April 2026): Iran agreed to reopen the Strait under a two-week ceasefire but Foreign Minister Abbas Araghchi specified safe passage "will be possible via coordinating with Iran's Armed Forces." NYT reports Iran intends to charge $2M per ship transit, monetizing the chokepoint as a revenue stream. [[CBC — Trump Iran ceasefire what happens next]]
+- **App Store as platform chokepoint** (Epic v. Apple, 2020-2025): Apple's iOS App Store functions as a fee chokepoint on all iOS commerce. Judge Yvonne Gonzalez Rogers found in 2021 that Apple held ~55% of "digital mobile gaming transactions" with "extraordinary high profit margins" — the textbook coercive-rent profile of chokepoint control. After being ordered to allow external payment links, Apple imposed a 27% compliance fee, prompting an April 2025 contempt finding. The chokepoint reconstituted itself in compliance form before being broken open again. [[Epic Games v Apple - Wikipedia]]
 - Panama Canal, Suez Canal, Malacca Strait — other major maritime chokepoints
 - Subsea internet cables — digital chokepoints with similar structural vulnerability
 - Natural gas pipeline networks in Europe (Russia/Ukraine as recent example)
@@ -42,5 +44,8 @@ Chokepoint control is the ability of a state, organization, or actor to regulate
 ## Key Sources
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Strait of Hormuz as the paradigm geographic chokepoint
+- [[CBC — Trump Iran ceasefire what happens next]] — Hormuz reopens with conditional access and reported transit fees
+- [[Epic Games v Apple - Wikipedia]] — App Store as a legally adjudicated platform chokepoint
 - [[Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty]] — scheme adaptability as a strategic chokepoint within rules-bound competition
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — Schneider controls the structural chokepoints of competitive advantage (cap, comp picks, roster)
+- [[insight-chokepoint-control-architecture-2026-04-08]] — synthesis page generalizing chokepoint logic across geographic, regulatory, and platform domains

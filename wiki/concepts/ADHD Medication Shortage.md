@@ -3,8 +3,8 @@ title: "ADHD Medication Shortage"
 type: concept
 tags: [mental-health, health, politics]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 9
+updated: 2026-04-08
+sources: 12
 ---
 
 ## Definition
@@ -27,6 +27,26 @@ Approximately 22.5 million Americans (15.5 million adults, 7 million children) l
 - The growth in prescriptions is largely adult late-diagnosis — a legitimate population; "the relative number of children and adolescents taking stimulants has not changed in 20 years." [[The DEA's Manufactured Crisis — ADHD Medication Shortage]]
 - Claim: the FTC's public inquiry was designed to diffuse blame away from the DEA rather than fix the underlying quota system. [[The DEA's Manufactured Crisis — ADHD Medication Shortage]]
 
+### The Ascent Pharmaceuticals Case (the cleanest regulatory-weaponization example)
+- Ascent Pharmaceuticals estimated its products constituted **~20% of the generic ADHD medication market** — generics of Adderall, Concerta, Vyvanse, and Ritalin. [[Reason — DEA shuts down drug factory even as Adderall shortage persists]]
+- **April 2022**: Ascent submitted annual quota applications for 11 drugs. Instead of approval, DEA launched an audit.
+- Audit findings included: "Orders struck from [DEA forms] must be crossed out with a line and the word *cancel* written next to them. Investigators found two instances in which Ascent employees had drawn the line but failed to write the word."
+- **Shutdown impact**: Ascent ceased production at its Long Island facility — the company estimates ~600 million annual doses unable to produce.
+- **September 2023**: Ascent sued, seeking an injunction "compelling DEA to respond to Ascent's applications for quotas." DEA promptly denied all of Ascent's quota applications, stating only that it "lacks confidence in the data provided by Ascent in its quota requests" without further specifics.
+- **October 2023 — Operation Bottleneck**: DEA press-released "administrative actions against six DEA-registered companies" framed as anti-diversion enforcement, primarily about opioids. Ascent charged with failing to make records available in timely manner and failing to accurately account for millions of dosages of oxycodone, hydrocodone, and methylphenidate.
+- **November 2023**: Ascent counter-sued DEA, DOJ, and AG Merrick Garland; claimed full cooperation with regulatory inspection, "producing thousands of documents within a few business days of requests."
+- **FDA–DEA interagency contradictions**: FDA regulatory officers contacted Ascent in September 2022 and July/August 2023 asking about supply availability. Each time Ascent replied it had none because of DEA quota delays and asked FDA to escalate. Two U.S. senators also contacted Ascent with the same request. The company was "forced to reply that its hands were tied."
+
+### The Regulatory Framework (legal-academic analysis)
+- Per [[Vermont Law Review — The Quota Crisis Vyvanse Adderall and the Regulation That Limits Access]]:
+  - Statutory authority: **21 U.S.C. § 826** directs the Attorney General (delegated to DEA per 28 CFR 0.100) to set quotas at levels "necessary to meet the estimated medical, scientific, and research needs of the United States"
+  - **2018 framework shift**: DEA revised its framework (83 Fed. Reg. 32784) to emphasize diversion risks in quota setting, "increasing its discretion to limit supply further"
+  - Methodology opacity: "Neither DEA's annual APQ notices nor individual-quota adjudications consistently disclose how prescribing trends, shortage data, and inventory levels are weighted."
+  - "Safety valve" observation: the 2024 Vyvanse/d-amphetamine APQ increase after FDA formal shortage request "demonstrates that the safety valve can function — but only after supply stress has persisted long enough to trigger pressure from patients, public health officials, and congressional oversight measures."
+  - **Three reform proposals**: (1) Amend 21 U.S.C. § 826 to require DEA to use and publish FDA demand inputs; (2) Formalize FDA consultation trigger for Schedule II stimulant APQs under drug shortage statute (21 U.S.C. § 356c); (3) Continue bipartisan Congressional oversight requesting methodology and allocation rationales.
+  - On alternatives: "Targeted tools such as prescription drug monitoring programs (PDMPs), telehealth prescribing standards, and audits of high-risk prescribers directly mitigate misuse while keeping legitimate patients supplied."
+- **2026 APQ**: [[Federal Register — 2026 Aggregate Production Quotas Final Order]] (91 FR 287, effective January 5, 2026) establishes the current-year legal ceiling on Schedule I and II production. Proposed rule was published November 28, 2025; comment period closed December 15, 2025 (two weeks).
+
 ## Tensions & Counterarguments
 - The DEA's quota system was designed to prevent stimulant abuse and diversion — a legitimate public health goal. The shortage is a side effect of strict abuse-prevention policy, not regulatory capture per se.
 - Telehealth expansion of Schedule II prescribing increased access for genuine patients but also created new pathways for non-medical use; legislators are now weighing reversal.
@@ -45,3 +65,6 @@ Approximately 22.5 million Americans (15.5 million adults, 7 million children) l
 - [[GPs to Diagnose ADHD Under NSW Reforms — Australia]] — international reform comparison
 - [[GPs and Nurse Practitioners to Start ADHD Treatment — New Zealand]] — international reform comparison
 - [[The DEA's Manufactured Crisis — ADHD Medication Shortage]] — Dr. Dodson's advocacy piece; clearest explanation of DEA quota mechanism as root cause
+- [[Reason — DEA shuts down drug factory even as Adderall shortage persists]] — Reason magazine February 2024 reporting on the Ascent Pharmaceuticals case; regulatory weaponization example with specific "forgot to write 'cancel'" audit detail
+- [[Vermont Law Review — The Quota Crisis Vyvanse Adderall and the Regulation That Limits Access]] — October 2025 legal-academic analysis; statutory framework, 2018 framework shift, three reform proposals; the scholarly treatment of the quota crisis
+- [[Federal Register — 2026 Aggregate Production Quotas Final Order]] — Primary-source regulatory text; 91 FR 287, effective January 5, 2026; establishes current-year legal ceiling on Schedule I and II production

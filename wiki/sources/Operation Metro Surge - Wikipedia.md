@@ -20,14 +20,14 @@ Wikipedia article covering Operation Metro Surge — the ICE/CBP mass enforcemen
 - Deaths: Renée Good (Jan. 7), Alex Pretti, one in-custody death
 - MN Chief US District Judge Schiltz: ICE violated at least 96 court orders since January 1, 2026
 - Feb. 3: Judge Blackwell said "overwhelming majority" of ICE cases before him involved people lawfully present in the U.S.
-- Minneapolis cost: $200M+ for January alone; $81B business revenue lost; $47M worker wages lost; 76,200 people experienced food insecurity
+- Minneapolis cost: $203.1M total one-month impact per City preliminary assessment — including $81M in business revenue losses (restaurant + small business), $47M in lost wages, 76,200 people experiencing food insecurity. **Note**: Earlier wiki drafts citing "$81 billion" were recording an order-of-magnitude error; the correct figure is $81 million, and the primary source is [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] (Feb 12 2026).
 - Minneapolis schools shifted to remote learning; hotels canceled; airline disruptions; restaurant/hospital/airport workers arrested
 - Journalists arrested; observers surveilled and photographed; physician blocked from helping dying woman
 - DOJ repeatedly downgraded or dismissed formal charges against arrested protesters to misdemeanors, suggesting arrests were for intimidation
 - Former federal attorneys criticized arrests as aimed at intimidation rather than convictions
 
 ## Newsletter Angles
-- The $81 billion figure: local businesses lost $81B in revenue during a one-month immigration enforcement surge. This number should be front-page news everywhere — it makes the fiscal argument that enforcement isn't "free"
+- The $203.1 million total-impact figure: Minneapolis experienced $203.1M in one-month impact including $81M in business revenue losses, $47M in lost wages, $15.7M in additional rent assistance need, plus mental-health and food-security costs. This is the fiscal argument that enforcement is expensive to host cities, and the City of Minneapolis itself published it.
 - The Somali gap: the stated rationale (Somali fraud) bore no relationship to actual enforcement (3% Somali, 35% collateral sweeps). This is a documented case of pretextual enforcement
 - 96 court order violations with no apparent consequences: what does it mean for rule of law when federal agencies violate court orders at scale and face no sanction?
 

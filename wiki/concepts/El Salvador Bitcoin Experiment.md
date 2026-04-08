@@ -3,7 +3,7 @@ title: "El Salvador Bitcoin Experiment"
 type: concept
 tags: [monetary-policy, politics, crypto, geopolitics]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 sources: 19
 ---
 
@@ -20,7 +20,7 @@ El Salvador provides the only real-world experiment in Bitcoin as a national cur
 - **University of Chicago study (2022)**: Despite "big push" incentives, Bitcoin use for everyday transactions remained low. The coordination failure problem: people won't use Bitcoin if merchants don't accept it, and merchants won't accept it if customers don't use it.
 - **Usage figures by 2024**: 92% of Salvadorans did not use Bitcoin for transactions; only ~1% of the population actively used it. Only a small fraction of businesses accepted it.
 - **Chivo Wallet problems**: Hacking incidents, technical failures, eroded public trust.
-- **IMF condition**: El Salvador accepted removal of Bitcoin's legal tender status as a condition of a $1.4 billion IMF loan — a stark acknowledgment that Bitcoin policy was an obstacle to international financing.
+- **IMF condition**: El Salvador accepted constraints on Bitcoin as a condition of a $1.4 billion IMF Extended Fund Facility (EFF) arrangement — a 40-month program announced at staff level December 18, 2024. The specific conditionality language from [IMF Press Release 24/485](https://www.imf.org/en/news/articles/2024/12/18/pr-24485-el-salvador-imf-reaches-staff-level-agreement-on-an-eff-arrangement): "Acceptance of Bitcoin by the private sector will be voluntary and public sector's participation in Bitcoin-related activities will be confined. Taxes will only be paid in U.S. dollars and the government's participation in the crypto e-wallet (Chivo) will be gradually unwound." The program is expected to catalyze additional financing from the World Bank, IDB, and regional development banks for a combined package of over US$3.5 billion. Primary source: [[IMF — Staff-Level Agreement with El Salvador on Extended Fund Facility]]. Notably, the IMF statement attributes El Salvador's tourism pickup to the "improved security situation" — not to Bitcoin policy.
 
 ## The Transparency Problem
 

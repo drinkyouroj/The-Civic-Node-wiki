@@ -3,7 +3,7 @@ title: "Fed Independence"
 type: concept
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 sources: 17
 ---
 
@@ -60,6 +60,9 @@ This is the steelman the wiki currently lacks. It is also a much harder critique
 6. **October 2025 shutdown**: BLS furloughed, denying the Fed September jobs data ahead of its October meeting. The government shutdown compounded the Fed's data blind spot. [[Government shutdown could delay economic reports NPR October 2025]]
 7. **March 2026**: Rate held at 3.5%–3.75%; dot plot revised to show fewer 2026 cuts. Core PCE projected at 2.7% — persistently above target. [[US Fed Funds Rate CME FedWatch April 2026]]
 8. **Arthur Burns revisionism**: New scholarly analysis argues Burns was more adversarial toward Nixon than the standard narrative holds, and that his "all-of-government" anti-inflation approach was principled rather than capitulatory. Complicates the simple "independence good, capture bad" framing. [[Rethinking Arthur Burns the Worst Fed Chair in History]]
+9. **January 30, 2026 — Warsh nomination**: Trump formally nominated [[Kevin Warsh]] to succeed Powell when his term ends in May 2026. Warsh is historically hawkish (Fed Governor 2006–2011, balance sheet skeptic, opposed near-zero post-GFC rates) but has publicly softened since emerging as a successor ("hawk-turned-dove"). His signature views: a "family fight" communication model (closed-door disagreement, public unity), a "smaller balance sheet + lower rates" framework linking balance-sheet reduction to rate-cut space, and an AI-productivity thesis that rationalizes easing even with solid GDP prints. Warsh has argued tariffs won't cause inflation to spike — directly aligning with Trump's position. Sources: [[PBS NewsHour — What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve]], [[CFR — Kevin Warsh Won't Revolutionize the Fed]], [[The Fulcrum — Warsh's Family Fight Model]], [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]], [[Commonfund — Fed Watching under Warsh]].
+10. **DOJ criminal probe of Powell**: A Department of Justice criminal probe of Powell focused on the cost of the Fed HQ renovation and Powell's Congressional testimony about it. Many (including Powell and Senator [[Thom Tillis]]) believe the investigation was launched because the Fed wouldn't cut rates as quickly as Trump wanted. Tillis has said he intends to block the Senate Banking Committee's recommendation of Warsh until this probe is "fully" resolved. This is the most aggressive institutional attack on the Fed in living memory and functions as direct leverage over confirmation of Powell's successor. [[CFR — Kevin Warsh Won't Revolutionize the Fed]]
+11. **Structural constraints on Warsh's power**: Even a compliant chair faces (a) FOMC consensus requirement — rate decisions require majority of 12-member committee; (b) inflation above 2% target limiting aggressive cuts; (c) bond market punishment of perceived independence loss (Trump has shown sensitivity to bond market turbulence); (d) midterm election political risk. The CFR analysis by former Fed Vice Chair Roger Ferguson Jr. concludes: "More plausible than a revolutionary Fed is a chair who communicates differently and echoes Trump's views on the economy without implementing his most radical ideas."
 
 ## Why the Fed Isn't Cutting — Expectations vs. Realized Passthrough
 

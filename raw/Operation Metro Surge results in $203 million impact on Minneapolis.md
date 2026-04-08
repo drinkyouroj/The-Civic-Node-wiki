@@ -1,0 +1,28 @@
+---
+title: "Operation Metro Surge results in $203 million impact on Minneapolis"
+source: "https://www.minneapolismn.gov/news/2026/february/oms-impact/"
+author:
+  - "[[City of Minneapolis]]"
+published: 2026-02-12
+created: 2026-04-08
+description: "Even with an imminent end, City leaders still call for immediate withdrawal of ICE agents and request funds to aid in crisis recovery."
+tags:
+  - "clippings"
+---
+City of Minneapolis leaders today released stark numbers that speak to the far-reaching impacts that Operation Metro Surge has caused to residents, communities and City operations. In one month alone – while up to 3,000 federal immigration enforcement agents invaded neighborhoods – the city experienced at least $203.1 million in impact. That money represents losses to the economy, community livelihoods, neighbors’ mental health, and to food and shelter security.
+
+“The damage caused by Operation Metro Surge doesn’t disappear just because the operation is ending,” said Minneapolis Mayor Jacob Frey. “Families were torn apart, small businesses lost millions and students had their learning disrupted. That impact is real. But Minneapolis has never let hardship define us. We will do what we’ve always done: rebuild even stronger — united in the city we love."
+
+The " [Preliminary Impact Assessment & Relief Needs Overview](https://www.minneapolismn.gov/government/programs-initiatives/city-federal-response/impact-assessment/#d.en.201758) " includes impact data and statistics on the most life-saving urgent needs in the City. This preliminary estimate is a snapshot of the severe consequences in everyday life disrupted by Operation Metro Surge (OMS). In particular, 76,000 people – mostly immigrants, refugees, American Indian/Native American, and Black/African American and People of Color – need urgent relief assistance right now in the City.
+
+OMS is a known protection crisis: a large-scale, complex situation that involves violence, detentions based on racial profiling and alleged human rights violations, preventing people from having the freedom to access basic life-sustaining services. The assessment is organized into four of the most urgently affected sectors of basic needs. Highlights include the following estimates:
+
+<table><tbody><tr><td><p><strong>Sector</strong></p></td><td><p><strong>Explanation</strong></p></td><td><p><strong>Data and Statistics</strong> (for one month unless otherwise noted)</p></td></tr><tr><td colspan="1" rowspan="3"><p>Livelihood</p></td><td colspan="1" rowspan="3"><p>Financial losses to workers and businesses</p></td><td><p><strong>$47 million</strong>: lost wages for people afraid to leave home and go to work</p></td></tr><tr><td><p><strong>$81 million</strong>: restaurant and small business revenue losses</p></td></tr><tr><td><p><strong>$4.7 million</strong>: revenue from hotel cancellations extending through summer</p></td></tr><tr><td colspan="1" rowspan="3"><p>Shelter</p></td><td colspan="1" rowspan="3"><p>Rent assistance</p></td><td><p><strong>35,000</strong>: low-income renter households unable to afford rent before OMS</p></td></tr><tr><td><p><strong>$15.7 million</strong>: additional rent assistance needed due to lost household income since Dec. 2025</p></td></tr><tr><td><p>Evictions due to OMS: too early to quantify</p></td></tr><tr><td colspan="1" rowspan="2"><p>Food Security</p></td><td colspan="1" rowspan="2"><p>Substantial increases in requests for food assistance</p></td><td><p><strong>76,200</strong>: people experiencing food insecurity because of OMS</p></td></tr><tr><td><p><strong>$2.4 million</strong>: Weekly cost of food to support citywide need</p></td></tr><tr><td colspan="1" rowspan="2"><p>Mental Health</p></td><td colspan="1" rowspan="2"><p>Increased need for mental health support</p></td><td><p><strong>8,713</strong>: School-age children in need of services due to OMS</p></td></tr><tr><td><p><strong>50%</strong>: the reduction in client contact reported by service providers because clients are going “underground”</p></td></tr></tbody></table>
+
+“This preliminary assessment is by no means exhaustive, and these totals are almost certainly undercounts. The impacts we are seeing as a city will be felt for decades, even generations to come,” said Director Rachel Sayre, City of Minneapolis Emergency Management. “We need significant funding assistance to meet the urgent needs of our community. This surge has been devastating to so many of our friends and neighbors. It is our collective duty to take care of them as a Welcoming City.”
+
+In addition to the severe impact on the community, OMS has also strained City resources. More than $6 million has been spent on city staff payroll, police overtime and operational expenses in one month alone. Sayre and her team anticipate the overall financial impact could double if the surge continues.
+
+The City is facing a significant financial challenge that could risk its ability to deliver core services without further burdening residents with added property taxes. The City is mindful of keeping spending sustainable in order to maintain sound financial footing. That task is more difficult as economic activity in the City declines while City expenses increase in response to this crisis. The assessment underscores an urgent need for financial assistance from the federal government, from the State of Minnesota and ongoing private philanthropic dollars to aid in the recovery that lies ahead.
+
+The assessment was developed by staff and partners in the City’s Emergency Operations Center.
