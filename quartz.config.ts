@@ -74,7 +74,8 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex removed — wiki uses $ for currency (e.g. $3.5B), not math.
+      // KaTeX's $...$ delimiters conflict with financial notation throughout the content.
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
