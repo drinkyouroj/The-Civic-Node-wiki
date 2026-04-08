@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-07
-total_pages: 622
-total_sources: 378
+updated: 2026-04-08
+total_pages: 628
+total_sources: 387
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -81,6 +81,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
 
 ### AI / Technology
+- [[Best Local LLMs for Every Apple Silicon Mac — 2025 Guide]] — apxml.com, Jul 2025; unified memory architecture; Q4 quantization explainer; Ollama setup; per-RAM-tier model recommendations
+- [[Best Local LLMs for Every Apple Silicon Mac — 2026 Guide]] — apxml.com, Feb 2026; Phi-4 Mini, Qwen3, DeepSeek R1 671B on 512GB Mac; 60% RAM rule; Flash Attention; frontier on consumer hardware
 - [[Britain woos Anthropic expansion after US defence clash]] — Reuters, Apr 5 2026; Anthropic blacklisted by US DoD for refusing military AI; UK recruiting
 - [[2024 Deepfakes and Election Disinformation Report]] — Recorded Future/Insikt Group, Sep 2024; 82 deepfakes in 38 countries; emerging election interference tactics
 - [[AI and the Future of Dynamic Pricing — Entefy]] — Entefy, Jun 2025; AI dynamic pricing across retail, real estate, travel, logistics; 5–10% gross profit gains
@@ -503,7 +505,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Iran Revolutionary Guards Corps]] — Iran's elite paramilitary; conducting Gulf energy infrastructure strikes
 - [[Anthropic]] — AI company; refused DoD military AI demands; blacklisted; being recruited by UK
 - [[Amazon]] — Mechanical Turk (crowdwork platform); Just Walk Out (AI-washed cashierless tech); 750K warehouse robots
-- [[Apple]] — iOS App Store monopoly; UK CAT liable for excessive commissions; EU DMA complaint
+- [[Apple]] — iOS App Store monopoly; UK CAT liable for excessive commissions; EU DMA complaint; Apple Silicon unified memory as local AI hardware moat
+- [[Ollama]] — Open-source tool for running LLMs locally; Apple Silicon optimized; OpenAI-compatible API endpoint
 - [[Meta]] — Facebook parent; algorithm amplifies outrage; Myanmar failures; FTC antitrust
 - [[OpenAI]] — ChatGPT creator; $157B valuation; Microsoft partnership; EU AI Act GPAI subject
 - [[TikTok]] — ByteDance short-video platform; US ban legislation; AI Sovereignty case
@@ -599,7 +602,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ### AI & Technology
 - [[Tech-State Conflict]] — Private AI companies refusing military use; state retaliating with regulatory weapons
-- [[AI Sovereignty]] — Nations competing for AI infrastructure; UK exploiting US-Anthropic rift
+- [[AI Sovereignty]] — Nations competing for AI infrastructure; UK exploiting US-Anthropic rift; on-device inference as individual sovereignty
+- [[On-Device AI]] — Local LLM inference on Apple Silicon; unified memory architecture; quantization; 60% RAM rule; frontier models now on consumer hardware
 - [[LLM Wiki Agent]] — Karpathy's concept: LLM as active maintenance agent; operational foundation of this wiki
 - [[PKM Failure Pattern]] — Why personal knowledge management systems collapse; the Memex → Obsidian → LLM arc
 - [[Mechanical Turk Pattern]] — Systematic marketing of AI products that conceal human labor; Amazon as paradigm

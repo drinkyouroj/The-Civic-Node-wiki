@@ -863,3 +863,21 @@ Continuation of the five-agent audit fixes. Addressed the items the agents had l
 - **Stage B — frontmatter drift recount**: 353 wiki pages had `sources:` count drift ≥3 vs actual `- [[X]]` bullet count in body. Recounted using "every bullet is a source" convention.
 - **Stage C — top 25 stubs**: created 24 stub pages (IMF, SEC, CFTC, Bitcoin, Twitter, Tom Brady, Jerry Garcia, John Mayer, Keir Starmer, Tim Kaine, Rick Crawford, Jake Auchincloss, American Psychological Association, Dead and Company, EU AI Act, Filecoin, Datagram Network, Attention Economy, Cultural Politics of Sport, Applied Behavior Analysis, Surveillance Capitalism, AI Rights, Corporate Personhood, Neurodiversity, AI Therapy) to absorb high-frequency broken wikilinks. One target (Mikie Sherrill) already existed.
 - Stages D (raw triage) and E (index update) deferred — not blocking.
+
+## [2026-04-08] ingest | Local LLM guides × 2 (apxml.com)
+
+**Sources ingested:**
+- `raw/The Best Local LLMs To Run On Every Mac (Apple Silicon).md` → `wiki/sources/Best Local LLMs for Every Apple Silicon Mac — 2025 Guide.md`
+- `raw/Best Local LLMs to Run On Every Apple Silicon Mac in 2026.md` → `wiki/sources/Best Local LLMs for Every Apple Silicon Mac — 2026 Guide.md`
+
+**New pages created:**
+- `wiki/concepts/On-Device AI.md` — local LLM inference; unified memory; quantization; 60% RAM rule; frontier models on consumer hardware; privacy and sovereignty angles
+- `wiki/entities/Ollama.md` — open-source local LLM runtime; Apple Silicon optimization; OpenAI-compatible API
+
+**Pages updated:**
+- `wiki/concepts/AI Sovereignty.md` — added on-device inference as individual/team sovereignty expression
+- `wiki/entities/Apple.md` — added Apple Silicon unified memory architecture section; 2 new source appearances
+
+**Key insight**: DeepSeek R1 (671B parameters) runs locally on a 512GB Mac Studio as of early 2026. Frontier reasoning on consumer hardware is no longer a future projection. This extends [[AI Sovereignty]] from the nation-state level to the individual/team level.
+
+**Index:** total_pages 622 → 628, total_sources 378 → 387

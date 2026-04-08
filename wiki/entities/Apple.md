@@ -11,6 +11,10 @@ sources: 8
 ## Overview
 Apple Inc. is the US-based technology company behind the iPhone, iOS, and the App Store. It has become a central target of global antitrust enforcement due to its control over iOS app distribution — a walled garden that generates significant revenue through mandatory developer commissions of up to 30%.
 
+## Apple Silicon & Local AI
+
+Apple Silicon's unified memory architecture — a single memory pool shared by CPU and GPU — has emerged as a significant advantage for local LLM inference. Unlike traditional PC hardware where model weights must be copied between system RAM and discrete VRAM over a PCIe bottleneck, Apple Silicon accesses weights directly at full memory bandwidth. As of early 2026, a 512GB Mac Studio (M3/M4 Ultra) can run DeepSeek R1 (671B parameters) at Q4 quantization locally — frontier reasoning on consumer hardware. See [[On-Device AI]].
+
 ## Key Facts
 - iOS App Store charges commissions up to 30%; reduced to 15% for developers earning <$1M/year (from end of 2020)
 - UK Competition Appeal Tribunal ruled Apple abused market power over iOS app distribution and in-app payments, October 2015–end 2020 [[Apple Loses UK Antitrust Lawsuit Over App Store Fees]]
@@ -33,6 +37,8 @@ Apple's App Store litigation is the clearest current example of the Platform Ant
 ## Source Appearances
 - [[Apple Loses UK Antitrust Lawsuit Over App Store Fees]] — found liable for App Store monopoly abuse
 - [[Apple Hit with EU Antitrust Complaint Over App Store Policies]] — DMA complaint over SBLC requirement
+- [[Best Local LLMs for Every Apple Silicon Mac — 2025 Guide]] — unified memory architecture as enabling hardware for on-device AI
+- [[Best Local LLMs for Every Apple Silicon Mac — 2026 Guide]] — frontier models (DeepSeek R1 671B) now runnable on Mac Studio; the accidental AI infrastructure moat
 
 ## Open Questions
 - Will the UK appeal succeed? On what legal grounds?

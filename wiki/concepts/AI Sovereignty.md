@@ -23,6 +23,7 @@ AI sovereignty refers to nations' efforts to establish control over, or domestic
 - **US blacklisting Anthropic**: Using supply-chain risk designation to prevent a non-compliant AI company from operating with federal agencies
 - **EU AI Act**: Regulatory sovereignty — Europe setting rules for AI systems operating in its market
 - **China's AI regulation**: Requiring LLMs to align with "core socialist values" — content-level sovereignty
+- **On-device inference (2025–2026)**: [[On-Device AI]] extends sovereignty to the individual and team level. A 512GB Apple Silicon Mac can run DeepSeek R1 (671B parameters) locally. No API, no cloud provider, no data exposure. See [[Best Local LLMs for Every Apple Silicon Mac — 2026 Guide]].
 
 ## Tensions & Counterarguments
 
@@ -35,6 +36,7 @@ AI sovereignty refers to nations' efforts to establish control over, or domestic
 - [[Tech-State Conflict]] — sovereignty pressures create tech-state conflicts
 - [[Regulatory Weaponization]] — one tool of AI sovereignty enforcement
 - [[Chokepoint Control]] — compute and AI talent as choke points in the geopolitical competition
+- [[On-Device AI]] — individual/team-level expression of AI sovereignty; no cloud dependency required
 
 ## Key Sources
 
