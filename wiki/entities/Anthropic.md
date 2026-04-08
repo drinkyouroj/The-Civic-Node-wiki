@@ -5,7 +5,7 @@ entity_type: organization
 tags: [power, depin, politics, ai, technology]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 7
+sources: 8
 ---
 
 ## Overview
@@ -58,6 +58,7 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 - [[How Much Money Do OpenAI and Anthropic Actually Make]] — actual revenue analysis (vs. ARR); burn rate context
 - [[Anthropic Catching Up to OpenAI — On Track for $9 Billion Annual Run Rate]] — October 2025 revenue and valuation update
 - [[Ghost Work — The Hidden Humans Behind AI (Science Array)]] — Scale AI (Anthropic's former data labeling partner) context
+- [[Jack Clark on AI Fear — Anthropic Co-Founder Speech]] — Yahoo Finance Australia; Clark's Berkeley speech; "creature not machine" framing; 50-50 fear
 
 ## Open Questions
 

@@ -5,6 +5,69 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-07] ingest | Triage & ingest of 73 unreferenced raw files — 11 source pages created
+
+Triaged all 73 raw files flagged as unreferenced. Found 44 already ingested under existing source pages (different filename or consolidated). 18 were noise/skip (gaming, nav pages, thin marketing content). Created 11 new source pages.
+
+**Skipped — already in wiki (different filename or consolidated):**
+- `Rethinking Arthur Burns...` → already as `Rethinking Arthur Burns the Worst Fed Chair in History.md`
+- `Satoshi Nakamoto, Bitcoin...` → already as `Satoshi Nakamoto Bitcoin Whitepaper 2008.md`
+- `Bureau of Economic Analysis...GDP...` → already as `Gross Domestic Product First Quarter 2025 Advance Estimate BEA.md`
+- Both Microsoft antitrust files → already as `Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity.md`
+- `Securities Enforcement Roundup – April 2026.md` → file is actually April 2025 content; already as `Securities Enforcement Roundup April 2025 — Morgan Lewis.md`
+- `Rescissions Act of 2025 - Wikipedia.md` → already as `Rescissions Act of 2025 — Wikipedia.md`
+- `"Masking Is Life"...md` → already as `Masking Is Life — Experiences of Masking in Autistic and Nonautistic Adults.md`
+- `Bad Bunny is Spotify's most-streamed...` → already as `Bad Bunny Spotify Global Top Artist 2025.md`
+- `Press Release House Passes Anti-CBDC...` → already as `Anti-CBDC Act Passes House — Tom Emmer Press Release.md`
+- `House Announces Week of July 14th as "Crypto Week"` → already as `House Announces Crypto Week July 14 — Financial Services Committee.md`
+- `"We play three to four hours...Bob.md"` → already as `Bob Weir's Six Principles of Rhythm Guitar.md`
+- `Darnold, Seahawks outlast Rams for NFC title...` → already covered by NFC Championship pages
+- Multiple Seahawks/49ers game recap files → already consolidated in existing NFC pages
+- `Sen. Whitehouse on Congress' "enormous step forward"...` → already as `Sen. Whitehouse on Congress enormous step forward with Epstein probe.md`
+
+**Skipped — noise/thin content:**
+- Google Search, Google Search Quality Evaluator Guidelines, Home page, Popular Articles, espn.com, Google Books — navigation pages
+- HELLDIVERS 2 on Steam, Arc Raiders (both files) — gaming unrelated to newsletter
+- Leadership Cities Church, Thought Leadership software, About - Partnership on AI — thin/irrelevant
+- Northcrypto Finland cryptocurrency exchange, Crypto media outlet Best 20 projects — thin crypto noise
+- llm-wiki.md, the original article text.md — system files
+- How stablecoins could affect borrowing costs (ABA) — captured page with no actual article content (ISM Services index instead)
+- Citizens United v. FEC Case Brief Summary — paywalled stub with no substance
+- Impact of Dynamic Pricing on Customer Behavior (Hirebase/Framer) — thin marketing blog
+- How Social Media Algorithms Are Set to Change in 2025 (TouchstoneDigital) — thin marketing blog
+- Keep Up With Social Media Algorithm Changes (Vista Social) — thin marketing blog
+- What's next in AI 7 trends to watch in 2027.md — identical file to 2026 version, duplicate fetch
+- State of U.S. Tariffs July 14, 2025.md — already as `State of U.S. Tariffs July 14, 2025.md` (already in wiki)
+
+**Source pages created (wiki/sources/):**
+- `The Use of Knowledge in Society — Hayek.md` — Hayek 1945 AER essay; dispersed knowledge; price system as information; foundational text
+- `The Strategy of Conflict — Thomas Schelling.md` — Schelling 1960; focal points; commitment mechanisms; compellence vs. deterrence
+- `What Are Deepfakes — Reality Defender.md` — Reality Defender explainer; 30-second voice cloning; non-consensual pornography dominant use; banking attacks
+- `State of Digital Health 2024 — CB Insights.md` — AI captures 42% of digital health funding; deal count lowest since 2014; drug discovery mega-rounds
+- `Time Spent on Social Media — DataReportal 2024.md` — 2 hrs 23 min/day; 500 million years of collective annual attention; TikTok highest time-per-user
+- `Jack Clark on AI Fear — Anthropic Co-Founder Speech.md` — "creature not machine" framing; 50-50 fear; "broadly unencumbered" trajectory
+- `AI Tech Trends 2026 — IBM Think.md` — IBM quantum milestone claim; agentic AI as coworkers; efficiency over scale; healthcare AI gap
+- `What's Next in AI — Microsoft 7 Trends 2026.md` — human amplification framing; agent security; MAI-DxO 85.5% medical accuracy
+- `Future of AI Pricing — SuperAGI.md` — 75% retail AI pricing adoption; 5% revenue gain (Forrester); personalized pricing exploitation risk acknowledged
+- `Congress Delivers for Crypto — Hill Op-Ed by Chairman Hill and Thompson.md` — op-ed by both committee chairs; "national priority" framing; Biden-blame framing
+- `ICE Voter Favorability — Data for Progress January 2026.md` — n=1,225; +13→-9 ICE favorability flip; 55% oppose increased funding; Independents -20
+
+**Entity pages updated:**
+- `Jack Clark.md` — sources 2→3; added Jack Clark on AI Fear source
+- `Anthropic.md` — sources 7→8; added Jack Clark speech source
+
+**Concept pages updated:**
+- `Algorithmic Radicalization.md` — sources 6→7; added DataReportal time-spent source
+- `Dynamic Pricing AI.md` — sources 4→5; added SuperAGI source
+- `Deepfake Disinformation.md` — sources 2→3; added Reality Defender explainer
+- `Focal Point Coordination.md` — sources 1→2; added Schelling primary text
+- `Crypto Week.md` — sources 14→15; added Hill op-ed
+- `ICE Public Opinion Shift.md` — sources 5→6; added Data for Progress polling as proper source page
+
+**Index updated:** total_pages 583→594, total_sources 374→385
+
+---
+
 ## [2026-04-07] ingest | Federal Reserve / Monetary Policy cluster — 30 source pages, 5 entity pages, 5 concept pages
 
 Processed the Federal Reserve / Monetary Policy cluster. Of the 40 assigned raw files, approximately 30 were confirmed present and readable. Many files in the task list do not exist under those exact filenames in raw/ — the wiki covers the substantive content through the files that were found.

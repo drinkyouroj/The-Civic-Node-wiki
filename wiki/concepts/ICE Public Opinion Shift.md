@@ -4,7 +4,7 @@ type: concept
 tags: [politics, immigration, polling, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 5
+sources: 6
 ---
 
 ## Definition
@@ -32,6 +32,7 @@ The ICE public opinion shift is a case study in how a single vivid, video-docume
 - [[Political Stress]] — ICE disapproval is an expression of accumulated political anxiety about state violence
 
 ## Key Sources
+- [[ICE Voter Favorability — Data for Progress January 2026]] — primary polling source; +13 to -9 favorability flip; 55% oppose increased ICE funding; "Abolish ICE" meaning contested
 - [[A Majority of Voters Are Unfavorable of ICE, Are Divided on What Abolish ICE Means]] — Data for Progress; trajectory since inauguration
 - [[Fox News Poll 59 Percent of Voters Say ICE Is Too Aggressive]] — Fox's own poll; coalition fracture among non-MAGA Republicans
 - [[Poll 63 Percent Disapprove of ICE Trump Approval at 34 Percent UPI]] — NYT/Siena; 63% disapproval; Trump threatened to sue

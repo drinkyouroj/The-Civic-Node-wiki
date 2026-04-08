@@ -4,7 +4,7 @@ type: concept
 tags: [technology, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 7
 ---
 
 ## Definition
@@ -46,3 +46,4 @@ Algorithmic radicalization is the mechanism connecting platform business models 
 - [[2024 Deepfakes and Election Disinformation Report]]
 - [[Memes and the Extreme Right Wing — ISD Explainer]] — content-layer mechanism; humor/irony as Overton Window tool; Christchurch as meme-terrorism case study
 - [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]] — journalism-specific evidence; "shareworthiness" replacing newsworthiness; self-censorship by journalists; 78-study systematic review
+- [[Time Spent on Social Media — DataReportal 2024]] — scale anchor: 2 hrs 23 min/day average; 500 million years of collective attention annually; TikTok highest time-per-user

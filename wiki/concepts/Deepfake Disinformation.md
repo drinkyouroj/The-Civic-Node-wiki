@@ -4,7 +4,7 @@ type: concept
 tags: [technology, ai, politics, disinformation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 2
+sources: 3
 ---
 
 ## Definition
@@ -39,3 +39,4 @@ The deepfake threat to elections and democratic discourse is not a hypothetical 
 ## Key Sources
 - [[2024 Deepfakes and Election Disinformation Report]]
 - [[Memes and the Extreme Right Wing — ISD Explainer]] — memes as lower-tech precursor to deepfakes; same irony/humor mechanism used to distribute; shared distribution infrastructure
+- [[What Are Deepfakes — Reality Defender]] — definitional explainer; voice cloning from 30 seconds of audio; non-consensual pornography as dominant use; banking biometric attack vector

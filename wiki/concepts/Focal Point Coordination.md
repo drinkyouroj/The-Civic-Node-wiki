@@ -4,7 +4,7 @@ type: concept
 tags: [game-theory, cooperation, systems-design, incentives]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 1
+sources: 2
 ---
 
 ## Definition
@@ -82,4 +82,5 @@ Identified by economist Thomas Schelling (1960): people coordinate on solutions 
 ## Key Sources
 
 - [[published/Game Theory Assumes You're a Sociopath. You're Not.]] — comprehensive framework
+- [[The Strategy of Conflict — Thomas Schelling]] — primary Schelling text; focal points, commitment mechanisms, compellence vs. deterrence; game theory foundations
 - Thomas C. Schelling, *The Strategy of Conflict* (1960)

@@ -4,7 +4,7 @@ type: concept
 tags: [crypto, politics, legislation, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 14
+sources: 15
 ---
 
 ## Definition
@@ -88,6 +88,7 @@ U.S. crypto legislation sets the global standard. EU [[MiCA]] (in force December
 ## Key Sources
 
 - [[House Announces Crypto Week July 14 — Financial Services Committee]]
+- [[Congress Delivers for Crypto — Hill Op-Ed by Chairman Hill and Thompson]] — op-ed from the two committee chairs; Biden-blame framing; "national priority" language; July 14, 2025
 - [[Ending the Era of Uncertainty — House Agriculture Committee Op-Ed]]
 - [[Crypto Week Policy Playbook for CFOs — PYMNTS]]
 - [[Crypto Week Kicks Off — Global Government Fintech]]

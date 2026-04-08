@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-07
-total_pages: 583
-total_sources: 374
+total_pages: 594
+total_sources: 385
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -105,6 +105,13 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Delta Air Lines AI Pricing with Fetcherr — Early Results]] — Airline AI dynamic pricing early results; consumer surplus implications
 - [[Memes and the Extreme Right Wing — ISD Explainer]] — ISD systematic analysis; meme-to-mainstream pipeline; platform amplification
 - [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]] — 129-study systematic review; no consensus on echo chambers; methodology variance
+- [[What Are Deepfakes — Reality Defender]] — Reality Defender, Jun 2024; definitional explainer; 30-second voice cloning; non-consensual pornography as dominant use; banking biometric attacks
+- [[State of Digital Health 2024 — CB Insights]] — CB Insights, Apr 2025; AI captures 42% of digital health funding; deal count lowest since 2014; fewer deals, bigger checks
+- [[Time Spent on Social Media — DataReportal 2024]] — DataReportal/GWI, Jan 2024; 2 hrs 23 min/day average; 500 million years of collective annual attention; TikTok highest time-per-user
+- [[Jack Clark on AI Fear — Anthropic Co-Founder Speech]] — Yahoo Finance Australia, Oct 2025; "creature not machine" framing; 50-50 fear; "broadly unencumbered" trajectory
+- [[AI Tech Trends 2026 — IBM Think]] — IBM Think, Jan 2026; quantum advantage milestone claim; agentic AI as digital coworkers; efficiency over scale; healthcare AI
+- [[What's Next in AI — Microsoft 7 Trends 2026]] — Microsoft News, Jan 2026; human amplification framing; agent security; MAI-DxO 85.5% accuracy; healthcare gap
+- [[Future of AI Pricing — SuperAGI]] — SuperAGI, Jun 2025; 75% retail AI pricing adoption; 5% revenue gain; personalized pricing exploitation risk
 - [[CCPA Strikes Back — Tractor Supply $1.35 Million Fine]] — California CCPA enforcement; $1.35M fine; cross-site tracking
 - [[California Targets Tractor Supply's Tricky Tracking — EFF]] — EFF analysis of Tractor Supply CCPA violation; third-party pixel tracking mechanism
 - [[The Role of Narratives in Economics — ProMarket]] — Economic narrative theory; scaffolding for AI hype and polarization analysis
@@ -224,6 +231,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[White House SAP Anti-CBDC Act — OMB]] — Official White House Statement of Administration Policy; "deplatform" language; administration position
 - [[Securities Enforcement Roundup April 2025 — Morgan Lewis]] — SEC Corp Fin stablecoin statement Apr 4 2025; Crenshaw dissent; pre-GENIUS groundwork
 - [[Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill]] — TOI Jul 16 2025; Truth Social lobbying; Trump met 11 of 12 holdouts; "ALL REPUBLICANS SHOULD VOTE YES"; MAGA-as-crypto framing
+- [[Congress Delivers for Crypto — Hill Op-Ed by Chairman Hill and Thompson]] — The Hill, Jul 14 2025; op-ed by committee chairs French Hill + G.T. Thompson; "national priority" framing; Biden-blame; GENIUS + CLARITY + Anti-CBDC package
 - [[State of Crypto — Government Shutdown Nears a Record]] — CoinDesk Nov 1 2025; shutdown's cascading effect on CLARITY Act Senate timeline; Oct 20 markup missed; Democratic leverage calculus
 - [[CLARITY Act One-Pager — House Financial Services Committee]] — Official one-page summary; "Digital Asset Market Clarity Act" formal framing
 
@@ -303,6 +311,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Emergencies Act - Wikipedia]] — Canada Emergencies Act; 2022 invocation; comparison to US shutdown powers
 
 - [[A Majority of Voters Are Unfavorable of ICE]] — Data for Progress poll; ICE favorability flipped +13 to -9; "Abolish ICE" definition confusion
+- [[ICE Voter Favorability — Data for Progress January 2026]] — Data for Progress, Jan 2026; n=1,225; +13 → -9 favorability flip; 55% oppose increased funding; Independents -20
 - [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — Class-action Hussen v. Noem; racial profiling of Somali/Latino Minnesotans; Jan 15 2026
 - [[DOJ Investigating After Activists Disrupt St Paul Church Where MN ICE Official Is a Pastor]] — Twin Cities/AP; Jan 18 church protest; Easterwood's dual role; DOJ FACE Act probe
 - [[Fox News Poll 59 Percent of Voters Say ICE Is Too Aggressive]] — Fox poll; 10-point jump since July; non-MAGA Republican shift (+23); abolish ICE doubled
@@ -427,8 +436,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[What Makes An NFL Dynasty]] — Sports History Network, Jul 23 2023; mathematical framework; 12-14 true dynasties in NFL history
 - [[The NFL and Sample Sizes — It's Not Just the Salary Cap That Creates Parity]] — EXACT Sports, Jul 19 2010; variance vs. skill; sample size as primary parity driver
 
-### Knowledge Management
+### Foundational Texts / Theory
 - [[As We May Think]] — Vannevar Bush, The Atlantic, Jul 1945; Memex concept; primary source for Bush entity and LLM wiki arc
+- [[The Use of Knowledge in Society — Hayek]] — Friedrich Hayek, AER, 1945; dispersed knowledge; price system as information; epistemic case against central planning
+- [[The Strategy of Conflict — Thomas Schelling]] — Thomas Schelling, 1960; focal points; power to bind oneself; compellence vs. deterrence; game theory foundations
 
 ---
 
