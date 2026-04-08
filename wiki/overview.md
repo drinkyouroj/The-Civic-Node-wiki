@@ -1,189 +1,177 @@
 ---
 title: "Overview"
 type: overview
-tags: [politics, power, monetary-policy, geopolitics, energy, infrastructure, depin, technology, ai, sports]
+tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health]
 created: 2026-04-06
 updated: 2026-04-07
-sources: 31
+sources: 385
 ---
 
 # Research Overview
 
-*High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources — not the full scope of published work.*
+*High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
+
+The wiki has grown from 31 source documents to **385** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
 
 ---
 
-## Coverage Gap Note
+## Major Source Clusters
 
-The wiki's raw sources (31 documents) cover a narrower range than the published essays (80 posts). Large portions of the newsletter's output on **DePIN, crypto legislation, monetary policy, AI rights, and domestic political events (2025)** have no corresponding raw sources filed here. The wiki accurately reflects what has been formally ingested; the published articles contain claims and analysis that go beyond it.
+### 1. Crypto Regulation & Stablecoin Legislation (~80 sources)
 
----
-
-## Current Source Clusters
-
-### 1. US-Iran War & Geopolitical Infrastructure (2 sources)
-
-The dominant near-term story. [[Donald Trump]] launched US-Israeli strikes on [[Iran]] February 28, 2026. Iran responded by closing the [[Strait of Hormuz]] and expanding strikes to Gulf energy infrastructure (Kuwait, UAE, Bahrain) on April 5. Trump issued an Easter Sunday ultimatum: open the Strait by April 8 or face strikes on power plants and bridges.
+The single largest cluster. Centers on **Crypto Week** (July 14–18, 2025), when the House passed the [[GENIUS Act]] (stablecoins), [[CLARITY Act]] (market structure), and the [[Anti-CBDC Surveillance State Act]]. Trump signed GENIUS into law July 18 — the first comprehensive federal stablecoin framework.
 
 Key dynamics:
-- **[[Coercive Diplomacy]]**: Trump simultaneously claims Iran is negotiating and threatens to "blow up the whole country" — deliberate ambiguity as strategy
-- **[[Infrastructure Warfare]]**: Both sides targeting physical systems (Strait closure, US threats against desalination plants and power grids)
-- **[[War-Driven Inflation]]**: Gas up ~37% in 5 weeks; supply shock the Fed cannot address with rate tools
-- **[[Coalition Fracture]]**: MTG broke publicly with Trump over war rhetoric; congressional criticism from both parties
-- **[[Oil Seizure as Coercion]]**: Trump's threat to "take" Iranian oil as alternative coercive lever
+- **100% T-bill reserve requirement** as a captive Treasury demand mechanism — extending dollar hegemony into digital finance
+- **Trump family conflict of interest**: World Liberty Financial (60% Trump-owned) issues USD1 stablecoin; the GENIUS Act explicitly carves out the "USD" abbreviation; ethics provision (Sec. 111) doesn't cover stablecoin issuers
+- **The Tether loophole**: offshore non-compliant issuers can still circulate on U.S. decentralized exchanges
+- **Big Tech split**: public non-financial companies blocked unless SCRC unanimously approves; private companies (Musk's X) face no restriction
+- **[[El Salvador]] as the only real-world test case**: experiment failed by its own metrics; IMF forced removal of legal tender status (Jan 2025); 92% non-use rate
+- **[[Strategic Bitcoin Reserve]]**: Trump EO; BTC + ETH + XRP + SOL reserve assets
 
-Active backchannel negotiations continue beneath the public confrontation.
+The CLARITY Act Senate analog stalled during the October–November 2025 government shutdown; market structure legislation remains the unfinished piece.
 
-### 2. Tech-State Conflict: Anthropic (1 source)
+### 2. Federal Reserve / Monetary Policy (~30 sources)
 
-The [[US Department of Defense]] blacklisted [[Anthropic]] as a "supply-chain risk" after the company refused to allow [[Claude]] to be used for military surveillance or autonomous weapons. A US judge temporarily blocked the designation. The [[United Kingdom]] moved immediately to recruit Anthropic — offering London expansion and dual listing.
+Trump's 2025 assault on Federal Reserve independence is the most aggressive executive attack on a central bank since Nixon pressured [[Arthur Burns]] in the 1970s.
 
-This is [[Regulatory Weaponization]] in its clearest form: a national security designation used not for security purposes but as retaliation for non-compliance. It also demonstrates [[AI Sovereignty]] as a live geopolitical competition.
+- **The pressure campaign**: Truth Social attacks on Powell ("too stupid," "moron," "total loser"); July 24 visit to Fed construction site over renovation costs; attempted firing of [[Lisa Cook]] (blocked by federal appeals court)
+- **The Miran appointment**: CEA chair [[Stephen Miran]] joined the FOMC on "unpaid leave"; immediately dissented for 50 bps cut
+- **The tariff paradox**: Trump's tariffs raised the U.S. effective rate to 20.6% (highest since 1910), preventing the rate cuts he was demanding. Powell publicly attributed the rate holds to tariff inflation
+- **Historical parallel**: The [[The Great Inflation]] essay and Volcker tributes provide the 1965–1982 baseline; Burns's revisionist defense vs. Volcker as independence model
+- **Government shutdown effects**: BLS furloughed; Sept jobs report withheld; FOMC operating in a data blackout for the October meeting; Fed cut anyway
 
-### 3. Domestic Power: Hospice Enforcement & Retroactive Protection (3 sources)
+### 3. Domestic Politics — Shutdown, Kirk, ICE, Elections (~60 sources)
 
-Two patterns of executive power operating in parallel:
+The October 1 – November 12, 2025 government shutdown ran 43 days — longest in U.S. history. It overlapped with the [[Charlie Kirk]] assassination (Sept. 10), [[Operation Metro Surge]] (Minnesota ICE crackdown including the [[Killing of Renée Good]]), and the November 4 Democratic sweep ([[Spanberger]] in VA, [[Sherrill]] in NJ, [[Mamdani]] in NYC, CA Prop 50).
 
-**Regulatory displacement**: Trump's CMS Administrator [[Mehmet Oz]] launched an aggressive hospice fraud crackdown explicitly targeting California while simultaneously defunding the federal fraud prevention apparatus. The California Gov. press release (Mar 24, 2026) revealed the inversion: California had independently revoked 280+ hospice licenses and arrested 284 criminals since 2021 — years before federal pressure. Federal enforcement wasn't filling a gap; it was attacking a state that had filled the gap itself.
+Key threads:
+- **Shutdown as enforcement leverage**: White House canceled $8B in energy grants to Democratic states on Day 1; explicitly linked restoration to CR passage
+- **Federal data infrastructure damage**: BLS, BEA, Social Security COLA calculations all disrupted; NPR/CNBC documented persistent capability loss
+- **Kirk assassination's downstream effects**: $203.5M in Congressional security funding added to the eventual CR; delayed CR release; Vance hosted Kirk Show memorial episode
+- **ICE legitimacy collapse**: Data for Progress polling shows ICE favorability flipped from +13 to -9; 55% oppose increased funding; Independents at -20
+- **The 2025 elections** as the political verdict on Trump's first 9 months back; the shutdown was the electoral backdrop
 
-This reframes the pattern: not [[Regulatory Weaponization]] (punishing a target) but **enforcement displacement** — withdrawing federal capability while publicly attacking the entity that built the replacement.
+### 4. AI Hidden Labor — The Mechanical Turk Pattern (~13 sources)
 
-**[[Retroactive Executive Protection]]**: SCOTUS cleared the way for Trump's DOJ to vacate [[Steve Bannon]]'s contempt conviction. Combined with the 2021 border wall pardon, this documents a pattern of erasing legal consequences for political allies post-hoc.
+The most heavily sourced thematic cluster outside crypto. Across documents spanning 2016–2025, a consistent pattern: AI products marketed as autonomous while concealing systematic human labor.
 
-> ⚠️ Contradiction with simple "regulatory weaponization" framing: see [[Regulatory Weaponization]] concept page for the enforcement displacement refinement.
+- **Amazon Just Walk Out**: 700 human reviewers per 1,000 transactions; discontinued 2024
+- **Cruise robotaxis**: human operators every 4–5 miles; permit revoked after cover-up
+- **Google Search**: 16,000 human raters behind "algorithmic" search rankings
+- **Global ghost workers**: $1–2/hr; subcontracting concealment for plausible deniability
+- **U.S. data workers**: median $22,620/yr; 25% on public assistance
+- **The 1770 etymology**: Amazon named its crowdwork platform after Wolfgang von Kempelen's chess automaton that hid a human chess master inside — they were telling you exactly what it was
+- **Counter-narrative**: ATMs and bank tellers (AEI/Bessen) — automation can expand demand and increase total employment
 
-### 4. AI Hidden Labor: The Mechanical Turk Pattern (11 sources)
+The [[Mechanical Turk Pattern]] concept page consolidates this. Tension with [[Leverage Erasure Through Automation]]: both produce workers without leverage, through opposite mechanisms.
 
-The most heavily sourced cluster. Across 11 documents spanning 2016–2025, a consistent pattern emerges: AI products are marketed as autonomous while concealing systematic human labor dependency.
+### 5. AI / Technology — Antitrust, Personhood, Regulation (~35 sources)
 
-Key evidence:
-- **Amazon Just Walk Out**: 700 human reviewers required per 1,000 transactions; discontinued 2024
-- **Cruise robotaxis**: Human operators required every 4–5 miles; permit revoked after cover-up
-- **Google Search Quality Raters**: 16,000 humans behind "algorithmic" search rankings
-- **Global ghost workers**: $1–2/hr median wages; subcontracting chains obscure the labor
-- **US data workers**: Median $22,620/yr; 25% on public assistance; AWU-CWA/TechEquity report (Sep 2025)
-- **Mechanical Turk etymology**: Amazon named its crowdwork platform after Wolfgang von Kempelen's 1770 chess automaton that hid a human inside — the naming is not accidental
+Adjacent to the labor cluster but distinct:
 
-The [[Mechanical Turk Pattern]] concept page consolidates this. Key tension with [[Leverage Erasure Through Automation]]: both produce workers without leverage, but through opposite mechanisms — one by replacing labor, one by making it invisible.
+- **[[AI Legal Personhood]]**: [[DABUS]] patent cases — every major patent authority refused AI inventorship except South Africa (no substantive examination). [[Thaler v Vidal]] (Federal Circuit Aug 2022) is binding U.S. precedent: "individual" in Patent Act = natural person only
+- **[[Tech-State Conflict]]**: DoD blacklisted [[Anthropic]] as "supply-chain risk" after refusing military use; UK immediately recruited; Jack Clark's "creature not machine" framing
+- **[[Platform Antitrust]]**: Apple App Store losses in UK (CAT) and EU (DMA); Microsoft sued over OpenAI deal; FTC vs. Meta
+- **[[CISA Jawboning]]**: First Amendment soft underbelly. SCOTUS dismissed Murthy v. Missouri on standing; March 2026 settlement bars CISA coercion for 10 years; FCC Chair Carr's threat to ABC over Kimmel monologue as Trump-era parallel
+- **[[EU AI Act]]** as the global regulatory template; [[Digital Markets Act]] as the structural intervention model
+- **[[Algorithmic Radicalization]]** and **[[Echo Chamber and Polarization]]**: NYU Stern, Facebook internal research, social media as polarization vector
+- **[[Dynamic Pricing AI]]**: tacit collusion via personalized pricing; Carnegie Mellon evidence of consumer welfare harm
 
-### 5. NFL Dynasty: Seahawks as Live Case Study (9 sources)
+### 6. Mental Health / ADHD / Autism (~30 sources)
 
-The Seahawks winning Super Bowl LX provides a real-time test case for what constitutes a dynasty and how one is built under the modern NFL's constraints.
+A cluster that builds the case for structural — not individual — explanations of the mental health crisis.
 
-**The Schneider method** (sourced across 4 documents): [[John Schneider]] built the Super Bowl roster using compensatory picks, restructured contracts, and multi-channel acquisition — without holding over a single player from the prior regime. This is the salary cap not as ceiling but as optimization variable. The 10-7 → 14-3 → Super Bowl trajectory in one offseason is the empirical result.
+- **[[ADHD Medication Shortage]]**: FDA-declared since October 2022; persists through 2025; DEA Schedule II quota mechanism is the chokepoint; 1-billion-dosage production deficit; Australia/NZ reformed GP prescribing as the comparative reform model. Primary source: [[DEA Aggregate Production Quotas 2025 — Federal Register]]
+- **[[Political Stress]]**: APA Stress in America 2024 — 77% cite the nation's future as a stressor; 5% report political suicidal ideation; bipartisan distribution; racial trauma
+- **[[Autistic Masking]]**: 3x suicide rate; ABA critique; gender diagnosis gap; "Masking Is Life" peer-reviewed cross-neurotype research
+- **[[Therapist Shortage]]**: parallel structural access failure; specialist bottleneck drives both
+- **[[BetterHelp]] FTC action**: $7.8M settlement for sharing mental health data with Facebook/Snapchat — the privacy/HIPAA gap
+- **The Bob Weir cluster**: musical practice as a model of sustainable creative attention; the Grateful Dead's improvisational architecture as counterpoint to attention economy
 
-**The Macdonald method** (2 sources): [[Mike Macdonald]] transformed the same 25th-ranked defensive roster into the 2nd-ranked by architectural changes — disguised coverages, pre-snap ambiguity, eliminating predictable patterns. The key insight: roster quality is a constraint; scheme design is a variable.
+### 7. NFL — Seahawks Dynasty (~50 sources)
 
-**Dynasty framework** (5 sources): Brady-Belichick is the benchmark (6 Super Bowls, 266-121 record). Historical analysis puts true dynasties at 12–14 in NFL history. The primary variable separating dynasties from one-off champions is organizational continuity — decision-making infrastructure that outlasts any single player.
+The Seahawks won Super Bowl LX (Feb 8, 2026). The cluster provides a real-time test case for what constitutes a dynasty under modern NFL constraints.
 
-Open question: Do the Seahawks have the organizational continuity (Schneider + Macdonald locked in) to sustain dynasty-level performance, or is 2026 a peak?
+- **The Schneider method**: [[John Schneider]] built the Super Bowl roster via compensatory picks, restructured contracts, multi-channel acquisition; no holdovers from prior regime. 10-7 → 14-3 → Super Bowl in one offseason
+- **The Macdonald method**: [[Mike Macdonald]] transformed the same defensive personnel from 25th to 2nd-ranked through scheme (disguised coverages, pre-snap ambiguity). The coaching tree control group: his former assistants at Baltimore, Miami, Tennessee all failed simultaneously, suggesting his contribution is structural/scheme, not personnel
+- **Sam Darnold**: career renaissance under specific schematic conditions; $100.5M contract justified
+- **Dynasty framework**: Brady-Belichick benchmark (6 SBs); ~12-14 true dynasties in NFL history; organizational continuity is the master variable
+- **The 2025–26 season arc**: NFC West clinched via 13-3 win over 49ers; 41-6 divisional rematch; OT comeback over Rams in regular season; NFC Championship 31-27 over Rams; Super Bowl LX victory
 
-### 6. Knowledge Management: The Memex Lineage (1 source)
+### 8. Iran War & Geopolitical Infrastructure (~10 sources)
 
-[[Vannevar Bush]]'s 1945 "As We May Think" is in the vault as a primary source. The key Memex insight — that retrieval through association requires an active agent — is the direct ancestor of the LLM wiki architecture running this vault. Bush identified the problem in 1945; the solution (making the LLM the maintenance agent instead of the human) arrived 80 years later via [[Andrej Karpathy]]'s gist.
+Active near-term story. [[Donald Trump]] launched US-Israeli strikes on [[Iran]] February 28, 2026. Iran responded by closing the [[Strait of Hormuz]] and expanding strikes to Gulf energy infrastructure (Kuwait, UAE, Bahrain) on April 5. Trump's Easter ultimatum: open the Strait by April 8 or face strikes on power plants and bridges.
+
+- **[[Coercive Diplomacy]]**: simultaneous negotiation framing + maximalist threat
+- **[[Infrastructure Warfare]]**: both sides targeting physical systems
+- **[[War-Driven Inflation]]**: gas up ~37% in 5 weeks
+- **[[Coalition Fracture]]**: MTG broke publicly with Trump; congressional criticism from both parties
+
+### 9. Foundational Texts / Theory (~10 sources)
+
+Primary source documents that anchor analytical concepts elsewhere in the wiki:
+
+- **[[As We May Think]]** (Vannevar Bush, 1945) — Memex as ancestor of LLM wiki
+- **[[Satoshi Nakamoto Bitcoin Whitepaper 2008]]** — original P2P electronic cash design
+- **[[The Use of Knowledge in Society — Hayek]]** (1945) — dispersed knowledge and the case against central planning
+- **[[The Strategy of Conflict — Thomas Schelling]]** — focal points, commitment, compellence
+- **[[ATMs and Bank Tellers — What Automation Really Does to Jobs]]** (Bessen) — counter-narrative to automation as job loss
+- **[[The Great Inflation]]** (Fed History) — 1965–1982 monetary regime change
 
 ---
 
 ## Cross-Cutting Patterns
 
-**Infrastructure control as the master variable**: Every major cluster touches this. The Strait is physical infrastructure; Anthropic is AI infrastructure; hospice is healthcare spending infrastructure; the NFL salary cap is organizational infrastructure. In each case, the question is who controls the chokepoint and what leverage that confers.
+**Infrastructure control as the master variable.** The Strait of Hormuz, the DEA quota, the FOMC, the App Store, the stablecoin reserve requirement, and the NFL salary cap are all the same kind of object: a chokepoint whose controller has asymmetric leverage. Newsletter pieces consistently identify who controls the chokepoint and what leverage that confers.
 
-**Concealment as operating mode**: The Mechanical Turk Pattern (hiding human labor inside AI products) and Institutional Gaslighting (flooding narrative zones with competing claims) are structurally identical. Both work by making the actual operating reality invisible.
+**Concealment as operating mode.** The Mechanical Turk Pattern (hiding human labor inside AI products), CISA jawboning (achieving censorship through private intermediaries), and Trump's dual-track Iran messaging (negotiation + maximalist threat) are structurally identical. They all work by making the actual operating reality invisible.
 
-**State power without accountability**: Retroactive Executive Protection, Federal Immunity Above Constitutional Law, and Regulatory Weaponization are three forms of the same dynamic — executive tools used to eliminate legal consequences for favored actors or impose them on disfavored ones, with no meaningful check.
+**State power without accountability.** Retroactive Executive Protection (Bannon vacatur), Federal Immunity Above Constitutional Law, Regulatory Weaponization, and Enforcement Displacement (the California hospice pattern) are four forms of the same dynamic — executive tools used to eliminate or impose legal consequences with no meaningful check.
 
-**Distributed alternatives**: Every centralized chokepoint being weaponized in these sources is implicitly an argument for distributed ownership. This connection is made explicitly in published essays but the raw source base here hasn't yet been built out on the DePIN/crypto/monetary side.
+**The conflict-of-interest gap.** Trump's $57M+ World Liberty Financial stake while signing crypto legislation; FCC Chair Carr threatening ABC's broadcast license over a Jimmy Kimmel monologue; the GENIUS Act's silence on issuer ethics. The mechanisms exist; the enforcement architecture does not.
 
----
+**Distributed alternatives as implicit argument.** Every centralized chokepoint being weaponized in the source base is implicitly an argument for distributed ownership. DePIN (Helium, Render, Datagram), open-source AI, federated systems, and Bitcoin as a non-sovereign asset all show up in the wiki as the structural counter-move.
 
-## Wiki Coverage Gaps
-
-The published essays cover significant territory with no raw sources filed:
-
-| Topic | Published coverage | Raw sources filed |
-|---|---|---|
-| DePIN networks | 5+ essays | 0 |
-| Crypto legislation (GENIUS Act, CLARITY Act, CBDC) | 5 essays | 0 |
-| Monetary policy / Fed | 4+ essays | 0 |
-| AI rights / legal personhood | 3 essays | 0 |
-| Domestic political events (Kirk, Oct 2025 shutdown, etc.) | 6+ essays | 0 |
-| Personal/mental health | 10 essays | 0 (not needed) |
-
-These are areas where future source ingests would significantly strengthen the wiki's evidentiary base.
+**The Schelling layer.** Schelling's focal point theory keeps surfacing across clusters that look unrelated: crypto adoption coordination problems, Iran war signaling, the Fed's communications strategy, even the Seahawks' pre-snap ambiguity as the mirror image of focal point exploitation. The wiki's emerging theoretical spine is more game-theoretic than economic.
 
 ---
 
 ## Open Questions Across the Wiki
 
+**Crypto / Monetary**
+- Will the Senate market structure bill pass before the year-end NDAA crowds it out?
+- What does the GENIUS Act's T-bill backing mean for Treasury demand at scale?
+- Can the Fed maintain independence if the political cost of rate decisions becomes unbearable?
+- Will Trump nominate a Fed chair who cuts more aggressively in 2026?
+
 **Geopolitics**
 - What does a US-Iran deal look like in practice? What are Iran's actual conditions?
-- How long can Strait closure persist before strategic reserves fail or alternative routes normalize?
-- What exactly did the DoD ask Anthropic to do? Are other AI companies complying?
+- How long can Strait closure persist before strategic reserves fail?
+- What did the DoD ask Anthropic to do? Are other AI companies complying?
+
+**AI / Technology**
+- At what point does the Mechanical Turk Pattern become unsustainable?
+- Are U.S. data workers organizing? What leverage do they have?
+- Does the Murthy v. Missouri 10-year settlement actually constrain CISA's successor mechanisms?
+- Will any jurisdiction reverse course on AI inventorship as systems become more capable?
 
 **Domestic Power**
-- Has [[Gavin Newsom]]'s civil rights complaint against Oz gone anywhere?
-- What is Oz's actual authority over CMS enforcement priorities vs. career staff?
-- Is the SCOTUS Bannon move a one-off or the beginning of a systematic conviction-vacation campaign?
+- Were ACA subsidies extended in the December 2025 vote?
+- Did the Timothy Mellon $130M military-pay donation set a legal precedent?
+- Has the Bannon vacatur pattern extended to other Trump allies?
+- Is the ICE favorability collapse durable, or seasonal?
 
-**AI Labor**
-- At what point does the Mechanical Turk Pattern become unsustainable — when does the human labor cost exceed the marketing value of the AI framing?
-- Are the US data workers ($22,620/yr median) organizing? What leverage do they have?
-- Which AI products currently marketed as autonomous are most likely to be concealing significant human dependency?
+**Mental Health**
+- Will the DEA actually adjust quotas in response to documented prescribing exceeding estimates?
+- Does the Australian/NZ GP prescribing reform model translate to the U.S. regulatory context?
+- What's the connection between political stress benchmarks and the ADHD diagnosis growth curve?
 
-**NFL / Seahawks**
-- Can the Seahawks sustain dynasty-level performance with Schneider and Macdonald locked in?
-- What is Sam Darnold's variance — career renaissance or one good season?
-- How does Macdonald's scheme adapt when opponents have a full offseason of film?
-
-**DePIN / Crypto (published coverage, no raw sources yet)**
-- What DePIN networks have genuine usage-based demand vs. synthetic token incentives?
-- What does the GENIUS Act's T-bill backing requirement mean for Treasury demand at scale?
-- Can the Fed maintain independence if the political cost of rate decisions becomes unbearable?
+**NFL**
+- Can the Seahawks sustain dynasty performance with Schneider + Macdonald locked in?
+- What is Sam Darnold's true variance — career renaissance or one-season peak?
+- Does Macdonald's scheme adapt when opponents have a full offseason of film?
 
 ---
 
-## Sources Ingested (31)
-
-### Iran / Geopolitics
-1. [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026
-2. [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026
-
-### AI / Tech-State Conflict
-3. [[Britain woos Anthropic expansion after US defence clash]] — Reuters, Apr 5 2026
-
-### Domestic Politics
-4. [[8 arrests in federal crackdown on alleged health care fraud in Southern California]] — AP, Apr 2 2026
-5. [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — California Gov., Mar 24 2026
-6. [[Supreme Court clears way for Trump DOJ to wipe out Steve Bannon's conviction]] — USA Today, Apr 6 2026
-
-### AI Hidden Labor
-7. [[Amazon Just Walk Out — AI Needed Humans to Do the Job Right]] — Entrepreneur, Apr 2024
-8. [[Amazon's Just Walk Out Technology Relies on Hundreds of Workers in India]] — Business Insider, Apr 2024
-9. [[Cruise Confirms Robotaxis Rely on Human Assistance Every Four to Five Miles]] — CNBC, Nov 2023
-10. [[Ghost Work — The Hidden Humans Behind AI]] — Science Array, Oct 2025
-11. [[Ghost Work — The Labor That Powers AI]] — MIT IDE, Apr 2021
-12. [[Ghost Workers in the AI Machine — US Data Worker Conditions Report]] — AWU-CWA/TechEquity, Sep 2025
-13. [[Google Search Quality Rater Guidelines — Key Insights About AI Use]] — Originality.ai, Oct 2025
-14. [[Human Labor Is Propping Up Some Companies' Fake AI Software]] — MIT Tech Review, Jul 2018
-15. [[The Exploited Labor Behind Artificial Intelligence]] — NOEMAG, Oct 2022
-16. [[The Hidden Labor That Makes AI Work]] — Rest of World, Jul 2025
-17. [[The Humans Hiding Behind the Chatbots]] — Bloomberg, Apr 2016
-
-### NFL — Seahawks / Super Bowl LX
-18. [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — WBAY, Feb 2026
-19. [[Seattle Seahawks Built Right Roster for Coach's Scheme]] — MyNorthwest, Feb 2026
-20. [[NFL Insider Details How the Seahawks Built Their Super Bowl Contender]] — SI.com, Feb 2026
-21. [[Seahawks Signing QB Sam Darnold to 3-Year $100.5 Million Contract]] — NFL.com, Mar 2025
-22. [[Is the NFL Salary Cap Real or a Mirage]] — ESPN, Apr 2022
-23. [[NFL Salary Cap — How Parity Has Become Disparity]] — Bleacher Report, Oct 2009
-
-### NFL — Dynasty
-24. [[Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty]] — ESPN, Jan 2024
-25. [[Brady vs. Belichick — Who's To Blame For The Patriots' Insufferable Success]] — FiveThirtyEight, Feb 2017
-26. [[Brady-Belichick Era Wikipedia]] — Wikipedia
-27. [[How Do We Define a True NFL Dynasty]] — Bleacher Report, Jun 2018
-28. [[What Makes An NFL Dynasty]] — Sports History Network, Jul 2023
-29. [[The NFL and Sample Sizes — It's Not Just the Salary Cap That Creates Parity]] — EXACT Sports, Jul 2010
-
-### Knowledge Management
-30. [[As We May Think]] — Vannevar Bush, The Atlantic, Jul 1945
+For the full, current catalog of sources organized by category, see [[Wiki Index]]. For the chronological activity log, see [[Wiki Log]].
