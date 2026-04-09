@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Delta Reports Positive Early Results from AI Pricing with Fetcherr.md"
+source_url: "https://www.eplaneai.com/news/delta-reports-positive-early-results-from-ai-pricing-with-fetcherr"
 author: ""
 published: 2025-07-14
 ---
+
+
+[Original source](https://www.eplaneai.com/news/delta-reports-positive-early-results-from-ai-pricing-with-fetcherr)
 
 ## Summary
 

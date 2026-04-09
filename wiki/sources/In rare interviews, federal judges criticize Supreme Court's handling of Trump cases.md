@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/In rare interviews, federal judges criticize Supreme Court's handling of Trump cases.md"
+source_url: "https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-cases-federal-judges-criticize-rcna221775"
 author: "Lawrence Hurley"
 published: 2025-09-04
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-cases-federal-judges-criticize-rcna221775)
 
 ## Summary
 NBC News interviews with a dozen federal judges (appointed by both parties, speaking anonymously) who describe a pattern: they carefully rule against Trump administration policies, the Supreme Court overturns them via terse emergency orders with little explanation, and the administration then uses those reversals to validate its "judicial coup" narrative. Judges feel "thrown under the bus" by SCOTUS.

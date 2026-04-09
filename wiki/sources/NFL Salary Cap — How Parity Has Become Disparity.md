@@ -4,11 +4,15 @@ type: source
 tags: [nfl, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/NFL Salary Cap How Parity Has Become Disparity In the League.md"
+source_url: "https://bleacherreport.com/articles/280727-the-salary-cap-how-parity-has-become-disparity-in-the-nfl"
 author: "Schuyler Cornwell"
 published: 2009-10-29
 ---
+
+
+[Original source](https://bleacherreport.com/articles/280727-the-salary-cap-how-parity-has-become-disparity-in-the-nfl)
 
 ## Summary
 

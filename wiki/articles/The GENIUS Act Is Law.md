@@ -10,7 +10,11 @@ published: 2025-07-22
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The GENIUS Act Is Law.md"
+source_url: "https://drinkyouroj.substack.com/p/the-genius-act-is-law"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-genius-act-is-law)
 
 ## Argument
 The GENIUS Act represents crypto's capture by the existing financial system, not its liberation. Banks get automatic stablecoin authorization while Big Tech is banned. Consumer protections are hollow (no FDIC insurance, no fraud protection, interest payments banned, "superpriority" in bankruptcy is functionally worthless). Trump's family owns World Liberty Financial, which issues the USD1 stablecoin — meaning the president signed a law expanding the market for his own product while his administration controls its regulation. The mandatory T-bill backing creates a massive Treasury demand mechanism that financially benefits the government. The revolutionary technology becomes evolutionary: absorbed by incumbents, who then have no incentive to innovate.

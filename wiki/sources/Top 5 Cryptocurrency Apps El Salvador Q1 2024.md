@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Top 5 Cryptocurrency Apps Performance in El Salvador - Q1 2024.md"
+source_url: "https://sensortower.com/blog/2024-q1-unified-top-5-cryptocurrency%20apps-units-sv-6412e549e1714cfff12e6b53"
 author: "Sensor Tower"
 published: 2024-04-01
 ---
+
+
+[Original source](https://sensortower.com/blog/2024-q1-unified-top-5-cryptocurrency%20apps-units-sv-6412e549e1714cfff12e6b53)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Protesters Disrupt Southern Baptist Church of Pastor Who Leads ICE Office in Minnesota.md"
+source_url: "https://publicwitness.wordandway.org/p/protesters-disrupt-southern-baptist"
 author: "Brian Kaylor"
 published: 2026-01-18
 ---
+
+
+[Original source](https://publicwitness.wordandway.org/p/protesters-disrupt-southern-baptist)
 
 ## Summary
 A Public Witness (Word & Way) coverage of the January 18, 2026 protest inside Cities Church in St. Paul, organized by the Racial Justice Network, Black Lives Matter Minnesota, and BLM Twin Cities after activists identified pastor David Easterwood as acting director of the St. Paul ICE field office. Provides the most detailed inside account of the protest itself, including journalist Don Lemon's interaction with lead pastor Jonathan Parnell.

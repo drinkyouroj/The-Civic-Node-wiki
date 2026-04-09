@@ -11,7 +11,11 @@ published: 2025-10-27
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Fed's Independence Theater.md"
+source_url: "https://drinkyouroj.substack.com/p/the-feds-independence-theater"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-feds-independence-theater)
 
 ## Argument
 

@@ -8,7 +8,11 @@ published: 2025-07-28
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Algorithm Whisperer.md"
+source_url: "https://drinkyouroj.substack.com/p/the-algorithm-whisperer"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-algorithm-whisperer)
 
 ## What Happens
 

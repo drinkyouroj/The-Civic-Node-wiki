@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/GENIUS Act Payment Stablecoin Framework – Senate Approves.md"
+source_url: "https://kpmg.com/us/en/articles/2025/genius-act-payment-stablecoin-framework-senate-approves.html#:~:text=Public%20Companies%3A%20Non%2Dfinancial%20public,financial%20risk%20and%20consumer%20data"
 author: "KPMG Regulatory Insights"
 published: 2025-06-18
 ---
+
+
+[Original source](https://kpmg.com/us/en/articles/2025/genius-act-payment-stablecoin-framework-senate-approves.html#:~:text=Public%20Companies%3A%20Non%2Dfinancial%20public,financial%20risk%20and%20consumer%20data)
 
 ## Summary
 

@@ -1056,3 +1056,11 @@ insight-sweep + April-7 ingest commits. Actual counts now reflected:
 
 Overview page also received a 2026-04-08 update paragraph summarizing the
 day's insight sweep + 17 new source acquisitions.
+
+## [2026-04-09] update | Bulk-added source URLs to 393 wiki/sources/ pages
+
+Ran `scripts/add_source_urls.py` to backfill original source URLs across all wiki/sources/ pages. Each updated page now has a `source_url:` frontmatter field and an `[Original source](URL)` link before the Summary section. 16 source pages were skipped because their referenced raw/ files could not be found (filename mismatches or deleted raw files). CLAUDE.md schema and INGEST workflow updated to include `source_url:` in all future source pages.
+
+## [2026-04-09] update | Bulk-added Substack URLs to 80 wiki/articles/ pages
+
+Ran `scripts/add_article_urls.py` to backfill original Substack URLs across all wiki/articles/ pages (including episodes/). Each updated page now has a `source_url:` frontmatter field and a `[Read on Substack](URL)` link before the first section heading. 2 series index pages (DeepTruth — Series, Help Desk for the Singularity — Series) were correctly skipped as they have no corresponding published file. 1 page (13-3 The Box Score...) was fixed manually due to a curly-quote mismatch in the stored filename.

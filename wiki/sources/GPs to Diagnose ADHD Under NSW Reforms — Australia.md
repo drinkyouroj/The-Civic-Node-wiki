@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/GPs to diagnose ADHD and prescribe drugs for children and adults under NSW reforms.md"
+source_url: "https://www.theguardian.com/australia-news/2025/may/26/gps-to-diagnose-adhd-and-prescribe-drugs-for-children-and-adults-under-nsw-reforms"
 author: "Natasha May"
 published: 2025-05-25
 ---
+
+
+[Original source](https://www.theguardian.com/australia-news/2025/may/26/gps-to-diagnose-adhd-and-prescribe-drugs-for-children-and-adults-under-nsw-reforms)
 
 ## Summary
 *The Guardian* coverage of NSW (New South Wales, Australia) government reforms allowing GPs to diagnose and prescribe ADHD medication, ending the specialist-only requirement. Up to 1,000 GPs will be enabled for continuation prescriptions; up to 100 will be able to diagnose and initiate medication. NSW joins Queensland and Western Australia in implementing reforms driven by access inequity, particularly in regional areas.

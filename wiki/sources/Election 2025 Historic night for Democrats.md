@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Election 2025 Historic night for Democrats with key wins in New York, New Jersey and Virginia.md"
+source_url: "https://news.northeastern.edu/2025/11/04/2025-election-day-coverage-key-takeaways/"
 author: "Tanner Stening"
 published: 2025-11-04
 ---
+
+
+[Original source](https://news.northeastern.edu/2025/11/04/2025-election-day-coverage-key-takeaways/)
 
 ## Summary
 Northeastern University political scientists analyze the November 4, 2025 Democratic sweep — Mamdani wins NYC mayor, Sherrill wins NJ governor, Spanberger wins VA governor, California Prop 50 passes. Elections took place on Day 35 of the government shutdown. Scholars say results reflect thermostatic effect and signal momentum for 2026 midterms, while cautioning Mamdani's win may reflect local dynamics more than national trends.

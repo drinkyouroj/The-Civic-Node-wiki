@@ -6,9 +6,13 @@ created: 2026-04-06
 updated: 2026-04-06
 sources: 7
 raw: "raw/Supreme Court clears way for Trump DOJ to wipe out Steve Bannon's conviction.md"
+source_url: "https://www.usatoday.com/story/news/politics/2026/04/06/supreme-court-steve-bannon-trump-conviction/88968262007/"
 author: "Maureen Groppe"
 published: 2026-04-06
 ---
+
+
+[Original source](https://www.usatoday.com/story/news/politics/2026/04/06/supreme-court-steve-bannon-trump-conviction/88968262007/)
 
 ## Summary
 

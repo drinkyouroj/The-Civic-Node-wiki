@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Column Paul Volcker's legacy, an independent Federal Reserve, is under threat.md"
+source_url: "https://www.pbs.org/newshour/amp/economy/making-sense/column-paul-volckers-legacy-helped-shape-an-independent-federal-reserve"
 author: "Michael W Klein / The Conversation"
 published: 2019-12-12
 ---
+
+
+[Original source](https://www.pbs.org/newshour/amp/economy/making-sense/column-paul-volckers-legacy-helped-shape-an-independent-federal-reserve)
 
 ## Summary
 

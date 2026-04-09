@@ -4,11 +4,15 @@ type: source
 tags: [politics, power, geopolitics, congress]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 6
 raw: "raw/Republicans block Democratic bill to end Iran war amid tenuous ceasefire.md"
+source_url: "https://www.usatoday.com/story/news/politics/2026/04/09/war-powers-resolution-blocked-us-iran/89532831007/"
 author: "Zachary Schermele"
 published: 2026-04-09
 ---
+
+
+[Original source](https://www.usatoday.com/story/news/politics/2026/04/09/war-powers-resolution-blocked-us-iran/89532831007/)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [geopolitics, power, monetary-policy, energy, infrastructure]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 9
 raw: "raw/Doubts about the U.S.-Iran ceasefire push oil prices toward $100 and slow stocks.md"
+source_url: "https://www.pbs.org/newshour/economy/doubts-about-the-u-s-iran-ceasefire-push-oil-prices-toward-100-and-slow-stocks"
 author: "Stan Choe / Associated Press"
 published: 2026-04-09
 ---
+
+
+[Original source](https://www.pbs.org/newshour/economy/doubts-about-the-u-s-iran-ceasefire-push-oil-prices-toward-100-and-slow-stocks)
 
 ## Summary
 

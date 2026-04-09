@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Apple Loses UK Antitrust Lawsuit Over App Store Fees, Faces £1.5 Billion in Damages.md"
+source_url: "https://www.macrumors.com/2025/10/23/apple-loses-uk-app-store-lawsuit/"
 author: "Juli Clover, MacRumors"
 published: 2025-10-23
 ---
+
+
+[Original source](https://www.macrumors.com/2025/10/23/apple-loses-uk-app-store-lawsuit/)
 
 ## Summary
 The UK's Competition Appeal Tribunal (CAT) ruled that Apple abused its market power by charging excessive App Store commissions (up to 30%) between October 2015 and end of 2020. The ruling rejected Apple's arguments that Android alternatives limited its monopoly and that fees were justified by security/privacy. Damages trial scheduled; Apple plans to appeal.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/House GOP Plans 'Crypto Week' to Pass Deregulatory Bills on Digital Assets.md"
+source_url: "https://readsludge.com/2025/07/11/house-gop-plans-crypto-week-to-pass-deregulatory-bills-on-digital-assets/"
 author: "David Moore"
 published: 2025-07-11
 ---
+
+
+[Original source](https://readsludge.com/2025/07/11/house-gop-plans-crypto-week-to-pass-deregulatory-bills-on-digital-assets/)
 
 ## Summary
 

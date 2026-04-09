@@ -4,11 +4,15 @@ type: source
 tags: [nfl, ravens, macdonald, defense, scheme, tactical-analysis, baltimore]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Cool Clips The Ravens 'Tag' Sim vs. the Lions.md"
+source_url: "https://www.matchquarters.com/p/baltimore-ravens-tag-sim-vs-lions-mike-macdonald"
 author: "Cody Alexander"
 published: 2023-10-30
 ---
+
+
+[Original source](https://www.matchquarters.com/p/baltimore-ravens-tag-sim-vs-lions-mike-macdonald)
 
 ## Summary
 

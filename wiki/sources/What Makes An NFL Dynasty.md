@@ -4,11 +4,15 @@ type: source
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/What Makes An NFL Dynasty?.md"
+source_url: "https://sportshistorynetwork.com/football/nfl/what-makes-an-nfl-dynasty/"
 author: "Os Davis"
 published: 2023-07-22
 ---
+
+
+[Original source](https://sportshistorynetwork.com/football/nfl/what-makes-an-nfl-dynasty/)
 
 ## Summary
 

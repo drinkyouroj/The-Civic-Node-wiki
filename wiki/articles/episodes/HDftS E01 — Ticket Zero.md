@@ -8,8 +8,12 @@ published: 2026-03-23
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Help Desk for the Singularity.md"
+source_url: "https://drinkyouroj.substack.com/p/help-desk-for-the-singularity-episode-01-ticket-zero"
 featured_ai: OWEN
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/help-desk-for-the-singularity-episode-01-ticket-zero)
 
 ## What Happens
 

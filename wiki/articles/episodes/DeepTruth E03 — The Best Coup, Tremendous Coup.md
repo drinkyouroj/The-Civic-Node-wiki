@@ -8,7 +8,11 @@ published: 2025-07-30
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Best Coup, Tremendous Coup.md"
+source_url: "https://drinkyouroj.substack.com/p/the-best-coup-tremendous-coup"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-best-coup-tremendous-coup)
 
 ## What Happens
 

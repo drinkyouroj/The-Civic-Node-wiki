@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, healthcare, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/State of Digital Health 2024 Report - CB Insights Research.md"
+source_url: "https://www.cbinsights.com/research/report/digital-health-trends-2024/"
 author: "CB Insights"
 published: 2025-04-16
 ---
+
+
+[Original source](https://www.cbinsights.com/research/report/digital-health-trends-2024/)
 
 ## Summary
 

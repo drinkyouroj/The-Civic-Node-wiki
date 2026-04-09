@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/A Majority of Voters Are Unfavorable of ICE, Are Divided on What \"Abolish ICE\" Means.md"
+source_url: "https://www.dataforprogress.org/blog/2026/1/22/a-majority-of-voters-are-unfavorable-of-ice-are-divided-on-what-abolish-ice-means"
 author: "Lew Blank"
 published: 2026-01-22
 ---
+
+
+[Original source](https://www.dataforprogress.org/blog/2026/1/22/a-majority-of-voters-are-unfavorable-of-ice-are-divided-on-what-abolish-ice-means)
 
 ## Summary
 

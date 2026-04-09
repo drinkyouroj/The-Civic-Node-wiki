@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Trump administration uses taxpayer dollars to blame Democrats for government shutdown.md"
+source_url: "https://www.npr.org/2025/09/30/nx-s1-5558393/government-shutdown-trump-ethics-hatch-act"
 author: "Shannon Bond"
 published: 2025-09-30
 ---
+
+
+[Original source](https://www.npr.org/2025/09/30/nx-s1-5558393/government-shutdown-trump-ethics-hatch-act)
 
 ## Summary
 NPR reports that the Trump administration directed all federal agencies to post partisan messages blaming Democrats for the government shutdown on their official websites, in internal emails to employees, and even in out-of-office auto-replies. Ethics experts say it may violate the Hatch Act. White House OMB directed the messaging campaign.

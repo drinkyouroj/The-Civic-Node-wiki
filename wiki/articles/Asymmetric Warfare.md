@@ -10,7 +10,11 @@ published: 2025-10-04
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Asymmetric Warfare.md"
+source_url: "https://drinkyouroj.substack.com/p/asymmetric-warfare"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/asymmetric-warfare)
 
 ## Argument
 The central claim is that the "both sides" narrative about political violence after Charlie Kirk's assassination is a lie — and a dangerous one. The rhetoric following Kirk's death was not symmetrically violent: Democratic leaders uniformly condemned the killing and called for de-escalation, while leading Republican figures (Trump, Musk, Loomer, Mannarino, Raichik) immediately called for retaliation, civil war, mass arrests, and authoritarian crackdown. The piece argues this asymmetry is not incidental but structural: Trump's playbook deliberately creates conditions for violence, then weaponizes the resulting violence to justify consolidating authoritarian power.

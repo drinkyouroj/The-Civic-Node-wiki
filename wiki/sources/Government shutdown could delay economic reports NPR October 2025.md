@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Government shutdown could delay key economic reports at an especially sensitive time.md"
+source_url: "https://www.npr.org/2025/10/01/nx-s1-5558020/government-shutdown-economic-data-jobs-inflation"
 author: "Scott Horsley"
 published: 2025-10-01
 ---
+
+
+[Original source](https://www.npr.org/2025/10/01/nx-s1-5558020/government-shutdown-economic-data-jobs-inflation)
 
 ## Summary
 

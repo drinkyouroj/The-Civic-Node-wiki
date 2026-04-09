@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 12
 raw: "raw/Fed Watching How Will Policy Evolve Under Kevin Warsh as Chair?.md"
+source_url: "https://www.commonfund.org/blog/fed-watching-how-will-policy-evolve-under-kevin-warsh-as-chair"
 author: "Haider Hassan"
 published: 2026-02-18
 ---
+
+
+[Original source](https://www.commonfund.org/blog/fed-watching-how-will-policy-evolve-under-kevin-warsh-as-chair)
 
 ## Summary
 Commonfund asset management blog post (Feb 18, 2026) providing a concise institutional-investor framing of Warsh. Most useful for the **"hawk-turned-dove" characterization** it introduces and the reminder that market expectations were already pricing in two rate cuts for H2 2026 before the nomination. Notes that a single Fed Chair does not dictate FOMC decisions — the 12-member voting body operates by consensus with examples of recent dissent.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Conservative activist Charlie Kirk assassinated at Utah university.md"
+source_url: "https://apnews.com/article/charlie-kirk-conservative-activist-shot-546165a8151104e0938a5e085be1e8bd"
 author: "The Associated Press"
 published: 2025-09-11
 ---
+
+
+[Original source](https://apnews.com/article/charlie-kirk-conservative-activist-shot-546165a8151104e0938a5e085be1e8bd)
 
 ## Summary
 AP retrospective on Charlie Kirk's life and assassination, covering his rise from teenage conservative campus activist to top podcaster, culture warrior, and Trump ally. Contextualizes the assassination within the escalating pattern of U.S. political violence in 2025.

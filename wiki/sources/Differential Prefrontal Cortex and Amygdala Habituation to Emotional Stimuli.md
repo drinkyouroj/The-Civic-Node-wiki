@@ -4,11 +4,15 @@ type: source
 tags: [mental-health, health, neuroscience]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Differential prefrontal cortex and amygdala habituation to repeatedly presented emotional stimuli - PubMed.md"
+source_url: "https://pubmed.ncbi.nlm.nih.gov/11209954/"
 author: "Unknown (PubMed abstract only)"
 published: 2001-12-02
 ---
+
+
+[Original source](https://pubmed.ncbi.nlm.nih.gov/11209954/)
 
 ## Summary
 PubMed abstract for a 2001 fMRI study on emotional habituation in the human brain. Researchers used repeated presentations of emotional facial expressions to assess how the prefrontal cortex and amygdala habituate to repeated emotional stimuli. Key finding: threat signals (fear) receive sustained neural processing in the left amygdala, while the right amygdala rapidly habituates (acting as a dynamic detection system). The left prefrontal cortex showed greater habituation to happy vs. fearful stimuli — suggesting neural resources remain devoted to threat processing longer than to positive stimuli.

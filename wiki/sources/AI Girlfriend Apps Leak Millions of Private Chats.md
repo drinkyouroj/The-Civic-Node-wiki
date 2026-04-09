@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/AI girlfriend apps leak millions of private chats.md"
+source_url: "https://www.foxnews.com/tech/ai-girlfriend-apps-leak-millions-private-chats"
 author: "Kurt Knutsson, CyberGuy Report (Fox News)"
 published: 2025-10-20
 ---
+
+
+[Original source](https://www.foxnews.com/tech/ai-girlfriend-apps-leak-millions-private-chats)
 
 ## Summary
 Two AI companion apps (Chattee Chat and GiMe Chat), developed by Hong Kong-based Imagime Interactive Limited, exposed over 43 million intimate messages, 600,000+ images and videos, and data belonging to 400,000 users after leaving a Kafka Broker server entirely unsecured. Discovered by Cybernews on August 28, 2025; server taken offline mid-September after appearing on public IoT search engines.

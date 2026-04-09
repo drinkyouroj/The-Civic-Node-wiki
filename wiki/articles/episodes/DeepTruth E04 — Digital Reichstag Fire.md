@@ -8,7 +8,11 @@ published: 2025-07-31
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Digital Reichstag Fire.md"
+source_url: "https://drinkyouroj.substack.com/p/digital-reichstag-fire"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/digital-reichstag-fire)
 
 ## What Happens
 

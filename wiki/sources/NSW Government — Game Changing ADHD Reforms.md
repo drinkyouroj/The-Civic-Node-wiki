@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Game changing reforms allow GPs to treat ADHD to reduce wait times and costs.md"
+source_url: "https://www.nsw.gov.au/ministerial-releases/game-changing-reforms-allow-gps-to-treat-adhd-to-reduce-wait-times-and-costs"
 author: "NSW Health / NSW Premier's Department"
 published: 2025-05-26
 ---
+
+
+[Original source](https://www.nsw.gov.au/ministerial-releases/game-changing-reforms-allow-gps-to-treat-adhd-to-reduce-wait-times-and-costs)
 
 ## Summary
 Official NSW Government press release announcing reforms allowing GPs to diagnose and prescribe ADHD medication, with quotes from Premier Chris Minns, Minister for Health Ryan Park, Minister for Mental Health Rose Jackson, and RACGP NSW Chair Dr. Rebekah Hoffman. Confirms NSW is the third Australian state to implement such reforms after Queensland and Western Australia.

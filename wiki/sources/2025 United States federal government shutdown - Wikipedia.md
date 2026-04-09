@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/2025 United States federal government shutdown - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/2025_United_States_federal_government_shutdown"
 author: "Wikipedia contributors"
 published: 2025-09-30
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/2025_United_States_federal_government_shutdown)
 
 ## Summary
 Wikipedia comprehensive article on the 2025 U.S. government shutdown (Oct. 1 – Nov. 12, 2025) — the longest full government shutdown in U.S. history at 43 days. Details the legislative history, SNAP battles, airline disruptions, and the role of the Charlie Kirk assassination in delaying and reshaping the final resolution bill. Resolution included $203.5M for Congressional security and $852M for Capitol Police — directly tied to Kirk's death.

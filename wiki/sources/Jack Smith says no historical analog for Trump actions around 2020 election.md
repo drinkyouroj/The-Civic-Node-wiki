@@ -4,11 +4,15 @@ type: source
 tags: [politics, january-6, trump, doj]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Jack Smith says 'no historical analog' for Trump's actions around 2020 election, denies political influence.md"
+source_url: "https://abcnews.go.com/Politics/jack-smith-historical-analog-trumps-actions-2020-election/story?id=128819035"
 author: ""
 published: 2025-12-31
 ---
+
+
+[Original source](https://abcnews.go.com/Politics/jack-smith-historical-analog-trumps-actions-2020-election/story?id=128819035)
 
 ## Summary
 Coverage of Jack Smith's deposition statement that there is "no historical analog" for Trump's actions around the 2020 election — emphasizing the unprecedented nature of the conduct and explicitly denying political motivation behind the investigation.

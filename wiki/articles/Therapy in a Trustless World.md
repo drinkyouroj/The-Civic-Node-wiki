@@ -10,7 +10,11 @@ published: 2025-09-02
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Therapy in a Trustless World.md"
+source_url: "https://drinkyouroj.substack.com/p/therapy-in-a-trustless-world"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/therapy-in-a-trustless-world)
 
 ## Argument
 The mental health tech industry has replicated the structural exploitation of other vulnerable-consumer markets: BetterHelp sold therapy session data to Facebook and Snapchat; Cerebral, MDLIVE, and Talkspace (collectively $1B+ raised) harvest intimate psychological data for insurance companies, employers, and advertisers. The solution is decentralized AI therapy running locally on edge nodes (the piece uses Datagram's infrastructure as the example), where therapeutic conversations never leave the user's device. The author has been his own clinical trial for a year — first GPT (uploaded everything to OpenAI servers), then local Ollama/Qwen3 models (zero data exposure). The tension: local AI therapy requires technical knowledge that puts it out of reach for the 99% who most need it.

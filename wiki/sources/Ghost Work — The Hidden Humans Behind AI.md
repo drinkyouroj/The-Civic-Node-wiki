@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, labor, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Ghost Work The Hidden Humans Behind AI.md"
+source_url: "https://society.sciencearray.com/ghost-work-hidden-humans-behind-ai"
 author: "Science Array"
 published: 2025-10-24
 ---
+
+
+[Original source](https://society.sciencearray.com/ghost-work-hidden-humans-behind-ai)
 
 ## Summary
 

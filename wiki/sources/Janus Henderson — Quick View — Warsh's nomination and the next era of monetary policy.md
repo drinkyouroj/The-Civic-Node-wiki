@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 14
 raw: "raw/Quick View Kevin Warsh's nomination and the next era of U.S. monetary policy.md"
+source_url: "https://www.janushenderson.com/en-us/advisor/article/quick-view-kevin-warshs-nomination-and-the-next-era-of-u-s-monetary-policy/"
 author: "Daniel Siluk"
 published: 2026-01-30
 ---
+
+
+[Original source](https://www.janushenderson.com/en-us/advisor/article/quick-view-kevin-warshs-nomination-and-the-next-era-of-u-s-monetary-policy/)
 
 ## Summary
 Asset manager quick-take from Janus Henderson (Head of Global Short Duration and Liquidity) published the day of Warsh's nomination. Most useful for the specific **market reaction** it documents and the clean articulation of the "smaller balance sheet + lower rates" framework that distinguishes Warsh from prior Fed Chair candidates. Core thesis: markets are pricing in a Fed that will be simultaneously more unpredictable (less forward guidance) and more orthodox (smaller balance sheet, institutional independence preserved).

@@ -7,7 +7,11 @@ published: 2025-08-21
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/This Blog Finally Has a Name (and it glows!).md"
+source_url: "https://drinkyouroj.substack.com/p/hello-to-the-civic-node"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/hello-to-the-civic-node)
 
 ## Argument
 

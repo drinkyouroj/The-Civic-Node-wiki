@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/GPs and nurse practitioners able to start ADHD treatment from next year.md"
+source_url: "https://www.pharmac.govt.nz/news-and-resources/news/gps-and-nurse-practitioners-able-to-start-adhd-treatment-from-next-year"
 author: "Pharmac / NZ Government"
 published: 2025-06-24
 ---
+
+
+[Original source](https://www.pharmac.govt.nz/news-and-resources/news/gps-and-nurse-practitioners-able-to-start-adhd-treatment-from-next-year)
 
 ## Summary
 New Zealand's Medsafe and Pharmac announced that from February 2026, GPs and nurse practitioners will be able to initiate ADHD treatment for adults without a specialist referral — a significant expansion of prescribing authority. Currently, GPs can only prescribe stimulants to patients already diagnosed and initiated by a paediatrician or psychiatrist.

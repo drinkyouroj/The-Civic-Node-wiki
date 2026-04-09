@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Understanding Bitcoin's 21 Million Cap.md"
+source_url: "https://www.kellypartners.com.au/insights-centre/understanding-bitcoins-21-million-cap?hsLang=en-au"
 author: "Abhinav Soomaney / Kelly+Partners Accountants"
 published: 2024-07-29
 ---
+
+
+[Original source](https://www.kellypartners.com.au/insights-centre/understanding-bitcoins-21-million-cap?hsLang=en-au)
 
 ## Summary
 

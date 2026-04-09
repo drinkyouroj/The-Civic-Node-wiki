@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Established Aggregate Production Quotas for Schedule I and II Controlled Substances and Assessment of Annual Needs for t.md"
+source_url: "https://www.federalregister.gov/documents/2024/12/17/2024-30023/established-aggregate-production-quotas-for-schedule-i-and-ii-controlled-substances-and-assessment"
 author: "Drug Enforcement Administration"
 published: 2024-12-17
 ---
+
+
+[Original source](https://www.federalregister.gov/documents/2024/12/17/2024-30023/established-aggregate-production-quotas-for-schedule-i-and-ii-controlled-substances-and-assessment)
 
 ## Summary
 

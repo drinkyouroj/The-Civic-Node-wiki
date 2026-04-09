@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/THE CCPA STRIKES BACK $1.35 Million Fine Against Tractor Supply Confirms the Teeth Behind the CCPA's Subpoena Threat.md"
+source_url: "https://natlawreview.com/article/ccpa-strikes-back-135-million-fine-against-tractor-supply-confirms-teeth-behind"
 author: "Puja J Amin"
 published: 2025-10-01
 ---
+
+
+[Original source](https://natlawreview.com/article/ccpa-strikes-back-135-million-fine-against-tractor-supply-confirms-teeth-behind)
 
 ## Summary
 

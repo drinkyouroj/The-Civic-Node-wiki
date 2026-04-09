@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Stellantis warns of $2.7 billion loss for 1st half of 2025 due to tariffs and some big charges.md"
+source_url: "https://apnews.com/article/stellantis-tariff-trump-gm-filosa-a13b081cb947383b1c7de9ce722bedc4"
 author: "Michelle Chapman"
 published: 2025-07-21
 ---
+
+
+[Original source](https://apnews.com/article/stellantis-tariff-trump-gm-filosa-a13b081cb947383b1c7de9ce722bedc4)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [politics, government, polling, shutdown]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Early polls show Trump and GOP taking more blame than Democrats for shutdown.md"
+source_url: "https://www.nbcnews.com/politics/congress/early-polls-trump-republicans-taking-blame-government-shutdown-rcna235141"
 author: ""
 published: 2025-10-05
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/congress/early-polls-trump-republicans-taking-blame-government-shutdown-rcna235141)
 
 ## Summary
 Polling data from early in the 2025 government shutdown showing Republicans and Trump receiving more blame than Democrats among general public, despite Republican messaging framing Democrats as responsible.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Fitch upgrades El Salvador's rating to 'B-'; stable outlook - InvestinElSalvador.md"
+source_url: "https://investinelsalvador.gob.sv/fitch-upgrades-el-salvadors-rating-to-b-stable-outlook/"
 author: "Fitch Ratings / Forbes Centroamerica"
 published: 2025-01-13
 ---
+
+
+[Original source](https://investinelsalvador.gob.sv/fitch-upgrades-el-salvadors-rating-to-b-stable-outlook/)
 
 ## Summary
 

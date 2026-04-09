@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/2024 Deepfakes and Election Disinformation Report Key Findings & Mitigation Strategies.md"
+source_url: "https://www.recordedfuture.com/research/targets-objectives-emerging-tactics-political-deepfakes"
 author: "Insikt Group (Recorded Future)"
 published: 2024-09-24
 ---
+
+
+[Original source](https://www.recordedfuture.com/research/targets-objectives-emerging-tactics-political-deepfakes)
 
 ## Summary
 Recorded Future's Insikt Group analyzed 82 deepfakes targeting public figures across 38 countries between July 2023 and July 2024. The report finds that deepfakes are being weaponized for financial scams, election manipulation, character assassination, and non-consensual pornography — and that speed of response, not just detection, is the critical mitigation variable.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Nixon shock - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Nixon_shock"
 author: ""
 published: 2006-01-03
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Nixon_shock)
 
 ## Summary
 

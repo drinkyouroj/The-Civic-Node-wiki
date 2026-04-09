@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/What's behind the highly unusual move to block Minnesota officials from investigating ICE shooting CNN Politics.md"
+source_url: "https://www.cnn.com/2026/01/09/politics/investigation-minneapolis-ice-shooting-deviates-police-shooting-playbook"
 author: "Hannah Rabinowitz; Evan Perez; Kristen Holmes"
 published: 2026-01-09
 ---
+
+
+[Original source](https://www.cnn.com/2026/01/09/politics/investigation-minneapolis-ice-shooting-deviates-police-shooting-playbook)
 
 ## Summary
 CNN investigation into the breakdown of the planned joint FBI-Minnesota investigation into the killing of [[Killing of Renée Good|Renée Good]]. Sources reveal the Trump administration severed the joint probe due to concerns that state officials would leak information endangering ICE agents. The piece contextualizes this against the historical norm of federal-state cooperation in officer-involved killings.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/October 2, 2025 Day 2 coverage of the government shutdown CNN Politics.md"
+source_url: "https://www.cnn.com/politics/live-news/government-shutdown-news-10-02-25?post-id=cmg9tmtnb00003b6pqrwjdcbj"
 author: "CNN Staff (multiple reporters)"
 published: 2025-10-02
 ---
+
+
+[Original source](https://www.cnn.com/politics/live-news/government-shutdown-news-10-02-25?post-id=cmg9tmtnb00003b6pqrwjdcbj)
 
 ## Summary
 

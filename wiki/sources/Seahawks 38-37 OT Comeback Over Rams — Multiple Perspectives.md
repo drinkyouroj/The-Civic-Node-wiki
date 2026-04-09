@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Rams-Seahawks on 'Thursday Night Football' What We Learned from Seattle's 38-37 overtime win.md"
+source_url: "https://www.nfl.com/news/rams-seahawks-on-thursday-night-football-what-we-learned-from-seattle-s-38-37-overtime-win"
 author: "Multiple (NFL.com, ESPN, FOX 13, Seahawks.com, CBS, CNN)"
 published: 2025-12-19
 ---
+
+
+[Original source](https://www.nfl.com/news/rams-seahawks-on-thursday-night-football-what-we-learned-from-seattle-s-38-37-overtime-win)
 
 ## Summary
 

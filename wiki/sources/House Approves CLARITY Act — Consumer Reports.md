@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/House approves CLARITY Act without needed protections for consumers and investors.md"
+source_url: "https://advocacy.consumerreports.org/press_release/house-approves-clarity-act-without-needed-protections-for-consumers-and-investors/"
 author: "Consumer Reports"
 published: 2025-07-17
 ---
+
+
+[Original source](https://advocacy.consumerreports.org/press_release/house-approves-clarity-act-without-needed-protections-for-consumers-and-investors/)
 
 ## Summary
 

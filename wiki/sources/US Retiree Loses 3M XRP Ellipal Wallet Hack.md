@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/U.S. Retiree Loses $3M in XRP After Ellipal Wallet Hack - FinanceFeeds.md"
+source_url: "https://financefeeds.com/us-retiree-loses-3m-xrp-after-ellipal-wallet-hack/"
 author: "Tobi Opeyemi Amure / FinanceFeeds"
 published: 2025-10-20
 ---
+
+
+[Original source](https://financefeeds.com/us-retiree-loses-3m-xrp-after-ellipal-wallet-hack/)
 
 ## Summary
 

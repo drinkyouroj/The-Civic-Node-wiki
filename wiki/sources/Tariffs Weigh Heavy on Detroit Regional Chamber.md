@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Tariffs Weigh Heavy on Detroit Regional Chamber's State of the Region as Trump Pledges Additional Levies.md"
+source_url: "https://www.detroitchamber.com/tariffs-weigh-heavy-detroit-chambers-state-of-the-region/"
 author: "Sabrina Cynova"
 published: 2025-04-03
 ---
+
+
+[Original source](https://www.detroitchamber.com/tariffs-weigh-heavy-detroit-chambers-state-of-the-region/)
 
 ## Summary
 

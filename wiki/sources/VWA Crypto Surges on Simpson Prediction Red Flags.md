@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/VWA crypto surges on 'Simpson prediction' amid red flags.md"
+source_url: "https://crypto.news/vwa-crypto-surges-on-simpson-prediction-amid-red-flags/"
 author: "David Marsanic / Crypto.news"
 published: 2025-10-06
 ---
+
+
+[Original source](https://crypto.news/vwa-crypto-surges-on-simpson-prediction-amid-red-flags/)
 
 ## Summary
 

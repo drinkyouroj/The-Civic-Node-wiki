@@ -10,7 +10,11 @@ published: 2025-12-05
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/When Democracy Comes With a Strategem Code.md"
+source_url: "https://drinkyouroj.substack.com/p/when-democracy-comes-with-a-strategem-code"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/when-democracy-comes-with-a-strategem-code)
 
 ## Argument
 The piece uses Helldivers 2 — a video game discovered through a forensic detail of Charlie Kirk's assassination (the shooter engraved Helldivers Strategem codes on unspent bullets) — as a lens for three interlocking arguments: (1) the game's satire of "managed democracy" is an unusually clear mirror for how real authoritarian systems perform legitimacy while operating through control; (2) the game's structured-chaos architecture works as emotional regulation for neurodivergent cognition; and (3) finding genuine joy through the absurd byproducts of tragedy is not moral failure but honest engagement with how discovery works in the current moment.

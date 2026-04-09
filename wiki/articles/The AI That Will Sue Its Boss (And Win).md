@@ -7,7 +7,11 @@ published: 2025-09-06
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The AI That Will Sue Its Boss (And Win).md"
+source_url: "https://drinkyouroj.substack.com/p/the-ai-that-will-sue-its-boss-and-win"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-ai-that-will-sue-its-boss-and-win)
 
 ## Argument
 

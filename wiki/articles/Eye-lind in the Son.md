@@ -7,7 +7,11 @@ published: 2025-10-30
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Eye-lind in the Son.md"
+source_url: "https://drinkyouroj.substack.com/p/eye-lind-in-the-son"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/eye-lind-in-the-son)
 
 ## Argument
 

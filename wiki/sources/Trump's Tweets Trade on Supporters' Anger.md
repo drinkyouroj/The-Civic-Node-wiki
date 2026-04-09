@@ -4,11 +4,15 @@ type: source
 tags: [politics, disinformation, social-media, polarization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Trump's Tweets Trade on Supporters' Anger.md"
+source_url: "https://www.newsweek.com/government-meme-trump-tweets-trade-supporters-anger-558011#:~:text=Government%20by%20Meme%3A%20Trump's%20Tweets,Subscribe"
 author: "Michael Berkman"
 published: 2017-02-18
 ---
+
+
+[Original source](https://www.newsweek.com/government-meme-trump-tweets-trade-supporters-anger-558011#:~:text=Government%20by%20Meme%3A%20Trump's%20Tweets,Subscribe)
 
 ## Summary
 Newsweek/The Conversation piece by Penn State political scientist Michael Berkman analyzing the meme transmission dynamic in Trump's Twitter communication (2016-2017). Key finding: Trump's anger and its specific targets spread rapidly to his supporters — 40%+ of Trump supporters spontaneously cited exactly the same post-election protest topics Trump tweeted about, often using his language verbatim. Anger memes spread more than magnanimous ones.

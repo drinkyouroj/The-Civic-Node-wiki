@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/American Psychological Association — Stress in America 2024.md"
+source_url: "https://www.apa.org/pubs/reports/stress-in-america/2024/2024-stress-in-america-full-report.pdf"
 author: "American Psychological Association / The Harris Poll"
 published: 2024-10-01
 ---
+
+
+[Original source](https://www.apa.org/pubs/reports/stress-in-america/2024/2024-stress-in-america-full-report.pdf)
 
 ## Summary
 The American Psychological Association's annual Stress in America survey (2024) found that political stress hit near-historic levels ahead of the 2024 presidential election. More than three-quarters of adults (77%) cited the future of the nation as a significant stressor; 56% said the 2024 election could be "the end of democracy in the U.S."; and 72% feared the election results could lead to violence. The report is notable for finding that political stress was bipartisan — both Republicans and Democrats reported high levels.

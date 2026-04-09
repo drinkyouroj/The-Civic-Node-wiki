@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The U.S. Government Is Targeting Cryptocurrency to Expand the Reach of Its Financial Surveillance.md"
+source_url: "https://www.eff.org/deeplinks/2020/12/us-government-targeting-cryptocurrency-expand-reach-its-financial-surveillance"
 author: "Marta Belcher; Aaron Mackey / EFF"
 published: 2020-12-21
 ---
+
+
+[Original source](https://www.eff.org/deeplinks/2020/12/us-government-targeting-cryptocurrency-expand-reach-its-financial-surveillance)
 
 ## Summary
 

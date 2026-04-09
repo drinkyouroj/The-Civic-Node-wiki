@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/The GENIUS Act A Framework for U.S. Stablecoin Issuance Insights Sidley Austin LLP.md"
+source_url: "https://www.sidley.com/en/insights/newsupdates/2025/07/the-genius-act-a-framework-for-us-stablecoin-issuance"
 author: "Sidley Austin LLP"
 published: 2025-07-18
 ---
+
+
+[Original source](https://www.sidley.com/en/insights/newsupdates/2025/07/the-genius-act-a-framework-for-us-stablecoin-issuance)
 
 ## Summary
 

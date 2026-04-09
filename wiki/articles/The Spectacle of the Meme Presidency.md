@@ -9,7 +9,11 @@ published: 2025-07-14
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Spectacle of the Meme Presidency.md"
+source_url: "https://drinkyouroj.substack.com/p/the-spectacle-of-the-meme-presidency"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-spectacle-of-the-meme-presidency)
 
 ## Argument
 The 2016 election was not just a political upset but a paradigm shift: Trump mastered "meme culture" as a political weapon, transforming politics into a contest of emotional resonance and spectacle rather than policy substance. Memes bypass reasoned debate, go straight to emotion, and launder extreme ideas under the cover of "just a joke." Biden's 2020-2024 "return to normalcy" strategy failed because it brought a policy paper to a meme war. The 2024 result shows the rules have permanently changed: the political media environment now rewards memetic warfare, and the authoritarian path — retribution and consolidating power — is the logical conclusion of a political style that defines opponents as enemies to be vanquished.

@@ -4,11 +4,15 @@ type: source
 tags: [sports, platform-antitrust, technology, politics]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 3
 raw: "raw/Justice Department investigating the NFL over subscription fee concerns, source says.md"
+source_url: "https://www.nbcnews.com/sports/nfl/justice-department-investigating-nfl-subscription-fees-source-says-rcna267454"
 author: "Michael Kosnar / Colleen Long"
 published: 2026-04-09
 ---
+
+
+[Original source](https://www.nbcnews.com/sports/nfl/justice-department-investigating-nfl-subscription-fees-source-says-rcna267454)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [technology, misinformation, space, politics]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 5
 raw: "raw/Conspiracy Theorists Are Already Trying (And Failing) to Discredit the Artemis II Mission.md"
+source_url: "https://www.vice.com/en/article/conspiracy-theorists-are-already-trying-and-failing-to-discredit-the-artemis-ii-mission/"
 author: "Luis Prada"
 published: 2026-04-08
 ---
+
+
+[Original source](https://www.vice.com/en/article/conspiracy-theorists-are-already-trying-and-failing-to-discredit-the-artemis-ii-mission/)
 
 ## Summary
 

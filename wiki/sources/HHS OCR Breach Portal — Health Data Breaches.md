@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/U.S. Department of Health and Human Services Office for Civil Rights Breach Portal.md"
+source_url: "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
 author: "HHS Office for Civil Rights"
 published: 2026-04-07
 ---
+
+
+[Original source](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf)
 
 ## Summary
 Reference page for the HHS Office for Civil Rights HIPAA Breach Portal — the federal database where HIPAA-covered entities must report breaches of unsecured protected health information affecting 500 or more individuals. The raw file contains only the portal's introductory explanation of OCR's review and response process, not any specific breach data.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Bitcoin soars past $120,000 ahead of US Congress' 'Crypto week'. What to expect from Genius Act as House plans vote.md"
+source_url: "https://economictimes.indiatimes.com/news/international/global-trends/us-news-bitcoin-soars-past-120000-ahead-of-us-congress-crypto-week-what-to-expect-from-genius-act-as-house-plans-vote/articleshow/122438781.cms"
 author: "Economic Times / India"
 published: 2025-07-14
 ---
+
+
+[Original source](https://economictimes.indiatimes.com/news/international/global-trends/us-news-bitcoin-soars-past-120000-ahead-of-us-congress-crypto-week-what-to-expect-from-genius-act-as-house-plans-vote/articleshow/122438781.cms)
 
 ## Summary
 

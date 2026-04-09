@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Government shutdown delays key monthly jobs report at pivotal moment for the U.S. economy.md"
+source_url: "https://www.nbcnews.com/business/economy/government-shutdown-jobs-report-trump-rcna235298"
 author: "Steve Kopack"
 published: 2025-10-03
 ---
+
+
+[Original source](https://www.nbcnews.com/business/economy/government-shutdown-jobs-report-trump-rcna235298)
 
 ## Summary
 

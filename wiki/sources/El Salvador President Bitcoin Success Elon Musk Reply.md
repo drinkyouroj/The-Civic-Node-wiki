@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/El Salvador President shares the country's Bitcoin success; gets this 'one-word' reply from Elon Musk - Times of India.md"
+source_url: "https://timesofindia.indiatimes.com/technology/tech-news/el-salvador-president-shares-the-countrys-bitcoin-success-gets-this-one-word-reply-from-elon-musk/articleshow/116046283.cms"
 author: "TOI Tech Desk"
 published: 2024-12-06
 ---
+
+
+[Original source](https://timesofindia.indiatimes.com/technology/tech-news/el-salvador-president-shares-the-countrys-bitcoin-success-gets-this-one-word-reply-from-elon-musk/articleshow/116046283.cms)
 
 ## Summary
 

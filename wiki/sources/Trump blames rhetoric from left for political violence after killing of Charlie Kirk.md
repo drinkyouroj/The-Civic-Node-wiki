@@ -4,11 +4,15 @@ type: source
 tags: [politics, political-violence, trump, media]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Trump blames rhetoric from left for political violence after killing of Charlie Kirk.md"
+source_url: "https://www.npr.org/2025/09/10/nx-s1-5537187/trump-charlie-kirk-blames-left"
 author: ""
 published: 2025-09-11
 ---
+
+
+[Original source](https://www.npr.org/2025/09/10/nx-s1-5537187/trump-charlie-kirk-blames-left)
 
 ## Summary
 Covers Trump's Oval Office video statement blaming left-wing rhetoric for Kirk's assassination while calling for crackdown on organizations that "fund and support" political violence. Trump called Kirk "a martyr for truth and freedom."

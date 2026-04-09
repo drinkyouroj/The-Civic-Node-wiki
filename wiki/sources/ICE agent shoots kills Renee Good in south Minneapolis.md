@@ -4,11 +4,15 @@ type: source
 tags: [politics, immigration, minnesota, police-violence]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/ICE agent shoots, kills U.S. citizen Renee Good in south Minneapolis.md"
+source_url: "https://www.cbsnews.com/minnesota/live-updates/minneapolis-ice-agent-shooting-protesters-clash-fbi-investigation/"
 author: ""
 published: 2026-01-07
 ---
+
+
+[Original source](https://www.cbsnews.com/minnesota/live-updates/minneapolis-ice-agent-shooting-protesters-clash-fbi-investigation/)
 
 ## Summary
 Breaking news report of ICE agent Jonathan Ross fatally shooting Renée Good, a 37-year-old U.S. citizen, in south Minneapolis on January 7, 2026 during Operation Metro Surge.

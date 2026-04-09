@@ -4,11 +4,15 @@ type: source
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/How Do We Define a True NFL Dynasty?.md"
+source_url: "https://bleacherreport.com/articles/1487864-how-do-we-define-a-true-nfl-dynasty"
 author: "Mike Hoag"
 published: 2018-06-07
 ---
+
+
+[Original source](https://bleacherreport.com/articles/1487864-how-do-we-define-a-true-nfl-dynasty)
 
 ## Summary
 

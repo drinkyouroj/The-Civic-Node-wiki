@@ -4,11 +4,15 @@ type: source
 tags: [monetary-policy, economics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/State of U.S. Tariffs July 14, 2025.md"
+source_url: "https://budgetlab.yale.edu/research/state-us-tariffs-july-14-2025"
 author: ""
 published: 2025-07-14
 ---
+
+
+[Original source](https://budgetlab.yale.edu/research/state-us-tariffs-july-14-2025)
 
 ## Summary
 

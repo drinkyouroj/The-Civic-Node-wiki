@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Global Regulation of Stablecoins in 2025 GENIUS Act, EU MiCA & Asian Competition Transfi.md"
+source_url: "https://www.transfi.com/blog/global-regulation-of-stablecoins-in-2025-genius-act-eu-mica-asian-competition"
 author: "TransFi Team"
 published: 2025-07-08
 ---
+
+
+[Original source](https://www.transfi.com/blog/global-regulation-of-stablecoins-in-2025-genius-act-eu-mica-asian-competition)
 
 ## Summary
 

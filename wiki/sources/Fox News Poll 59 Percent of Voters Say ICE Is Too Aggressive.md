@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Fox News Poll 59% of voters say ICE is too aggressive, up 10 points since July.md"
+source_url: "https://www.foxnews.com/politics/fox-news-poll-59-voters-say-ice-too-aggressive-up-10-points-since-july"
 author: "Dana Blanton"
 published: 2026-01-28
 ---
+
+
+[Original source](https://www.foxnews.com/politics/fox-news-poll-59-voters-say-ice-too-aggressive-up-10-points-since-july)
 
 ## Summary
 A Fox News poll (Jan. 23–26, 2026) — conducted while Alex Pretti was being shot in Minneapolis — finds 59% of voters characterize ICE as "too aggressive," a 10-point jump since July 2025. Trump's best issue remains border security (52% approval), but his immigration handling is underwater (45% approve/55% disapprove). Support for abolishing ICE has doubled since 2018.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/White House freezes $18 billion in New York City infrastructure funding.md"
+source_url: "https://www.nbcnews.com/politics/trump-administration/white-house-freezes-18-billion-new-york-city-infrastructure-funding-rcna234928"
 author: "Adam Edelman; Peter Alexander"
 published: 2025-10-01
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/trump-administration/white-house-freezes-18-billion-new-york-city-infrastructure-funding-rcna234928)
 
 ## Summary
 NBC News reports that OMB Director Russell Vought announced a freeze on $18 billion in NYC infrastructure funding (Hudson Tunnel, Second Avenue Subway) on the first day of the government shutdown, citing "unconstitutional DEI principles." The announcement was a targeted political strike against Senate Minority Leader Schumer and House Minority Leader Jeffries' constituents.

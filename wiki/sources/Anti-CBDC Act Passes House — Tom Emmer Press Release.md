@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Majority Whip Tom Emmer's Flagship Legislation, the Anti-CBDC Surveillance State Act, Passes House of Representatives.md"
+source_url: "https://emmer.house.gov/media-center/press-releases/majority-whip-tom-emmer-s-flagship-legislation-the-anti-cbdc-surveillance-state-act-passes-house-of-representatives"
 author: "Rep. Tom Emmer"
 published: 2025-07-17
 ---
+
+
+[Original source](https://emmer.house.gov/media-center/press-releases/majority-whip-tom-emmer-s-flagship-legislation-the-anti-cbdc-surveillance-state-act-passes-house-of-representatives)
 
 ## Summary
 

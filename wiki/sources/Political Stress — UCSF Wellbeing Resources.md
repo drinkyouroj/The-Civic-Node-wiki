@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Political Stress.md"
+source_url: "https://hr.ucsf.edu/wellbeing/coping-and-resiliency-program/cope-program-wellness-resources/political-stress"
 author: "UCSF Human Resources / Employee Coping and Resilience Program"
 published: 2026-01-01
 ---
+
+
+[Original source](https://hr.ucsf.edu/wellbeing/coping-and-resiliency-program/cope-program-wellness-resources/political-stress)
 
 ## Summary
 UCSF HR wellbeing resource page on managing political stress, featuring evidence-based recommendations for media consumption, self-care, and workplace communication during politically charged times. Includes a section on racial trauma triggered by political violence imagery.

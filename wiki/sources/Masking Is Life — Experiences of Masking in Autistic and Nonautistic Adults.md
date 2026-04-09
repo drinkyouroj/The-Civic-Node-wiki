@@ -4,11 +4,15 @@ type: source
 tags: [mental-health, health, neurodiversity]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/\"Masking Is Life\" Experiences of Masking in Autistic and Nonautistic Adults.md"
+source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8992921/"
 author: "Danielle Miller, Jon Rees, Amy Pearson"
 published: 2021-12-07
 ---
+
+
+[Original source](https://pmc.ncbi.nlm.nih.gov/articles/PMC8992921/)
 
 ## Summary
 Peer-reviewed qualitative study (PMC/NIH) investigating similarities and differences in masking experiences between autistic adults, other neurodivergent adults, and neurotypical adults. Used thematic analysis of online survey responses from 238 participants. Key finding: many aspects of masking are shared across neurotypes (exhaustion, identity disconnection), but some are specific to autistic people (sensory suppression, suicidal ideation from masking).

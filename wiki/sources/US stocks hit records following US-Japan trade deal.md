@@ -4,11 +4,15 @@ type: source
 tags: [economics, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/US stocks hit more records following US-Japan trade deal.md"
+source_url: "https://apnews.com/article/stock-markets-tariffs-trump-japan-earnings-d051e9cd9d0e15b912219f604a1e1064"
 author: "Stan Choe; Yuri Kageyama"
 published: 2025-07-23
 ---
+
+
+[Original source](https://apnews.com/article/stock-markets-tariffs-trump-japan-earnings-d051e9cd9d0e15b912219f604a1e1064)
 
 ## Summary
 

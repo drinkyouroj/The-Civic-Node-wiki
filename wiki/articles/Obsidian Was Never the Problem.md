@@ -7,7 +7,11 @@ published: 2026-04-06
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Obsidian Was Never the Problem.md"
+source_url: "https://drinkyouroj.substack.com/p/obsidian-was-never-the-problem"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/obsidian-was-never-the-problem)
 
 ## What It Is
 

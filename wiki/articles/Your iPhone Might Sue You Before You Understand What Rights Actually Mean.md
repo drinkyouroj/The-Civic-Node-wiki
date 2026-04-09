@@ -7,7 +7,11 @@ published: 2025-09-05
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Your iPhone Might Sue You Before You Understand What Rights Actually Mean.md"
+source_url: "https://drinkyouroj.substack.com/p/your-iphone-might-sue-you-before"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/your-iphone-might-sue-you-before)
 
 ## Argument
 

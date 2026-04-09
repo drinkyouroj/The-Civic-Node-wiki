@@ -4,11 +4,15 @@ type: source
 tags: [economics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/United States Unemployment Rate.md"
+source_url: "https://tradingeconomics.com/united-states/unemployment-rate"
 author: ""
 published: 2026-04-03
 ---
+
+
+[Original source](https://tradingeconomics.com/united-states/unemployment-rate)
 
 ## Summary
 

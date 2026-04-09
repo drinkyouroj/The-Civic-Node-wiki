@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Bitcoin is no longer legal tender in El Salvador Digital Watch Observatory.md"
+source_url: "https://dig.watch/updates/bitcoin-is-no-longer-legal-tender-in-el-salvador"
 author: "Digital Watch Observatory"
 published: 2025-02-07
 ---
+
+
+[Original source](https://dig.watch/updates/bitcoin-is-no-longer-legal-tender-in-el-salvador)
 
 ## Summary
 

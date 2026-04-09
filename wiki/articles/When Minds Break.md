@@ -11,7 +11,11 @@ published: 2025-08-03
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/When Minds Break.md"
+source_url: "https://drinkyouroj.substack.com/p/when-minds-break"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/when-minds-break)
 
 ## Argument
 Human psychosis and AI hallucination are structurally analogous: both are predictive systems that keep generating confident, internally consistent outputs even when those outputs have decoupled from reality. The piece uses the author's personal experience of psychotic depression — hearing voices, constructing surveillance narratives from a blinking LED — to illuminate why LLMs hallucinate, and uses AI hallucination research to illuminate how psychosis works. Recovery from psychosis and RAG (Retrieval-Augmented Generation) in AI are parallel "grounding" interventions, but human recovery has advantages AI lacks: embodiment, social connection, metacognitive capacity.

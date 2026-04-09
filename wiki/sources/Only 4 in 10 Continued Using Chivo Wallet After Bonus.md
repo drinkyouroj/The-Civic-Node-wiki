@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Only 4 in 10 Continued Using El Salvador's Chivo Bitcoin Wallet After Bonus Report CoinMarketCap.md"
+source_url: "https://coinmarketcap.com/academy/article/only-4-in-10-continued-using-el-salvador-s-chivo-bitcoin-wallet-after-bonus-report"
 author: "CoinMarketCap"
 published: 2022-05-05
 ---
+
+
+[Original source](https://coinmarketcap.com/academy/article/only-4-in-10-continued-using-el-salvador-s-chivo-bitcoin-wallet-after-bonus-report)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 13
 raw: "raw/Kevin Warsh Won't Revolutionize the Fed.md"
+source_url: "https://www.cfr.org/articles/why-kevin-warsh-wont-revolutionize-the-federal-reserve"
 author: "Maximilian Hippold, Roger W. Ferguson Jr."
 published: 2026-01-30
 ---
+
+
+[Original source](https://www.cfr.org/articles/why-kevin-warsh-wont-revolutionize-the-federal-reserve)
 
 ## Summary
 Council on Foreign Relations expert take (co-authored by Roger Ferguson Jr., former Fed Vice Chair) published the day of the Warsh nomination. Thesis: financial markets and economic realities — not Trump's preferences — will constrain Warsh's actual policy. Key constraints: (1) FOMC is a 12-member committee, not a dictatorship; (2) inflation above 2% limits aggressive cuts; (3) bond market reactions would punish perceived loss of independence. Notes Senator Tillis (R-NC) is blocking the Senate Banking Committee's recommendation until the DOJ probe of Powell is "fully" resolved.

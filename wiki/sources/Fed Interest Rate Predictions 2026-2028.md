@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Fed Interest Rate Predictions for the Next 3 Years 2026-2028.md"
+source_url: "https://www.noradarealestate.com/blog/fed-interest-rate-predictions-for-the-next-3-years-2025-2027/"
 author: "Marco Santarelli"
 published: 2026-01-22
 ---
+
+
+[Original source](https://www.noradarealestate.com/blog/fed-interest-rate-predictions-for-the-next-3-years-2025-2027/)
 
 ## Summary
 

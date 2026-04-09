@@ -4,11 +4,15 @@ type: source
 tags: [politics, immigration, minnesota, police-violence, media]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/ICE agent shooter's own cellphone video undercuts Trump administration's account of Minneapolis killing.md"
+source_url: "https://www.advocate.com/news/ice-agent-shooter-video-minneapolis"
 author: ""
 published: 2026-01-09
 ---
+
+
+[Original source](https://www.advocate.com/news/ice-agent-shooter-video-minneapolis)
 
 ## Summary
 Analysis of Jonathan Ross's own cellphone recording of the shooting, which contradicted the Trump administration's account that Good ran him over. The video showed Ross was not struck by Good's SUV and that he fired while the vehicle was turning away from him.

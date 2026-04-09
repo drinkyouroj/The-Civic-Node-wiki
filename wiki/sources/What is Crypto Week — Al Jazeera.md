@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/What is the US's Crypto Week Why has Bitcoin hit a record high.md"
+source_url: "https://www.aljazeera.com/economy/2025/7/14/what-is-the-uss-crypto-week-why-has-bitcoin-hit-a-record-high"
 author: "Al Jazeera"
 published: 2025-07-14
 ---
+
+
+[Original source](https://www.aljazeera.com/economy/2025/7/14/what-is-the-uss-crypto-week-why-has-bitcoin-hit-a-record-high)
 
 ## Summary
 

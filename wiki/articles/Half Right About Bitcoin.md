@@ -10,7 +10,11 @@ published: 2025-08-06
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Half Right About Bitcoin.md"
+source_url: "https://drinkyouroj.substack.com/p/half-right-about-bitcoin"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/half-right-about-bitcoin)
 
 ## Argument
 

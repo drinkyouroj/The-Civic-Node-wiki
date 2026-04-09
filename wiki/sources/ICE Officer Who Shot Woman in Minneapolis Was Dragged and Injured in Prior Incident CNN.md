@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/ICE officer who shot woman in Minneapolis was dragged and injured in traffic stop last year CNN.md"
+source_url: "https://www.cnn.com/2026/01/08/us/ice-agent-minneapolis-shooting-car-dragged-invs"
 author: "Holmes Lybrand; Allison Gordon; Jeff Winter; Casey Tolan; Isabelle Chapman"
 published: 2026-01-08
 ---
+
+
+[Original source](https://www.cnn.com/2026/01/08/us/ice-agent-minneapolis-shooting-car-dragged-invs)
 
 ## Summary
 CNN investigation into ICE agent Jonathan Ross's background, including a June 2025 incident in Bloomington, MN where his arm was caught in a car window and he was dragged ~100 yards by a fleeing suspect, and his military/law enforcement career. The Trump administration used the prior incident to justify his use of deadly force against Renée Good; law enforcement experts disagreed.

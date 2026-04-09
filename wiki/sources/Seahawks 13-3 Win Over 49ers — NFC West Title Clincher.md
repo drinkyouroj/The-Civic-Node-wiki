@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Rapid Reactions Seahawks Clinch NFC West and No. 1 Seed With 13-3 Win Over 49ers.md"
+source_url: "https://www.seahawks.com/news/rapid-reactions-seahawks-clinch-nfc-west-and-no-1-seed-with-13-3-win-over-49ers"
 author: "Multiple (Seahawks.com, CBS, NBC Bay Area, Field Gulls, SI, MyNorthwest)"
 published: 2026-01-04
 ---
+
+
+[Original source](https://www.seahawks.com/news/rapid-reactions-seahawks-clinch-nfc-west-and-no-1-seed-with-13-3-win-over-49ers)
 
 ## Summary
 

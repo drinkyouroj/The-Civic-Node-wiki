@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Overview Uniswap.md"
+source_url: "https://docs.uniswap.org/contracts/v3/reference/governance/overview"
 author: "Uniswap"
 published: 2026-01-01
 ---
+
+
+[Original source](https://docs.uniswap.org/contracts/v3/reference/governance/overview)
 
 ## Summary
 

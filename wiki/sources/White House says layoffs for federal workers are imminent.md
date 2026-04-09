@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/White House says layoffs for federal workers are 'imminent'.md"
+source_url: "https://www.nbcnews.com/politics/trump-administration/live-blog/government-shutdown-2025-trump-live-updates-rcna234261/rcrd89756?canonicalCard=true"
 author: "NBC News live blog"
 published: 2025-10-01
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/trump-administration/live-blog/government-shutdown-2025-trump-live-updates-rcna234261/rcrd89756?canonicalCard=true)
 
 ## Summary
 NBC News live blog from Day 1 of the October 2025 government shutdown. OMB Director Vought told House Republicans firings would begin within "one to two days." White House press secretary Karoline Leavitt said firings were "imminent." Multiple federal agencies posted partisan blame messages on official websites. Senate failed twice to pass funding bills.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/What The GENIUS Act Could Mean For Stablecoins, Investors And Taxpayers Bankrate.md"
+source_url: "https://www.bankrate.com/investing/genius-act-crypto-regulation-bill-stablecoins/"
 author: "James Royal, PhD, Bankrate"
 published: 2025-07-18
 ---
+
+
+[Original source](https://www.bankrate.com/investing/genius-act-crypto-regulation-bill-stablecoins/)
 
 ## Summary
 

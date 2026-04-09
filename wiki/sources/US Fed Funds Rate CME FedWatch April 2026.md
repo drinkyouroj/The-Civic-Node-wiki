@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/US Fed Funds Interest Rate Latest Updates and Trends.md"
+source_url: "https://growbeansprout.com/tools/fedwatch"
 author: ""
 published: 2026-04-07
 ---
+
+
+[Original source](https://growbeansprout.com/tools/fedwatch)
 
 ## Summary
 

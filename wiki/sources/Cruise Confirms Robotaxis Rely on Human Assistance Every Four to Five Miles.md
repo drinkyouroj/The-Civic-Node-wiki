@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Cruise confirms robotaxis rely on human assistance every four to five miles.md"
+source_url: "https://www.cnbc.com/2023/11/06/cruise-confirms-robotaxis-rely-on-human-assistance-every-4-to-5-miles.html"
 author: "Lora Kolodny"
 published: 2023-11-06
 ---
+
+
+[Original source](https://www.cnbc.com/2023/11/06/cruise-confirms-robotaxis-rely-on-human-assistance-every-4-to-5-miles.html)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Why DePIN matters, and how to make it work.md"
+source_url: "https://a16zcrypto.com/posts/listicles/why-depin-matters/"
 author: "Guy Wuollet"
 published: 2025-03-29
 ---
+
+
+[Original source](https://a16zcrypto.com/posts/listicles/why-depin-matters/)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Microsoft Sued Over ChatGPT Pricing, Antitrust Claims Emerge.md"
+source_url: "https://www.medianama.com/2025/10/223-microsoft-antitrust-lawsuit-over-chatgpt-pricing-openai-deal/"
 author: "Prabhanu Kumar Das"
 published: 2025-10-14
 ---
+
+
+[Original source](https://www.medianama.com/2025/10/223-microsoft-antitrust-lawsuit-over-chatgpt-pricing-openai-deal/)
 
 ## Summary
 

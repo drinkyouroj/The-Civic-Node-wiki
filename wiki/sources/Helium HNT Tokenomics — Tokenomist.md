@@ -4,11 +4,15 @@ type: source
 tags: [technology, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Helium (HNT) Tokenomics & Vesting Schedule.md"
+source_url: "https://www.tokenomist.ai/helium"
 author: "Tokenomist"
 published: 2025-03-06
 ---
+
+
+[Original source](https://www.tokenomist.ai/helium)
 
 ## Summary
 

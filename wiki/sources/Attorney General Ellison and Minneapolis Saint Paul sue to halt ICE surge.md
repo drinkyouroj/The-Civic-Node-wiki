@@ -4,11 +4,15 @@ type: source
 tags: [politics, immigration, minnesota, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Attorney General Ellison and cities of Minneapolis and Saint Paul sue to halt ICE surge into Minnesota.md"
+source_url: "https://www.ag.state.mn.us/Office/Communications/2026/01/12_ICE.asp"
 author: ""
 published: 2026-01-10
 ---
+
+
+[Original source](https://www.ag.state.mn.us/Office/Communications/2026/01/12_ICE.asp)
 
 ## Summary
 Reports on Minnesota AG Keith Ellison and the cities of Minneapolis and Saint Paul filing suit against DHS to halt ICE deployments during Operation Metro Surge. Challenges the legality of the enforcement operation and seeks court intervention.

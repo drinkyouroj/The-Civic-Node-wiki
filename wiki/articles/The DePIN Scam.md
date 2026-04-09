@@ -11,7 +11,11 @@ published: 2025-07-26
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The DePIN Scam.md"
+source_url: "https://drinkyouroj.substack.com/p/the-depin-scam"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-depin-scam)
 
 ## Argument
 Most DePIN projects are not decentralized — they distribute hardware to community participants while centralizing everything that matters: software development, partnership negotiations, treasury management, and strategic direction. The "decentralization" only exists at the layer where community members provide free labor. Token concentration among founders and VCs means community governance is performance theater. The SEC action against Helium's Nova Labs ($200K fine for false partnership claims) is a preview of broader regulatory reckoning.

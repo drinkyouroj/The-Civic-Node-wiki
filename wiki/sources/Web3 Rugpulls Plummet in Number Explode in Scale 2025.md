@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Web3 Rugpulls Plummet in Number but Explode in Scale in 2025 Report - The Defiant.md"
+source_url: "https://thedefiant.io/news/nfts-and-web3/web3-rugpulls-2025-report"
 author: "Jona Jaupi / The Defiant"
 published: 2025-04-17
 ---
+
+
+[Original source](https://thedefiant.io/news/nfts-and-web3/web3-rugpulls-2025-report)
 
 ## Summary
 

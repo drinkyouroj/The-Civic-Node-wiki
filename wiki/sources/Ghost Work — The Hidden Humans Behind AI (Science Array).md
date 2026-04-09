@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Ghost Work The Hidden Humans Behind AI [sciencearray.com].md"
+source_url: "https://sciencearray.com/society/ghost-work-hidden-humans-behind-ai"
 author: ""
 published: 2025-10-24
 ---
+
+
+[Original source](https://sciencearray.com/society/ghost-work-hidden-humans-behind-ai)
 
 ## Summary
 

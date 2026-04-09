@@ -4,11 +4,15 @@ type: source
 tags: [nfl, seahawks, playoffs, game-recap, 49ers]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Seahawks 41-6 49ers (Jan 17, 2026) Final Score - ESPN.md"
+source_url: "https://www.espn.com/nfl/game/_/gameId/401772984/49ers-seahawks"
 author: "ESPN"
 published: 2026-01-17
 ---
+
+
+[Original source](https://www.espn.com/nfl/game/_/gameId/401772984/49ers-seahawks)
 
 ## Summary
 

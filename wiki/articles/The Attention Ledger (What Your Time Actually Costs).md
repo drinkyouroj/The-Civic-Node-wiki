@@ -11,7 +11,11 @@ published: 2025-10-17
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Attention Ledger (What Your Time Actually Costs).md"
+source_url: "https://drinkyouroj.substack.com/p/the-attention-ledger"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-attention-ledger)
 
 ## Argument
 Attention is a currency with quantifiable monetary value, and the attention economy operates as an invisible lending market: users take loans against their future cognitive capacity, paying compound interest in degraded focus, shortened attention spans, and diminished capacity for sustained thought. The piece applies economic frameworks learned during a period of homelessness in Seattle — where the margin for error was zero and every allocation of attention, calories, and dollars had immediate verifiable consequences — to the abstract attention economy most people never have to confront as empirically as survival demands.

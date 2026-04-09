@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Seahawks Tie for NFL Lead with Six Pro Bowl Selections.md"
+source_url: "https://heavy.com/sports/nfl/seattle-seahawks/seattle-seahawks-six-pro-bowl-selections/"
 author: "Mark Harris"
 published: 2025-12-24
 ---
+
+
+[Original source](https://heavy.com/sports/nfl/seattle-seahawks/seattle-seahawks-six-pro-bowl-selections/)
 
 ## Summary
 

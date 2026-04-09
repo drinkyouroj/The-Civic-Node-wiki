@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Fed set to cut rates, but forecast for rest of 2025 is key to markets with politics clouding the picture.md"
+source_url: "https://www.cnbc.com/2025/09/16/fed-interest-rate-decision-preview.html"
 author: "Jeff Cox"
 published: 2025-09-16
 ---
+
+
+[Original source](https://www.cnbc.com/2025/09/16/fed-interest-rate-decision-preview.html)
 
 ## Summary
 

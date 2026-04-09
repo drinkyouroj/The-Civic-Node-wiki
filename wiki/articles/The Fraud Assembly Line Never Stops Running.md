@@ -9,7 +9,11 @@ published: 2025-10-23
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Fraud Assembly Line Never Stops Running.md"
+source_url: "https://drinkyouroj.substack.com/p/the-fraud-assembly-line-never-stops-running"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-fraud-assembly-line-never-stops-running)
 
 ## Argument
 Crypto scam infrastructure has industrialized: 15 new scam tokens launch per hour, 360 per day, 131,400 per year — a 6,500% year-over-year increase in losses to $6 billion annually in 2025. This is not a bug in an otherwise functional system but the system's primary output. The central paradox: an industry that promised to eliminate the need for trust has created an environment where trust is simultaneously suicidal (every layer requires trusting someone) and essential (the system collapses without it). The piece argues the fraud isn't aberrant behavior exploiting a good system — it's a system purpose-built for exploitation that occasionally produces legitimate projects by accident.

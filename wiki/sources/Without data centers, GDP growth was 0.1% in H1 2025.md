@@ -4,11 +4,15 @@ type: source
 tags: [monetary-policy, technology, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says Fortune.md"
+source_url: "https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/"
 author: "Nick Lichtenberg"
 published: 2025-10-07
 ---
+
+
+[Original source](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/)
 
 ## Summary
 

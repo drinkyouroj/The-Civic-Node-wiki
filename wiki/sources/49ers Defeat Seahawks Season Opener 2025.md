@@ -4,11 +4,15 @@ type: source
 tags: [nfl, seahawks, game-recap, 49ers]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/49ers Defeat Seahawks 17-13 in Season Opener; 5 Takeaways from SFvsSEA.md"
+source_url: "https://www.49ers.com/news/49ers-defeat-seahawks-17-13-in-season-opener-5-takeaways-from-sfvssea"
 author: "Briana Jeannel"
 published: 2025-09-08
 ---
+
+
+[Original source](https://www.49ers.com/news/49ers-defeat-seahawks-17-13-in-season-opener-5-takeaways-from-sfvssea)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/The government shutdown is likely to cement additional Fed interest rate cuts.md"
+source_url: "https://www.cnbc.com/2025/10/01/lockdown-fed-interest-rates.html"
 author: "Jeff Cox"
 published: 2025-10-01
 ---
+
+
+[Original source](https://www.cnbc.com/2025/10/01/lockdown-fed-interest-rates.html)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, knowledge-management]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/As We May Think.md"
+source_url: "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
 author: "Vannevar Bush"
 published: 1945-07-01
 ---
+
+
+[Original source](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
 ## Summary
 

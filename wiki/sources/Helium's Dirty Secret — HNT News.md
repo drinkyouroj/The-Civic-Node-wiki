@@ -4,11 +4,15 @@ type: source
 tags: [technology, infrastructure, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Helium's Dirty Secret - POC Hacking Explained HNT News Helium Network Blog.md"
+source_url: "https://hntnews.org/poc-hacking-explained/"
 author: "Hans"
 published: 2021-01-12
 ---
+
+
+[Original source](https://hntnews.org/poc-hacking-explained/)
 
 ## Summary
 

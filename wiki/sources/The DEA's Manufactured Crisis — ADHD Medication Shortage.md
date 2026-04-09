@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/The DEA's Manufactured Crisis.md"
+source_url: "https://www.additudemag.com/adderall-shortage-dea-stimulants-adhd-medication/"
 author: "William Dodson, MD, LF-APA"
 published: 2024-04-26
 ---
+
+
+[Original source](https://www.additudemag.com/adderall-shortage-dea-stimulants-adhd-medication/)
 
 ## Summary
 Personal essay in ADDitude Magazine (the leading ADHD publication) by Dr. William Dodson, a fellow of the American Psychiatric Association. Argues that the DEA — not pharmaceutical companies, raw material shortages, or telehealth providers — is solely responsible for the ongoing ADHD stimulant medication shortage through its rigid quota system. Makes the case that the FTC's public inquiry was designed to find cover for the DEA rather than fix the actual problem.

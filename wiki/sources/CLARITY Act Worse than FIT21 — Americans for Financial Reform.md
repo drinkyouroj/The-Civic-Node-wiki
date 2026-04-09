@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Fact Sheet CLARITY Act Worse than Last Year's FIT 21 Crypto Deregulation - Americans for Financial Reform.md"
+source_url: "https://ourfinancialsecurity.org/2025/07/fact-sheet-clarity-act-worse-than-last-years-fit-21-crypto-deregulation/"
 author: "Americans for Financial Reform"
 published: 2025-07-16
 ---
+
+
+[Original source](https://ourfinancialsecurity.org/2025/07/fact-sheet-clarity-act-worse-than-last-years-fit-21-crypto-deregulation/)
 
 ## Summary
 

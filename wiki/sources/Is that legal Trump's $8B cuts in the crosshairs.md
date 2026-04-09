@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Is that legal Trump's $8B cuts in the crosshairs.md"
+source_url: "https://www.eenews.net/articles/is-that-legal-trumps-8b-cuts-in-the-crosshairs/"
 author: "Hannah Northey; Pamela King; Christa Marshall"
 published: 2025-10-03
 ---
+
+
+[Original source](https://www.eenews.net/articles/is-that-legal-trumps-8b-cuts-in-the-crosshairs/)
 
 ## Summary
 E&E News legal analysis of the blue-state energy grant cancellations. Georgetown Law professor calls them flatly "unlawful" under the Impoundment Control Act. Identifies three legal theories for challenge: ICA violation, breach of contract, and illegal political retribution. Energy Secretary Wright defended cuts in CNN interview while contradicting White House press secretary's "pass the CR" framing.

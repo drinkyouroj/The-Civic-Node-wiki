@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Sen. Whitehouse on Congress' \"enormous step forward\" with Epstein probe.md"
+source_url: "https://www.ms.now/news/epstein-files-subpoena-congress-les-wexner-trump"
 author: "Allison Detzel"
 published: 2026-01-08
 ---
+
+
+[Original source](https://www.ms.now/news/epstein-files-subpoena-congress-les-wexner-trump)
 
 ## Summary
 House Oversight Committee voted to subpoena several individuals linked to Epstein, including billionaire Les Wexner and the co-executors of Epstein's estate. Sen. Sheldon Whitehouse called it an "enormous step forward" and framed the bipartisan move as evidence of DOJ inaction — if DOJ had been serious about the investigation, Congress wouldn't need to do this.

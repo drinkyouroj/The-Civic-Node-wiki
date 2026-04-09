@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Virginia results map shows where Abigail Spanberger won election.md"
+source_url: "https://www.newsweek.com/virginia-results-map-shows-where-abigail-spanberger-won-election-10994674"
 author: "Giulia Carbonaro"
 published: 2025-11-05
 ---
+
+
+[Original source](https://www.newsweek.com/virginia-results-map-shows-where-abigail-spanberger-won-election-10994674)
 
 ## Summary
 Newsweek post-election analysis of Spanberger's Virginia victory, including geographic breakdown (suburban surge, urban concentration), political scientist Larry Sabato's commentary, and forward-looking implications for redistricting and 2026.

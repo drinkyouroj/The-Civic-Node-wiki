@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/The NFL and Sample Sizes It's Not Just the Salary Cap That Creates Parity.md"
+source_url: "https://exactsports.com/the-nfl-and-sample-sizes-its-not-just-the-salary-cap-that-creates-parity/"
 author: "EXACT Sports"
 published: 2010-07-19
 ---
+
+
+[Original source](https://exactsports.com/the-nfl-and-sample-sizes-its-not-just-the-salary-cap-that-creates-parity/)
 
 ## Summary
 

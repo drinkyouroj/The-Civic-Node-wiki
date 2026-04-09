@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The time we spend on social media — DataReportal – Global Digital Insights.md"
+source_url: "https://datareportal.com/reports/digital-2024-deep-dive-the-time-we-spend-on-social-media"
 author: "Simon Kemp"
 published: 2024-01-31
 ---
+
+
+[Original source](https://datareportal.com/reports/digital-2024-deep-dive-the-time-we-spend-on-social-media)
 
 ## Summary
 

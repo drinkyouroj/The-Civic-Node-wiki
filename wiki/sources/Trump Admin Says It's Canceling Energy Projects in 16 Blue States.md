@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Trump Admin Says It's Canceling Energy Projects in 16 Blue States.md"
+source_url: "https://www.notus.org/trump-white-house/russell-vought-trump-administration-cancel-energy-projects-blue-states-california-new-york"
 author: "Amelia Benavides-Colón"
 published: 2025-10-01
 ---
+
+
+[Original source](https://www.notus.org/trump-white-house/russell-vought-trump-administration-cancel-energy-projects-blue-states-california-new-york)
 
 ## Summary
 NOTUS reports that OMB Director Russell Vought announced on Day 1 of the government shutdown the cancellation of nearly $8B in energy grants to 321 projects across 16 states — all of which voted for Kamala Harris in 2024. States targeted include CA, CO, CT, DE, HI, IL, MD, MA, MN, NH, NJ, NM, NY, OR, VT, WA. Simultaneously, Vought was also freezing $18B in NYC infrastructure funding.

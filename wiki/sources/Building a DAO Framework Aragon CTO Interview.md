@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Building a DAO Framework Interview with Aragon's CTO Aragon Resource Library.md"
+source_url: "https://www.aragon.org/how-to/building-a-dao-framework-interview-with-aragons-cto"
 author: "Aragon"
 published: 2020-12-22
 ---
+
+
+[Original source](https://www.aragon.org/how-to/building-a-dao-framework-interview-with-aragons-cto)
 
 ## Summary
 

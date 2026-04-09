@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/What's next in AI 7 trends to watch in 2026.md"
+source_url: "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/"
 author: "Susanna Ray"
 published: 2026-01-08
 ---
+
+
+[Original source](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)
 
 ## Summary
 

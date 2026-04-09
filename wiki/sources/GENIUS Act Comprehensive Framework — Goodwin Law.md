@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Federal Stablecoin Legislation Poised to Implement Comprehensive Regulatory Framework for Payment Stablecoins Insights &.md"
+source_url: "https://www.goodwinlaw.com/en/insights/publications/2025/06/alerts-finance-federal-stablecoin-legislation-poised"
 author: "William E Stern; Mitzi Chang; Karen Ubell; John Servidio; Ximeng Tang"
 published: 2025-06-24
 ---
+
+
+[Original source](https://www.goodwinlaw.com/en/insights/publications/2025/06/alerts-finance-federal-stablecoin-legislation-poised)
 
 ## Summary
 

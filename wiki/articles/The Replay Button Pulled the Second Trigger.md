@@ -10,7 +10,11 @@ published: 2025-09-11
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Replay Button Pulled the Second Trigger.md"
+source_url: "https://drinkyouroj.substack.com/p/the-replay-button-pulled-the-second-trigger"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-replay-button-pulled-the-second-trigger)
 
 ## Argument
 Charlie Kirk's assassination on September 10, 2025 was not just a murder — it was an event engineered by its environment to become feed-native content, and the platforms that distributed it are causally implicated in the civilizational harm that follows. The trigger was pulled once; the replay button did the rest. The piece argues that algorithmic distribution transforms single acts of violence into infinite loops, that virality is "cheap physics for attention" that accelerates anything with low friction and high emotional mass, and that political murder is "tragically, perfectly feed-native." The systems are working exactly as designed — the design is the problem.

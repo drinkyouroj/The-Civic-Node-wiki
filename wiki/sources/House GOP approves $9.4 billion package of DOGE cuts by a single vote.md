@@ -4,11 +4,15 @@ type: source
 tags: [politics, fiscal-policy, doge, public-media]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/House GOP approves $9.4 billion package of DOGE cuts by a single vote CNN Politics.md"
+source_url: "https://www.cnn.com/2025/06/12/politics/doge-cuts-rescissions-package-trump-house"
 author: "Sarah Ferris"
 published: 2025-06-12
 ---
+
+
+[Original source](https://www.cnn.com/2025/06/12/politics/doge-cuts-rescissions-package-trump-house)
 
 ## Summary
 CNN's companion account of the June 12, 2025 House vote on the $9.4B rescissions package. Focuses on Speaker Johnson's floor management — the LaLota-Lawler huddle — and explains that the vote was the first time Congress formally weighed in on DOGE cuts. Notes that Senate passage is uncertain and that the legislation has legal significance: it would insulate Trump administration cuts from legal challenges.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/This map shows where cryptocurrency is taking off around the world.md"
+source_url: "https://www.cnbc.com/2021/08/18/new-cryptocurrency-bitcoin-user-global-map.html"
 author: "MacKenzie Sigalos / CNBC"
 published: 2021-08-18
 ---
+
+
+[Original source](https://www.cnbc.com/2021/08/18/new-cryptocurrency-bitcoin-user-global-map.html)
 
 ## Summary
 

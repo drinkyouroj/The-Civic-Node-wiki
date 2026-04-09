@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/The Humans Hiding Behind the Chatbots.md"
+source_url: "https://www.bloomberg.com/news/articles/2016-04-18/the-humans-hiding-behind-the-chatbots"
 author: "Ellen Huet"
 published: 2016-04-18
 ---
+
+
+[Original source](https://www.bloomberg.com/news/articles/2016-04-18/the-humans-hiding-behind-the-chatbots)
 
 ## Summary
 

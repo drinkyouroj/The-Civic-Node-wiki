@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Bureau of Economic Analysis. \"Gross Domestic Product, First Quarter 2025 (Advance Estimate).\".md"
+source_url: "https://www.bea.gov/sites/default/files/2025-04/gdp1q25-adv.pdf"
 author: "Bureau of Economic Analysis"
 published: 2025-04-30
 ---
+
+
+[Original source](https://www.bea.gov/sites/default/files/2025-04/gdp1q25-adv.pdf)
 
 ## Summary
 

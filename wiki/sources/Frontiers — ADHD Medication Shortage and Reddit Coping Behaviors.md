@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Frontiers Attention-deficit hyperactivity disorder medication shortage in the United States a qualitative assessment of.md"
+source_url: "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1529115/full"
 author: "Shrestha, Shikhar; Varghese, Shama; Mehta, Simran; Dev, Saloni"
 published: 2025-07-07
 ---
+
+
+[Original source](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1529115/full)
 
 ## Summary
 Peer-reviewed qualitative study in *Frontiers in Pharmacology* analyzing Reddit posts from r/ADHD (August 2021–February 2024) to understand how individuals with ADHD psychologically and behaviorally respond to medication shortages. Using stress-and-coping theory, researchers found significant cognitive, emotional, and functional impacts; a range of pharmacological and non-pharmacological coping strategies; and Reddit community as a support network.

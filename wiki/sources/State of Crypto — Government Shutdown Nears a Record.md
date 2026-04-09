@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/State of Crypto The Government Shutdown Nears a Record.md"
+source_url: "https://www.coindesk.com/policy/2025/11/01/state-of-crypto-the-government-shutdown-nears-a-record"
 author: "Nikhilesh De"
 published: 2025-11-01
 ---
+
+
+[Original source](https://www.coindesk.com/policy/2025/11/01/state-of-crypto-the-government-shutdown-nears-a-record)
 
 ## Summary
 

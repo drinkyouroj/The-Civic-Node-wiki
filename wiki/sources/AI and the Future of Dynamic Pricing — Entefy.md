@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/AI and the future of dynamic pricing - Entefy AI & Automation.md"
+source_url: "https://www.entefy.com/blog/ai-and-the-future-of-dynamic-pricing/"
 author: "Entefy"
 published: 2025-06-16
 ---
+
+
+[Original source](https://www.entefy.com/blog/ai-and-the-future-of-dynamic-pricing/)
 
 ## Summary
 An industry overview from AI automation firm Entefy on how AI-powered dynamic pricing is replacing static pricing models across retail, real estate, travel, logistics, and manufacturing. The piece documents the move from periodic price-setting to real-time algorithmic pricing and highlights both revenue gains (5–10% gross profit increases) and emerging personalization capabilities.

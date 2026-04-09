@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/First GOP rescissions package narrowly passes the House.md"
+source_url: "https://rollcall.com/2025/06/12/first-gop-rescissions-package-narrowly-passes-the-house/"
 author: "Rachel Oswald"
 published: 2025-06-12
 ---
+
+
+[Original source](https://rollcall.com/2025/06/12/first-gop-rescissions-package-narrowly-passes-the-house/)
 
 ## Summary
 Roll Call reporting on the dramatic 214-212 House passage of the $9.4B rescissions package. Speaker Johnson prevented an embarrassing defeat by pulling Rep. LaLota aside to flip his vote — with implied promises about SALT relief. Details the political cost-benefit calculations of individual Republican holdouts.

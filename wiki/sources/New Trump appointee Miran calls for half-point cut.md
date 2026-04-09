@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/New Trump appointee Miran calls for half-point cut in only dissent as rest of Fed bands together.md"
+source_url: "https://www.cnbc.com/2025/09/17/new-trump-appointee-miran-calls-for-half-point-cut-in-only-dissent-as-rest-of-fed-bands-together.html"
 author: "Sean Conlon"
 published: 2025-09-17
 ---
+
+
+[Original source](https://www.cnbc.com/2025/09/17/new-trump-appointee-miran-calls-for-half-point-cut-in-only-dissent-as-rest-of-fed-bands-together.html)
 
 ## Summary
 

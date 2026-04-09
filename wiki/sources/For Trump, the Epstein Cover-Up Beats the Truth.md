@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/For Trump, the Epstein Cover-Up Beats the Truth.md"
+source_url: "https://www.democracydocket.com/opinion/for-trump-the-epstein-cover-up-beats-the-truth/"
 author: "Democracy Docket (unnamed)"
 published: 2026-01-03
 ---
+
+
+[Original source](https://www.democracydocket.com/opinion/for-trump-the-epstein-cover-up-beats-the-truth/)
 
 ## Summary
 Democracy Docket opinion arguing that Trump's slow-walking of Epstein file release is deliberate political calculation — not logistics — and that Trump has decided the cover-up is less costly than whatever the files actually contain. Key evidence: Pam Bondi demanded files from FBI the day after she was confirmed, yet a year later they still haven't been released. If this administration wanted them out, they'd be out.

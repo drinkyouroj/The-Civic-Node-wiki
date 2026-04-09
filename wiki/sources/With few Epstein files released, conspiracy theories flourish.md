@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/With few Epstein files released, conspiracy theories flourish and questions remain.md"
+source_url: "https://www.npr.org/2026/01/02/nx-s1-5662638/epstein-files-release-trump-conspiracy-2026"
 author: "Stephen Fowler"
 published: 2026-01-02
 ---
+
+
+[Original source](https://www.npr.org/2026/01/02/nx-s1-5662638/epstein-files-release-trump-conspiracy-2026)
 
 ## Summary
 NPR analysis of the Epstein files release situation at the start of 2026: statutory deadline missed, 40,000 pages released out of potentially over 1 million, the released files contain unverified tips and forged documents, and conspiracy theories from both left and right have multiplied. Also covers the unusual nature of the Epstein Files Transparency Act and what Congress is prepared to do next.

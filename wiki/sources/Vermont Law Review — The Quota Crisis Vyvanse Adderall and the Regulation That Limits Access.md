@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 15
 raw: "raw/The Quota Crisis Vyvanse, Adderall, and the Regulation That Limits Access.md"
+source_url: "https://lawreview.vermontlaw.edu/the-quota-crisis-vyvanse-adderall-and-the-regulation-that-limits-access/"
 author: "Vermont Law Review Tech Editor"
 published: 2025-10-27
 ---
+
+
+[Original source](https://lawreview.vermontlaw.edu/the-quota-crisis-vyvanse-adderall-and-the-regulation-that-limits-access/)
 
 ## Summary
 Vermont Law Review student-edited legal journal piece (October 2025) analyzing the DEA's Aggregate Production Quota (APQ) regulatory framework and its structural role in the ongoing ADHD stimulant shortage. Provides the legal-academic framing missing from news coverage: cites specific CSA provisions (21 U.S.C. §§ 826, 823; 21 CFR § 1303), documents the 2018 DEA rule change that elevated diversion-prevention over access, and proposes three specific statutory reforms. Core argument: quotas are a "crass instrument" for stimulant misuse, and current CSA implementation prioritizes diversion control over legitimate medical access, violating the statute's own balancing requirement.

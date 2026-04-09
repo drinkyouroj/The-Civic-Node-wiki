@@ -4,11 +4,15 @@ type: source
 tags: [politics, press-freedom, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Journalists face escalating threats in 2026 as Trump intensifies hostility toward the free press Milwaukee Independent.md"
+source_url: "https://www.milwaukeeindependent.com/newswire/journalists-face-escalating-threats-2026-trump-intensifies-hostility-toward-free-press/"
 author: "Reporter (Milwaukee Independent)"
 published: 2026-01-04
 ---
+
+
+[Original source](https://www.milwaukeeindependent.com/newswire/journalists-face-escalating-threats-2026-trump-intensifies-hostility-toward-free-press/)
 
 ## Summary
 Milwaukee Independent year-in-review on press freedom in 2025: deadliest year on record globally for journalists, 170 assault reports in the US (mostly by law enforcement, during immigration coverage), AP's ongoing court fight over Gulf of Mexico naming, and Trump extracting settlements from ABC and CBS. Analysis emphasizes that public apathy — only 36% aware of Trump-press conflict vs. 72% in first term — is the enabling condition.

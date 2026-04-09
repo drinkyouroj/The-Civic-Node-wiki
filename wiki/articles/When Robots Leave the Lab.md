@@ -7,7 +7,11 @@ published: 2026-02-03
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/When Robots Leave the Lab.md"
+source_url: "https://drinkyouroj.substack.com/p/when-robots-leave-the-lab"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/when-robots-leave-the-lab)
 
 ## What It Is
 

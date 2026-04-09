@@ -4,11 +4,15 @@ type: source
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/The Journey of Unmasking Autism Private Therapy Clinic.md"
+source_url: "https://theprivatetherapyclinic.co.uk/blog/unmasking-autism/"
 author: "Dr Becky Spelman"
 published: 2025-04-27
 ---
+
+
+[Original source](https://theprivatetherapyclinic.co.uk/blog/unmasking-autism/)
 
 ## Summary
 A UK private therapy clinic's guide to autistic unmasking, framed as both a personal journey and a societal reckoning. The piece provides practical strategies for gradually reducing masking while noting the substantial psychological costs of sustained masking — including data points on identity erosion, relational voids, and elevated suicide risk.

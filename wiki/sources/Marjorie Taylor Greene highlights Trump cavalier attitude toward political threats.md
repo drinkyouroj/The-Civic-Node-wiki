@@ -4,11 +4,15 @@ type: source
 tags: [politics, political-violence, trump]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Marjorie Taylor Greene highlights Trump's cavalier attitude toward political threats CNN Politics.md"
+source_url: "https://www.cnn.com/2025/12/08/politics/marjorie-taylor-greene-trump-threats"
 author: "CNN Politics"
 published: 2025-09-12
 ---
+
+
+[Original source](https://www.cnn.com/2025/12/08/politics/marjorie-taylor-greene-trump-threats)
 
 ## Summary
 After Kirk's assassination, MTG publicly called out Trump's "cavalier attitude" toward political threats — a criticism that came from within the MAGA base rather than from Democrats, making it politically significant.

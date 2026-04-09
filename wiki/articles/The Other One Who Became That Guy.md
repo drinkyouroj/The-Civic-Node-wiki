@@ -7,7 +7,11 @@ published: 2026-01-14
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/The Other One Who Became That Guy.md"
+source_url: "https://drinkyouroj.substack.com/p/the-other-one-who-became-that-guy"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-other-one-who-became-that-guy)
 
 ## What It Is
 

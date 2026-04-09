@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/More than 70% of adults cite the nation's future as a major stressor.md"
+source_url: "https://spectrumnews1.com/ca/southern-california/health/2025/03/19/genevieve-glass-template-083024"
 author: "Genevieve Glass"
 published: 2025-03-19
 ---
+
+
+[Original source](https://spectrumnews1.com/ca/southern-california/health/2025/03/19/genevieve-glass-template-083024)
 
 ## Summary
 Spectrum News 1 article on political stress in America (March 2025), citing the APA's 2024 Stress in America survey finding that over 70% of adults consider the country's future a significant stressor. Features interviews with a commercial producer experiencing news fatigue, a political scientist, and a Kaiser Permanente psychiatrist. Covers the relationship between political uncertainty, media consumption patterns, and mental/physical health outcomes.

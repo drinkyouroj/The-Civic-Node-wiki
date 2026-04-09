@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Forty-Five Years After the Gold Standard A Failed Experiment - UFM Market Trends.md"
+source_url: "https://trends.ufm.edu/en/article/forty-five-years-after-the-gold-standard-a-failed-experiment/"
 author: "Daniel Fernández"
 published: 2016-08-15
 ---
+
+
+[Original source](https://trends.ufm.edu/en/article/forty-five-years-after-the-gold-standard-a-failed-experiment/)
 
 ## Summary
 

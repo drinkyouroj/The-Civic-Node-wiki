@@ -4,11 +4,15 @@ type: source
 tags: [politics, legal, military, regulatory-weaponization]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Trump appealing ruling against Portland National Guard deployment, judge 'untethered in reality' White House.md"
+source_url: "https://nypost.com/2025/10/06/us-news/trump-appealing-ruling-against-portland-national-guard-deployment-judge-untethered-in-reality-white-house/"
 author: "Victor Nava; Steven Nelson"
 published: 2025-10-06
 ---
+
+
+[Original source](https://nypost.com/2025/10/06/us-news/trump-appealing-ruling-against-portland-national-guard-deployment-judge-untethered-in-reality-white-house/)
 
 ## Summary
 New York Post reports that DOJ is appealing a federal judge's ruling blocking Trump's deployment of the Oregon National Guard to protect federal buildings in Portland during anti-ICE protests. Judge Immergut (a Trump appointee) ruled the protests were "small and uneventful," not the "war ravaged" state Trump described. Trump attempted to defy the court by deploying National Guard from California and Texas; judge blocked that too.

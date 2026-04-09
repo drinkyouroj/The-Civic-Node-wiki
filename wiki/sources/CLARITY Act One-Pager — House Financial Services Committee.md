@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The Digital Asset Market Clarity (CLARITY) Act.md"
+source_url: "https://financialservices.house.gov/uploadedfiles/2025-07-10_--_one-pager_clarity_act.pdf"
 author: "House Financial Services Committee"
 published: 2025-07-10
 ---
+
+
+[Original source](https://financialservices.house.gov/uploadedfiles/2025-07-10_--_one-pager_clarity_act.pdf)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Currency Thoughts.md"
+source_url: "https://currencythoughts.com/2025/09/17/fomc-cuts-federal-funds-target-by-consensus-of-25-basis-points-newcomer-miran-stakes-out-a-dissenting-position/"
 author: "Larry Greenberg / Currency Thoughts"
 published: 2025-09-17
 ---
+
+
+[Original source](https://currencythoughts.com/2025/09/17/fomc-cuts-federal-funds-target-by-consensus-of-25-basis-points-newcomer-miran-stakes-out-a-dissenting-position/)
 
 ## Summary
 

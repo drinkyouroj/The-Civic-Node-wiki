@@ -8,7 +8,11 @@ published: 2025-12-30
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Receipts on Impossibility.md"
+source_url: "https://drinkyouroj.substack.com/p/the-receipts-on-impossibility"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-receipts-on-impossibility)
 
 ## Argument
 The Seattle Seahawks' December 18, 2025 overtime victory over the Los Angeles Rams — coming back from 30-14 down with 13:36 remaining (97% Rams win probability, 0-172 all-time record for such deficits) — was not a lucky fluke but a demonstration of "systematic resilience under conditions that should produce structural failure." The piece reverse-engineers the comeback play by play to argue that championship-caliber teams operate on different probability assumptions than average teams: Seattle's 13-3 record and +12.4 point differential reflect a season of practicing exactly this scenario.

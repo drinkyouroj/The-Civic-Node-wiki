@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 15
 raw: "raw/DEA shuts down drug factory even as Adderall shortage persists.md"
+source_url: "https://reason.com/2024/02/26/dea-shuts-down-drug-factory-even-as-adderall-shortage-persists/"
 author: "Joe Lancaster"
 published: 2024-02-26
 ---
+
+
+[Original source](https://reason.com/2024/02/26/dea-shuts-down-drug-factory-even-as-adderall-shortage-persists/)
 
 ## Summary
 Reason magazine's 2024 reporting on the Ascent Pharmaceuticals case — a drug manufacturer that claims its products made up **20 percent of the generic ADHD medications market** (generic Adderall, Concerta, Vyvanse, Ritalin) before the DEA forced it to shut down production on Long Island in 2022. Documents the key timeline: April 2022 Ascent quota applications → DEA audit → shutdown → Ascent lawsuit September 2023 → DEA denial → Operation Bottleneck October 2023 → Ascent counter-lawsuit November 2023. Central editorial point: the DEA is actively making the shortage worse while denying responsibility for it.

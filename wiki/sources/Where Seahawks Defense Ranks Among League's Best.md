@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Where Seattle Seahawks' defense ranks among league's best.md"
+source_url: "https://sports.mynorthwest.com/nfl/seattle-seahawks/where-seattle-seahawks-defense-ranks-nfl-best/1831024"
 author: "Cameron Van Til"
 published: 2025-12-02
 ---
+
+
+[Original source](https://sports.mynorthwest.com/nfl/seattle-seahawks/where-seattle-seahawks-defense-ranks-nfl-best/1831024)
 
 ## Summary
 

@@ -10,7 +10,11 @@ published: 2025-12-20
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Trump Derangement Syndrome Killed Rob Reiner.md"
+source_url: "https://drinkyouroj.substack.com/p/trump-derangement-syndrome-killed-rob-reiner"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/trump-derangement-syndrome-killed-rob-reiner)
 
 ## Argument
 On December 15, 2025, Rob Reiner and his wife Michele were stabbed to death by their son. Within hours, Trump posted on Truth Social that Reiner died "due to the anger he caused others through his massive, unyielding, and incurable affliction with a mind crippling disease known as TRUMP DERANGEMENT SYNDROME." The piece argues this is not aberrant behavior but the logical endpoint of a decades-long erosion of political norm constraints — the incremental "bolts removed one by one" from social guardrails that once made mocking a murder victim politically suicidal. The final conclusion: the consensus mechanism that democratic norms rely on (social costs for transgression) is broken, and without it, the system is navigating toward one of three outcomes: authoritarian consolidation, complete delegitimization, or violent correction.

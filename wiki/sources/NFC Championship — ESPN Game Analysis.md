@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Seahawks prevail over Rams in NFC Championship Game.md"
+source_url: "https://www.espn.com/nfl/story/_/id/47728615/seattle-seahawks-win-los-angeles-rams-nfc-championship-game"
 author: "Sarah Barshop; Brady Henderson; ESPN News Services"
 published: 2026-01-26
 ---
+
+
+[Original source](https://www.espn.com/nfl/story/_/id/47728615/seattle-seahawks-win-los-angeles-rams-nfc-championship-game)
 
 ## Summary
 

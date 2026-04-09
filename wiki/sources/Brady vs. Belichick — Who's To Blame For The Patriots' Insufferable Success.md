@@ -4,11 +4,15 @@ type: source
 tags: [nfl, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Brady vs. Belichick Who's To Blame For The Patriots' Insufferable Success?.md"
+source_url: "https://fivethirtyeight.com/features/brady-vs-belichick-whos-to-blame-for-the-patriots-insufferable-success/"
 author: "Benjamin Morris"
 published: 2017-02-10
 ---
+
+
+[Original source](https://fivethirtyeight.com/features/brady-vs-belichick-whos-to-blame-for-the-patriots-insufferable-success/)
 
 ## Summary
 

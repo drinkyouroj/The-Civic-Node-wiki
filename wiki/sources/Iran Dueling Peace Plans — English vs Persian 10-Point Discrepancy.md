@@ -4,11 +4,15 @@ type: source
 tags: [geopolitics, power, diplomacy, nuclear]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 7
 raw: "raw/Has Iran's 10-point plan changed, as JD Vance claims?.md"
+source_url: "https://www.aljazeera.com/news/2026/4/9/has-irans-10-point-plan-changed-as-jd-vance-claims"
 author: "Al Jazeera Staff"
 published: 2026-04-09
 ---
+
+
+[Original source](https://www.aljazeera.com/news/2026/4/9/has-irans-10-point-plan-changed-as-jd-vance-claims)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/'Costing our country trillions of dollars' Donald Trump calls Jerome Powell 'too stupid' after rate decision; central ba.md"
+source_url: "https://timesofindia.indiatimes.com/business/international-business/costing-our-country-trillions-of-dollars-donald-trump-calls-jerome-powell-too-stupid-after-rate-decision-central-bank-holds-rates-steady-for-fifth-straight-time/articleshow/123022315.cms"
 author: "TOI Business Desk"
 published: 2025-07-31
 ---
+
+
+[Original source](https://timesofindia.indiatimes.com/business/international-business/costing-our-country-trillions-of-dollars-donald-trump-calls-jerome-powell-too-stupid-after-rate-decision-central-bank-holds-rates-steady-for-fifth-straight-time/articleshow/123022315.cms)
 
 ## Summary
 

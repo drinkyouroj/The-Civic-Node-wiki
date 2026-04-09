@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/How Much Money Do OpenAI And Anthropic Actually Make.md"
+source_url: "https://www.wheresyoured.at/howmuchmoney/"
 author: "Edward Zitron"
 published: 2025-08-01
 ---
+
+
+[Original source](https://www.wheresyoured.at/howmuchmoney/)
 
 ## Summary
 

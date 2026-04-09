@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/FTC to Ban BetterHelp from Revealing Consumers' Data, Including Sensitive Mental Health Information, to Facebook and Oth.md"
+source_url: "https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook"
 author: "FTC Bureau of Consumer Protection"
 published: 2023-03-02
 ---
+
+
+[Original source](https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook)
 
 ## Summary
 Official FTC press release announcing a proposed order against BetterHelp, the online counseling platform. BetterHelp shared users' sensitive mental health data — including intake questionnaire responses about depression, suicidal thoughts, and medications — with Facebook, Snapchat, Criteo, and Pinterest for advertising purposes, despite explicit privacy promises. The settlement requires $7.8 million in consumer refunds and bans health data sharing with advertisers.

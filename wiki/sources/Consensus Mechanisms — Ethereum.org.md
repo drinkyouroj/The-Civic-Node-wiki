@@ -4,11 +4,15 @@ type: source
 tags: [technology, crypto]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Consensus mechanisms ethereum.org.md"
+source_url: "https://ethereum.org/en/developers/docs/consensus-mechanisms/"
 author: "Ethereum.org"
 published: 2026-04-07
 ---
+
+
+[Original source](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
 
 ## Summary
 

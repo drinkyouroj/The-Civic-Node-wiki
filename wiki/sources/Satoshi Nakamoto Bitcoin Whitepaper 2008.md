@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Satoshi Nakamoto, \"Bitcoin A Peer-to-Peer Electronic Cash System\" (2008).md"
+source_url: "https://bitcoin.org/bitcoin.pdf"
 author: "Satoshi Nakamoto"
 published: 2008-10-31
 ---
+
+
+[Original source](https://bitcoin.org/bitcoin.pdf)
 
 ## Summary
 

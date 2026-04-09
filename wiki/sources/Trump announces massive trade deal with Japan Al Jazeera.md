@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Trump announces 'massive' trade deal with Japan.md"
+source_url: "https://www.aljazeera.com/economy/2025/7/23/trump-announces-massive-trade-deal-with-japan"
 author: "John Power"
 published: 2025-07-23
 ---
+
+
+[Original source](https://www.aljazeera.com/economy/2025/7/23/trump-announces-massive-trade-deal-with-japan)
 
 ## Summary
 

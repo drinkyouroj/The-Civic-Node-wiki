@@ -4,11 +4,15 @@ type: source
 tags: [nfl, economics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Is the NFL salary cap real or a mirage? 10 front-office truths, from restructuring tricks to valuable compensatory picks and rookie deals.md"
+source_url: "https://www.espn.com/nfl/insider/story/_/id/33724359/is-nfl-salary-cap-real-mirage-10-front-office-truths-restructuring-tricks-valuable-compensatory-picks-rookie-deals"
 author: "Jeremy Fowler"
 published: 2022-04-13
 ---
+
+
+[Original source](https://www.espn.com/nfl/insider/story/_/id/33724359/is-nfl-salary-cap-real-mirage-10-front-office-truths-restructuring-tricks-valuable-compensatory-picks-rookie-deals)
 
 ## Summary
 

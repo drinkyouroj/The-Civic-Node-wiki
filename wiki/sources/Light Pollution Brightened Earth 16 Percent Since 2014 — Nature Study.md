@@ -4,11 +4,15 @@ type: source
 tags: [technology, environment, geopolitics, infrastructure, satellite-monitoring]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 7
 raw: "raw/Light pollution has brightened Earth by 16% since 2014, satellites find.md"
+source_url: "https://www.space.com/astronomy/earth/light-pollution-has-brightened-earth-by-16-percent-since-2014-satellites-find"
 author: "Tereza Pultarova"
 published: 2026-04-09
 ---
+
+
+[Original source](https://www.space.com/astronomy/earth/light-pollution-has-brightened-earth-by-16-percent-since-2014-satellites-find)
 
 ## Summary
 

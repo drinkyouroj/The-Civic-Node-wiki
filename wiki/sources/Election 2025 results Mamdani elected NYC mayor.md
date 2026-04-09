@@ -4,11 +4,15 @@ type: source
 tags: [politics, elections]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Election 2025 results Mamdani elected NYC mayor, Democrats win big in Virginia, New Jersey, California.md"
+source_url: "https://www.msnbc.com/politics/live-blog/election-2025-results-polls-trump-news-live-updates-rcna240818"
 author: ""
 published: 2025-11-04
 ---
+
+
+[Original source](https://www.msnbc.com/politics/live-blog/election-2025-results-polls-trump-news-live-updates-rcna240818)
 
 ## Summary
 Results-night coverage of the 2025 elections: Mamdani elected NYC mayor, Sherrill wins NJ governor, Spanberger wins VA governor, California Prop 50 passes.

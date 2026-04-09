@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/ACLU Sues Federal Government to End ICE, CBP's Practice of Suspicionless Stops, Warrantless Arrests, and Racial Profilin.md"
+source_url: "https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans"
 author: "ACLU"
 published: 2026-01-15
 ---
+
+
+[Original source](https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans)
 
 ## Summary
 The ACLU, ACLU of Minnesota, and co-counsel filed a class-action lawsuit against the Trump administration on behalf of three Minnesotans and a class of similarly situated people whose constitutional rights were violated by ICE and CBP under [[Operation Metro Surge]]. The suit specifically challenges racial profiling of Somali and Latino communities, warrantless arrests, and suspicionless stops.

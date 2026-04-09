@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The Weaponization of CISA — House Committee on the Judiciary.md"
+source_url: "https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/cisa-staff-report6-26-23.pdf"
 author: "House Committee on the Judiciary / Select Subcommittee on the Weaponization of the Federal Government"
 published: 2023-06-26
 ---
+
+
+[Original source](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/cisa-staff-report6-26-23.pdf)
 
 ## Summary
 Interim staff report from the Republican-led House Judiciary Committee and Select Subcommittee on the Weaponization of the Federal Government, alleging that CISA — originally a cybersecurity agency — was transformed into a domestic censorship operation that flagged social media posts and pressured platforms to remove content under the guise of countering "mis-, dis-, and malinformation" (MDM). The report argues this constitutes censorship by proxy, circumventing the First Amendment.

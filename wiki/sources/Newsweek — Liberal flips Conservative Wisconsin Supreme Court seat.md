@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 15
 raw: "raw/Liberal flips Conservative Supreme Court seat in Wisconsin election.md"
+source_url: "https://www.newsweek.com/liberal-flips-conservative-supreme-court-seat-in-wisconsin-election-11795961"
 author: "Mandy Taheri"
 published: 2026-04-07
 ---
+
+
+[Original source](https://www.newsweek.com/liberal-flips-conservative-supreme-court-seat-in-wisconsin-election-11795961)
 
 ## Summary
 Newsweek report on Chris Taylor's April 7, 2026 victory in the Wisconsin Supreme Court race, expanding the court's liberal majority from 4-3 to 5-2 by flipping the seat held by retiring conservative Justice Rebecca Bradley. Taylor took 61% of the vote despite early voting trailing 2025's pace, and held a roughly 4-to-1 fundraising edge in the closing stretch. Wisconsin Supreme Court races have been read as midterm bellwethers since 2023, when Janet Protasiewicz first flipped the court. Justice Annette Ziegler also announced retirement, opening another seat next year. Wisconsin is heading into an open governor's race in 2026 after Tony Evers declined to run.

@@ -11,7 +11,11 @@ published: 2025-10-09
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Judgment That Comes With Setting Boundaries.md"
+source_url: "https://drinkyouroj.substack.com/p/the-judgment-that-comes-with-setting-boundaries"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-judgment-that-comes-with-setting-boundaries)
 
 ## Argument
 When someone names institutional dysfunction and sets a boundary against participating in it, the institution's response is almost always the same: the dissenter is told they are "not informed enough to disagree," accused of being ungrateful or oversensitive, and discredited rather than engaged. This pattern holds across three simultaneous October 2025 contexts — the government shutdown, the federal judiciary under attack, and the author's own personal relationship — and across three institutional types: legislative, judicial, and mental health. The boundary-setter does not win by making the judgment stop; they win when the judgment no longer has the power to make them question the boundary. That shift — from defending your position to simply holding it — is the difference between performing recovery and actually recovering.

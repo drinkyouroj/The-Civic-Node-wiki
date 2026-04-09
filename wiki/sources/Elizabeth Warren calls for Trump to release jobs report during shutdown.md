@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Elizabeth Warren calls for Trump to release the jobs report despite shutdown CNN Business.md"
+source_url: "https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown"
 author: ""
 published: 2025-10-07
 ---
+
+
+[Original source](https://www.cnn.com/2025/10/02/economy/jobs-report-elizabeth-warren-trump-shutdown)
 
 ## Summary
 Sen. Elizabeth Warren called on Trump to release the monthly jobs report despite the government shutdown, arguing the administration was withholding critical economic data at a moment of market sensitivity.

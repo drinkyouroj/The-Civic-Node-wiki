@@ -4,11 +4,15 @@ type: source
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Brady–Belichick era - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Brady%E2%80%93Belichick_era"
 author: "Wikipedia"
 published: 2024-01-01
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Brady%E2%80%93Belichick_era)
 
 ## Summary
 

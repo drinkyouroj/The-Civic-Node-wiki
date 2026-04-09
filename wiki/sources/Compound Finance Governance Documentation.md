@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Governance.md"
+source_url: "https://docs.compound.finance/v2/governance/"
 author: "Compound Finance"
 published: 2019-01-01
 ---
+
+
+[Original source](https://docs.compound.finance/v2/governance/)
 
 ## Summary
 

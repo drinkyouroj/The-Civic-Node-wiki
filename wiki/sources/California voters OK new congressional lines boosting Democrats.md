@@ -4,11 +4,15 @@ type: source
 tags: [politics, elections, redistricting, california]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/California voters OK new congressional lines, boosting Democrats ahead of midterms.md"
+source_url: "https://www.npr.org/2025/11/04/nx-s1-5587742/election-results-california-proposition-50-redistricting"
 author: "Guy Marzorati"
 published: 2025-11-04
 ---
+
+
+[Original source](https://www.npr.org/2025/11/04/nx-s1-5587742/election-results-california-proposition-50-redistricting)
 
 ## Summary
 NPR reports that California's Proposition 50 passed easily, temporarily overriding the state's independent redistricting commission to allow Democratic-drawn congressional maps that could net 5 House seats. Newsom raised nearly $120 million, framing the measure as a counteroffensive to Trump-directed gerrymandering in Texas, North Carolina, and Missouri.

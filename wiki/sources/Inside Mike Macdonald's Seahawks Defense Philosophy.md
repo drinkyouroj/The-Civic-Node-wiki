@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Inside Mike Macdonald's Seahawks Defense Philosophy, Play Calls, & His 3-Buzz Concept.md"
+source_url: "https://www.matchquarters.com/p/the-seattle-seahawks-3-buzz-cut-up-mike-macdonald"
 author: "Cody Alexander"
 published: 2025-06-16
 ---
+
+
+[Original source](https://www.matchquarters.com/p/the-seattle-seahawks-3-buzz-cut-up-mike-macdonald)
 
 ## Summary
 

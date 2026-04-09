@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/How Mike Macdonald is authoring a new chapter of Seahawks defensive dominance ahead of matchup with 'Legion of Boom' cor.md"
+source_url: "https://www.nfl.com/news/how-mike-macdonald-is-authoring-a-new-chapter-of-seahawks-defensive-dominance-ahead-of-matchup-with-legion-of-boom-cornerstone-dan-quinn"
 author: "Anthony Holzman-Escareno"
 published: 2025-10-30
 ---
+
+
+[Original source](https://www.nfl.com/news/how-mike-macdonald-is-authoring-a-new-chapter-of-seahawks-defensive-dominance-ahead-of-matchup-with-legion-of-boom-cornerstone-dan-quinn)
 
 ## Summary
 

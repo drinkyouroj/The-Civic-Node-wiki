@@ -6,9 +6,13 @@ created: 2026-04-06
 updated: 2026-04-06
 sources: 16
 raw: "raw/Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked.md"
+source_url: "https://www.reuters.com/world/middle-east/trump-says-us-will-target-irans-infrastructure-tuesday-2026-04-05/"
 author: "Bo Erickson, Humeyra Pamuk, Susan Heavey"
 published: 2026-04-05
 ---
+
+
+[Original source](https://www.reuters.com/world/middle-east/trump-says-us-will-target-irans-infrastructure-tuesday-2026-04-05/)
 
 ## Summary
 

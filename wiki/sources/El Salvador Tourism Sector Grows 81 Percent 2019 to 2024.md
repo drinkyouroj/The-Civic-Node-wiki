@@ -4,11 +4,15 @@ type: source
 tags: [geopolitics, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/El Salvador's Tourism Sector Grows 81% Between 2019 and 2024, Strengthening Its Role in National Development.md"
+source_url: "https://elsalvadorinenglish.com/2025/07/03/el-salvadors-tourism-sector-grows-81-between-2019-and-2024-strengthening-its-role-in-national-development/"
 author: "El Salvador News"
 published: 2025-07-03
 ---
+
+
+[Original source](https://elsalvadorinenglish.com/2025/07/03/el-salvadors-tourism-sector-grows-81-between-2019-and-2024-strengthening-its-role-in-national-development/)
 
 ## Summary
 

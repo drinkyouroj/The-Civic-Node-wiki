@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Founder Node Staking What's changing.md"
+source_url: "https://news.gala.com/gala-games/founder-node-staking-whats-changing/"
 author: "Gala Games"
 published: 2025-06-06
 ---
+
+
+[Original source](https://news.gala.com/gala-games/founder-node-staking-whats-changing/)
 
 ## Summary
 

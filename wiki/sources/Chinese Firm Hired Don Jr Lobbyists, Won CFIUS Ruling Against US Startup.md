@@ -4,11 +4,15 @@ type: source
 tags: [politics, power, china, conflict-of-interest, national-security]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 4
 raw: "raw/Exclusive Chinese business hired lobbying firm with ties to Don Jr, then scored a win in Washington.md"
+source_url: "https://www.reuters.com/world/asia-pacific/chinese-firm-hired-lobbyists-with-ties-don-jr-then-scored-win-washington-2026-04-09/"
 author: "Alexandra Alper"
 published: 2026-04-09
 ---
+
+
+[Original source](https://www.reuters.com/world/asia-pacific/chinese-firm-hired-lobbyists-with-ties-don-jr-then-scored-win-washington-2026-04-09/)
 
 ## Summary
 

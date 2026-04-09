@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Seattle Seahawks built right roster for coach's scheme.md"
+source_url: "https://sports.mynorthwest.com/nfl/seattle-seahawks/super-bowl-seattle-seahawks-roster-coach-mike-macdonald/1837847"
 author: "Michael Strite"
 published: 2026-02-02
 ---
+
+
+[Original source](https://sports.mynorthwest.com/nfl/seattle-seahawks/super-bowl-seattle-seahawks-roster-coach-mike-macdonald/1837847)
 
 ## Summary
 

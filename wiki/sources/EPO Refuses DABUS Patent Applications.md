@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/EPO refuses DABUS patent applications designating a machine inventor.md"
+source_url: "https://www.epo.org/en/news-events/news/epo-refuses-dabus-patent-applications-designating-machine-inventor"
 author: "European Patent Office"
 published: 2019-12-20
 ---
+
+
+[Original source](https://www.epo.org/en/news-events/news/epo-refuses-dabus-patent-applications-designating-machine-inventor)
 
 ## Summary
 The European Patent Office refused two patent applications (EP 18 275 163 and EP 18 275 174) in which a machine — DABUS, described as "a type of connectionist artificial intelligence" — was designated as the inventor. The EPO ruled that the European Patent Convention requires inventors to be human beings, not machines.

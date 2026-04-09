@@ -4,11 +4,15 @@ type: source
 tags: [politics, january-6, trump, doj]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Capitol riot 'does not happen' without Trump, Jack Smith told Congress.md"
+source_url: "https://www.npr.org/2025/12/31/g-s1-104190/capitol-riot-trump-jack-smith-transcript"
 author: "The Associated Press"
 published: 2025-12-31
 ---
+
+
+[Original source](https://www.npr.org/2025/12/31/g-s1-104190/capitol-riot-trump-jack-smith-transcript)
 
 ## Summary
 NPR/AP coverage of Jack Smith's December 17, 2025 closed-door deposition transcript released by the Republican House Judiciary Committee. Smith called Trump "the most culpable" person in the Jan. 6 conspiracy, said the riot "does not happen without him," and defended his investigations as non-political. Built case largely on Republican witnesses. Mark Meadows interview revealed Jim Jordan was in contact with the White House during the riot.

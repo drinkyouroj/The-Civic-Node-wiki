@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/Operation Metro Surge - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Operation_Metro_Surge"
 author: "Wikipedia contributors"
 published: 2026-01-13
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Operation_Metro_Surge)
 
 ## Summary
 Wikipedia article covering Operation Metro Surge — the ICE/CBP mass enforcement operation targeting Minneapolis–Saint Paul, running December 2025 through February 2026. DHS called it "the largest immigration enforcement operation ever carried out." Documents 3,789+ arrests, two civilian deaths (both U.S. citizens), 96+ court order violations, and extraordinary economic damage to Minneapolis. Despite being framed as targeting Somali-American fraud, fewer than 3% of arrestees were Somali and none had ties to the fraud cases under investigation.

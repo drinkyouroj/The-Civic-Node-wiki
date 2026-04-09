@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Genius Act Signed into Law, Establishing First Federal Stablecoin Framework.md"
+source_url: "https://www.debevoise.com/insights/publications/2025/07/genius-act-progresses-in-congress-as-stablecoin"
 author: "Debevoise & Plimpton LLP"
 published: 2025-07-21
 ---
+
+
+[Original source](https://www.debevoise.com/insights/publications/2025/07/genius-act-progresses-in-congress-as-stablecoin)
 
 ## Summary
 

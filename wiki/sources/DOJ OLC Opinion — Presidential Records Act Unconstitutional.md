@@ -4,11 +4,15 @@ type: source
 tags: [politics, power, legal, accountability]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 4
 raw: "raw/DOJ tells Trump that law requiring he turn over White House files is unconstitutional.md"
+source_url: "https://www.independent.co.uk/news/world/americas/us-politics/trump-doj-records-act-unconstitutional-mar-a-lago-b2951122.html"
 author: "Josh Marcus"
 published: 2026-04-02
 ---
+
+
+[Original source](https://www.independent.co.uk/news/world/americas/us-politics/trump-doj-records-act-unconstitutional-mar-a-lago-b2951122.html)
 
 ## Summary
 

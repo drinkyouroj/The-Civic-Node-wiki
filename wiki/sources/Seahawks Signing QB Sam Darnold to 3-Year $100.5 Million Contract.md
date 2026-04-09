@@ -4,11 +4,15 @@ type: source
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Seahawks signing QB Sam Darnold to 3-year, $100.5 million contract.md"
+source_url: "https://www.nfl.com/news/seahawks-signing-qb-sam-darnold-to-3-year-100-million-contract"
 author: "Bobby Kownack"
 published: 2025-03-10
 ---
+
+
+[Original source](https://www.nfl.com/news/seahawks-signing-qb-sam-darnold-to-3-year-100-million-contract)
 
 ## Summary
 

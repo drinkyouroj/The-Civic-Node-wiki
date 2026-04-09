@@ -4,11 +4,15 @@ type: source
 tags: [crypto, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/iShares Bitcoin Trust ETF IBIT.md"
+source_url: "https://www.blackrock.com/us/individual/products/333011/ishares-bitcoin-trust-etf"
 author: "BlackRock"
 published: 2020-08-10
 ---
+
+
+[Original source](https://www.blackrock.com/us/individual/products/333011/ishares-bitcoin-trust-etf)
 
 ## Summary
 

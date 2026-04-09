@@ -4,11 +4,15 @@ type: source
 tags: [economics, monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/The Role of Narratives in Economics - ProMarket.md"
+source_url: "https://www.promarket.org/2017/02/13/role-narratives-economics/"
 author: "Prateek Raj"
 published: 2017-02-13
 ---
+
+
+[Original source](https://www.promarket.org/2017/02/13/role-narratives-economics/)
 
 ## Summary
 

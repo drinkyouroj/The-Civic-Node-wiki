@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, disinformation, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/What are Deepfakes.md"
+source_url: "https://www.realitydefender.com/insights/what-is-a-deepfake"
 author: "Reality Defender"
 published: 2024-06-01
 ---
+
+
+[Original source](https://www.realitydefender.com/insights/what-is-a-deepfake)
 
 ## Summary
 

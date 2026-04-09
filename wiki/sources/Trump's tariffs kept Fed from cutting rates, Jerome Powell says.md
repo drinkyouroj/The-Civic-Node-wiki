@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Trump's tariffs kept Fed from cutting rates, Jerome Powell says.md"
+source_url: "https://www.nbcnews.com/business/economy/trumps-tariffs-kept-fed-cutting-rates-jerome-powell-says-rcna216220"
 author: "Steve Kopack"
 published: 2025-07-01
 ---
+
+
+[Original source](https://www.nbcnews.com/business/economy/trumps-tariffs-kept-fed-cutting-rates-jerome-powell-says-rcna216220)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Conservative crypto rebellion breaks after longest House vote in US history.md"
+source_url: "https://www.foxbusiness.com/fox-news-politics/conservative-crypto-rebellion-breaks-after-longest-house-vote-us-history"
 author: "Elizabeth Elkind (Fox Business)"
 published: 2025-07-17
 ---
+
+
+[Original source](https://www.foxbusiness.com/fox-news-politics/conservative-crypto-rebellion-breaks-after-longest-house-vote-us-history)
 
 ## Summary
 

@@ -11,7 +11,11 @@ published: 2025-10-11
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Jawboning Papers.md"
+source_url: "https://drinkyouroj.substack.com/p/the-jawboning-papers"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-jawboning-papers)
 
 ## Argument
 

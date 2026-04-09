@@ -11,7 +11,11 @@ published: 2025-10-25
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/When Centralized Systems Fail, Alternatives Stop Being Theoretical.md"
+source_url: "https://drinkyouroj.substack.com/p/when-centralized-systems-fail-alternatives-stop-being-theoretical"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/when-centralized-systems-fail-alternatives-stop-being-theoretical)
 
 ## Argument
 The week of October 19-24, 2025 functioned as an accidental stress test that revealed the load-bearing contradictions of centralized tech power: regulatory capture eating itself (David Sacks accusing Anthropic of the regulatory capture he personally embodies as AI Czar), trillion-dollar AI valuations resting on undefined products built by terrified architects, monopolistic control revealed through synchronized antitrust failures across four continents, and privacy collapse from the intimate (43 million leaked AI companion messages) to the mundane (Tractor Supply surveilling farm customers). Systems don't collapse from external pressure — they collapse when internal contradictions become load-bearing structures.

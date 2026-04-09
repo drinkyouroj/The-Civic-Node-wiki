@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/The GENIUS Act A New Era of Stablecoin Regulation.md"
+source_url: "https://www.gibsondunn.com/the-genius-act-a-new-era-of-stablecoin-regulation/"
 author: "Richard Manfredi, Gibson Dunn"
 published: 2025-07-18
 ---
+
+
+[Original source](https://www.gibsondunn.com/the-genius-act-a-new-era-of-stablecoin-regulation/)
 
 ## Summary
 

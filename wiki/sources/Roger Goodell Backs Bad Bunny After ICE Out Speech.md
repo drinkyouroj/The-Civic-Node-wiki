@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Super Bowl 2026 Roger Goodell backs Bad Bunny for halftime show after 'ICE out' speech at the Grammys.md"
+source_url: "https://sports.yahoo.com/nfl/article/super-bowl-2026-roger-goodell-backs-bad-bunny-for-halftime-show-after-ice-out-speech-at-the-grammys-005633538.html"
 author: "Ryan Young"
 published: 2026-02-08
 ---
+
+
+[Original source](https://sports.yahoo.com/nfl/article/super-bowl-2026-roger-goodell-backs-bad-bunny-for-halftime-show-after-ice-out-speech-at-the-grammys-005633538.html)
 
 ## Summary
 

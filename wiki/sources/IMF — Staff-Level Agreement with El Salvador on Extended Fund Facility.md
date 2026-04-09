@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 17
 raw: "raw/IMF Reaches Staff-Level Agreement with El Salvador on an Extended Fund Facility Arrangement.md"
+source_url: "https://www.imf.org/en/news/articles/2024/12/18/pr-24485-el-salvador-imf-reaches-staff-level-agreement-on-an-eff-arrangement"
 author: "IMF (Luis Cubeddu, Raphael Espinoza)"
 published: 2024-12-17
 ---
+
+
+[Original source](https://www.imf.org/en/news/articles/2024/12/18/pr-24485-el-salvador-imf-reaches-staff-level-agreement-on-an-eff-arrangement)
 
 ## Summary
 Primary-source IMF Press Release 24/485, dated December 17, 2024 (published Dec 18). Documents the staff-level agreement between IMF and El Salvador on a **40-month Extended Fund Facility (EFF) for approximately US$1.4 billion** (equivalent SDR 1,033.9 million, or 360% of quota). The release contains the exact conditionality language on Bitcoin: private-sector acceptance will become voluntary, public-sector Bitcoin activity "confined," taxes paid only in US dollars, Chivo wallet participation "gradually unwound." Program catalyzes additional financing from World Bank, IDB, CABEI, and CAF for a combined package of **over US$3.5 billion** over the program period.

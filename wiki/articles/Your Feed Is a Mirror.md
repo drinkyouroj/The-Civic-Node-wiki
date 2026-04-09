@@ -10,7 +10,11 @@ published: 2025-10-15
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Your Feed Is a Mirror.md"
+source_url: "https://drinkyouroj.substack.com/p/your-feed-is-a-mirror"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/your-feed-is-a-mirror)
 
 ## Argument
 Social media algorithms are not manipulating users against their will — they are documenting users' actual preferences with embarrassing precision, exposing the gap between stated preferences (what people say they want) and revealed preferences (what people click, pause on, and hate-read for seventeen minutes). The algorithm isn't the villain; the user's self-deception is. The same pattern that explains algorithmic engagement explains addiction: both systems optimize for what the nervous system actually demands, regardless of what the conscious mind insists it wants.

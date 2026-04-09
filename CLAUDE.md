@@ -96,9 +96,12 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 sources: 1
 raw: "raw/filename.md"
+source_url: ""
 author: ""
 published: YYYY-MM-DD
 ---
+
+[Original source](URL)
 
 ## Summary
 2-4 sentence summary of the source.
@@ -229,7 +232,7 @@ When the user says "ingest [file]" or drops a new file in `raw/`:
 
 1. **Read** the source file in full.
 2. **Discuss** with the user: What are the 3 most interesting takeaways? Any surprises or contradictions with what we know? What are the newsletter angles?
-3. **Create** a source summary page in `wiki/sources/`.
+3. **Create** a source summary page in `wiki/sources/`. Set `source_url:` to the `source:` URL from the raw file's frontmatter. Add `[Original source](URL)` as the first line of content, before `## Summary`.
 4. **Identify** all entities and concepts mentioned. For each:
    - If a wiki page already exists: update it, add source to its list, increment `sources:` count.
    - If no page exists: create one.
@@ -509,6 +512,7 @@ published: YYYY-MM-DD
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 source: "published/filename.md"
+source_url: "https://drinkyouroj.substack.com/p/..."
 ---
 ```
 
@@ -527,7 +531,7 @@ Track: the argument, the structure, key examples, sourcing, what it leaves open,
 ### When a new published piece is added
 
 1. Read the piece.
-2. Create the appropriate article page.
+2. Create the appropriate article page. Set `source_url:` to the `source:` URL from the published file's frontmatter (the Substack URL). Add `[Read on Substack](URL)` as the first line of content, before the first `##` heading.
 3. If it's a fiction episode: update the series page (episode list, any new characters/motifs).
 4. Note any connections to existing research entities or concepts.
 5. Update `wiki/index.md` and `wiki/log.md`.

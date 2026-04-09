@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Opinion If hate-fueled algorithms cause real-world harm, California's tech companies should pay.md"
+source_url: "https://calmatters.org/commentary/2025/10/social-media-algorithm-hate-california/"
 author: "Guest Commentary, CalMatters"
 published: 2025-10-03
 ---
+
+
+[Original source](https://calmatters.org/commentary/2025/10/social-media-algorithm-hate-california/)
 
 ## Summary
 Opinion piece arguing in favor of California Senate Bill 771, which would allow Californians to sue social media companies when their algorithms "materially contribute" to civil rights violations under California law. Uses product liability framing: platforms are responsible for foreseeable harm caused by design choices, regardless of intent.

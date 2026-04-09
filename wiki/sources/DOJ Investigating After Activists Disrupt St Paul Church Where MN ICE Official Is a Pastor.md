@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/DOJ investigating after activists disrupt St. Paul church where MN ICE official is a pastor.md"
+source_url: "https://www.twincities.com/2026/01/18/protesters-interrupt-st-paul-church-service-citing-pastors-ice-ties/"
 author: "Kristi Miller; The Associated Press"
 published: 2026-01-18
 ---
+
+
+[Original source](https://www.twincities.com/2026/01/18/protesters-interrupt-st-paul-church-service-citing-pastors-ice-ties/)
 
 ## Summary
 Twin Cities Pioneer Press and AP coverage of the January 18, 2026 protest at Cities Church in St. Paul, where 30–40 protesters disrupted Sunday services after identifying pastor David Easterwood as the acting director of the St. Paul ICE field office. The DOJ immediately announced an investigation into potential FACE Act violations.

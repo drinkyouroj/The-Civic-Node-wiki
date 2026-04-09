@@ -4,11 +4,15 @@ type: source
 tags: [crypto, politics, monetary-policy]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Un 92% de salvadoreños no usó el bitcóin en 2024, según encuesta DPL News.md"
+source_url: "https://dplnews.com/un-92-de-salvadorenos-no-uso-el-bitcoin-en-2024-segun-encuesta/"
 author: "DPL News"
 published: 2025-01-17
 ---
+
+
+[Original source](https://dplnews.com/un-92-de-salvadorenos-no-uso-el-bitcoin-en-2024-segun-encuesta/)
 
 ## Summary
 

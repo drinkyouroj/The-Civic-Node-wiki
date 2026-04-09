@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs.md"
+source_url: "https://www.notus.org/energy/trump-biden-era-energy-project-cuts-states"
 author: "Anna Kramer; Manuela Silva; Amelia Benavides-Colón"
 published: 2025-10-02
 ---
+
+
+[Original source](https://www.notus.org/energy/trump-biden-era-energy-project-cuts-states)
 
 ## Summary
 NOTUS investigative piece documenting that the Trump administration's ~$8B energy grant cancellations systematically targeted blue-state projects while leaving identical projects in red and swing states untouched. Side-by-side comparisons show the pattern clearly. Energy Secretary Chris Wright denied political motivation while simultaneously saying cuts will eventually reach red states.

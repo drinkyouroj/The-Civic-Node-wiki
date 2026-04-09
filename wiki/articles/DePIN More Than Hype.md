@@ -10,7 +10,11 @@ published: 2025-07-10
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/DePIN More Than Hype.md"
+source_url: "https://drinkyouroj.substack.com/p/depin-more-than-hype"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/depin-more-than-hype)
 
 ## Argument
 DePIN represents a genuine shift away from hype-driven crypto toward real-world utility — decentralized physical infrastructure (wireless networks, storage, compute, energy) built and maintained by community participants who earn token rewards for contributing resources. The "flywheel effect" of token incentives creates self-sustaining growth. This piece is largely a personal endorsement and promotional introduction to the concept, with Datagram Network as the primary example.

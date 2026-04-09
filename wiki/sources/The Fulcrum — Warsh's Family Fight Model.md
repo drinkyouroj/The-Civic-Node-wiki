@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 15
 raw: "raw/Trump Fed Pick Kevin Warsh Could Shake Up the Central Bank With His 'Family Fight' Model.md"
+source_url: "https://thefulcrum.us/economy/kevin-warsh-fed-reserve"
 author: "Simon Bowmaker, Paul Wachtel"
 published: 2026-04-07
 ---
+
+
+[Original source](https://thefulcrum.us/economy/kevin-warsh-fed-reserve)
 
 ## Summary
 Academic take on Warsh by two NYU Stern scholars, one of whom (Bowmaker) conducted an extended 2023 interview with Warsh for a forthcoming book on the Fed. Their thesis: the real change under Warsh will be **not interest rates but communication strategy**. Warsh favors a "family fight" model — closed-door disagreement followed by public unity — that would reverse three decades of Fed transparency expansion (Greenspan rate announcements 1994, Bernanke forward guidance, dot plots). Warsh believes transcripts and projections cause officials to hedge rather than speak plainly, weakening decision-making.

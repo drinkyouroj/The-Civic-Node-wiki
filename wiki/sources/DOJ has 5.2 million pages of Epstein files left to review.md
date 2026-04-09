@@ -4,11 +4,15 @@ type: source
 tags: [politics, power, epstein, doj]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/DOJ has 5.2 million pages of Epstein files left to review Reports.md"
+source_url: "https://www.cnbc.com/2025/12/31/epstein-files-trump-doj-fbi.html"
 author: "Kevin Breuninger"
 published: 2025-12-31
 ---
+
+
+[Original source](https://www.cnbc.com/2025/12/31/epstein-files-trump-doj-fbi.html)
 
 ## Summary
 CNBC report on the DOJ's disclosure that 5.2 million pages of Epstein-related documents remained unreviewed as of year-end 2025, requiring 400 lawyers enlisted from across the DOJ, FBI, and Manhattan US attorney's office. Despite a statutory December 19 deadline, Blanche said the review would take until at least January 20. Democrats accused the administration of "cover-up."

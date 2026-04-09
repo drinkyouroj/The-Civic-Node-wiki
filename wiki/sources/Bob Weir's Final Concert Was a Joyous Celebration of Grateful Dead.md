@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/Bob Weir's Final Concert Was a Joyous Celebration of Grateful Dead.md"
+source_url: "https://ultimateclassicrock.com/bob-weir-final-concert-grateful-dead/"
 author: "Corey Irwin"
 published: 2026-01-10
 ---
+
+
+[Original source](https://ultimateclassicrock.com/bob-weir-final-concert-grateful-dead/)
 
 ## Summary
 Retrospective account of Bob Weir's final concert — August 3, 2025, at Golden Gate Park, San Francisco — the last of three shows celebrating the Grateful Dead's 60th anniversary. Published the day of Weir's death. Describes the setlist, guest appearances, and emotional final moments on stage.

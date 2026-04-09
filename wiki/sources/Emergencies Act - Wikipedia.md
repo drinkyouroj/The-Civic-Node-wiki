@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Emergencies Act - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Emergencies_Act"
 author: "Wikipedia contributors"
 published: 2025-01-01
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Emergencies_Act)
 
 ## Summary
 Wikipedia reference article on Canada's Emergencies Act — the federal statute invoked during the 2022 Freedom Convoy protests. Covers the statutory powers, historical background, and controversy around its invocation by the Trudeau government.

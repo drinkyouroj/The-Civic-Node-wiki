@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Board of Governors of the Federal Reserve System.md"
+source_url: "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250618a.htm"
 author: ""
 published: 2025-06-18
 ---
+
+
+[Original source](https://www.federalreserve.gov/newsevents/pressreleases/monetary20250618a.htm)
 
 ## Summary
 

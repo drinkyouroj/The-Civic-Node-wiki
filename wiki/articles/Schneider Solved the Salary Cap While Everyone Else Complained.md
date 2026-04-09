@@ -7,7 +7,11 @@ published: 2026-02-08
 created: 2026-04-06
 updated: 2026-04-07
 source: "published/Schneider Solved the Salary Cap While Everyone Else Complained.md"
+source_url: "https://drinkyouroj.substack.com/p/schneider-solved-the-salary-cap-while-everyone-else-complained"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/schneider-solved-the-salary-cap-while-everyone-else-complained)
 
 ## What It Is
 

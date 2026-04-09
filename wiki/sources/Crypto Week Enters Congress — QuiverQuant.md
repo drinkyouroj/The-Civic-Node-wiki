@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Crypto Regulation Enters \"Crypto Week\" in U.S. Congress (GBTC) COIN Stock News.md"
+source_url: "https://www.quiverquant.com/news/Crypto+Regulation+Enters+%E2%80%9CCrypto+Week%E2%80%9D+in+U.S.+Congress+%28GBTC%29"
 author: "David Love"
 published: 2025-07-14
 ---
+
+
+[Original source](https://www.quiverquant.com/news/Crypto+Regulation+Enters+%E2%80%9CCrypto+Week%E2%80%9D+in+U.S.+Congress+%28GBTC%29)
 
 ## Summary
 

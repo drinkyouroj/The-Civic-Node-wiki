@@ -4,11 +4,15 @@ type: source
 tags: [nfl, defense, macdonald, ravens, scheme]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Appreciate the wizardry of Ravens coordinator Mike Macdonald while you can.md"
+source_url: "https://www.thebaltimorebanner.com/sports/ravens-nfl/ravens-mike-macdonald-kyle-hamilton-defense-nfl-head-coaching-4PJFXVUVPNEYZGTWWQQRWGV3MY/"
 author: "Kyle Goon"
 published: 2023-12-26
 ---
+
+
+[Original source](https://www.thebaltimorebanner.com/sports/ravens-nfl/ravens-mike-macdonald-kyle-hamilton-defense-nfl-head-coaching-4PJFXVUVPNEYZGTWWQQRWGV3MY/)
 
 ## Summary
 

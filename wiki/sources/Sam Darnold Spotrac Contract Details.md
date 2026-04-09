@@ -4,11 +4,15 @@ type: source
 tags: [nfl, darnold, salary-cap, seahawks]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Sam Darnold NFL Contracts & Salaries Spotrac.com.md"
+source_url: "https://www.spotrac.com/nfl/player/_/id/25098/sam-darnold"
 author: "Spotrac"
 published: 2026-04-07
 ---
+
+
+[Original source](https://www.spotrac.com/nfl/player/_/id/25098/sam-darnold)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Trump calls for 'revenge at the voter box' after Charlie Kirk's assassination as he blasts 'radicals on the left'.md"
+source_url: "https://ca.news.yahoo.com/trump-seeks-revenge-voter-box-155300999.html"
 author: "Eric Garcia"
 published: 2025-09-12
 ---
+
+
+[Original source](https://ca.news.yahoo.com/trump-seeks-revenge-voter-box-155300999.html)
 
 ## Summary
 Yahoo News/Independent reports on Trump's Fox & Friends appearance after Kirk's suspected shooter Tyler Robinson was apprehended. Trump called for "revenge at the voter box," attacked mail-in voting, defended right-wing "radicals" as merely responding to crime and border issues, and framed left-wing radicals as the primary problem.
