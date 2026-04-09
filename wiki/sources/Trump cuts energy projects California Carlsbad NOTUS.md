@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Carlsbad company among those hit by Trump's cuts to energy projects.md"
+source_url: "https://timesofsandiego.com/politics/2025/10/05/trump-cuts-energy-projects-california/"
 author: "Anna Kramer, Manuela Silva, Amelia Benavides-Colón (NOTUS)"
 published: 2025-10-05
 ---
+
+
+[Original source](https://timesofsandiego.com/politics/2025/10/05/trump-cuts-energy-projects-california/)
 
 ## Summary
 

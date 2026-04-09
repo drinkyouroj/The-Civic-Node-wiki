@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/'Crypto Week' kicks off in US with 'landmark' digital asset legislation on agenda.md"
+source_url: "https://www.globalgovernmentfintech.com/crypto-week-usa-clarity-genius-anti-cbdc-acts/"
 author: "Ian Hall"
 published: 2025-07-14
 ---
+
+
+[Original source](https://www.globalgovernmentfintech.com/crypto-week-usa-clarity-genius-anti-cbdc-acts/)
 
 ## Summary
 

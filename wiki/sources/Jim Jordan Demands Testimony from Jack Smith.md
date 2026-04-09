@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Jim Jordan Demands Testimony from Jack Smith.md"
+source_url: "https://judiciary.house.gov/media/press-releases/jim-jordan-demands-testimony-jack-smith"
 author: ""
 published: 2025-11-15
 ---
+
+
+[Original source](https://judiciary.house.gov/media/press-releases/jim-jordan-demands-testimony-jack-smith)
 
 ## Summary
 Jim Jordan, chairman of the House Judiciary Committee, demanded that Jack Smith testify before the committee — setting up the December 17, 2025 deposition. Jordan framed the investigation as "weaponization of the DOJ."

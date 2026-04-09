@@ -10,7 +10,11 @@ published: 2025-07-16
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The GENIUS Act.md"
+source_url: "https://drinkyouroj.substack.com/p/the-genius-act"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-genius-act)
 
 ## Argument
 The GENIUS Act is a banking bill dressed as a crypto bill. By mandating 1:1 reserve backing with U.S. dollars or short-term Treasury bills, requiring monthly disclosures and annual audits, and restricting issuance to regulated banks and licensed nonbanks (while explicitly banning Big Tech), it integrates stablecoins into the existing financial oversight structure rather than creating a parallel system. The piece presents this largely as a positive development, though it notes the law "blurs the lines between crypto and TradFi."

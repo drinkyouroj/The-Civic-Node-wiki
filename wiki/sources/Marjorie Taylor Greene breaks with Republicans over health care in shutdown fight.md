@@ -4,11 +4,15 @@ type: source
 tags: [politics, government, shutdown, healthcare]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Marjorie Taylor Greene doubles down on her unexpected break with Republicans over health care in shutdown fight.md"
+source_url: "https://www.nbcnews.com/politics/congress/marjorie-taylor-greene-doubles-break-republicans-health-care-shutdown-rcna236282"
 author: ""
 published: 2025-10-15
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/congress/marjorie-taylor-greene-doubles-break-republicans-health-care-shutdown-rcna236282)
 
 ## Summary
 Marjorie Taylor Greene publicly broke with the Republican mainstream during the shutdown fight over healthcare, opposing the party's position on ACA subsidies in an unexpected alignment with Democratic concerns.

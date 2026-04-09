@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, privacy, hardware]
 created: 2026-04-08
 updated: 2026-04-08
-sources: 1
+sources: 5
 raw: "raw/The Best Local LLMs To Run On Every Mac (Apple Silicon).md"
+source_url: "https://apxml.com/posts/best-local-llm-apple-silicon-mac"
 author: "Ryan A. (apxml.com)"
 published: 2025-07-04
 ---
+
+
+[Original source](https://apxml.com/posts/best-local-llm-apple-silicon-mac)
 
 ## Summary
 A reference guide for matching open-source LLMs to Apple Silicon Mac RAM tiers, using Q4 quantization as the default optimization. The core claim: Apple's unified memory architecture (CPU and GPU sharing one memory pool) makes Macs uniquely efficient for local LLM inference compared to traditional PC setups with separate VRAM. Ollama is the recommended runtime.

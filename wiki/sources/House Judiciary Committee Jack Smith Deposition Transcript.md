@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/House Judiciary Committee, Jack Smith Deposition Transcript, December 17, 2025.md"
+source_url: "https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2025-12/Smith-Depo-Transcript_Redacted-w-Errata.pdf"
 author: "House Judiciary Committee"
 published: 2025-12-31
 ---
+
+
+[Original source](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/2025-12/Smith-Depo-Transcript_Redacted-w-Errata.pdf)
 
 ## Summary
 Full transcript of Jack Smith's December 17, 2025 closed-door deposition before the House Judiciary Committee, released December 31. Smith extensively documented Trump's role in the Jan. 6 conspiracy, defended the basis for his investigations, and described the evidence against Trump as strong enough to sustain a conviction.

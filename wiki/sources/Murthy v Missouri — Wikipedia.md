@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Murthy v. Missouri - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Murthy_v._Missouri#Supreme_Court"
 author: "Wikipedia"
 published: 2024-06-26
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Murthy_v._Missouri#Supreme_Court)
 
 ## Summary
 

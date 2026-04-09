@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Tulsi Gabbard details bombshell claims of Obama-era cabal's 'treasonous conspiracy' against Trump.md"
+source_url: "https://www.foxnews.com/media/tulsi-gabbard-details-bombshell-claims-obama-era-cabals-treasonous-conspiracy-against-trump"
 author: "Taylor Penley"
 published: 2025-07-20
 ---
+
+
+[Original source](https://www.foxnews.com/media/tulsi-gabbard-details-bombshell-claims-obama-era-cabals-treasonous-conspiracy-against-trump)
 
 ## Summary
 Fox News reporting on DNI Tulsi Gabbard's claims based on newly declassified documents alleging that Obama-era intelligence officials — Clapper, Brennan, Comey, Rice — manufactured the Russia-Trump collusion narrative to undermine the incoming Trump presidency. Gabbard called it "treasonous" and sent materials to DOJ/FBI for criminal referral. Democrats called the claims "baseless."

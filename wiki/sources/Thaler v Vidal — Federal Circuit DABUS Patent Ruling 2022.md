@@ -4,11 +4,15 @@ type: source
 tags: [technology, legal, ai]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Thaler v. Vidal, No. 2021-2347 (Fed. Cir. 2022).md"
+source_url: "https://www.cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-5-2022_1988142.pdf"
 author: "U.S. Court of Appeals for the Federal Circuit (Judge Stark)"
 published: 2022-08-05
 ---
+
+
+[Original source](https://www.cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-5-2022_1988142.pdf)
 
 ## Summary
 

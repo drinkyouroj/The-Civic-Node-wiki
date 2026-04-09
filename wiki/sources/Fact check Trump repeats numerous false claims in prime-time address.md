@@ -4,11 +4,15 @@ type: source
 tags: [politics, disinformation, trump]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Fact check Trump repeats numerous false claims in prime-time address CNN Politics.md"
+source_url: "https://www.cnn.com/2025/12/17/politics/fact-check-trump-prime-time-address"
 author: "Daniel Dale"
 published: 2025-12-17
 ---
+
+
+[Original source](https://www.cnn.com/2025/12/17/politics/fact-check-trump-prime-time-address)
 
 ## Summary
 CNN fact-check of Trump's December 17, 2025 prime-time White House address. Systematic documentation of false claims across inflation, grocery prices, investment figures, immigration numbers, wars settled, and health care. Key finding: Trump's own claims about the economy are contradicted by the data he governs — inflation hasn't stopped, groceries are more expensive, the "$18 trillion investment" figure is fictional.

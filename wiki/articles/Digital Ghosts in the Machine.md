@@ -10,7 +10,11 @@ published: 2025-07-21
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Digital Ghosts in the Machine.md"
+source_url: "https://drinkyouroj.substack.com/p/digital-ghosts-in-the-machine"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/digital-ghosts-in-the-machine)
 
 ## Argument
 AI-generated deepfakes represent a permanent, intensifying shift in informational warfare — not a temporary problem awaiting a technical fix. The anchor case: on July 20, 2025, Trump posted an AI-generated video depicting Obama being arrested by federal agents in the Oval Office, shared without disclaimer, following a DNI Tulsi Gabbard report accusing Obama of "treasonous" conspiracy. The piece argues this was not random provocation but a calculated "digital assault" — narrative foundation (Gabbard report) + visual reinforcement (deepfake) — exploiting the "Liar's Dividend": as public awareness of deepfakes grows, real scandals become easier to dismiss as fake, making the overall information environment more corrosive regardless of the specific lie's success.

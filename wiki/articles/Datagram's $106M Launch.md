@@ -11,7 +11,11 @@ published: 2025-11-23
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Datagram's $106M Launch.md"
+source_url: "https://drinkyouroj.substack.com/p/datagrams-106m-launch"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/datagrams-106m-launch)
 
 ## Argument
 Datagram Network's token launch — $106M in first-day trading volume on November 18, 2025 — is significant not because of the trading volume itself, but because of what preceded it: a functioning network serving 200+ enterprise clients and 1.2 million users before the token generation event. This inverts the standard DePIN playbook (raise capital → promise infrastructure → deliver incrementally → fade). The broader argument is that distributed infrastructure can structurally outcompete centralized cloud (AWS, Azure, Google Cloud) by aggregating the ~80% of global compute, bandwidth, and storage that currently sits idle — but only if the coordination and trust mechanisms are mature enough.

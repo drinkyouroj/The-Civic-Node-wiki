@@ -4,11 +4,15 @@ type: source
 tags: [technology, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Gala price today, GALA to USD live price, marketcap and chart CoinMarketCap.md"
+source_url: "https://coinmarketcap.com/currencies/gala/"
 author: "CoinMarketCap"
 published: 2026-04-07
 ---
+
+
+[Original source](https://coinmarketcap.com/currencies/gala/)
 
 ## Summary
 

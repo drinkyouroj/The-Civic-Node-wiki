@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, labor, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Ghost Workers in the AI Machine.md"
+source_url: "https://cwa-union.org/ghost-workers-ai-machine"
 author: "Alphabet Workers Union-CWA / TechEquity"
 published: 2025-09-30
 ---
+
+
+[Original source](https://cwa-union.org/ghost-workers-ai-machine)
 
 ## Summary
 

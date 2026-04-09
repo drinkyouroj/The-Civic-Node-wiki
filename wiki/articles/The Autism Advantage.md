@@ -10,7 +10,11 @@ published: 2025-09-01
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Autism Advantage.md"
+source_url: "https://drinkyouroj.substack.com/p/the-autism-advantage"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-autism-advantage)
 
 ## Argument
 Traditional workplaces have evolved to reward social performance over genuine problem-solving, systematically disadvantaging neurodivergent minds that think in systems and reverse-engineer problems rather than performing productivity theater. Decentralized Physical Infrastructure Networks (DePIN) invert this dynamic: because DePIN protocols measure actual output rather than social performance, they are "autistic as hell" — and neurodivergent people, already optimized for merit-based systems, are uniquely positioned to thrive in them.

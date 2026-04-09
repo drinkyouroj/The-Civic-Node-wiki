@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/La adopción de Bitcoin en El Salvador parece estar fracasando.md"
+source_url: "https://bitfinanzas.com/la-adopcion-de-bitcoin-en-el-salvador-parece-no-estar-funcionando/"
 author: "Stephanie López / Bitfinanzas"
 published: 2022-07-08
 ---
+
+
+[Original source](https://bitfinanzas.com/la-adopcion-de-bitcoin-en-el-salvador-parece-no-estar-funcionando/)
 
 ## Summary
 

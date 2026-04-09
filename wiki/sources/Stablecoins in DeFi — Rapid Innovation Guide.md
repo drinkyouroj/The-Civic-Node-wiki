@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Stablecoins in DeFi Ultimate Guide for 2024 Types, Uses, Risks.md"
+source_url: "https://www.rapidinnovation.io/post/stablecoins-in-defi-everything-you-need-to-know"
 author: "Jesse Anglen / Rapid Innovation"
 published: 2024-09-19
 ---
+
+
+[Original source](https://www.rapidinnovation.io/post/stablecoins-in-defi-everything-you-need-to-know)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [politics, elections, down-ballot]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Democrats' 2025 election wins go beyond big races to places like Georgia, Pennsylvania.md"
+source_url: "https://www.npr.org/2025/11/05/nx-s1-5599185/2025-election-results-georgia-pennsylvania-democrats-win"
 author: "Stephen Fowler"
 published: 2025-11-05
 ---
+
+
+[Original source](https://www.npr.org/2025/11/05/nx-s1-5599185/2025-election-results-georgia-pennsylvania-democrats-win)
 
 ## Summary
 NPR analysis showing the Democratic 2025 wave extended well beyond marquee races into state courts, county executives, utility regulators, and local councils across Georgia, Pennsylvania, Mississippi, Virginia, and New Jersey. The breadth of the wave suggests structural rather than candidate-driven gains.

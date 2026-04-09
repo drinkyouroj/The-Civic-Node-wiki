@@ -7,7 +7,11 @@ published: 2025-09-07
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Your Smart Fridge Just Filed for Emancipation.md"
+source_url: "https://drinkyouroj.substack.com/p/your-smart-fridge-just-filed-for-emancipation"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/your-smart-fridge-just-filed-for-emancipation)
 
 ## Argument
 

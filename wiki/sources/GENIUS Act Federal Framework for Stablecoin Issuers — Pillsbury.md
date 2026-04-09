@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The GENIUS Act A New Federal Framework for Stablecoin Issuers.md"
+source_url: "https://www.pillsburylaw.com/en/news-and-insights/genius-act-stablecoin-issuers.html#:~:text=1%3A1%20backing%20with%20liquid,liquid%2C%20high%2Dquality%20assets."
 author: "Austin Chegini; Adam Chernichaw; Elizabeth Zimmer; J C Freeman, Pillsbury"
 published: 2025-07-02
 ---
+
+
+[Original source](https://www.pillsburylaw.com/en/news-and-insights/genius-act-stablecoin-issuers.html#:~:text=1%3A1%20backing%20with%20liquid,liquid%2C%20high%2Dquality%20assets.)
 
 ## Summary
 

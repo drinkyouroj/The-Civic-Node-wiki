@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Trump blames the 'radical left' for Charlie Kirk's killing.md"
+source_url: "https://www.nbcnews.com/politics/politics-news/charlie-kirks-death-prompts-outpouring-shock-grief-condemnations-polit-rcna230472"
 author: "Jonathan Allen; Amanda Terkel"
 published: 2025-09-10
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/politics-news/charlie-kirks-death-prompts-outpouring-shock-grief-condemnations-polit-rcna230472)
 
 ## Summary
 NBC News on the immediate political response to Charlie Kirk's assassination. Trump blamed only left-wing rhetoric while omitting Democratic victims of political violence. Most politicians of both parties offered unifying condemnations. The contrast between Trump's selective framing and the broader bipartisan response is documented here.

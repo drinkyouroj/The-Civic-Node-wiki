@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/GENIUS Act needs free market fixes before it graduates to law - Competitive Enterprise Institute.md"
+source_url: "https://cei.org/blog/genius-act-needs-free-market-fixes-before-it-graduates-to-law/"
 author: "John Berlau (Competitive Enterprise Institute)"
 published: 2025-06-18
 ---
+
+
+[Original source](https://cei.org/blog/genius-act-needs-free-market-fixes-before-it-graduates-to-law/)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Strategy Announces Second Quarter 2025 Financial Results.md"
+source_url: "https://www.strategy.com/press/strategy-announces-second-quarter-2025-financial-results_07-31-2025"
 author: "Strategy (formerly MicroStrategy)"
 published: 2025-07-31
 ---
+
+
+[Original source](https://www.strategy.com/press/strategy-announces-second-quarter-2025-financial-results_07-31-2025)
 
 ## Summary
 

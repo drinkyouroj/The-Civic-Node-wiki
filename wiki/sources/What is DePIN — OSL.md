@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/What is DePIN The Future of Decentralized Physical Infrastructure Networks.md"
+source_url: "https://www.osl.com/hk-en/academy/article/what-is-depin-the-future-of-decentralized-physical-infrastructure-networks"
 author: "OSL"
 published: 2025-01-20
 ---
+
+
+[Original source](https://www.osl.com/hk-en/academy/article/what-is-depin-the-future-of-decentralized-physical-infrastructure-networks)
 
 ## Summary
 

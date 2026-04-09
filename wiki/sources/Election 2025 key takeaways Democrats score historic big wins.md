@@ -4,11 +4,15 @@ type: source
 tags: [politics, elections]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Election 2025 key takeaways Democrats score historic big wins leading into midterms.md"
+source_url: "https://abcnews.go.com/Politics/election-2025-key-takeaways-democrats-score-historic-big/story?id=127196303"
 author: ""
 published: 2025-11-05
 ---
+
+
+[Original source](https://abcnews.go.com/Politics/election-2025-key-takeaways-democrats-score-historic-big/story?id=127196303)
 
 ## Summary
 Takeaways analysis of the 2025 election results, focusing on Democratic performance and implications for 2026 midterms.

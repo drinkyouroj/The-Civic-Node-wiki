@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, labor]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Amazon's Just Walk Out technology relies on hundreds of workers in India watching you shop.md"
+source_url: "https://www.businessinsider.com/amazons-just-walk-out-actually-1-000-people-in-india-2024-4"
 author: "Alex Bitter"
 published: 2024-04-03
 ---
+
+
+[Original source](https://www.businessinsider.com/amazons-just-walk-out-actually-1-000-people-in-india-2024-4)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/House nears vote on cuts to NPR, PBS and foreign aid programs.md"
+source_url: "https://www.npr.org/2025/07/17/nx-s1-5469904/npr-pbs-cuts-rescission-senate-vote"
 author: "Scott Neuman"
 published: 2025-07-17
 ---
+
+
+[Original source](https://www.npr.org/2025/07/17/nx-s1-5469904/npr-pbs-cuts-rescission-senate-vote)
 
 ## Summary
 NPR's reporting on the Senate passage of the rescissions package (51-48) and its imminent House ratification. Includes Sen. Murkowski's dramatic floor moment citing a real-time Alaskan earthquake alert from a public radio station to argue against the cuts; Cruz's counter that NPR is "left-wing propaganda." Also previews more rescission requests from OMB Director Vought.

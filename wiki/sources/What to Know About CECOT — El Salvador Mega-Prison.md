@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/What to know about CECOT, El Salvador's mega-prison for gang members.md"
+source_url: "https://www.npr.org/2025/03/17/g-s1-54206/el-salvador-mega-prison-cecot"
 author: "The Associated Press"
 published: 2025-03-17
 ---
+
+
+[Original source](https://www.npr.org/2025/03/17/g-s1-54206/el-salvador-mega-prison-cecot)
 
 ## Summary
 

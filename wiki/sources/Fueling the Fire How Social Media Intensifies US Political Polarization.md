@@ -4,11 +4,15 @@ type: source
 tags: [technology, polarization, media, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Fueling the Fire How Social Media Intensifies U.S. Political Polarization – And What Can Be Done About It.md"
+source_url: "https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf"
 author: ""
 published: 2025-06-01
 ---
+
+
+[Original source](https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf)
 
 ## Summary
 Analysis of how social media platforms intensify political polarization in the U.S., examining the mechanisms (algorithmic amplification, selective exposure) and potential regulatory or design interventions.

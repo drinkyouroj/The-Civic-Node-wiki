@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Banking Committee Democratic Staff Analysis on Latest GENIUS Act Draft.md"
+source_url: "https://www.banking.senate.gov/imo/media/doc/updatedgeniusanalysis.pdf"
 author: "Senate Banking Committee Democratic Staff"
 published: 2025-05-01
 ---
+
+
+[Original source](https://www.banking.senate.gov/imo/media/doc/updatedgeniusanalysis.pdf)
 
 ## Summary
 

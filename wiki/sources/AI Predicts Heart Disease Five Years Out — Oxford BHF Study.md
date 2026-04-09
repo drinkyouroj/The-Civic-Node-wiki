@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, healthcare, predictive-medicine]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 5
 raw: "raw/AI can predict chance of heart disease five years before it develops.md"
+source_url: "https://www.independent.co.uk/news/health/ai-heart-disease-ct-scans-british-heart-foundation-b2953742.html"
 author: "Christopher Thomas"
 published: 2026-04-08
 ---
+
+
+[Original source](https://www.independent.co.uk/news/health/ai-heart-disease-ct-scans-british-heart-foundation-b2953742.html)
 
 ## Summary
 

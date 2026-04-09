@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Fed keeps rates steady, despite historic contrary votes and Trump pressure.md"
+source_url: "https://www.marketplace.org/story/2025/07/30/fed-maintains-interest-rates-despite-two-votes-against"
 author: "Associated Press"
 published: 2025-07-30
 ---
+
+
+[Original source](https://www.marketplace.org/story/2025/07/30/fed-maintains-interest-rates-despite-two-votes-against)
 
 ## Summary
 

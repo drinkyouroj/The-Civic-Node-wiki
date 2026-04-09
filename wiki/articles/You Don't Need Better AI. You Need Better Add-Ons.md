@@ -7,7 +7,11 @@ published: 2025-08-15
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/You Don't Need Better AI. You Need Better Add‑Ons.md"
+source_url: "https://drinkyouroj.substack.com/p/you-dont-need-better-ai-you-need"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/you-dont-need-better-ai-you-need)
 
 ## Argument
 

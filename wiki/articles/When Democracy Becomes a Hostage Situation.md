@@ -11,7 +11,11 @@ published: 2025-10-06
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/When Democracy Becomes a Hostage Situation.md"
+source_url: "https://drinkyouroj.substack.com/p/when-democracy-becomes-a-hostage-situation"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/when-democracy-becomes-a-hostage-situation)
 
 ## Argument
 The October 2025 government shutdown was not a budget dispute but a deliberate act of partisan infrastructure warfare: the Trump administration used the shutdown as cover to cancel $18 billion in New York City infrastructure funding and $8 billion in climate projects across 16 states — every single one of which voted for Kamala Harris in 2024. The piece argues this was "economic terrorism with a partisan targeting system," using the legislative weapon of rescissions (not subject to Senate filibuster) to permanently cancel bipartisan funding. The conclusion is that decentralized infrastructure is not theoretical preference but structural insurance: systems that can't be shut down by a single actor with a partisan grudge.

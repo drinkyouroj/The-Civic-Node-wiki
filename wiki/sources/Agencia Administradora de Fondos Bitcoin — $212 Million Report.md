@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Agencia Administradora de Fondos Bitcoin refleja ingresos por $212 millones.md"
+source_url: "https://www.elsalvador.com/noticias/negocios/bitcoin-el-salvador-transparencia-criptomonedas/1165999/2024/"
 author: "Moises Alvarado"
 published: 2024-09-03
 ---
+
+
+[Original source](https://www.elsalvador.com/noticias/negocios/bitcoin-el-salvador-transparencia-criptomonedas/1165999/2024/)
 
 ## Summary
 

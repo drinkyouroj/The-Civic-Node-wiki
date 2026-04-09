@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Crypto Influencers' Insane Hidden Payouts Exposed By ZachXBT MEXC News.md"
+source_url: "https://www.mexc.com/en-PH/news/crypto-influencers-insane-hidden-payouts-exposed-by-zachxbt/82107"
 author: "Bitcoinist / MEXC News"
 published: 2025-09-02
 ---
+
+
+[Original source](https://www.mexc.com/en-PH/news/crypto-influencers-insane-hidden-payouts-exposed-by-zachxbt/82107)
 
 ## Summary
 

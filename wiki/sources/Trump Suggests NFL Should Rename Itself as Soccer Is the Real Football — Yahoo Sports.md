@@ -4,11 +4,15 @@ type: source
 tags: [politics, sports, cultural-politics, nfl, fifa]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 4
 raw: "raw/When Donald Trump urged the NFL to rename American football in favor of soccer.md"
+source_url: "https://sports.yahoo.com/articles/donald-trump-urged-nfl-rename-170000861.html"
 author: "Aikansh Chaudhary / Yahoo Sports Staff"
 published: 2026-04-03
 ---
+
+
+[Original source](https://sports.yahoo.com/articles/donald-trump-urged-nfl-rename-170000861.html)
 
 ## Summary
 

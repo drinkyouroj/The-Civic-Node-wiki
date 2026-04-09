@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Federal Reserve Signals Further Rate Cuts Amidst Worsening Labor Market and Divided Opinions.md"
+source_url: "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-14-federal-reserve-signals-further-rate-cuts-amidst-worsening-labor-market-and-divided-opinions"
 author: "MarketMinute"
 published: 2025-10-14
 ---
+
+
+[Original source](https://markets.financialcontent.com/stocks/article/marketminute-2025-10-14-federal-reserve-signals-further-rate-cuts-amidst-worsening-labor-market-and-divided-opinions)
 
 ## Summary
 

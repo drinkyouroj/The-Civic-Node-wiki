@@ -6,13 +6,17 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Super Bowl LX Homegrown GM John Schneider at the peak of powers with Seahawks.md"
+source_url: "https://www.wbay.com/2026/02/06/super-bowl-lx-homegrown-gm-john-schneider-peak-powers-with-seahawks/"
 author: "Dave Schroeder"
 published: 2026-02-06
 ---
 
+
 > ⚠️ **This is a pre-game profile (Feb 6, 2026), published before Super Bowl LX kicked off.** It is not a post-game source and contains no Super Bowl LX result. The wiki has no raw post-game Super Bowl LX recap as of 2026-04-07 — the latest sourced events are this pre-game profile and the Jan 26 NFC Championship.
 >
 > ⚠️ **Contradiction**: this source's "first GM with zero player or coaching holdovers" claim is contradicted by [[Seahawks Are Biggest Threat to Overthrow the NFC]], which states 9 of the 2023 defensive starters were still on the 2025 roster. Treat the literal "zero holdovers" line as team-PR / marketing language, not as a factual claim about player turnover.
+
+[Original source](https://www.wbay.com/2026/02/06/super-bowl-lx-homegrown-gm-john-schneider-peak-powers-with-seahawks/)
 
 ## Summary
 

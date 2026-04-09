@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Report Anthropic is catching up to OpenAI, on track for $9 billion annual run rate by the end of 2025.md"
+source_url: "https://sherwood.news/tech/report-anthropic-is-catching-up-to-openai-on-track-for-usd9-billion-annual/"
 author: "Jon Keegan"
 published: 2025-10-16
 ---
+
+
+[Original source](https://sherwood.news/tech/report-anthropic-is-catching-up-to-openai-on-track-for-usd9-billion-annual/)
 
 ## Summary
 

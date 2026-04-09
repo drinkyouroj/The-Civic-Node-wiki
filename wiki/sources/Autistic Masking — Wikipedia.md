@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Autistic masking - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Autistic_masking"
 author: "Wikipedia contributors"
 published: 2020-07-19
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Autistic_masking)
 
 ## Summary
 Comprehensive Wikipedia overview of autistic masking (also called camouflaging): the conscious or subconscious suppression of autistic behaviors to appear neurotypical. The article covers the definition, measurement tools (CAT-Q), mental health consequences (anxiety, depression, burnout, suicidality), gendered patterns (women more likely to mask and remain undiagnosed), the unmasking movement, and research methodological critiques.

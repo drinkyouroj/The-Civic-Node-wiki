@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/What went wrong in Arthur Burns' time as Fed chair in the 1970s.md"
+source_url: "https://www.npr.org/2023/02/03/1154359636/what-went-wrong-in-arthur-burns-time-as-fed-chair-in-the-1970s"
 author: "Wailin Wong"
 published: 2023-02-03
 ---
+
+
+[Original source](https://www.npr.org/2023/02/03/1154359636/what-went-wrong-in-arthur-burns-time-as-fed-chair-in-the-1970s)
 
 ## Summary
 

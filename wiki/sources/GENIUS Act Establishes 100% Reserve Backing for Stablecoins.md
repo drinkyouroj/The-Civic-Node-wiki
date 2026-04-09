@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/GENIUS Act Establishes 100% Reserve Backing for Stablecoins.md"
+source_url: "https://www.ainvest.com/news/genius-act-establishes-100-reserve-backing-stablecoins-2507/"
 author: "Coin World / AInvest"
 published: 2025-07-20
 ---
+
+
+[Original source](https://www.ainvest.com/news/genius-act-establishes-100-reserve-backing-stablecoins-2507/)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [mental-health, health]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Why Unmasking Is Critical for Autistic People.md"
+source_url: "https://www.psychologytoday.com/us/blog/the-forgotten-women/202309/why-unmasking-is-critical-for-autistic-people"
 author: "Jessica L Penot LPC-S"
 published: 2023-09-17
 ---
+
+
+[Original source](https://www.psychologytoday.com/us/blog/the-forgotten-women/202309/why-unmasking-is-critical-for-autistic-people)
 
 ## Summary
 A Psychology Today article by a therapist who is herself late-diagnosed autistic, arguing that unmasking — ceasing to suppress autistic traits — is the primary path to mental health for autistic adults. The piece combines clinical perspective with personal narrative, making the case that ABA and similar therapies optimize for neurotypical comfort at the expense of autistic wellbeing.

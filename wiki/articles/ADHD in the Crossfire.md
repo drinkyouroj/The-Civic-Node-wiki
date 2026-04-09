@@ -7,7 +7,11 @@ published: 2025-08-21
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/ADHD in the Crossfire.md"
+source_url: "https://drinkyouroj.substack.com/p/adhd-in-the-crossfire"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/adhd-in-the-crossfire)
 
 ## Argument
 

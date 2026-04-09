@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, labor]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Amazon Is Trading Its 'Just Walk Out' AI Technology For 'Smart' Carts — And AI Reportedly Needed Humans to Do the Job Right.md"
+source_url: "https://www.entrepreneur.com/business-news/amazon-swaps-just-walk-out-for-smart-carts-at-fresh-stores/472305"
 author: "Sherin Shibu"
 published: 2024-04-05
 ---
+
+
+[Original source](https://www.entrepreneur.com/business-news/amazon-swaps-just-walk-out-for-smart-carts-at-fresh-stores/472305)
 
 ## Summary
 

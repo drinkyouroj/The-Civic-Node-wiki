@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/El Salvador - Bitcoin Holdings & Analysis.md"
+source_url: "https://bitcointreasuries.net/governments/el-salvador"
 author: "Bitcoin Treasuries"
 published: 2021-09-06
 ---
+
+
+[Original source](https://bitcointreasuries.net/governments/el-salvador)
 
 ## Summary
 

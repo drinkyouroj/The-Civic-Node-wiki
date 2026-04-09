@@ -9,7 +9,11 @@ published: 2025-08-07
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Masked Me vs. Unmasked Me.md"
+source_url: "https://drinkyouroj.substack.com/p/masked-me-vs-unmasked-me"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/masked-me-vs-unmasked-me)
 
 ## Argument
 Autistic masking is not polite social adaptation — it is a survival tool that becomes a prison, erasing the self through decades of performance until the performer can no longer locate the person underneath. Unmasking is not a revelation but a disorienting process of grief, confusion, and small experiments in authenticity. The piece argues that authenticity is not easier than masking — it is different — and that the physiological relief (reduced anxiety, better sleep) arrives faster than the social recalibration.

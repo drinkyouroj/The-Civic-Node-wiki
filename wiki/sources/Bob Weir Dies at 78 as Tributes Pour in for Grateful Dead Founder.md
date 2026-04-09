@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Bob Weir Dies at 78 as Tributes Pour in for Grateful Dead Founder.md"
+source_url: "https://www.yahoo.com/entertainment/music/articles/bob-weir-dies-78-tributes-133520059.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADpztCIWxSyPNDttjI0drOB5bzwHUy3GMGyOudhAjWQ_pCXqzSV7O6_LBjylfuJClcqs85ojzfbjMIV2R-jDOhQpec2xv8TCYGUlGmN5Xtf0f4M7gMdnhNTEOsgEipfTG0v6RHQK7-AmpWw7GyBGZXH_74o_d_p-JhGLogDAcnQw"
 author: "Michelle Stein"
 published: 2026-01-11
 ---
+
+
+[Original source](https://www.yahoo.com/entertainment/music/articles/bob-weir-dies-78-tributes-133520059.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADpztCIWxSyPNDttjI0drOB5bzwHUy3GMGyOudhAjWQ_pCXqzSV7O6_LBjylfuJClcqs85ojzfbjMIV2R-jDOhQpec2xv8TCYGUlGmN5Xtf0f4M7gMdnhNTEOsgEipfTG0v6RHQK7-AmpWw7GyBGZXH_74o_d_p-JhGLogDAcnQw)
 
 ## Summary
 Yahoo Entertainment news brief reporting Bob Weir's death on January 10, 2026, at age 78. Covers the official family statement, brief biography of the Grateful Dead, and tributes from musicians and celebrities including Bob Dylan, Aaron Dessner, and Don Felder.

@@ -4,11 +4,15 @@ type: source
 tags: [economics, politics, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Trump secures historic $550B trade deal with Japan 'Never been anything like it'.md"
+source_url: "https://www.foxbusiness.com/politics/trump-secures-historic-550-billion-trade-deal-japan-never-been-anything-like-it"
 author: "Greg Wehner; Stephen Sorace"
 published: 2025-07-22
 ---
+
+
+[Original source](https://www.foxbusiness.com/politics/trump-secures-historic-550-billion-trade-deal-japan-never-been-anything-like-it)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Windows Datagram.md"
+source_url: "https://doc.datagram.network/setup-datagram/desktop-application-setup-full-core-only/windows"
 author: "Datagram"
 published: 2025-07-21
 ---
+
+
+[Original source](https://doc.datagram.network/setup-datagram/desktop-application-setup-full-core-only/windows)
 
 ## Summary
 

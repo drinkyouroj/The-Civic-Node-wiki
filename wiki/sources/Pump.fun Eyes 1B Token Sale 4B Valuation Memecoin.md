@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Pump.fun Eyes $1B Token Sale at $4B Valuation as Memecoin Boom Hits Full Speed Banana Gun.md"
+source_url: "https://www.bananagun.io/blog/pump-fun-eyes-1b-token-sale-at-4b-valuation-as-memecoin-boom-hits-full-speed"
 author: "Banana Gun"
 published: 2026-01-16
 ---
+
+
+[Original source](https://www.bananagun.io/blog/pump-fun-eyes-1b-token-sale-at-4b-valuation-as-memecoin-boom-hits-full-speed)
 
 ## Summary
 

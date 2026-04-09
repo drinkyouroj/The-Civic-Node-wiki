@@ -4,11 +4,15 @@ type: source
 tags: [monetary-policy, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/United States Central Bank Balance Sheet.md"
+source_url: "https://tradingeconomics.com/united-states/central-bank-balance-sheet"
 author: ""
 published: 2026-04-01
 ---
+
+
+[Original source](https://tradingeconomics.com/united-states/central-bank-balance-sheet)
 
 ## Summary
 

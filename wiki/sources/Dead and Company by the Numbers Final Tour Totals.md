@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Dead & Company by the Numbers Tallying up the amazing totals from final tour.md"
+source_url: "https://www.mercurynews.com/2023/07/18/dead-company-by-the-numbers-tallying-up-the-amazing-totals-from-final-tour/"
 author: "Jim Harrington"
 published: 2023-07-18
 ---
+
+
+[Original source](https://www.mercurynews.com/2023/07/18/dead-company-by-the-numbers-tallying-up-the-amazing-totals-from-final-tour/)
 
 ## Summary
 Mercury News data roundup of Dead & Company's final tour (2023) and career totals. Published after the tour's conclusion at Oracle Park in San Francisco. Provides concrete scale metrics: fans, revenue, unique songs, venues dominated.

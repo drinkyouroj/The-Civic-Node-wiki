@@ -7,7 +7,11 @@ published: 2026-04-01
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/This April Fools Article Has 2 Lies and 9 Ugly Truths.md"
+source_url: "https://drinkyouroj.substack.com/p/this-april-fools-article-has-2-lies-and-9-ugly-truths"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/this-april-fools-article-has-2-lies-and-9-ugly-truths)
 
 ## What It Is
 

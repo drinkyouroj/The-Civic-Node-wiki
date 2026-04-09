@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Anthropic raises $3.5B at $61.5B valuation, can it outspace OpenAI in the AI race — TFN.md"
+source_url: "https://techfundingnews.com/anthropic-raises-3-5b-at-61-5b-valuation-can-it-outspace-openai-in-the-ai-race/"
 author: "Abhinaya Prabhu, Tech Funding News"
 published: 2025-03-04
 ---
+
+
+[Original source](https://techfundingnews.com/anthropic-raises-3-5b-at-61-5b-valuation-can-it-outspace-openai-in-the-ai-race/)
 
 ## Summary
 Anthropic closed a $3.5B funding round led by Lightspeed Venture Partners, reaching a $61.5B valuation. The round positions Anthropic as the clear #2 to OpenAI (valued at $157B at time of writing, with a rumored $340B round pending) and funds AI safety research, compute expansion, mechanistic interpretability, and international expansion into Asia and Europe.

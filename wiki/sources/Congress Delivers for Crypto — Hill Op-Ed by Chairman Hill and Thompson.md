@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/The Hill Ending the Era of Uncertainty Congress Delivers for Crypto.md"
+source_url: "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410805"
 author: "French Hill; G.T. Thompson"
 published: 2025-07-14
 ---
+
+
+[Original source](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410805)
 
 ## Summary
 

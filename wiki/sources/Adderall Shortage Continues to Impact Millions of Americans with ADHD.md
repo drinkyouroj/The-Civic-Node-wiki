@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Adderall shortage continues to impact millions of Americans living with ADHD.md"
+source_url: "https://www.adhdadvisor.org/learn/adderall-shortage-impact"
 author: "Ali Hickerson"
 published: 2025-02-07
 ---
+
+
+[Original source](https://www.adhdadvisor.org/learn/adderall-shortage-impact)
 
 ## Summary
 An estimated 15.5 million adults and 7 million children in the U.S. live with ADHD and depend on stimulant medications like Adderall. The FDA-declared shortage (October 2022) continues into 2025, driven by DEA production quotas, supply chain failures, and telehealth-driven demand spikes during COVID. More than 7 in 10 ADHD patients diagnosed in 2023 reported difficulty filling prescriptions.

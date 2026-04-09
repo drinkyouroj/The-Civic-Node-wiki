@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Judge Imposes Sweeping Restrictions on the Tactics ICE Can Use Against Protesters in Minnesota.md"
+source_url: "https://time.com/7347110/ice-minneapolis-judge-arrests/"
 author: "Rebecca Schneid"
 published: 2026-01-17
 ---
+
+
+[Original source](https://time.com/7347110/ice-minneapolis-judge-arrests/)
 
 ## Summary
 U.S. District Judge Katherine Menendez issued a preliminary injunction barring ICE agents in Minnesota from using pepper spray, arresting, detaining, or retaliating against peaceful protesters. The ruling also bars stopping drivers solely for following ICE vehicles — protecting the "ICE Watch" tracking tactic used by activists. The order applies only to Operation Metro Surge agents in Minnesota.

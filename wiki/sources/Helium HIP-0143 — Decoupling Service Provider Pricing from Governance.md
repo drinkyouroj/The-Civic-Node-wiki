@@ -4,11 +4,15 @@ type: source
 tags: [technology, infrastructure, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/HIP0143-decoupling-service-provider-pricing-from-governance.md at main · heliumHIP.md"
+source_url: "https://github.com/helium/HIP/blob/main/0143-decoupling-service-provider-pricing-from-governance.md"
 author: "inversioncapital, zer0tweets, Nova Labs, ferebee"
 published: 2025-01-29
 ---
+
+
+[Original source](https://github.com/helium/HIP/blob/main/0143-decoupling-service-provider-pricing-from-governance.md)
 
 ## Summary
 

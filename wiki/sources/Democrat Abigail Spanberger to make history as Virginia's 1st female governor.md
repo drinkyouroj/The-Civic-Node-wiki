@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Democrat Abigail Spanberger to make history as Virginia's 1st female governor, flipping governorship blue.md"
+source_url: "https://abcnews.go.com/Politics/spanberger-poised-flip-virginia-governorship-blue/story?id=127073733"
 author: "ABC News; Halle Troadec"
 published: 2025-11-05
 ---
+
+
+[Original source](https://abcnews.go.com/Politics/spanberger-poised-flip-virginia-governorship-blue/story?id=127073733)
 
 ## Summary
 ABC News projected win call with exit poll analysis for Spanberger's Virginia governor victory. Emphasizes historic firsts, exit poll data on economy and abortion, and the campaign's navigation of the Jay Jones text scandal and trans issues.

@@ -4,11 +4,15 @@ type: source
 tags: [politics, media, press-freedom, minnesota, immigration]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Don Lemon arrested after covering protest at Minnesota church.md"
+source_url: "https://www.nbcnews.com/news/us-news/don-lemon-arrested-federal-authorities-attorney-says-rcna256680"
 author: ""
 published: 2026-01-15
 ---
+
+
+[Original source](https://www.nbcnews.com/news/us-news/don-lemon-arrested-federal-authorities-attorney-says-rcna256680)
 
 ## Summary
 Reports Don Lemon's arrest while covering protests at a Minnesota church connected to Operation Metro Surge. The church's pastor led an ICE regional office, making it both a protest target and a site of federal interest.

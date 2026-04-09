@@ -7,7 +7,11 @@ published: 2025-07-20
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Algorithmic Price Tag.md"
+source_url: "https://drinkyouroj.substack.com/p/the-algorithmic-price-tag"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-algorithmic-price-tag)
 
 ## Argument
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Trump Says He's Freezing Minnesota Out of ICE Shooting Probe Because Walz Is 'A Stupid Person'.md"
+source_url: "https://www.mediaite.com/media/news/trump-says-hes-freezing-minnesota-officials-out-of-ice-shooting-probe-because-tim-walz-is-a-stupid-person/"
 author: "Willa Pope Robbins"
 published: 2026-01-09
 ---
+
+
+[Original source](https://www.mediaite.com/media/news/trump-says-hes-freezing-minnesota-officials-out-of-ice-shooting-probe-because-tim-walz-is-a-stupid-person/)
 
 ## Summary
 Mediaite reports Trump's first public statement on the decision to block Minnesota state investigators from the ICE shooting probe. Speaking during a meeting with oil executives on January 9, 2026, Trump justified the decision by calling Governor Walz a "stupid person" and "incompetent governor," claiming Minnesota is a "very corrupt state."

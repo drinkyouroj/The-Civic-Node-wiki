@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Web3 sees 15 new scam smart contracts an hour — Solidus Labs.md"
+source_url: "https://cointelegraph.com/news/web3-sees-15-new-scam-smart-contracts-an-hour-solidus-labs"
 author: "Jesse Coghlan / CoinTelegraph"
 published: 2022-10-28
 ---
+
+
+[Original source](https://cointelegraph.com/news/web3-sees-15-new-scam-smart-contracts-an-hour-solidus-labs)
 
 ## Summary
 

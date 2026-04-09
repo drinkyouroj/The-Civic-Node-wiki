@@ -10,7 +10,11 @@ published: 2025-10-21
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Full Core Prophecy.md"
+source_url: "https://drinkyouroj.substack.com/p/the-full-core-prophecy"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-full-core-prophecy)
 
 ## Argument
 

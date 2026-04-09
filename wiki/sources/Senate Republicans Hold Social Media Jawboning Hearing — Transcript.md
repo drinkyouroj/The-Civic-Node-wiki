@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 12
 raw: "raw/Transcript Senate Republicans Hold Social Media Jawboning Hearing.md"
+source_url: "https://www.techpolicy.press/transcript-senate-republicans-hold-social-media-jawboning-hearing/"
 author: "Cristiano Lima-Strong / TechPolicy.press"
 published: 2025-10-09
 ---
+
+
+[Original source](https://www.techpolicy.press/transcript-senate-republicans-hold-social-media-jawboning-hearing/)
 
 ## Summary
 Transcript of a Senate Commerce Committee hearing ("Shut Your App: How Uncle Sam Jawboned Big Tech Into Silencing Americans") in October 2025, where Republican senators revisited Biden-era CISA censorship allegations even as the Trump administration was simultaneously being criticized for its own speech restrictions. Democrats redirected attention to FCC Chair Brendan Carr's threat to revoke ABC's broadcast licenses over a Jimmy Kimmel monologue — a concrete, documented instance of government speech pressure.

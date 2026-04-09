@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Democrats had a big night. Here are 5 takeaways from the 2025 elections.md"
+source_url: "https://www.npr.org/2025/11/05/nx-s1-5598418/2025-election-prop-50-zohran-mamdani-nyc-virginia-new-jersey"
 author: "Domenico Montanaro"
 published: 2025-11-05
 ---
+
+
+[Original source](https://www.npr.org/2025/11/05/nx-s1-5598418/2025-election-prop-50-zohran-mamdani-nyc-virginia-new-jersey)
 
 ## Summary
 NPR analysis of the November 2025 Democratic sweep, identifying five structural takeaways: cost of living as the dominant issue, Trump's drag on Republican turnout, Latino voter reversal, redistricting arms race, and Democratic identity tension between progressives and moderates.

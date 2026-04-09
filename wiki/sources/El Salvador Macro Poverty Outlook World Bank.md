@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/El Salvador - Macro Poverty Outlook - World Bank.md"
+source_url: "https://thedocs.worldbank.org/en/doc/e408a7e21ba62d843bdd90dc37e61b57-0500032021/related/mpo-slv.pdf"
 author: "World Bank"
 published: 2025-10-01
 ---
+
+
+[Original source](https://thedocs.worldbank.org/en/doc/e408a7e21ba62d843bdd90dc37e61b57-0500032021/related/mpo-slv.pdf)
 
 ## Summary
 

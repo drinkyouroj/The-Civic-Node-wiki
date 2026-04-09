@@ -6,9 +6,13 @@ created: 2026-04-06
 updated: 2026-04-06
 sources: 10
 raw: "raw/Britain woos Anthropic expansion after US defence clash, FT says.md"
+source_url: "https://www.reuters.com/world/uk/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-ft-says-2026-04-05/"
 author: "Reuters / Chandni Shah"
 published: 2026-04-05
 ---
+
+
+[Original source](https://www.reuters.com/world/uk/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-ft-says-2026-04-05/)
 
 ## Summary
 

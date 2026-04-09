@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 16
 raw: "raw/US federal court denies Minnesota bid to stop 'Operation Metro Surge'.md"
+source_url: "https://www.jurist.org/news/2026/02/us-federal-court-denies-minnesota-bid-to-stop-operation-metro-surge/"
 author: "Joshua Villanueva (George Washington U. Law School)"
 published: 2026-02-03
 ---
+
+
+[Original source](https://www.jurist.org/news/2026/02/us-federal-court-denies-minnesota-bid-to-stop-operation-metro-surge/)
 
 ## Summary
 Legal-news account of District Judge **Katherine Menendez**'s January 31, 2026 denial of Minnesota's preliminary injunction request against Operation Metro Surge. JURIST lays out the constitutional theories Minnesota advanced (Tenth Amendment anti-commandeering, equal sovereignty from *Shelby County*) and why the court rejected them at the PI stage. Notably, Menendez did **not** dismiss the underlying constitutional concerns — her order described the consequences as "profound and even heartbreaking" — but held that the anti-commandeering doctrine has limited Supreme Court guidance for this context and that the federal interest in immigration enforcement outweighed the harms at the PI stage.

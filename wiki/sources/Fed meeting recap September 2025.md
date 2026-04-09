@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Fed meeting recap Fed Chair Powell calls quarter-point trim a 'risk management cut'.md"
+source_url: "https://www.cnbc.com/2025/09/17/fed-meeting-today-live-updates.html"
 author: "Christina Cheddar Berk"
 published: 2025-09-17
 ---
+
+
+[Original source](https://www.cnbc.com/2025/09/17/fed-meeting-today-live-updates.html)
 
 ## Summary
 

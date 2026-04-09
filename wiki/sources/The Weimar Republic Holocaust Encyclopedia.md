@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The Weimar Republic Holocaust Encyclopedia.md"
+source_url: "https://encyclopedia.ushmm.org/content/en/article/the-weimar-republic"
 author: ""
 published: 2018-11-01
 ---
+
+
+[Original source](https://encyclopedia.ushmm.org/content/en/article/the-weimar-republic)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/\"We play three to four hours a night or more. I study in real time, 100 gigs a year. That's a great deal of practice\" Bo.md"
+source_url: "https://www.guitarworld.com/lessons/artist-lessons/bob-weir-rhythm-guitar-principles"
 author: "John Stix"
 published: 2026-01-13
 ---
+
+
+[Original source](https://www.guitarworld.com/lessons/artist-lessons/bob-weir-rhythm-guitar-principles)
 
 ## Summary
 Reprint of a 1982 Guitar World interview with Bob Weir (originally from the May 1982 issue), recirculated following his death. Weir outlines six principles for rhythm guitar development: playing with others as a band system, developing a part from what the song needs, strumming technique, time/polyrhythm practice, overtones, and tone/timbre. Deeply practical; reveals Weir's thinking when the Grateful Dead approach was already fully formed.

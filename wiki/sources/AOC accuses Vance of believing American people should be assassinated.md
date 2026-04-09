@@ -4,11 +4,15 @@ type: source
 tags: [politics, political-violence, immigration, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/AOC accuses Vance of believing 'American people should be assassinated in the street'.md"
+source_url: "https://www.foxnews.com/politics/aoc-accuses-vance-believing-american-people-should-assassinated-street"
 author: ""
 published: 2026-01-10
 ---
+
+
+[Original source](https://www.foxnews.com/politics/aoc-accuses-vance-believing-american-people-should-assassinated-street)
 
 ## Summary
 Rep. Alexandria Ocasio-Cortez accused VP JD Vance of implicitly defending the killing of Renée Good, saying his statements amounted to believing "American people should be assassinated in the street." Part of the Democratic congressional response cluster.

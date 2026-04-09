@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/A systematic review of echo chamber research comparative analysis of conceptualizations, operationalizations, and varyin.md"
+source_url: "https://link.springer.com/article/10.1007/s42001-025-00381-z"
 author: "Hartmann, David; Wang, Sonja Mei; Pohlmann, Lena; Berendt, Bettina (Journal of Computational Social Science)"
 published: 2025-04-07
 ---
+
+
+[Original source](https://link.springer.com/article/10.1007/s42001-025-00381-z)
 
 ## Summary
 A PRISMA-compliant systematic review of 129 peer-reviewed studies (from an initial 1,706) on echo chambers and filter bubbles. Key finding: there is no consensus on whether echo chambers exist or matter, and the disagreement is largely methodological — studies using computational/homophily methods tend to find echo chambers; studies using surveys/broader media environments tend not to. The review also identifies major research gaps: underexplored platforms (instant messaging, short video), geographic overreliance on the US, and lack of causal evidence.

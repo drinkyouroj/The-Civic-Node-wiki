@@ -4,11 +4,15 @@ type: source
 tags: [monetary-policy, crypto, stablecoin, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Empowering the future of payments with stablecoins.md"
+source_url: "https://corporate.visa.com/en/solutions/crypto/stablecoins.html"
 author: "Visa"
 published: 2026-03-12
 ---
+
+
+[Original source](https://corporate.visa.com/en/solutions/crypto/stablecoins.html)
 
 ## Summary
 

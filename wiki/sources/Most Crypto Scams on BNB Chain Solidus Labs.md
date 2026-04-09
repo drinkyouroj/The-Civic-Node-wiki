@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Most Crypto Scams on BNB Chain, Solidus Labs Says.md"
+source_url: "https://www.coindesk.com/business/2022/10/27/most-crypto-scams-on-bnb-chain-solidus-labs-says"
 author: "Sam Reynolds / CoinDesk"
 published: 2022-10-27
 ---
+
+
+[Original source](https://www.coindesk.com/business/2022/10/27/most-crypto-scams-on-bnb-chain-solidus-labs-says)
 
 ## Summary
 

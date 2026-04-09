@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/El Salvador removes Bitcoin mandate Digital Watch Observatory.md"
+source_url: "https://dig.watch/updates/el-salvador-removes-bitcoin-mandate"
 author: "Digital Watch Observatory"
 published: 2025-05-29
 ---
+
+
+[Original source](https://dig.watch/updates/el-salvador-removes-bitcoin-mandate)
 
 ## Summary
 

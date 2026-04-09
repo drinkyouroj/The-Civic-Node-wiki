@@ -4,11 +4,15 @@ type: source
 tags: [politics, political-violence, polarization, right-wing]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/After Charlie Kirk's killing, MAGA world mourns, but some say 'we're at war'.md"
+source_url: "https://abcnews.go.com/Politics/after-charlie-kirks-killing-maga-world-mourns-war/story?id=125483603"
 author: ""
 published: 2025-09-11
 ---
+
+
+[Original source](https://abcnews.go.com/Politics/after-charlie-kirks-killing-maga-world-mourns-war/story?id=125483603)
 
 ## Summary
 Covers the right-wing media and grassroots response to Kirk's assassination, including the "we're at war" framing that emerged on social media and among some MAGA influencers alongside mainstream Republican mourning.

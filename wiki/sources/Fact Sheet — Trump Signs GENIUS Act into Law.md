@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Fact Sheet President Donald J. Trump Signs GENIUS Act into Law.md"
+source_url: "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/"
 author: "White House"
 published: 2025-07-18
 ---
+
+
+[Original source](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/)
 
 ## Summary
 

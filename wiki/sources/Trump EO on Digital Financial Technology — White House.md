@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 12
 raw: "raw/Strengthening American Leadership in Digital Financial Technology.md"
+source_url: "https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/"
 author: "White House"
 published: 2025-01-23
 ---
+
+
+[Original source](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/)
 
 ## Summary
 

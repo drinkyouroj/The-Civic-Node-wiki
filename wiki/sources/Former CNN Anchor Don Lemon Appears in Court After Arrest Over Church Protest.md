@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Former CNN anchor Don Lemon appears in court after being arrested over protest at Minnesota church service.md"
+source_url: "https://www.cbsnews.com/news/don-lemon-in-custody-former-cnn-anchor-sources-say/"
 author: "Lilia Luciano; Jacob Rosen; Jennifer Jacobs; Sarah N Lynch; Nicole Sganga"
 published: 2026-01-30
 ---
+
+
+[Original source](https://www.cbsnews.com/news/don-lemon-in-custody-former-cnn-anchor-sources-say/)
 
 ## Summary
 CBS News detailed coverage of Don Lemon's January 30, 2026 court appearance in Los Angeles following his overnight arrest. Includes the full indictment allegations — the DOJ's theory of the case — and the procedural history of judicial pushback. Reveals that a federal magistrate had rejected Lemon's arrest warrant twice before the DOJ empaneled a grand jury to indict anyway.

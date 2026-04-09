@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/GENIUS Act Passes in US Congress A Breakdown of the Landmark Stablecoin Law.md"
+source_url: "https://www.morganlewis.com/pubs/2025/07/genius-act-passes-in-us-congress-a-breakdown-of-the-landmark-stablecoin-law"
 author: "Morgan Lewis"
 published: 2025-07-17
 ---
+
+
+[Original source](https://www.morganlewis.com/pubs/2025/07/genius-act-passes-in-us-congress-a-breakdown-of-the-landmark-stablecoin-law)
 
 ## Summary
 

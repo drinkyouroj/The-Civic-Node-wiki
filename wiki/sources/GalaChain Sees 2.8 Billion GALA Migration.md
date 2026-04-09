@@ -4,11 +4,15 @@ type: source
 tags: [technology, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/GalaChain Sees 2.8 Billion $GALA Migration With New Staking Program.md"
+source_url: "https://www.ainvest.com/news/galachain-sees-2-8-billion-gala-migration-staking-program-2506/"
 author: "Coin World / AInvest"
 published: 2025-06-24
 ---
+
+
+[Original source](https://www.ainvest.com/news/galachain-sees-2-8-billion-gala-migration-staking-program-2506/)
 
 ## Summary
 

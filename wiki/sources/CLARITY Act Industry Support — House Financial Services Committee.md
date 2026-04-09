@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/WHAT THEY ARE SAYING Financial Services Highlights Support for CLARITY Act.md"
+source_url: "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410816"
 author: "House Financial Services Committee"
 published: 2025-07-18
 ---
+
+
+[Original source](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410816)
 
 ## Summary
 

@@ -7,7 +7,11 @@ published: 2026-01-30
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/The Pastor Runs the Gestapo.md"
+source_url: "https://drinkyouroj.substack.com/p/the-pastor-runs-the-gestapo"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-pastor-runs-the-gestapo)
 
 ## What It Is
 

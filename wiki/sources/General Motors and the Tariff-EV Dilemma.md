@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/General Motors and the Tariff-EV Dilemma Strategic Resilience and Margin Recovery in a Shifting Trade Landscape.md"
+source_url: "https://www.ainvest.com/news/general-motors-tariff-ev-dilemma-strategic-resilience-margin-recovery-shifting-trade-landscape-2507/"
 author: "Victor Hale"
 published: 2025-07-23
 ---
+
+
+[Original source](https://www.ainvest.com/news/general-motors-tariff-ev-dilemma-strategic-resilience-margin-recovery-shifting-trade-landscape-2507/)
 
 ## Summary
 

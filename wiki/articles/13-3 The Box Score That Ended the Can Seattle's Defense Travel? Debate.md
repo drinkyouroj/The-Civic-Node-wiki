@@ -7,9 +7,12 @@ published: 2026-01-04
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/13-3 The Box Score That Ended the Can Seattle's Defense Travel? Debate.md"
+source_url: "https://drinkyouroj.substack.com/p/13-3-the-box-score-that-ended-the-can-seattles-defense-travel-debate"
 ---
 
-## What It Is
+[Read on Substack](https://drinkyouroj.substack.com/p/13-3-the-box-score-that-ended-the-can-seattles-defense-travel-debate)
+
+What It Is
 
 Nonfiction essay on Seahawks 13-49ers 3 at Levi's Stadium (NFC Divisional Round). December's 42.3-PPG 49ers offense met Macdonald's defense that "thinks faster than offenses can adapt" and produced lowest output under Kyle Shanahan in eight seasons.
 

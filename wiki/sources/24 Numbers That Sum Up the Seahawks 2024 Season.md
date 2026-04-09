@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/24 numbers that sum up the Seattle Seahawks' 2024 season.md"
+source_url: "https://sports.mynorthwest.com/nfl/seattle-seahawks/24-numbers-sum-up-2024-seattle-seahawks/1797195"
 author: "Cameron Van Til"
 published: 2025-01-26
 ---
+
+
+[Original source](https://sports.mynorthwest.com/nfl/seattle-seahawks/24-numbers-sum-up-2024-seattle-seahawks/1797195)
 
 ## Summary
 

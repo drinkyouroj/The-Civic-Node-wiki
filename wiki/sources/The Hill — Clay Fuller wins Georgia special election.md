@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 8
 raw: "raw/GOP’s Clay Fuller to replace Taylor Greene in Congress.md"
+source_url: "https://thehill.com/homenews/campaign/5818280-fuller-wins-georgia-special-election/"
 author: "Caroline Vakil"
 published: 2026-04-07
 ---
+
+
+[Original source](https://thehill.com/homenews/campaign/5818280-fuller-wins-georgia-special-election/)
 
 ## Summary
 The Hill reports Trump-endorsed local DA Clay Fuller defeated Democrat Shawn Harris (a retired Army brigadier general) in the GA-14 special election runoff to replace Marjorie Taylor Greene, who resigned in January 2026. Fuller's win cushions the House GOP's 217-214 majority — once seated, Republicans can afford only two defections on party-line votes. Despite the safe-red district (Trump +37 in 2024), Democratic turnout exceeded expectations, marking another overperformance ahead of the 2026 midterms. Democrats have not flipped a House seat this year but have flipped state legislative seats in Florida (including the district containing Mar-a-Lago) and seats on the Georgia Public Service Commission.

@@ -10,7 +10,11 @@ published: 2025-07-17
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The CLARITY Act.md"
+source_url: "https://drinkyouroj.substack.com/p/the-clarity-act"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-clarity-act)
 
 ## Argument
 The Digital Asset Market Clarity Act resolves a decade-long regulatory ambiguity by creating explicit definitions for digital asset classifications and a lifecycle framework for how assets move from securities oversight (during fundraising) to commodity oversight (once the network achieves "mature blockchain" status). The piece frames this as a necessary condition for U.S. competitiveness in digital assets — but acknowledges consumer protection critics argue the shift from SEC to CFTC oversight weakens investor safeguards.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Rescissions Act of 2025 - Wikipedia [en.wikipedia.org].md"
+source_url: "https://en.wikipedia.org/wiki/Rescissions_Act_of_2025"
 author: "Wikipedia"
 published: 2025-06-12
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Rescissions_Act_of_2025)
 
 ## Summary
 Wikipedia article on the Rescissions Act of 2025, which permanently rescinded $7.9 billion in international assistance and $1.1 billion in Corporation for Public Broadcasting funding. First rescission bill in over 25 years; passed with razor-thin margins along party lines. Key legislative history of a DOGE-codifying mechanism that put the spending cuts on permanent legal footing.

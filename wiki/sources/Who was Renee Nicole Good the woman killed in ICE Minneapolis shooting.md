@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Who was Renee Nicole Good, the woman killed in ICE Minneapolis shooting.md"
+source_url: "https://www.aljazeera.com/news/2026/1/8/who-is-renee-nicole-good-the-woman-killed-in-the-ice-minneapolis-shooting"
 author: ""
 published: 2026-01-08
 ---
+
+
+[Original source](https://www.aljazeera.com/news/2026/1/8/who-is-renee-nicole-good-the-woman-killed-in-the-ice-minneapolis-shooting)
 
 ## Summary
 Profile piece on Renée Nicole Good — her background, family, career as a writer and poet, her path to Minneapolis, and her life before being killed by ICE agent Jonathan Ross.

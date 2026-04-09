@@ -6,9 +6,13 @@ created: 2026-04-06
 updated: 2026-04-06
 sources: 7
 raw: "raw/Will blow up everything, take over Iran's oil Trump says can reach deal by Monday.md"
+source_url: "https://www.indiatoday.in/world/story/trump-iran-deal-middle-east-war-oil-israel-attack-strikes-gulf-tensions-2891940-2026-04-05"
 author: "India Today World Desk"
 published: 2026-04-05
 ---
+
+
+[Original source](https://www.indiatoday.in/world/story/trump-iran-deal-middle-east-war-oil-israel-attack-strikes-gulf-tensions-2891940-2026-04-05)
 
 ## Summary
 

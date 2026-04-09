@@ -7,7 +7,11 @@ published: 2026-01-07
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/The False Balance Trap.md"
+source_url: "https://drinkyouroj.substack.com/p/the-false-balance-trap"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-false-balance-trap)
 
 ## What It Is
 

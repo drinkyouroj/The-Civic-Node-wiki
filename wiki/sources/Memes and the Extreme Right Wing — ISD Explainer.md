@@ -4,11 +4,15 @@ type: source
 tags: [politics, technology, algorithmic-radicalization, extremism]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Memes & the Extreme Right-Wing - Institute for Strategic Dialogue.md"
+source_url: "https://www.isdglobal.org/explainers/memes-the-extreme-right-wing/"
 author: "ISD UK, ISD-US"
 published: 2023-02-23
 ---
+
+
+[Original source](https://www.isdglobal.org/explainers/memes-the-extreme-right-wing/)
 
 ## Summary
 

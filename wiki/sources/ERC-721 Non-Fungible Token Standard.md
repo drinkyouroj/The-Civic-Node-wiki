@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/ERC-721 Non-Fungible Token Standard.md"
+source_url: "https://eips.ethereum.org/EIPS/eip-721"
 author: "William Entriken; Dieter Shirley; Jacob Evans; Nastassia Sachs / Ethereum"
 published: 2018-01-24
 ---
+
+
+[Original source](https://eips.ethereum.org/EIPS/eip-721)
 
 ## Summary
 

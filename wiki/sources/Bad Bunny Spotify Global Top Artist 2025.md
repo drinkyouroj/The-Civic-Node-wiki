@@ -4,11 +4,15 @@ type: source
 tags: [nfl, culture, bad-bunny, music, spotify]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Listeners Worldwide Crown Bad Bunny Global Top Artist for the Fourth Time and His Latest Release Takes Global Top Album.md"
+source_url: "https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/"
 author: "Spotify Newsroom"
 published: 2025-12-03
 ---
+
+
+[Original source](https://newsroom.spotify.com/2025-12-03/wrapped-bad-bunny-top-artist-album/)
 
 ## Summary
 

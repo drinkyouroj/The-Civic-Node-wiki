@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/US Congress Set To Advance Key Crypto Bills This Week.md"
+source_url: "https://stratnewsglobal.com/world-news/us-congress-set-to-advance-key-crypto-bills-this-week/"
 author: "Team StratNews"
 published: 2025-07-14
 ---
+
+
+[Original source](https://stratnewsglobal.com/world-news/us-congress-set-to-advance-key-crypto-bills-this-week/)
 
 ## Summary
 

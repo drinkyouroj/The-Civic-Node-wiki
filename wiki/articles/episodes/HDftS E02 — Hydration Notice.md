@@ -8,8 +8,12 @@ published: 2026-03-26
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Hydration Notice.md"
+source_url: "https://drinkyouroj.substack.com/p/hdfts-hydration-notice"
 featured_ai: VEDA
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/hdfts-hydration-notice)
 
 ## What Happens
 

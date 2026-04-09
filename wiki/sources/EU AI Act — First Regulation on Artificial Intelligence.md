@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/EU AI Act first regulation on artificial intelligence Topics European Parliament.md"
+source_url: "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence"
 author: "European Parliament"
 published: 2025-02-19
 ---
+
+
+[Original source](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)
 
 ## Summary
 The European Parliament's overview of the EU AI Act — the world's first comprehensive AI regulation, adopted June 2024. The Act uses a risk-based classification system: banned applications, high-risk systems requiring pre-market assessment, and general-purpose AI (like ChatGPT) subject to transparency requirements. Compliance timelines are staggered through 2027.

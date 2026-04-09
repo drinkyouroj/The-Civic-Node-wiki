@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/GENIUS Act Signed into Law US Enacts Federal Stablecoin Legislation JD Supra.md"
+source_url: "https://www.jdsupra.com/legalnews/genius-act-signed-into-law-us-enacts-3279361/"
 author: "JD Supra"
 published: 2025-07-20
 ---
+
+
+[Original source](https://www.jdsupra.com/legalnews/genius-act-signed-into-law-us-enacts-3279361/)
 
 ## Summary
 

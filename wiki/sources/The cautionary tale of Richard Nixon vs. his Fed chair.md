@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The cautionary tale of Richard Nixon vs. his Fed chair.md"
+source_url: "https://www.wbur.org/hereandnow/2025/02/10/richard-nixon-arthur-burns"
 author: "Kenny Malone; Mary Childs; Planet Money"
 published: 2025-02-10
 ---
+
+
+[Original source](https://www.wbur.org/hereandnow/2025/02/10/richard-nixon-arthur-burns)
 
 ## Summary
 

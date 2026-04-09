@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Today more Americans support than oppose abolishing ICE.md"
+source_url: "https://today.yougov.com/politics/articles/53939-more-americans-support-than-oppose-abolishing-ice-immigration-minneapolis-shooting-poll"
 author: "Alexander Rossell Hayes"
 published: 2026-01-26
 ---
+
+
+[Original source](https://today.yougov.com/politics/articles/53939-more-americans-support-than-oppose-abolishing-ice-immigration-minneapolis-shooting-poll)
 
 ## Summary
 YouGov poll (Jan. 24–25, 2026) conducted hours after the killing of Alex Pretti — the second ICE-related shooting in Minneapolis in three weeks — finds for the first time that more Americans support (46%) than oppose (41%) abolishing ICE. 57% disapprove of ICE's job handling; 58% say ICE tactics are too forceful; 49% approve of protests against ICE actions.

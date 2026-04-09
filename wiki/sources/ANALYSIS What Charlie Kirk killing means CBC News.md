@@ -4,11 +4,15 @@ type: source
 tags: [politics, political-violence, polarization, media]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News.md"
+source_url: "https://www.cbc.ca/news/world/charlie-kirk-shooting-donald-trump-political-violence-1.7631080"
 author: "Mike Crawley"
 published: 2025-09-11
 ---
+
+
+[Original source](https://www.cbc.ca/news/world/charlie-kirk-shooting-donald-trump-political-violence-1.7631080)
 
 ## Summary
 CBC News analysis of the political implications of Kirk's assassination. Argues Trump's response — blaming only left-wing rhetoric while omitting Democratic victims — will deepen rather than heal polarization. Cites CSIS data showing 10x increase in politically-motivated attacks on officials.

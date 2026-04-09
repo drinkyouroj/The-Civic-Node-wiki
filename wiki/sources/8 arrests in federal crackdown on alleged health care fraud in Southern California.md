@@ -6,9 +6,13 @@ created: 2026-04-06
 updated: 2026-04-06
 sources: 7
 raw: "raw/8 arrests made in federal crackdown on alleged health care fraud in Southern California.md"
+source_url: "https://apnews.com/article/los-angeles-medicare-fraud-health-care-arrests-c2de6830344231f83c5465ae2ea9c6a3"
 author: "Jaimie Ding (AP)"
 published: 2026-04-02
 ---
+
+
+[Original source](https://apnews.com/article/los-angeles-medicare-fraud-health-care-arrests-c2de6830344231f83c5465ae2ea9c6a3)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [politics, january-6, trump, doj]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Jack Smith tells Congress he could prove Trump engaged in a 'criminal scheme' to overturn 2020 election.md"
+source_url: "https://www.nbcnews.com/politics/justice-department/jack-smith-tells-congress-prove-trump-engaged-criminal-scheme-overturn-rcna249715"
 author: ""
 published: 2025-12-31
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/justice-department/jack-smith-tells-congress-prove-trump-engaged-criminal-scheme-overturn-rcna249715)
 
 ## Summary
 Coverage of Jack Smith's deposition statement that he could have proven Trump engaged in a "criminal scheme" to overturn the 2020 election. Corroborating coverage of the December 17 deposition transcript.

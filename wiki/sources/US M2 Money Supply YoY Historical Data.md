@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/US M2 Money Supply YoY (Monthly) - United States - Historic….md"
+source_url: "https://ycharts.com/indicators/us_m2_money_supply_yoy"
 author: ""
 published: 2026-03-24
 ---
+
+
+[Original source](https://ycharts.com/indicators/us_m2_money_supply_yoy)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [politics, geopolitics, public-opinion]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 6
 raw: "raw/Support for Israel hits new low in US, new poll shows.md"
+source_url: "https://www.usatoday.com/story/news/nation/2026/04/08/israel-netanyahu-favorability-pew-poll/89519136007/"
 author: "Eduardo Cuevas"
 published: 2026-04-08
 ---
+
+
+[Original source](https://www.usatoday.com/story/news/nation/2026/04/08/israel-netanyahu-favorability-pew-poll/89519136007/)
 
 ## Summary
 

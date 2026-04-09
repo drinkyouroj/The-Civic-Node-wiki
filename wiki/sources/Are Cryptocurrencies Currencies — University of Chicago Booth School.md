@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Are Cryptocurrencies Currencies Bitcoin as Legal Tender in El Salvador - University of Chicago Booth School.md"
+source_url: "https://bfi.uchicago.edu/wp-content/uploads/2022/04/BFI_WP_2022-54.pdf"
 author: "Fernando E. Alvarez, David Argente, Diana Van Patten"
 published: 2022-04-01
 ---
+
+
+[Original source](https://bfi.uchicago.edu/wp-content/uploads/2022/04/BFI_WP_2022-54.pdf)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/Minneapolis ICE shooting Woman fatally shot by agent identified I Live Updates from Fox News Digital.md"
+source_url: "https://www.foxnews.com/live-news/minneapolis-ice-shooting-1-8-2026"
 author: "Stephen Sorace; Michael Sinkewicz; Louis Casiano; Greg Wehner; Greg Norman-Diamond"
 published: 2026-01-08
 ---
+
+
+[Original source](https://www.foxnews.com/live-news/minneapolis-ice-shooting-1-8-2026)
 
 ## Summary
 Fox News Digital's live blog from January 8, 2026, the day after the killing of [[Killing of Renée Good|Renée Good]]. Covers the official DHS/administration response — Vance, Noem, Bondi, acting ICE director — as well as Democratic reactions, protest activity, and a range of peripheral incidents. Provides the clearest contemporaneous record of the Trump administration's public narrative construction in the first 24 hours after the shooting.

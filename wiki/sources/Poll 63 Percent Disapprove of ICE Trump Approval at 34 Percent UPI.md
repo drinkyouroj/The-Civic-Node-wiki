@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Poll 63% disapprove of the job ICE is doing; Trump approval at 34% - UPI.com.md"
+source_url: "https://www.upi.com/Top_News/US/2026/01/23/poll-63-disapprove-ice/9971769200017"
 author: "Lisa Hornung"
 published: 2026-01-23
 ---
+
+
+[Original source](https://www.upi.com/Top_News/US/2026/01/23/poll-63-disapprove-ice/9971769200017)
 
 ## Summary
 UPI coverage of a New York Times/Siena Research Institute poll (Jan. 12–17, 2026, n=1,625) finding 63% of registered voters disapprove of ICE's job performance, 61% say ICE tactics have "gone too far," and Trump's overall approval is at 34%. The poll was taken after the killing of Renée Good and during the period of maximum protest activity.

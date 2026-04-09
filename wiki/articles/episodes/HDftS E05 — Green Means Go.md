@@ -8,8 +8,12 @@ published: 2026-04-07
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Green Means Go.md"
+source_url: "https://drinkyouroj.substack.com/p/hdfts-green-means-go"
 featured_ai: CHIP
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/hdfts-green-means-go)
 
 ## What Happens
 

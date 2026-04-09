@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Ravens Pass Rush Is Being Unleashed, And Everyone Is in on the Fun.md"
+source_url: "https://www.baltimoreravens.com/news/mike-macdonald-unleash-ravens-pass-rush-defense-sacks"
 author: "Ryan Mink"
 published: 2023-10-19
 ---
+
+
+[Original source](https://www.baltimoreravens.com/news/mike-macdonald-unleash-ravens-pass-rush-defense-sacks)
 
 ## Summary
 

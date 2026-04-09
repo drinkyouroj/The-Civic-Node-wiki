@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Crypto Week Policy Playbook for CFOs PYMNTS.com.md"
+source_url: "https://www.pymnts.com/cryptocurrency/2025/crypto-week-policy-rundown-for-cfos-and-payments-professionals/"
 author: "PYMNTS"
 published: 2025-07-14
 ---
+
+
+[Original source](https://www.pymnts.com/cryptocurrency/2025/crypto-week-policy-rundown-for-cfos-and-payments-professionals/)
 
 ## Summary
 

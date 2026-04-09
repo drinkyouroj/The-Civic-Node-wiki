@@ -4,11 +4,15 @@ type: source
 tags: [nfl, darnold, seahawks, quarterback-development]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/How Seahawks QB Sam Darnold's Time In Carolina 'Paved The Way' For Career Resurgence.md"
+source_url: "https://www.seahawks.com/news/how-seahawks-qb-sam-darnold-s-time-in-carolina-paved-the-way-for-career-resurgence"
 author: "John Boyle"
 published: 2025-12-26
 ---
+
+
+[Original source](https://www.seahawks.com/news/how-seahawks-qb-sam-darnold-s-time-in-carolina-paved-the-way-for-career-resurgence)
 
 ## Summary
 

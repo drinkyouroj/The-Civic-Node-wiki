@@ -4,11 +4,15 @@ type: source
 tags: [economics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/General Motors profit drops 35% as Trump tariffs hit car industry.md"
+source_url: "https://www.aljazeera.com/economy/2025/7/22/general-motors-reports-a-35-profit-drop-as-tariffs-weigh-on-car-industry"
 author: "News Agencies"
 published: 2025-07-22
 ---
+
+
+[Original source](https://www.aljazeera.com/economy/2025/7/22/general-motors-reports-a-35-profit-drop-as-tariffs-weigh-on-car-industry)
 
 ## Summary
 

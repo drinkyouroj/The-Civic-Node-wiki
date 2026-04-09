@@ -7,7 +7,11 @@ published: 2026-02-07
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Bad Bunny Just Showed You Where Real Power Lives.md"
+source_url: "https://drinkyouroj.substack.com/p/bad-bunny-just-showed-you-where-real-power-lives"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/bad-bunny-just-showed-you-where-real-power-lives)
 
 ## What It Is
 

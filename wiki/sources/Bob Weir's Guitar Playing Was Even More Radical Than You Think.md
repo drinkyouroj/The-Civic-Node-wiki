@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Bob Weir's Guitar Playing Was Even More Radical Than You Think.md"
+source_url: "https://www.rollingstone.com/music/music-features/bob-weir-guitar-playing-influences-impact-1235497555/"
 author: "Alan Paul"
 published: 2026-01-11
 ---
+
+
+[Original source](https://www.rollingstone.com/music/music-features/bob-weir-guitar-playing-influences-impact-1235497555/)
 
 ## Summary
 Rolling Stone obituary-analysis by author Alan Paul, who interviewed Weir extensively. Focuses on the technical and philosophical radicalism of Weir's rhythm guitar approach: the jazz piano influence, counterpoint-over-chord thinking, chord inversions, Indian classical music influence, and his philosophy of treating songs as living characters that co-direct performance. Includes tributes from John Mayer, Warren Haynes, Don Was, and Oteil Burbridge.

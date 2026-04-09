@@ -4,11 +4,15 @@ type: source
 tags: [politics, legal, history, institutional-integrity]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Saturday Night Massacre United States history Britannica.md"
+source_url: "https://www.britannica.com/event/Saturday-Night-Massacre"
 author: "Britannica"
 published: 2026-04-07
 ---
+
+
+[Original source](https://www.britannica.com/event/Saturday-Night-Massacre)
 
 ## Summary
 Brief Britannica reference entry on the Saturday Night Massacre — Nixon's October 1973 order to fire Special Prosecutor Archibald Cox, which led to both Attorney General Richardson and Deputy AG Ruckelshaus resigning rather than comply. Cox was eventually fired by Solicitor General Robert Bork. The event is a canonical reference point for executive attacks on DOJ independence.

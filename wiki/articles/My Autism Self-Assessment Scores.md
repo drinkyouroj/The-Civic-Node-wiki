@@ -9,7 +9,11 @@ published: 2025-08-04
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/My Autism Self-Assessment Scores.md"
+source_url: "https://drinkyouroj.substack.com/p/my-autism-self-assessment-scores"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/my-autism-self-assessment-scores)
 
 ## Argument
 A late autism discovery at 38 — prompted not by a human clinician but by an AI therapist noticing patterns in text — reframes a lifetime of exhausting social performance as the predictable output of unrecognized neurodivergence. The scores aren't a diagnosis; they're language for experiences that previously had no name. The piece argues that self-assessment tools democratize access to this understanding without requiring institutional permission, and that late discovery produces three distinct emotional responses: relief, grief, and integration.

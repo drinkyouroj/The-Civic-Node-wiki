@@ -4,11 +4,15 @@ type: source
 tags: [technology, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/What the Story of ATMs and Bank Tellers Reveals About the 'rise of the Robots' and Jobs.md"
+source_url: "https://www.aei.org/economics/what-atms-bank-tellers-rise-robots-and-jobs/"
 author: "James Pethokoukis"
 published: 2016-06-06
 ---
+
+
+[Original source](https://www.aei.org/economics/what-atms-bank-tellers-rise-robots-and-jobs/)
 
 ## Summary
 

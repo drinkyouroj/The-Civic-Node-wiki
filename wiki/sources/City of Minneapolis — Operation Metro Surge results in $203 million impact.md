@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 10
 raw: "raw/Operation Metro Surge results in $203 million impact on Minneapolis.md"
+source_url: "https://www.minneapolismn.gov/news/2026/february/oms-impact/"
 author: "City of Minneapolis"
 published: 2026-02-12
 ---
+
+
+[Original source](https://www.minneapolismn.gov/news/2026/february/oms-impact/)
 
 ## Summary
 Primary-source city government release of the preliminary impact assessment for Operation Metro Surge's effect on Minneapolis. Published February 12, 2026, the day after border czar Tom Homan announced the imminent end of the surge. Documents at least **$203.1 million in one-month impact** across livelihood, shelter, food security, and mental health sectors, with 76,000 people needing urgent relief assistance. The assessment is explicitly labeled "very likely a significant underestimation."

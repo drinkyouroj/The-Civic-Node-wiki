@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/El Salvador y el bitcoin - Cristosal.md"
+source_url: "https://cristosal.org/ES/wp-content/uploads/2023/09/Informe-Bitcoin-2023.pdf"
 author: "Cristosal (human rights organization)"
 published: 2023-09-01
 ---
+
+
+[Original source](https://cristosal.org/ES/wp-content/uploads/2023/09/Informe-Bitcoin-2023.pdf)
 
 ## Summary
 

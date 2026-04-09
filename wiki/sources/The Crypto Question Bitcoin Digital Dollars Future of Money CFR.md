@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/The Crypto Question Bitcoin, Digital Dollars, and the Future of Money Council on Foreign Relations.md"
+source_url: "https://www.cfr.org/backgrounder/crypto-question-bitcoin-digital-dollars-and-future-money"
 author: "Anshu Siripurapu; Noah Berman"
 published: 2021-09-23
 ---
+
+
+[Original source](https://www.cfr.org/backgrounder/crypto-question-bitcoin-digital-dollars-and-future-money)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Minneapolis ICE shooting updates Protests remain peaceful despite arrests Officials.md"
+source_url: "https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634"
 author: "ABC News; Emily Shapiro; Meredith Deliso; Ivan Pereira"
 published: 2026-01-13
 ---
+
+
+[Original source](https://abcnews.go.com/US/live-updates/minneapolis-ice-shooting-live-updates-tensions-flare-minneapolis/?id=129018634)
 
 ## Summary
 ABC News live updates from the week of January 13, 2026, covering the evolving protests and federal response following the killing of [[Killing of Renée Good|Renée Good]] (Jan. 7) and the second shooting of Alex Pretti (Jan. 25). Key development: DHS changed its congressional oversight policy — requiring 7-day advance notice for visits to ICE facilities — using the One Big Beautiful Bill Act to sidestep an existing court order.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Capitol riot 'does not happen' without Trump, Jack Smith told Congress.md"
+source_url: "https://www.npr.org/2025/12/31/g-s1-104190/capitol-riot-trump-jack-smith-transcript"
 author: "The Associated Press"
 published: 2025-12-31
 ---
+
+
+[Original source](https://www.npr.org/2025/12/31/g-s1-104190/capitol-riot-trump-jack-smith-transcript)
 
 ## Summary
 NPR/AP report on the December 17, 2025 closed-door deposition transcript of former Special Counsel Jack Smith before the Republican-led House Judiciary Committee. Smith called Trump "the most culpable and most responsible person" in the conspiracy to overturn the 2020 election, said the Capitol riot "does not happen" without Trump, and vigorously defended his investigations as non-political. Released Dec. 31, 2025.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Woman fatally shot by ICE officer remembered as 'one of the kindest people'.md"
+source_url: "https://www.nbcnews.com/news/us-news/renee-nicole-good-minneapolis-ice-shooting-victim-caring-neighbor-rcna252901"
 author: "Tim Stelloh; Minyvonne Burke; Selina Guevara"
 published: 2026-01-08
 ---
+
+
+[Original source](https://www.nbcnews.com/news/us-news/renee-nicole-good-minneapolis-ice-shooting-victim-caring-neighbor-rcna252901)
 
 ## Summary
 NBC News profile of [[Killing of Renée Good|Renée Good]] in the hours after her death, drawing on family members, neighbors, and community sources. Counters the DHS "domestic terrorist" / anti-ICE-activist narrative with testimony from people who knew her. Establishes key biographical facts and the immediate family response.

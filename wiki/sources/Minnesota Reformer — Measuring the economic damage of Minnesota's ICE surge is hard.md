@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 13
 raw: "raw/Measuring the economic damage of Minnesota's ICE surge is hard • Minnesota Reformer.md"
+source_url: "https://minnesotareformer.com/2026/03/02/measuring-the-economic-damage-of-minnesotas-ice-surge-is-hard/"
 author: "Alyssa Chen"
 published: 2026-03-02
 ---
+
+
+[Original source](https://minnesotareformer.com/2026/03/02/measuring-the-economic-damage-of-minnesotas-ice-surge-is-hard/)
 
 ## Summary
 Critical methodological reporting on the various estimates of Operation Metro Surge's economic impact, published after the surge wound down. Minnesota Reformer walks through how each figure was derived — exposing that even the most-cited numbers are "back-of-the-envelope" calculations based on limited data. Documents two distinct estimation approaches: (1) the City of Minneapolis's $203.1M preliminary assessment using per-household arithmetic, and (2) Rosenthal and Sojourner's $106.1M wage-loss estimate using synthetic difference-in-differences econometrics.

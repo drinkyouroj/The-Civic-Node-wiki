@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, labor]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/The hidden labor that makes AI work.md"
+source_url: "https://restofworld.org/2025/the-ai-con-book-invisible-labor/"
 author: "Alex Hanna, Emily M. Bender, Rina Chandran"
 published: 2025-07-01
 ---
+
+
+[Original source](https://restofworld.org/2025/the-ai-con-book-invisible-labor/)
 
 ## Summary
 

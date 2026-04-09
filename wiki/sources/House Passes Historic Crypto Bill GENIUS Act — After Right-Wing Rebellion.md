@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/House passes historic crypto bill, the GENIUS Act, after right-wing rebellion.md"
+source_url: "https://www.cbsnews.com/news/house-vote-crypto-genius-act-stablecoin-regulations/"
 author: "Various"
 published: 2025-07-17
 ---
+
+
+[Original source](https://www.cbsnews.com/news/house-vote-crypto-genius-act-stablecoin-regulations/)
 
 ## Summary
 

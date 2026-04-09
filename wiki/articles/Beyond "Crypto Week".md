@@ -13,6 +13,9 @@ updated: 2026-04-07
 source: 'published/Beyond "Crypto Week".md'
 ---
 
+
+[Read on Substack](https://drinkyouroj.substack.com/p/beyond-crypto-week)
+
 ## Argument
 The Crypto Week legislation is a foundation, not an endpoint. The GENIUS Act creates massive structural demand for U.S. Treasury bills (stablecoin market projected to reach ~$2 trillion) but also risks bank disintermediation. The CLARITY Act unlocks institutional adoption but hands consumer protection critics a legitimate grievance. The Anti-CBDC Act takes a firm privacy stance but leaves the U.S. at odds with 137 countries exploring CBDCs. The real decisions happen during 18 months of federal rulemaking — by agencies, lobbyists, and courts, not on C-SPAN.
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Cryptocurrencies and monetary policy - Bruegel.md"
+source_url: "https://www.bruegel.org/system/files/wp_attachments/PC-10_2018_2.pdf"
 author: "Grégory Claeys; Maria Demertzis; Konstantinos Efstathiou / Bruegel"
 published: 2018-06-01
 ---
+
+
+[Original source](https://www.bruegel.org/system/files/wp_attachments/PC-10_2018_2.pdf)
 
 ## Summary
 

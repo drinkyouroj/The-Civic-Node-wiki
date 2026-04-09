@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 8
 raw: "raw/Rethinking Arthur Burns, the \"Worst\" Fed Chair in History.md"
+source_url: "https://democracyjournal.org/magazine/67/rethinking-arthur-burns-the-worst-fed-chair-in-history/"
 author: "Jack Meserve"
 published: 2022-09-26
 ---
+
+
+[Original source](https://democracyjournal.org/magazine/67/rethinking-arthur-burns-the-worst-fed-chair-in-history/)
 
 ## Summary
 

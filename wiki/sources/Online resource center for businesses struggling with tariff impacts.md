@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Online resource center offers help for Washtenaw County businesses struggling with tariff impacts – Concentrate.md"
+source_url: "https://www.secondwavemedia.com/concentrate/innovationnews/online-resource-center-offers-help-for-washtenaw-county-businesses-struggling-with-tariff-impac.aspx"
 author: "Jaishree Drepaul; Newsroom"
 published: 2025-07-22
 ---
+
+
+[Original source](https://www.secondwavemedia.com/concentrate/innovationnews/online-resource-center-offers-help-for-washtenaw-county-businesses-struggling-with-tariff-impac.aspx)
 
 ## Summary
 

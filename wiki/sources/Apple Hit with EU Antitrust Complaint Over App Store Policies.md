@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Apple hit with EU antitrust complaint over App Store policies.md"
+source_url: "https://macdailynews.com/2025/10/22/apple-hit-with-eu-antitrust-complaint-over-app-store-policies/"
 author: "MacDailyNews Webmaster"
 published: 2025-10-22
 ---
+
+
+[Original source](https://macdailynews.com/2025/10/22/apple-hit-with-eu-antitrust-complaint-over-app-store-policies/)
 
 ## Summary
 Two civil rights organizations (Article 19 and Germany's Society for Civil Rights) filed an EU antitrust complaint against Apple, accusing it of violating the Digital Markets Act through App Store terms that effectively price out small developers via a mandatory €1 million standby letter of credit (SBLC) requirement.

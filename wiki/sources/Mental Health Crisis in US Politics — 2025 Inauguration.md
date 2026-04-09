@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Mental Health Crisis in U.S. Politics 2025 Presidential Inauguration.md"
+source_url: "https://neurostimtms.com/mental-health-crisis-politics-2025-inauguration/"
 author: "Torreya Simon / NeuroStim TMS"
 published: 2025-01-15
 ---
+
+
+[Original source](https://neurostimtms.com/mental-health-crisis-politics-2025-inauguration/)
 
 ## Summary
 A NeuroStim TMS (Transcranial Magnetic Stimulation) clinic's analysis of political stress heading into Trump's second inauguration. Synthesizes research on political stress, social media amplification, and marginalized community impacts, while offering coping strategies. Notable for citing Kevin B. Smith's research finding that approximately 5% of Americans have reported considering suicide due to the political climate.

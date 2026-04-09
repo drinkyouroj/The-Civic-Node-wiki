@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Shut Your App How Uncle Sam Jawboned Big Tech Into Silencing Americans - U.S. Senate Committee on Commerce, Science, & T.md"
+source_url: "https://www.commerce.senate.gov/2025/10/shut-your-app-how-uncle-sam-jawboned-big-tech-into-silencing-americans"
 author: "U.S. Senate Committee on Commerce, Science, and Transportation"
 published: 2025-10-08
 ---
+
+
+[Original source](https://www.commerce.senate.gov/2025/10/shut-your-app-how-uncle-sam-jawboned-big-tech-into-silencing-americans)
 
 ## Summary
 

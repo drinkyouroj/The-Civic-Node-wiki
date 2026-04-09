@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Frontiers Algorithmic influence and media legitimacy a systematic review of social media's impact on news production.md"
+source_url: "https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1667471/full"
 author: "Hastuti; Maulana; Harry Fajar; Lawelai; Herman; Suherman; Ansar"
 published: 2025-10-14
 ---
+
+
+[Original source](https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1667471/full)
 
 ## Summary
 

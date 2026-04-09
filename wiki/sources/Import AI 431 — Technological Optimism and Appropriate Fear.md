@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Import AI 431 Technological Optimism and Appropriate Fear.md"
+source_url: "https://jack-clark.net/2025/10/13/import-ai-431-technological-optimism-and-appropriate-fear/"
 author: "Jack Clark"
 published: 2025-10-13
 ---
+
+
+[Original source](https://jack-clark.net/2025/10/13/import-ai-431-technological-optimism-and-appropriate-fear/)
 
 ## Summary
 

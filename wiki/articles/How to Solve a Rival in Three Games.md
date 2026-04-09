@@ -7,7 +7,11 @@ published: 2026-01-18
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/How to Solve a Rival in Three Games.md"
+source_url: "https://drinkyouroj.substack.com/p/how-to-solve-a-rival-in-three-games"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/how-to-solve-a-rival-in-three-games)
 
 ## What It Is
 

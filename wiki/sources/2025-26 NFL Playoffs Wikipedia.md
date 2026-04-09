@@ -4,11 +4,15 @@ type: source
 tags: [nfl, playoffs, seahawks, super-bowl]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/2025–26 NFL playoffs - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/2025%E2%80%9326_NFL_playoffs"
 author: "Wikipedia"
 published: 2026-01-01
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/2025%E2%80%9326_NFL_playoffs)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/The trends that will shape AI and tech in 2026 IBM.md"
+source_url: "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026"
 author: "Anabelle Nicoud"
 published: 2026-01-01
 ---
+
+
+[Original source](https://www.ibm.com/think/news/ai-tech-trends-predictions-2026)
 
 ## Summary
 

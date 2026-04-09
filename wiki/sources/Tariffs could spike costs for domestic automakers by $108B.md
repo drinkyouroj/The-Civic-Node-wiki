@@ -4,11 +4,15 @@ type: source
 tags: [economics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Tariffs could spike costs for domestic automakers by $108B.md"
+source_url: "https://www.automotivedive.com/news/trump-tariffs-increase-domestic-automotive-production-costs/746523/"
 author: "Kalena Thomhave; Larry Avila"
 published: 2025-04-29
 ---
+
+
+[Original source](https://www.automotivedive.com/news/trump-tariffs-increase-domestic-automotive-production-costs/746523/)
 
 ## Summary
 

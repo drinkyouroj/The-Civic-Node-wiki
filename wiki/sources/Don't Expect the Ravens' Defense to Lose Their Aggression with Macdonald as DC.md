@@ -4,11 +4,15 @@ type: source
 tags: [nfl, ravens, macdonald, defense, scheme, baltimore]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Don't Expect the Ravens' Defense To Lose Their Aggression with Mike Macdonald at Defensive Coordinator.md"
+source_url: "https://www.baltimorebeatdown.com/2022/2/2/22914711/dont-expect-the-ravens-defense-to-lose-their-aggression-with-mike-macdonald-at-defensive-coordinator"
 author: "Kyle Phoenix"
 published: 2022-02-02
 ---
+
+
+[Original source](https://www.baltimorebeatdown.com/2022/2/2/22914711/dont-expect-the-ravens-defense-to-lose-their-aggression-with-mike-macdonald-at-defensive-coordinator)
 
 ## Summary
 

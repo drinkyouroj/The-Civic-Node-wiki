@@ -11,7 +11,11 @@ published: 2025-07-12
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Collision Course.md"
+source_url: "https://drinkyouroj.substack.com/p/the-collision-course"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-collision-course)
 
 ## Argument
 

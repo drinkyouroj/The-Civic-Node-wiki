@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Live updates Vance hosts 'Charlie Kirk Show,' shooting investigation, latest Trump news CNN Politics [cnn.com].md"
+source_url: "https://www.cnn.com/politics/live-news/trump-presidency-charlie-kirk-repercussions-09-15-25#cmfllzbqj00003b6oedcvt6ss"
 author: "CNN Politics live blog"
 published: 2025-09-15
 ---
+
+
+[Original source](https://www.cnn.com/politics/live-news/trump-presidency-charlie-kirk-repercussions-09-15-25#cmfllzbqj00003b6oedcvt6ss)
 
 ## Summary
 CNN live blog from September 15, 2025 (5 days after the Kirk assassination) covering the investigation, Vance hosting Kirk's podcast, Trump's funeral plans, and multiple related developments. Key revelations: suspect Tyler Robinson confessed in a Discord chat; FBI Director Kash Patel gave unusual public details about the case; DOJ weighing federal charges.

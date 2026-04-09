@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Consumer advocate group slams Genius Act.md"
+source_url: "https://www.paymentsdive.com/news/cryptocurrency-stablecoins-consumer-advocate-genius-act/753555/"
 author: "Tatiana Walk-Morris, Lynne Marek (Payments Dive)"
 published: 2025-07-21
 ---
+
+
+[Original source](https://www.paymentsdive.com/news/cryptocurrency-stablecoins-consumer-advocate-genius-act/753555/)
 
 ## Summary
 

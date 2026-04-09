@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/GENIUS Act Becomes Law.md"
+source_url: "https://natlawreview.com/article/genius-act-becomes-law"
 author: "Various"
 published: 2025-07-18
 ---
+
+
+[Original source](https://natlawreview.com/article/genius-act-becomes-law)
 
 ## Summary
 

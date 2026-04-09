@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Seahawks are biggest threat to overthrow the NFC.md"
+source_url: "https://www.seasidejoe.com/p/seahawks-mike-macdonald-defense-sam-darnold"
 author: "Seaside Joe"
 published: 2025-09-29
 ---
+
+
+[Original source](https://www.seasidejoe.com/p/seahawks-mike-macdonald-defense-sam-darnold)
 
 ## Summary
 

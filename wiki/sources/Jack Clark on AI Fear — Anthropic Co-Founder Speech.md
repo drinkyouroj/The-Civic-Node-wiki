@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Co-founder of AI giant Anthropic makes chilling prediction as more Aussies fear the worst.md"
+source_url: "https://au.finance.yahoo.com/news/anthropic-co-founders-chilling-prediction-as-growing-number-of-aussies-fear-the-worst-deeply-afraid-231420154.html"
 author: "Stewart Perrie"
 published: 2025-10-15
 ---
+
+
+[Original source](https://au.finance.yahoo.com/news/anthropic-co-founders-chilling-prediction-as-growing-number-of-aussies-fear-the-worst-deeply-afraid-231420154.html)
 
 ## Summary
 

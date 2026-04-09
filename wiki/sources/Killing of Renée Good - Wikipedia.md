@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Killing of Renée Good - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good"
 author: "Wikipedia contributors"
 published: 2026-01-07
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good)
 
 ## Summary
 Comprehensive Wikipedia article on the January 7, 2026 killing of Renée Nicole Good — a 37-year-old U.S. citizen, writer, and poet — by ICE agent Jonathan Ross during Operation Metro Surge in Minneapolis. Covers the full timeline: pre-shooting surveillance, conflicting ICE orders, the shooting itself, post-shooting evidence tampering concerns, the federal-state investigation standoff, mass protests, DOJ prosecutor resignations, and the ongoing legal battles. The Trump administration defended the shooting before any investigation; video analysis by multiple outlets contradicted official accounts.

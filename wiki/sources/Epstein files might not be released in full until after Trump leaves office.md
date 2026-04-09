@@ -4,11 +4,15 @@ type: source
 tags: [politics, power, epstein, doj]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Epstein files might not be released in full until after Trump leaves office.md"
+source_url: "https://www.newsweek.com/epstein-files-release-in-full-trump-office-11313488"
 author: ""
 published: 2026-01-05
 ---
+
+
+[Original source](https://www.newsweek.com/epstein-files-release-in-full-trump-office-11313488)
 
 ## Summary
 Analysis suggesting that at the pace of review and release, full Epstein file disclosure may not occur before Trump leaves office in January 2029, effectively making complete transparency functionally impossible during this administration.

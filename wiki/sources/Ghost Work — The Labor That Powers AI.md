@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, labor, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Ghost Work the Labor that Powers AI.md"
+source_url: "https://medium.com/mit-initiative-on-the-digital-economy/ghost-work-the-labor-that-powers-ai-652b01833e61"
 author: "Paula Klein (reporting on Siddharth Suri presentation)"
 published: 2021-04-11
 ---
+
+
+[Original source](https://medium.com/mit-initiative-on-the-digital-economy/ghost-work-the-labor-that-powers-ai-652b01833e61)
 
 ## Summary
 

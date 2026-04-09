@@ -4,11 +4,15 @@ type: source
 tags: [monetary-policy, technology, crypto, geopolitics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Central Bank Digital Currency Tracker.md"
+source_url: "https://www.atlanticcouncil.org/cbdctracker/"
 author: "Atlantic Council"
 published: 2026-04-07
 ---
+
+
+[Original source](https://www.atlanticcouncil.org/cbdctracker/)
 
 ## Summary
 

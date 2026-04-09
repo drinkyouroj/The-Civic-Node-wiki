@@ -7,7 +7,11 @@ published: 2026-01-12
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein).md"
+source_url: "https://drinkyouroj.substack.com/p/trump-is-covering-up-the-minneapolis-ice-shooting-just-like-hes-covering-up-epstein"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/trump-is-covering-up-the-minneapolis-ice-shooting-just-like-hes-covering-up-epstein)
 
 ## What It Is
 

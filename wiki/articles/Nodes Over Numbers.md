@@ -7,7 +7,11 @@ published: 2026-01-27
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Nodes Over Numbers.md"
+source_url: "https://drinkyouroj.substack.com/p/nodes-over-numbers"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/nodes-over-numbers)
 
 ## What It Is
 

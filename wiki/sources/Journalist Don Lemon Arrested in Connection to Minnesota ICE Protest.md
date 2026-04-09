@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Journalist Don Lemon arrested in connection to Minnesota ICE protest.md"
+source_url: "https://www.aljazeera.com/news/2026/1/30/journalist-don-lemon-arrested-in-connection-to-minnesota-ice-protest"
 author: "Al Jazeera Staff"
 published: 2026-01-30
 ---
+
+
+[Original source](https://www.aljazeera.com/news/2026/1/30/journalist-don-lemon-arrested-in-connection-to-minnesota-ice-protest)
 
 ## Summary
 Al Jazeera's coverage of Don Lemon's January 30, 2026 arrest in Los Angeles, where he was covering the Grammy Awards. Lemon was charged with conspiracy and FACE Act violations for his presence and reporting at the Cities Church protest in St. Paul on January 18. Press freedom organizations condemned the arrest.

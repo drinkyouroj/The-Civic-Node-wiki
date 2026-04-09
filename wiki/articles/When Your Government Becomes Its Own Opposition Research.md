@@ -10,7 +10,11 @@ published: 2025-11-05
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/When Your Government Becomes Its Own Opposition Research.md"
+source_url: "https://drinkyouroj.substack.com/p/when-your-government-becomes-its-own-opposition-research"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/when-your-government-becomes-its-own-opposition-research)
 
 ## Argument
 The 36-day government shutdown (longest in U.S. history as of the piece's writing) produced a cascade of institutional self-contradiction so complete that Cabinet officials began running "institutional comparison ads against their own institutions." Treasury Secretary Bessent used Bitcoin's uptime to mock the Senate. The Fed admitted it was making monetary policy blind. The SEC approved crypto ETFs through regulatory absence. Each of the ten documented incidents is a symptom of the same pattern: a system running on incoherence rather than principle, where rules apply with precision to the powerless and become suggestions for the powerful.

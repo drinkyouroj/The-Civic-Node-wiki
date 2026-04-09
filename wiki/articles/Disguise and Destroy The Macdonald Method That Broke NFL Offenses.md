@@ -7,7 +7,11 @@ published: 2026-01-03
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Disguise and Destroy The Macdonald Method That Broke NFL Offenses.md"
+source_url: "https://drinkyouroj.substack.com/p/disguise-and-destroy-the-macdonald-method-that-broke-nfl-offenses"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/disguise-and-destroy-the-macdonald-method-that-broke-nfl-offenses)
 
 ## What It Is
 

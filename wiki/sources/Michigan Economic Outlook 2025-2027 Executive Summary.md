@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/The Michigan Economic Outlook for 2025–2027 Executive Summary.md"
+source_url: "https://lsa.umich.edu/content/dam/econ-assets/Econdocs/RSQE%20PDFs/RSQE_MI_Economic_Forecast_May2025.pdf"
 author: "Jacob T. Burton, Gabriel M. Ehrlich, Michael R. McWilliams (University of Michigan RSQE)"
 published: 2025-05-16
 ---
+
+
+[Original source](https://lsa.umich.edu/content/dam/econ-assets/Econdocs/RSQE%20PDFs/RSQE_MI_Economic_Forecast_May2025.pdf)
 
 ## Summary
 

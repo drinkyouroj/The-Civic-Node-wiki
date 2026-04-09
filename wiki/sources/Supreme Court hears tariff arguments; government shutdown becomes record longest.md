@@ -4,11 +4,15 @@ type: source
 tags: [politics, government-shutdown, tariffs, elections]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Supreme Court hears arguments on Trump's tariffs; government shutdown becomes record longest.md"
+source_url: "https://www.nbcnews.com/politics/trump-administration/live-blog/2025-elections-shutdown-trump-rcna241423"
 author: "NBC News live blog"
 published: 2025-11-05
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/trump-administration/live-blog/2025-elections-shutdown-trump-rcna241423)
 
 ## Summary
 NBC News live blog from November 5, 2025 covering two major stories: the Supreme Court hearing oral arguments on Trump's tariffs (justices across ideological spectrum skeptical), and the government shutdown hitting day 36 — the longest in US history, beating Trump's own first-term record of 35 days. Also covers post-election analysis showing Democratic sweep.

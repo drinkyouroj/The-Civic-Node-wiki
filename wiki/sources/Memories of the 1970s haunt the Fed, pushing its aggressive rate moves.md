@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Memories of the 1970s haunt the Fed, pushing its aggressive rate moves.md"
+source_url: "https://www.npr.org/2022/09/29/1125462240/inflation-1970s-volcker-nixon-carter-interest-rates-fed"
 author: "Scott Horsley"
 published: 2022-09-29
 ---
+
+
+[Original source](https://www.npr.org/2022/09/29/1125462240/inflation-1970s-volcker-nixon-carter-interest-rates-fed)
 
 ## Summary
 

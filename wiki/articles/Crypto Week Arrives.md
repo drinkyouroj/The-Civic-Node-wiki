@@ -11,7 +11,11 @@ published: 2025-07-15
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Crypto Week Arrives.md"
+source_url: "https://drinkyouroj.substack.com/p/crypto-week-arrives"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/crypto-week-arrives)
 
 ## Argument
 The week of July 14–18, 2025 marks a genuine inflection point for U.S. digital asset policy — three coordinated legislative votes (GENIUS Act, CLARITY Act, Anti-CBDC Surveillance State Act) represent the end of the "regulation-by-enforcement" era and the beginning of explicit U.S. competition for global crypto leadership. The piece frames this as responding to industry demand for "rules of the road" and Bitcoin's surge to ~$123,000 as market validation.

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/FDIC Clarifies Process for Banks to Engage in Crypto-Related Activities FDIC.gov.md"
+source_url: "https://www.fdic.gov/news/press-releases/2025/fdic-clarifies-process-banks-engage-crypto-related-activities"
 author: "FDIC"
 published: 2025-03-28
 ---
+
+
+[Original source](https://www.fdic.gov/news/press-releases/2025/fdic-clarifies-process-banks-engage-crypto-related-activities)
 
 ## Summary
 

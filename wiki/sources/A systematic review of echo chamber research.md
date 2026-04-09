@@ -4,11 +4,15 @@ type: source
 tags: [technology, polarization, media, politics, research]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/A systematic review of echo chamber research comparative analysis of conceptualizations, operationalizations, and varyin.md"
+source_url: "https://link.springer.com/article/10.1007/s42001-025-00381-z"
 author: "Hartmann, David; Wang, Sonja Mei; Pohlmann, Lena; Berendt, Bettina"
 published: 2025-04-07
 ---
+
+
+[Original source](https://link.springer.com/article/10.1007/s42001-025-00381-z)
 
 ## Summary
 Peer-reviewed systematic review published in the Journal of Computational Social Science, synthesizing 129 studies on echo chambers and filter bubbles. Finds no consensus on the existence, causes, or effects of echo chambers — identifies measurement methodology as the primary source of divergence. Studies using computational/homophily methods tend to confirm echo chambers; survey-based content-exposure research often does not. Calls for cross-platform studies, continuous algorithmic audits, and research in multi-party systems beyond the U.S.

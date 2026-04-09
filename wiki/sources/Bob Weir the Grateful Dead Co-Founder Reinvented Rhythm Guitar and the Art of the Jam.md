@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Bob Weir the Grateful Dead co-founder reinvented rhythm guitar and the art of the jam [theconversation.com].md"
+source_url: "https://theconversation.com/bob-weir-the-grateful-dead-co-founder-reinvented-rhythm-guitar-and-the-art-of-the-jam-273265"
 author: "Max Bowden"
 published: 2026-01-12
 ---
+
+
+[Original source](https://theconversation.com/bob-weir-the-grateful-dead-co-founder-reinvented-rhythm-guitar-and-the-art-of-the-jam-273265)
 
 ## Summary
 Academic obituary published by The Conversation following Bob Weir's death on January 10, 2026. Covers Weir's biography, his idiosyncratic approach to rhythm guitar modeled on jazz pianist McCoy Tyner, and his role in founding the jam band genre. Notes his final performances at the Grateful Dead's 60th anniversary just weeks before cancer treatment.

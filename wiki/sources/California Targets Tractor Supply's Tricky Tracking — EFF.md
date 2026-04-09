@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/California Targets Tractor Supply's Tricky Tracking.md"
+source_url: "https://www.eff.org/deeplinks/2025/10/california-targets-tractor-supplys-tricky-tracking"
 author: "Hayley Tsukayama"
 published: 2025-10-07
 ---
+
+
+[Original source](https://www.eff.org/deeplinks/2025/10/california-targets-tractor-supplys-tricky-tracking)
 
 ## Summary
 

@@ -11,7 +11,11 @@ published: 2025-12-12
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Everyone's Farming DePIN Tokens. Almost Nobody's Checking If the Hardware Exists.md"
+source_url: "https://drinkyouroj.substack.com/p/everyone-is-farming-depin-tokens"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/everyone-is-farming-depin-tokens)
 
 ## Argument
 Token incentive systems guarantee optimization for self-reported metrics rather than actual infrastructure — because if rewards flow to claims rather than verified performance, rational actors will optimize claims. This is not a moral failure but an architectural one. The piece argues that the only durable solution is performance-based verification: routing systems that discover what works by demanding hardware prove itself through continuous operation, rather than trusting self-reported attestations.

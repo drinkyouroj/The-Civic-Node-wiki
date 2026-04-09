@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Charlie Kirk assassinated at university event in Utah.md"
+source_url: "https://apnews.com/live/utah-valley-university-charlie-kirk-shooting-updates"
 author: "Bridget Brown; Bill Cormier; Curtis Yee; Sam Burdette; Nell Clark"
 published: 2025-09-11
 ---
+
+
+[Original source](https://apnews.com/live/utah-valley-university-charlie-kirk-shooting-updates)
 
 ## Summary
 AP News live blog of Charlie Kirk's assassination at Utah Valley University on September 10, 2025. Kirk was shot by a single sniper shot fired from the roof of a campus building ~140 yards away during his "American Comeback Tour" event. Approximately 3,000 attended; the shooter remained at large initially. Trump called Kirk a "martyr for truth and freedom" and blamed left-wing rhetoric while omitting Democratic victims of political violence.

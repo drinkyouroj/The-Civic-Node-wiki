@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 12
 raw: "raw/Epic Games v Apple - Wikipedia.md"
+source_url: "https://en.wikipedia.org/wiki/Epic_Games_v._Apple"
 author: "Wikipedia contributors"
 published: 2026-04-08
 ---
+
+
+[Original source](https://en.wikipedia.org/wiki/Epic_Games_v._Apple)
 
 ## Summary
 Comprehensive Wikipedia overview of the Epic Games v. Apple antitrust litigation (2020-2025). Epic challenged Apple's 30% commission, mandatory IAP, and anti-steering rules; Judge Yvonne Gonzalez Rogers ruled 9-of-10 counts for Apple in September 2021 but found anti-steering provisions violated California's UCL. Ninth Circuit affirmed (April 2023); SCOTUS denied cert (January 2024). In April 2025 Judge Rogers found Apple "willfully" violated her injunction by imposing a 27% fee on external links plus "scare screens," and ordered all fees and restrictions eliminated. Fortnite returned to iOS May 20, 2025. The case is the cleanest legal record we have of a platform owner's fee architecture being broken open by a court — and of the chokepoint reconstituting itself in compliance form before being broken open again.

@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Solana project CEO says 'sybil attackers' gamed metric hoping for airdrop.md"
+source_url: "https://protos.com/solana-project-ceo-says-sybil-attackers-gamed-metric-hoping-for-airdrop/"
 author: "Mark Toon / Protos"
 published: 2024-04-29
 ---
+
+
+[Original source](https://protos.com/solana-project-ceo-says-sybil-attackers-gamed-metric-hoping-for-airdrop/)
 
 ## Summary
 

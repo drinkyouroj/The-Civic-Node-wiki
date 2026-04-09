@@ -10,7 +10,11 @@ published: 2025-09-12
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Replay. Retweet. Rage.md"
+source_url: "https://drinkyouroj.substack.com/p/replay-retweet-rage"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/replay-retweet-rage)
 
 ## Argument
 Political assassination has become a "sustainable content vertical" — algorithmic platforms treat violence with the same optimization logic as any other high-engagement content category. The Charlie Kirk assassination was not just murder; it was "premium content inventory that algorithms immediately recognized as engagement gold." Fox & Friends' "seek revenge at the ballot box" framing — undercut by simultaneous claims that voting is rigged — functions as a product roadmap for converting grief into a radicalization funnel: create incompatible instructions (use the system; don't trust the system) that manufacture cognitive dissonance, driving audiences toward "alternative methods of political expression" that generate fresh content for the next optimization cycle.

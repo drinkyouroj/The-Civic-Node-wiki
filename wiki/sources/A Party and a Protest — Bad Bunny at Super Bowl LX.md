@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/'A party and a protest' What to expect from Bad Bunny on Super Bowl Sunday.md"
+source_url: "https://www.npr.org/2026/02/06/nx-s1-5563906/bad-bunny-super-bowl-performance-predictions"
 author: "Adriana Gallardo"
 published: 2026-02-06
 ---
+
+
+[Original source](https://www.npr.org/2026/02/06/nx-s1-5563906/bad-bunny-super-bowl-performance-predictions)
 
 ## Summary
 

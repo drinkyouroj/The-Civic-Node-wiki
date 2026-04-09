@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/White House SAP (PDF).md"
+source_url: "https://www.whitehouse.gov/wp-content/uploads/2025/07/SAP-HR1919.pdf"
 author: "Office of Management and Budget"
 published: 2025-07-15
 ---
+
+
+[Original source](https://www.whitehouse.gov/wp-content/uploads/2025/07/SAP-HR1919.pdf)
 
 ## Summary
 

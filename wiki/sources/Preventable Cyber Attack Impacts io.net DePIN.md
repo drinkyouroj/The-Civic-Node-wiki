@@ -4,11 +4,15 @@ type: source
 tags: [crypto, technology, depin, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Preventable Cyber Attack Impacts Io.net.md"
+source_url: "https://cryptodaily.co.uk/2024/05/preventable-cyber-attack-impacts-ionet"
 author: "Crypto Daily"
 published: 2024-05-05
 ---
+
+
+[Original source](https://cryptodaily.co.uk/2024/05/preventable-cyber-attack-impacts-ionet)
 
 ## Summary
 

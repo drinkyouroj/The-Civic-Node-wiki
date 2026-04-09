@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/The Great Inflation.md"
+source_url: "https://www.federalreservehistory.org/essays/great-inflation"
 author: ""
 published: 2025-04-07
 ---
+
+
+[Original source](https://www.federalreservehistory.org/essays/great-inflation)
 
 ## Summary
 

@@ -4,11 +4,15 @@ type: source
 tags: [crypto, bitcoin, technology, media, misinformation]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 13
 raw: "raw/NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back.md"
+source_url: "https://news.bitcoin.com/nyt-claims-bitcoin-creator-satoshi-nakamoto-is-british-cryptographer-adam-back/"
 author: "Jamie Redman"
 published: 2026-04-08
 ---
+
+
+[Original source](https://news.bitcoin.com/nyt-claims-bitcoin-creator-satoshi-nakamoto-is-british-cryptographer-adam-back/)
 
 ## Summary
 

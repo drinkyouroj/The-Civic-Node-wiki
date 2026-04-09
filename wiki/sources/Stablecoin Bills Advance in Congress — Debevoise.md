@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/Stablecoin Bills Advance in Congress as Administration Continues Crypto Push.md"
+source_url: "https://www.debevoise.com/insights/publications/2025/05/stablecoin-bills-advance-in-congress-as-admin"
 author: "Debevoise & Plimpton LLP"
 published: 2025-05-05
 ---
+
+
+[Original source](https://www.debevoise.com/insights/publications/2025/05/stablecoin-bills-advance-in-congress-as-admin)
 
 ## Summary
 

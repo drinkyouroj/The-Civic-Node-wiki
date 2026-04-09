@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Bad Bunny Super Bowl 60 controversy, explained Why NFL kept halftime show despite MAGA backlash.md"
+source_url: "https://www.yahoo.com/entertainment/music/articles/bad-bunny-super-bowl-60-070001226.html"
 author: "Dan Treacy"
 published: 2026-02-09
 ---
+
+
+[Original source](https://www.yahoo.com/entertainment/music/articles/bad-bunny-super-bowl-60-070001226.html)
 
 ## Summary
 

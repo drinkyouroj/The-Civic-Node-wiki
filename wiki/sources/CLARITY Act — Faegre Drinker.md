@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, technology, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/CLARITY Act Shifting Oversight of Digital Assets Classified as Commodities to the CFTC Faegre Drinker Biddle & Reath LLP.md"
+source_url: "https://www.faegredrinker.com/en/insights/publications/2025/6/clarity-act-shifting-oversight-of-digital-assets-classified-as-commodities-to-the-cftc"
 author: "Faegre Drinker Biddle & Reath LLP"
 published: 2025-06-23
 ---
+
+
+[Original source](https://www.faegredrinker.com/en/insights/publications/2025/6/clarity-act-shifting-oversight-of-digital-assets-classified-as-commodities-to-the-cftc)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Fueling the Fire How Social Media Intensifies U.S. Political Polarization – And What Can Be Done About It.md"
+source_url: "https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf"
 author: "Paul M. Barrett, Justin Hendrix, J. Grant Sims (NYU Stern Center for Business and Human Rights)"
 published: 2021-09-01
 ---
+
+
+[Original source](https://bhr.stern.nyu.edu/wp-content/uploads/2024/02/NYUCBHRFuelingTheFire_FINALONLINEREVISEDSep7.pdf)
 
 ## Summary
 NYU Stern Center for Business and Human Rights report finding that Facebook, Twitter, and YouTube are not the original cause of U.S. political polarization (which predates social media), but that platform algorithms intensify "affective polarization" — partisan hatred characterized by seeing opponents as dangerous enemies. The report focuses on asymmetric polarization (right worse than left) and recommends FTC authority, algorithmic transparency mandates, and expanded content moderation.

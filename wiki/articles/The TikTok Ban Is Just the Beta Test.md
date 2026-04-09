@@ -11,7 +11,11 @@ published: 2025-09-09
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The TikTok Ban Is Just the Beta Test.md"
+source_url: "https://drinkyouroj.substack.com/p/the-tiktok-ban-is-just-the-beta-test"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-tiktok-ban-is-just-the-beta-test)
 
 ## Argument
 The Supreme Court's January 2025 ruling upholding TikTok's divest-or-ban law was not really about TikTok or China — it established a precedent that platforms can be governed like territories, that "cognitive sovereignty" (who controls the feed that calibrates beliefs) is now a national security category. The TikTok ban is the beta test for a coming era in which any successful centralized platform can be treated as a foreign adversary. The structural fix isn't better regulation of centralized platforms — it's designing systems where "regulatory target" dissolves because governance is distributed, legible, and resistant to national capture. You can ban a company; you can't ban math.

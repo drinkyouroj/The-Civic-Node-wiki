@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Senate Democrats seek answers on Trump's World Liberty crypto deal ahead of GENIUS Act vote.md"
+source_url: "https://www.cbsnews.com/news/senate-democrats-trump-world-liberty-crypto-deal-genius-act-vote/"
 author: "Madeleine May, Hannah Marr (CBS News)"
 published: 2025-06-11
 ---
+
+
+[Original source](https://www.cbsnews.com/news/senate-democrats-trump-world-liberty-crypto-deal-genius-act-vote/)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/ICE agent's cellphone captures fatal confrontation in Minneapolis CNN.md"
+source_url: "https://www.cnn.com/2026/01/09/us/ice-agent-cellphone-video-minneapolis"
 author: "Holmes Lybrand; Justin Lear; Sarah Dewberry"
 published: 2026-01-09
 ---
+
+
+[Original source](https://www.cnn.com/2026/01/09/us/ice-agent-cellphone-video-minneapolis)
 
 ## Summary
 CNN obtained and analyzed the cellphone video recorded by ICE agent [[Jonathan Ross]] during the fatal shooting of [[Killing of Renée Good|Renée Good]]. The video — originally obtained by conservative outlet Alpha News, then shared by VP Vance — shows Good's car, the agents' commands, and the moments before the shots, but does not clearly establish whether the vehicle made contact with Ross before he fired.

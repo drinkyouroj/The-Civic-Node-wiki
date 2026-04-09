@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Thomas C. Schelling,.md"
+source_url: "https://www.sackett.net/Strategy-of-Conflict.pdf"
 author: "Thomas C. Schelling"
 published: 1960-01-01
 ---
+
+
+[Original source](https://www.sackett.net/Strategy-of-Conflict.pdf)
 
 ## Summary
 

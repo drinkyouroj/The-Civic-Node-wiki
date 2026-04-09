@@ -9,7 +9,11 @@ published: 2025-08-18
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Octopus Mode.md"
+source_url: "https://drinkyouroj.substack.com/p/octopus-mode"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/octopus-mode)
 
 ## Argument
 The octopus — with two-thirds of its neurons distributed across eight semi-autonomous arms, each capable of independent decision-making — is a better model for certain types of neurodivergent cognition than the hierarchical, top-down human brain model. "Octopus mode" is a framework for embracing distributed, parallel, embodied thinking rather than fighting it. The piece argues that this cognitive architecture is not a disorder but an alternative operating system, and that in a world of increasing complexity it may be more valuable than linear thinking.

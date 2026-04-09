@@ -8,8 +8,12 @@ published: 2026-03-29
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Personality Persistence.md"
+source_url: "https://drinkyouroj.substack.com/p/hdfts-personality-persistence"
 featured_ai: MIRA
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/hdfts-personality-persistence)
 
 ## What Happens
 

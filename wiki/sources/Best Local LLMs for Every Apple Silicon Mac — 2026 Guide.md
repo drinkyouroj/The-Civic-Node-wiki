@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, privacy, hardware]
 created: 2026-04-08
 updated: 2026-04-08
-sources: 1
+sources: 7
 raw: "raw/Best Local LLMs to Run On Every Apple Silicon Mac in 2026.md"
+source_url: "https://apxml.com/posts/best-local-llms-apple-silicon-mac"
 author: "Ryan A. (apxml.com)"
 published: 2026-02-01
 ---
+
+
+[Original source](https://apxml.com/posts/best-local-llms-apple-silicon-mac)
 
 ## Summary
 Updated reference guide for local LLM deployment on Apple Silicon, covering the 2026 model landscape including Phi-4 Mini, Qwen3, and DeepSeek R1 671B. Adds practical optimization tips absent from the 2025 edition: the "60% RAM rule," Flash Attention / GQA support, and active cooling guidance. The headline claim: DeepSeek R1 (671B parameters) can now run at Q4 quantization on a 512GB Mac Studio — frontier reasoning capability on consumer hardware.

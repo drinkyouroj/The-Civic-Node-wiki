@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Trump and Powell bicker over Fed building renovations as president ratchets up pressure campaign.md"
+source_url: "https://apnews.com/article/trump-federal-reserve-jerome-powell-145b0189a8c7acaab9fcfb097dc376c9"
 author: "Christopher Rugaber; Josh Boak; Chris Megerian"
 published: 2025-07-24
 ---
+
+
+[Original source](https://apnews.com/article/trump-federal-reserve-jerome-powell-145b0189a8c7acaab9fcfb097dc376c9)
 
 ## Summary
 

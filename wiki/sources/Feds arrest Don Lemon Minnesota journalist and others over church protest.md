@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Feds arrest Don Lemon, Minnesota journalist and 2 others over church protest.md"
+source_url: "https://www.npr.org/2026/01/30/nx-s1-5693756/don-lemon-arrest-cnn-minneapolis"
 author: ""
 published: 2026-01-15
 ---
+
+
+[Original source](https://www.npr.org/2026/01/30/nx-s1-5693756/don-lemon-arrest-cnn-minneapolis)
 
 ## Summary
 Federal charges filed against Don Lemon and a Minnesota journalist plus two others for the protest at the Southern Baptist church whose pastor led the local ICE office. Provides detail on the federal charges brought and the framing of the protest as a federal offense.

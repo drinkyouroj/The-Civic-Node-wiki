@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Democrat Abigail Spanberger wins Virginia governor's race.md"
+source_url: "https://www.nbcnews.com/politics/elections/virginia-governor-election-results-spanberger-earle-sears-race-win-rcna238685"
 author: "Adam Edelman"
 published: 2025-11-05
 ---
+
+
+[Original source](https://www.nbcnews.com/politics/elections/virginia-governor-election-results-spanberger-earle-sears-race-win-rcna238685)
 
 ## Summary
 NBC News report on Abigail Spanberger's election as Virginia's first female governor, defeating Republican Winsome Earle-Sears 57.4%-42.4%. Spanberger's moderate, pragmatic campaign centered on cost of living and public safety, winning independents by 19 points and Latinos 2-to-1 in a state with 300,000+ federal workers.

@@ -9,7 +9,11 @@ published: 2025-08-20
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Anti-Productivity Manifesto.md"
+source_url: "https://drinkyouroj.substack.com/p/the-anti-productivity-manifesto"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-anti-productivity-manifesto)
 
 ## Argument
 Productivity culture is a lie that systematically eliminates the conditions under which genuine creative and intellectual breakthroughs occur. The most valuable mental work happens during the default mode network state — the brain's "wandering" mode — which only activates when not actively task-focused. "Strategic Inefficiency" (deliberately protecting ~20% of time for wandering, idleness, and boredom) is not laziness; it is the design pattern that actually produces innovation, and the most successful companies already use it.

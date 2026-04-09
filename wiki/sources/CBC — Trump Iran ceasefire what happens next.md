@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 10
 raw: "raw/ANALYSIS  Trump, Iran agree to ceasefire. Now what happens?.md"
+source_url: "https://www.cbc.ca/news/world/trump-iran-war-ceasefire-what-happens-next-9.7155718"
 author: "Mike Crawley"
 published: 2026-04-07
 ---
+
+
+[Original source](https://www.cbc.ca/news/world/trump-iran-war-ceasefire-what-happens-next-9.7155718)
 
 ## Summary
 CBC analysis published 90 minutes after Trump announced a two-week ceasefire with Iran in exchange for reopening the Strait of Hormuz. The ceasefire is not a peace deal — both sides have presented incompatible frameworks (Iran's 10-point plan demanding sanctions relief, U.S. troop withdrawal, and asset release; the Trump administration's 15-point plan demanding nuclear rollback, IAEA monitoring, and ballistic missile limits). Iran's foreign minister said safe passage through Hormuz "will be possible via coordinating with Iran's Armed Forces" — and reportedly intends to charge $2M per ship transit. Crawley quotes Georgetown's Nader Hashemi cautioning that "two weeks can pass by very quickly."

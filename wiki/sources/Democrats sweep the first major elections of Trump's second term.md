@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Democrats sweep the first major elections of Trump's second term - live updates CNN Politics.md"
+source_url: "https://www.cnn.com/politics/live-news/election-news-11-04-25"
 author: "CNN Politics live blog"
 published: 2025-11-04
 ---
+
+
+[Original source](https://www.cnn.com/politics/live-news/election-news-11-04-25)
 
 ## Summary
 CNN live blog of the November 4, 2025 elections, covering Democrats' sweep of Virginia governor, New Jersey governor, NYC mayor, and California Prop 50. Includes Trump's and Vance's reactions, post-election press conference statements from Mamdani, Sherrill, and Biden; also notes GOP efforts to tie Democrats nationally to Mamdani.

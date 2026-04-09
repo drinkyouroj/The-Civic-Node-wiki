@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/The Psychological Toll of Perpetual‑Crisis Politics in 2025 America — Simply Put Psych.md"
+source_url: "https://simplyputpsych.co.uk/global-psych/the-psychological-toll-of-perpetualcrisis-politics-in-2025-america"
 author: "JC Pass"
 published: 2025-04-18
 ---
+
+
+[Original source](https://simplyputpsych.co.uk/global-psych/the-psychological-toll-of-perpetualcrisis-politics-in-2025-america)
 
 ## Summary
 Extended essay from Simply Put Psych (a UK-based psychology publication) analyzing how the second Trump presidency is functioning as a chronic public health stressor. Draws on survey data, clinical observations, and political psychology theory to explain five distinct psychological mechanisms of harm, identify which groups bear the heaviest load, and outline pessimistic and hopeful 2025-2030 trajectories. Substantive analysis, not just a news report.

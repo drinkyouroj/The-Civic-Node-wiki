@@ -4,11 +4,15 @@ type: source
 tags: [technology, ai, labor]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Google Search Quality Rater Guidelines Key Insights About AI Use.md"
+source_url: "https://originality.ai/blog/google-search-quality-rater-guidelines-ai"
 author: "Graeme Whiles (Originality.ai)"
 published: 2025-10-23
 ---
+
+
+[Original source](https://originality.ai/blog/google-search-quality-rater-guidelines-ai)
 
 ## Summary
 

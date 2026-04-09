@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Securities Enforcement Roundup – April 2025.md"
+source_url: "https://www.morganlewis.com/pubs/2025/05/securities-enforcement-roundup-april-2025"
 author: "Morgan Lewis"
 published: 2025-05-09
 ---
+
+
+[Original source](https://www.morganlewis.com/pubs/2025/05/securities-enforcement-roundup-april-2025)
 
 ## Summary
 

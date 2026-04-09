@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 6
 raw: "raw/Powell doesn't bow to Trump pressure; US Fed keeps interest rate unchanged - here's what the FOMC statement said - Times.md"
+source_url: "https://timesofindia.indiatimes.com/business/international-business/powell-doesnt-bow-to-trump-pressure-us-fed-keeps-interest-rate-unchanged-heres-what-the-fomc-statement-said/articleshow/123003483.cms"
 author: "TOI Business Desk"
 published: 2025-07-30
 ---
+
+
+[Original source](https://timesofindia.indiatimes.com/business/international-business/powell-doesnt-bow-to-trump-pressure-us-fed-keeps-interest-rate-unchanged-heres-what-the-fomc-statement-said/articleshow/123003483.cms)
 
 ## Summary
 

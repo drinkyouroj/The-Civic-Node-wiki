@@ -4,11 +4,15 @@ type: source
 tags: [politics, legal, power, infrastructure]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 3
 raw: "raw/State-Created Damages Remedies Against Federal Officials.md"
+source_url: "https://statedemocracy.law.wisc.edu/featured/2025/explainer-state-created-damages-remedies-against-federal-officials/"
 author: "Harrison Stark"
 published: 2025-08-01
 ---
+
+
+[Original source](https://statedemocracy.law.wisc.edu/featured/2025/explainer-state-created-damages-remedies-against-federal-officials/)
 
 ## Summary
 State Democracy Research Initiative (U. Wisconsin Law) explainer on "Converse 1983" — state-law damages remedies against federal officials for constitutional violations. With Bivens actions nearly defunct and Section 1983 not covering federal actors, state converse 1983 laws offer a potential remaining avenue for victims of federal constitutional violations to recover money damages. Several states (CA, MA, ME, NJ, IL) already have such laws; ~12 more considering them.

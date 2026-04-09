@@ -11,7 +11,11 @@ published: 2025-07-18
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Anti-CBDC Surveillance State Act.md"
+source_url: "https://drinkyouroj.substack.com/p/the-anti-cbdc-surveillance-state"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-anti-cbdc-surveillance-state)
 
 ## Argument
 H.R. 1919 is the right call: a retail CBDC would create government-controlled programmable money that could monitor every transaction and conditionally restrict spending — the surveillance infrastructure of authoritarian control embedded in the currency itself. The bill (passed House 219-210) prohibits the Federal Reserve from issuing, testing, or studying a retail CBDC and routes the digital dollar future toward private-sector permissionless alternatives. Even if the bill stalls in the Senate, it has rebranded "CBDC" as a political liability on Capitol Hill.

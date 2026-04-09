@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 10
 raw: "raw/What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve.md"
+source_url: "https://www.pbs.org/newshour/show/what-trumps-nomination-of-inflation-hawk-kevin-warsh-means-for-the-federal-reserve"
 author: "Amna Nawaz, Diane Lincoln Estes"
 published: 2026-01-30
 ---
+
+
+[Original source](https://www.pbs.org/newshour/show/what-trumps-nomination-of-inflation-hawk-kevin-warsh-means-for-the-federal-reserve)
 
 ## Summary
 PBS NewsHour interview with David Wessel (Brookings Hutchins Center on Fiscal and Monetary Policy) on the day Trump nominated Kevin Warsh as Fed Chair (Jan 30, 2026). Wessel provides the key biographical and policy framing: Warsh is a **lawyer, not an economist**, appointed to the Fed Board at age 35 by George W. Bush in 2006 (youngest ever), former Morgan Stanley M&A, currently at Hoover Institution. Historically hawkish on rates and balance sheet but "changed his stance" as he "auditioned" for the chair role.

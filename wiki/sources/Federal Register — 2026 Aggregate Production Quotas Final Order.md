@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 8
 raw: "raw/Established Aggregate Production Quotas for Schedule I and II Controlled Substances and Assessment of Annual Needs for the List I Chemicals Ephedrine, Pseudoephedrine, and Phenylpropanolamine for 2026.md"
+source_url: "https://www.federalregister.gov/documents/2026/01/05/2025-24277/established-aggregate-production-quotas-for-schedule-i-and-ii-controlled-substances-and-assessment"
 author: "Drug Enforcement Administration (DOJ)"
 published: 2026-01-05
 ---
+
+
+[Original source](https://www.federalregister.gov/documents/2026/01/05/2025-24277/established-aggregate-production-quotas-for-schedule-i-and-ii-controlled-substances-and-assessment)
 
 ## Summary
 Primary-source Federal Register final order (91 FR 287, document 2025-24277) establishing the 2026 aggregate production quotas (APQs) for Schedule I and II controlled substances and assessments of annual needs (AAN) for List I chemicals. Effective January 5, 2026. This is the annual DEA regulatory action that determines the legal ceiling on how much Adderall, Vyvanse, Ritalin, and other ADHD medications can be produced in the United States. The proposed version was published November 28, 2025; comments closed December 15, 2025.

@@ -4,11 +4,15 @@ type: source
 tags: [politics, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/FACT SHEET The GENIUS Act Protects Consumers United States Committee on Banking, Housing, and Urban Affairs.md"
+source_url: "https://www.banking.senate.gov/newsroom/majority/fact-sheet-the-genius-act-protects-consumers"
 author: "Senate Banking Committee (Republican majority)"
 published: 2025-06-01
 ---
+
+
+[Original source](https://www.banking.senate.gov/newsroom/majority/fact-sheet-the-genius-act-protects-consumers)
 
 ## Summary
 

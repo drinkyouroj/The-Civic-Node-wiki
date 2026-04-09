@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/AI-Driven Personalized Pricing May Not Help Consumers.md"
+source_url: "https://www.cmu.edu/tepper/news/stories/2025/june/ai-driven-personalized-pricing-may-not-help-consumers.html"
 author: "Carnegie Mellon University Tepper School"
 published: 2025-09-08
 ---
+
+
+[Original source](https://www.cmu.edu/tepper/news/stories/2025/june/ai-driven-personalized-pricing-may-not-help-consumers.html)
 
 ## Summary
 Carnegie Mellon University research (published in Marketing Science) finds that personalized ranking systems on e-commerce platforms — which help match consumers to products — may paradoxically lead to higher prices charged by AI pricing algorithms. By reducing price elasticity of demand, personalized rankings reduce competitive incentives to lower prices, potentially harming consumer welfare even without direct price discrimination.

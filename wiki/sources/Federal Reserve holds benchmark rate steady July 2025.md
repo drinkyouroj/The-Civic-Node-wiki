@@ -4,11 +4,15 @@ type: source
 tags: [monetary-policy, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Federal Reserve holds its benchmark rate steady at today's FOMC meeting.md"
+source_url: "https://www.cbsnews.com/news/federal-reserve-meeting-today-fed-fomc-interest-rate-trump-powell/"
 author: "Aimee Picchi"
 published: 2025-07-30
 ---
+
+
+[Original source](https://www.cbsnews.com/news/federal-reserve-meeting-today-fed-fomc-interest-rate-trump-powell/)
 
 ## Summary
 

@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Ending the era of uncertainty Congress delivers for crypto.md"
+source_url: "https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7957"
 author: "Chairman French Hill and Chairman G.T. Thompson"
 published: 2025-07-14
 ---
+
+
+[Original source](https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7957)
 
 ## Summary
 

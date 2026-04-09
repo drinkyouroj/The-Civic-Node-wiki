@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/NFL Insider Details How the Seahawks Built Their Super Bowl Contender.md"
+source_url: "https://www.si.com/nfl/seahawks/onsi/nfl-insider-details-how-the-seahawks-built-their-super-bowl-contender-01kgn8yb44zt"
 author: "Russell Baxter"
 published: 2026-02-04
 ---
+
+
+[Original source](https://www.si.com/nfl/seahawks/onsi/nfl-insider-details-how-the-seahawks-built-their-super-bowl-contender-01kgn8yb44zt)
 
 ## Summary
 

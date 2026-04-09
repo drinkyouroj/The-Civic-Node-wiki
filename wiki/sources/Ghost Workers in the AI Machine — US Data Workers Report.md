@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/New Report Details Exploitative Working Conditions of U.S. Data Workers Behind The Big Tech AI Boom.md"
+source_url: "https://www.alphabetworkersunion.org/press/new-report-details-exploitative-working-conditions-of-u-s-data-workers-behind-the-big-tech-ai-boom"
 author: "Alphabet Workers Union-CWA Local 9009"
 published: 2025-09-30
 ---
+
+
+[Original source](https://www.alphabetworkersunion.org/press/new-report-details-exploitative-working-conditions-of-u-s-data-workers-behind-the-big-tech-ai-boom)
 
 ## Summary
 

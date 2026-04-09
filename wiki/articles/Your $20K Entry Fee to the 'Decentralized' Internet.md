@@ -11,7 +11,11 @@ published: 2025-08-30
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/Your $20K Entry Fee to the 'Decentralized' Internet.md"
+source_url: "https://drinkyouroj.substack.com/p/your-20k-entry-fee-to-the-decentralized"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/your-20k-entry-fee-to-the-decentralized)
 
 ## Argument
 Gala Games' new staking requirement — 1 million $GALA tokens (~$20,000) per Founder Node to receive full rewards — exemplifies a predictable pattern across crypto networks: they begin with accessible, contribution-based participation and drift toward capital-gated oligarchy. The shift from rewarding uptime and network contribution to requiring massive token holdings converts node operators from "network stewards" into "capital allocators." The piece argues this pattern (GPU mining → proof-of-stake, Gala → million-token minimum) is structural, not incidental, and that delegation mechanisms like Gala's planned $GSTAKE lending program are the only architectural escape valve — but may themselves become extractive.

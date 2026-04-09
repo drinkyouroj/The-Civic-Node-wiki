@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 4
 raw: "raw/Bill Belichick's Patriots legacy The NFL's greatest dynasty.md"
+source_url: "https://www.espn.com/nfl/story/_/id/39260168/bill-belichick-new-england-patriots-legacy-nfl-greatest-dynasty-innovation-tom-brady"
 author: "Bill Barnwell"
 published: 2024-01-11
 ---
+
+
+[Original source](https://www.espn.com/nfl/story/_/id/39260168/bill-belichick-new-england-patriots-legacy-nfl-greatest-dynasty-innovation-tom-brady)
 
 ## Summary
 

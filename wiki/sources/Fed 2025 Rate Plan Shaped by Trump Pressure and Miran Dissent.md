@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Fed's 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent.md"
+source_url: "https://www.ainvest.com/news/fed-2025-rate-plan-shaped-trump-pressure-miran-dissent-2510/"
 author: "Coin World / Ainvest"
 published: 2025-10-08
 ---
+
+
+[Original source](https://www.ainvest.com/news/fed-2025-rate-plan-shaped-trump-pressure-miran-dissent-2510/)
 
 ## Summary
 

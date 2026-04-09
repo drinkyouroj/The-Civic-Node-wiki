@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 1
 raw: "raw/Human labor is propping up some companies' fake AI software.md"
+source_url: "https://www.technologyreview.com/2018/07/06/141570/human-labor-is-propping-up-some-companies-fake-ai-software/"
 author: "Erin Winick"
 published: 2018-07-06
 ---
+
+
+[Original source](https://www.technologyreview.com/2018/07/06/141570/human-labor-is-propping-up-some-companies-fake-ai-software/)
 
 ## Summary
 

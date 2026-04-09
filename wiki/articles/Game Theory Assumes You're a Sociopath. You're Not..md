@@ -7,7 +7,11 @@ published: 2026-02-05
 created: 2026-04-06
 updated: 2026-04-06
 source: "published/Game Theory Assumes You're a Sociopath. You're Not..md"
+source_url: "https://drinkyouroj.substack.com/p/game-theory-assumes-youre-a-sociopath"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/game-theory-assumes-youre-a-sociopath)
 
 ## What It Is
 

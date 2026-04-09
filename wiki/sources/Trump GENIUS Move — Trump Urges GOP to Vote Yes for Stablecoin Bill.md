@@ -6,9 +6,13 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 5
 raw: "raw/Trump's GENIUS move Donald Trump urges GOP to vote 'Yes' for digital asset bill; says 'all part of MAGA' - Times of Indi.md"
+source_url: "https://timesofindia.indiatimes.com/business/international-business/trumps-genius-move-donald-trump-urges-gop-to-vote-yes-for-digital-asset-bill-says-all-part-of-maga/articleshow/122549937.cms"
 author: "TOI Business Desk"
 published: 2025-07-16
 ---
+
+
+[Original source](https://timesofindia.indiatimes.com/business/international-business/trumps-genius-move-donald-trump-urges-gop-to-vote-yes-for-digital-asset-bill-says-all-part-of-maga/articleshow/122549937.cms)
 
 ## Summary
 

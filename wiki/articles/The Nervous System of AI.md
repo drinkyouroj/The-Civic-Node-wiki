@@ -7,7 +7,11 @@ published: 2025-08-22
 created: 2026-04-07
 updated: 2026-04-07
 source: "published/The Nervous System of AI.md"
+source_url: "https://drinkyouroj.substack.com/p/the-nervous-system-of-ai"
 ---
+
+
+[Read on Substack](https://drinkyouroj.substack.com/p/the-nervous-system-of-ai)
 
 ## Argument
 

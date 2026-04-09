@@ -6,9 +6,13 @@ created: 2026-04-08
 updated: 2026-04-08
 sources: 10
 raw: "raw/Trump is openly targeting innocent civilians.md"
+source_url: "https://reason.com/2026/04/07/trump-is-openly-targeting-innocent-civilians/"
 author: "Matthew Petti"
 published: 2026-04-07
 ---
+
+
+[Original source](https://reason.com/2026/04/07/trump-is-openly-targeting-innocent-civilians/)
 
 ## Summary
 Reason magazine column arguing Trump has dropped the standard U.S. pretense that war and sanctions policy spare civilians, and is now openly bragging about destroying civilian infrastructure. Anchored by Trump's Truth Social post: "A whole civilization will die tonight, never to be brought back again. I don't want that to happen, but it probably will." Petti documents the B1 highway bridge strike (which killed 8 at a family picnic), the Sharif University bombing, the "Stone Age" rhetoric, and the bipartisan continuity with first-Trump and Biden-era civilian-targeting sanctions. The argument: the cruelty isn't new, but the willingness to name it is.

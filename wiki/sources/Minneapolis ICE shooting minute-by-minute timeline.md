@@ -4,11 +4,15 @@ type: source
 tags: [politics, immigration, minnesota, police-violence]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 1
+sources: 2
 raw: "raw/Minneapolis ICE shooting A minute-by-minute timeline of how Renee Nicole Good died.md"
+source_url: "https://abcnews.go.com/US/minneapolis-ice-shooting-minute-minute-timeline-renee-nicole/story?id=129021809"
 author: ""
 published: 2026-01-09
 ---
+
+
+[Original source](https://abcnews.go.com/US/minneapolis-ice-shooting-minute-minute-timeline-renee-nicole/story?id=129021809)
 
 ## Summary
 Reconstructed minute-by-minute timeline of the events leading to and including Renée Good's killing by ICE agent Jonathan Ross. Provides granular account of the 8-minute sequence from first ICE contact to Good's departure by ambulance.
