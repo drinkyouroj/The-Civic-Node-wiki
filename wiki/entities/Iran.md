@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-04-08
-sources: 9
+updated: 2026-04-09
+sources: 13
 ---
 
 ## Overview
@@ -52,10 +52,26 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[CBC — Trump Iran ceasefire what happens next]] — two-week ceasefire; conditional Hormuz reopening; dueling peace plans
 - [[Reason — Trump is openly targeting innocent civilians]] — civilian harm during the pre-ceasefire bombing campaign; Sharif University and B1 bridge strikes
 
+- **April 8–9 ceasefire collapse**: Trump announced a two-week ceasefire late April 8; Israel immediately struck Lebanon (100 targets in 10 minutes); Iran re-closed the Strait in response. WTI oil climbed back to $99.44/barrel within hours. [[Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100]]
+- **Competing peace plans**: Iran's 10-point proposal and Trump's 15-point framework diverge fundamentally on uranium enrichment. Critical discrepancy: the Persian version of Iran's plan states the US "has, in principle, committed to" acceptance of enrichment; the English version omits this phrase entirely. [[Iran Dueling Peace Plans — English vs Persian 10-Point Discrepancy]]
+- **Vance leads Islamabad talks**: Peace negotiations scheduled Saturday in Islamabad (Pakistan). Vance is heading the US delegation. [[Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100]]
+- **US public opinion**: Pew (March 23–29): 60% of Americans unfavorable to Israel (up from 42% in 2022); 77% say Iran conflict is personally important. Pre-ceasefire poll — current numbers likely more unfavorable. [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]]
+- **Congressional war powers**: House Republicans blocked Democrats from even bringing a war powers resolution to the floor (April 9). Senate Democrats committed to a floor vote next week. [[Republicans Block Iran War Powers Resolution — House Adjournment]]
+
+## Source Appearances
+
+- [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — subject of ultimatum; actor in conflict
+- [[CBC — Trump Iran ceasefire what happens next]] — two-week ceasefire; conditional Hormuz reopening; dueling peace plans
+- [[Reason — Trump is openly targeting innocent civilians]] — civilian harm during the pre-ceasefire bombing campaign
+- [[Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100]] — ceasefire collapse; Strait re-closure; oil $99/barrel
+- [[Iran Dueling Peace Plans — English vs Persian 10-Point Discrepancy]] — English/Persian version discrepancy on enrichment; Vance dismisses publicized plan
+- [[Republicans Block Iran War Powers Resolution — House Adjournment]] — congressional response; war powers context
+- [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]] — US public opinion on Israel and the war
+
 ## Open Questions
 
-- What are Iran's actual negotiating demands? What would "a deal" look like?
-- How long can Iran sustain the Strait closure economically?
-- What is Iran doing with oil revenues if the Strait is closed — land routes to China?
-- Has Iran signaled any conditions under which it would reopen the Strait short of a full US withdrawal?
+- Which version of Iran's 10-point plan is the authoritative one — the English or Persian? Is the enrichment commitment real?
+- Will the Islamabad talks produce anything durable given Israel's Lebanon strikes are already undermining the ceasefire?
+- How long can Iran sustain the Strait closure economically? Land routes to China?
+- Will any Senate Republicans defect on the war powers resolution vote next week?
 - What is the state of Iran's nuclear program during the conflict?
