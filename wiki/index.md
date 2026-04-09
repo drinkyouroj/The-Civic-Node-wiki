@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-08
-total_pages: 672
-total_sources: 397
+updated: 2026-04-09
+total_pages: 691
+total_sources: 409
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -78,6 +78,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ### Iran / Geopolitics
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
+- [[Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100]] — PBS/AP, Apr 9 2026; ceasefire collapses within hours; Israel Lebanon strikes; WTI $99.44; Trump "next conquest" framing
+- [[Iran Dueling Peace Plans — English vs Persian 10-Point Discrepancy]] — Al Jazeera, Apr 9 2026; English/Persian version gap on enrichment; Vance "written by ChatGPT"; Islamabad talks Saturday
+- [[Republicans Block Iran War Powers Resolution — House Adjournment]] — USA Today, Apr 9 2026; Chris Smith adjourns chamber; first congressional action since "destroy a civilization" threat
+- [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]] — USA Today, Apr 8 2026; 60% unfavorable (up from 42% in 2022); 80% Democrats; 77% say Iran conflict personally important
 - [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
 
 ### AI / Technology
@@ -117,6 +121,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[CCPA Strikes Back — Tractor Supply $1.35 Million Fine]] — California CCPA enforcement; $1.35M fine; cross-site tracking
 - [[California Targets Tractor Supply's Tricky Tracking — EFF]] — EFF analysis of Tractor Supply CCPA violation; third-party pixel tracking mechanism
 - [[The Role of Narratives in Economics — ProMarket]] — Economic narrative theory; scaffolding for AI hype and polarization analysis
+- [[AI Predicts Heart Disease Five Years Out — Oxford BHF Study]] — Oxford/BHF, Apr 2026; 86% accuracy; 72,000 patients; CT scan fat-texture analysis; 5-year predictive window; NHS rollout under evaluation
+- [[Light Pollution Brightened Earth 16 Percent Since 2014 — Nature Study]] — Nature, Apr 2026; Earth +16% (2014–2022); Ukraine/Gaza light loss as war signal; France -33% via policy; LED blind spot in VIIRS data
+- [[Artemis II Conspiracy Theorists Already Failing — Vice]] — Vice, Apr 2026; crewed lunar loop complete; "dark side" misnomer; misinformation economy framing; algorithmic reward for manufactured doubt
 
 ### AI Hidden Labor
 - [[Amazon Just Walk Out — AI Needed Humans to Do the Job Right]] — Entrepreneur, Apr 5 2024; cashierless AI required 700 human reviewers per 1,000 transactions
@@ -185,6 +192,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]] — Jan 2025 Congress 55-2 vote removing Bitcoin legal tender status; IMF conditionality
 - [[El Salvador y el bitcoin Cristosal 2023]] — Accountability failures; Fidebitcoin opacity; Chivo identity theft documentation
 - [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — 81% tourism growth; Bukele rebranding success separate from Bitcoin
+- [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern
@@ -238,6 +246,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[CLARITY Act One-Pager — House Financial Services Committee]] — Official one-page summary; "Digital Asset Market Clarity Act" formal framing
 
 ### Domestic Politics — Shutdown, Kirk, ICE, Elections
+- [[DOJ OLC Opinion — Presidential Records Act Unconstitutional]] — The Independent, Apr 2 2026; OLC finds PRA unconstitutional; president "need not further comply"; sets up documents fight when Trump leaves office
+- [[Chinese Firm Hired Don Jr Lobbyists, Won CFIUS Ruling Against US Startup]] — Reuters, Apr 9 2026; Grand Pharma; Checkmate/McDowell Don Jr connection; access disparity; CFIUS rejected FastWave on procedural grounds without addressing national security
 - [[Supreme Court clears way for Trump DOJ to wipe out Steve Bannon's conviction]] — USA Today, Apr 6 2026; SCOTUS vacated contempt conviction; conviction erasure as institutional accommodation
 - [[8 arrests in federal crackdown on alleged health care fraud in Southern California]] — AP, Apr 2 2026; Medicare fraud crackdown; federal enforcement as political instrument in California
 - [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — California Gov. press release, Mar 24 2026; state's independent enforcement record; federal oversight defunded
@@ -424,6 +434,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — Consolidates 7 raw files; Dec 18 Week 16 OT thriller; historic 4Q comeback; go-for-2-in-OT (canonical)
 - [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — Consolidates 6 raw files; Jan 3 Week 18; Darnold redemption arc; McCaffrey shutout; Schneider praised (canonical)
 
+### NFL — Antitrust
+- [[DOJ Investigating NFL Over Subscription Fees — Antitrust]] — NBC News, Apr 9 2026; DOJ antitrust investigation; ~$1,000/season for full access; 1961 Sports Broadcasting Act; Sen. Mike Lee triggered; FCC also seeking comment
+
 ### NFL — Dynasty
 - [[Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty]] — ESPN/Barnwell, Jan 11 2024; year-by-year 266-121 dynasty retrospective
 - [[Brady vs. Belichick — Who's To Blame For The Patriots' Insufferable Success]] — FiveThirtyEight, Feb 10 2017; interdependence thesis; statistical analysis
@@ -507,6 +520,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Lisa Cook]] — Fed governor Trump tried to fire; appeals court blocked the removal; central case in for-cause removal limits
 - [[Mikie Sherrill]] — Democratic NJ governor-elect Nov 4 2025; part of the 2025 elections sweep alongside Spanberger and Mamdani
 - [[Clay Fuller]] — GA-14 Trump-endorsed special election winner Apr 7 2026; replaces MTG; House GOP majority becomes 218-214
+- [[Adam Back]] — British cryptographer; Hashcash inventor; Blockstream CEO; NYT's April 2026 Satoshi candidate; denies; SEC disclosure mechanism
+- [[Satoshi Nakamoto]] — Bitcoin's pseudonymous creator; identity unknown 17 years; ~1.1M BTC (~$118B) unmoved; Back named by NYT
 
 ### Organizations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
@@ -538,6 +553,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Strategy MicroStrategy]] — World's largest corporate Bitcoin holder; 628K BTC; preferred stock ecosystem; Michael Saylor's vehicle
 - [[io.net]] — DePIN GPU compute network; 500K→12K GPUs after sybil attack; TEE attestation as proposed solution
 - [[World Liberty Financial]] — Trump-family DeFi protocol (60% stake); USD1 stablecoin issuer; central GENIUS Act conflict of interest
+- [[NASA]] — US space agency; Artemis II crewed lunar loop complete; Black Marble nighttime light satellite program
+- [[Blockstream]] — Bitcoin infrastructure company; Adam Back CEO; $3.2B valuation; $1B raised; Liquid sidechain
+- [[University of Oxford]] — Developed AI cardiac diagnostic tool with BHF; 86% accuracy; 72,000 patients; NHS rollout pending
+- [[British Heart Foundation]] — UK cardiovascular research funder; co-developed Oxford cardiac AI; heart failure second-leading UK killer
+- [[Artemis II]] — NASA crewed lunar loop mission; first humans near moon in ~50 years; active conspiracy theory target
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
@@ -601,6 +621,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Operator View of Crypto Regulation]] — What people who actually build and run crypto products think; five operator-vs-commentator divergences; Tether dollarization, narrow banking, capture risk
 
 ### Diplomacy & Politics
+- [[War Powers Resolution]] — 1973 law giving Congress authority to halt unauthorized military action; never successfully used; House blocked April 9 vote
 - [[Coercive Diplomacy]] — Combining credible threats with negotiated off-ramps; Trump's operating mode
 - [[Coalition Fracture]] — Breakdown of Trump's political coalition under war strain; MTG break as data point
 - [[Focal Point Coordination]] — Shared threats + repeated interaction enable cooperation without enforcement
@@ -610,6 +631,14 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Affordability Populism]] — Politics organized around cost-of-life inputs; Mamdani as the 2025 test case; the analytical concept connecting housing/healthcare/childcare to electoral behavior; Mamdani vs. Spanberger/Sherrill incompatible coalitions
 
 ### AI & Technology
+- [[AI in Healthcare]] — Oxford/BHF CT scan tool; 86% accuracy; 5-year predictive window; NHS rollout; deployment gap as editorial frame
+- [[Misinformation Economy]] — Conspiracy content as monetized product; algorithmic reward for manufactured doubt; Artemis II as live case
+- [[Light Pollution]] — Earth +16% since 2014 (Nature 2026); war signature (Ukraine/Gaza); France -33% via policy; LED measurement blind spot
+- [[Cypherpunk Movement]] — 1990s cryptographer community; Bitcoin's intellectual origin; Back/Szabo/Finney/Todd genealogy
+- [[AI in Healthcare]] — Diagnostic AI; CT scan texture analysis; Oxford 86% cardiac prediction; deployment gap; NHS as population-scale testbed
+- [[Misinformation Economy]] — Conspiracy content as monetized product; algorithmic reward; Artemis II as live case; unfalsifiable standard
+- [[Light Pollution]] — Earth +16% (2014–22, Nature); Ukraine/Gaza war signal; France -33% policy; LED blind spot in VIIRS; geopolitical signal frame
+- [[Cypherpunk Movement]] — 1990s cryptographer community; Bitcoin's origin; Back/Szabo/Finney/Todd genealogy; state-resistant money thesis
 - [[Tech-State Conflict]] — Private AI companies refusing military use; state retaliating with regulatory weapons
 - [[AI Sovereignty]] — Nations competing for AI infrastructure; UK exploiting US-Anthropic rift; on-device inference as individual sovereignty
 - [[On-Device AI]] — Local LLM inference on Apple Silicon; unified memory architecture; quantization; 60% RAM rule; frontier models now on consumer hardware
@@ -769,9 +798,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 397 |
+| Total sources ingested | 409 |
 | Published articles tracked | 82 |
-| Entity pages | 101 |
-| Concept pages | 81 |
+| Entity pages | 107 |
+| Concept pages | 86 |
 | Synthesis pages | 11 (5 audits + 6 insight sweep) |
-| Last updated | 2026-04-08 |
+| Last updated | 2026-04-09 |

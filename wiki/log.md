@@ -5,6 +5,44 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-09] ingest | 8 new sources — Iran ceasefire collapse cluster, DOJ records opinion, China/CFIUS, NFL antitrust
+
+Eight raw files added since the April 9 batch-1 session. All ingested and filed.
+
+**Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100** (PBS/AP, Apr 9): Ceasefire announced April 8; Israel struck Lebanon within hours; Iran re-closed Strait; WTI $99.44; Trump "looking forward to its next Conquest." Created `wiki/sources/Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100.md`.
+
+**Iran Dueling Peace Plans — English vs Persian 10-Point Discrepancy** (Al Jazeera, Apr 9): English/Persian version gap on uranium enrichment is the structural impasse; Vance dismisses publicized plan as "written by ChatGPT"; Islamabad talks Saturday. Created `wiki/sources/Iran Dueling Peace Plans — English vs Persian 10-Point Discrepancy.md`.
+
+**Republicans Block Iran War Powers Resolution — House Adjournment** (USA Today, Apr 9): Chris Smith (R-NJ) adjourned chamber to prevent Democrats from bringing war powers resolution to floor. Senate Democrats to force vote next week. Created `wiki/sources/Republicans Block Iran War Powers Resolution — House Adjournment.md`.
+
+**Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable** (USA Today, Apr 8): 60% unfavorable (up from 42% in 2022); 80% Democrats; 58% Republicans still favorable; 77% say Iran conflict personally important. Pre-ceasefire poll. Created `wiki/sources/Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable.md`.
+
+**DOJ OLC Opinion — Presidential Records Act Unconstitutional** (The Independent, Apr 2): OLC memo tells Trump he "need not further comply" with PRA; legal cover for withholding records when he leaves office. Created `wiki/sources/DOJ OLC Opinion — Presidential Records Act Unconstitutional.md`.
+
+**Chinese Firm Hired Don Jr Lobbyists, Won CFIUS Ruling Against US Startup** (Reuters, Apr 9): Grand Pharma hired Don Jr-adjacent Checkmate; secured CFIUS head meeting; FastWave (US startup with export-controlled laser tech) got only staffer calls; CFIUS rejected FastWave on procedural grounds without addressing national security. Created `wiki/sources/Chinese Firm Hired Don Jr Lobbyists, Won CFIUS Ruling Against US Startup.md`.
+
+**DOJ Investigating NFL Over Subscription Fees — Antitrust** (NBC News, Apr 9): DOJ antitrust probe into NFL streaming fees ($1,000/season for full access); Sen. Mike Lee triggered; 1961 Sports Broadcasting Act question; FCC also seeking comment. Created `wiki/sources/DOJ Investigating NFL Over Subscription Fees — Antitrust.md`.
+
+Updated entity: [[Iran]] (sources 9→13; ceasefire collapse + peace plan discrepancy + war powers + public opinion added). New concept: [[War Powers Resolution]]. Index: 409 sources, 86 concepts. Overview: Iran cluster section updated.
+
+---
+
+## [2026-04-09] ingest | 4 new sources — AI cardiac diagnostics, light pollution, Artemis II conspiracy, NYT/Satoshi
+
+Four raw files added since the April 8 session. All ingested and filed.
+
+**AI Predicts Heart Disease Five Years Out — Oxford BHF Study** (Independent, Apr 8 2026): Oxford/BHF AI tool reads CT scan pericardial fat texture; 86% accuracy; 72,000 patients; 5-year predictive window; NHS rollout under evaluation. Created `wiki/sources/AI Predicts Heart Disease Five Years Out — Oxford BHF Study.md`. New entities: [[University of Oxford]], [[British Heart Foundation]]. New concept: [[AI in Healthcare]].
+
+**Light Pollution Brightened Earth 16 Percent Since 2014 — Nature Study** (Space.com, Apr 9 2026): Nature study using NASA Black Marble data; Earth +16% (2014–2022); war signature (Ukraine, Gaza); France -33% via policy; VIIRS LED blind spot. Created `wiki/sources/Light Pollution Brightened Earth 16 Percent Since 2014 — Nature Study.md`. Updated entity: [[NASA]]. New concept: [[Light Pollution]].
+
+**Artemis II Conspiracy Theorists Already Failing — Vice** (Vice, Apr 8 2026): Artemis II crewed lunar loop complete; "dark side" misnomer exploited by conspiracy producers; algorithmic reward for manufactured doubt. Created `wiki/sources/Artemis II Conspiracy Theorists Already Failing — Vice.md`. New entities: [[NASA]] (updated), [[Artemis II]]. New concept: [[Misinformation Economy]].
+
+**NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage** (Bitcoin.com, Apr 8 2026): NYT investigation names Adam Back; stylometric analysis inconclusive; Back denies 6+ times; SEC disclosure mechanism as live resolution path. Created `wiki/sources/NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage.md`. New entities: [[Adam Back]], [[Satoshi Nakamoto]], [[Blockstream]]. New concept: [[Cypherpunk Movement]]. Updated entity: [[Bitcoin]].
+
+Total new pages: 4 source + 7 entity + 4 concept = 15 pages. Index and stats updated (401 sources, 107 entities, 85 concepts).
+
+---
+
 ## [2026-04-07] lint | NFL cluster fixes from sports-nut audit
 
 Acted on `wiki/syntheses/audit-2026-04-07-sports-nut.md`. NFL cluster owner pass.

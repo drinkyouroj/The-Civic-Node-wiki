@@ -3,8 +3,8 @@ title: "Overview"
 type: overview
 tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health]
 created: 2026-04-06
-updated: 2026-04-08
-sources: 397
+updated: 2026-04-09
+sources: 409
 ---
 
 # Research Overview
@@ -14,7 +14,11 @@ sources: 397
 
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
 
-The wiki has grown from 31 source documents to **397** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
+The wiki has grown from 31 source documents to **409** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
+
+**Update 2026-04-09 (batch 2)**: Eight more sources ingested. **Iran ceasefire collapse**: Trump announced a two-week ceasefire late April 8; Israel struck Lebanon within hours; Iran re-closed the Strait; WTI oil climbed back to $99.44/barrel. Trump described the US military as "looking forward to its next Conquest" — the most triumphal framing of an ongoing war yet. **Competing peace plans**: Iran's 10-point proposal exists in two versions — the Persian text states the US committed to accepting enrichment; the English version omits this entirely. This gap is the structural impasse. Vance leads Islamabad talks Saturday. **Congressional response**: House Republicans blocked Democrats from even bringing a war powers resolution to the floor on April 9 — preventing the vote from becoming a recorded political moment. Senate Democrats committed to a floor vote next week. **Israel public opinion**: Pew (n=3,500, March 23–29): 60% of Americans view Israel unfavorably — up from 42% in 2022. 80% of Democrats unfavorable; 58% of Republicans still favorable but 41% disapproving. **DOJ OLC opinion**: The Presidential Records Act of 1978 is unconstitutional, per a new OLC memo — giving Trump legal cover to withhold records from the National Archives when he leaves office. Same pattern as the Bannon vacatur and Smith appointment ruling: legal architecture of executive impunity built in advance. **China/CFIUS**: A Chinese pharmaceutical firm hired a lobbying firm led by Don Jr.'s hunting buddy, secured direct access to the newly-confirmed CFIUS head, and won a ruling against a US startup — without CFIUS ever addressing the national security question. **NFL antitrust**: DOJ opened an antitrust investigation into the NFL over streaming subscription fees ($1,000/season for full access); triggered by Sen. Mike Lee. New concept page: [[War Powers Resolution]]. Updated entity: [[Iran]] (sources: 9 → 13).
+
+**Update 2026-04-09 (batch 1)**: Four new sources ingested. **AI cardiac diagnostics** ([[University of Oxford]] / [[British Heart Foundation]]): an AI tool reads pericardial fat texture in CT scans with 86% accuracy and a five-year predictive window, validated on 72,000 NHS patients — being evaluated for NHS-wide rollout. The deployment-gap angle is sharp: the tool exists and is validated, but the path from evidence to patient is measured in years. **Light pollution as geopolitical signal** (Nature, Apr 8): Earth's artificial light at night increased 16% from 2014–2022, but the real story is that satellite data now functions as a near-real-time war monitor — Ukraine dimmed after the 2022 invasion, Gaza flickers with each military escalation, France deliberately dimmed 33% through policy. A new concept page, [[Light Pollution]], filed under infrastructure/geopolitics. **Artemis II and the misinformation economy** (Vice, Apr 8): humans flew around the moon for the first time in ~50 years, and a professional conspiracy industry immediately manufactured a "dark side lighting" controversy to monetize the doubt. New concept page: [[Misinformation Economy]] — conspiracy content as algorithmic revenue model, not sincere belief. **NYT names [[Adam Back]] as [[Satoshi Nakamoto]]** (Apr 8): stylometric analysis inconclusive by the analyst's own admission; Back denies six-plus times; the live story is the SEC disclosure mechanism — his Bitcoin treasury company going public through a Cantor Fitzgerald shell may legally compel revelation of BTC holdings. New entities: Adam Back, Satoshi Nakamoto, Blockstream, NASA, University of Oxford, British Heart Foundation, Artemis II. New concepts: [[AI in Healthcare]], [[Light Pollution]], [[Misinformation Economy]], [[Cypherpunk Movement]].
 
 **Update 2026-04-08**: A three-agent insight sweep ([[Insight Sweep — 2026-04-08]]) surfaced five high-value editorial hooks and prompted twelve source acquisitions: the [[Kevin Warsh]] nomination cluster (5 sources), the [[Operation Metro Surge]] City of Minneapolis $203.1M assessment (which corrected a critical $81B → $81M order-of-magnitude error throughout the wiki), the IMF Press Release 24/485 on [[El Salvador]]'s Extended Fund Facility, the Federal Register 2026 APQ Final Order plus the Vermont Law Review and Reason / Ascent Pharmaceuticals coverage of the [[ADHD Medication Shortage]] regulatory weaponization story. The same day's news cycle added five more sources: [[Epic Games v Apple - Wikipedia]] (the App Store as a legally adjudicated chokepoint that reconstituted itself in compliance form), the Trump-Iran two-week ceasefire with reported $2M-per-ship Hormuz transit fees, Reason on Trump's open civilian targeting in Iran, Chris Taylor's Wisconsin Supreme Court win expanding the liberal majority to 5-2, and Trump-endorsed Clay Fuller's GA-14 special election victory tightening the House GOP margin to 218-214.
 
@@ -35,6 +39,8 @@ Key dynamics:
 - **[[Strategic Bitcoin Reserve]]**: Trump EO; BTC + ETH + XRP + SOL reserve assets
 
 The CLARITY Act Senate analog stalled during the October–November 2025 government shutdown; market structure legislation remains the unfinished piece.
+
+**Apr 9 addition**: NYT named [[Adam Back]] (Hashcash inventor, Blockstream CEO) as the most likely [[Satoshi Nakamoto]] on April 8, 2026. Evidence is circumstantial and the stylometric analysis was called inconclusive by its own author. The live story is structural: Back is taking a Bitcoin treasury company public through a Cantor Fitzgerald shell, and if he holds Satoshi's estimated ~1.1M BTC (~$118B), that could constitute material information requiring SEC disclosure. New concept page: [[Cypherpunk Movement]] — the 1990s intellectual community where Bitcoin was designed.
 
 ### 2. Federal Reserve / Monetary Policy (~30 sources)
 
@@ -82,6 +88,9 @@ Adjacent to the labor cluster but distinct:
 - **[[EU AI Act]]** as the global regulatory template; [[Digital Markets Act]] as the structural intervention model
 - **[[Algorithmic Radicalization]]** and **[[Echo Chamber and Polarization]]**: NYU Stern, Facebook internal research, social media as polarization vector
 - **[[Dynamic Pricing AI]]**: tacit collusion via personalized pricing; Carnegie Mellon evidence of consumer welfare harm
+- **[[AI in Healthcare]]** (new Apr 9): Oxford/BHF CT-scan cardiac diagnostic tool; 86% accuracy; 72,000-patient validation; five-year predictive window; NHS rollout under evaluation. Extension to any chest CT is the sleeper angle — passive cardiac screening embedded in scans ordered for unrelated reasons
+- **[[Misinformation Economy]]** (new Apr 9): Artemis II crewed lunar loop as live case study; professional conspiracy producers monetized a "dark side" lighting confusion within days; algorithmic reward structures subsidize doubt-manufacturing as a business model
+- **[[Light Pollution]]** (new Apr 9): Earth +16% (2014–2022, Nature); war signature from orbit — Ukraine, Gaza, Puerto Rico readable in satellite data in near real-time; France -33% through deliberate policy; VIIRS LED blind spot means the actual problem is likely worse than satellite data shows
 
 ### 6. Mental Health / ADHD / Autism (~30 sources)
 
@@ -104,14 +113,17 @@ The Seahawks reached Super Bowl LX (Feb 8, 2026) as NFC champion. ⚠️ **The c
 - **Dynasty framework**: Brady-Belichick benchmark (6 SBs); a defensible dynasty list must include the 1960s Packers (5 titles), the 1980s-90s 49ers (5 SBs across two HCs), and the current Reid-Mahomes Chiefs (3 SBs in 6 seasons). The Chiefs are the relevant 2026 counter-case: their continuity exists but they are personnel-first / Mahomes-centered, not architecture-first. The 2025 Seahawks fit "potential dynasty window opening," not "dynasty achieved."
 - **The 2025–26 season arc**: Dec 18 Rams OT comeback (38-37); Jan 3 Week 18 13-3 win over 49ers clinches NFC West and #1 seed; Jan 17 Divisional Round 41-6 over 49ers; Jan 26 NFC Championship 31-27 over Rams; Feb 8 Super Bowl LX appearance (game outcome unsourced in this cluster)
 
-### 8. Iran War & Geopolitical Infrastructure (~10 sources)
+### 8. Iran War & Geopolitical Infrastructure (~13 sources)
 
-Active near-term story. [[Donald Trump]] launched US-Israeli strikes on [[Iran]] February 28, 2026. Iran responded by closing the [[Strait of Hormuz]] and expanding strikes to Gulf energy infrastructure (Kuwait, UAE, Bahrain) on April 5. Trump's Easter ultimatum: open the Strait by April 8 or face strikes on power plants and bridges.
+Active, rapidly evolving story. [[Donald Trump]] launched US-Israeli strikes on [[Iran]] February 28, 2026. Iran responded by closing the [[Strait of Hormuz]] and expanding strikes to Gulf energy infrastructure. Trump announced a two-week ceasefire on April 8 — which collapsed within hours when Israel struck Lebanon, Iran re-closed the Strait, and oil climbed back toward $100/barrel. Peace talks are scheduled for Saturday in Islamabad; Vance leads the US delegation.
 
-- **[[Coercive Diplomacy]]**: simultaneous negotiation framing + maximalist threat
-- **[[Infrastructure Warfare]]**: both sides targeting physical systems
-- **[[War-Driven Inflation]]**: gas up ~37% in 5 weeks
-- **[[Coalition Fracture]]**: MTG broke publicly with Trump; congressional criticism from both parties
+- **[[Coercive Diplomacy]]**: ceasefire announced then immediately undermined by Israel; Trump simultaneously threatening "bigger, better, stronger" attacks while claiming deal is imminent
+- **[[Infrastructure Warfare]]**: both sides targeting physical systems; Strait closure is Iran's primary strategic leverage
+- **[[War-Driven Inflation]]**: WTI $99.44/barrel as of April 9; ceasefire optimism (+3% equities) reversed within hours
+- **[[Coalition Fracture]]**: Israel's Lebanon strikes are the structural problem — Trump can negotiate for the US but cannot control Netanyahu; every Israeli unilateral action forces Iranian response
+- **The enrichment impasse**: Iran's Persian peace plan states the US committed to accepting enrichment; English version omits this. No deal is possible without resolving this gap — it is the war in diplomatic form
+- **Public opinion**: Pew (March 23–29): 60% of Americans unfavorable to Israel; 80% of Democrats; 41% of Republicans. 77% say the Iran conflict is personally important — the war has broken through to American public consciousness
+- **Congressional pressure**: House Republicans blocked a war powers resolution on April 9; Senate Democrats forcing a floor vote next week
 
 ### 9. Foundational Texts / Theory (~10 sources)
 
@@ -160,6 +172,9 @@ Primary source documents that anchor analytical concepts elsewhere in the wiki:
 - Are U.S. data workers organizing? What leverage do they have?
 - Does the Murthy v. Missouri 10-year settlement actually constrain CISA's successor mechanisms?
 - Will any jurisdiction reverse course on AI inventorship as systems become more capable?
+- What is the regulatory pathway and timeline for NHS rollout of Oxford's cardiac AI tool? What is the false positive rate — the key metric the published source omits?
+- Does Adam Back's Bitcoin treasury company SEC disclosure process create a legal obligation to reveal BTC holdings if he holds Satoshi's 1.1M BTC? At what point in the public offering process does this become material?
+- Are there other Black Marble satellite applications beyond light pollution — economic activity monitoring, sanctions evasion tracking, conflict reconnaissance?
 
 **Domestic Power**
 - Were ACA subsidies extended in the December 2025 vote?
