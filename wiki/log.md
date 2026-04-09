@@ -5,6 +5,14 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-09] ingest | Trump/NFL/soccer naming — Yahoo Sports (FIFA 2026 World Cup draw)
+
+One source ingested. Trump at the FIFA 2026 World Cup draw (Dec 2025) publicly argued "football" rightfully belongs to soccer and the NFL should rename itself. Performative soft-power play, not policy. Connects to the DOJ NFL antitrust story from the same session.
+
+Created `wiki/sources/Trump Suggests NFL Should Rename Itself as Soccer Is the Real Football — Yahoo Sports.md`. Expanded [[Cultural Politics of Sport]] from stub to full concept page (sources: 0 → 1). Updated [[Donald Trump]] (sources: 35 → 36). Updated index.md, overview.md, log.md.
+
+---
+
 ## [2026-04-09] ingest | 8 new sources — Iran ceasefire collapse cluster, DOJ records opinion, China/CFIUS, NFL antitrust
 
 Eight raw files added since the April 9 batch-1 session. All ingested and filed.

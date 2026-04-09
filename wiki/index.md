@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-09
-total_pages: 691
-total_sources: 409
+total_pages: 692
+total_sources: 410
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -436,6 +436,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ### NFL — Antitrust
 - [[DOJ Investigating NFL Over Subscription Fees — Antitrust]] — NBC News, Apr 9 2026; DOJ antitrust investigation; ~$1,000/season for full access; 1961 Sports Broadcasting Act; Sen. Mike Lee triggered; FCC also seeking comment
+- [[Trump Suggests NFL Should Rename Itself as Soccer Is the Real Football — Yahoo Sports]] — Yahoo Sports, Apr 3 2026; Trump at FIFA 2026 World Cup draw; performative soccer-over-football framing; soft power / cultural politics angle
 
 ### NFL — Dynasty
 - [[Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty]] — ESPN/Barnwell, Jan 11 2024; year-by-year 266-121 dynasty retrospective
