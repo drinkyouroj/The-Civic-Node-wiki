@@ -2,8 +2,12 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-11
-total_pages: 806
+total_pages: 803
 total_sources: 423
+total_entities: 172
+total_concepts: 115
+total_syntheses: 11
+total_articles: 82
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -151,22 +155,18 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### DePIN & Crypto
 - [[Why DePIN Matters — a16z crypto]] — a16z crypto; definitive DePIN framework; verification problem; supply-side vs. demand-side DePIN
 - [[What is DePIN — OSL]] — OSL; introductory DePIN explainer; key protocols and use cases
-- [[Helium Network — Helium.com]] — Official Helium documentation; LoRaWAN coverage; HNT tokenomics
+- [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Helium shortage impacts semiconductor manufacturing; Gulf supply disruption
 - [[Helium's Dirty Secret — HNT News]] — HNT News community blog; Proof of Coverage hacking; mining rings; DePIN verification failure
 - [[Helium HIP-0143 — Decoupling Service Provider Pricing from Governance]] — Helium Improvement Proposal; Nova Labs pricing authority; governance model change
 - [[Helium HNT Tokenomics — Tokenomist]] — Tokenomist; HNT supply/vesting/circulating data
-- [[Render Network — Render Foundation]] — Official Render docs; GPU compute aggregation; creator economy use cases
 - [[Render RENDER Tokenomics — Tokenomist]] — Tokenomist; RENDER supply/cliff vesting data
-- [[Gala Games — Gala.com]] — Official Gala ecosystem overview; GalaChain; gaming/music/film
 - [[Gala GALA CoinMarketCap]] — CoinMarketCap; $GALA ecosystem description
 - [[GalaChain Sees 2.8 Billion GALA Migration]] — Node Staking Program launch; 2.8B GALA migration; June 2025
 - [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; P2P electronic cash; 21M cap; proof of work
 - [[iShares Bitcoin Trust ETF IBIT — BlackRock]] — BlackRock IBIT product page; largest Bitcoin ETF; institutional adoption
 - [[Strategic Bitcoin Reserve]] — EO establishing US Strategic Bitcoin Reserve; BTC + ETH + XRP + SOL holdings
-- [[Trump declares Bitcoin a US Strategic Reserve asset via executive order]] — News coverage of SBR executive order signing
+- [[What to Know About CECOT — El Salvador Mega-Prison]] — El Salvador mega-prison; 40,000 capacity; gangs + dissidents; due process concerns
 - [[Are Cryptocurrencies Currencies — University of Chicago Booth School]] — U Chicago academic paper; Bitcoin adoption failure in El Salvador; 92% non-use rate
-- [[El Salvador Bitcoin experiment has mostly failed. So why is IMF giving it a pass]] — Academic/policy analysis; IMF forced removal of legal tender status; experiment assessment
-- [[How El Salvador's Bitcoin bet has played out — AP]] — AP retrospective on El Salvador Bitcoin experiment; street-level adoption data
 - [[Bitcoin is no longer legal tender in El Salvador — Digital Watch Observatory]] — El Salvador removal of Bitcoin legal tender status; IMF agreement
 - [[Agencia Administradora de Fondos Bitcoin — $212 Million Report]] — El Diario de Hoy; $212M in government Bitcoin income; accounting opacity
 - [[GENIUS Act Passes in US Congress — Morgan Lewis Breakdown]] — Morgan Lewis; most detailed legal breakdown of GENIUS Act provisions
@@ -267,32 +267,28 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Shut Your App — Senate Commerce Committee Jawboning Hearing]] — Cruz Commerce Cmte, Oct 8 2025; links CISA jawboning to AI as next frontier; Carr FCC threat; cross-platform context
 - [[Charlie Kirk assassinated at university event in Utah]] — AP News live blog, Sep 10 2025; assassination at UVU; Kian Kordestani; political fallout
 - [[Conservative activist Charlie Kirk assassinated at Utah university]] — AP retrospective; Kirk's rise from teenage conservative to TPUSA CEO
-- [[ANALYSIS What Charlie Kirk killing means CBC News]] — CBC News analysis; political implications; polarization escalation
+- [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]] — CBC News analysis; political implications; polarization escalation
 - [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]] — Right-wing media and grassroots response; "we're at war" rhetoric
-- [[The Charlie Kirk assassination — what we know]] — Factual reconstruction of Kirk assassination events
-- [[What We Know About the Man Who Shot Charlie Kirk]] — Profile of Kian Kordestani; motive; background
-- [[Murder suspect Kian Kordestani faces charges in Charlie Kirk's death]] — Charges filed; legal proceedings
-- [[Media analysis of Charlie Kirk's assassination]] — Media framing analysis of assassination coverage
-- [[How Charlie Kirk's death exposes the peril of political violence in America]] — Analysis of political violence escalation
-- [[Right-wing response to Charlie Kirk's assassination]] — Right-wing media and political response
-- [[The Right's grievance machine kicks into high gear after Kirk's death]] — Media monetization of grief; radicalization pipeline
-- [[How Right-wing Media Consumed the Death of Charlie Kirk]] — Fox and right-wing media post-Kirk coverage analysis
-- [[Flashback Trump repeatedly praised and defended Charlie Kirk]] — Trump-Kirk relationship history; mourning selectivity
+- [[Charlie Kirk assassinated at university event in Utah]] — Breaking news; Kirk shot at UVU event
+- [[Conservative activist Charlie Kirk assassinated at Utah university]] — Extended coverage; shooting details
+- [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]] — Right-wing response; war rhetoric escalation
+- [[Trump blames rhetoric from left for political violence after killing of Charlie Kirk]] — Trump response; blame-shifting framing
+- [[Trump blames the radical left for Charlie Kirk's killing]] — Companion coverage; blame dynamics
+- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — Trump rally response; revenge rhetoric
 - [[Trump blames rhetoric from left for political violence after killing of Charlie Kirk]] — Trump Oval Office statement; left-blaming framing
-- [[Trump's political impact of Kirk assassination]] — Political impact analysis; Republican fracture dynamics
-- [[Republicans struggle to address 'America First' faction following Kirk's assassination]] — GOP internal conflict post-Kirk
-- [[Senate Republicans delay spending package after Kirk's killing — Politico]] — Shutdown impact; Kirk death delayed CR vote
+- [[Live updates Vance hosts Charlie Kirk Show CNN Politics]] — Vance on Kirk Show; political dynamics
+- [[Live updates Vance hosts Charlie Kirk Show]] — Companion coverage
 - [[Live updates Vance hosts Charlie Kirk Show CNN Politics]] — CNN live blog; day-after coverage; Vance memorial episode
-- [[ICE shooting in Minneapolis - police investigating]] — Breaking news; initial ICE shooting reports
+- [[Minnesota and federal officials no longer cooperating on ICE shooting investigation]] — Cooperation breakdown; ICE shooting investigation
 - [[ICE agent cellphone video undercuts Trump administration account]] — Jonathan Ross's own video contradicted Trump narrative
 - [[ICE agent shoots kills Renee Good in south Minneapolis]] — Breaking news; Renée Good fatal shooting by ICE agent
 - [[Who was Renee Nicole Good the woman killed in ICE Minneapolis shooting]] — Profile of Renée Good; background; family
-- [[Made of sunshine Renee Good wife speaks out]] — Interview with Becca Good; personal tribute
+- [['Made of sunshine' Renee Good's wife speaks out following fatal Minneapolis ICE shooting]] — Becca Good interview; personal tribute
 - [[Killing of Renée Good - Wikipedia]] — Wikipedia comprehensive article; full event reconstruction
 - [[Minneapolis ICE shooting minute-by-minute timeline]] — Reconstructed timeline of Good killing
 - [[Minnesota and federal officials no longer cooperating on ICE shooting investigation]] — Federal-state investigation breakdown; FBI revealing DREAMer detail
 - [[Renee Good family reacts to ICE shooter verdict]] — Family reaction to verdict in Jonathan Ross case
-- [[They're trying to break us Trump focus on Minnesota boils over]] — Political escalation; Trump targeting Minnesota
+- [['They're trying to break us' Trump's focus on Minnesota boils over with ICE shooting]] — Political escalation; Trump targeting Minnesota
 - [[GOP lawmaker demands to know why White House invited family of ICE suspect to State of the Union]] — White House inviting Ross family to SOTU; Republican objection
 - [[Operation Metro Surge - Wikipedia]] — Wikipedia; Operation Metro Surge full documentation; 3,789+ arrests; statistics
 - [[Minnesota legal fight against ICE Operation Metro Surge]] — AG Ellison's multi-pronged legal strategy; injunctions; court orders
@@ -599,6 +595,21 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Tucker Carlson]] — Conservative media figure; Yarvin amplifier; Carlson-to-mainstream NRx pipeline
 - [[Bernie Sanders]] — Senator (I-VT); antiwar position on Iran; Pope Leo alignment
 - [[Corey Caplan]] — Dolomite co-founder; WLFI adviser; conflict of interest in WLFI lending
+- [[Craig Wright]] — Prominent Satoshi Nakamoto candidate; NYT investigation subject
+- [[Hal Finney]] — Cypherpunk; prominent Satoshi Nakamoto candidate; first Bitcoin recipient
+- [[JD Vance]] — Vice President; led US-Iran talks in Islamabad; dismissed Iran peace plan as "written by ChatGPT"
+- [[Jake Auchincloss]] — U.S. Representative (D-MA); Democratic affordability and crypto-policy discussions
+- [[Jerry Garcia]] — Lead guitarist of the Grateful Dead (1942-1995); jam-band lineage cultural touchstone
+- [[John Carreyrou]] — Investigative journalist (WSJ; Theranos/Bad Blood); referenced in Satoshi investigation methodology
+- [[John Mayer]] — Singer-songwriter-guitarist; Dead and Company lead guitarist; pop-to-Dead bridge figure
+- [[Keir Starmer]] — UK Prime Minister; Labour leader; European center-left governance reference point
+- [[Len Sassaman]] — Cypherpunk; prominent Satoshi Nakamoto candidate; NYT investigation subject
+- [[Nick Szabo]] — Cryptographer; Bit Gold inventor; prominent Satoshi Nakamoto candidate
+- [[Peter Todd]] — Bitcoin core developer; prominent Satoshi Nakamoto candidate; NYT investigation subject
+- [[Rick Crawford]] — U.S. Representative (R-AR); House Intelligence Committee chair
+- [[Scott Bessent]] — U.S. Secretary of the Treasury; fiscal policy, sanctions, stablecoin regulation oversight
+- [[Tim Kaine]] — U.S. Senator from Virginia (D); shutdown negotiation coverage
+- [[Tom Brady]] — Retired NFL QB; seven-time Super Bowl champion; NFL Dynasty reference point
 
 ### Organizations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
@@ -658,6 +669,17 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Roc Nation]] — Jay-Z's entertainment/sports agency; produces NFL Super Bowl halftime show since 2019
 - [[Airbnb]] — Short-term rental platform; AI dynamic pricing case study
 - [[US Department of Defense]] — Federal military department; blacklisted Anthropic for refusing military AI
+- [[American Psychological Association]] — Professional body for U.S. psychologists; Stress in America survey publisher
+- [[Bitcoin]] — First and largest cryptocurrency; Strategic Bitcoin Reserve; El Salvador legal-tender experiment
+- [[CFTC]] — U.S. Commodity Futures Trading Commission; derivatives regulator; CLARITY Act pathway
+- [[Cantor Fitzgerald]] — Major US financial services firm; Adam Back Bitcoin treasury company vehicle
+- [[Department of Justice]] — Federal law enforcement; antitrust; houses FBI, DEA, ATF, OLC
+- [[IMF]] — International Monetary Fund; El Salvador Bitcoin Law rollback negotiations; crisis lending
+- [[NFL]] — National Football League; 32 franchises; DOJ antitrust scrutiny; cultural pressure from soccer
+- [[NHS]] — UK National Health Service; population-scale testbed for clinical AI tools
+- [[SEC]] — U.S. Securities and Exchange Commission; crypto jurisdiction pivot in CLARITY Act
+- [[Twitter]] — Social network (X under Musk); echo-chamber and political-polarization research
+- [[University of Connecticut]] — US research university; Nature light pollution study contributor
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
@@ -665,6 +687,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador]] — First country to make Bitcoin legal tender (2021); Bitcoin experiment largely failed; IMF forced removal 2025; Bukele authoritarian consolidation
 - [[Israel]] — US co-belligerent in 2026 Iran war; co-launched Feb 28 2026 strikes; partner in joint operations through Trump's Easter ultimatum
 - [[Hungary]] — Orban's illiberal democracy model; April 2026 election as democratic backsliding test case
+- [[France]] — Light pollution reduction policy; one of few countries to achieve measurable decrease
+- [[Ukraine]] — Invaded by Russia Feb 2022; reshaped European energy policy, NATO dynamics
 
 ### Infrastructure
 - [[Strait of Hormuz]] — World's critical oil chokepoint; closed by Iran Apr 2026; center of current conflict
@@ -717,6 +741,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Petrodollar System]] — Global oil trade priced in USD; recycled into US Treasuries; digital-petrodollar framing is rhetorical not mechanical
 - [[Tokenomics]] — Token economic design; DePIN incentive structures; Helium/Render/Gala case studies; sybil attack vulnerability
 - [[Dollarization via Stablecoins]] — What Tether actually does in Argentina, Turkey, Nigeria, Lebanon, Venezuela; why Circle cannot replace it (KYC perimeter); the strongest version of the hegemony claim
+- [[Datagram Network]] — DePIN project building decentralized internet infrastructure; user's personal project
+- [[Filecoin]] — Decentralized storage network; DePIN reference case; token-incentivized infrastructure deployment
 
 - [[Crypto Week]] — July 14-18 2025 legislative sprint; GENIUS Act + CLARITY Act + Anti-CBDC Act; partisan gradient; executive-legislative coordination
 - [[Anti-CBDC Surveillance State Act]] — H.R. 1919; bans Federal Reserve retail CBDC; 219-210 House vote; codifies Trump EO; "solving a problem that doesn't exist" critique
@@ -746,16 +772,23 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Conspiracy Culture in Government]] — Appointment of conspiracy theorists to federal positions; Phillips teleportation; institutional degradation
 - [[Faith and Militarism]] — Convergence of religious authority and military power; Hegseth Pentagon prayer; Pope Leo counter-narrative
 - [[Jevons Paradox]] — Efficiency gains increase total resource consumption; 1865 coal → 2025 AI; DeepSeek as trigger; labor market implications
+- [[State Power Without Accountability]] — Pattern of federal power exercised without oversight; ICE, Epstein, Trump investigations
+- [[Conflict-of-Interest Gap]] — Stub; expand when dedicated source motivates
+- [[Energy Policy]] — Stub; expand when dedicated source motivates
+- [[Nuclear Deterrence]] — Stub; expand when dedicated source motivates
+- [[Satellite Monitoring]] — Stub; expand when dedicated source motivates
+- [[Moon Landing Denial]] — Stub; Artemis II conspiracy target; expand when dedicated source motivates
+- [[Algorithmic Incentives]] — Stub; expand when dedicated source motivates
 
 ### AI & Technology
-- [[AI in Healthcare]] — Oxford/BHF CT scan tool; 86% accuracy; 5-year predictive window; NHS rollout; deployment gap as editorial frame
-- [[Misinformation Economy]] — Conspiracy content as monetized product; algorithmic reward for manufactured doubt; Artemis II as live case
-- [[Light Pollution]] — Earth +16% since 2014 (Nature 2026); war signature (Ukraine/Gaza); France -33% via policy; LED measurement blind spot
-- [[Cypherpunk Movement]] — 1990s cryptographer community; Bitcoin's intellectual origin; Back/Szabo/Finney/Todd genealogy
 - [[AI in Healthcare]] — Diagnostic AI; CT scan texture analysis; Oxford 86% cardiac prediction; deployment gap; NHS as population-scale testbed
+- [[AI Rights]] — Legal and philosophical question about AI legal personhood, inventorship, or related rights; DABUS as test case
+- [[AI Therapy]] — LLM chatbots as therapy substitutes; response to therapist shortage; efficacy and safety questions
 - [[Misinformation Economy]] — Conspiracy content as monetized product; algorithmic reward; Artemis II as live case; unfalsifiable standard
-- [[Light Pollution]] — Earth +16% (2014–22, Nature); Ukraine/Gaza war signal; France -33% policy; LED blind spot in VIIRS; geopolitical signal frame
+- [[Light Pollution]] — Earth +16% (2014–22, Nature); Ukraine/Gaza war signal; France -33% policy; LED blind spot in VIIRS
 - [[Cypherpunk Movement]] — 1990s cryptographer community; Bitcoin's origin; Back/Szabo/Finney/Todd genealogy; state-resistant money thesis
+- [[EU AI Act]] — European Union's risk-based AI regulatory framework; reference for U.S. crypto and AI policy comparisons
+- [[Surveillance Capitalism]] — Zuboff's frame for data-extraction business model; algorithmic feeds, CBDC threat models, corporate-state collusion
 - [[Tech-State Conflict]] — Private AI companies refusing military use; state retaliating with regulatory weapons
 - [[AI Sovereignty]] — Nations competing for AI infrastructure; UK exploiting US-Anthropic rift; on-device inference as individual sovereignty
 - [[On-Device AI]] — Local LLM inference on Apple Silicon; unified memory architecture; quantization; 60% RAM rule; frontier models now on consumer hardware
@@ -770,6 +803,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Data Privacy Weaponization]] — AI girlfriend breach; BetterHelp; Grindr; behavioral data exploitation; consent gap
 - [[Digital Markets Act]] — EU gatekeeper regulation; Apple SBLC complaint; structural behavioral requirements
 - [[CISA Jawboning]] — Government pressure on platforms to remove speech; censorship-by-proxy; Murthy v. Missouri
+- [[Corporate Personhood]] — Legal doctrine treating corporations as persons; background for AI rights and DABUS discussions
+- [[Stylometric Analysis]] — Computational authorship attribution; applied to Satoshi Nakamoto investigation
+- [[Bitcoin Origin Mystery]] — Who created Bitcoin; NYT investigation; candidate analysis; Back/Finney/Szabo/Todd
 
 ### Mental Health & Culture
 - [[Autistic Masking]] — Suppression of autistic traits; 3x suicide rate; ABA critique; gender diagnosis gap; unmasking movement
@@ -779,6 +815,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Attention Economy]] — How platforms monetize attention; ADHD as systemic response to designed distraction
 - [[Late Diagnosis and Identity]] — Adult autism/ADHD diagnosis; identity reconstruction after decades of masking
 - [[Neurodiversity]] — Framework reframing neurological difference as natural variation rather than pathology
+- [[Applied Behavior Analysis]] — Behavioral therapy for autism; contested within neurodiversity discourse
+- [[Predictive Medicine]] — Stub; AI-driven diagnostic prediction; expand when dedicated source motivates
 
 - [[Jam Band Genre]] — Improvisation-first genre; Grateful Dead as origin; setlist-free performance; Phish/String Cheese descendants
 - [[Improvisational Music]] — Collective real-time composition; jazz + jam band traditions; role of structure vs. freedom
@@ -788,6 +826,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Salary Cap Optimization]] — NFL cap as systems optimization variable, not ceiling; Schneider method as case study
 - [[Defensive Scheme Architecture]] — Architecture-beats-talent thesis; pre-snap disguise; Macdonald's system as primary evidence
 - [[Organizational Continuity]] — Sustained aligned leadership as the hidden variable separating dynasties from one-off champions
+- [[Cultural Politics of Sport]] — Sports institutions intersecting national identity, political power, cultural legitimacy
+- [[NFL Global Expansion]] — NFL's international growth strategy; overseas games, broadcast deals, cultural partnerships
 
 ---
 
@@ -889,7 +929,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Nodes Over Numbers]] — Seahawks 31-49ers 27 NFC Championship; output ≠ outcome; six decision points that sealed the game
 - [[How to Solve a Rival in Three Games]] — Learning systems beat static systems; Seahawks adapted from Week 1 loss to playoff dominance
 - [[The Other One Who Became That Guy]] — Bob Weir's 60-year innovation in "rhythm guitar"; genius hidden in shadow
-- [[13-3 The Box Score That Ended the "Can Seattle's Defense Travel?" Debate]] — 49ers' 42.3 PPG December offense held to 3 points; systematic suffocation
+- [[13-3 The Box Score That Ended the Can Seattle's Defense Travel? Debate]] — 49ers' 42.3 PPG December offense held to 3 points; systematic suffocation
 - [[Disguise and Destroy The Macdonald Method That Broke NFL Offenses]] — Same 25th-ranked roster → 2nd-ranked through architectural changes
 
 ---
@@ -917,9 +957,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 409 |
+| Total sources ingested | 423 |
 | Published articles tracked | 82 |
-| Entity pages | 107 |
-| Concept pages | 86 |
+| Entity pages | 172 |
+| Concept pages | 115 |
 | Synthesis pages | 11 (5 audits + 6 insight sweep) |
-| Last updated | 2026-04-09 |
+| Last updated | 2026-04-11 |

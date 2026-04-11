@@ -1100,3 +1100,47 @@ Created 7 entity stubs: John Perry Barlow (person), Phil Lesh (person), Roger Go
 Created 14 source pages, 13 concept pages (Dark Enlightenment, Neoreaction, The Cathedral, Neocameralism, Accelerationism, RAGE, Jevons Paradox, Manosphere, Influencer Economy, Conspiracy Culture in Government, Faith and Militarism, Illiberal Democracy, Democratic Backsliding), 17+ entity stubs (Yarvin, Land, Thiel, Pope Leo XIV, Hegseth, Samsung, SK Hynix, TSMC, Orban, Magyar, etc.). Updated 7 existing pages with new source appearances.
 
 Total pages: 806 (up from 749).
+
+## [2026-04-11] lint | Duplicate cleanup + full LINT sweep
+
+### Duplicate Cleanup
+Deleted 46 macOS Finder duplicate files ("* 2.md") across wiki/concepts/ (13), wiki/entities/ (28), wiki/sources/ (5). All were byte-identical to originals. None were referenced in index or cross-linked from any wiki page.
+
+### Index Health (Fixed)
+- **23 broken wikilinks** fixed: 3 corrected to actual filenames (smart quote/em-dash mismatches), 20 phantom entries replaced with actual source files or removed
+- **48 orphaned pages** added to index: 28 entities, 20 concepts (all existed on disk but were missing from wiki/index.md)
+- **4 duplicate index entries** removed: AI in Healthcare, Misinformation Economy, Light Pollution, Cypherpunk Movement each appeared twice in AI & Technology section
+- **Stats table updated**: entities 107→172, concepts 86→115, sources 409→423, total_pages 806→803 (net decrease from duplicate removal)
+
+### Contradictions (10 active flags)
+All existing ⚠️ Contradiction flags reviewed — all remain valid and properly documented:
+1. **Seahawks "zero holdovers"** — 9/11 defensive starters were holdovers; marketing language vs. fact
+2. **Arthur Burns** — standard "capitulation" reading vs. revisionist nuance
+3. **Kian Kordestani** — CNN "Tyler Robinson" vs. other sources "Kian Kordestani" name discrepancy
+4. **El Salvador tourism** — headline gains offset by weaker remittances (World Bank)
+5. **Anthropic ARR** — Zitron skepticism vs. Sherwood $7B→$9B acceleration
+6. **California hospice enforcement** — federal anti-fraud vs. political theater framing
+7. **Mechanical Turk Pattern / Leverage Erasure** — productive tension; real vs. simulated automation
+8. **Regulatory Weaponization** — legitimate enforcement vs. political targeting
+
+### Stubs (41 pages)
+41 entity/concept pages with minimal content (< 10 content lines). Most were created to resolve broken wikilinks during ingests. Key stubs worth expanding when sources arrive: IMF (9 source mentions), American Psychological Association (5 mentions), John Mayer (4 mentions), Twitter (3 mentions), Tom Brady (3 mentions).
+
+### Source Count Drift (6 pages)
+6 pages have `sources: 0` in frontmatter but are mentioned in multiple source pages:
+- [[IMF]] — 0 but mentioned in 9 sources
+- [[American Psychological Association]] — 0 but mentioned in 5 sources
+- [[John Mayer]] — 0 but mentioned in 4 sources
+- [[Jerry Garcia]] — 0 but mentioned in 3 sources
+- [[Tom Brady]] — 0 but mentioned in 3 sources
+- [[Twitter]] — 0 but mentioned in 3 sources
+
+### Current Counts
+| Metric | Count |
+|---|---|
+| Sources | 423 |
+| Entities | 172 |
+| Concepts | 115 |
+| Syntheses | 11 |
+| Articles | 82 |
+| Total pages | 803 |
