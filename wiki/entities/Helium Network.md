@@ -1,5 +1,6 @@
 ---
 title: "Helium Network"
+aliases: ["Helium"]
 type: entity
 entity_type: infrastructure
 tags: [technology, infrastructure, crypto, depin]

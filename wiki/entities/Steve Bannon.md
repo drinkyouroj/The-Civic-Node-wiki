@@ -2,10 +2,10 @@
 title: "Steve Bannon"
 type: entity
 entity_type: person
-tags: [politics, trump-allies, january-6, federal-immunity]
+tags: [politics, trump-allies, january-6, federal-immunity, neoreaction]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 5
+sources: 6
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ Steve Bannon, political strategist and Trump ally. Convicted in 2022 for contemp
 
 ## Key Facts
 
-- **2016 campaign**: Political strategist who pushed Trump to embrace populism aggressively
+- **2016 campaign**: Political strategist who pushed Trump to embrace populism aggressively; [[Curtis Yarvin]]'s neoreactionary writings circulated among figures close to Bannon [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]]
 - **October 31, 2020**: Told associates Trump would falsely declare victory even if he lost; said it would be a "firestorm"
 - **January 5, 2021**: Called Trump at least twice; predicted on right-wing talk radio that "all hell is going to break loose tomorrow"
 - **January 6 committee**: Committee sought to question Bannon about his predictions and statements amplifying pressure on VP Pence
@@ -46,3 +46,4 @@ Steve Bannon, political strategist and Trump ally. Convicted in 2022 for contemp
 ## Source Appearances
 
 - [[Supreme Court clears way for Trump DOJ to wipe out Steve Bannon's conviction]] — primary subject; conviction vacated April 6, 2026
+- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]] — Yarvin's writings circulated in Bannon's orbit during 2016 campaign

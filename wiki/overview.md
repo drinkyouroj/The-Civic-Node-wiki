@@ -3,8 +3,8 @@ title: "Overview"
 type: overview
 tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health]
 created: 2026-04-06
-updated: 2026-04-09
-sources: 410
+updated: 2026-04-11
+sources: 423
 ---
 
 # Research Overview
@@ -14,7 +14,9 @@ sources: 410
 
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
 
-The wiki has grown from 31 source documents to **409** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
+The wiki has grown from 31 source documents to **423** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
+
+**Update 2026-04-11**: Fourteen sources ingested across three major clusters. **AI DRAM Crisis** (5 sources): [[OpenAI]] secretly signed simultaneous deals with [[Samsung]] and [[SK Hynix]] for 40% of global DRAM supply (Oct 2025). Neither supplier knew about the other's commitment. This triggered 700% RAM price increases, 13-month DDR5 lead times, and downstream consumer hardware shortages. Google's [[TurboQuant - Redefining AI efficiency with extreme compression|TurboQuant]] paper (Mar 2026) then crashed chip stocks by demonstrating 6x memory compression with zero accuracy loss — a single research paper did more for prices than the entire supply chain. Samsung's 90K-member union is now voting on an 18-day strike over unshared record profits. The cluster maps directly onto the wiki's chokepoint architecture: OpenAI weaponized supply concentration as a competitive moat, and a compression algorithm broke the chokepoint from the demand side. New concept: [[Jevons Paradox]] — the 1865 economics paradox that efficiency gains increase total resource consumption, now being cited by Microsoft CEO Nadella and Stanford's Brynjolfsson as the model for AI's effect on both compute demand and labor markets. **Dark Enlightenment / Neoreaction** (3 sources): [[Curtis Yarvin]] (Mencius Moldbug) and [[Nick Land]] profiled as dual architects of the NRx intellectual movement that now runs through [[Peter Thiel]] → [[JD Vance]] / [[Blake Masters]] → DOGE. Yarvin's [[RAGE (Retire All Government Employees)]] proposal is the explicit intellectual ancestor of current government downsizing. A separate Louis Theroux documentary source maps the [[Manosphere]] as a monetized radicalization pipeline targeting boys as young as 8. **Infrastructure convergence**: Qatar's helium production (33% of global supply) offline from [[Iran]] strikes creates a *second* simultaneous chokepoint on semiconductor production — [[Helium Crisis Tightens Grip On Global Chip Supply Chain|helium for wafer cooling]] + DRAM for memory. [[Pope Leo XIV]] directly confronted Trump on Iran war as 66% of Americans oppose the conflict. **Crypto self-dealing**: [[World Liberty Financial]] deposited 5B of its own governance token on [[Dolomite]] (whose co-founder is a WLFI adviser) to borrow $75M in stablecoins — locking other depositors' funds at 93% pool utilization. New entities: Samsung, SK Hynix, TSMC, Intel, Curtis Yarvin, Nick Land, Peter Thiel, Pope Leo XIV, Viktor Orban, and 8 others. New concepts: Dark Enlightenment, Neoreaction, Jevons Paradox, Manosphere, and 9 others. Total wiki: 806 pages, 423 sources.
 
 **Update 2026-04-09 (batch 3)**: One source ingested. **Trump/NFL/soccer naming**: At the FIFA 2026 World Cup draw in Washington (December 2025), Trump publicly argued that "football" rightfully belongs to soccer and the NFL should find a new name. Not policy — a performative comment before global leaders and FIFA officials. The editorial angle: Trump, who has a long adversarial history with the NFL (anthem protests, etc.), sided with the global majority at an international forum. Taken with the DOJ antitrust probe ingested this session, the NFL is now under pressure on multiple fronts simultaneously. [[Cultural Politics of Sport]] concept expanded from stub with both sources. Updated: [[Donald Trump]] (sources: 35 → 36), [[Cultural Politics of Sport]] (stub → full page).
 
@@ -168,6 +170,7 @@ Primary source documents that anchor analytical concepts elsewhere in the wiki:
 - What does a US-Iran deal look like in practice? What are Iran's actual conditions?
 - How long can Strait closure persist before strategic reserves fail?
 - What did the DoD ask Anthropic to do? Are other AI companies complying?
+- How long can Qatar's helium production remain offline before fab inventories (weeks-to-months) are exhausted?
 
 **AI / Technology**
 - At what point does the Mechanical Turk Pattern become unsustainable?
@@ -177,6 +180,9 @@ Primary source documents that anchor analytical concepts elsewhere in the wiki:
 - What is the regulatory pathway and timeline for NHS rollout of Oxford's cardiac AI tool? What is the false positive rate — the key metric the published source omits?
 - Does Adam Back's Bitcoin treasury company SEC disclosure process create a legal obligation to reveal BTC holdings if he holds Satoshi's 1.1M BTC? At what point in the public offering process does this become material?
 - Are there other Black Marble satellite applications beyond light pollution — economic activity monitoring, sanctions evasion tracking, conflict reconnaissance?
+- Were OpenAI's Samsung/SK Hynix deals binding purchase orders or letters of intent? Sources conflict — the answer determines whether this was market manipulation or legitimate procurement.
+- Does Jevons Paradox apply to AI compute? TurboQuant's 6x compression crashed chip stocks, but if demand is elastic, efficiency will drive more consumption, not less.
+- How deep does Yarvin's intellectual influence actually run in the current administration? Is DOGE an implementation of RAGE, or is the connection rhetorical?
 
 **Domestic Power**
 - Were ACA subsidies extended in the December 2025 vote?

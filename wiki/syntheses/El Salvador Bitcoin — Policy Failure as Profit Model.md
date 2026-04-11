@@ -1,5 +1,5 @@
 ---
-title: "El Salvador Bitcoin: Policy Failure as Profit Model"
+title: "El Salvador Bitcoin — Policy Failure as Profit Model"
 type: synthesis
 tags: [crypto, bitcoin, el-salvador, monetary-policy, geopolitics, stablecoin-legislation]
 created: 2026-04-08

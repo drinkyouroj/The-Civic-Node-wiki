@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
 updated: 2026-04-09
-sources: 36
+sources: 43
 ---
 
 ## Overview
@@ -89,6 +89,10 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - [[Jerome Powell]] — Fed chair Trump attacked and sought to remove
 - [[Federal Reserve]] — institution Trump attempted to capture via appointments and public pressure
 - [[Arthur Burns]] — historical parallel: Nixon pressured Burns as Trump pressures Powell
+- [[Pope Leo XIV]] — primary global adversary on war-and-peace; direct confrontation over Iran war
+- [[Pete Hegseth]] — "secretary of war"; Pentagon prayer session invoking divine violence
+- [[Curtis Yarvin]] — Yarvin's neoreactionary ideas provided intellectual framework for "post-democratic" Trumpist rhetoric
+- [[FEMA]] — Trump pushing to downsize agency; appointed [[Gregg Phillips]] to lead disaster response
 
 ## Source Appearances
 
@@ -115,6 +119,9 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - [[Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill]] — Truth Social "HAPPY CRYPTO WEEK" post; personally met 11 of 12 needed House holdouts; "ALL REPUBLICANS SHOULD VOTE YES"; MAGA framing of crypto regulation; TOI July 16, 2025
 - [[Government shutdown Day 1 CNN Politics October 1 2025]] — used shutdown to cancel $8B in energy grants to Democratic states; no public appearances Day 1
 - [[Government shutdown Day 2 CNN Politics October 2 2025]] — directed RIF (mass firing) list compilation; met with Vought multiple times daily
+- [[Pope Leo Is Speaking Truth to Donald Trumps Power]] — profane Easter threats against Iran; direct confrontation with Pope Leo XIV over war
+- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]] — Yarvin's ideas served as theoretical sources for "post-democratic" Trump rhetoric
+- [[No One at Waffle House Remembers FEMA Official Who Says He Teleported]] — appointed Gregg Phillips to lead FEMA disaster response; pushing to downsize agency
 - [[Trump cuts energy projects California Carlsbad NOTUS]] — energy grants canceled along political lines; White House confirmed it as shutdown leverage
 - [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]] — Q1 GDP -0.3% driven by tariff front-running; Trump used Q2 rebound to pressure Fed
 - [[Economic Effects of Trump Tariffs Penn Wharton Budget Model]] — PWBM tariff package as of April 8, 2025; projects -6% long-run GDP; $22K household lifetime loss

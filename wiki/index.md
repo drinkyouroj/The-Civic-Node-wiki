@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-09
-total_pages: 692
-total_sources: 410
+updated: 2026-04-11
+total_pages: 806
+total_sources: 423
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -75,6 +75,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[US M2 Money Supply YoY Historical Data]] — M2 negative YoY during inflation = supply-shock evidence, not monetary
 - [[Trump cuts energy projects California Carlsbad NOTUS]] — NOTUS methodology; blue-state energy grant cancellation political targeting
 - [[Trump announces massive trade deal with Japan Al Jazeera]] — Japan deal; 15% tariffs; Boeing + agricultural concessions
+- [[CFR — Kevin Warsh Won't Revolutionize the Fed]] — CFR analysis; Warsh nomination; Fed independence and policy outlook
+- [[Commonfund — Fed Watching under Warsh]] — Institutional investor perspective on Warsh-era monetary policy
+- [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]] — Asset manager view; balance sheet implications; forward guidance changes
+- [[PBS NewsHour — What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve]] — NewsHour analysis; Warsh as Powell replacement; rate policy outlook
+- [[The Fulcrum — Warsh's Family Fight Model]] — Warsh's communication philosophy; "family fight" approach to Fed messaging
+- [[Nixon shock - Wikipedia]] — Wikipedia; Bretton Woods end; gold window closure; SWIFT origin
 
 ### Iran / Geopolitics
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
@@ -244,6 +250,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Congress Delivers for Crypto — Hill Op-Ed by Chairman Hill and Thompson]] — The Hill, Jul 14 2025; op-ed by committee chairs French Hill + G.T. Thompson; "national priority" framing; Biden-blame; GENIUS + CLARITY + Anti-CBDC package
 - [[State of Crypto — Government Shutdown Nears a Record]] — CoinDesk Nov 1 2025; shutdown's cascading effect on CLARITY Act Senate timeline; Oct 20 markup missed; Democratic leverage calculus
 - [[CLARITY Act One-Pager — House Financial Services Committee]] — Official one-page summary; "Digital Asset Market Clarity Act" formal framing
+- [[Bitcoin soars past $120,000 ahead of Crypto Week]] — Bitcoin price surge before Crypto Week; market context
+- [[Conservative Crypto Rebellion Breaks — Fox Business]] — Fox Business; right-wing GENIUS Act rebellion; procedural dynamics
+- [[IMF — Staff-Level Agreement with El Salvador on Extended Fund Facility]] — IMF EFF agreement; Bitcoin mandate removal conditions
+- [[US Government Targeting Cryptocurrency Financial Surveillance EFF]] — EFF; government crypto surveillance concerns; privacy implications
 
 ### Domestic Politics — Shutdown, Kirk, ICE, Elections
 - [[DOJ OLC Opinion — Presidential Records Act Unconstitutional]] — The Independent, Apr 2 2026; OLC finds PRA unconstitutional; president "need not further comply"; sets up documents fight when Trump leaves office
@@ -373,6 +383,16 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[State-Created Damages Remedies Against Federal Officials]] — Legal scholarship; Section 1983 implications for federal accountability
 - [[Virginia results map shows where Abigail Spanberger won election]] — Geographic analysis; coalition composition data
 - [[Democrat Abigail Spanberger to make history as Virginia's 1st female governor]] — Historic first; moderate Democrat as governing template
+- [['Made of sunshine' Renee Good's wife speaks out following fatal Minneapolis ICE shooting]] — Human interest; victim profile; ICE shooting aftermath
+- [['They're trying to break us' Trump's focus on Minnesota boils over with ICE shooting]] — Trump targeting Minnesota; ICE shooting political fallout
+- [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]] — CBC analysis; Kirk assassination and polarization dynamics
+- [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] — City analysis; $203M economic impact; one-month enforcement cost
+- [[Comedian John Mulaney postpones Minneapolis show after shooting]] — Cultural ripple effect of ICE shooting
+- [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]] — Federal court ruling; Tenth Amendment; Minnesota v. federal enforcement
+- [[Marjorie Taylor Greene breaks with Republicans over health care in shutdown fight]] — MTG coalition fracture; healthcare vs. shutdown politics
+- [[Marjorie Taylor Greene highlights Trump cavalier attitude toward political threats]] — MTG political violence critique
+- [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]] — Methodology challenges in measuring enforcement economic impact
+- [[Trump Jan 6 pardons rollout explainer source]] — January 6 pardon mechanics and political context
 
 ### Mental Health / ADHD / Autism
 - [[APA Stress in America 2024 — A Nation in Political Turmoil]] — APA/Harris Poll, Oct 2024; 77% cite nation's future as stressor; 56% fear end of democracy
@@ -401,6 +421,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Masking Is Life — Experiences of Masking in Autistic and Nonautistic Adults]] — 2021 peer-reviewed; cross-neurotype masking comparison; 87% autistic adults mask
 - [[Differential Prefrontal Cortex and Amygdala Habituation to Emotional Stimuli]] — PubMed 2001; neuroscience grounding for political stress dynamics; amygdala habituation
 - [[HHS OCR Breach Portal — Health Data Breaches]] — Regulatory context for BetterHelp story; HIPAA gap (HHS had no jurisdiction → FTC did)
+- [[Reason — DEA shuts down drug factory even as Adderall shortage persists]] — Reason; DEA Operation Bottleneck; Ascent Pharmaceuticals shutdown during active shortage
+- [[Federal Register — 2026 Aggregate Production Quotas Final Order]] — Primary source; DEA quota mechanics; stimulant allocation for 2026
+- [[Vermont Law Review — The Quota Crisis Vyvanse Adderall and the Regulation That Limits Access]] — Legal scholarship; Controlled Substances Act quota chokepoint; regulatory reform framework
+- [[A systematic review of echo chamber research]] — JCSS; 129 studies; no consensus on echo chambers; methodology drives divergent findings
+- [[Fueling the Fire How Social Media Intensifies US Political Polarization]] — NYU Stern; Facebook internal research on polarization amplification
 
 ### NFL — Seahawks / Super Bowl LX
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — WBAY, Feb 6 2026; zero-holdover GM wins Super Bowl; Executive of the Year
@@ -458,6 +483,32 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Newsweek — Liberal flips Conservative Wisconsin Supreme Court seat]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
 - [[The Hill — Clay Fuller wins Georgia special election]] — Caroline Vakil, The Hill, Apr 7 2026; Trump-endorsed Fuller wins GA-14 special; House GOP margin tightens to 218-214; Democratic overperformance pattern continues
 
+### Recent Ingests (2026-04-11)
+
+#### AI DRAM Crisis Cluster
+- [[Sam Altman's Dirty DRAM Deal]] — Moore's Law Is Dead, Nov 2025; OpenAI's secret dual deals with Samsung/SK Hynix for 40% of global DRAM; 156-172% price spike; artificial scarcity strategy
+- [[OpenAI funding fears hit memory chip prices]] — Telegraph, Mar 2026; OpenAI spending cuts easing RAM prices; 700% surge over past year; Sora shuttered; Stargate scrapped
+- [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] — TOI, Mar 2026; viral thread on LOIs vs binding orders; TurboQuant crashed chip stocks 5-6%; "the research paper is doing more for RAM prices than the entire supply chain"
+- [[TurboQuant - Redefining AI efficiency with extreme compression]] — Google Research, Mar 2026; 6x KV cache compression with zero accuracy loss; ICLR 2026; crashed chip stocks on release
+- [[Samsung workers' strike plan would disrupt chip supply]] — Reuters, Mar 2026; 90K workers voting on 18-day strike from May 21; 50% Pyeongtaek production at risk; pay gap with SK Hynix
+
+#### Infrastructure & Geopolitics
+- [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Forbes/Tirias Research, Apr 2026; Qatar helium (33% global) offline from Iran strikes; 27-30% supply removed; 40-100% price surge; double chokepoint with DRAM crisis
+- [[Five things to know about Hungary's election]] — Apr 2026; Hungary election as illiberal democracy test; Orban vs Magyar; Fidesz vs Tisza
+
+#### Politics & Culture
+- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]] — Reset DOC, Jan 2026; Dark Enlightenment/NRx intellectual genealogy; Yarvin as Thiel-funded ideological architect
+- [[The Reactionary Prophet of Silicon Valley]] — The Nation; Yarvin's racist writings; Thiel-to-candidate pipeline; DOGE as applied neoreaction
+- [[Pope Leo Is Speaking Truth to Donald Trumps Power]] — Apr 2026; Pope Leo XIV vs Trump on Iran war; Hegseth Pentagon prayer; 66% antiwar polling; faith vs militarism
+- [[How Louis Theroux Got Inside the Manosphere — NYT]] — NYT; Netflix documentary; manosphere as sales grift targeting 8-20 year olds; Andrew Tate pipeline
+- [[No One at Waffle House Remembers FEMA Official Who Says He Teleported]] — FEMA official Gregg Phillips teleportation claims; supernatural conspiracy in government appointments
+
+#### Crypto
+- [[Trump's World Liberty Financial uses five billion WLFI to borrow $75 million]] — CoinDesk, Apr 2026; WLFI insider self-dealing via Dolomite; 5B governance tokens as collateral; depositors locked out; 93% pool utilization
+
+#### Economics
+- [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]] — NPR/Planet Money, Feb 2025; Jevons Paradox applied to AI; efficiency → more consumption; Brynjolfsson pilots example
+
 ---
 
 ## Entities
@@ -505,7 +556,16 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Kristi Noem]] — Secretary of Homeland Security; overseeing ICE operations including Operation Metro Surge
 - [[Bill Hagerty]] — Senator (R-TN); GENIUS Act Senate sponsor; authored the Hagerty Amendment
 - [[Cynthia Lummis]] — Senator (R-WY); Senate's leading crypto champion; Bitcoin maximalist; Strategic Bitcoin Reserve advocate
+- [[John Perry Barlow]] — Grateful Dead lyricist; EFF co-founder; "A Declaration of the Independence of Cyberspace" author
+- [[Phil Lesh]] — Grateful Dead bassist and founding member (1940-2024); contrapuntal bass innovator
+- [[Roger Goodell]] — NFL Commissioner since 2006; oversees global expansion and entertainment partnerships
+- [[Thom Tillis]] — U.S. Senator (R-NC); Judiciary Committee ranking member; Fed confirmation politics
 
+- [[Alan Greenspan]] — Fed Chair 1987-2006; preceded Bernanke; Warsh served under him
+- [[Ben Bernanke]] — Fed Chair 2006-2014; managed 2008 financial crisis; preceded Yellen
+- [[Elizabeth Warren]] — U.S. Senator (D-MA); prominent Fed critic and financial regulation advocate
+- [[Tom Homan]] — Acting ICE Director under Trump; overseeing Operation Metro Surge enforcement
+- [[Jacob Frey]] — Mayor of Minneapolis; led city opposition to Operation Metro Surge
 - [[Abigail Spanberger]] — Virginia governor (D); first female; moderate Democrat; 2025 elections centerpiece; suburban coalition model
 - [[Tulsi Gabbard]] — Director of National Intelligence; declassifying Obama-era files; "cabal" framing; MAGA intelligence arm
 - [[Russell Vought]] — OMB Director; operational architect of budget-as-weapon strategy; Blue-state targeting
@@ -523,10 +583,27 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Clay Fuller]] — GA-14 Trump-endorsed special election winner Apr 7 2026; replaces MTG; House GOP majority becomes 218-214
 - [[Adam Back]] — British cryptographer; Hashcash inventor; Blockstream CEO; NYT's April 2026 Satoshi candidate; denies; SEC disclosure mechanism
 - [[Satoshi Nakamoto]] — Bitcoin's pseudonymous creator; identity unknown 17 years; ~1.1M BTC (~$118B) unmoved; Back named by NYT
+- [[Curtis Yarvin]] — Neoreactionary theorist (Mencius Moldbug); Dark Enlightenment; Thiel-funded; intellectual architect of DOGE-era governance philosophy
+- [[Nick Land]] — British philosopher; accelerationism co-originator; Dark Enlightenment co-architect with Yarvin
+- [[Peter Thiel]] — PayPal co-founder; Yarvin patron; Vance/Masters kingmaker; Silicon Valley-to-politics pipeline
+- [[Pete Hegseth]] — Secretary of Defense; Pentagon prayer services; faith-militarism convergence
+- [[Pope Leo XIV]] — First American pope; confronting Trump on Iran war and immigration; faith vs. state power
+- [[Gregg Phillips]] — FEMA disaster response chief; teleportation claims; conspiracy culture in government appointments
+- [[Louis Theroux]] — Documentary filmmaker; Netflix manosphere investigation
+- [[Andrew Tate]] — Manosphere influencer; facing human trafficking charges; algorithmic radicalization case study
+- [[Blake Masters]] — Thiel-backed Senate candidate (AZ 2022); Yarvin ideological heir
+- [[Viktor Orban]] — Hungarian PM; illiberal democracy model; Fidesz leader
+- [[Peter Magyar]] — Hungarian opposition leader; Tisza Party founder; former Fidesz insider turned critic
+- [[Erik Brynjolfsson]] — Stanford economist; Jevons Paradox applied to AI and labor markets
+- [[George Soros]] — Financier; Orban's political foil; CEU expulsion from Hungary
+- [[Tucker Carlson]] — Conservative media figure; Yarvin amplifier; Carlson-to-mainstream NRx pipeline
+- [[Bernie Sanders]] — Senator (I-VT); antiwar position on Iran; Pope Leo alignment
+- [[Corey Caplan]] — Dolomite co-founder; WLFI adviser; conflict of interest in WLFI lending
 
 ### Organizations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
 - [[Federal Reserve]] — US central bank; under intense political pressure 2025; dual mandate; board composition shifting via Trump appointments
+- [[FOMC]] — Federal Open Market Committee; the Fed's rate-setting body; site of Miran dissent and dual governor revolt
 - [[Iran Revolutionary Guards Corps]] — Iran's elite paramilitary; conducting Gulf energy infrastructure strikes
 - [[Anthropic]] — AI company; refused DoD military AI demands; blacklisted; being recruited by UK
 - [[Amazon]] — Mechanical Turk (crowdwork platform); Just Walk Out (AI-washed cashierless tech); 750K warehouse robots
@@ -548,6 +625,25 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Tether]] — World's largest stablecoin (USDT); registered BVI; offshore; GENIUS Act loophole beneficiary
 - [[Circle]] — US-based fintech; issuer of USDC (second-largest stablecoin); GENIUS Act primary compliance model
 
+- [[Samsung]] — World's largest memory chip maker; DRAM/HBM producer; OpenAI 40% supply deal; helium-dependent; labor strike threatened
+- [[SK Hynix]] — South Korean memory chip maker; 70% global DRAM with Samsung; OpenAI dual deal counterparty
+- [[TSMC]] — Taiwan Semiconductor; 90% of advanced logic chips; helium-dependent; CoWoS packaging bottleneck
+- [[Intel]] — US chip maker; domestic helium buffer; less exposed to Gulf disruption
+- [[Coinbase]] — US crypto exchange; WLFI stablecoin off-ramp destination
+- [[Dolomite]] — DeFi lending protocol; WLFI's $75M borrow platform; co-founder is WLFI adviser
+- [[DeepSeek]] — Chinese AI company; efficiency breakthrough that triggered Jevons Paradox discourse
+- [[FEMA]] — Federal Emergency Management Agency; Gregg Phillips appointment; conspiracy culture
+- [[Qatar]] — Persian Gulf state; 33% of global helium supply; Ras Laffan offline from Iran strikes
+- [[Fidesz]] — Hungarian ruling party; Orban's vehicle; illiberal democracy model
+- [[Tisza Party]] — Hungarian opposition; Peter Magyar; former Fidesz insider-led challenge
+- [[Drug Enforcement Administration]] — Federal agency controlling drug scheduling and production quotas; central to ADHD medication shortage
+- [[Federal Trade Commission]] — Consumer protection and antitrust enforcement; BetterHelp action; platform antitrust
+- [[Food and Drug Administration]] — Drug and medical device regulation; ADHD shortage declaration since Oct 2022
+- [[European Commission]] — EU executive branch; DMA and EU AI Act enforcement
+- [[U.S. Department of the Treasury]] — Financial policy, sanctions, stablecoin regulation oversight
+- [[Hoover Institution]] — Conservative think tank at Stanford; Kevin Warsh affiliation
+- [[Morgan Stanley]] — Global investment bank; Kevin Warsh board affiliation
+- [[City of Minneapolis]] — Municipal government; sued federal government over Operation Metro Surge
 - [[Microsoft]] — $13B OpenAI investor; compute exclusivity antitrust target; UK parallel lawsuit; AI Computational Barrier to Entry
 - [[Grateful Dead]] — American jam band (1965-1995); Garcia + Weir at core; "Long Strange Trip" as cultural phenomenon; 2,314+ concerts
 - [[Dead and Company]] — Grateful Dead revival (2015-2023); John Mayer + 3 surviving members; final tour 2023
@@ -559,12 +655,16 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[University of Oxford]] — Developed AI cardiac diagnostic tool with BHF; 86% accuracy; 72,000 patients; NHS rollout pending
 - [[British Heart Foundation]] — UK cardiovascular research funder; co-developed Oxford cardiac AI; heart failure second-leading UK killer
 - [[Artemis II]] — NASA crewed lunar loop mission; first humans near moon in ~50 years; active conspiracy theory target
+- [[Roc Nation]] — Jay-Z's entertainment/sports agency; produces NFL Super Bowl halftime show since 2019
+- [[Airbnb]] — Short-term rental platform; AI dynamic pricing case study
+- [[US Department of Defense]] — Federal military department; blacklisted Anthropic for refusing military AI
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
 - [[United Kingdom]] — Recruiting Anthropic post-blacklisting; offering London expansion + dual listing
 - [[El Salvador]] — First country to make Bitcoin legal tender (2021); Bitcoin experiment largely failed; IMF forced removal 2025; Bukele authoritarian consolidation
 - [[Israel]] — US co-belligerent in 2026 Iran war; co-launched Feb 28 2026 strikes; partner in joint operations through Trump's Easter ultimatum
+- [[Hungary]] — Orban's illiberal democracy model; April 2026 election as democratic backsliding test case
 
 ### Infrastructure
 - [[Strait of Hormuz]] — World's critical oil chokepoint; closed by Iran Apr 2026; center of current conflict
@@ -591,6 +691,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Shadow Docket]] — SCOTUS emergency ruling pattern; 23 applications in 8 months (vs. 19 in full Biden term); 17 granted; 5 with zero reasoning
 - [[Rescissions Act of 2025]] — $8.3B rescissions package; PEPFAR carve-outs; 216-214 vote; impoundment doctrine workaround; legal insulation function
 - [[Redistricting Arms Race]] — California Prop 50 as counter to GOP gerrymandering; arm-race dynamic; structural electoral warfare
+- [[Differential Voter Engagement]] — Turnout asymmetry in special/off-cycle elections; advantages motivated base
+- [[DEA Aggregate Production Quotas]] — DEA annual production caps on Schedule II substances; central mechanism in ADHD medication shortage
+- [[Controlled Substances Act]] — 1970 federal drug scheduling law; DEA enforcement authority; quota system foundation
 
 ### Monetary Policy & Economics
 - [[War-Driven Inflation]] — Supply-shock inflation from military conflict; Strait closure → gas prices → CPI; analog to tariff-driven inflation
@@ -630,6 +733,19 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Echo Chamber and Polarization]] — 129-study systematic review finds no consensus; methodology drives divergent results; TikTok underexplored
 - [[Sanctuary Infrastructure]] — Churches, mosques, synagogues as protective networks against ICE; inverse case (ICE pastor church) documented
 - [[Affordability Populism]] — Politics organized around cost-of-life inputs; Mamdani as the 2025 test case; the analytical concept connecting housing/healthcare/childcare to electoral behavior; Mamdani vs. Spanberger/Sherrill incompatible coalitions
+- [[Dark Enlightenment]] — Anti-democratic intellectual movement; Yarvin + Land; rejects Enlightenment liberalism; "The Cathedral" as enemy concept
+- [[Neoreaction (NRx)]] — Political philosophy advocating corporate governance over democracy; Yarvin's practical program; Thiel network
+- [[The Cathedral]] — Yarvin's term for the liberal establishment (academia + media + bureaucracy); NRx's central enemy concept
+- [[Neocameralism]] — Governance-as-corporation model; CEO-monarchs; states as joint-stock companies; Yarvin's alternative to democracy
+- [[Accelerationism]] — Nick Land's philosophy; push contradictions to breaking point; capitalism as runaway process
+- [[RAGE (Retire All Government Employees)]] — Yarvin's proposal; fire all federal employees simultaneously; DOGE as partial implementation
+- [[Illiberal Democracy]] — Governance model maintaining democratic forms while hollowing institutions; Orban's Hungary as paradigm
+- [[Democratic Backsliding]] — Erosion of democratic norms and institutions; Hungary as test case; EU response mechanisms
+- [[Manosphere]] — Online ecosystem of men's rights, pickup artistry, and misogynist influencers; monetized through courses and supplements
+- [[Influencer Economy]] — Platform-mediated monetization of parasocial relationships; manosphere and conspiracy content as revenue models
+- [[Conspiracy Culture in Government]] — Appointment of conspiracy theorists to federal positions; Phillips teleportation; institutional degradation
+- [[Faith and Militarism]] — Convergence of religious authority and military power; Hegseth Pentagon prayer; Pope Leo counter-narrative
+- [[Jevons Paradox]] — Efficiency gains increase total resource consumption; 1865 coal → 2025 AI; DeepSeek as trigger; labor market implications
 
 ### AI & Technology
 - [[AI in Healthcare]] — Oxford/BHF CT scan tool; 86% accuracy; 5-year predictive window; NHS rollout; deployment gap as editorial frame
@@ -661,6 +777,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Therapist Shortage]] — Specialist bottleneck driving the mental health access crisis; Australia/NZ GP-prescribing reform model; supply-side analog to ADHD shortage
 - [[Political Stress]] — APA benchmark data; 77% nation's future as stressor; 5% suicidal ideation; bipartisan distribution; racial trauma
 - [[Attention Economy]] — How platforms monetize attention; ADHD as systemic response to designed distraction
+- [[Late Diagnosis and Identity]] — Adult autism/ADHD diagnosis; identity reconstruction after decades of masking
+- [[Neurodiversity]] — Framework reframing neurological difference as natural variation rather than pathology
 
 - [[Jam Band Genre]] — Improvisation-first genre; Grateful Dead as origin; setlist-free performance; Phish/String Cheese descendants
 - [[Improvisational Music]] — Collective real-time composition; jazz + jam band traditions; role of structure vs. freedom
@@ -779,11 +897,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ## Syntheses
 
 ### Audit Reports
-- [[audit-2026-04-07-lead-researcher]] — Five-agent audit; schema hygiene, broken wikilinks, frontmatter drift, missing cross-cluster concept pages
-- [[audit-2026-04-07-historian]] — Volcker dates, "longest shutdown" qualifier, Bannon Munsingwear precedent, Glass-Steagall/Chicago Plan/Free Banking missing priors, Martin as the real Powell precedent
-- [[audit-2026-04-07-economist]] — GENIUS causal-chain hand-waving, 20.6% pre/post-substitution selection bias, currency/money/payment-instrument conflation, tariff expectations-vs-passthrough
-- [[audit-2026-04-07-millennial-contrarian]] — Tether-as-dollarization framing, Powell transitory steelman, Trump-conflict vs. legislation-merits decoupling, generation/class blind spot
-- [[audit-2026-04-07-sports-nut]] — Super Bowl LX unsourced, "zero holdovers" contradiction, Macdonald "25→2 in one season" wrong, 3-Buzz misdescribed, coaching-tree "control group" caveat
+- [[Audit 2026-04-07 — Lead Researcher Report]] — Five-agent audit; schema hygiene, broken wikilinks, frontmatter drift, missing cross-cluster concept pages
+- [[Historian's Audit — 2026-04-07]] — Volcker dates, "longest shutdown" qualifier, Bannon Munsingwear precedent, Glass-Steagall/Chicago Plan/Free Banking missing priors, Martin as the real Powell precedent
+- [[Economist Audit — Causal Chains, Numbers, and Framing (2026-04-07)]] — GENIUS causal-chain hand-waving, 20.6% pre/post-substitution selection bias, currency/money/payment-instrument conflation, tariff expectations-vs-passthrough
+- [[Audit 2026-04-07 — Millennial Contrarian Framing Review]] — Tether-as-dollarization framing, Powell transitory steelman, Trump-conflict vs. legislation-merits decoupling, generation/class blind spot
+- [[NFL Cluster Audit — 2026-04-07 (Sports Nut)]] — Super Bowl LX unsourced, "zero holdovers" contradiction, Macdonald "25→2 in one season" wrong, 3-Buzz misdescribed, coaching-tree "control group" caveat
 
 ### Insight Sweeps
 - [[Insight Sweep — 2026-04-08]] — Master briefing; 3-agent sweep; 7 patterns, 8 contradictions, 7 underexplored angles; top 5 hooks filed
@@ -791,7 +909,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Fed Independence Under Endogenous Supply Shock]] — Burns comparison is wrong; Martin is right; tariff-driven endogenous inflation as unprecedented leverage; ready to draft
 - [[Operation Metro Surge as Institutional Breakdown]] — $200M cost, 3,789 arrests, 2 deaths, 96 court order violations, FBI evidence seizure; enforcement theater; ready to draft
 - [[Chokepoint Control as Power's Architecture]] — Strait of Hormuz, GENIUS Act reserves, DEA quotas, App Store, Fed rate-setting as the same mechanism; DePIN as structural response
-- [[El Salvador Bitcoin: Policy Failure as Profit Model]] — 92% non-adoption, $333M government gain, IMF forced removal; failed as currency, succeeded as insider enrichment
+- [[El Salvador Bitcoin — Policy Failure as Profit Model]] — 92% non-adoption, $333M government gain, IMF forced removal; failed as currency, succeeded as insider enrichment
 
 ---
 
