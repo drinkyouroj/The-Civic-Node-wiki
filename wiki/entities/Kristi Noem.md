@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, immigration, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 11
+sources: 12
 ---
 
 ## Overview
@@ -40,3 +40,8 @@ Noem's role illustrates how DHS operates as a political communications office as
 ## Open Questions
 - Has any of Noem's public misinformation about the Good killing been corrected or retracted?
 - What were the long-term consequences of the impeachment effort — did it produce any institutional pressure?
+- How did FEMA staff and funding levels change under her tenure at DHS?
+
+## Additional Source Appearances
+
+- [[No One at Waffle House Remembers FEMA Official Who Says He Teleported]] — led FEMA funding and staff cuts as homeland security secretary; part of broader Trump push to downsize the agency

@@ -4,7 +4,7 @@ type: concept
 tags: [technology, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 13
+sources: 16
 ---
 
 ## Definition
@@ -23,6 +23,8 @@ Algorithmic radicalization is the mechanism connecting platform business models 
 - [[TikTok]] and instant messaging platforms underexplored in radicalization research despite significant political content [[Echo Chamber Research Systematic Review]]
 - Memes as the content layer: ISD documents how extreme-right memes use humor and irony to "lower the barrier for participation in extreme ideologies"; prolonged exposure normalizes hateful content [[Memes and the Extreme Right Wing — ISD Explainer]]
 - Overton Window mechanism: progressive ironic exposure to extremist content via memes moves those positions into mainstream consciousness; documented in "red-pilling" Discord logs from Charlottesville [[Memes and the Extreme Right Wing — ISD Explainer]]
+- [[Manosphere]] influencers on Kick platform escalate behavior (livestreamed assaults/"pred stings") based on real-time viewer counts — a direct causal link between platform metrics and harmful behavior. Audience skews 8-20 years old [[How Louis Theroux Got Inside the Manosphere — NYT]]
+- [[Curtis Yarvin]]'s use of programming metaphors and software analogies to make authoritarian ideas palatable to Silicon Valley audiences represents a different vector of radicalization — intellectual rather than algorithmic, but using the same tech-culture channel [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]]
 - Journalism legitimacy crisis: 78-study systematic review finds algorithmic curation reshapes "newsworthiness" as "shareworthiness"; journalists self-censor to avoid algorithmic suppression [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]]
 
 ## Tensions & Counterarguments
@@ -38,6 +40,8 @@ Algorithmic radicalization is the mechanism connecting platform business models 
 - [[Platform Antitrust]] — whether algorithmic harm triggers antitrust or liability remedies
 - [[Deepfake Disinformation]] — AI-generated content amplified by the same recommendation systems
 - [[AI Legal Personhood]] — liability questions about who is responsible for algorithmic harm
+- [[Manosphere]] — gender-reactionary content ecosystem driven by commercial incentives and platform metrics
+- [[Dark Enlightenment]] — intellectual radicalization through tech-culture channels rather than algorithmic amplification
 
 ## Key Sources
 - [[Fueling the Fire — Social Media and Political Polarization]]

@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [crypto, politics, power, monetary-policy]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 9
+updated: 2026-04-11
+sources: 13
 ---
 
 ## Overview
@@ -35,6 +35,9 @@ World Liberty Financial (WLF) is a DeFi protocol majority-owned (60%) by the Tru
 - [[Stablecoin Legislation]] — broader regulatory frame
 - [[CLARITY Act]] — companion legislation; market structure
 - [[Tether]] — competitor stablecoin issuer; offshore comparator
+- [[Dolomite]] — DeFi lending platform used for WLFI borrowing operation; co-founded by WLFI adviser
+- [[Corey Caplan]] — adviser to WLFI and co-founder of Dolomite; insider link
+- [[Coinbase]] — Coinbase Prime used as fiat off-ramp for borrowed stablecoins
 
 ## Source Appearances
 
@@ -42,6 +45,7 @@ World Liberty Financial (WLF) is a DeFi protocol majority-owned (60%) by the Tru
 - [[Senate Democrats Seek Answers on Trump World Liberty Crypto — CBS News]] — congressional oversight angle
 - [[Trump GENIUS Move — Trump Urges GOP to Vote Yes for Stablecoin Bill]] — Trump's role in passing the bill that regulates his own venture
 - [[What is Crypto Week — Al Jazeera]] — context within Crypto Week coverage
+- [[Trump's World Liberty Financial uses five billion WLFI to borrow $75 million]] — deposited 5B WLFI tokens + 14M USD1 on [[Dolomite]] (co-founded by WLFI adviser [[Corey Caplan]]) to borrow ~$75M in stablecoins sent to Coinbase Prime; pushed USD1 pool to 93% utilization, trapping depositors; WLFI token dropped 12% after reporting
 
 ## Open Questions
 

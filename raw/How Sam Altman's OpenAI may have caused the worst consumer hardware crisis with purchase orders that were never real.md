@@ -1,0 +1,20 @@
+---
+title: "How Sam Altman's OpenAI may have caused the worst consumer hardware crisis with purchase orders that were never real"
+source: "https://timesofindia.indiatimes.com/technology/tech-news/popular-twitter-user-explains-how-sam-altmans-openai-may-have-caused-the-worst-consumer-hardware-crisis-with-purchase-orders-that-were-never-real/articleshow/129879770.cms"
+author:
+  - "[[TOI Tech Desk]]"
+published: 2026-03-29
+created: 2026-04-10
+description: "Tech News News: A Twitter user recently claimed that Sam Altman-led OpenAI may have played a key role in a sharp rise in global memory prices, sparking debate online.."
+tags:
+  - "clippings"
+---
+![How Sam Altman's OpenAI may have caused the worst consumer hardware crisis with purchase orders that were never real](https://static.toiimg.com/thumb/msid-129879766,imgsize-20772,width-400,height-225,resizemode-4/openai-sam-altman.jpg) A Twitter user recently claimed that Sam Altman-led [OpenAI](https://timesofindia.indiatimes.com/topic/openai) may have played a key role in a sharp rise in global memory prices, sparking debate online. Sharing the post, user @aakashgupta said: “OpenAI may have caused the worst consumer hardware crisis in a decade with purchase orders that were never real.” In the post, Gupta alleged that non-binding agreements signed by OpenAI for large volumes of DRAM chips led markets to react as if real orders had been placed. While the claims have not been officially confirmed, it comes at a time when memory prices have seen sharp fluctuations and the AI industry continues to drive demand for high-performance hardware.In the post, Gupta says that OpenAI signed letters of intent with [Samsung](https://gadgetsnow.indiatimes.com/brands/Samsung) and SK Hynix for 900,000 DRAM wafers per month that he claims accounted for “ 40% of global supply”. “Those "deals" were letters of intent, not binding purchase orders. No RAM actually changed hands. But the market treated them as real,” Gupta alleged adding “DDR4 kits that should have been in oversupply doubled. Retailers stopped posting prices entirely”.The user also cited the ambitious data centre project Stargate which he claims “got cancelled because OpenAI couldn't forecast its own demand”. “Oracle couldn't agree on financing. The partners are squabbling,” Gupta said.
+
+## Here’s what the user wrote explaining how OpenAI caused worst consumer hardware crisis
+
+OpenAI may have caused the worst consumer hardware crisis in a decade with purchase orders that were never real.In October 2025, Sam Altman flew to Seoul and signed simultaneous deals with Samsung and SK Hynix for 900,000 DRAM wafers per month. That's 40% of global supply. Neither company knew the other was signing a similar commitment at the same time. The pricing and terms would have looked very different if they had.Those "deals" were letters of intent, not binding purchase orders. No RAM actually changed hands. But the market treated them as real. Contract DRAM prices jumped 171%. A 64GB DDR5 kit went from $190 to $700 in three months. DDR4 kits that should have been in oversupply doubled. Retailers stopped posting prices entirely.The Abilene Stargate expansion just got cancelled because OpenAI couldn't forecast its own demand. Oracle couldn't agree on financing. The partners are squabbling. Bloomberg reported the $500B project hadn't started and no funds were raised to meet the initial budget. Multiple data center buildouts are delayed or shelved.Now DDR5 prices are finally dropping for the first time in months, and it has nothing to do with OpenAI walking away from anything. Google released TurboQuant on March 24, a compression algorithm that cuts AI memory requirements by 6x. SK Hynix and Samsung stocks dropped 6% and 5% overnight. Corsair kits fell $60-100 from their highs within days.One company locked up 40% of global memory with commitments it may never fulfill. A different company published a research paper. The research paper is doing more for RAM prices than the entire supply chain has done in six months.
+
+Watch
+
+'India Well Positioned To Lead The World In AI': OpenAI CEO Sam Altman At AI Impact Summit

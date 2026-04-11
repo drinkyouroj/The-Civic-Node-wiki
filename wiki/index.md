@@ -2,7 +2,7 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-11
-total_pages: 749
+total_pages: 806
 total_sources: 410
 ---
 
@@ -458,6 +458,32 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Newsweek — Liberal flips Conservative Wisconsin Supreme Court seat]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
 - [[The Hill — Clay Fuller wins Georgia special election]] — Caroline Vakil, The Hill, Apr 7 2026; Trump-endorsed Fuller wins GA-14 special; House GOP margin tightens to 218-214; Democratic overperformance pattern continues
 
+### Recent Ingests (2026-04-11)
+
+#### AI DRAM Crisis Cluster
+- [[Sam Altman's Dirty DRAM Deal]] — Moore's Law Is Dead, Nov 2025; OpenAI's secret dual deals with Samsung/SK Hynix for 40% of global DRAM; 156-172% price spike; artificial scarcity strategy
+- [[OpenAI funding fears hit memory chip prices]] — Telegraph, Mar 2026; OpenAI spending cuts easing RAM prices; 700% surge over past year; Sora shuttered; Stargate scrapped
+- [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] — TOI, Mar 2026; viral thread on LOIs vs binding orders; TurboQuant crashed chip stocks 5-6%; "the research paper is doing more for RAM prices than the entire supply chain"
+- [[TurboQuant - Redefining AI efficiency with extreme compression]] — Google Research, Mar 2026; 6x KV cache compression with zero accuracy loss; ICLR 2026; crashed chip stocks on release
+- [[Samsung workers' strike plan would disrupt chip supply]] — Reuters, Mar 2026; 90K workers voting on 18-day strike from May 21; 50% Pyeongtaek production at risk; pay gap with SK Hynix
+
+#### Infrastructure & Geopolitics
+- [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Forbes/Tirias Research, Apr 2026; Qatar helium (33% global) offline from Iran strikes; 27-30% supply removed; 40-100% price surge; double chokepoint with DRAM crisis
+- [[Five things to know about Hungary's election]] — Apr 2026; Hungary election as illiberal democracy test; Orban vs Magyar; Fidesz vs Tisza
+
+#### Politics & Culture
+- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]] — Reset DOC, Jan 2026; Dark Enlightenment/NRx intellectual genealogy; Yarvin as Thiel-funded ideological architect
+- [[The Reactionary Prophet of Silicon Valley]] — The Nation; Yarvin's racist writings; Thiel-to-candidate pipeline; DOGE as applied neoreaction
+- [[Pope Leo Is Speaking Truth to Donald Trumps Power]] — Apr 2026; Pope Leo XIV vs Trump on Iran war; Hegseth Pentagon prayer; 66% antiwar polling; faith vs militarism
+- [[How Louis Theroux Got Inside the Manosphere — NYT]] — NYT; Netflix documentary; manosphere as sales grift targeting 8-20 year olds; Andrew Tate pipeline
+- [[No One at Waffle House Remembers FEMA Official Who Says He Teleported]] — FEMA official Gregg Phillips teleportation claims; supernatural conspiracy in government appointments
+
+#### Crypto
+- [[Trump's World Liberty Financial uses five billion WLFI to borrow $75 million]] — CoinDesk, Apr 2026; WLFI insider self-dealing via Dolomite; 5B governance tokens as collateral; depositors locked out; 93% pool utilization
+
+#### Economics
+- [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]] — NPR/Planet Money, Feb 2025; Jevons Paradox applied to AI; efficiency → more consumption; Brynjolfsson pilots example
+
 ---
 
 ## Entities
@@ -532,6 +558,22 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Clay Fuller]] — GA-14 Trump-endorsed special election winner Apr 7 2026; replaces MTG; House GOP majority becomes 218-214
 - [[Adam Back]] — British cryptographer; Hashcash inventor; Blockstream CEO; NYT's April 2026 Satoshi candidate; denies; SEC disclosure mechanism
 - [[Satoshi Nakamoto]] — Bitcoin's pseudonymous creator; identity unknown 17 years; ~1.1M BTC (~$118B) unmoved; Back named by NYT
+- [[Curtis Yarvin]] — Neoreactionary theorist (Mencius Moldbug); Dark Enlightenment; Thiel-funded; intellectual architect of DOGE-era governance philosophy
+- [[Nick Land]] — British philosopher; accelerationism co-originator; Dark Enlightenment co-architect with Yarvin
+- [[Peter Thiel]] — PayPal co-founder; Yarvin patron; Vance/Masters kingmaker; Silicon Valley-to-politics pipeline
+- [[Pete Hegseth]] — Secretary of Defense; Pentagon prayer services; faith-militarism convergence
+- [[Pope Leo XIV]] — First American pope; confronting Trump on Iran war and immigration; faith vs. state power
+- [[Gregg Phillips]] — FEMA disaster response chief; teleportation claims; conspiracy culture in government appointments
+- [[Louis Theroux]] — Documentary filmmaker; Netflix manosphere investigation
+- [[Andrew Tate]] — Manosphere influencer; facing human trafficking charges; algorithmic radicalization case study
+- [[Blake Masters]] — Thiel-backed Senate candidate (AZ 2022); Yarvin ideological heir
+- [[Viktor Orban]] — Hungarian PM; illiberal democracy model; Fidesz leader
+- [[Peter Magyar]] — Hungarian opposition leader; Tisza Party founder; former Fidesz insider turned critic
+- [[Erik Brynjolfsson]] — Stanford economist; Jevons Paradox applied to AI and labor markets
+- [[George Soros]] — Financier; Orban's political foil; CEU expulsion from Hungary
+- [[Tucker Carlson]] — Conservative media figure; Yarvin amplifier; Carlson-to-mainstream NRx pipeline
+- [[Bernie Sanders]] — Senator (I-VT); antiwar position on Iran; Pope Leo alignment
+- [[Corey Caplan]] — Dolomite co-founder; WLFI adviser; conflict of interest in WLFI lending
 
 ### Organizations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
@@ -558,6 +600,17 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Tether]] — World's largest stablecoin (USDT); registered BVI; offshore; GENIUS Act loophole beneficiary
 - [[Circle]] — US-based fintech; issuer of USDC (second-largest stablecoin); GENIUS Act primary compliance model
 
+- [[Samsung]] — World's largest memory chip maker; DRAM/HBM producer; OpenAI 40% supply deal; helium-dependent; labor strike threatened
+- [[SK Hynix]] — South Korean memory chip maker; 70% global DRAM with Samsung; OpenAI dual deal counterparty
+- [[TSMC]] — Taiwan Semiconductor; 90% of advanced logic chips; helium-dependent; CoWoS packaging bottleneck
+- [[Intel]] — US chip maker; domestic helium buffer; less exposed to Gulf disruption
+- [[Coinbase]] — US crypto exchange; WLFI stablecoin off-ramp destination
+- [[Dolomite]] — DeFi lending protocol; WLFI's $75M borrow platform; co-founder is WLFI adviser
+- [[DeepSeek]] — Chinese AI company; efficiency breakthrough that triggered Jevons Paradox discourse
+- [[FEMA]] — Federal Emergency Management Agency; Gregg Phillips appointment; conspiracy culture
+- [[Qatar]] — Persian Gulf state; 33% of global helium supply; Ras Laffan offline from Iran strikes
+- [[Fidesz]] — Hungarian ruling party; Orban's vehicle; illiberal democracy model
+- [[Tisza Party]] — Hungarian opposition; Peter Magyar; former Fidesz insider-led challenge
 - [[Drug Enforcement Administration]] — Federal agency controlling drug scheduling and production quotas; central to ADHD medication shortage
 - [[Federal Trade Commission]] — Consumer protection and antitrust enforcement; BetterHelp action; platform antitrust
 - [[Food and Drug Administration]] — Drug and medical device regulation; ADHD shortage declaration since Oct 2022
@@ -586,6 +639,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[United Kingdom]] — Recruiting Anthropic post-blacklisting; offering London expansion + dual listing
 - [[El Salvador]] — First country to make Bitcoin legal tender (2021); Bitcoin experiment largely failed; IMF forced removal 2025; Bukele authoritarian consolidation
 - [[Israel]] — US co-belligerent in 2026 Iran war; co-launched Feb 28 2026 strikes; partner in joint operations through Trump's Easter ultimatum
+- [[Hungary]] — Orban's illiberal democracy model; April 2026 election as democratic backsliding test case
 
 ### Infrastructure
 - [[Strait of Hormuz]] — World's critical oil chokepoint; closed by Iran Apr 2026; center of current conflict
@@ -654,6 +708,19 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Echo Chamber and Polarization]] — 129-study systematic review finds no consensus; methodology drives divergent results; TikTok underexplored
 - [[Sanctuary Infrastructure]] — Churches, mosques, synagogues as protective networks against ICE; inverse case (ICE pastor church) documented
 - [[Affordability Populism]] — Politics organized around cost-of-life inputs; Mamdani as the 2025 test case; the analytical concept connecting housing/healthcare/childcare to electoral behavior; Mamdani vs. Spanberger/Sherrill incompatible coalitions
+- [[Dark Enlightenment]] — Anti-democratic intellectual movement; Yarvin + Land; rejects Enlightenment liberalism; "The Cathedral" as enemy concept
+- [[Neoreaction (NRx)]] — Political philosophy advocating corporate governance over democracy; Yarvin's practical program; Thiel network
+- [[The Cathedral]] — Yarvin's term for the liberal establishment (academia + media + bureaucracy); NRx's central enemy concept
+- [[Neocameralism]] — Governance-as-corporation model; CEO-monarchs; states as joint-stock companies; Yarvin's alternative to democracy
+- [[Accelerationism]] — Nick Land's philosophy; push contradictions to breaking point; capitalism as runaway process
+- [[RAGE (Retire All Government Employees)]] — Yarvin's proposal; fire all federal employees simultaneously; DOGE as partial implementation
+- [[Illiberal Democracy]] — Governance model maintaining democratic forms while hollowing institutions; Orban's Hungary as paradigm
+- [[Democratic Backsliding]] — Erosion of democratic norms and institutions; Hungary as test case; EU response mechanisms
+- [[Manosphere]] — Online ecosystem of men's rights, pickup artistry, and misogynist influencers; monetized through courses and supplements
+- [[Influencer Economy]] — Platform-mediated monetization of parasocial relationships; manosphere and conspiracy content as revenue models
+- [[Conspiracy Culture in Government]] — Appointment of conspiracy theorists to federal positions; Phillips teleportation; institutional degradation
+- [[Faith and Militarism]] — Convergence of religious authority and military power; Hegseth Pentagon prayer; Pope Leo counter-narrative
+- [[Jevons Paradox]] — Efficiency gains increase total resource consumption; 1865 coal → 2025 AI; DeepSeek as trigger; labor market implications
 
 ### AI & Technology
 - [[AI in Healthcare]] — Oxford/BHF CT scan tool; 86% accuracy; 5-year predictive window; NHS rollout; deployment gap as editorial frame

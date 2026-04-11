@@ -4,7 +4,7 @@ type: concept
 tags: [politics]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 5
+sources: 7
 ---
 
 ## Definition

@@ -3,8 +3,8 @@ title: "Chokepoint Control"
 type: concept
 tags: [power, infrastructure, geopolitics, energy]
 created: 2026-04-06
-updated: 2026-04-08
-sources: 9
+updated: 2026-04-11
+sources: 10
 ---
 
 ## Definition
@@ -49,3 +49,4 @@ Chokepoint control is the ability of a state, organization, or actor to regulate
 - [[Bill Belichick's Patriots Legacy — The NFL's Greatest Dynasty]] — scheme adaptability as a strategic chokepoint within rules-bound competition
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — Schneider controls the structural chokepoints of competitive advantage (cap, comp picks, roster)
 - [[insight-chokepoint-control-architecture-2026-04-08]] — synthesis page generalizing chokepoint logic across geographic, regulatory, and platform domains
+- [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Qatar's helium dominance + South Korea's import dependency = compounding supply chain chokepoints for semiconductor manufacturing

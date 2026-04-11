@@ -3,8 +3,8 @@ title: "Crypto Fraud and Scam Ecosystem"
 type: concept
 tags: [crypto, technology, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 11
+updated: 2026-04-11
+sources: 12
 ---
 
 ## Definition
@@ -54,3 +54,4 @@ Traditional financial fraud has insurance (FDIC), regulatory investigation (SEC/
 - [[Preventable Cyber Attack Impacts io.net DePIN]]
 - [[US Retiree Loses 3M XRP Ellipal Wallet Hack]]
 - [[VWA Crypto Surges on Simpson Prediction Red Flags]]
+- [[Trump's World Liberty Financial uses five billion WLFI to borrow $75 million]] — insider self-dealing via DeFi: borrow against own illiquid token on a protocol dominated by the borrower, send proceeds to fiat off-ramp

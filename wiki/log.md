@@ -1084,3 +1084,19 @@ Created 7 entity stubs: John Perry Barlow (person), Phil Lesh (person), Roger Go
 **Result**: ~65 high-impact broken links resolved. ~320 low-priority links remain (referenced 1-2 times; will resolve naturally as sources are ingested). Total pages: 749.
 
 **Unfinished work surfaced**: 14 raw files not yet ingested (visible in git status). 23 entity/concept pages with sources: 0.
+
+## [2026-04-11] ingest | Batch ingest of 14 raw sources — AI DRAM crisis, helium chokepoint, NRx, Pope Leo, manosphere, Jevons Paradox, WLFI self-dealing, Hungary election
+
+14 raw sources ingested in three parallel batches. Three major clusters emerged:
+
+**AI DRAM Crisis (5 sources)**: Sam Altman's secret dual deals with Samsung/SK Hynix for 40% of global DRAM (Oct 2025) → 700% price surge → Google's TurboQuant compression paper crashed chip stocks → Samsung workers threatening 18-day strike over unshared profits. Complete narrative arc from artificial scarcity through technological disruption to labor unrest.
+
+**Dark Enlightenment / NRx (3 sources)**: Curtis Yarvin and Nick Land profiled as intellectual architects of the New Radical Right. Thiel-to-candidate pipeline (Masters, Vance). DOGE as applied neoreaction. Pope Leo XIV as counter-narrative to faith-militarism convergence. Louis Theroux's manosphere documentary reveals pipeline targeting 8-20 year olds.
+
+**Infrastructure chokepoints (2 sources)**: Qatar helium (33% of global supply) offline from Iran strikes converges with DRAM crisis — double chokepoint on chip production. Jevons Paradox applied to AI efficiency: more efficiency may drive MORE consumption.
+
+**Individual sources**: WLFI insider self-dealing via Dolomite ($75M borrowed against own governance token); Hungary election as illiberal democracy test; FEMA official's teleportation claims.
+
+Created 14 source pages, 13 concept pages (Dark Enlightenment, Neoreaction, The Cathedral, Neocameralism, Accelerationism, RAGE, Jevons Paradox, Manosphere, Influencer Economy, Conspiracy Culture in Government, Faith and Militarism, Illiberal Democracy, Democratic Backsliding), 17+ entity stubs (Yarvin, Land, Thiel, Pope Leo XIV, Hegseth, Samsung, SK Hynix, TSMC, Orban, Magyar, etc.). Updated 7 existing pages with new source appearances.
+
+Total pages: 806 (up from 749).
