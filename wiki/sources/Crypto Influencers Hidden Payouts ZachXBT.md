@@ -39,7 +39,7 @@ Report on blockchain investigator ZachXBT's leak of a "price sheet" listing 200+
 
 ## Entities Mentioned
 
-- [[Kian Kordestani]] — N/A (not mentioned in this source)
+- [[ZachXBT]] — blockchain investigator who published the influencer payment sheet
 
 ## Concepts Mentioned
 

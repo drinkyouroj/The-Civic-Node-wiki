@@ -41,8 +41,6 @@ The pattern has three elements:
 2024 → Amazon Just Walk Out exposed; Cruise human operators revealed
 2025 → U.S. data workers earning $15/hr median; 25% on public assistance
 
-> ⚠️ Contradiction: [[Leverage Erasure Through Automation]] describes automation as eliminating bargaining power before jobs. The Mechanical Turk Pattern reveals the inverse also operates: companies *simulate* automation while human labor continues, but workers are invisibilized and unprotected. The two patterns coexist: real automation erodes leverage for workers who remain visible; simulated automation erodes leverage for workers who are rendered invisible.
-
 ## Counter-Narrative: Automation Can Create Jobs
 
 Not all automation follows the Mechanical Turk Pattern in reverse. The ATM case study (AEI/Bessen) shows a different dynamic: between 1970 and 2010, the number of bank tellers *increased* even as ATMs proliferated, because ATMs reduced branch operating costs, enabling banks to open more branches and shift tellers to relationship work. In this frame, demand-side expansion from lower costs can offset direct displacement.

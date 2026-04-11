@@ -36,7 +36,7 @@ CNN live blog from September 15, 2025 (5 days after the Kirk assassination) cove
 
 ## Entities Mentioned
 - [[Charlie Kirk Assassination]] — the event being investigated and politically processed
-- [[Kian Kordestani]] — originally named shooter; but this piece focuses on Tyler Robinson as the suspect (note: potential discrepancy — check [[Kian Kordestani]] page vs. Tyler Robinson identity)
+- [[Tyler Robinson]] — confirmed charged shooter; this source is the primary record of Robinson's Discord confession and FBI Director Patel's statements (early coverage erroneously used "Kian Kordestani" — now corrected throughout wiki)
 - [[Donald Trump]] — funeral plans; crime crackdown executive action; tariff protection provision
 - [[Turning Point USA]] — Kirk's organization; ongoing legacy
 
@@ -48,4 +48,4 @@ CNN live blog from September 15, 2025 (5 days after the Kirk assassination) cove
 > "Some hatred cannot be negotiated with." — Tyler Robinson, per FBI Director Patel (via text/chat)
 
 ## Notes
-CNN live blog. September 15, 2025. Multi-reporter. Note: This source uses "Tyler Robinson" as the suspect name; other sources use "Kian Kordestani." This may reflect early identification confusion or different suspects. Cross-check with [[Kian Kordestani]] page required.
+CNN live blog. September 15, 2025. Multi-reporter. Tyler Robinson is the confirmed name; "Kian Kordestani" was an early misidentification in other sources. This source is authoritative on the Robinson name — it cites FBI Director Patel directly.

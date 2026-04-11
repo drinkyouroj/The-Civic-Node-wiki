@@ -688,7 +688,7 @@ Six parallel ingest agents processed all newly scraped raw/ sources. Results:
 **New source pages created:** ~145 (total in wiki/sources/: 205)
 **New entity pages created:** ~40 (total in wiki/entities/: 63)
   - Events: Charlie Kirk Assassination, Killing of Renée Good, Operation Metro Surge, 2025 United States Government Shutdown, 2025 Elections
-  - People: Jerome Powell, Arthur Burns, Paul Volcker, Kevin Warsh, Bad Bunny, Pete Carroll, Geno Smith, Jaxon Smith-Njigba, DK Metcalf, Russell Wilson, Lamar Jackson, Nayib Bukele, Kian Kordestani, Keith Ellison, Zohran Mamdani, Jeffrey Epstein, Kristi Noem, Bill Hagerty, Cynthia Lummis
+  - People: Jerome Powell, Arthur Burns, Paul Volcker, Kevin Warsh, Bad Bunny, Pete Carroll, Geno Smith, Jaxon Smith-Njigba, DK Metcalf, Russell Wilson, Lamar Jackson, Nayib Bukele, Tyler Robinson (originally logged as "Kian Kordestani" — corrected 2026-04-11), Keith Ellison, Zohran Mamdani, Jeffrey Epstein, Kristi Noem, Bill Hagerty, Cynthia Lummis
   - Organizations: Federal Reserve, Seattle Seahawks, Turning Point USA, January 6 Capitol Riot, Helium Network, Render Network, Gala Games, Tether, Circle
   - Countries: El Salvador
 **New concept pages created:** ~20 (total in wiki/concepts/: 48)
@@ -1116,7 +1116,7 @@ Deleted 46 macOS Finder duplicate files ("* 2.md") across wiki/concepts/ (13), w
 All existing ⚠️ Contradiction flags reviewed — all remain valid and properly documented:
 1. **Seahawks "zero holdovers"** — 9/11 defensive starters were holdovers; marketing language vs. fact
 2. **Arthur Burns** — standard "capitulation" reading vs. revisionist nuance
-3. **Kian Kordestani** — CNN "Tyler Robinson" vs. other sources "Kian Kordestani" name discrepancy
+3. **Tyler Robinson** — CNN "Tyler Robinson" vs. other sources "Kian Kordestani" name discrepancy (resolved 2026-04-11: Tyler Robinson confirmed correct per FBI Director Patel; entity page renamed, all wikilinks corrected)
 4. **El Salvador tourism** — headline gains offset by weaker remittances (World Bank)
 5. **Anthropic ARR** — Zitron skepticism vs. Sherwood $7B→$9B acceleration
 6. **California hospice enforcement** — federal anti-fraud vs. political theater framing
@@ -1144,3 +1144,24 @@ All existing ⚠️ Contradiction flags reviewed — all remain valid and proper
 | Syntheses | 11 |
 | Articles | 82 |
 | Total pages | 803 |
+
+## [2026-04-11] update | Contradiction sweep — all 9 markers resolved
+
+Addressed all 9 ⚠️ Contradiction: flags identified in the prior lint. Wiki now has 0 active contradiction markers.
+
+**Resolutions:**
+
+1. **OpenAI/Anthropic ARR** — Reconciled Zitron (August 2025) skepticism with Sherwood News (October 2025) $7B→$9B data. Resolution: the ARR number materialized; Zitron's critique of the metric's misleading use remains valid. Replaced ⚠️ with reconciliation note in [[How Much Money Do OpenAI and Anthropic Actually Make]].
+
+2. **El Salvador tourism 81%** — Integrated World Bank offset finding (weaker remittances, lower exports, higher imports). Resolution: the 81% growth is real; the headline overstates net economic benefit. Replaced ⚠️ with reconciliation note in [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]].
+
+3. **Tyler Robinson (name correction)** — User confirmed Tyler Robinson is the confirmed charged killer; "Kian Kordestani" was early misidentification. Resolution: created [[Tyler Robinson]] entity page, deleted [[Kian Kordestani]] entity page, corrected wikilinks across 5 files (Charlie Kirk Assassination entity, two source pages, Crypto ZachXBT source, index). Also corrected erroneous `[[Kian Kordestani]] — N/A` entry in [[Crypto Influencers Hidden Payouts ZachXBT]].
+
+4. **Mechanical Turk Pattern ↔ Leverage Erasure** — Not a real contradiction; both pages already acknowledged each other in Related Concepts and body text. Resolution: removed ⚠️ markers from both pages; relationship now carried in body text and cross-links only.
+
+5. **Regulatory Weaponization ↔ California Hospice** — Federal posture better described as "enforcement displacement" (withdrawal of federal capacity while attacking a state that filled the gap) than simple weaponization. Resolution: updated California hospice bullet in [[Regulatory Weaponization]] with full nuanced framing; added "Variants" section naming enforcement displacement as a distinct sub-type; removed ⚠️ from [[News you won't see on Fox News — California revoked over 280 hospice licenses]], added reconciliation note.
+
+6. **Arthur Burns standard vs. revisionist** — Both framings have merit and are worth preserving. Resolution: rewrote [[Arthur Burns]] Overview to present both standard and revisionist views side by side; removed ⚠️ from both the entity page and [[Rethinking Arthur Burns the Worst Fed Chair in History]] source page. Productive tension now lives in the page body.
+
+**Files modified:** 12 wiki pages + log.md
+**Verification:** `grep "⚠️ Contradiction:" wiki/**` returns 0 matches.

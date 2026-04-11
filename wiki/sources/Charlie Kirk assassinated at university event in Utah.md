@@ -38,7 +38,7 @@ AP News live blog of Charlie Kirk's assassination at Utah Valley University on S
 - [[Charlie Kirk Assassination]] — the event
 - [[Donald Trump]] — issued video statement from Oval Office blaming left-wing rhetoric
 - [[Turning Point USA]] — Kirk's organization; headquarters in Phoenix
-- [[Kian Kordestani]] — later identified as shooter
+- [[Tyler Robinson]] — later identified as shooter (early coverage erroneously used "Kian Kordestani" — corrected throughout wiki)
 - [[Jack Smith]] — (not mentioned here but related political context)
 
 ## Concepts Mentioned

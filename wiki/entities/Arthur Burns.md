@@ -10,7 +10,9 @@ sources: 15
 
 ## Overview
 
-Arthur Burns served as Federal Reserve Chair from 1970 to 1978 under Presidents Nixon and Ford. He is the canonical cautionary example of a central banker who capitulated to presidential pressure on interest rates, contributing to the Great Inflation of the 1970s. His tenure is now invoked whenever a sitting president pressures the Fed — his name functions as a shorthand for the price of monetary policy capture.
+Arthur Burns served as Federal Reserve Chair from 1970 to 1978 under Presidents Nixon and Ford. In the standard narrative, he is the canonical cautionary example of a central banker who capitulated to presidential pressure on interest rates, contributing to the Great Inflation of the 1970s. His name now functions as a shorthand for the price of monetary policy capture.
+
+The revisionist case (Meserve, Democracy Journal, 2022) complicates this sharply: Burns was often in *open conflict* with Nixon, had principled reasons for keeping rates lower than orthodoxy preferred (fear of triggering a financial crisis, belief that wage-push inflation required fiscal tools the Fed couldn't provide alone), and pioneered the systemic risk framework that would define modern Fed crisis management. His 1978 "Anguish of Central Banking" speech admitted he knew political constraints made sufficient rate hikes impossible — an honest autopsy, not a defense. Both framings have merit. The wiki treats the Burns/Powell parallel as contested, not settled. See [[Rethinking Arthur Burns the Worst Fed Chair in History]] for the full revisionist argument.
 
 ## Key Facts
 
@@ -59,5 +61,3 @@ Arthur Burns served as Federal Reserve Chair from 1970 to 1978 under Presidents 
 - Would Burns have behaved differently if Nixon hadn't had such personal leverage over him?
 - Is the revisionist defense of Burns (fragile financial system, supply shocks) compelling enough to partially rehabilitate his record?
 - How much of the Great Inflation was attributable to Burns specifically vs. structural forces he couldn't control?
-
-> ⚠️ Contradiction: The "Rethinking Arthur Burns" source (Democracy Journal, 2022) presents a revisionist case significantly complicating the standard narrative. Burns is portrayed as frequently in open conflict with Nixon, as having principled reasons for keeping rates lower than orthodox economists preferred (financial system fragility, desire to avoid social unrest), and as the pioneer of systemic risk management. The revisionist view: Burns's real failure was not political capitulation but an overcommitment to fiscal/regulatory tools that Congress never deployed. See [[Rethinking Arthur Burns the Worst Fed Chair in History]] for full argument.

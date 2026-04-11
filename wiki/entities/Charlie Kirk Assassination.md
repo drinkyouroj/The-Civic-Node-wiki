@@ -5,7 +5,7 @@ entity_type: event
 tags: [politics, political-violence, polarization, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 20
+sources: 19
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ On September 10, 2025, Charlie Kirk — 31-year-old CEO and co-founder of [[Turn
 - Date: September 10, 2025; Kirk was 31 years old [[Charlie Kirk assassinated at university event in Utah]]
 - Shooter fired from the roof of the Losee Center, ~140 yards from the event courtyard [[Charlie Kirk assassinated at university event in Utah]]
 - ~3,000 people attended the event, the kickoff of Kirk's "American Comeback Tour" [[Charlie Kirk assassinated at university event in Utah]]
-- Shooter was later identified as [[Kian Kordestani]]; charges filed in subsequent days [[Murder suspect Kian Kordestani faces charges in Charlie Kirk's death]]
+- Shooter was later identified as [[Tyler Robinson]] (22); charges filed in subsequent days
 - Utah Gov. Spencer Cox immediately labeled it "a political assassination" [[Charlie Kirk assassinated at university event in Utah]]
 - Trump ordered flags lowered to half-staff; called Kirk a "martyr for truth and freedom" [[Charlie Kirk assassinated at university event in Utah]]
 - Trump blamed "radical left" rhetoric while omitting reference to attacks on Democrats, including the killing of MN state Rep. Melissa Hortman [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]]
@@ -29,13 +29,13 @@ The assassination is a case study in how political violence is asymmetrically pr
 ## Connections
 - [[Donald Trump]] — Kirk was a close ally and informal adviser since 2016; Trump led public response
 - [[Turning Point USA]] — Kirk's organization; Kirk was CEO and co-founder
-- [[Kian Kordestani]] — identified as the shooter; charged with murder
+- [[Tyler Robinson]] — identified as the shooter; charged with murder
 - [[2025 United States Government Shutdown]] — Kirk's death directly delayed the CR bill and added $203.5M in security funding to the eventual deal
 - [[Political Violence Cycle]] — Kirk's death is a key node in the escalating pattern of U.S. political assassinations
 
 ## Key Facts (additions)
 - Suspected shooter Tyler Robinson (22) confessed in a Discord group chat ~2 hours before surrendering; wrote "Some hatred cannot be negotiated with" per FBI Director Kash Patel [[Live updates Vance hosts Charlie Kirk Show]]
-- Note: Sources use both "Tyler Robinson" and "Kian Kordestani" as the suspect's name — potential early identification confusion; cross-check required
+- Tyler Robinson is the confirmed charged suspect; early coverage erroneously used "Kian Kordestani" (now corrected throughout wiki)
 - Trump called for "revenge at the voter box" on Fox & Friends two days after Kirk's death; called right-wing radicals "radical because they don't want crime" — rationalizing right-wing radicalism [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]]
 - Vance hosted "The Charlie Kirk Show" Sept. 15 and called the killing the product of "a growing and powerful minority on the far left" [[Live updates Vance hosts Charlie Kirk Show]]
 - Trump planned to speak at Kirk's funeral in Phoenix at a stadium; called Kirk "an amazing guy" [[Live updates Vance hosts Charlie Kirk Show]]
@@ -51,7 +51,7 @@ The assassination is a case study in how political violence is asymmetrically pr
 - [[Senate Republicans delay spending package after Kirk's killing – Politico]] — legislative impact
 - [[The Charlie Kirk assassination — what we know]] — factual summary
 - [[What We Know About the Man Who Shot Charlie Kirk]] — shooter profile
-- [[Murder suspect Kian Kordestani faces charges in Charlie Kirk's death]] — criminal case
+- [[Live updates Vance hosts Charlie Kirk Show]] — criminal case updates; Robinson's Discord confession per FBI Director Patel
 - [[Flashback Trump repeatedly praised and defended Charlie Kirk]] — historical relationship
 - [[Trump's political impact of Kirk assassination]] — political analysis
 - [[Trump blames the radical left for Charlie Kirk's killing]] — immediate response; selective mourning; omitted Democratic victims
@@ -59,7 +59,7 @@ The assassination is a case study in how political violence is asymmetrically pr
 - [[Live updates Vance hosts Charlie Kirk Show]] — Sept. 15 investigation updates; Discord confession; Vance hosting Kirk's show; DOJ weighing charges
 
 ## Open Questions
-- What was Kordestani's stated motive? Was there organizational connection or lone-wolf radicalization?
+- What was Robinson's stated motive beyond the Discord message? Was there organizational connection or lone-wolf radicalization?
 - How did Kirk's death affect TPUSA's organizational trajectory and funding?
 - Did the elevated political violence atmosphere post-Kirk lead to any measurable change in threat incidents against officials?
 - Why did Trump's statement omit attacks on Democrats? Was this deliberate messaging strategy?
