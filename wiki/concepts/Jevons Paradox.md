@@ -4,7 +4,7 @@ type: concept
 tags: [economics, technology, ai, energy]
 created: 2026-04-11
 updated: 2026-04-11
-sources: 4
+sources: 7
 ---
 
 ## Definition
@@ -29,6 +29,8 @@ Jevons Paradox sits at the intersection of multiple newsletter themes:
 - **AI compute (2025)**: DeepSeek's efficient model triggered fears of reduced demand for US AI infrastructure. Nadella's Jevons citation reframed this as bullish -- cheaper AI means more AI usage, more compute demand overall.
 - **Highways**: More lanes (efficiency) create more traffic (induced demand). Scholars have documented Jevons-like effects in infrastructure capacity.
 - **Refrigeration**: David Owen (New Yorker, 2010) argued that more-efficient refrigeration led to multiple fridges per household, mini-fridges in hotels, and ultimately higher total energy consumption.
+- **TurboQuant and AI memory (March 2026)**: Google published TurboQuant, a compression technique reducing LLM context window memory requirements by 6x. Memory chip stocks dropped 5-6% on the news. But within days, the market stabilized — analysts and investors applied Jevons paradox reasoning: if AI needs 1/6th the memory per context window, companies will simply use 6x longer context windows and deploy more AI agents. The efficiency gain won't reduce total memory demand; it will expand AI's addressable market. [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
+- **Video streaming bandwidth**: Before modern compression, 360p video used significant bandwidth. Better codecs didn't reduce bandwidth consumption — people streamed more content, at higher resolutions, on more devices simultaneously. Total bandwidth consumption exploded. [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
 
 ## Tensions & Counterarguments
 
@@ -47,3 +49,6 @@ Jevons Paradox sits at the intersection of multiple newsletter themes:
 ## Key Sources
 
 - [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]]
+- [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]]
+- [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
+- [[DDR5 Retail Prices Pullback Amid Market Correction — TrendForce]]

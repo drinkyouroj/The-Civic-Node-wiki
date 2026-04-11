@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, infrastructure, supply-chain]
 created: 2026-04-11
 updated: 2026-04-11
-sources: 4
+sources: 15
 ---
 
 ## Overview
@@ -18,6 +18,12 @@ Samsung Electronics is a South Korean multinational and one of the world's large
 - South Korea imported ~64.7% of its helium from [[Qatar]] in 2025, creating acute supply vulnerability [[Helium Crisis Tightens Grip On Global Chip Supply Chain]]
 - Deployed industry-first Helium Reuse System (HeRS) to recover, purify, and reuse high-purity exhaust helium [[Helium Crisis Tightens Grip On Global Chip Supply Chain]]
 - Memory fabrication is particularly helium-intensive due to repeated high-heat etching and deposition steps for 3D stacking
+- Signed non-binding LOI with [[OpenAI]] (Oct 1, 2025) for massive DRAM wafer supply, unaware of parallel [[SK Hynix]] deal. Combined deals consumed ~40% of global DRAM output [[Sam Altman's Dirty DRAM Deal]]
+- Profits estimated at 8x the same period of prior year during the memory crisis [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
+- Now [[Apple]]'s largest DRAM supplier, accounting for 60-70% of iPhone 17 series shipments [[Apple Executives Booking Extended Hotel Stays for DRAM LTA — WCCFTech]]
+- **Strike threat (May 2026)**: 90,000 unionized workers voting on 18-day strike from May 21, 2026; could halt ~50% of Pyeongtaek semiconductor production. Pay gap with [[SK Hynix]] is primary grievance. Workers seeking 7% base wage increase + profit-sharing. [[Samsung workers' strike plan would disrupt chip supply]]
+- Signed MOU with [[AMD]] (Mar 18, 2026) for HBM4 supply for MI455X GPU + DDR5 for EPYC Venice CPUs. Lisa Su visited Pyeongtaek and met with Vice Chairman Lee Jae-yong. [[Samsung and AMD Expand Strategic Collaboration — Press Release]]
+- [[Tesla]] actively poaching Samsung chip designers [[Samsung workers' strike plan would disrupt chip supply]]
 
 ## Newsletter Relevance
 
@@ -29,9 +35,21 @@ Samsung's dominance in memory chips places it at the center of several newslette
 - [[TSMC]] — Taiwan-based logic chip foundry; different exposure profile but shared helium vulnerability
 - [[Qatar]] — primary helium supplier; offline since Iranian strikes
 
+- [[OpenAI]] — signed non-binding LOI for DRAM supply (Oct 2025)
+- [[Apple]] — largest DRAM customer (60-70% of iPhone 17)
+- [[AMD]] — MOU for HBM4 + DDR5 supply (Mar 2026)
+- [[Tesla]] — poaching Samsung chip designers
+- [[CXMT]] — Chinese competitor being used by Apple as pricing leverage
+
 ## Source Appearances
 
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — central subject; deployed HeRS, faces acute helium supply risk
+- [[Sam Altman's Dirty DRAM Deal]] — signed LOI for DRAM wafers alongside SK Hynix
+- [[Samsung workers' strike plan would disrupt chip supply]] — 90K union members, 18-day strike vote
+- [[Apple Executives Booking Extended Hotel Stays for DRAM LTA — WCCFTech]] — became Apple's largest DRAM supplier
+- [[Samsung and AMD Expand Strategic Collaboration — Press Release]] — HBM4 + DDR5 MOU with AMD
+- [[OpenAI funding fears hit memory chip prices]] — stock crashed on TurboQuant news
+- [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]] — 8x profit growth during crisis
 
 ## Open Questions
 
