@@ -1,6 +1,6 @@
 # The Civic Node — Research Wiki
 
-The research vault and knowledge base behind [The Civic Node](https://wiki.hearn.me) newsletter. Built with [Quartz](https://quartz.jzhao.xyz/) and maintained as a structured Obsidian vault.
+The research vault and knowledge base behind [The Civic Node](https://drinkyouroj.substack.com) newsletter. Built with [Quartz](https://quartz.jzhao.xyz/) and maintained as a structured Obsidian vault.
 
 **Live site**: [wiki.hearn.me](https://wiki.hearn.me)
 
