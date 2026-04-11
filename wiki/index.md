@@ -3,7 +3,7 @@ title: "Wiki Index"
 type: index
 updated: 2026-04-11
 total_pages: 806
-total_sources: 410
+total_sources: 423
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -75,6 +75,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[US M2 Money Supply YoY Historical Data]] — M2 negative YoY during inflation = supply-shock evidence, not monetary
 - [[Trump cuts energy projects California Carlsbad NOTUS]] — NOTUS methodology; blue-state energy grant cancellation political targeting
 - [[Trump announces massive trade deal with Japan Al Jazeera]] — Japan deal; 15% tariffs; Boeing + agricultural concessions
+- [[CFR — Kevin Warsh Won't Revolutionize the Fed]] — CFR analysis; Warsh nomination; Fed independence and policy outlook
+- [[Commonfund — Fed Watching under Warsh]] — Institutional investor perspective on Warsh-era monetary policy
+- [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]] — Asset manager view; balance sheet implications; forward guidance changes
+- [[PBS NewsHour — What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve]] — NewsHour analysis; Warsh as Powell replacement; rate policy outlook
+- [[The Fulcrum — Warsh's Family Fight Model]] — Warsh's communication philosophy; "family fight" approach to Fed messaging
+- [[Nixon shock - Wikipedia]] — Wikipedia; Bretton Woods end; gold window closure; SWIFT origin
 
 ### Iran / Geopolitics
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
@@ -244,6 +250,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Congress Delivers for Crypto — Hill Op-Ed by Chairman Hill and Thompson]] — The Hill, Jul 14 2025; op-ed by committee chairs French Hill + G.T. Thompson; "national priority" framing; Biden-blame; GENIUS + CLARITY + Anti-CBDC package
 - [[State of Crypto — Government Shutdown Nears a Record]] — CoinDesk Nov 1 2025; shutdown's cascading effect on CLARITY Act Senate timeline; Oct 20 markup missed; Democratic leverage calculus
 - [[CLARITY Act One-Pager — House Financial Services Committee]] — Official one-page summary; "Digital Asset Market Clarity Act" formal framing
+- [[Bitcoin soars past $120,000 ahead of Crypto Week]] — Bitcoin price surge before Crypto Week; market context
+- [[Conservative Crypto Rebellion Breaks — Fox Business]] — Fox Business; right-wing GENIUS Act rebellion; procedural dynamics
+- [[IMF — Staff-Level Agreement with El Salvador on Extended Fund Facility]] — IMF EFF agreement; Bitcoin mandate removal conditions
+- [[US Government Targeting Cryptocurrency Financial Surveillance EFF]] — EFF; government crypto surveillance concerns; privacy implications
 
 ### Domestic Politics — Shutdown, Kirk, ICE, Elections
 - [[DOJ OLC Opinion — Presidential Records Act Unconstitutional]] — The Independent, Apr 2 2026; OLC finds PRA unconstitutional; president "need not further comply"; sets up documents fight when Trump leaves office
@@ -373,6 +383,16 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[State-Created Damages Remedies Against Federal Officials]] — Legal scholarship; Section 1983 implications for federal accountability
 - [[Virginia results map shows where Abigail Spanberger won election]] — Geographic analysis; coalition composition data
 - [[Democrat Abigail Spanberger to make history as Virginia's 1st female governor]] — Historic first; moderate Democrat as governing template
+- [['Made of sunshine' Renee Good's wife speaks out following fatal Minneapolis ICE shooting]] — Human interest; victim profile; ICE shooting aftermath
+- [['They're trying to break us' Trump's focus on Minnesota boils over with ICE shooting]] — Trump targeting Minnesota; ICE shooting political fallout
+- [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]] — CBC analysis; Kirk assassination and polarization dynamics
+- [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] — City analysis; $203M economic impact; one-month enforcement cost
+- [[Comedian John Mulaney postpones Minneapolis show after shooting]] — Cultural ripple effect of ICE shooting
+- [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]] — Federal court ruling; Tenth Amendment; Minnesota v. federal enforcement
+- [[Marjorie Taylor Greene breaks with Republicans over health care in shutdown fight]] — MTG coalition fracture; healthcare vs. shutdown politics
+- [[Marjorie Taylor Greene highlights Trump cavalier attitude toward political threats]] — MTG political violence critique
+- [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]] — Methodology challenges in measuring enforcement economic impact
+- [[Trump Jan 6 pardons rollout explainer source]] — January 6 pardon mechanics and political context
 
 ### Mental Health / ADHD / Autism
 - [[APA Stress in America 2024 — A Nation in Political Turmoil]] — APA/Harris Poll, Oct 2024; 77% cite nation's future as stressor; 56% fear end of democracy
@@ -401,6 +421,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Masking Is Life — Experiences of Masking in Autistic and Nonautistic Adults]] — 2021 peer-reviewed; cross-neurotype masking comparison; 87% autistic adults mask
 - [[Differential Prefrontal Cortex and Amygdala Habituation to Emotional Stimuli]] — PubMed 2001; neuroscience grounding for political stress dynamics; amygdala habituation
 - [[HHS OCR Breach Portal — Health Data Breaches]] — Regulatory context for BetterHelp story; HIPAA gap (HHS had no jurisdiction → FTC did)
+- [[Reason — DEA shuts down drug factory even as Adderall shortage persists]] — Reason; DEA Operation Bottleneck; Ascent Pharmaceuticals shutdown during active shortage
+- [[Federal Register — 2026 Aggregate Production Quotas Final Order]] — Primary source; DEA quota mechanics; stimulant allocation for 2026
+- [[Vermont Law Review — The Quota Crisis Vyvanse Adderall and the Regulation That Limits Access]] — Legal scholarship; Controlled Substances Act quota chokepoint; regulatory reform framework
+- [[A systematic review of echo chamber research]] — JCSS; 129 studies; no consensus on echo chambers; methodology drives divergent findings
+- [[Fueling the Fire How Social Media Intensifies US Political Polarization]] — NYU Stern; Facebook internal research on polarization amplification
 
 ### NFL — Seahawks / Super Bowl LX
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — WBAY, Feb 6 2026; zero-holdover GM wins Super Bowl; Executive of the Year
