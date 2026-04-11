@@ -937,7 +937,7 @@ Three-agent sweep complete. 7 patterns, 8 contradictions, 7 underexplored angles
 2. [[Fed Independence Under Endogenous Supply Shock]] — 6/6 — Martin not Burns; endogenous tariff inflation as unprecedented Fed leverage
 3. [[Operation Metro Surge as Institutional Breakdown]] — 6/6 — $200M, 3,789 arrests, 2 deaths, 96 court order violations, FBI evidence seizure
 4. [[Chokepoint Control as Power's Architecture]] — 6/6 — cross-domain theory connecting Strait, GENIUS Act, DEA quotas, App Store, Fed, salary cap
-5. [[El Salvador Bitcoin: Policy Failure as Profit Model]] — 5/6 — 92% non-adoption + $333M government gain = the scheme worked as designed
+5. [[El Salvador Bitcoin — Policy Failure as Profit Model]] — 5/6 — 92% non-adoption + $333M government gain = the scheme worked as designed
 
 **Secondary candidates for next sweep:** Anthropic "supply chain risk" vs. $200M DoD contract; GENIUS Act corruption-vs-defensibility tension; Tech Sovereignty Cascade; Political Violence Cycle.
 
@@ -952,7 +952,7 @@ Independent web search to fulfill the 5 source acquisition targets flagged by th
 **Material development (Hook #2 Fed)**: Warsh nomination is no longer hypothetical — Trump formally nominated him Jan 30 2026. Warsh track record and projected regime now filed to [[Fed Independence Under Endogenous Supply Shock]]. Editorial framing shifts from "will Powell hold?" to "which Warsh shows up at the FOMC?" Note: need to create [[Kevin Warsh]] entity page in next update cycle.
 
 **Other resolutions:**
-- Hook #5 El Salvador: IMF Press Release 24/485 (Dec 18 2024) + Country Reports 25/58 and 25/68 cited to [[El Salvador Bitcoin: Policy Failure as Profit Model]]
+- Hook #5 El Salvador: IMF Press Release 24/485 (Dec 18 2024) + Country Reports 25/58 and 25/68 cited to [[El Salvador Bitcoin — Policy Failure as Profit Model]]
 - Hook #3 Metro Surge: 96 court-order violations sourced to Chief Judge Schiltz ruling Jan 28 2026 (D. Minn.), with CNBC/JURIST/Wikipedia coverage
 - Hook #4 Chokepoint: DEA quota legal framework partially resolved (Federal Register APQ, Ascent v. DEA, Barbara v. Shire, Vermont Law Review). App Store side (Epic v. Apple, EU DMA) still requires ingestion.
 
@@ -1014,7 +1014,7 @@ Full INGEST workflow on the 12 sources clipped to resolve the insight-sweep sour
 
 ## [2026-04-08] ingest | 5 new sources — Epic v. Apple, Iran ceasefire, civilian targeting, Wisconsin SC, GA-14 special
 
-Scraped Epic Games v. Apple from Wikipedia (the chokepoint legal-framework target identified in [[insight-sweep-2026-04-08]]) and ingested 4 user-clipped raw files covering the April 7, 2026 news cycle: Reason on Trump's open civilian targeting, CBC on the Trump-Iran two-week ceasefire, Newsweek on Chris Taylor's Wisconsin Supreme Court win, and The Hill on Clay Fuller's GA-14 special election victory.
+Scraped Epic Games v. Apple from Wikipedia (the chokepoint legal-framework target identified in [[Insight Sweep — 2026-04-08]]) and ingested 4 user-clipped raw files covering the April 7, 2026 news cycle: Reason on Trump's open civilian targeting, CBC on the Trump-Iran two-week ceasefire, Newsweek on Chris Taylor's Wisconsin Supreme Court win, and The Hill on Clay Fuller's GA-14 special election victory.
 
 **Source pages created** (5):
 - [[Epic Games v Apple - Wikipedia]] — comprehensive case record; chokepoint reconstituting itself in compliance form before April 2025 contempt finding
@@ -1064,3 +1064,23 @@ Ran `scripts/add_source_urls.py` to backfill original source URLs across all wik
 ## [2026-04-09] update | Bulk-added Substack URLs to 80 wiki/articles/ pages
 
 Ran `scripts/add_article_urls.py` to backfill original Substack URLs across all wiki/articles/ pages (including episodes/). Each updated page now has a `source_url:` frontmatter field and a `[Read on Substack](URL)` link before the first section heading. 2 series index pages (DeepTruth — Series, Help Desk for the Singularity — Series) were correctly skipped as they have no corresponding published file. 1 page (13-3 The Box Score...) was fixed manually due to a curly-quote mismatch in the stored filename.
+
+## [2026-04-11] update | Created 11 entity/concept stub pages to resolve broken wikilinks
+
+Created 7 entity stubs: John Perry Barlow (person), Phil Lesh (person), Roger Goodell (person), Thom Tillis (person), Roc Nation (organization), Airbnb (organization), US Department of Defense (organization). Created 4 concept stubs: DEA Aggregate Production Quotas, Controlled Substances Act, Differential Voter Engagement, Late Diagnosis and Identity. Federal Power as Political Instrument already existed in the index but its wiki page was created as the most-referenced missing page (9x cross-links). Also added Neurodiversity to the index (page already existed but was missing from index). Updated wiki/index.md with all new entries. Total pages: 703.
+
+## [2026-04-11] lint | Deep wiki audit — broken links, missing pages, filename mismatches
+
+**385 broken wikilinks found** across the vault. Fixed in priority order:
+
+**Phase 1 — Synthesis filename/title mismatches (11 files renamed)**: All synthesis files used slugified filenames (e.g., `insight-sweep-2026-04-08.md`) but wikilinks referenced display titles. Renamed all 11 to match titles. Fixed `El Salvador Bitcoin: Policy Failure` colon → em-dash for macOS filesystem safety. Updated cross-references in index and log.
+
+**Phase 2 — Source filename truncations (3 files renamed)**: Three source pages had truncated filenames that didn't match wikilink titles. Renamed to match.
+
+**Phase 3 — Entity/concept stub creation (26 new pages)**: Created pages for all entities/concepts referenced 3+ times: FOMC, Drug Enforcement Administration (alias: DEA), Tom Homan, Jacob Frey, City of Minneapolis, U.S. Department of the Treasury (alias: Treasury), Federal Trade Commission (alias: FTC), Food and Drug Administration (alias: FDA), European Commission, Alan Greenspan, Ben Bernanke, Elizabeth Warren, Hoover Institution, Morgan Stanley, John Perry Barlow, Phil Lesh, Roger Goodell, Roc Nation, Airbirb, US Department of Defense (alias: DoD), Thom Tillis, Federal Power as Political Instrument, DEA Aggregate Production Quotas, Controlled Substances Act, Differential Voter Engagement, Late Diagnosis and Identity. Added Obsidian aliases for dual-reference entities.
+
+**Phase 4 — Alias additions**: Added `aliases: ["Helium"]` to Helium Network entity.
+
+**Result**: ~65 high-impact broken links resolved. ~320 low-priority links remain (referenced 1-2 times; will resolve naturally as sources are ingested). Total pages: 749.
+
+**Unfinished work surfaced**: 14 raw files not yet ingested (visible in git status). 23 entity/concept pages with sources: 0.

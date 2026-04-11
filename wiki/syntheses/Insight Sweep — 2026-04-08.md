@@ -34,11 +34,11 @@ query: "Three-agent editorial sweep: patterns, contradictions, underexplored ang
 **Status**: Ready to draft (DePIN angle benefits from recent local LLM ingests)
 → [[Chokepoint Control as Power's Architecture]]
 
-### 5. El Salvador Bitcoin: Policy Failure as Profit Model — Score: 5/6
+### 5. El Salvador Bitcoin — Policy Failure as Profit Model — Score: 5/6
 **Type**: Underexplored Angle
 **One-line**: The Bitcoin experiment failed as currency (92% non-adoption) and succeeded as speculation ($333M government gain) — the scheme worked exactly as designed, just not as advertised.
 **Status**: Ready to draft — IMF conditionality sourcing gap should be filled before publication
-→ [[El Salvador Bitcoin: Policy Failure as Profit Model]]
+→ [[El Salvador Bitcoin — Policy Failure as Profit Model]]
 
 ---
 
