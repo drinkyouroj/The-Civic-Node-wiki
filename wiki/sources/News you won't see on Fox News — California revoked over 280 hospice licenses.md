@@ -29,8 +29,6 @@ California Governor's office press release documenting the state's independent h
 - California DHCS uses AI-powered fraud detection; requires verified authorization forms before any hospice payments; implementing prior authorization requirements
 - Key jurisdictional note: Medicare is federally administered (CMS); Medi-Cal is state-administered. California's enforcement covers Medi-Cal. Federal officials attacking CA on Medicare fraud are attacking something outside California's jurisdiction
 
-> ⚠️ Contradiction: [[Regulatory Weaponization]] characterizes federal hospice enforcement as legitimate anti-fraud work with a political targeting dimension. This source complicates that framing: California built robust independent enforcement years before the Trump-Oz attacks, and the federal government simultaneously defunded its own enforcement while publicly attacking the state. The federal posture looks less like enforcement and more like political theater against a blue state.
-
 ## Newsletter Angles
 
 - **The inversion story**: The CMS narrative frames California as permissive and fraud-ridden. The actual record shows California built enforcement infrastructure years before federal pressure — and the federal government is now dismantling its own oversight. This is a clean reversal of the official narrative.
@@ -62,3 +60,5 @@ California Governor's office press release documenting the state's independent h
 **What it does establish**: The moratorium and task force predate the Trump administration by years. The enforcement record (280+ revocations, 284 arrests) is documented state action, not posturing.
 
 **Cross-reference**: The existing source [[8 arrests in federal crackdown on alleged health care fraud in Southern California]] shows the federal enforcement side. Read together, the two sources show a state-federal standoff where California built the actual enforcement infrastructure and federal officials are claiming credit for work they didn't do while dismantling what they control.
+
+**Framing (reconciled):** This case fits under [[Regulatory Weaponization]] but as a specific variant: **enforcement displacement** — the federal actor withdraws its own enforcement capacity while attacking a state that filled the gap. See the Variants section in the Regulatory Weaponization concept page for the full framing.

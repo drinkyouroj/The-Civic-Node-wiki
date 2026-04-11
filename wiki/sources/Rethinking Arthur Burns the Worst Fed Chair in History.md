@@ -29,8 +29,6 @@ A revisionist academic essay in Democracy Journal arguing that Arthur Burns has 
 - Price/wage controls of 1971-72 worked initially: inflation held at 3.3% in 1972 with broad bipartisan support
 - Burns's "Anguish of Central Banking" speech (1978): he admitted that political constraints made it impossible for the Fed to raise rates high enough — an honest autopsy, not a defense
 
-> ⚠️ Contradiction: Existing Arthur Burns page describes him as having "capitulated to Nixon" and as the canonical cautionary example of political capture. This source argues the reality was more nuanced — Burns was often in conflict with Nixon and had principled (if debatable) reasons for his monetary stance. Both framings have merit; the existing page reflects the standard conventional reading, while this source presents the revisionist case.
-
 ## Newsletter Angles
 
 - The revisionist Burns is more interesting than the villain Burns for the newsletter: he was an economist who believed the Fed couldn't solve inflation alone, who warned that pure rate orthodoxy would require historically brutal hikes with massive collateral damage — and he was right that Volcker's cure was painful

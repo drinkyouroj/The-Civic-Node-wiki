@@ -265,7 +265,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Senate Republicans Hold Social Media Jawboning Hearing — Transcript]] — TechPolicy.press, Oct 2025; GOP hearing on Biden-era CISA; FCC Chair Carr's ABC threat
 - [[Murthy v Missouri — Wikipedia]] — SCOTUS Jun 2024; 6-3 dismissed on standing; March 2026 settlement bars CISA coercion 10 years; Alito dissent; "one of the most important free speech cases in years"
 - [[Shut Your App — Senate Commerce Committee Jawboning Hearing]] — Cruz Commerce Cmte, Oct 8 2025; links CISA jawboning to AI as next frontier; Carr FCC threat; cross-platform context
-- [[Charlie Kirk assassinated at university event in Utah]] — AP News live blog, Sep 10 2025; assassination at UVU; Kian Kordestani; political fallout
+- [[Charlie Kirk assassinated at university event in Utah]] — AP News live blog, Sep 10 2025; assassination at UVU; Tyler Robinson (charged shooter); political fallout
 - [[Conservative activist Charlie Kirk assassinated at Utah university]] — AP retrospective; Kirk's rise from teenage conservative to TPUSA CEO
 - [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]] — CBC News analysis; political implications; polarization escalation
 - [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]] — Right-wing media and grassroots response; "we're at war" rhetoric
@@ -510,7 +510,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ## Entities
 
 ### Events
-- [[Charlie Kirk Assassination]] — Sep 10 2025; Turning Point USA CEO killed at UVU; shooter Kian Kordestani; massive political fallout; shutdown delayed
+- [[Charlie Kirk Assassination]] — Sep 10 2025; Turning Point USA CEO killed at UVU; shooter Tyler Robinson (charged); massive political fallout; shutdown delayed
 - [[Killing of Renée Good]] — Jan 7 2026; ICE agent Jonathan Ross fatally shoots U.S. citizen Renée Good; DOJ investigated victim not shooter; mass prosecutor resignations
 - [[Operation Metro Surge]] — Dec 2025–Feb 2026; ICE/CBP mass enforcement in Minneapolis; 3,789+ arrests; 35% collateral; 96+ court order violations; $203.1M total one-month impact ($81M business revenue + $47M lost wages per City of Minneapolis preliminary assessment)
 - [[2025 United States Government Shutdown]] — Oct 1–Nov 12 2025; 43-day record; Kirk assassination delayed CR; Timothy Mellon private $130M military pay donation
@@ -545,7 +545,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Russell Wilson]] — Seahawks QB 2012-2021; dynasty-era QB; trade to Denver funded the rebuild
 - [[Lamar Jackson]] — Ravens QB; two-time MVP; Mike Macdonald's QB during his Ravens DC tenure
 - [[Nayib Bukele]] — President of El Salvador; made Bitcoin legal tender 2021; Millennial Dictator self-branding; authoritarian consolidation
-- [[Kian Kordestani]] — Suspect charged in Charlie Kirk assassination; Sep 10 2025 UVU shooting
+- [[Tyler Robinson]] — Confirmed charged shooter in Charlie Kirk assassination; Sep 10 2025 UVU shooting; Discord confession per FBI Director Patel
 - [[Keith Ellison]] — Minnesota AG; led legal fight against Operation Metro Surge; sued to block ICE enforcement
 - [[Zohran Mamdani]] — Democratic socialist NY Assembly member; elected NYC mayor Nov 4 2025; democratic socialist victory
 - [[Jeffrey Epstein]] — Financier and convicted sex offender; 5.2M DOJ pages still under review; connections to political elite
