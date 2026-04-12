@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
-updated: 2026-04-11
-sources: 20
+updated: 2026-04-12
+sources: 26
 ---
 
 ## Overview
@@ -24,8 +24,8 @@ OpenAI is the San Francisco-based AI company behind ChatGPT and the GPT model se
 - **DRAM crisis (Oct 2025)**: Signed simultaneous letters of intent (LOIs, non-binding) with [[Samsung]] and [[SK Hynix]] for ~900,000 DRAM wafers/month — roughly 40% of global supply (~2.2-2.3M total). Neither supplier knew about the other's deal. LOI valued at **$71.3B over four years** (analyst estimate). Triggered a global memory panic: DRAM contract prices rose 171% YoY by Q3 2025; 64GB DDR5 went $180->$710 (294%); quote windows compressed to 7 days. Apple, Amazon, Microsoft, and AMD flew executives to South Korea and locked in 2-3 year binding deals at peak prices. [[Sam Altman's Dirty DRAM Deal]] [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] [[The Letter That Moved a Market — Medium]] [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]]
 - **Spending cut (Feb 2026)**: Cut compute spending target from $1.4 trillion to ~$600 billion through 2030 — a 57% reduction. 2025 revenue was $13.1 billion against $8 billion cash burn. [[OpenAI Massively Cuts Spending Plan as Reality Closes In — Futurism]]
 - **Stargate cancelled (Mar 2026)**: Flagship data center expansion in Abilene, TX killed after Oracle financing negotiations collapsed and OpenAI's demand forecasts shifted. The 1.2GW→2.0GW expansion was scrapped; Microsoft took over the site. [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]]
-- **TBPN acquisition (Apr 2026)**: Acquired podcast TBPN for a reported sum in the "low hundreds of millions" (FT). TBPN had 58K YouTube subscribers. Ben Thompson called OpenAI "the short bus at the end of the rainbow" in response. [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
-- Sora (video generation) shuttered; ads pivot launched but ad quality described as "terrible" and "low-effort keyword-driven"
+- **TBPN acquisition (Apr 2026)**: Acquired podcast TBPN for a reported sum in the "low hundreds of millions" (FT); WSJ reported TBPN on track for $30M+ revenue. TBPN had 58K YouTube subscribers. Chris Lehane (OpenAI VP of Global Affairs) oversees it. Ben Thompson called OpenAI "the short bus at the end of the rainbow" in response. [[OpenAI Acquires TBPN — TechCrunch]] [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
+- **Sora shuttered (Mar 2026)**: Discontinued the consumer video app and API; Sora research team redirected to "world simulation research" for robotics. Part of broader cost-cutting. ChatGPT image generator unaffected. [[OpenAI Pulls the Plug on Its Sora AI Video App]] [[OpenAI Shutters Sora App — CNBC]]
 
 ## Newsletter Relevance
 OpenAI's scale and Microsoft relationship create a structural advantage that smaller AI companies (Anthropic, Mistral) are racing to overcome. The Microsoft deal is simultaneously the source of its enterprise dominance and a target of antitrust scrutiny. OpenAI is also the primary subject of EU AI Act high-impact model provisions — the first company to face systemic risk assessment requirements.
@@ -53,6 +53,12 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]] — consumer-facing synthesis of entire DRAM crisis
 - [[The Letter That Moved a Market — Medium]] — LOI valued at $71.3B/4yr; 171% contract price rise; demand collapse timeline
 - [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]] — contemporary "strategic denial" framing (Dec 2025)
+- [[OpenAI Stargate 900K DRAM Wafers — TrendForce]] — TrendForce analysis of 900K wafer LOIs representing 40% of global output
+- [[OpenAI Orders 71B in Korean Memory Chips — Light Reading]] — analyst estimate of $71.3B combined LOI value
+- [[TrendForce DRAM Market Share Q3 2025]] — oligopoly context: top 3 = 91.5% global DRAM revenue
+- [[OpenAI Acquires TBPN — TechCrunch]] — TBPN podcast acquisition, April 2026
+- [[OpenAI Pulls the Plug on Its Sora AI Video App]] — CBS News on Sora shutdown and compute reallocation
+- [[OpenAI Shutters Sora App — CNBC]] — CNBC's "reels in costs" framing of Sora discontinuation
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?

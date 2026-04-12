@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-11
-total_pages: 819
-total_sources: 435
-total_entities: 174
-total_concepts: 115
+updated: 2026-04-12
+total_pages: 839
+total_sources: 450
+total_entities: 177
+total_concepts: 116
 total_syntheses: 13
-total_articles: 82
+total_articles: 83
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -481,6 +481,22 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ### Recent Ingests (2026-04-11)
 
+#### AI DRAM Crisis Cluster (2026-04-12 additions)
+- [[DRAM Prices Surge 171 Percent YoY — Toms Hardware]] — Tom's Hardware, Nov 2025; 171% YoY surge outpacing gold; AI demand primary catalyst; Aaron Klotz
+- [[Gartner Memory Costs Reduce PC Smartphone Shipments 2026]] — Gartner, Feb 2026; sub-$500 entry-level PC segment disappears by 2028; shipment contraction forecasts
+- [[HP Memory Costs 35 Percent of PC Build — Toms Hardware]] — Tom's Hardware, Feb 2026; HP earnings: memory doubled to 35% of PC BOM in one quarter; margin pressure through 2027
+- [[IDC Global Memory Shortage Crisis Market Analysis 2026]] — IDC, Jan 2026; structural analysis; PC market -4.9 to -8.9%; smartphones -2.9 to -5.2%; "end of era of cheap memory"
+- [[Memory Shortage Driving Higher Costs — Sourceability]] — Sourceability, Dec 2025; SK Hynix 70% HBM operating margin; procurement quote windows compressed; DDR4 also rising
+- [[Micron Killing Crucial SSDs and Memory — Toms Hardware]] — Tom's Hardware, Dec 2025; Micron exits consumer Crucial brand entirely; HBM/enterprise pivot
+- [[OpenAI Orders 71B in Korean Memory Chips — Light Reading]] — Light Reading, Oct 2025; analyst estimate: $71.3B combined LOI value over 4 years (403 — stub)
+- [[OpenAI Stargate 900K DRAM Wafers — TrendForce]] — TrendForce, Oct 2025; 900K wafer starts/month = 40% of global output; SK Hynix M15X + Yongin expansion plans
+- [[Samsung HBM DDR5 DRAM Capacity Shift — Digitimes]] — Digitimes, Dec 2025; Samsung shifts 80K wafer starts HBM→DDR5 RDIMM as demand collapsed (paywall)
+- [[Toms Hardware RAM Price Index 2026]] — Tom's Hardware, Jan 2026; living price tracker; 32GB DDR5 under $90 (Apr 2025) → $400 (Apr 2026)
+- [[TrendForce DRAM Market Share Q3 2025]] — TrendForce, Nov 2025; SK Hynix 33.2%, Samsung 32.6%, Micron 25.7%; combined 91.5%; Q4 outlook +45-55% QoQ
+- [[OpenAI Acquires TBPN — TechCrunch]] — TechCrunch, Apr 2026; OpenAI acquires cult Silicon Valley founder podcast; $30M+ revenue; Chris Lehane oversight
+- [[OpenAI Shutters Sora App — CNBC]] — CNBC, Mar 2026; "as company reels in costs" framing; Sora discontinuation (403 — companion to CBS source)
+- [[OpenAI Pulls the Plug on Its Sora AI Video App]] — CBS News, Mar 2026; full Sora discontinuation coverage; compute reallocation to robotics research; Disney deal rendered moot
+
 #### AI DRAM Crisis Cluster
 - [[Sam Altman's Dirty DRAM Deal]] — Moore's Law Is Dead, Nov 2025; OpenAI's secret dual deals with Samsung/SK Hynix for 40% of global DRAM; 156-172% price spike; artificial scarcity strategy
 - [[OpenAI funding fears hit memory chip prices]] — Telegraph, Mar 2026; OpenAI spending cuts easing RAM prices; 700% surge over past year; Sora shuttered; Stargate scrapped
@@ -501,6 +517,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[DDR5 Retail Prices Pullback Amid Market Correction — TrendForce]] — TrendForce, Mar 2026; Germany -7.2% MoM but +408% vs Jul 2025; Corsair 32GB $379.99; contract prices stable
 
 #### Infrastructure & Geopolitics
+- [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]] — NYT, Mar 2026; Qatar offline; Iran strikes Ras Laffan; 200 containers stranded in Hormuz; 6-week chip maker buffer; Air Liquide Taichung factory
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Forbes/Tirias Research, Apr 2026; Qatar helium (33% global) offline from Iran strikes; 27-30% supply removed; 40-100% price surge; double chokepoint with DRAM crisis
 - [[Five things to know about Hungary's election]] — Apr 2026; Hungary election as illiberal democracy test; Orban vs Magyar; Fidesz vs Tisza
 
@@ -649,7 +666,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Circle]] — US-based fintech; issuer of USDC (second-largest stablecoin); GENIUS Act primary compliance model
 
 - [[Samsung]] — World's largest memory chip maker; DRAM/HBM producer; OpenAI 40% supply deal; helium-dependent; labor strike threatened
-- [[SK Hynix]] — South Korean memory chip maker; 70% global DRAM with Samsung; OpenAI dual deal counterparty
+- [[SK Hynix]] — South Korean memory chip maker; global DRAM leader (33.2% Q3 2025); OpenAI dual LOI counterparty; 70% HBM operating margin
+- [[Micron]] — Third DRAM maker (~25.7% Q3 2025); exited consumer Crucial brand Dec 2025; pivoting to HBM + enterprise
+- [[TBPN]] — Silicon Valley founder podcast; acquired by OpenAI April 2026 for reported "low hundreds of millions"; Chris Lehane oversight
+- [[Helium]] — Infrastructure: natural gas byproduct; critical to chip manufacturing; Qatar (33% of global supply) offline; 6-week chip maker buffer limit
 - [[TSMC]] — Taiwan Semiconductor; 90% of advanced logic chips; helium-dependent; CoWoS packaging bottleneck
 - [[Intel]] — US chip maker; domestic helium buffer; less exposed to Gulf disruption
 - [[CXMT]] — China's largest DRAM maker (4th globally); Shanghai mega-fab targeting 2027; IPO filing $4.1B; potential 2028 glut catalyst
@@ -712,6 +732,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ## Concepts
 
 ### Power & Infrastructure
+- [[AI DRAM Crisis]] — The LOI mechanism: non-binding OpenAI demand signal → market panic → binding contracts → prices locked 2027-2028; three-company oligopoly (91.5% global revenue); synthesis concept for the DRAM cluster
 - [[Chokepoint Control]] — How geographic/infrastructure bottlenecks confer coercive power; Strait as paradigm case
 - [[Infrastructure Warfare]] — Targeting physical infrastructure as primary instrument of conflict or coercion
 - [[Oil Seizure as Coercion]] — Trump's threat to "take" Iranian oil; physical commodity as coercive weapon
@@ -897,6 +918,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[The Anti-CBDC Surveillance State Act]] — Privacy/surveillance stakes; China's e-CNY and Canada 2022 as precedents; global CBDC "race" debunked
 - [[Beyond "Crypto Week"]] — Second-order synthesis: T-bill demand surge, bank disintermediation risk, stablecoin run feedback loop, U.S. vs. EU MiCA
 
+### Nonfiction Essays — Technology & Infrastructure
+- [[The $71 Billion Bluff]] — Nonfiction, Apr 11 2026; OpenAI's non-binding dual LOIs triggered market panic locking memory prices through 2027-2028; Samsung 8.5x profit windfall; the bluff was abandoned but the damage is structural
+
 ### Nonfiction Essays — Monetary Policy & Economy
 - [[The Fed Is Trapped]] — Powell's dual-mandate admission; 80% QT reduction hidden beneath hawkish rhetoric
 - [[The Fed's Independence Theater]] — 14-point evidentiary listicle documenting political capture; CME FedWatch 99.6% certainty; Burns/Nixon parallel
@@ -977,7 +1001,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 |---|---|
 | Total sources ingested | 432 |
 | Published articles tracked | 82 |
-| Entity pages | 174 |
-| Concept pages | 115 |
+| Entity pages | 177 |
+| Concept pages | 116 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-11 |
+| Last updated | 2026-04-12 |

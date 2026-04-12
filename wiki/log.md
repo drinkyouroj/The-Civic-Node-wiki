@@ -1218,3 +1218,33 @@ Reconciled v10 fact-check report (28 linked claims checked: 23 verified, 2 parti
 - DRAM Prices Surge 171 Percent YoY — Toms Hardware.md
 
 Draft v11 written to `drafts/the-71-billion-bluff-v11.md`. Status: review.
+
+## [2026-04-12] ingest | Batch ingest: 15 raw sources + "The $71 Billion Bluff" published article
+
+Completed full ingestion of all 13 raw stubs created during v11 fact-check audit, plus 2 full-body raw articles (NYT Helium, CBS News Sora), plus the published article. Full content fetched for 10/13 stubs via WebFetch; 3 inaccessible (Gartner 403, Light Reading 403, CNBC Sora 403) filed with available metadata.
+
+**New source pages (15):**
+- An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry (NYT, Mar 2026)
+- OpenAI Pulls the Plug on Its Sora AI Video App (CBS News, Mar 2026)
+- DRAM Prices Surge 171 Percent YoY — Toms Hardware (Nov 2025)
+- Gartner Memory Costs Reduce PC Smartphone Shipments 2026 (403 — stub)
+- HP Memory Costs 35 Percent of PC Build — Toms Hardware (Feb 2026)
+- IDC Global Memory Shortage Crisis Market Analysis 2026 (Jan 2026)
+- Memory Shortage Driving Higher Costs — Sourceability (Dec 2025)
+- Micron Killing Crucial SSDs and Memory — Toms Hardware (Dec 2025)
+- OpenAI Acquires TBPN — TechCrunch (Apr 2026)
+- OpenAI Orders 71B in Korean Memory Chips — Light Reading (403 — stub)
+- OpenAI Shutters Sora App — CNBC (403 — stub)
+- OpenAI Stargate 900K DRAM Wafers — TrendForce (Oct 2025)
+- Samsung HBM DDR5 DRAM Capacity Shift — Digitimes (Dec 2025 — paywall)
+- Toms Hardware RAM Price Index 2026 (living tracker — dynamic page)
+- TrendForce DRAM Market Share Q3 2025 (Nov 2025)
+
+**New entity pages (3):** Micron, Helium, TBPN
+**New concept page (1):** AI DRAM Crisis — synthesis concept for the LOI mechanism and structural price lock
+**New article page (1):** The $71 Billion Bluff (nonfiction, published Apr 11 2026)
+**Updated entity pages (3):** OpenAI (sources 20→25, TBPN/Sora citations added), Samsung (sources 18→20, Digitimes + TrendForce market share), SK Hynix (sources 3→8, fully expanded with LOI details, market share, HBM capacity, fab plans)
+**Updated overview.md:** new helium dimension documented; AI DRAM Crisis cluster consolidated; total sources 423→438
+**Updated index.md:** 15 new source entries, 3 new entity entries, 1 new concept entry, 1 new article entry; stats 819→839 pages, 435→450 sources, 174→177 entities, 115→116 concepts, 82→83 articles
+
+Total pages after ingest: ~839. Total sources: 450.
