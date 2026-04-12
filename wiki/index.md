@@ -2,11 +2,11 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-11
-total_pages: 803
-total_sources: 423
-total_entities: 172
+total_pages: 816
+total_sources: 432
+total_entities: 174
 total_concepts: 115
-total_syntheses: 11
+total_syntheses: 13
 total_articles: 82
 ---
 
@@ -487,6 +487,15 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] — TOI, Mar 2026; viral thread on LOIs vs binding orders; TurboQuant crashed chip stocks 5-6%; "the research paper is doing more for RAM prices than the entire supply chain"
 - [[TurboQuant - Redefining AI efficiency with extreme compression]] — Google Research, Mar 2026; 6x KV cache compression with zero accuracy loss; ICLR 2026; crashed chip stocks on release
 - [[Samsung workers' strike plan would disrupt chip supply]] — Reuters, Mar 2026; 90K workers voting on 18-day strike from May 21; 50% Pyeongtaek production at risk; pay gap with SK Hynix
+- [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]] — YouTube, Apr 9 2026; consumer-facing synthesis of DRAM crisis; LOI mechanism, Jevons Paradox, helium shortage, Samsung strike, 2027-2028 recovery timeline
+- [[OpenAI Massively Cuts Spending Plan as Reality Closes In — Futurism]] — Futurism, Feb 2026; $1.4T→$600B compute target (57% cut); $13.1B revenue, $8B burn; ads pivot
+- [[Almost Half of US Data Centers Slated to Be Canceled or Delayed — Futurism]] — Futurism, Apr 2026; 50% of 2026 US builds delayed/cancelled; only 4GW of 12GW under construction; electrical component bottleneck
+- [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]] — Bloomberg, Mar 2026; Abilene TX expansion killed; Oracle financing collapse; Microsoft takes over site
+- [[Apple Executives Booking Extended Hotel Stays for DRAM LTA — WCCFTech]] — WCCFTech/Korea Economic Daily, Jan 2026; Apple execs in Hwaseong hotels; 2-3yr LTAs; LPDDR5X $70/unit (230% increase)
+- [[Chinese Memory Vendors Claiming to Be Doomed — WCCFTech]] — WCCFTech, Apr 2026; Chinese DDR5 retail down 30%+; stockpiler panic; TurboQuant trigger; contract prices stable
+- [[CXMT and YMTC to Expand Memory Output — Tom's Hardware]] — Tom's Hardware/Nikkei Asia, Mar 2026; CXMT Shanghai mega-fab (2-3x Hefei); YMTC 3rd Wuhan fab; both targeting 2027; potential 2028 glut
+- [[Samsung and AMD Expand Strategic Collaboration — Press Release]] — AMD/Samsung, Mar 2026; MOU for HBM4 (MI455X) + DDR5 (EPYC Venice); Lisa Su visits Pyeongtaek
+- [[DDR5 Retail Prices Pullback Amid Market Correction — TrendForce]] — TrendForce, Mar 2026; Germany -7.2% MoM but +408% vs Jul 2025; Corsair 32GB $379.99; contract prices stable
 
 #### Infrastructure & Geopolitics
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Forbes/Tirias Research, Apr 2026; Qatar helium (33% global) offline from Iran strikes; 27-30% supply removed; 40-100% price surge; double chokepoint with DRAM crisis
@@ -640,6 +649,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[SK Hynix]] — South Korean memory chip maker; 70% global DRAM with Samsung; OpenAI dual deal counterparty
 - [[TSMC]] — Taiwan Semiconductor; 90% of advanced logic chips; helium-dependent; CoWoS packaging bottleneck
 - [[Intel]] — US chip maker; domestic helium buffer; less exposed to Gulf disruption
+- [[CXMT]] — China's largest DRAM maker (4th globally); Shanghai mega-fab targeting 2027; IPO filing $4.1B; potential 2028 glut catalyst
+- [[YMTC]] — China's leading NAND maker; pivoting to DRAM; 3rd Wuhan fab targeting 2027; 2026 IPO planned
 - [[Coinbase]] — US crypto exchange; WLFI stablecoin off-ramp destination
 - [[Dolomite]] — DeFi lending protocol; WLFI's $75M borrow platform; co-founder is WLFI adviser
 - [[DeepSeek]] — Chinese AI company; efficiency breakthrough that triggered Jevons Paradox discourse
@@ -951,15 +962,19 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Chokepoint Control as Power's Architecture]] — Strait of Hormuz, GENIUS Act reserves, DEA quotas, App Store, Fed rate-setting as the same mechanism; DePIN as structural response
 - [[El Salvador Bitcoin — Policy Failure as Profit Model]] — 92% non-adoption, $333M government gain, IMF forced removal; failed as currency, succeeded as insider enrichment
 
+### DRAM Crisis Analysis
+- [[The Perfect Storm — Why RAM Prices Won't Fall (2026)]] — Five-force synthesis: LOI→panic→binding deals, Jevons Paradox, helium/Hormuz, Samsung strike, data center cancellations; timeline to 2028 glut
+- [[Newsletter Draft — The IOU That Broke the Memory Market]] — Editorial brief for newsletter piece; structure, data points, quotes, tone notes
+
 ---
 
 ## Stats
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 423 |
+| Total sources ingested | 432 |
 | Published articles tracked | 82 |
-| Entity pages | 172 |
+| Entity pages | 174 |
 | Concept pages | 115 |
-| Synthesis pages | 11 (5 audits + 6 insight sweep) |
+| Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
 | Last updated | 2026-04-11 |

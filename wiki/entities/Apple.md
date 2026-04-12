@@ -4,7 +4,7 @@ type: entity
 entity_type: organization
 tags: [technology, antitrust, power]
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-11
 sources: 11
 ---
 
@@ -14,6 +14,10 @@ Apple Inc. is the US-based technology company behind the iPhone, iOS, and the Ap
 ## Apple Silicon & Local AI
 
 Apple Silicon's unified memory architecture — a single memory pool shared by CPU and GPU — has emerged as a significant advantage for local LLM inference. Unlike traditional PC hardware where model weights must be copied between system RAM and discrete VRAM over a PCIe bottleneck, Apple Silicon accesses weights directly at full memory bandwidth. As of early 2026, a 512GB Mac Studio (M3/M4 Ultra) can run DeepSeek R1 (671B parameters) at Q4 quantization locally — frontier reasoning on consumer hardware. See [[On-Device AI]].
+
+## DRAM Supply Crisis (2025-2026)
+
+After [[OpenAI]]'s non-binding LOIs triggered a global memory panic in late 2025, Apple stationed purchasing executives in extended hotel stays in Hwaseong, South Korea (near Samsung/SK Hynix facilities) to negotiate 2-3 year long-term DRAM agreements. LPDDR5X now costs Apple $70/unit — a 230% increase from early 2025. Samsung became Apple's largest DRAM supplier (60-70% of iPhone 17 shipments). Apple also reportedly explored Chinese memory ([[CXMT]]) as leverage against Korean pricing power. [[Apple Executives Booking Extended Hotel Stays for DRAM LTA — WCCFTech]]
 
 ## Key Facts
 - iOS App Store charges commissions up to 30%; reduced to 15% for developers earning <$1M/year (from end of 2020)

@@ -5,6 +5,20 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-11] ingest | DRAM crisis cluster — 9 sources, newsletter draft prep
+
+Nine sources ingested covering the RAM/DRAM crisis perfect storm. Big A YouTube transcript ("The Crisis Got... Weirder") plus 8 primary sources: OpenAI spending cut (CNBC/Futurism), Stargate cancellation (Bloomberg), Apple South Korea hotel stays (WCCFTech/Korea Economic Daily), Chinese stockpiler panic (WCCFTech), CXMT/YMTC expansion (Tom's Hardware/Nikkei Asia), Samsung-AMD MOU (press release), DDR5 price pullback (TrendForce), US data center delays (Futurism/Sightline Climate).
+
+All Big A claims verified against primary sources. One discrepancy: Big A says "5-year deals," Korea Economic Daily says 2-3 year LTAs.
+
+New entity pages: [[CXMT]], [[YMTC]]. Updated: [[OpenAI]] (sources 12→16), [[Samsung]] (sources 4→10), [[Apple]] (sources 11→12), [[Jevons Paradox]] (sources 4→7), [[Chokepoint Control]] (sources 10→13).
+
+Two synthesis pages created: [[The Perfect Storm — Why RAM Prices Won't Fall (2026)]] (five-force framework) and [[Newsletter Draft — The IOU That Broke the Memory Market]] (full editorial brief with structure, data points, quotes, and tone notes).
+
+Index updated: 432 sources, 174 entities, 13 syntheses.
+
+---
+
 ## [2026-04-09] ingest | Trump/NFL/soccer naming — Yahoo Sports (FIFA 2026 World Cup draw)
 
 One source ingested. Trump at the FIFA 2026 World Cup draw (Dec 2025) publicly argued "football" rightfully belongs to soccer and the NFL should rename itself. Performative soft-power play, not policy. Connects to the DOJ NFL antitrust story from the same session.
