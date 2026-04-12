@@ -1195,3 +1195,26 @@ Addressed all 9 ⚠️ Contradiction: flags identified in the prior lint. Wiki n
 
 **Files modified:** 12 wiki pages + log.md
 **Verification:** `grep "⚠️ Contradiction:" wiki/**` returns 0 matches.
+
+---
+
+## [2026-04-12] update | Fact-check reconciliation: "The $71 Billion Bluff" v10 → v11
+
+Reconciled v10 fact-check report (28 linked claims checked: 23 verified, 2 partially verified, 2 not found in source, 3 acceptable unsourced). Two flagged claims (#A "Neither supplier knew" and #B TBPN details) were already resolved in v10's text — no action needed. One content fix applied: swapped $180→$710 DDR5 price link from Tom's Hardware RAM Price Index (JS-rendered, unverifiable) to PCPartPicker trends page (Tier 1 primary price data).
+
+**Wiki source audit:** 22 unique URLs linked in article. 9 already ingested in wiki/sources/. 13 new raw file stubs created for untracked sources — these need full ingestion:
+- Toms Hardware RAM Price Index 2026.md
+- OpenAI Shutters Sora App — CNBC.md
+- HP Memory Costs 35 Percent of PC Build — Toms Hardware.md
+- Gartner Memory Costs Reduce PC Smartphone Shipments 2026.md
+- Micron Killing Crucial SSDs and Memory — Toms Hardware.md
+- IDC Global Memory Shortage Crisis Market Analysis 2026.md
+- OpenAI Orders 71B in Korean Memory Chips — Light Reading.md
+- TrendForce DRAM Market Share Q3 2025.md
+- OpenAI Stargate 900K DRAM Wafers — TrendForce.md
+- Memory Shortage Driving Higher Costs — Sourceability.md
+- OpenAI Acquires TBPN — TechCrunch.md
+- Samsung HBM DDR5 DRAM Capacity Shift — Digitimes.md
+- DRAM Prices Surge 171 Percent YoY — Toms Hardware.md
+
+Draft v11 written to `drafts/the-71-billion-bluff-v11.md`. Status: review.
