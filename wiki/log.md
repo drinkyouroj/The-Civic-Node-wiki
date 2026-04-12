@@ -5,6 +5,22 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-11] ingest | 3 DRAM gap-fill sources — Samsung earnings, LOI valuation, Bizety analysis
+
+Three sources ingested to fill gaps identified during article outlining for the DRAM crisis piece.
+
+**Samsung Flags Eightfold Jump in Q1 Profit — Reuters** (Apr 6, 2026): Confirms Samsung Q1 2026 operating profit at 57.2T won ($37.92B) — 8.5x YoY. Chip division generated 95% of total. Revenue +68% to 133T won. Beat analyst consensus by 41%. Verifies the "8x profit" claim from Big A transcript (actual: 8.5x).
+
+**The Letter That Moved a Market — Medium/Mastin Bailey** (Mar 28, 2026): LOI valued at $71.3B over four years. 64GB DDR5: $180→$710 (294%). Quote windows compressed to 7 days. Samsung shifted 80K wafers back to DDR5 after demand collapse. Most granular available data on LOI financial terms.
+
+**The Dirty DRAM Deal — Bizety** (Dec 28, 2025): Contemporary reaction piece from two months after LOIs signed. First detailed public framing as "strategic denial" rather than procurement. Global capacity: 2.2-2.3M wafer starts/month; OpenAI's 900K = 40%.
+
+Updated entities: [[Samsung]] (sources 15→18; Q1 earnings, wafer reallocation), [[OpenAI]] (sources 18→20; $71.3B LOI valuation, price data). Index updated: 435 sources.
+
+**Source gap status**: Samsung "8x profit" — VERIFIED (8.5x actual). OpenAI LOI status — PARTIALLY FILLED (Samsung shifted wafers back; LOIs functionally abandoned). Paywalled research firm figures — consistent with general industry reporting per both sources.
+
+---
+
 ## [2026-04-11] ingest | DRAM crisis cluster — 9 sources, newsletter draft prep
 
 Nine sources ingested covering the RAM/DRAM crisis perfect storm. Big A YouTube transcript ("The Crisis Got... Weirder") plus 8 primary sources: OpenAI spending cut (CNBC/Futurism), Stargate cancellation (Bloomberg), Apple South Korea hotel stays (WCCFTech/Korea Economic Daily), Chinese stockpiler panic (WCCFTech), CXMT/YMTC expansion (Tom's Hardware/Nikkei Asia), Samsung-AMD MOU (press release), DDR5 price pullback (TrendForce), US data center delays (Futurism/Sightline Climate).

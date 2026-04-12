@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, infrastructure, supply-chain]
 created: 2026-04-11
 updated: 2026-04-11
-sources: 15
+sources: 18
 ---
 
 ## Overview
@@ -19,7 +19,8 @@ Samsung Electronics is a South Korean multinational and one of the world's large
 - Deployed industry-first Helium Reuse System (HeRS) to recover, purify, and reuse high-purity exhaust helium [[Helium Crisis Tightens Grip On Global Chip Supply Chain]]
 - Memory fabrication is particularly helium-intensive due to repeated high-heat etching and deposition steps for 3D stacking
 - Signed non-binding LOI with [[OpenAI]] (Oct 1, 2025) for massive DRAM wafer supply, unaware of parallel [[SK Hynix]] deal. Combined deals consumed ~40% of global DRAM output [[Sam Altman's Dirty DRAM Deal]]
-- Profits estimated at 8x the same period of prior year during the memory crisis [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
+- **Q1 2026 earnings**: 57.2 trillion won ($37.92B) operating profit — 8.5x YoY (from 6.69T won). Nearly triples previous record (20T won, Q4 2025). Chip division: 54T won (95% of total). Revenue: 133T won (+68% YoY). Beat analyst consensus by 41%. [[Samsung Flags Eightfold Jump in Q1 Profit — Reuters]]
+- Ramped HBM production toward 250K wafers/month (47% capacity increase) in response to OpenAI LOIs; later shifted 80K wafers back to DDR5 after demand collapsed [[The Letter That Moved a Market — Medium]]
 - Now [[Apple]]'s largest DRAM supplier, accounting for 60-70% of iPhone 17 series shipments [[Apple Executives Booking Extended Hotel Stays for DRAM LTA — WCCFTech]]
 - **Strike threat (May 2026)**: 90,000 unionized workers voting on 18-day strike from May 21, 2026; could halt ~50% of Pyeongtaek semiconductor production. Pay gap with [[SK Hynix]] is primary grievance. Workers seeking 7% base wage increase + profit-sharing. [[Samsung workers' strike plan would disrupt chip supply]]
 - Signed MOU with [[AMD]] (Mar 18, 2026) for HBM4 supply for MI455X GPU + DDR5 for EPYC Venice CPUs. Lisa Su visited Pyeongtaek and met with Vice Chairman Lee Jae-yong. [[Samsung and AMD Expand Strategic Collaboration — Press Release]]
@@ -50,6 +51,9 @@ Samsung's dominance in memory chips places it at the center of several newslette
 - [[Samsung and AMD Expand Strategic Collaboration — Press Release]] — HBM4 + DDR5 MOU with AMD
 - [[OpenAI funding fears hit memory chip prices]] — stock crashed on TurboQuant news
 - [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]] — 8x profit growth during crisis
+- [[Samsung Flags Eightfold Jump in Q1 Profit — Reuters]] — Q1 2026 earnings: 57.2T won, 8.5x YoY, 95% from chips
+- [[The Letter That Moved a Market — Medium]] — ramped HBM to 250K wafers/month, then shifted 80K back to DDR5
+- [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]] — contemporary reaction to LOI deals (Dec 2025)
 
 ## Open Questions
 
