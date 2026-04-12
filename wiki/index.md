@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-11
-total_pages: 816
-total_sources: 432
+total_pages: 819
+total_sources: 435
 total_entities: 174
 total_concepts: 115
 total_syntheses: 13
@@ -495,6 +495,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Chinese Memory Vendors Claiming to Be Doomed — WCCFTech]] — WCCFTech, Apr 2026; Chinese DDR5 retail down 30%+; stockpiler panic; TurboQuant trigger; contract prices stable
 - [[CXMT and YMTC to Expand Memory Output — Tom's Hardware]] — Tom's Hardware/Nikkei Asia, Mar 2026; CXMT Shanghai mega-fab (2-3x Hefei); YMTC 3rd Wuhan fab; both targeting 2027; potential 2028 glut
 - [[Samsung and AMD Expand Strategic Collaboration — Press Release]] — AMD/Samsung, Mar 2026; MOU for HBM4 (MI455X) + DDR5 (EPYC Venice); Lisa Su visits Pyeongtaek
+- [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]] — Bizety, Dec 2025; contemporary "strategic denial" framing of OpenAI LOIs; 40% of 2.2-2.3M global wafer capacity
+- [[Samsung Flags Eightfold Jump in Q1 Profit — Reuters]] — Reuters, Apr 2026; 57.2T won ($37.92B) Q1 operating profit; 8.5x YoY; chip division 95% of total; TrendForce expects 50%+ Q2 price increase
+- [[The Letter That Moved a Market — Medium]] — Medium/Mastin Bailey, Mar 2026; LOI valued at $71.3B/4yr; 171% contract price rise; 7-day quote windows; Samsung shifted 80K wafers back to DDR5
 - [[DDR5 Retail Prices Pullback Amid Market Correction — TrendForce]] — TrendForce, Mar 2026; Germany -7.2% MoM but +408% vs Jul 2025; Corsair 32GB $379.99; contract prices stable
 
 #### Infrastructure & Geopolitics

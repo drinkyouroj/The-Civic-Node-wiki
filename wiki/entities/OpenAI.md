@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
 updated: 2026-04-11
-sources: 18
+sources: 20
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ OpenAI is the San Francisco-based AI company behind ChatGPT and the GPT model se
 - Aligned with Trump administration from day one: Stargate joint venture (Jan 21, 2025); White House relationship maintained through 2025
 - EU AI Act classifies GPT-4-level models as "high-impact GPAI" requiring systemic risk evaluation
 - Former Scale AI client for data labeling (ended due to competitive conflicts after Meta's Scale investment)
-- **DRAM crisis (Oct 2025)**: Signed simultaneous letters of intent (LOIs, non-binding) with [[Samsung]] and [[SK Hynix]] for ~900,000 DRAM wafers/month — roughly 40% of global supply. Neither supplier knew about the other's deal. Triggered a global memory panic that caused Apple, Amazon, Microsoft, and AMD to fly executives to South Korea and lock in 2-3 year binding deals at peak prices. [[Sam Altman's Dirty DRAM Deal]] [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]]
+- **DRAM crisis (Oct 2025)**: Signed simultaneous letters of intent (LOIs, non-binding) with [[Samsung]] and [[SK Hynix]] for ~900,000 DRAM wafers/month — roughly 40% of global supply (~2.2-2.3M total). Neither supplier knew about the other's deal. LOI valued at **$71.3B over four years** (analyst estimate). Triggered a global memory panic: DRAM contract prices rose 171% YoY by Q3 2025; 64GB DDR5 went $180->$710 (294%); quote windows compressed to 7 days. Apple, Amazon, Microsoft, and AMD flew executives to South Korea and locked in 2-3 year binding deals at peak prices. [[Sam Altman's Dirty DRAM Deal]] [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] [[The Letter That Moved a Market — Medium]] [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]]
 - **Spending cut (Feb 2026)**: Cut compute spending target from $1.4 trillion to ~$600 billion through 2030 — a 57% reduction. 2025 revenue was $13.1 billion against $8 billion cash burn. [[OpenAI Massively Cuts Spending Plan as Reality Closes In — Futurism]]
 - **Stargate cancelled (Mar 2026)**: Flagship data center expansion in Abilene, TX killed after Oracle financing negotiations collapsed and OpenAI's demand forecasts shifted. The 1.2GW→2.0GW expansion was scrapped; Microsoft took over the site. [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]]
 - **TBPN acquisition (Apr 2026)**: Acquired podcast TBPN for a reported sum in the "low hundreds of millions" (FT). TBPN had 58K YouTube subscribers. Ben Thompson called OpenAI "the short bus at the end of the rainbow" in response. [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
@@ -51,6 +51,8 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[OpenAI Massively Cuts Spending Plan as Reality Closes In — Futurism]] — $1.4T→$600B spending cut
 - [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]] — Abilene TX expansion killed
 - [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]] — consumer-facing synthesis of entire DRAM crisis
+- [[The Letter That Moved a Market — Medium]] — LOI valued at $71.3B/4yr; 171% contract price rise; demand collapse timeline
+- [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]] — contemporary "strategic denial" framing (Dec 2025)
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?
