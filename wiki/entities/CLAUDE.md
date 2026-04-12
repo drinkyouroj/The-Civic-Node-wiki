@@ -7,6 +7,7 @@
 
 | ID | Time | T | Title | Read |
 |----|------|---|-------|------|
+| #1015 | 6:50 AM | ✅ | Three DRAM gap-fill sources ingested and merged via PR #16 | ~642 |
 | #1011 | 6:40 AM | ✅ | OpenAI entity page updated with additional DRAM crisis source documentation | ~468 |
 | #1010 | " | ✅ | Enriched OpenAI DRAM crisis entry with price impact data and LOI valuation | ~443 |
 | #1009 | " | ✅ | Added three DRAM crisis source citations to Samsung entity | ~353 |
