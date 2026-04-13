@@ -5,6 +5,20 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-12] ingest | 2026 Global Helium Supply Crisis — DigiTimes/Fusion Worldwide
+
+Source ingested to fill the source gap flagged in the "The Bluff Is Over. The Price Isn't." outline: the "~6 months of helium reserves" claim now has a primary citation.
+
+**2026 Global Helium Supply Crisis: Strategic Implications for Semiconductor and Storage Supply Chains** (DigiTimes/Fusion Worldwide, Mar 29, 2026): Sponsored procurement brief. Key claim: major semiconductor fabricators have ~6 months of forward contracted supply buffer as of March 2026. Puts the operational depletion clock at ~June 2026. Also: 30–38% of global helium removed from market (broader than other sources' ~33%); boiloff during Cape rerouting reduces usable product; HDD ≥10TB prices up 20–50% since mid-2025.
+
+**Contradiction resolved:** The wiki's [[Helium]] entity previously noted "~6 weeks" (NYT) as the buffer limit without distinguishing it from the 6-month figure. These are measuring different things: "6 weeks" = physical storage limit per batch (after which liquid helium becomes dangerous); "6 months" = duration of forward contracts/supply pipeline for major fabs. Both are accurate and compatible. Updated [[Helium]] entity Key Facts to clarify the distinction explicitly.
+
+**Sourcing note:** Fusion Worldwide is a components distributor with commercial interest in forward-buying. The 6-month figure is their own assessment, not a fab disclosure. Flagged in source page Notes.
+
+Updated: [[Helium]] (sources 13→14; 6-month buffer sourced; 6-week/6-month distinction added). Index updated: 451 sources, 840 pages.
+
+---
+
 ## [2026-04-11] ingest | 3 DRAM gap-fill sources — Samsung earnings, LOI valuation, Bizety analysis
 
 Three sources ingested to fill gaps identified during article outlining for the DRAM crisis piece.

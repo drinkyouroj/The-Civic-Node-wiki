@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-12
-total_pages: 839
-total_sources: 450
+total_pages: 840
+total_sources: 451
 total_entities: 177
 total_concepts: 116
 total_syntheses: 13
@@ -517,8 +517,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[DDR5 Retail Prices Pullback Amid Market Correction — TrendForce]] — TrendForce, Mar 2026; Germany -7.2% MoM but +408% vs Jul 2025; Corsair 32GB $379.99; contract prices stable
 
 #### Infrastructure & Geopolitics
-- [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]] — NYT, Mar 2026; Qatar offline; Iran strikes Ras Laffan; 200 containers stranded in Hormuz; 6-week chip maker buffer; Air Liquide Taichung factory
+- [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]] — NYT, Mar 2026; Qatar offline; Iran strikes Ras Laffan; 200 containers stranded in Hormuz; 6-week storage limit per batch; Air Liquide Taichung factory
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Forbes/Tirias Research, Apr 2026; Qatar helium (33% global) offline from Iran strikes; 27-30% supply removed; 40-100% price surge; double chokepoint with DRAM crisis
+- [[2026-Global-Helium-Supply-Crisis-DigiTimes]] — DigiTimes/Fusion Worldwide, Mar 2026; ~6-month forward supply buffer for major fabs; boiloff during Cape rerouting; HDD ≥10TB prices up 20–50%; 6-week vs. 6-month distinction resolved
 - [[Five things to know about Hungary's election]] — Apr 2026; Hungary election as illiberal democracy test; Orban vs Magyar; Fidesz vs Tisza
 
 #### Politics & Culture
