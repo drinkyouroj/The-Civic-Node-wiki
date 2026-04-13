@@ -5,7 +5,7 @@ entity_type: infrastructure
 tags: [infrastructure, supply-chain, technology, geopolitics, energy]
 created: 2026-04-12
 updated: 2026-04-12
-sources: 13
+sources: 14
 ---
 
 ## Overview
@@ -18,7 +18,11 @@ Helium is a colorless, odorless noble gas and the coldest liquid on Earth. It is
 - Supply concentration: US and Qatar historically account for the majority of global supply; Qatar alone provided roughly one-third before the current crisis
 - South Korea imported ~64.7% of its helium from Qatar before the crisis; Qatar's Ras Laffan LNG facility was struck by Iranian forces, taking Qatar's production offline — see [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]]
 - ~200 specialized helium transport containers were stranded in the [[Strait of Hormuz]] at the war's outset, taking months to reposition — a logistics bottleneck compounding the supply cut
-- Buffer limit: chip makers can hold only ~6 weeks of helium inventory. Helium must be kept near absolute zero in nitrogen-insulated containers; beyond roughly 1.5 months of storage, helium warms, expands, and becomes dangerous — this hard ceiling prevents stockpiling as a crisis buffer
+- **Physical storage limit:** chip makers can hold only ~6 weeks of helium per delivery batch. Liquid helium must be kept near absolute zero in nitrogen-insulated containers; beyond roughly 6 weeks, it warms, expands, and becomes dangerous — this hard ceiling prevents stockpiling — see [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]]
+- **Operational supply buffer:** major semiconductor fabricators estimated to have ~6 months of forward contracted supply as of March 2026 — deliveries arrive in rolling batches, each consumed within the 6-week storage window — see [[2026-Global-Helium-Supply-Crisis-DigiTimes]]
+
+> ⚠️ Contradiction (apparent, resolved): [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]] states "~6 weeks" buffer; [[2026-Global-Helium-Supply-Crisis-DigiTimes]] states "~6 months." These measure different things: "6 weeks" = physical storage limit per batch; "6 months" = duration of forward contracts/supply pipeline for major fabs (as of March 2026). Both are accurate and compatible. The crisis clock runs to ~June 2026, when the contracted supply pipeline — not the storage containers — runs dry.
+
 - When helium is scarce, semiconductor manufacturers outbid all other sectors (pharma, medical imaging, space) because the cost of shutting down a chip fabrication facility far exceeds prevailing helium market prices
 - [[Samsung]] has deployed a Helium Reuse System (HeRS) to recover and recycle exhaust helium from its fabs; [[SK Hynix]]'s equivalent recycling capability is unknown
 - [[Air Liquide]] is the primary industrial gas supplier to most major chip manufacturers; opened a new factory in Taichung, Taiwan (near one of Taiwan's few LNG-capable ports) to help diversify supply sourcing
@@ -42,7 +46,8 @@ The helium story is a master class in invisible infrastructure risk. Every chip 
 - [[Semiconductor Supply Chain]] — helium is a hidden dependency in every semiconductor fab process
 
 ## Source Appearances
-- [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]] — primary source; details supply concentration, 6-week buffer limit, Samsung HeRS deployment, Air Liquide Taichung factory, analyst projections, and the mechanism by which chip makers outbid other sectors
+- [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]] — primary source; details supply concentration, 6-week storage limit per batch, Samsung HeRS deployment, Air Liquide Taichung factory, analyst projections, and the mechanism by which chip makers outbid other sectors
+- [[2026-Global-Helium-Supply-Crisis-DigiTimes]] — Fusion Worldwide/DigiTimes sponsored brief; ~6-month forward supply buffer estimate for major fabs; boiloff mechanics during Cape rerouting; HDD crisis data (20–50% price surge on ≥10TB drives)
 
 ## Open Questions
 - What is SK Hynix's actual helium recycling capability? If significantly behind Samsung, it faces disproportionate exposure.
