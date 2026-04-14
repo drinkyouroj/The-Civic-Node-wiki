@@ -5,7 +5,7 @@ entity_type: organization
 tags: [crypto, bitcoin, technology, infrastructure]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 5
 ---
 
 ## Overview
@@ -28,6 +28,7 @@ Blockstream is a Bitcoin infrastructure company co-founded and led by [[Adam Bac
 ## Source Appearances
 
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — primary context
+- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Blockstream Capital as the vehicle contributing 30K BTC to BSTR; deal mechanics
 
 ## Open Questions
 

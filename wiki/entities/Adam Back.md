@@ -5,7 +5,7 @@ entity_type: person
 tags: [crypto, bitcoin, technology, cypherpunk]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 9
 ---
 
 ## Overview
@@ -39,9 +39,12 @@ The Satoshi mystery pulls focus back to the [[Cypherpunk Movement]] — the extr
 ## Source Appearances
 
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — primary subject; NYT's pick for Satoshi identity
+- [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — strategic PR angle; photo shoot cooperation; Seyffart quote
+- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — BSTR deal mechanics; 30K BTC; Brandon Lutnick connection; July 2025 timeline
 
 ## Open Questions
 
 - Does the pending SEC disclosure for Back's Bitcoin treasury company actually create a legal obligation to reveal BTC holdings? At what threshold?
 - What does Back's long silence on the Cryptography mailing list during Satoshi's active period actually look like in the archives?
 - Could Cafiero's stylometric analysis be replicated or improved with a larger corpus of Back's writing?
+- Was Back's cooperation with the NYT photo shoot a strategic calculation or a genuine transparency move? Carreyrou's question — "would an innocent man do that?" — has no clean answer.

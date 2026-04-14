@@ -5,6 +5,39 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-14] ingest | 3 sources — Adam Back/Satoshi gap-fill (SEC disclosure, SPAC mechanics, DHS FOIA)
+
+Three sources ingested to fill source gaps for the "The SEC and the Last Secret in Bitcoin" article outline.
+
+- [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12, 2026; ETF analyst James Seyffart's quote ("pretty damn good PR, cost roughly zero"); Carreyrou's photo-shoot question as the structural tell; reframes Back's denial as potentially strategic
+- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Jul 16, 2025; baseline BSTR deal mechanics: 30K BTC, $4B+ valuation, Brandon Lutnick (Howard Lutnick's son), Nasdaq listing as "BSTR"; the SEC disclosure mechanism timeline established
+- [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — Apr 7, 2025; James Murphy FOIA lawsuit; DHS Special Agent Rana Saoud's 2019 claim that DHS "flew out to California" and interviewed Satoshi face-to-face with three other Bitcoin developers; second institutional vector closing in on identity
+
+Updated entity source counts: [[Adam Back]] (7→10), [[Satoshi Nakamoto]] (2→4), [[Cantor Fitzgerald]] (1→2), [[Blockstream]] (1→2). Concept expanded from stub: [[Bitcoin Origin Mystery]] — now full page with both institutional compulsion mechanisms (SEC/SPAC + DHS/FOIA). Index updated: 451→454 sources.
+
+---
+
+## [2026-04-14] ingest | 7 sources — Iran escalation, WI SC, WLFI self-dealing, Satoshi/Adam Back, NRx
+
+Seven sources ingested from backlog (committed to raw/ Apr 6–11 but never filed to wiki/sources/).
+
+**Iran escalation cluster (3 sources):**
+- [[Trump Easter Threats Hell on Iran Infrastructure If Strait Remains Blocked — Reuters]] — Apr 5; Easter Sunday ultimatum; "Power Plant Day and Bridge Day"; Marjorie Taylor Greene rebuke; $4.11/gallon US gas
+- [[Will Blow Up Everything Take Over Iran Oil — Trump Says Deal Possible by Monday — India Today]] — Apr 5; Iran counter-strikes on Gulf energy (Kuwait/UAE/Bahrain); "limited amnesty for negotiators" while threatening annihilation
+- [[Trump Is Openly Targeting Innocent Civilians — Reason]] — Apr 7; Petti/Reason; B1 bridge bombing (8 killed, unfinished bridge); bipartisan civilian-targeting continuity; Trump's "Stone Age" rhetoric as verbalization of what prior admins did covertly
+
+**US politics:** [[Liberal Flips Conservative Supreme Court Seat in Wisconsin Election — Newsweek]] — Apr 7; Chris Taylor 61% win; liberal majority expands to 5-2; fourth consecutive liberal WI SC win; Musk 2025 intervention chilling effect
+
+**Crypto conflict of interest:** [[Trump World Liberty Financial Borrows $75M Against WLFI Token on Dolomite — CoinDesk]] — Apr 9; 5B WLFI tokens as collateral on protocol co-founded by WLFI adviser; USD1 pool at 93% utilization; retail depositors locked out; WLFI drops 12% after reporting
+
+**Bitcoin identity:** [[NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back — Bitcoin.com News]] — Apr 8; NYT/Carreyrou investigation; stylometric analysis inconclusive; 67 hyphenation matches; Back denies 6+ times; SEC disclosure mechanism identified
+
+**Intellectual right:** [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right — ResetDoc]] — Jan 2026; Yarvin/Land comparative analysis; neocameralism vs. accelerationism; Thiel-Bannon-Trump pipeline; "tech-language encoding of authoritarian ideas"
+
+Updated entity source counts: [[Iran]] (14→17), [[World Liberty Financial]] (13→14), [[Curtis Yarvin]] (8→9), [[Wisconsin Supreme Court]] (10→11), [[Adam Back]] (1→2). Index updated: 432→439 sources.
+
+---
+
 ## [2026-04-14] ingest | The Bluff Is Over. The Price Isn't. — published article filed
 
 Published Apr 12, 2026. Direct follow-up to [[The $71 Billion Bluff]]. Five-force framework explaining why DDR5 stays at $400 despite every bear-case signal: (1) Jevons Paradox — Google TurboQuant 6x compression increases total memory demand; (2) Helium/Hormuz — Qatar Ras Laffan force majeure, 6-month clock running to June 2026; (3) Samsung labor revolt — 90K workers, May 21 strike vote, Pyeongtaek 50% of output; (4) irrevocable contracts — Apple/Amazon/Microsoft locked in despite data center cancellations; (5) China fab timeline — CXMT/YMTC target 2027 production, real market pressure 2028.
