@@ -5,7 +5,7 @@ entity_type: person
 tags: [crypto, bitcoin, technology, cypherpunk]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 2
+sources: 11
 ---
 
 ## Overview
@@ -41,6 +41,8 @@ The Satoshi mystery keeps directing attention back to the [[Cypherpunk Movement]
 
 - [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — the primary document
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — most recent identity investigation
+- [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — DHS claims to have interviewed Satoshi face-to-face in California (2019); FOIA lawsuit to force records release
+- [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Back's photo shoot cooperation reframes the denial as potentially strategic
 
 ## Open Questions
 

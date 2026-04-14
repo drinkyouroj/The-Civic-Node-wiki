@@ -4,19 +4,34 @@ type: entity
 entity_type: organization
 tags: [finance, crypto, bitcoin]
 created: 2026-04-09
-updated: 2026-04-09
-sources: 1
+updated: 2026-04-14
+sources: 6
 ---
 
 ## Overview
 
-Stub. Major US financial services firm. Relevant to this wiki as the shell company vehicle through which Adam Back's Bitcoin treasury company may go public — a process that could legally compel disclosure of BTC holdings under SEC rules. Expand when a dedicated source motivates it.
+Cantor Fitzgerald is a major US financial services firm founded in 1945. It is relevant to this wiki primarily through its SPAC vehicle Cantor Equity Partners I (CEPO), led by Brandon Lutnick (son of Howard Lutnick, who became US Commerce Secretary in February 2026). CEPO is the blank-check company through which Adam Back's Bitcoin Standard Treasury Company (BSTR) is going public — a process that creates SEC disclosure obligations that may compel revelation of Back's personal Bitcoin holdings.
+
+## Key Facts
+
+- Cantor Equity Partners I (CEPO) completed a $200M IPO in early 2025. [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]]
+- Brandon Lutnick leads CEPO. His father Howard Lutnick became US Commerce Secretary in February 2026. [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]]
+- CEPO agreed to a $4B+ deal with Adam Back's Blockstream Capital: ~30,000 BTC in-kind + up to $800M PIPE. Total PIPE eventually grew to $1.5B (largest for a Bitcoin treasury SPAC). [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]]
+- Combined company to trade on Nasdaq as "BSTR" (Bitcoin Standard Treasury). Shareholder approval targeted April 2026.
+- Cantor Fitzgerald also ran a second Bitcoin treasury SPAC ("Twenty One") backed by Tether, Bitfinex, and SoftBank — also announced in 2025.
+
+## Newsletter Relevance
+
+The Cantor/BSTR deal creates the legal mechanism central to the Satoshi story. A SPAC registration (Form S-4) requires disclosure of all material information about the combined company's executives. If Back holds ~1.1M BTC as Satoshi, that constitutes material information — making the SEC, not a court, the institution most likely to force disclosure. The Lutnick family dimension adds a political overlay: the SPAC is structurally connected to the Trump Commerce Department.
 
 ## Connections
 
-- [[Adam Back]] — Bitcoin treasury company going public through a Cantor Fitzgerald shell
+- [[Adam Back]] — BSTR CEO; primary BTC contributor to the SPAC deal
+- [[Blockstream]] — Back's company; organizational vehicle for the BTC contribution
 - [[Satoshi Nakamoto]] — SEC disclosure mechanism as live story in identity mystery
+- [[Bitcoin as Digital Gold]] — the thesis the SPAC model represents
 
 ## Source Appearances
 
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — shell company vehicle; SEC disclosure angle
+- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — deal mechanics; Brandon/Howard Lutnick connection; timeline

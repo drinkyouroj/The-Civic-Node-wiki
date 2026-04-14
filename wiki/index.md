@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-12
-total_pages: 840
-total_sources: 451
+updated: 2026-04-14
+total_pages: 843
+total_sources: 454
 total_entities: 177
 total_concepts: 116
 total_syntheses: 13
@@ -199,6 +199,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador y el bitcoin Cristosal 2023]] — Accountability failures; Fidebitcoin opacity; Chivo identity theft documentation
 - [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — 81% tourism growth; Bukele rebranding success separate from Bitcoin
 - [[NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back — Bitcoin.com News]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
+- [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12 2026; Seyffart quote; Carreyrou photo-shoot question; BSTR SPAC as PR vehicle for Satoshi spotlight
+- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Decrypt/FT, Jul 2025; 30K BTC; $4B deal; Brandon Lutnick (Commerce Secretary's son); BSTR Nasdaq listing mechanics
+- [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — CryptoSlate, Apr 2025; James Murphy FOIA lawsuit; DHS agent Rana Saoud claimed 2019 California interview with Satoshi
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern

@@ -5,6 +5,18 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-14] ingest | 3 sources — Adam Back/Satoshi gap-fill (SEC disclosure, SPAC mechanics, DHS FOIA)
+
+Three sources ingested to fill source gaps for the "The SEC and the Last Secret in Bitcoin" article outline.
+
+- [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12, 2026; ETF analyst James Seyffart's quote ("pretty damn good PR, cost roughly zero"); Carreyrou's photo-shoot question as the structural tell; reframes Back's denial as potentially strategic
+- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Jul 16, 2025; baseline BSTR deal mechanics: 30K BTC, $4B+ valuation, Brandon Lutnick (Howard Lutnick's son), Nasdaq listing as "BSTR"; the SEC disclosure mechanism timeline established
+- [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — Apr 7, 2025; James Murphy FOIA lawsuit; DHS Special Agent Rana Saoud's 2019 claim that DHS "flew out to California" and interviewed Satoshi face-to-face with three other Bitcoin developers; second institutional vector closing in on identity
+
+Updated entity source counts: [[Adam Back]] (7→10), [[Satoshi Nakamoto]] (2→4), [[Cantor Fitzgerald]] (1→2), [[Blockstream]] (1→2). Concept expanded from stub: [[Bitcoin Origin Mystery]] — now full page with both institutional compulsion mechanisms (SEC/SPAC + DHS/FOIA). Index updated: 451→454 sources.
+
+---
+
 ## [2026-04-14] ingest | 7 sources — Iran escalation, WI SC, WLFI self-dealing, Satoshi/Adam Back, NRx
 
 Seven sources ingested from backlog (committed to raw/ Apr 6–11 but never filed to wiki/sources/).
