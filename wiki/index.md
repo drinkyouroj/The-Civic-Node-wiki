@@ -7,7 +7,7 @@ total_sources: 451
 total_entities: 177
 total_concepts: 116
 total_syntheses: 13
-total_articles: 83
+total_articles: 84
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -921,6 +921,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ### Nonfiction Essays — Technology & Infrastructure
 - [[The $71 Billion Bluff]] — Nonfiction, Apr 11 2026; OpenAI's non-binding dual LOIs triggered market panic locking memory prices through 2027-2028; Samsung 8.5x profit windfall; the bluff was abandoned but the damage is structural
+- [[The Bluff Is Over. The Price Isn't.]] — Nonfiction, Apr 12 2026; five independent forces (Jevons Paradox, helium/Hormuz, Samsung labor revolt, irrevocable data-center contracts, China fab timeline) holding DDR5 at $400; concentration as the common thread; May 21 and June 2026 as ticking clocks
 
 ### Nonfiction Essays — Monetary Policy & Economy
 - [[The Fed Is Trapped]] — Powell's dual-mandate admission; 80% QT reduction hidden beneath hawkish rhetoric
@@ -1001,8 +1002,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 | Metric | Count |
 |---|---|
 | Total sources ingested | 432 |
-| Published articles tracked | 82 |
+| Published articles tracked | 83 |
 | Entity pages | 177 |
 | Concept pages | 116 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-12 |
+| Last updated | 2026-04-14 |

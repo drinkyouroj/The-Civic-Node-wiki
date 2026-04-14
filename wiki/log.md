@@ -5,6 +5,14 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-14] ingest | The Bluff Is Over. The Price Isn't. — published article filed
+
+Published Apr 12, 2026. Direct follow-up to [[The $71 Billion Bluff]]. Five-force framework explaining why DDR5 stays at $400 despite every bear-case signal: (1) Jevons Paradox — Google TurboQuant 6x compression increases total memory demand; (2) Helium/Hormuz — Qatar Ras Laffan force majeure, 6-month clock running to June 2026; (3) Samsung labor revolt — 90K workers, May 21 strike vote, Pyeongtaek 50% of output; (4) irrevocable contracts — Apple/Amazon/Microsoft locked in despite data center cancellations; (5) China fab timeline — CXMT/YMTC target 2027 production, real market pressure 2028.
+
+Created `wiki/articles/The Bluff Is Over. The Price Isn't..md`. Index updated: 83→84 articles.
+
+---
+
 ## [2026-04-12] ingest | 2026 Global Helium Supply Crisis — DigiTimes/Fusion Worldwide
 
 Source ingested to fill the source gap flagged in the "The Bluff Is Over. The Price Isn't." outline: the "~6 months of helium reserves" claim now has a primary citation.
