@@ -87,12 +87,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Nixon shock - Wikipedia]] — Wikipedia; Bretton Woods end; gold window closure; SWIFT origin
 
 ### Iran / Geopolitics
-- [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
+- [[Trump Easter Threats Hell on Iran Infrastructure If Strait Remains Blocked — Reuters]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
 - [[Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100]] — PBS/AP, Apr 9 2026; ceasefire collapses within hours; Israel Lebanon strikes; WTI $99.44; Trump "next conquest" framing
 - [[Iran Dueling Peace Plans — English vs Persian 10-Point Discrepancy]] — Al Jazeera, Apr 9 2026; English/Persian version gap on enrichment; Vance "written by ChatGPT"; Islamabad talks Saturday
 - [[Republicans Block Iran War Powers Resolution — House Adjournment]] — USA Today, Apr 9 2026; Chris Smith adjourns chamber; first congressional action since "destroy a civilization" threat
 - [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]] — USA Today, Apr 8 2026; 60% unfavorable (up from 42% in 2022); 80% Democrats; 77% say Iran conflict personally important
-- [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
+- [[Will Blow Up Everything Take Over Iran Oil — Trump Says Deal Possible by Monday — India Today]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
 
 ### AI / Technology
 - [[Best Local LLMs for Every Apple Silicon Mac — 2025 Guide]] — apxml.com, Jul 2025; unified memory architecture; Q4 quantization explainer; Ollama setup; per-RAM-tier model recommendations
@@ -198,7 +198,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]] — Jan 2025 Congress 55-2 vote removing Bitcoin legal tender status; IMF conditionality
 - [[El Salvador y el bitcoin Cristosal 2023]] — Accountability failures; Fidebitcoin opacity; Chivo identity theft documentation
 - [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — 81% tourism growth; Bukele rebranding success separate from Bitcoin
-- [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
+- [[NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back — Bitcoin.com News]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern
@@ -474,9 +474,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ### Recent Ingests (2026-04-08, post-insight-sweep)
 - [[Epic Games v Apple - Wikipedia]] — Wikipedia, Apr 8 2026; comprehensive Epic v. Apple case record (2020-2025); 9-of-10 Apple win, anti-steering UCL violation, April 2025 contempt finding eliminating 27% compliance fee; chokepoint reconstituting itself
-- [[Reason — Trump is openly targeting innocent civilians]] — Matthew Petti, Reason, Apr 7 2026; "Stone Age" rhetoric; B1 bridge strike killing 8; Sharif University bombing; bipartisan civilian-targeting continuity
+- [[Trump Is Openly Targeting Innocent Civilians — Reason]] — Matthew Petti, Reason, Apr 7 2026; "Stone Age" rhetoric; B1 bridge strike killing 8; Sharif University bombing; bipartisan civilian-targeting continuity
 - [[CBC — Trump Iran ceasefire what happens next]] — Mike Crawley, CBC, Apr 7 2026; two-week ceasefire 90 min before deadline; Iran's 10-point plan; reported $2M-per-ship Hormuz transit fees
-- [[Newsweek — Liberal flips Conservative Wisconsin Supreme Court seat]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
+- [[Liberal Flips Conservative Supreme Court Seat in Wisconsin Election — Newsweek]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
 - [[The Hill — Clay Fuller wins Georgia special election]] — Caroline Vakil, The Hill, Apr 7 2026; Trump-endorsed Fuller wins GA-14 special; House GOP margin tightens to 218-214; Democratic overperformance pattern continues
 
 ### Recent Ingests (2026-04-11)
@@ -523,14 +523,14 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Five things to know about Hungary's election]] — Apr 2026; Hungary election as illiberal democracy test; Orban vs Magyar; Fidesz vs Tisza
 
 #### Politics & Culture
-- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]] — Reset DOC, Jan 2026; Dark Enlightenment/NRx intellectual genealogy; Yarvin as Thiel-funded ideological architect
+- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right — ResetDoc]] — Reset DOC, Jan 2026; Dark Enlightenment/NRx intellectual genealogy; Yarvin as Thiel-funded ideological architect
 - [[The Reactionary Prophet of Silicon Valley]] — The Nation; Yarvin's racist writings; Thiel-to-candidate pipeline; DOGE as applied neoreaction
 - [[Pope Leo Is Speaking Truth to Donald Trumps Power]] — Apr 2026; Pope Leo XIV vs Trump on Iran war; Hegseth Pentagon prayer; 66% antiwar polling; faith vs militarism
 - [[How Louis Theroux Got Inside the Manosphere — NYT]] — NYT; Netflix documentary; manosphere as sales grift targeting 8-20 year olds; Andrew Tate pipeline
 - [[No One at Waffle House Remembers FEMA Official Who Says He Teleported]] — FEMA official Gregg Phillips teleportation claims; supernatural conspiracy in government appointments
 
 #### Crypto
-- [[Trump's World Liberty Financial uses five billion WLFI to borrow $75 million]] — CoinDesk, Apr 2026; WLFI insider self-dealing via Dolomite; 5B governance tokens as collateral; depositors locked out; 93% pool utilization
+- [[Trump World Liberty Financial Borrows $75M Against WLFI Token on Dolomite — CoinDesk]] — CoinDesk, Apr 2026; WLFI insider self-dealing via Dolomite; 5B governance tokens as collateral; depositors locked out; 93% pool utilization
 
 #### Economics
 - [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]] — NPR/Planet Money, Feb 2025; Jevons Paradox applied to AI; efficiency → more consumption; Brynjolfsson pilots example
@@ -1001,8 +1001,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 432 |
-| Published articles tracked | 83 |
+| Total sources ingested | 439 |
+| Published articles tracked | 84 |
 | Entity pages | 177 |
 | Concept pages | 116 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |

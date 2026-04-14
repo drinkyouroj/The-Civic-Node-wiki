@@ -5,7 +5,7 @@ entity_type: person
 tags: [crypto, bitcoin, technology, cypherpunk]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 1
+sources: 7
 ---
 
 ## Overview
