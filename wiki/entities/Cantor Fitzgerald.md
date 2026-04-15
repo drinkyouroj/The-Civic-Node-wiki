@@ -10,7 +10,7 @@ sources: 7
 
 ## Overview
 
-Cantor Fitzgerald is a major US financial services firm founded in 1945. It is relevant to this wiki primarily through its SPAC vehicle Cantor Equity Partners I (CEPO), led by Brandon Lutnick (son of Howard Lutnick, who became US Commerce Secretary in February 2026). CEPO is the blank-check company through which Adam Back's Bitcoin Standard Treasury Company (BSTR) is going public — a process that creates SEC disclosure obligations that may compel revelation of Back's personal Bitcoin holdings.
+Cantor Fitzgerald is a major US financial services firm founded in 1945. It is relevant to this wiki primarily through its SPAC vehicle Cantor Equity Partners I (CEPO), led by Brandon Lutnick (son of Howard Lutnick, who was confirmed as US Commerce Secretary in February 2025). CEPO is the blank-check company through which Adam Back's Bitcoin Standard Treasury Company (BSTR) is going public — a process that creates SEC disclosure obligations that may compel revelation of Back's personal Bitcoin holdings.
 
 ## Key Facts
 
