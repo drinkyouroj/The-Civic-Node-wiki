@@ -5,6 +5,19 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-15] ingest | 2 sources — COPA v Wright judgment, Lutnick confirmation (article branch)
+
+Two sources ingested on the `article/the-sec-and-the-last-secret-in-bitcoin` branch to support the Adam Back / Satoshi article:
+
+- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — [2024] EWHC 1198 (Ch); Mr Justice Mellor's definitive ruling that Craig Wright is NOT Satoshi Nakamoto; 47 forgeries; Wright "lied extensively and repeatedly"; worldwide anti-suit injunction; CPS referral; August 2008 Back-Satoshi emails produced as discovery evidence; PDF stored in raw/
+- [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — US Senate Vote #57, 119th Congress; Howard Lutnick confirmed as Commerce Secretary 51-45 in February 2025; primary source for Lutnick confirmation date; fixes date error in Cantor Fitzgerald entity page (was incorrectly "Feb 2026")
+
+Also corrected: [[Cantor Fitzgerald]] entity had "February 2026" for Howard Lutnick's confirmation — corrected to February 2025 with primary source citation.
+
+Updated source counts: [[Craig Wright]] (stub → full page, 1→2), [[Satoshi Nakamoto]] (4→5), [[Adam Back]] (10→11), [[Cantor Fitzgerald]] (2→3). [[Bitcoin Origin Mystery]] concept updated with Wright-elimination evidence. Index updated: 454→456 sources.
+
+---
+
 ## [2026-04-14] ingest | 3 sources — Adam Back/Satoshi gap-fill (SEC disclosure, SPAC mechanics, DHS FOIA)
 
 Three sources ingested to fill source gaps for the "The SEC and the Last Secret in Bitcoin" article outline.

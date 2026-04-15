@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-14
-total_pages: 843
-total_sources: 454
+updated: 2026-04-15
+total_pages: 845
+total_sources: 456
 total_entities: 177
 total_concepts: 116
 total_syntheses: 13
@@ -199,6 +199,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador y el bitcoin Cristosal 2023]] — Accountability failures; Fidebitcoin opacity; Chivo identity theft documentation
 - [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — 81% tourism growth; Bukele rebranding success separate from Bitcoin
 - [[NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back — Bitcoin.com News]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
+- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — English High Court; Wright definitively ruled NOT Satoshi; 47 forgeries; Back-Satoshi Aug 2008 emails produced as discovery; worldwide injunction; CPS referral
+- [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — US Senate Vote #57; 51–45; Lutnick confirmed as Commerce Secretary Feb 2025; son Brandon Lutnick leads BSTR/CEPO SPAC
 - [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12 2026; Seyffart quote; Carreyrou photo-shoot question; BSTR SPAC as PR vehicle for Satoshi spotlight
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Decrypt/FT, Jul 2025; 30K BTC; $4B deal; Brandon Lutnick (Commerce Secretary's son); BSTR Nasdaq listing mechanics
 - [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — CryptoSlate, Apr 2025; James Murphy FOIA lawsuit; DHS agent Rana Saoud claimed 2019 California interview with Satoshi

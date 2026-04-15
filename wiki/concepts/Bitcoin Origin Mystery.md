@@ -4,7 +4,7 @@ type: concept
 tags: [crypto, bitcoin, technology, legal, power]
 created: 2026-04-09
 updated: 2026-04-14
-sources: 9
+sources: 11
 ---
 
 ## Definition
@@ -23,6 +23,7 @@ Neither mechanism requires a court to rule or Satoshi to confess. One requires a
 
 ## Evidence & Examples
 
+- **Wright eliminated**: COPA v Wright [2024] EWHC 1198 (Ch) — Mr Justice Mellor ruled Craig Wright is definitively NOT Satoshi Nakamoto after finding 47 instances of forged evidence. Worldwide injunction issued; Wright referred to CPS for perjury. The trial produced the August 2008 Back-Satoshi emails as discovery evidence. [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]]
 - **Stylometric analysis**: NYT commissioned Florian Cafiero to run three distinct writing analyses of 12 Satoshi suspects against the Bitcoin whitepaper and early emails. Back ranked first in all three, though Cafiero called the results inconclusive. He shared 67 of 325 distinct hyphenation errors — nearly double the next closest suspect. [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]]
 - **August 2008 emails**: Satoshi contacted Back before publishing the Bitcoin whitepaper. These emails were produced during Craig Wright's London fraud trial. Carreyrou speculates they could have been self-sent; Back denies this. [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]]
 - **The photo shoot**: Back agreed to participate in a photo shoot for the NYT Satoshi story. Carreyrou's rhetorical question — *"If you're not Satoshi and you know the Times is going to identify you as Satoshi, do you agree to participate in a photo shoot?"* — frames this as either evidence of innocence or strategic PR. [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]]
@@ -48,6 +49,8 @@ Neither mechanism requires a court to rule or Satoshi to confess. One requires a
 
 - [[Satoshi Nakamoto Bitcoin Whitepaper 2008]]
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]]
+- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]]
 - [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]]
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]]
 - [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]]
+- [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]]

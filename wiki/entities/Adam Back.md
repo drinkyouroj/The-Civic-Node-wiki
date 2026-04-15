@@ -5,7 +5,7 @@ entity_type: person
 tags: [crypto, bitcoin, technology, cypherpunk]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 9
+sources: 10
 ---
 
 ## Overview
@@ -33,7 +33,7 @@ The Satoshi mystery pulls focus back to the [[Cypherpunk Movement]] — the extr
 - [[Blockstream]] — company he leads
 - [[Hal Finney]] — fellow early Bitcoin figure; deceased; second-closest stylometric match
 - [[Nick Szabo]] — fellow Cypherpunk; parallel Satoshi suspect
-- [[Craig Wright]] — fraudulent Satoshi claimant; his London trial produced Back-Satoshi emails
+- [[Craig Wright]] — fraudulent Satoshi claimant; COPA v Wright trial produced Back-Satoshi August 2008 emails as discovery; Wright definitively ruled NOT Satoshi by Mellor J [2024] EWHC 1198
 - [[Cypherpunk Movement]] — intellectual community where both Back and Satoshi's ideas originated
 
 ## Source Appearances
@@ -41,6 +41,7 @@ The Satoshi mystery pulls focus back to the [[Cypherpunk Movement]] — the extr
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — primary subject; NYT's pick for Satoshi identity
 - [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — strategic PR angle; photo shoot cooperation; Seyffart quote
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — BSTR deal mechanics; 30K BTC; Brandon Lutnick connection; July 2025 timeline
+- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — Wright's trial produced August 2008 Back-Satoshi emails as discovery evidence; Wright's elimination narrows field to Back/Finney/Szabo
 
 ## Open Questions
 
