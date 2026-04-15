@@ -5,6 +5,17 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-15] ingest | 2 sources — Bitcoin whitepaper update, Satoshi wallet (article branch)
+
+Two sources ingested to fill fact-check gaps for the "The Cypherpunk Who Filed an S-1" draft:
+
+- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — existing page updated; added Section 4 (Proof-of-Work) explicitly cites Adam Back's Hashcash by name — Back is the only living person named in the whitepaper's technical body; added Entities Mentioned section (Back, Satoshi); noted 46-day post-Lehman timing; linked new raw clipping `bitcoin-whitepaper.md`
+- [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — new page; Nexo educational article Apr 9 2026; Patoshi Pattern (Sergio Demián Lerner, 2013); 20,000+ address cluster; genesis address; four theories for unmoved coins; ~$79B value at publication (discrepancy vs. $118B in Bitcoin.com noted); seizure-impossible-by-design framing
+
+Updated: [[Satoshi Nakamoto]] entity (source appearance added), [[Bitcoin]] entity (source appearance added). Index updated: 456→457 sources (whitepaper page updated in place; Nexo page new).
+
+---
+
 ## [2026-04-15] ingest | 2 sources — COPA v Wright judgment, Lutnick confirmation (article branch)
 
 Two sources ingested on the `article/the-sec-and-the-last-secret-in-bitcoin` branch to support the Adam Back / Satoshi article:

@@ -162,7 +162,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Render RENDER Tokenomics — Tokenomist]] — Tokenomist; RENDER supply/cliff vesting data
 - [[Gala GALA CoinMarketCap]] — CoinMarketCap; $GALA ecosystem description
 - [[GalaChain Sees 2.8 Billion GALA Migration]] — Node Staking Program launch; 2.8B GALA migration; June 2025
-- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; P2P electronic cash; 21M cap; proof of work
+- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; Section 4 cites Adam Back's Hashcash by name; published Oct 31 2008, 46 days after Lehman; 21M cap; proof of work
 - [[iShares Bitcoin Trust ETF IBIT — BlackRock]] — BlackRock IBIT product page; largest Bitcoin ETF; institutional adoption
 - [[Strategic Bitcoin Reserve]] — EO establishing US Strategic Bitcoin Reserve; BTC + ETH + XRP + SOL holdings
 - [[What to Know About CECOT — El Salvador Mega-Prison]] — El Salvador mega-prison; 40,000 capacity; gangs + dissidents; due process concerns
@@ -204,6 +204,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12 2026; Seyffart quote; Carreyrou photo-shoot question; BSTR SPAC as PR vehicle for Satoshi spotlight
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Decrypt/FT, Jul 2025; 30K BTC; $4B deal; Brandon Lutnick (Commerce Secretary's son); BSTR Nasdaq listing mechanics
 - [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — CryptoSlate, Apr 2025; James Murphy FOIA lawsuit; DHS agent Rana Saoud claimed 2019 California interview with Satoshi
+- [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — Nexo, Apr 2026; 1.1M BTC cluster; Patoshi Pattern (Lerner 2013); genesis address; never-moved coins; seizure-impossible-by-design
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern
