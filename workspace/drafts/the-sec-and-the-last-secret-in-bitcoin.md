@@ -6,7 +6,7 @@ When you file a patent, you swap anonymity for credit. The invention leaves your
 
 In October 2008, Satoshi Nakamoto filed something else. A whitepaper. Nine pages. No name attached to a face. The clerk's desk sat empty, and Bitcoin became the most successful anonymous patent in the history of money — seventeen years of an invention working perfectly while the inventor refused to collect.
 
-There is another kind of clerk's desk. This one belongs to the Securities and Exchange Commission. It doesn't care about credit. It cares about $118 billion in undisclosed assets, signed for under penalty of fraud.
+There is another kind of clerk's desk. This one belongs to the Securities and Exchange Commission. It doesn't care about credit. It cares about $81.5 billion in undisclosed assets, signed for under penalty of fraud.
 
 Adam Back is on his way to that desk.
 
@@ -14,17 +14,17 @@ Adam Back is on his way to that desk.
 
 ## The Spark: Six Denials and a Filing Deadline
 
-In January 2026, John Carreyrou — the reporter who broke Theranos — sat across from Adam Back for two hours at a Bitcoin conference in El Salvador. [Back denied being Satoshi Nakamoto at least six times.](https://news.bitcoin.com/nyt-claims-bitcoin-creator-satoshi-nakamoto-is-british-cryptographer-adam-back/) He didn't budge. He called the accusation a parlor trick.
+In January 2026, John Carreyrou, the reporter who broke Theranos, sat across from Adam Back for two hours at a Bitcoin conference in El Salvador. [Back denied being Satoshi Nakamoto at least six times.](https://news.bitcoin.com/nyt-claims-bitcoin-creator-satoshi-nakamoto-is-british-cryptographer-adam-back/) He didn't budge. He called the accusation a parlor trick.
 
-On April 8, 2026, the [New York Times published the investigation](https://www.nytimes.com/2026/04/08/business/adam-back-satoshi-nakamoto-bitcoin.html) naming Back — British cryptographer, inventor of Hashcash, CEO of Blockstream — as its primary candidate.
+On April 8, 2026, the [New York Times named Back](https://www.nytimes.com/2026/04/08/business/adam-back-satoshi-nakamoto-bitcoin.html), British cryptographer, inventor of Hashcash, CEO of Blockstream, as its primary Satoshi candidate.
 
 The evidence is real, and contested. A stylometric analysis by Florian Cafiero, commissioned by the Times, found 67 shared hyphenation patterns between Back's writing and the Bitcoin whitepaper — nearly double the next closest suspect. Cafiero called his own result "inconclusive." A second method produced different rankings. A set of August 2008 emails between Back and someone signing "Satoshi," surfaced during Craig Wright's London fraud trial, places them in conversation three months before the whitepaper went public. Carreyrou speculates (without evidence) that Back could have self-sent them. The case is closer than any previous Satoshi theory. It is not yet conclusive.
 
 The interesting part isn't the case. It's the calendar.
 
-While Carreyrou was building the story, Back was mid-process on the largest Bitcoin treasury SPAC ever assembled. (SPACs — special-purpose acquisition companies — are shell companies built for one job: merge with a private firm and take it public, skipping the traditional IPO.) [Cantor Equity Partners I](https://decrypt.co/330306/cantor-fitzgerald-spac-4b-bitcoin-deal-blockstream-adam-back), the vehicle run by Brandon Lutnick, is merging with Back's Blockstream Capital in a deal anchored by roughly 30,000 BTC and a [$1.5 billion PIPE](https://www.coindesk.com/business/2025/07/17/adam-backs-bitcoin-treasury-firm-to-go-public-with-30k-btc-and-15b-in-buying-power) — the largest ever announced alongside a Bitcoin treasury merger. The combined entity plans to trade on Nasdaq as **BSTR**. [Shareholder vote: April 2026.](https://www.coindesk.com/markets/2026/02/24/adam-back-s-bstr-moving-forward-with-public-listing-plans-hopes-for-april-approval) Same month the NYT investigation ran.
+While Carreyrou was building the story, Back was mid-process on the largest Bitcoin treasury SPAC ever assembled. (SPACs — special-purpose acquisition companies — are shell companies built for one job: merge with a private firm and take it public, skipping the traditional IPO.) [Cantor Equity Partners I](https://decrypt.co/330306/cantor-fitzgerald-spac-4b-bitcoin-deal-blockstream-adam-back), the vehicle run by Brandon Lutnick, is merging with Back's Blockstream Capital in a deal anchored by roughly 30,000 BTC and a [$1.5 billion PIPE](https://www.coindesk.com/business/2025/07/17/adam-backs-bitcoin-treasury-firm-to-go-public-with-30k-btc-and-15b-in-buying-power) — [the largest ever announced](https://bitcoinethereumnews.com/tech/free-pr-or-confession-expert-thinks-adam-back-played-the-nyt-like-a-prospectus/) alongside a Bitcoin treasury merger. The combined entity plans to trade on Nasdaq as **BSTR**. [Shareholder vote: April 2026.](https://www.coindesk.com/markets/2026/02/24/adam-back-s-bstr-moving-forward-with-public-listing-plans-hopes-for-april-approval) Same month the NYT investigation ran.
 
-SPAC mergers don't close with press releases. They close with S-4 proxy filings. Officer disclosures. Material-asset attestations signed under penalty of securities fraud. The SEC doesn't care who Satoshi is. But it cares very much whether the incoming CEO of a publicly listed company controls $118 billion in undisclosed Bitcoin.
+SPAC mergers don't close with press releases. They close with S-4 proxy filings. Officer disclosures. Material-asset attestations signed under penalty of securities fraud. The SEC doesn't care who Satoshi is. But it cares very much whether the incoming CEO of a publicly listed company controls $81.5 billion in undisclosed Bitcoin.
 
 That's not a mystery. That's a form.
 
@@ -60,11 +60,11 @@ The Exchange Act says that officers of public companies must disclose material i
 
 The SEC is the hardest of the compulsion vectors Back is currently facing. It isn't the only one. A year ago, [crypto attorney James Murphy sued the Department of Homeland Security](https://cryptoslate.com/crypto-attorney-sues-us-authorities-to-reveal-satoshi-nakamotos-identity/) under FOIA, seeking records tied to a 2019 claim by DHS Special Agent Rana Saoud that agents had flown to California and interviewed Satoshi face-to-face, with three other Bitcoin developers present. FOIA is slow. S-4 deadlines are not. But both vectors point at the same door.
 
-The practical part is this. Every underwriter, investment bank, and securities lawyer working this SPAC is conducting due diligence on Back's financial interests right now. There are no off-the-record Bitcoin wallets in that process. Denying you're Satoshi in a newspaper interview is cheap. Six times, two hours, no consequence. Denying it on an S-4 is not. The same words. Different courtroom.
+The practical part is this. Every underwriter and securities lawyer working this SPAC is conducting due diligence on Back's financial interests right now. There are no off-the-record Bitcoin wallets in that process. Denying you're Satoshi in a newspaper interview is cheap. Six times, two hours, no consequence. Denying it on an S-4 is not. The same words. Different courtroom.
 
 Which leaves the question of why Back sat for a *New York Times* photo shoot weeks before the story ran. Carreyrou asked it on the record: if you're not Satoshi, and you know the Times is about to publish a massive story identifying you as Satoshi, do you agree to the photograph?
 
-[James Seyffart at Bloomberg Intelligence read the answer as commerce](https://bitcoinethereumnews.com/tech/free-pr-or-confession-expert-thinks-adam-back-played-the-nyt-like-a-prospectus/): *"If you're IPO'ing a company, it's pretty damn good PR. Particularly when the cost is roughly zero."* Two readings sit on top of each other, and neither is soft. In one, Satoshi's design failed at the moment of monetization; the system built to outrun state compulsion got dragged into the disclosure machine by its creator's own cap table. In the other, Satoshi's design never failed at all. The anonymity was the warm-up. The NYT wrote the roadshow. Back filed the one S-1 where the mystery was the prospectus.
+[James Seyffart at Bloomberg Intelligence read the answer as commerce](https://bitcoinethereumnews.com/tech/free-pr-or-confession-expert-thinks-adam-back-played-the-nyt-like-a-prospectus/): *"If you're IPO'ing a company — it's pretty damn good PR. Particularly when the cost is roughly zero."* Two readings sit on top of each other, and neither is soft. In one, Satoshi's design failed at the moment of monetization; the system built to outrun state compulsion got dragged into the disclosure machine by its creator's own cap table. In the other, Satoshi's design never failed at all. The anonymity was the warm-up. The NYT wrote the roadshow. Back filed the one S-1 where the mystery was the prospectus.
 
 The cypherpunk didn't get caught. He filed the perfect one.
 
@@ -78,9 +78,9 @@ They were right about almost all of it. Surveillance capitalism arrived. Financi
 
 Worth noticing that the SPAC vehicle carrying Back to Nasdaq is run by Brandon Lutnick, whose father Howard was [confirmed as Commerce Secretary in February 2025](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00057.htm). The currency engineered to route around the state is being listed by a firm one degree from the cabinet. The Cypherpunks designed for a future where sovereignty was encoded in math. The exit ramp runs through Washington.
 
-If the SEC filing produces the answer, what actually changes? Not Bitcoin. Not the blockchain. Not the mathematics. The network doesn't care who built it; the code runs either way. What changes is the story we told ourselves about why it mattered. The anonymous founder. The disappeared creator. The invention that didn't need an inventor.
+If the SEC filing produces the answer, what actually changes? Not Bitcoin. Not the mathematics. The network doesn't care who built it; the code runs either way. What changes is the story we told ourselves about why it mattered. The anonymous founder. The disappeared creator.
 
-Satoshi's patent worked for seventeen years. The financial system didn't hack Bitcoin. It didn't surveil it, crack it, or break its cryptography.
+Satoshi's patent worked for seventeen years. The financial system didn't hack Bitcoin. It didn't crack it or break its cryptography.
 
 It just waited for the inventor to walk back to the clerk's desk on his own.
 
