@@ -5,6 +5,19 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-15] ingest | 4 sources — BSTR deal sources, NYT denial, Hashcash primary (article branch)
+
+Four sources ingested to close remaining fact-check gaps for "The Cypherpunk Who Filed an S-1" draft v3:
+
+- [[BSTR to Go Public with 30K BTC and $1.5B Buying Power — CoinDesk]] — CoinDesk Jul 17 2025; official BSTR launch announcement; confirms $1.5B PIPE ($400M equity + $750M convertible notes + $350M preferred); Back contributing 25K BTC personally; BSTR fourth-largest public BTC holder; supersedes Decrypt/Bitcoin Ethereum News as the $1.5B PIPE primary source
+- [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CoinDesk Feb 24 2026; Back told CNBC approval "could come as soon as April"; BTC at $63K bear market context; primary source for "Shareholder vote: April 2026" claim
+- [[Adam Back Denies Being Satoshi Nakamoto — NYT]] — NYT (Rhone) Apr 8 2026; companion to main Carreyrou investigation; Back's "I'm not satoshi" X post; Blockstream statement; AI-assisted stylometric analysis; Cypherpunk definition; primary NYT URL now in wiki
+- [[Hashcash Announcement to Cypherpunks Mailing List 1997 — Adam Back]] — Adam Back's original Mar 28 1997 email to cypherpunks@toad.com; primary document for "In 1997 he invented Hashcash"; proof-of-work asymmetry described; Exeter email confirms British identity
+
+Updated: [[Adam Back]] (4 new source appearances), [[Cantor Fitzgerald]] (2 new source appearances). Index updated: 457→461 sources.
+
+---
+
 ## [2026-04-15] ingest | 2 sources — Bitcoin whitepaper update, Satoshi wallet (article branch)
 
 Two sources ingested to fill fact-check gaps for the "The Cypherpunk Who Filed an S-1" draft:

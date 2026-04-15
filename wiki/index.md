@@ -205,6 +205,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Decrypt/FT, Jul 2025; 30K BTC; $4B deal; Brandon Lutnick (Commerce Secretary's son); BSTR Nasdaq listing mechanics
 - [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — CryptoSlate, Apr 2025; James Murphy FOIA lawsuit; DHS agent Rana Saoud claimed 2019 California interview with Satoshi
 - [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — Nexo, Apr 2026; 1.1M BTC cluster; Patoshi Pattern (Lerner 2013); genesis address; never-moved coins; seizure-impossible-by-design
+- [[Adam Back Denies Being Satoshi Nakamoto — NYT]] — NYT (Rhone), Apr 8 2026; "I'm not satoshi"; Blockstream statement; AI-assisted stylometric analysis; Cypherpunk definition; NYT primary URL for denial
+- [[BSTR to Go Public with 30K BTC and $1.5B Buying Power — CoinDesk]] — CoinDesk (Sandor), Jul 17 2025; official BSTR launch; $1.5B PIPE confirmed ($400M equity + $750M notes + $350M preferred); Back contributing 25K BTC personally; fourth-largest public BTC holder
+- [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CoinDesk (Van Straten), Feb 24 2026; Back says approval "could come as soon as April"; BTC at $63K; bear market context
+- [[Hashcash Announcement to Cypherpunks Mailing List 1997 — Adam Back]] — Adam Back, Mar 28 1997; primary source for 1997 Hashcash invention; posted to cypherpunks@toad.com; proof-of-work mechanism; University of Exeter
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern

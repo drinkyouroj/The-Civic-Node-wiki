@@ -5,7 +5,7 @@ entity_type: organization
 tags: [finance, crypto, bitcoin]
 created: 2026-04-09
 updated: 2026-04-14
-sources: 7
+sources: 9
 ---
 
 ## Overview
@@ -34,5 +34,7 @@ The Cantor/BSTR deal creates the legal mechanism central to the Satoshi story. A
 ## Source Appearances
 
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — shell company vehicle; SEC disclosure angle
+- [[BSTR to Go Public with 30K BTC and $1.5B Buying Power — CoinDesk]] — official announcement; Brandon Lutnick identified as "son of Trump administration Commerce Secretary Howard Lutnick"; $1.5B PIPE confirmed
+- [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CEPO/BSTR merger proceeding; April 2026 shareholder approval timeline
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — deal mechanics; Brandon/Howard Lutnick connection; timeline
 - [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — primary source for Howard Lutnick's February 2025 confirmation as Commerce Secretary
