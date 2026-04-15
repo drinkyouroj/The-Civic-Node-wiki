@@ -60,7 +60,7 @@ The Exchange Act says that officers of public companies must disclose material i
 
 The SEC is the hardest of the compulsion vectors Back is currently facing. It isn't the only one. A year ago, [crypto attorney James Murphy sued the Department of Homeland Security](https://cryptoslate.com/crypto-attorney-sues-us-authorities-to-reveal-satoshi-nakamotos-identity/) under FOIA, seeking records tied to a 2019 claim by DHS Special Agent Rana Saoud that agents had flown to California and interviewed Satoshi face-to-face, with three other Bitcoin developers present. FOIA is slow. S-4 deadlines are not. But both vectors point at the same door.
 
-The practical part is this. Every underwriter and securities lawyer working this SPAC is conducting due diligence on Back's financial interests right now. There are no off-the-record Bitcoin wallets in that process. Denying you're Satoshi in a newspaper interview is cheap. Six times, two hours, no consequence. Denying it on an S-4 is not. The same words. Different courtroom.
+The practical part is this: Every underwriter and securities lawyer working this SPAC is conducting due diligence on Back's financial interests right now. There are no off-the-record Bitcoin wallets in that process. Denying you're Satoshi in a newspaper interview is cheap. Six times, two hours, no consequence. Denying it on an S-4 is not. The same words. Different courtroom.
 
 Which leaves the question of why Back sat for a *New York Times* photo shoot weeks before the story ran. Carreyrou asked it on the record: if you're not Satoshi, and you know the Times is about to publish a massive story identifying you as Satoshi, do you agree to the photograph?
 
