@@ -1340,3 +1340,7 @@ Completed full ingestion of all 13 raw stubs created during v11 fact-check audit
 **Updated index.md:** 15 new source entries, 3 new entity entries, 1 new concept entry, 1 new article entry; stats 819→839 pages, 435→450 sources, 174→177 entities, 115→116 concepts, 82→83 articles
 
 Total pages after ingest: ~839. Total sources: 450.
+
+## [2026-04-15] note | "The Cypherpunk Who Filed an S-1" — draft complete, publishing tomorrow
+
+Full article workflow complete. Outline → detailed outline → section headlines → four source gap revisions → draft → Marcus check-in → fact-check (5 fixes applied) → voice pass (7 fixes applied) → cover image generated. Publishing 2026-04-16 ~19:00 ET on The Civic Node. Sources: 6 wiki sources, 12 inline links, all primary or Tier 1 except one aggregation cite (Seyffart/Bloomberg). Final word count ~1,640.
