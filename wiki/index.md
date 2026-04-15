@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-14
-total_pages: 843
-total_sources: 454
+updated: 2026-04-15
+total_pages: 845
+total_sources: 456
 total_entities: 177
 total_concepts: 116
 total_syntheses: 13
@@ -162,7 +162,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Render RENDER Tokenomics — Tokenomist]] — Tokenomist; RENDER supply/cliff vesting data
 - [[Gala GALA CoinMarketCap]] — CoinMarketCap; $GALA ecosystem description
 - [[GalaChain Sees 2.8 Billion GALA Migration]] — Node Staking Program launch; 2.8B GALA migration; June 2025
-- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; P2P electronic cash; 21M cap; proof of work
+- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; Section 4 cites Adam Back's Hashcash by name; published Oct 31 2008, 46 days after Lehman; 21M cap; proof of work
 - [[iShares Bitcoin Trust ETF IBIT — BlackRock]] — BlackRock IBIT product page; largest Bitcoin ETF; institutional adoption
 - [[Strategic Bitcoin Reserve]] — EO establishing US Strategic Bitcoin Reserve; BTC + ETH + XRP + SOL holdings
 - [[What to Know About CECOT — El Salvador Mega-Prison]] — El Salvador mega-prison; 40,000 capacity; gangs + dissidents; due process concerns
@@ -199,9 +199,16 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador y el bitcoin Cristosal 2023]] — Accountability failures; Fidebitcoin opacity; Chivo identity theft documentation
 - [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — 81% tourism growth; Bukele rebranding success separate from Bitcoin
 - [[NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back — Bitcoin.com News]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
+- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — English High Court; Wright definitively ruled NOT Satoshi; 47 forgeries; Back-Satoshi Aug 2008 emails produced as discovery; worldwide injunction; CPS referral
+- [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — US Senate Vote #57; 51–45; Lutnick confirmed as Commerce Secretary Feb 2025; son Brandon Lutnick leads BSTR/CEPO SPAC
 - [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12 2026; Seyffart quote; Carreyrou photo-shoot question; BSTR SPAC as PR vehicle for Satoshi spotlight
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Decrypt/FT, Jul 2025; 30K BTC; $4B deal; Brandon Lutnick (Commerce Secretary's son); BSTR Nasdaq listing mechanics
 - [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — CryptoSlate, Apr 2025; James Murphy FOIA lawsuit; DHS agent Rana Saoud claimed 2019 California interview with Satoshi
+- [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — Nexo, Apr 2026; 1.1M BTC cluster; Patoshi Pattern (Lerner 2013); genesis address; never-moved coins; seizure-impossible-by-design
+- [[Adam Back Denies Being Satoshi Nakamoto — NYT]] — NYT (Rhone), Apr 8 2026; "I'm not satoshi"; Blockstream statement; AI-assisted stylometric analysis; Cypherpunk definition; NYT primary URL for denial
+- [[BSTR to Go Public with 30K BTC and $1.5B Buying Power — CoinDesk]] — CoinDesk (Sandor), Jul 17 2025; official BSTR launch; $1.5B PIPE confirmed ($400M equity + $750M notes + $350M preferred); Back contributing 25K BTC personally; fourth-largest public BTC holder
+- [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CoinDesk (Van Straten), Feb 24 2026; Back says approval "could come as soon as April"; BTC at $63K; bear market context
+- [[Hashcash Announcement to Cypherpunks Mailing List 1997 — Adam Back]] — Adam Back, Mar 28 1997; primary source for 1997 Hashcash invention; posted to cypherpunks@toad.com; proof-of-work mechanism; University of Exeter
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern

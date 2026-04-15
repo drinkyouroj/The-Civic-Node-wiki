@@ -5,6 +5,43 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-15] ingest | 4 sources — BSTR deal sources, NYT denial, Hashcash primary (article branch)
+
+Four sources ingested to close remaining fact-check gaps for "The Cypherpunk Who Filed an S-1" draft v3:
+
+- [[BSTR to Go Public with 30K BTC and $1.5B Buying Power — CoinDesk]] — CoinDesk Jul 17 2025; official BSTR launch announcement; confirms $1.5B PIPE ($400M equity + $750M convertible notes + $350M preferred); Back contributing 25K BTC personally; BSTR fourth-largest public BTC holder; supersedes Decrypt/Bitcoin Ethereum News as the $1.5B PIPE primary source
+- [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CoinDesk Feb 24 2026; Back told CNBC approval "could come as soon as April"; BTC at $63K bear market context; primary source for "Shareholder vote: April 2026" claim
+- [[Adam Back Denies Being Satoshi Nakamoto — NYT]] — NYT (Rhone) Apr 8 2026; companion to main Carreyrou investigation; Back's "I'm not satoshi" X post; Blockstream statement; AI-assisted stylometric analysis; Cypherpunk definition; primary NYT URL now in wiki
+- [[Hashcash Announcement to Cypherpunks Mailing List 1997 — Adam Back]] — Adam Back's original Mar 28 1997 email to cypherpunks@toad.com; primary document for "In 1997 he invented Hashcash"; proof-of-work asymmetry described; Exeter email confirms British identity
+
+Updated: [[Adam Back]] (4 new source appearances), [[Cantor Fitzgerald]] (2 new source appearances). Index updated: 457→461 sources.
+
+---
+
+## [2026-04-15] ingest | 2 sources — Bitcoin whitepaper update, Satoshi wallet (article branch)
+
+Two sources ingested to fill fact-check gaps for the "The Cypherpunk Who Filed an S-1" draft:
+
+- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — existing page updated; added Section 4 (Proof-of-Work) explicitly cites Adam Back's Hashcash by name — Back is the only living person named in the whitepaper's technical body; added Entities Mentioned section (Back, Satoshi); noted 46-day post-Lehman timing; linked new raw clipping `bitcoin-whitepaper.md`
+- [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — new page; Nexo educational article Apr 9 2026; Patoshi Pattern (Sergio Demián Lerner, 2013); 20,000+ address cluster; genesis address; four theories for unmoved coins; ~$79B value at publication (discrepancy vs. $118B in Bitcoin.com noted); seizure-impossible-by-design framing
+
+Updated: [[Satoshi Nakamoto]] entity (source appearance added), [[Bitcoin]] entity (source appearance added). Index updated: 456→457 sources (whitepaper page updated in place; Nexo page new).
+
+---
+
+## [2026-04-15] ingest | 2 sources — COPA v Wright judgment, Lutnick confirmation (article branch)
+
+Two sources ingested on the `article/the-sec-and-the-last-secret-in-bitcoin` branch to support the Adam Back / Satoshi article:
+
+- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — [2024] EWHC 1198 (Ch); Mr Justice Mellor's definitive ruling that Craig Wright is NOT Satoshi Nakamoto; 47 forgeries; Wright "lied extensively and repeatedly"; worldwide anti-suit injunction; CPS referral; August 2008 Back-Satoshi emails produced as discovery evidence; PDF stored in raw/
+- [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — US Senate Vote #57, 119th Congress; Howard Lutnick confirmed as Commerce Secretary 51-45 in February 2025; primary source for Lutnick confirmation date; fixes date error in Cantor Fitzgerald entity page (was incorrectly "Feb 2026")
+
+Also corrected: [[Cantor Fitzgerald]] entity had "February 2026" for Howard Lutnick's confirmation — corrected to February 2025 with primary source citation.
+
+Updated source counts: [[Craig Wright]] (stub → full page, 1→2), [[Satoshi Nakamoto]] (4→5), [[Adam Back]] (10→11), [[Cantor Fitzgerald]] (2→3). [[Bitcoin Origin Mystery]] concept updated with Wright-elimination evidence. Index updated: 454→456 sources.
+
+---
+
 ## [2026-04-14] ingest | 3 sources — Adam Back/Satoshi gap-fill (SEC disclosure, SPAC mechanics, DHS FOIA)
 
 Three sources ingested to fill source gaps for the "The SEC and the Last Secret in Bitcoin" article outline.
@@ -1303,3 +1340,7 @@ Completed full ingestion of all 13 raw stubs created during v11 fact-check audit
 **Updated index.md:** 15 new source entries, 3 new entity entries, 1 new concept entry, 1 new article entry; stats 819→839 pages, 435→450 sources, 174→177 entities, 115→116 concepts, 82→83 articles
 
 Total pages after ingest: ~839. Total sources: 450.
+
+## [2026-04-15] note | "The Cypherpunk Who Filed an S-1" — draft complete, publishing tomorrow
+
+Full article workflow complete. Outline → detailed outline → section headlines → four source gap revisions → draft → Marcus check-in → fact-check (5 fixes applied) → voice pass (7 fixes applied) → cover image generated. Publishing 2026-04-16 ~19:00 ET on The Civic Node. Sources: 6 wiki sources, 12 inline links, all primary or Tier 1 except one aggregation cite (Seyffart/Bloomberg). Final word count ~1,640.

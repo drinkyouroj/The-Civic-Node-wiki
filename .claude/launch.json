@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Quartz dev server",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["quartz", "build", "--serve"],
+      "port": 8080
+    },
+    {
+      "name": "Logo preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", ".design/civic-node-logo", "-p", "3001", "--no-clipboard"],
+      "port": 3001
+    }
+  ]
+}
