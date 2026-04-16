@@ -16,7 +16,7 @@ Adam Back is on his way to that desk.
 
 In January 2026, John Carreyrou, the reporter who broke Theranos, sat across from Adam Back for two hours at a Bitcoin conference in El Salvador. [Back denied being Satoshi Nakamoto at least six times.](https://news.bitcoin.com/nyt-claims-bitcoin-creator-satoshi-nakamoto-is-british-cryptographer-adam-back/) He didn't budge. He called the accusation a parlor trick.
 
-On April 8, 2026, the [New York Times named Back](https://www.nytimes.com/2026/04/08/business/adam-back-satoshi-nakamoto-bitcoin.html), British cryptographer, inventor of Hashcash, CEO of Blockstream, as its primary Satoshi candidate.
+On April 8, 2026, the [New York Times named Back](https://www.nytimes.com/2026/04/08/business/adam-back-satoshi-nakamoto-bitcoin.html), British cryptographer, CEO of Blockstream, as its primary Satoshi candidate.
 
 The evidence is real, and contested. A stylometric analysis by Florian Cafiero, commissioned by the Times, found 67 shared hyphenation patterns between Back's writing and the Bitcoin whitepaper — nearly double the next closest suspect. Cafiero called his own result "inconclusive." A second method produced different rankings. A set of August 2008 emails between Back and someone signing "Satoshi," surfaced during Craig Wright's London fraud trial, places them in conversation three months before the whitepaper went public. Carreyrou speculates (without evidence) that Back could have self-sent them. The case is closer than any previous Satoshi theory. It is not yet conclusive.
 
@@ -24,7 +24,7 @@ The interesting part isn't the case. It's the calendar.
 
 While Carreyrou was building the story, Back was mid-process on the largest Bitcoin treasury SPAC ever assembled. (SPACs — special-purpose acquisition companies — are shell companies built for one job: merge with a private firm and take it public, skipping the traditional IPO.) [Cantor Equity Partners I](https://decrypt.co/330306/cantor-fitzgerald-spac-4b-bitcoin-deal-blockstream-adam-back), the vehicle run by Brandon Lutnick, is merging with Back's Blockstream Capital in a deal anchored by roughly 30,000 BTC and a [$1.5 billion PIPE](https://www.coindesk.com/business/2025/07/17/adam-backs-bitcoin-treasury-firm-to-go-public-with-30k-btc-and-15b-in-buying-power) — [the largest ever announced](https://bitcoinethereumnews.com/tech/free-pr-or-confession-expert-thinks-adam-back-played-the-nyt-like-a-prospectus/) alongside a Bitcoin treasury merger. The combined entity plans to trade on Nasdaq as **BSTR**. [Shareholder vote: April 2026.](https://www.coindesk.com/markets/2026/02/24/adam-back-s-bstr-moving-forward-with-public-listing-plans-hopes-for-april-approval) Same month the NYT investigation ran.
 
-SPAC mergers don't close with press releases. They close with S-4 proxy filings. Officer disclosures. Material-asset attestations signed under penalty of securities fraud. The SEC doesn't care who Satoshi is. But it cares very much whether the incoming CEO of a publicly listed company controls $81.5 billion in undisclosed Bitcoin.
+SPAC mergers don't close with press releases. They close with S-4 proxy filings. Material-asset attestations signed under penalty of securities fraud. The SEC doesn't care who Satoshi is. But it cares very much whether the incoming CEO of a publicly listed company controls $81.5 billion in undisclosed Bitcoin.
 
 That's not a mystery. That's a form.
 
