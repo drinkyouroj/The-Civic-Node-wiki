@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
-updated: 2026-04-12
-sources: 26
+updated: 2026-04-16
+sources: 27
 ---
 
 ## Overview
@@ -59,10 +59,11 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[OpenAI Acquires TBPN — TechCrunch]] — TBPN podcast acquisition, April 2026
 - [[OpenAI Pulls the Plug on Its Sora AI Video App]] — CBS News on Sora shutdown and compute reallocation
 - [[OpenAI Shutters Sora App — CNBC]] — CNBC's "reels in costs" framing of Sora discontinuation
+- [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — Signed DoD classified-network contract hours after Anthropic designation; claims "more guardrails" than Anthropic's contract; Altman said deal was "an attempt to de-escalate"; released contract language on mass surveillance prohibition
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?
-- Does OpenAI comply with DoD requests that Anthropic refused?
+- ~~Does OpenAI comply with DoD requests that Anthropic refused?~~ **Partially answered**: OpenAI signed a DoD contract claiming shared red lines (mass surveillance, autonomous weapons, social credit). But the key question from American Progress: why would the government honor OpenAI's restrictions after trying to destroy Anthropic for similar ones?
 - How does OpenAI's for-profit restructuring affect its regulatory relationships?
 - What does the $340B valuation round mean for AI market concentration?
 - Can OpenAI reach $280B revenue by 2030 to justify even the reduced $600B spending target?

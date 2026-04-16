@@ -5,73 +5,27 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
-## [2026-04-15] ingest | 4 sources — BSTR deal sources, NYT denial, Hashcash primary (article branch)
+## [2026-04-16] ingest | 3 raw sources — Anthropic/DoD conflict, Super Bowl LX (automated daily ingest)
 
-Four sources ingested to close remaining fact-check gaps for "The Cypherpunk Who Filed an S-1" draft v3:
+Three raw sources ingested:
 
-- [[BSTR to Go Public with 30K BTC and $1.5B Buying Power — CoinDesk]] — CoinDesk Jul 17 2025; official BSTR launch announcement; confirms $1.5B PIPE ($400M equity + $750M convertible notes + $350M preferred); Back contributing 25K BTC personally; BSTR fourth-largest public BTC holder; supersedes Decrypt/Bitcoin Ethereum News as the $1.5B PIPE primary source
-- [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CoinDesk Feb 24 2026; Back told CNBC approval "could come as soon as April"; BTC at $63K bear market context; primary source for "Shareholder vote: April 2026" claim
-- [[Adam Back Denies Being Satoshi Nakamoto — NYT]] — NYT (Rhone) Apr 8 2026; companion to main Carreyrou investigation; Back's "I'm not satoshi" X post; Blockstream statement; AI-assisted stylometric analysis; Cypherpunk definition; primary NYT URL now in wiki
-- [[Hashcash Announcement to Cypherpunks Mailing List 1997 — Adam Back]] — Adam Back's original Mar 28 1997 email to cypherpunks@toad.com; primary document for "In 1997 he invented Hashcash"; proof-of-work asymmetry described; Exeter email confirms British identity
+1. **Statement from Dario Amodei on our discussions with the Department of War** (Anthropic, Feb 2026): Primary source document for the Anthropic-DoD conflict. Amodei articulates two red lines — mass domestic surveillance and fully autonomous weapons — and reveals DoD threatened supply chain risk designation and Defense Production Act invocation. Anthropic was the first frontier AI company on classified networks.
 
-Updated: [[Adam Back]] (4 new source appearances), [[Cantor Fitzgerald]] (2 new source appearances). Index updated: 457→461 sources.
+2. **The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act** (American Progress, Mar 4 2026): Most detailed legal analysis of the supply chain risk designation (10 U.S.C. 3252, 41 U.S.C. 4713). Hegseth's sweeping commercial prohibition exceeds statutory authority. OpenAI signed DoD deal hours after Anthropic designation. Claude was being used for Iran military planning the same weekend it was designated a risk. Calls for Congressional hearings and surveillance legislation.
 
----
+3. **Super Bowl 2026 highlights: Seahawks capture second Lombardi with 29-13 win over Patriots** (ESPN, Feb 8 2026): Definitive post-game recap resolving the previously flagged Super Bowl LX sourcing caveat. Kenneth Walker III named MVP (135 rush yds, 5.0 YPC). "Dark Side" defense: 6 sacks, 3 turnovers. Darnold: 19/38, 202 yds, 1 TD, 0 INT.
 
-## [2026-04-15] ingest | 2 sources — Bitcoin whitepaper update, Satoshi wallet (article branch)
-
-Two sources ingested to fill fact-check gaps for the "The Cypherpunk Who Filed an S-1" draft:
-
-- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — existing page updated; added Section 4 (Proof-of-Work) explicitly cites Adam Back's Hashcash by name — Back is the only living person named in the whitepaper's technical body; added Entities Mentioned section (Back, Satoshi); noted 46-day post-Lehman timing; linked new raw clipping `bitcoin-whitepaper.md`
-- [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — new page; Nexo educational article Apr 9 2026; Patoshi Pattern (Sergio Demián Lerner, 2013); 20,000+ address cluster; genesis address; four theories for unmoved coins; ~$79B value at publication (discrepancy vs. $118B in Bitcoin.com noted); seizure-impossible-by-design framing
-
-Updated: [[Satoshi Nakamoto]] entity (source appearance added), [[Bitcoin]] entity (source appearance added). Index updated: 456→457 sources (whitepaper page updated in place; Nexo page new).
+Entity updates: [[Anthropic]] (15→17), [[Dario Amodei]] (4→6), [[OpenAI]] (26→27), [[Pete Hegseth]] (4→6), [[US Department of Defense]] (3→5), [[Seattle Seahawks]] (21→22), [[Sam Darnold]] (13→14). New entity: [[Kenneth Walker III]]. Caveats on Seahawks and Darnold pages resolved. Open questions on Anthropic, OpenAI, and Hegseth pages partially answered. Index updated: 454 sources, 178 entities, 844 pages.
 
 ---
 
-## [2026-04-15] ingest | 2 sources — COPA v Wright judgment, Lutnick confirmation (article branch)
+## [2026-04-16] ingest | The Vibes Are Off — published article filed (automated daily ingest)
 
-Two sources ingested on the `article/the-sec-and-the-last-secret-in-bitcoin` branch to support the Adam Back / Satoshi article:
+Published Oct 7, 2025. "A Field Guide to Collective Dread in 2025." Neuroscience-grounded essay arguing "the vibes are off" is diagnostically precise — collective nervous system dysregulation, not slang. Amygdala mismatch (Paleolithic threat hardware vs. perpetual-crisis politics), mirror neuron contagion, self-care as category error. Includes 2023 psychotic break disclosure (LED delusions) as case study of system overload. Key stats: 75% employees report politics-driven low mood; 50% say life was easier during COVID.
 
-- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — [2024] EWHC 1198 (Ch); Mr Justice Mellor's definitive ruling that Craig Wright is NOT Satoshi Nakamoto; 47 forgeries; Wright "lied extensively and repeatedly"; worldwide anti-suit injunction; CPS referral; August 2008 Back-Satoshi emails produced as discovery evidence; PDF stored in raw/
-- [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — US Senate Vote #57, 119th Congress; Howard Lutnick confirmed as Commerce Secretary 51-45 in February 2025; primary source for Lutnick confirmation date; fixes date error in Cantor Fitzgerald entity page (was incorrectly "Feb 2026")
+Created `wiki/articles/The Vibes Are Off.md`. Connects to [[The Algorithm Ate My Amygdala]], [[The Abandonment Protocol]], [[When Minds Break]], [[Masked Me vs. Unmasked Me]]. Index updated: 84→85 articles.
 
-Also corrected: [[Cantor Fitzgerald]] entity had "February 2026" for Howard Lutnick's confirmation — corrected to February 2025 with primary source citation.
-
-Updated source counts: [[Craig Wright]] (stub → full page, 1→2), [[Satoshi Nakamoto]] (4→5), [[Adam Back]] (10→11), [[Cantor Fitzgerald]] (2→3). [[Bitcoin Origin Mystery]] concept updated with Wright-elimination evidence. Index updated: 454→456 sources.
-
----
-
-## [2026-04-14] ingest | 3 sources — Adam Back/Satoshi gap-fill (SEC disclosure, SPAC mechanics, DHS FOIA)
-
-Three sources ingested to fill source gaps for the "The SEC and the Last Secret in Bitcoin" article outline.
-
-- [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12, 2026; ETF analyst James Seyffart's quote ("pretty damn good PR, cost roughly zero"); Carreyrou's photo-shoot question as the structural tell; reframes Back's denial as potentially strategic
-- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Jul 16, 2025; baseline BSTR deal mechanics: 30K BTC, $4B+ valuation, Brandon Lutnick (Howard Lutnick's son), Nasdaq listing as "BSTR"; the SEC disclosure mechanism timeline established
-- [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — Apr 7, 2025; James Murphy FOIA lawsuit; DHS Special Agent Rana Saoud's 2019 claim that DHS "flew out to California" and interviewed Satoshi face-to-face with three other Bitcoin developers; second institutional vector closing in on identity
-
-Updated entity source counts: [[Adam Back]] (7→10), [[Satoshi Nakamoto]] (2→4), [[Cantor Fitzgerald]] (1→2), [[Blockstream]] (1→2). Concept expanded from stub: [[Bitcoin Origin Mystery]] — now full page with both institutional compulsion mechanisms (SEC/SPAC + DHS/FOIA). Index updated: 451→454 sources.
-
----
-
-## [2026-04-14] ingest | 7 sources — Iran escalation, WI SC, WLFI self-dealing, Satoshi/Adam Back, NRx
-
-Seven sources ingested from backlog (committed to raw/ Apr 6–11 but never filed to wiki/sources/).
-
-**Iran escalation cluster (3 sources):**
-- [[Trump Easter Threats Hell on Iran Infrastructure If Strait Remains Blocked — Reuters]] — Apr 5; Easter Sunday ultimatum; "Power Plant Day and Bridge Day"; Marjorie Taylor Greene rebuke; $4.11/gallon US gas
-- [[Will Blow Up Everything Take Over Iran Oil — Trump Says Deal Possible by Monday — India Today]] — Apr 5; Iran counter-strikes on Gulf energy (Kuwait/UAE/Bahrain); "limited amnesty for negotiators" while threatening annihilation
-- [[Trump Is Openly Targeting Innocent Civilians — Reason]] — Apr 7; Petti/Reason; B1 bridge bombing (8 killed, unfinished bridge); bipartisan civilian-targeting continuity; Trump's "Stone Age" rhetoric as verbalization of what prior admins did covertly
-
-**US politics:** [[Liberal Flips Conservative Supreme Court Seat in Wisconsin Election — Newsweek]] — Apr 7; Chris Taylor 61% win; liberal majority expands to 5-2; fourth consecutive liberal WI SC win; Musk 2025 intervention chilling effect
-
-**Crypto conflict of interest:** [[Trump World Liberty Financial Borrows $75M Against WLFI Token on Dolomite — CoinDesk]] — Apr 9; 5B WLFI tokens as collateral on protocol co-founded by WLFI adviser; USD1 pool at 93% utilization; retail depositors locked out; WLFI drops 12% after reporting
-
-**Bitcoin identity:** [[NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back — Bitcoin.com News]] — Apr 8; NYT/Carreyrou investigation; stylometric analysis inconclusive; 67 hyphenation matches; Back denies 6+ times; SEC disclosure mechanism identified
-
-**Intellectual right:** [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right — ResetDoc]] — Jan 2026; Yarvin/Land comparative analysis; neocameralism vs. accelerationism; Thiel-Bannon-Trump pipeline; "tech-language encoding of authoritarian ideas"
-
-Updated entity source counts: [[Iran]] (14→17), [[World Liberty Financial]] (13→14), [[Curtis Yarvin]] (8→9), [[Wisconsin Supreme Court]] (10→11), [[Adam Back]] (1→2). Index updated: 432→439 sources.
+No new raw/ files found since last ingest (2026-04-14). 85 raw files remain uningested (mostly backlog: NFL game recaps, browser artifacts, utility pages).
 
 ---
 
@@ -1340,7 +1294,3 @@ Completed full ingestion of all 13 raw stubs created during v11 fact-check audit
 **Updated index.md:** 15 new source entries, 3 new entity entries, 1 new concept entry, 1 new article entry; stats 819→839 pages, 435→450 sources, 174→177 entities, 115→116 concepts, 82→83 articles
 
 Total pages after ingest: ~839. Total sources: 450.
-
-## [2026-04-15] note | "The Cypherpunk Who Filed an S-1" — draft complete, publishing tomorrow
-
-Full article workflow complete. Outline → detailed outline → section headlines → four source gap revisions → draft → Marcus check-in → fact-check (5 fixes applied) → voice pass (7 fixes applied) → cover image generated. Publishing 2026-04-16 ~19:00 ET on The Civic Node. Sources: 6 wiki sources, 12 inline links, all primary or Tier 1 except one aggregation cite (Seyffart/Bloomberg). Final word count ~1,640.

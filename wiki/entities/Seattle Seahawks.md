@@ -4,15 +4,15 @@ type: entity
 entity_type: organization
 tags: [nfl, seahawks, power, systems-thinking]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 21
+updated: 2026-04-16
+sources: 22
 ---
 
-> ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** The latest sourced events in this cluster are the Jan 26, 2026 NFC Championship and the Feb 6, 2026 pre-game Schneider profile. No raw post-game Super Bowl LX recap exists in the cluster as of 2026-04-07. Statements below that the Seahawks "won" Super Bowl LX trace to the pre-game profile and the bracket entry, not to a game recap.
+~~Caveat resolved 2026-04-16: ESPN post-game recap now ingested. See [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]].~~
 
 ## Overview
 
-NFL franchise based in Seattle, Washington. Members of the NFC West division. Played in Super Bowl LX (February 8, 2026) as NFC champion — sourcing for the game outcome itself is incomplete (see caveat above). Their first championship was Super Bowl XLVIII (January 2014). The 2024-2026 Seahawks are the analytical subject of a cluster of sources examining how a franchise rebuilt from playoff miss (2024) to NFC champion (2025) in a single year through scheme-first roster construction.
+NFL franchise based in Seattle, Washington. Members of the NFC West division. Won Super Bowl LX on February 8, 2026, defeating the New England Patriots 29-13 at Levi's Stadium. Their first championship was Super Bowl XLVIII (January 2014). The 2024-2026 Seahawks are the analytical subject of a cluster of sources examining how a franchise rebuilt from playoff miss (2024) to NFC champion (2025) in a single year through scheme-first roster construction.
 
 ## Key Facts
 
@@ -56,6 +56,7 @@ NFL franchise based in Seattle, Washington. Members of the NFC West division. Pl
 - [[Where Seahawks Defense Ranks Among League's Best]] — Week 12 statistical analysis; #1 defensive DVOA
 - [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 6 Pro Bowl selections; Leonard Williams "Dark Side" framing
 - [[2025-26 NFL Playoffs Wikipedia]] — bracket and results
+- [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]] — ESPN post-game recap; Walker MVP, 6 sacks, 3 turnovers forced; 29-13 final
 
 ## Open Questions
 
