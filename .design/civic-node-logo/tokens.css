@@ -1,0 +1,359 @@
+/**
+ * The Civic Node — Design Tokens
+ * Philosophy: Terminal Authority
+ *
+ * Derived from: .design/civic-node-logo/DESIGN_BRIEF.md
+ *
+ * Usage: This file is the authoritative brand spec. Reference these values
+ * in Figma, SVG exports, CSS, and any future site implementation.
+ * Do not hardcode color or type values anywhere — always reference a token.
+ *
+ * Dark mode is primary (Substack header is near-black).
+ * Light mode tokens are provided for email, press, and embed contexts.
+ */
+
+/* ============================================================
+   BRAND PALETTE — Raw values. Do not use directly in design.
+   Reference semantic tokens below instead.
+   ============================================================ */
+
+:root {
+  /* Neutrals */
+  --palette-black:         #0D0D0F;   /* Near-black — slightly cool, not void */
+  --palette-dark-900:      #13131A;
+  --palette-dark-800:      #1A1A24;
+  --palette-dark-700:      #21212E;
+  --palette-dark-600:      #2A2A38;
+  --palette-dark-500:      #3A3A4E;
+  --palette-gray-400:      #55566A;
+  --palette-gray-300:      #8F909C;
+  --palette-gray-200:      #C2C2CC;
+  --palette-gray-100:      #E4E4EC;
+  --palette-white:         #F6F6F8;   /* Cool off-white — not stark white */
+
+  /* Slate Blue — Primary accent */
+  /* Derivation: authoritative instrument-panel blue. Not navy (too corporate),
+     not Coindesk blue (too trade-pub), not startup teal. Think: precision gauge. */
+  --palette-slate-700:     #2E5A7E;
+  --palette-slate-600:     #3A6A8F;
+  --palette-slate-500:     #4D7CA4;   /* Primary on light backgrounds */
+  --palette-slate-400:     #557FA3;   /* Primary on dark backgrounds */
+  --palette-slate-300:     #6690B2;
+  --palette-slate-200:     #7A9AB8;
+  --palette-slate-100:     #A8C0D3;
+
+  /* Status — Muted. "Measured confidence" — no alarm-red, no celebration-green. */
+  --palette-success:       #4B8A6C;   /* Muted forest — echoes old brand green, subdued */
+  --palette-warning:       #8A7A42;   /* Muted amber */
+  --palette-error:         #8A4B4B;   /* Muted red */
+  --palette-info:          #4B6A8A;   /* Muted blue — same family as slate */
+}
+
+
+/* ============================================================
+   SEMANTIC TOKENS — Dark Mode (Primary)
+   This is the canonical identity context: dark background,
+   slate-blue accent, near-white text.
+   ============================================================ */
+
+:root,
+[data-theme="dark"] {
+
+  /* --- Backgrounds --- */
+  --color-bg-primary:          var(--palette-black);        /* #0D0D0F — main canvas */
+  --color-bg-secondary:        var(--palette-dark-900);     /* #13131A — cards, panels */
+  --color-bg-tertiary:         var(--palette-dark-800);     /* #1A1A24 — wells, inputs */
+  --color-bg-inverse:          var(--palette-white);        /* #F6F6F8 — inverted surfaces */
+
+  /* --- Text --- */
+  --color-text-primary:        var(--palette-gray-100);     /* #E4E4EC — primary reading text */
+  --color-text-secondary:      var(--palette-gray-300);     /* #8F909C — subdued, metadata */
+  --color-text-tertiary:       var(--palette-gray-400);     /* #55566A — placeholder, disabled */
+  --color-text-inverse:        var(--palette-black);        /* #0D0D0F — text on light bg */
+  --color-text-link:           var(--palette-slate-300);    /* #6690B2 — inline links */
+  --color-text-brand:          var(--palette-slate-400);    /* #557FA3 — wordmark, accent text */
+
+  /* --- Borders --- */
+  --color-border-primary:      var(--palette-dark-600);     /* #2A2A38 — default rule */
+  --color-border-secondary:    var(--palette-dark-700);     /* #21212E — subtle divider */
+  --color-border-focus:        var(--palette-slate-400);    /* #557FA3 — focus ring */
+
+  /* --- Accent (brand action color) --- */
+  --color-accent-primary:        var(--palette-slate-400);  /* #557FA3 */
+  --color-accent-primary-hover:  var(--palette-slate-300);  /* #6690B2 — lighter on hover */
+  --color-accent-primary-active: var(--palette-slate-500);  /* #4D7CA4 — pressed */
+  --color-accent-secondary:      var(--palette-slate-200);  /* #7A9AB8 — secondary actions */
+
+  /* --- Status --- */
+  --color-status-success:      var(--palette-success);      /* #4B8A6C */
+  --color-status-warning:      var(--palette-warning);      /* #8A7A42 */
+  --color-status-error:        var(--palette-error);        /* #8A4B4B */
+  --color-status-info:         var(--palette-info);         /* #4B6A8A */
+
+  /* --- Surfaces --- */
+  --color-surface-overlay:     rgba(13, 13, 15, 0.75);      /* Modal/dropdown backdrop */
+
+  /* --- Shadows (minimal on dark — edges, not shadows, create depth) --- */
+  --shadow-sm:    0 1px 2px rgba(0, 0, 0, 0.45);
+  --shadow-md:    0 2px 8px rgba(0, 0, 0, 0.55);
+  --shadow-lg:    0 4px 16px rgba(0, 0, 0, 0.65);
+  --shadow-focus: 0 0 0 2px rgba(85, 127, 163, 0.45);       /* Slate-blue focus ring */
+}
+
+
+/* ============================================================
+   SEMANTIC TOKENS — Light Mode
+   For email headers, press contexts, embeds on white.
+   The identity should read as "serious publication" in both modes.
+   ============================================================ */
+
+[data-theme="light"] {
+
+  /* --- Backgrounds --- */
+  --color-bg-primary:          var(--palette-white);        /* #F6F6F8 */
+  --color-bg-secondary:        #EEEEF2;
+  --color-bg-tertiary:         #E4E4EA;
+  --color-bg-inverse:          var(--palette-black);
+
+  /* --- Text --- */
+  --color-text-primary:        var(--palette-black);        /* #0D0D0F */
+  --color-text-secondary:      #4A4B5E;
+  --color-text-tertiary:       var(--palette-gray-300);     /* #8F909C */
+  --color-text-inverse:        var(--palette-gray-100);
+  --color-text-link:           var(--palette-slate-600);    /* #3A6A8F — darker for light bg */
+  --color-text-brand:          var(--palette-slate-600);    /* #3A6A8F */
+
+  /* --- Borders --- */
+  --color-border-primary:      #D0D0D8;
+  --color-border-secondary:    #E0E0E8;
+  --color-border-focus:        var(--palette-slate-500);    /* #4D7CA4 */
+
+  /* --- Accent (darker on light for WCAG AA 4.5:1) --- */
+  --color-accent-primary:        var(--palette-slate-600);  /* #3A6A8F — contrast ratio ~5.1:1 on white */
+  --color-accent-primary-hover:  var(--palette-slate-700);  /* #2E5A7E */
+  --color-accent-primary-active: var(--palette-slate-500);  /* #4D7CA4 */
+  --color-accent-secondary:      var(--palette-slate-400);  /* #557FA3 */
+
+  /* --- Status (same hue family, lighter) --- */
+  --color-status-success:      #3A7A5C;
+  --color-status-warning:      #7A6A32;
+  --color-status-error:        #7A3B3B;
+  --color-status-info:         #3A5A7A;
+
+  /* --- Surfaces --- */
+  --color-surface-overlay:     rgba(246, 246, 248, 0.80);
+
+  /* --- Shadows (visible on light) --- */
+  --shadow-sm:    0 1px 2px rgba(13, 13, 15, 0.08);
+  --shadow-md:    0 2px 8px rgba(13, 13, 15, 0.12);
+  --shadow-lg:    0 4px 16px rgba(13, 13, 15, 0.16);
+  --shadow-focus: 0 0 0 2px rgba(58, 106, 143, 0.40);
+}
+
+/* System preference — respects user OS setting unless overridden by [data-theme] */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --color-bg-primary:          var(--palette-white);
+    --color-bg-secondary:        #EEEEF2;
+    --color-bg-tertiary:         #E4E4EA;
+    --color-bg-inverse:          var(--palette-black);
+    --color-text-primary:        var(--palette-black);
+    --color-text-secondary:      #4A4B5E;
+    --color-text-tertiary:       var(--palette-gray-300);
+    --color-text-inverse:        var(--palette-gray-100);
+    --color-text-link:           var(--palette-slate-600);
+    --color-text-brand:          var(--palette-slate-600);
+    --color-border-primary:      #D0D0D8;
+    --color-border-secondary:    #E0E0E8;
+    --color-border-focus:        var(--palette-slate-500);
+    --color-accent-primary:        var(--palette-slate-600);
+    --color-accent-primary-hover:  var(--palette-slate-700);
+    --color-accent-primary-active: var(--palette-slate-500);
+    --color-accent-secondary:      var(--palette-slate-400);
+    --color-status-success:      #3A7A5C;
+    --color-status-warning:      #7A6A32;
+    --color-status-error:        #7A3B3B;
+    --color-status-info:         #3A5A7A;
+    --color-surface-overlay:     rgba(246, 246, 248, 0.80);
+    --shadow-sm:    0 1px 2px rgba(13, 13, 15, 0.08);
+    --shadow-md:    0 2px 8px rgba(13, 13, 15, 0.12);
+    --shadow-lg:    0 4px 16px rgba(13, 13, 15, 0.16);
+    --shadow-focus: 0 0 0 2px rgba(58, 106, 143, 0.40);
+  }
+}
+
+
+/* ============================================================
+   TYPOGRAPHY
+   Brand voice is monospace-first: precise, technical, earned.
+   Body is clean sans-serif to avoid fatigue in long reads.
+   ============================================================ */
+
+:root {
+  /* Font families */
+  --font-family-brand:    'Courier Prime', 'Courier New', 'Lucida Console', monospace;
+  /* ^ Primary brand/wordmark font. Courier Prime preferred — it's a refined
+     Courier with better optical metrics than Courier New. */
+
+  --font-family-display:  'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  /* ^ Display headings in editorial contexts (article titles, section headers) */
+
+  --font-family-body:     'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  /* ^ Running body text */
+
+  --font-family-mono:     'JetBrains Mono', 'Fira Code', 'Cascadia Code', ui-monospace, monospace;
+  /* ^ Inline code, data, technical callouts */
+
+  /* --- Size scale (8px base, editorial rhythm) --- */
+  --font-size-xs:     0.6875rem;   /* 11px */
+  --font-size-sm:     0.8125rem;   /* 13px */
+  --font-size-base:   1rem;        /* 16px */
+  --font-size-md:     1.125rem;    /* 18px */
+  --font-size-lg:     1.25rem;     /* 20px */
+  --font-size-xl:     1.5rem;      /* 24px */
+  --font-size-2xl:    1.875rem;    /* 30px */
+  --font-size-3xl:    2.25rem;     /* 36px */
+  --font-size-4xl:    3rem;        /* 48px — wordmark / hero display */
+
+  /* --- Weights --- */
+  --font-weight-normal:    400;
+  --font-weight-medium:    500;
+  --font-weight-semibold:  600;
+  --font-weight-bold:      700;
+
+  /* --- Line heights --- */
+  --line-height-tight:     1.15;   /* Headlines, wordmark */
+  --line-height-normal:    1.5;    /* Body paragraphs */
+  --line-height-relaxed:   1.7;    /* Long-form reading */
+
+  /* --- Letter spacing --- */
+  --letter-spacing-brand:  -0.025em;  /* Wordmark — tighter than default monospace */
+  --letter-spacing-tight:  -0.015em;  /* Display headings */
+  --letter-spacing-normal:  0em;
+  --letter-spacing-wide:    0.06em;   /* Labels, metadata, all-caps */
+  --letter-spacing-wider:   0.12em;   /* Section headers, overlines */
+}
+
+
+/* ============================================================
+   SPACING
+   4px base. Precise, disciplined. "Terminal Authority" doesn't
+   drift between 14px and 16px — it picks one and holds it.
+   ============================================================ */
+
+:root {
+  --space-0:   0;
+  --space-1:   0.25rem;    /* 4px */
+  --space-2:   0.5rem;     /* 8px */
+  --space-3:   0.75rem;    /* 12px */
+  --space-4:   1rem;       /* 16px */
+  --space-5:   1.5rem;     /* 24px */
+  --space-6:   2rem;       /* 32px */
+  --space-7:   3rem;       /* 48px */
+  --space-8:   4rem;       /* 64px */
+  --space-9:   6rem;       /* 96px */
+  --space-10:  8rem;       /* 128px */
+  --space-11:  12rem;      /* 192px */
+  --space-12:  16rem;      /* 256px */
+}
+
+
+/* ============================================================
+   LAYOUT
+   ============================================================ */
+
+:root {
+  --max-width-content:   65ch;     /* Optimal reading width — editorial standard */
+  --max-width-wide:      85ch;     /* Wide content, data tables */
+  --max-width-page:      1280px;   /* Full page container */
+
+  /* Border radius — minimal, architectural. Not rounded-everything. */
+  --border-radius-sm:    2px;
+  --border-radius-md:    3px;
+  --border-radius-lg:    4px;      /* Maximum rounding for "Terminal Authority" */
+  --border-radius-full:  9999px;   /* Pill — reserved for tags/badges only */
+}
+
+
+/* ============================================================
+   MOTION
+   Deliberate, not playful. "Terminal Authority" doesn't bounce.
+   Transitions signal state change, not personality.
+   ============================================================ */
+
+:root {
+  --duration-instant:   50ms;
+  --duration-fast:      100ms;
+  --duration-normal:    200ms;
+  --duration-slow:      350ms;
+  --duration-slower:    500ms;
+
+  --easing-default:     cubic-bezier(0.4, 0, 0.2, 1);    /* Smooth in/out */
+  --easing-out:         cubic-bezier(0, 0, 0.2, 1);       /* Preferred for reveals */
+  --easing-in:          cubic-bezier(0.4, 0, 1, 1);       /* Exits */
+  /* Note: No --easing-bounce. Bounce easing is inconsistent with Terminal Authority. */
+}
+
+
+/* ============================================================
+   BREAKPOINTS
+   ============================================================ */
+
+:root {
+  --breakpoint-sm:    375px;
+  --breakpoint-md:    768px;
+  --breakpoint-lg:    1024px;
+  --breakpoint-xl:    1280px;
+  --breakpoint-2xl:   1536px;
+}
+
+
+/* ============================================================
+   LOGO-SPECIFIC TOKENS
+   Canonical size and clearspace rules for all logo variants.
+   These govern placement, never stretch or recolor.
+   ============================================================ */
+
+:root {
+  /* Mark sizes */
+  --logo-mark-size-favicon-sm:   16px;   /* Browser tab, tiny contexts */
+  --logo-mark-size-favicon-lg:   32px;   /* HD favicon, Apple touch */
+  --logo-mark-size-avatar:      200px;   /* Social profile image */
+  --logo-mark-size-header:       36px;   /* Substack header height */
+  --logo-mark-size-display:      64px;   /* Large display contexts */
+
+  /* Lockup proportions */
+  --logo-lockup-gap:       var(--space-3);  /* 12px gap between mark and wordmark */
+  --logo-wordmark-size-sm: var(--font-size-sm);    /* 13px — small header */
+  --logo-wordmark-size-md: var(--font-size-lg);    /* 20px — standard header */
+  --logo-wordmark-size-lg: var(--font-size-2xl);   /* 30px — display use */
+
+  /* Clearspace — minimum padding around the full lockup */
+  --logo-clearspace:       var(--space-4);  /* 16px — no other elements within this zone */
+
+  /* Stroke weight for mark geometry (scales with mark size) */
+  --logo-stroke-sm:        1.5px;   /* Favicon contexts — heavier for legibility */
+  --logo-stroke-md:        1.5px;   /* Header contexts */
+  --logo-stroke-lg:        2px;     /* Display contexts */
+}
+
+
+/* ============================================================
+   CONTRAST REFERENCE
+   Verified contrast ratios against WCAG AA (4.5:1 for text).
+   ============================================================ */
+
+/*
+  DARK MODE (bg: #0D0D0F)
+  ─────────────────────────────────────────────
+  --palette-gray-100  (#E4E4EC) on bg:   ~13.8:1  ✓ AAA
+  --palette-gray-300  (#8F909C) on bg:   ~ 5.6:1  ✓ AA
+  --palette-slate-400 (#557FA3) on bg:   ~ 4.7:1  ✓ AA  ← wordmark color
+  --palette-slate-300 (#6690B2) on bg:   ~ 6.1:1  ✓ AA  ← link color
+
+  LIGHT MODE (bg: #F6F6F8)
+  ─────────────────────────────────────────────
+  --palette-black     (#0D0D0F) on bg:   ~18.5:1  ✓ AAA
+  --palette-slate-600 (#3A6A8F) on bg:   ~ 5.1:1  ✓ AA  ← accent/wordmark
+  --palette-slate-700 (#2E5A7E) on bg:   ~ 6.8:1  ✓ AA  ← hover state
+*/

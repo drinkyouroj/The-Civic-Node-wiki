@@ -1,0 +1,37 @@
+<svg viewBox="17 5 66 66" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Civic Node mark">
+  <!--
+    THE CIVIC NODE — Logomark
+    Geometry: "The Tower Node"
+
+    viewBox="17 5 66 66" — tightly cropped to visual ink bounds (x:17.9–82.1, y:6.9–69.1
+    including stroke). Mark fills ~97% of width and ~94% of height. No built-in clearspace;
+    container provides it. Geometry coordinates remain in the original 100×100 space.
+
+    Reading: simultaneously a network node (DePIN origin), a transmission/infrastructure
+    mast (civic character), and a structural load diagram (architectural precision).
+
+    Stroke: square linecap — not rounded. Precision over warmth.
+    Color: --palette-slate-400 (#557FA3) on dark / (#3A6A8F on light)
+
+    Favicon: see mark-favicon.svg — crossbar removed, heavier stroke weight.
+  -->
+
+  <!-- Vertical arm (column) -->
+  <line x1="50" y1="50" x2="50" y2="8"
+        stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+
+  <!-- Top crossbar (spreader / apex beam) -->
+  <line x1="37" y1="8" x2="63" y2="8"
+        stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+
+  <!-- Lower-left arm (base support, 60° from vertical) -->
+  <line x1="50" y1="50" x2="19" y2="68"
+        stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+
+  <!-- Lower-right arm (base support, 60° from vertical, symmetric) -->
+  <line x1="50" y1="50" x2="81" y2="68"
+        stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+
+  <!-- Node circle — the point of synthesis. Drawn last to sit above arms. -->
+  <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+</svg>

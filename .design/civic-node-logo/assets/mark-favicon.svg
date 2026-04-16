@@ -1,0 +1,36 @@
+<svg viewBox="17 6 66 66" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Civic Node favicon mark">
+  <!--
+    THE CIVIC NODE — Favicon / Substack 512px Upload Mark
+
+    USE THIS FILE for Substack's 512×512 PNG export (not mark.svg).
+    Substack scales the 512px PNG down to ~18px for the browser favicon tab.
+
+    Stroke sizing rationale:
+      stroke-width=7 → renders as ~54px at 512px → 3.4px at 32px → 1.7px at 16px ✓
+      stroke-width=3.2 (old) → 25px at 512px → 0.8px at 16px ✗ (invisible)
+
+    viewBox="17 6 66 66" — visual ink bounds (x:17.5–82.5, y:7.5–70.5 with stroke).
+    Mark fills ~98% of viewBox. No built-in clearspace; Substack's container provides it.
+
+    Design choices vs. full mark:
+    - Crossbar removed (collapses to noise below ~24px)
+    - Stroke weight: 2.2 → 7 (legible at 16px favicon from 512px PNG)
+    - Circle: r=5.5 → r=10 (anchors the mark; visible as a distinct dot at 16px)
+    - Arm endpoints same (50,11), (21,67), (79,67) for structural readability
+  -->
+
+  <!-- Vertical arm -->
+  <line x1="50" y1="50" x2="50" y2="11"
+        stroke="#557FA3" stroke-width="7" stroke-linecap="square"/>
+
+  <!-- Lower-left arm -->
+  <line x1="50" y1="50" x2="21" y2="67"
+        stroke="#557FA3" stroke-width="7" stroke-linecap="square"/>
+
+  <!-- Lower-right arm -->
+  <line x1="50" y1="50" x2="79" y2="67"
+        stroke="#557FA3" stroke-width="7" stroke-linecap="square"/>
+
+  <!-- Node circle — enlarged to remain distinct at 16px -->
+  <circle cx="50" cy="50" r="10" fill="#557FA3"/>
+</svg>

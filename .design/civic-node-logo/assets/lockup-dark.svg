@@ -1,0 +1,36 @@
+<svg viewBox="0 0 196 30" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Civic Node — horizontal lockup, dark mode">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400&amp;display=swap');
+      .wordmark {
+        font-family: 'Courier Prime', 'Courier New', 'Lucida Console', monospace;
+        font-size: 18px;
+        font-weight: 400;
+        letter-spacing: -0.025em;
+        fill: #557FA3;
+      }
+    </style>
+  </defs>
+
+  <!-- Mark — no built-in clearspace; container provides it -->
+  <g transform="translate(0, 0) scale(0.4)">
+    <line x1="50" y1="50" x2="50" y2="8"
+          stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+    <line x1="37" y1="8" x2="63" y2="8"
+          stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+    <line x1="50" y1="50" x2="19" y2="68"
+          stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+    <line x1="50" y1="50" x2="81" y2="68"
+          stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+    <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+  </g>
+
+  <text x="48" y="21" class="wordmark">The Civic Node</text>
+
+  <!--
+    viewBox: 196×30 — visual content bounds, no built-in clearspace.
+    Container (Substack header, email, embed) must provide ≥8px clearspace.
+    Background: #0D0D0F or equivalent near-black.
+    Do not place on backgrounds lighter than #1A1A24.
+  -->
+</svg>

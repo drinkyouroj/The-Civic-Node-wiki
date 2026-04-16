@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Civic Node — Logo System</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    /* ── Tokens ────────────────────────────────────── */
+    :root {
+      --palette-black:      #0D0D0F;
+      --palette-dark-900:   #13131A;
+      --palette-dark-800:   #1A1A24;
+      --palette-dark-700:   #21212E;
+      --palette-dark-600:   #2A2A38;
+      --palette-dark-500:   #3A3A4E;
+      --palette-gray-400:   #55566A;
+      --palette-gray-300:   #8F909C;
+      --palette-gray-100:   #E4E4EC;
+      --palette-white:      #F6F6F8;
+      --palette-slate-700:  #2E5A7E;
+      --palette-slate-600:  #3A6A8F;
+      --palette-slate-500:  #4D7CA4;
+      --palette-slate-400:  #557FA3;
+      --palette-slate-300:  #6690B2;
+      --palette-slate-200:  #7A9AB8;
+      --palette-slate-100:  #A8C0D3;
+
+      --bg:         var(--palette-black);
+      --bg-2:       var(--palette-dark-900);
+      --bg-3:       var(--palette-dark-800);
+      --border:     var(--palette-dark-600);
+      --text:       var(--palette-gray-100);
+      --text-2:     var(--palette-gray-300);
+      --text-3:     var(--palette-gray-400);
+      --accent:     var(--palette-slate-400);
+      --accent-dim: var(--palette-slate-300);
+
+      --font-brand: 'Courier Prime', 'Courier New', monospace;
+      --font-ui:    'JetBrains Mono', ui-monospace, monospace;
+
+      --r: 3px;
+      --space: 8px;
+    }
+
+    /* ── Reset ─────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-ui);
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 1.6;
+      letter-spacing: 0.01em;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Layout ────────────────────────────────────── */
+    .page { max-width: 960px; margin: 0 auto; padding: 80px 40px 120px; }
+
+    .section {
+      margin-bottom: 80px;
+      padding-bottom: 80px;
+      border-bottom: 1px solid var(--border);
+    }
+    .section:last-child { border-bottom: none; }
+
+    .section-label {
+      font-family: var(--font-ui);
+      font-size: 10px;
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--text-3);
+      margin-bottom: 32px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+    .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; }
+    .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+
+    /* ── Card ──────────────────────────────────────── */
+    .card {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 32px;
+      position: relative;
+    }
+    .card-label {
+      font-size: 10px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--text-3);
+      margin-bottom: 24px;
+    }
+    .card-note {
+      font-size: 10px;
+      color: var(--text-3);
+      margin-top: 16px;
+      line-height: 1.5;
+    }
+
+    /* ── Masthead ──────────────────────────────────── */
+    .masthead {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 80px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--border);
+    }
+    .masthead-title {
+      font-family: var(--font-brand);
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-3);
+    }
+    .masthead-meta {
+      font-size: 10px;
+      color: var(--text-3);
+      text-align: right;
+      line-height: 1.8;
+    }
+    .masthead-meta span { color: var(--text-2); }
+
+    /* ── Hero mark ─────────────────────────────────── */
+    .hero {
+      display: flex;
+      align-items: flex-start;
+      gap: 80px;
+      margin-bottom: 0;
+    }
+    .hero-mark {
+      flex-shrink: 0;
+    }
+    .hero-mark svg { display: block; }
+    .hero-info { padding-top: 8px; }
+    .hero-name {
+      font-family: var(--font-brand);
+      font-size: 32px;
+      font-weight: 400;
+      letter-spacing: -0.025em;
+      color: var(--accent);
+      line-height: 1.1;
+      margin-bottom: 16px;
+    }
+    .hero-descriptor {
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.7;
+      max-width: 340px;
+      margin-bottom: 32px;
+    }
+    .hero-principles {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .hero-principles li {
+      font-size: 10px;
+      color: var(--text-3);
+      letter-spacing: 0.04em;
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+    }
+    .hero-principles li::before {
+      content: '—';
+      color: var(--accent);
+      flex-shrink: 0;
+    }
+
+    /* ── Mark display ──────────────────────────────── */
+    .mark-stage {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--bg-3);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 40px;
+    }
+    .mark-stage.light {
+      background: var(--palette-white);
+      border-color: #D0D0D8;
+    }
+    .mark-stage.slate {
+      background: var(--palette-slate-700);
+      border-color: var(--palette-slate-600);
+    }
+
+    /* ── Lockup display ────────────────────────────── */
+    .lockup-stage {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 28px 32px;
+      background: var(--bg-3);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+    }
+    .lockup-stage.light {
+      background: var(--palette-white);
+      border-color: #D0D0D8;
+    }
+    .lockup-wordmark {
+      font-family: var(--font-brand);
+      font-weight: 400;
+      letter-spacing: -0.025em;
+      color: var(--accent);
+      line-height: 1;
+    }
+    .lockup-wordmark.light-text { color: var(--palette-slate-600); }
+
+    /* ── Favicon strip ─────────────────────────────── */
+    .favicon-strip {
+      display: flex;
+      align-items: flex-end;
+      gap: 32px;
+      padding: 32px;
+      background: var(--bg-3);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+    }
+    .favicon-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+    .favicon-size-label {
+      font-size: 10px;
+      color: var(--text-3);
+      letter-spacing: 0.08em;
+    }
+    /* Simulated browser tab */
+    .browser-tab {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: 2px 2px 0 0;
+      padding: 6px 12px;
+      font-size: 10px;
+      color: var(--text-2);
+    }
+
+    /* ── Avatar simulation ─────────────────────────── */
+    .avatar-sim {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background: var(--palette-dark-800);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .avatar-sim.slate-bg {
+      background: var(--palette-slate-700);
+      border-color: var(--palette-slate-600);
+    }
+
+    /* ── Color swatches ────────────────────────────── */
+    .swatch-row { display: flex; gap: 0; border-radius: var(--r); overflow: hidden; margin-bottom: 24px; }
+    .swatch {
+      flex: 1;
+      height: 56px;
+      position: relative;
+    }
+    .swatch-info {
+      padding: 10px 0 0;
+      display: flex;
+      justify-content: space-between;
+    }
+    .swatch-name { font-size: 10px; color: var(--text-2); }
+    .swatch-hex  { font-size: 10px; color: var(--text-3); font-family: var(--font-ui); }
+
+    /* ── Type specimen ─────────────────────────────── */
+    .type-specimen {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 40px;
+    }
+    .specimen-wordmark {
+      font-family: var(--font-brand);
+      font-size: 48px;
+      font-weight: 400;
+      letter-spacing: -0.025em;
+      color: var(--accent);
+      line-height: 1.1;
+      margin-bottom: 8px;
+    }
+    .specimen-wordmark-sm {
+      font-family: var(--font-brand);
+      font-size: 24px;
+      font-weight: 400;
+      letter-spacing: -0.025em;
+      color: var(--accent);
+      line-height: 1.1;
+      margin-bottom: 8px;
+    }
+    .specimen-wordmark-xs {
+      font-family: var(--font-brand);
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: -0.025em;
+      color: var(--accent);
+      line-height: 1.1;
+      margin-bottom: 24px;
+    }
+    .specimen-rule {
+      height: 1px;
+      background: var(--border);
+      margin: 24px 0;
+    }
+    .specimen-meta {
+      display: grid;
+      grid-template-columns: 120px 1fr;
+      gap: 8px 16px;
+      font-size: 10px;
+    }
+    .specimen-meta dt { color: var(--text-3); }
+    .specimen-meta dd { color: var(--text-2); font-family: var(--font-ui); }
+
+    /* ── Usage rules ───────────────────────────────── */
+    .rule-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .rule-card {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      padding: 20px 24px;
+    }
+    .rule-card.do   { border-left: 2px solid var(--palette-slate-500); }
+    .rule-card.dont { border-left: 2px solid var(--palette-dark-500); }
+    .rule-header {
+      font-size: 10px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .rule-header.do   { color: var(--palette-slate-300); }
+    .rule-header.dont { color: var(--text-3); }
+    .rule-list { list-style: none; display: flex; flex-direction: column; gap: 6px; }
+    .rule-list li {
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.5;
+      padding-left: 14px;
+      position: relative;
+    }
+    .rule-card.do   .rule-list li::before { content: '✓'; position: absolute; left: 0; color: var(--palette-slate-400); }
+    .rule-card.dont .rule-list li::before { content: '✗'; position: absolute; left: 0; color: var(--text-3); }
+
+    /* ── Clearspace diagram ────────────────────────── */
+    .clearspace-diagram {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 48px;
+      background: var(--bg-3);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      position: relative;
+    }
+    .clearspace-box {
+      outline: 1px dashed var(--palette-dark-500);
+      padding: 16px;
+      position: relative;
+    }
+    .clearspace-label {
+      position: absolute;
+      font-size: 9px;
+      color: var(--text-3);
+      letter-spacing: 0.08em;
+    }
+    .clearspace-label.top    { top: -20px; left: 50%; transform: translateX(-50%); }
+    .clearspace-label.bottom { bottom: -20px; left: 50%; transform: translateX(-50%); }
+    .clearspace-label.left   { left: -36px; top: 50%; transform: translateY(-50%) rotate(-90deg); }
+    .clearspace-label.right  { right: -36px; top: 50%; transform: translateY(-50%) rotate(90deg); }
+
+    /* ── Substack context simulation ───────────────── */
+    .substack-sim {
+      background: var(--palette-black);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      overflow: hidden;
+    }
+    .substack-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      height: 60px;
+      border-bottom: 1px solid var(--border);
+    }
+    .substack-header-left { display: flex; align-items: center; gap: 10px; }
+    .substack-header-right { display: flex; align-items: center; gap: 16px; }
+    .substack-nav { display: flex; gap: 20px; }
+    .substack-nav a {
+      font-family: var(--font-ui);
+      font-size: 11px;
+      color: var(--text-2);
+      text-decoration: none;
+    }
+    .substack-nav a.active { color: var(--text); border-bottom: 1px solid var(--text); padding-bottom: 2px; }
+    .substack-body {
+      padding: 40px 24px;
+      display: grid;
+      grid-template-columns: 1fr 280px;
+      gap: 40px;
+    }
+    .substack-article-title {
+      font-family: var(--font-brand);
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .substack-article-sub {
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.5;
+      margin-bottom: 16px;
+    }
+    .substack-byline { font-size: 10px; color: var(--text-3); }
+    .substack-sidebar-label {
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-3);
+      margin-bottom: 16px;
+    }
+
+    /* ── Contrast table ────────────────────────────── */
+    table { width: 100%; border-collapse: collapse; }
+    th, td {
+      text-align: left;
+      padding: 10px 12px;
+      font-size: 11px;
+      border-bottom: 1px solid var(--border);
+    }
+    th { color: var(--text-3); font-weight: 400; letter-spacing: 0.08em; font-size: 10px; text-transform: uppercase; }
+    td { color: var(--text-2); }
+    td.pass { color: var(--palette-slate-300); }
+    td.fail { color: var(--text-3); }
+    tr:last-child td { border-bottom: none; }
+    .color-dot {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+
+    /* ── Inline mark SVG helper ────────────────────── */
+    .mark-svg { display: block; }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Masthead -->
+  <div class="masthead">
+    <div class="masthead-title">The Civic Node — Logo System</div>
+    <div class="masthead-meta">
+      Philosophy: <span>Terminal Authority</span><br>
+      Version: <span>1.0</span><br>
+      Date: <span>April 2026</span>
+    </div>
+  </div>
+
+  <!-- ── 01 Hero ── -->
+  <div class="section">
+    <div class="section-label">01 — The Mark</div>
+    <div class="hero">
+      <div class="hero-mark">
+        <svg width="160" height="160" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="mark-svg">
+          <line x1="50" y1="50" x2="50" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+          <line x1="37" y1="8"  x2="63" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="19" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="81" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+          <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+        </svg>
+      </div>
+      <div class="hero-info">
+        <div class="hero-name">The Civic Node</div>
+        <div class="hero-descriptor">
+          A geometric node mark designed to work simultaneously as civic
+          infrastructure (a transmission mast, a structural column with base
+          supports) and as a network node (DePIN origin, three connections).
+          Every line is load-bearing.
+        </div>
+        <ul class="hero-principles">
+          <li>Earned authority over borrowed credibility</li>
+          <li>Technical precision over aesthetic spectacle</li>
+          <li>Editorial maturity over crypto-native signaling</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 02 Mark Variants ── -->
+  <div class="section">
+    <div class="section-label">02 — Mark on Context</div>
+    <div class="grid-3">
+      <div>
+        <div class="card-label">Dark (Primary)</div>
+        <div class="mark-stage">
+          <svg width="80" height="80" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+          </svg>
+        </div>
+        <div class="card-note">#557FA3 on #1A1A24</div>
+      </div>
+      <div>
+        <div class="card-label">Light</div>
+        <div class="mark-stage light">
+          <svg width="80" height="80" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#3A6A8F"/>
+          </svg>
+        </div>
+        <div class="card-note">#3A6A8F on #F6F6F8 — 5.1:1 ✓</div>
+      </div>
+      <div>
+        <div class="card-label">Monochrome</div>
+        <div class="mark-stage">
+          <svg width="80" height="80" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#E4E4EC"/>
+          </svg>
+        </div>
+        <div class="card-note">#E4E4EC — for print / 1-color use</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 03 Lockup ── -->
+  <div class="section">
+    <div class="section-label">03 — Horizontal Lockup</div>
+    <div style="display: flex; flex-direction: column; gap: 16px;">
+
+      <div>
+        <div class="card-label" style="margin-bottom: 8px;">Dark (Primary) — Substack header, dark contexts</div>
+        <div class="lockup-stage">
+          <svg width="36" height="36" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+          </svg>
+          <span class="lockup-wordmark" style="font-size: 20px;">The Civic Node</span>
+        </div>
+      </div>
+
+      <div>
+        <div class="card-label" style="margin-bottom: 8px;">Light — Email, press, embeds</div>
+        <div class="lockup-stage light">
+          <svg width="36" height="36" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#3A6A8F" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#3A6A8F"/>
+          </svg>
+          <span class="lockup-wordmark light-text" style="font-size: 20px;">The Civic Node</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── 04 Favicon ── -->
+  <div class="section">
+    <div class="section-label">04 — Favicon & Small Format</div>
+    <div class="favicon-strip">
+      <div class="favicon-item">
+        <svg width="64" height="64" viewBox="0 0 100 100" fill="none">
+          <line x1="50" y1="50" x2="50" y2="11" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="21" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="79" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <circle cx="50" cy="50" r="7" fill="#557FA3"/>
+        </svg>
+        <div class="favicon-size-label">64×64</div>
+      </div>
+      <div class="favicon-item">
+        <svg width="32" height="32" viewBox="0 0 100 100" fill="none">
+          <line x1="50" y1="50" x2="50" y2="11" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="21" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="79" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <circle cx="50" cy="50" r="7" fill="#557FA3"/>
+        </svg>
+        <div class="favicon-size-label">32×32</div>
+      </div>
+      <div class="favicon-item">
+        <svg width="16" height="16" viewBox="0 0 100 100" fill="none">
+          <line x1="50" y1="50" x2="50" y2="11" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="21" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <line x1="50" y1="50" x2="79" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+          <circle cx="50" cy="50" r="7" fill="#557FA3"/>
+        </svg>
+        <div class="favicon-size-label">16×16</div>
+      </div>
+      <div style="flex: 1;"></div>
+      <div class="favicon-item">
+        <div class="browser-tab">
+          <svg width="12" height="12" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="11" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="21" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="79" y2="67" stroke="#557FA3" stroke-width="3.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="7" fill="#557FA3"/>
+          </svg>
+          drinkyouroj.substack.com
+        </div>
+        <div class="favicon-size-label">Browser tab simulation</div>
+      </div>
+    </div>
+    <div class="card-note" style="margin-top: 12px;">
+      Favicon variant removes crossbar (illegible below 24px). Stroke weight increases 2.2 → 3.2. Node circle increases 5.5r → 7r.
+      Use <code>mark-favicon.svg</code> for all sizes below 48px.
+    </div>
+  </div>
+
+  <!-- ── 05 Social Avatar ── -->
+  <div class="section">
+    <div class="section-label">05 — Social Avatar</div>
+    <div style="display: flex; gap: 32px; align-items: flex-end;">
+      <div class="favicon-item">
+        <div class="avatar-sim">
+          <svg width="44" height="44" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+          </svg>
+        </div>
+        <div class="favicon-size-label">Dark bg avatar</div>
+      </div>
+      <div class="favicon-item">
+        <div class="avatar-sim slate-bg">
+          <svg width="44" height="44" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#E4E4EC" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#E4E4EC"/>
+          </svg>
+        </div>
+        <div class="favicon-size-label">Slate bg avatar</div>
+      </div>
+      <div style="flex: 1; font-size: 11px; color: var(--text-3); line-height: 1.7; max-width: 320px;">
+        Social avatar contexts: Substack profile, X/Twitter, LinkedIn.
+        Use dark background variant as primary. Slate background as alternate.
+        Export at 400×400 minimum for social platforms.
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 06 Substack Context Simulation ── -->
+  <div class="section">
+    <div class="section-label">06 — In-Context: Substack Header</div>
+    <div class="substack-sim">
+      <div class="substack-header">
+        <div class="substack-header-left">
+          <svg width="28" height="28" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+          </svg>
+          <span style="font-family: var(--font-brand); font-size: 17px; letter-spacing: -0.025em; color: #557FA3;">The Civic Node</span>
+        </div>
+        <div class="substack-header-right">
+          <div class="substack-nav">
+            <a href="#" class="active">Home</a>
+            <a href="#">Archive</a>
+            <a href="#">About</a>
+          </div>
+        </div>
+      </div>
+      <div class="substack-body">
+        <div>
+          <div class="substack-article-title">The $71 Billion Bluff</div>
+          <div class="substack-article-sub">OpenAI's letter of intent was non-binding. The market panic it triggered wasn't. Inside the deal that broke DRAM pricing for three years.</div>
+          <div class="substack-byline">JUSTIN HEARN · APR 12, 2026</div>
+        </div>
+        <div>
+          <div class="substack-sidebar-label">Most Popular</div>
+          <div style="font-size: 11px; color: var(--text-2); line-height: 1.8;">
+            The $71 Billion Bluff<br>
+            <span style="color: var(--text-3);">Nodes Over Numbers</span><br>
+            <span style="color: var(--text-3);">The False Balance Trap</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 07 Color Palette ── -->
+  <div class="section">
+    <div class="section-label">07 — Color Palette</div>
+
+    <div style="margin-bottom: 8px; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3);">Slate Blue — Primary Accent</div>
+    <div class="swatch-row" style="margin-bottom: 0;">
+      <div class="swatch" style="background: #2E5A7E;"></div>
+      <div class="swatch" style="background: #3A6A8F;"></div>
+      <div class="swatch" style="background: #4D7CA4;"></div>
+      <div class="swatch" style="background: #557FA3; outline: 1px solid rgba(255,255,255,0.15);"></div>
+      <div class="swatch" style="background: #6690B2;"></div>
+      <div class="swatch" style="background: #7A9AB8;"></div>
+      <div class="swatch" style="background: #A8C0D3;"></div>
+    </div>
+    <div style="display: flex; gap: 0; margin-bottom: 32px;">
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">-700</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">-600</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">-500</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">-400 ★</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">-300</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">-200</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">-100</span></div>
+    </div>
+
+    <div style="margin-bottom: 8px; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3);">Neutrals — Background & Text</div>
+    <div class="swatch-row" style="margin-bottom: 0;">
+      <div class="swatch" style="background: #0D0D0F; outline: 1px solid #2A2A38;"></div>
+      <div class="swatch" style="background: #13131A;"></div>
+      <div class="swatch" style="background: #1A1A24;"></div>
+      <div class="swatch" style="background: #2A2A38;"></div>
+      <div class="swatch" style="background: #55566A;"></div>
+      <div class="swatch" style="background: #8F909C;"></div>
+      <div class="swatch" style="background: #E4E4EC;"></div>
+      <div class="swatch" style="background: #F6F6F8;"></div>
+    </div>
+    <div style="display: flex; gap: 0; margin-bottom: 0;">
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">black</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">900</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">800</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">600</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">gray-400</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">gray-300</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">gray-100</span></div>
+      <div class="swatch-info" style="flex:1"><span class="swatch-hex">white</span></div>
+    </div>
+  </div>
+
+  <!-- ── 08 Typography ── -->
+  <div class="section">
+    <div class="section-label">08 — Typography</div>
+    <div class="type-specimen">
+      <div class="specimen-wordmark">The Civic Node</div>
+      <div class="specimen-wordmark-sm">The Civic Node</div>
+      <div class="specimen-wordmark-xs">The Civic Node</div>
+      <div class="specimen-rule"></div>
+      <dl class="specimen-meta">
+        <dt>Wordmark font</dt>
+        <dd>Courier Prime, 400 weight</dd>
+        <dt>Letter spacing</dt>
+        <dd>−0.025em (tighter than default monospace)</dd>
+        <dt>Color (dark)</dt>
+        <dd>#557FA3 — slate-400</dd>
+        <dt>Color (light)</dt>
+        <dd>#3A6A8F — slate-600</dd>
+        <dt>Minimum size</dt>
+        <dd>12px — below this, wordmark-only is not recommended</dd>
+        <dt>Fallback stack</dt>
+        <dd>'Courier Prime', 'Courier New', 'Lucida Console', monospace</dd>
+        <dt>Case</dt>
+        <dd>Title case — "The Civic Node". Never all-caps or all-lowercase.</dd>
+      </dl>
+    </div>
+  </div>
+
+  <!-- ── 09 Contrast Reference ── -->
+  <div class="section">
+    <div class="section-label">09 — Contrast Ratios (WCAG)</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Foreground</th>
+          <th>Background</th>
+          <th>Ratio</th>
+          <th>AA (4.5:1)</th>
+          <th>AAA (7:1)</th>
+          <th>Use</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="color-dot" style="background:#E4E4EC;"></span>#E4E4EC</td>
+          <td><span class="color-dot" style="background:#0D0D0F; border: 1px solid #2A2A38;"></span>#0D0D0F</td>
+          <td>13.8:1</td>
+          <td class="pass">✓ Pass</td>
+          <td class="pass">✓ Pass</td>
+          <td>Body text, dark mode</td>
+        </tr>
+        <tr>
+          <td><span class="color-dot" style="background:#557FA3;"></span>#557FA3</td>
+          <td><span class="color-dot" style="background:#0D0D0F; border: 1px solid #2A2A38;"></span>#0D0D0F</td>
+          <td>4.7:1</td>
+          <td class="pass">✓ Pass</td>
+          <td class="fail">✗ Fail</td>
+          <td>Wordmark & mark, dark mode</td>
+        </tr>
+        <tr>
+          <td><span class="color-dot" style="background:#6690B2;"></span>#6690B2</td>
+          <td><span class="color-dot" style="background:#0D0D0F; border: 1px solid #2A2A38;"></span>#0D0D0F</td>
+          <td>6.1:1</td>
+          <td class="pass">✓ Pass</td>
+          <td class="fail">✗ Fail</td>
+          <td>Links, dark mode</td>
+        </tr>
+        <tr>
+          <td><span class="color-dot" style="background:#3A6A8F;"></span>#3A6A8F</td>
+          <td><span class="color-dot" style="background:#F6F6F8;"></span>#F6F6F8</td>
+          <td>5.1:1</td>
+          <td class="pass">✓ Pass</td>
+          <td class="fail">✗ Fail</td>
+          <td>Wordmark & mark, light mode</td>
+        </tr>
+        <tr>
+          <td><span class="color-dot" style="background:#0D0D0F; border: 1px solid #2A2A38;"></span>#0D0D0F</td>
+          <td><span class="color-dot" style="background:#F6F6F8;"></span>#F6F6F8</td>
+          <td>18.5:1</td>
+          <td class="pass">✓ Pass</td>
+          <td class="pass">✓ Pass</td>
+          <td>Body text, light mode</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ── 10 Clearspace ── -->
+  <div class="section">
+    <div class="section-label">10 — Clearspace</div>
+    <div class="clearspace-diagram">
+      <div class="clearspace-box">
+        <span class="clearspace-label top">16px min</span>
+        <span class="clearspace-label bottom">16px min</span>
+        <span class="clearspace-label left">16px</span>
+        <span class="clearspace-label right">16px</span>
+        <div style="display: flex; align-items: center; gap: 10px; padding: 4px;">
+          <svg width="36" height="36" viewBox="0 0 100 100" fill="none">
+            <line x1="50" y1="50" x2="50" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="37" y1="8"  x2="63" y2="8"  stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="19" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <line x1="50" y1="50" x2="81" y2="68" stroke="#557FA3" stroke-width="2.2" stroke-linecap="square"/>
+            <circle cx="50" cy="50" r="5.5" fill="#557FA3"/>
+          </svg>
+          <span style="font-family: var(--font-brand); font-size: 20px; letter-spacing: -0.025em; color: #557FA3;">The Civic Node</span>
+        </div>
+      </div>
+    </div>
+    <div class="card-note" style="margin-top: 12px;">
+      Minimum 16px clearspace (--logo-clearspace) on all sides of the full lockup.
+      No other elements, text, or imagery within this zone.
+    </div>
+  </div>
+
+  <!-- ── 11 Usage Rules ── -->
+  <div class="section">
+    <div class="section-label">11 — Usage Rules</div>
+    <div class="rule-grid">
+      <div class="rule-card do">
+        <div class="rule-header do">Do</div>
+        <ul class="rule-list">
+          <li>Use mark + wordmark horizontal lockup in Substack header</li>
+          <li>Use mark-favicon.svg for all favicon contexts (16–48px)</li>
+          <li>Use slate-600 (#3A6A8F) for all light-background contexts</li>
+          <li>Use monochrome (#E4E4EC) for print or single-color use</li>
+          <li>Maintain minimum 16px clearspace around the lockup</li>
+          <li>Scale proportionally — always from a corner handle</li>
+        </ul>
+      </div>
+      <div class="rule-card dont">
+        <div class="rule-header dont">Don't</div>
+        <ul class="rule-list">
+          <li>Don't rotate, skew, or distort the mark</li>
+          <li>Don't apply gradients, shadows, or glow effects</li>
+          <li>Don't use the full mark (with crossbar) below 48px</li>
+          <li>Don't place the mark on backgrounds lighter than #1A1A24 in dark mode</li>
+          <li>Don't use rounded linecaps — the mark requires square caps</li>
+          <li>Don't use on busy photographic backgrounds without an overlay</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 12 File Index ── -->
+  <div class="section">
+    <div class="section-label">12 — File Index</div>
+    <table>
+      <thead>
+        <tr><th>File</th><th>Use</th><th>Format</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>assets/mark.svg</td><td>Canonical logomark — all display contexts 48px+</td><td>SVG (100×100 viewBox)</td></tr>
+        <tr><td>assets/mark-favicon.svg</td><td>Favicon, small format — all contexts below 48px</td><td>SVG (100×100 viewBox)</td></tr>
+        <tr><td>assets/lockup-dark.svg</td><td>Horizontal lockup — dark mode</td><td>SVG (224×48 viewBox)</td></tr>
+        <tr><td>assets/lockup-light.svg</td><td>Horizontal lockup — light mode / email</td><td>SVG (224×48 viewBox)</td></tr>
+        <tr><td>tokens.css</td><td>Authoritative color, type, and spacing tokens</td><td>CSS custom properties</td></tr>
+        <tr><td>DESIGN_BRIEF.md</td><td>Creative brief — rationale, principles, constraints</td><td>Markdown</td></tr>
+        <tr><td>preview.html</td><td>This file — full brand sheet</td><td>HTML</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+</body>
+</html>
