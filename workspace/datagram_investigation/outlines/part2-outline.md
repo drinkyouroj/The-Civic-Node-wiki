@@ -70,13 +70,15 @@ The payment timeline for moderators is a microcosm of this structure. Chris proc
 - April 8: *"Don't beat me, the finance overlords are at fault"*
 - May 10: *"yes I know payments are late, I'm sorry for that pushing finance... Outside of my control, we live at the mercy of the finance overlords"*
 
-Chris collected, submitted, and dispersed. He did not control. Above him was "finance." Above finance was presumably the board and Richard — who Chris named in his post-departure DM to Justin as the person who controlled payments and made direct hiring decisions.
+Chris collected, submitted, and dispersed. He did not control. Above him was "finance." That layer has now been identified: **Richard Han** (also known as Yu te Han), affiliated with **Vina Capital**, the firm that invested in Datagram. Chris confirmed in April 2026 that Richard held no formal title at Datagram but was functionally the highest decision-making authority — and that Jason had no power over payments whatsoever. *"All payments were handled by Richard."*
 
-**SOURCE**: Mod-discussion logs (payment timeline), Kyle/Justin meeting transcript, Jason DM (April 2026)
+Richard is not named in any public-facing Datagram document. He does not appear in the whitepaper, the announcements channel, or any community update. He was entirely invisible to the community while controlling the money.
+
+**SOURCE**: Mod-discussion logs (payment timeline), Kyle/Justin meeting transcript, Chris DM (April 2026 — both sets of follow-up answers)
 
 ### ⚠️ SOURCING GAPS — Needs interview:
 - **Jason**: Confirm the pattern of submitting plans that William then ignored. Specific examples beyond VPN and accent AI.
-- **Chris**: Who exactly is "finance"? Is that Richard? What was Richard's actual title/role? When did Chris first realize payments were structurally broken vs. just delayed?
+- ~~**Chris**: Who exactly is "finance"? Is that Richard? What was Richard's actual title/role?~~ ✅ RESOLVED — Richard Han / Yu te Han, Vina Capital, no formal title
 - **Kyle**: Who was in the team meeting he references on Jan 2? What specifically was said about finances?
 
 ---
@@ -153,11 +155,11 @@ Close with the forward-looking question for Part 3: if the mods couldn't see pas
 
 ## ⚠️ MASTER SOURCING GAPS FOR PART 2
 
-| Gap | Source needed | Priority |
-|-----|--------------|----------|
-| When Jason learned of VPN pivot and whether he was consulted | Jason interview | HIGH |
-| What specifically the "team meeting" Kyle references covered | Kyle interview | HIGH |
-| Who "Richard" is and his exact role/authority | Chris interview | HIGH |
-| Specific plans Jason submitted that William ignored | Jason interview | HIGH |
-| Whether Chris knew in April that payments were structurally broken | Chris interview | MEDIUM |
-| Other scripted messaging moments not in Discord logs | Kyle interview | MEDIUM |
+| Gap | Source needed | Priority | Status |
+|-----|--------------|----------|--------|
+| When Jason learned of VPN pivot and whether he was consulted | Jason interview | HIGH | Open |
+| What specifically the "team meeting" Kyle references covered | Kyle interview | HIGH | Open |
+| ~~Who "Richard" is and his exact role/authority~~ | ~~Chris interview~~ | ~~HIGH~~ | ✅ RESOLVED: Richard Han, VP at VinaCapital Ventures (confirmed team page + LinkedIn: linkedin.com/in/hanrichard/). Deal-level portfolio manager on the Quickom investment. Public-facing partner for that deal is Hoang Duc Trung. |
+| Specific plans Jason submitted that William ignored | Jason interview | HIGH | Open |
+| Whether Chris knew in April that payments were structurally broken | Chris interview | MEDIUM | Open |
+| Other scripted messaging moments not in Discord logs | Kyle interview | MEDIUM | Open |

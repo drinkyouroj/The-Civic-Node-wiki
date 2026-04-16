@@ -22,7 +22,7 @@ _Part 5: What It Means_ -- The VC angle. The broader pattern of crypto projects 
 
 The mod payment story is probably your most airtight narrative because it's documented. You have the Google Sheets, the Discord logs, Chris confirming the chain of approval ran through Richard -- and you have a timeline. That's publishable without needing anyone to go on record with accusations.
 
-The "Jason as fall guy" theory is explosive but requires more sourcing. Jason believes it, and hinted Carth shares the suspicion, but neither can prove it and Jason is scared. You'd need to handle it carefully -- probably presenting it as a theory held by insiders rather than an established fact.
+The "Jason as fall guy" theory is explosive but requires more sourcing. Jason believes it, and hinted Carth shares the suspicion, but neither can prove it and Jason is scared. You'd need to handle it carefully -- probably presenting it as a theory held by insiders rather than an established fact. **NOTE: Carth = Chris** (Carthaphilus was his Datagram Discord username; enron_financial_intern is his standard Discord handle). Chris has been interviewed and his account is consistent: William was deceived by Richard, not a primary architect of wrongdoing — though not redeemed in Chris's view. Both Jason and Chris point suspicion at Richard Han / Vina Capital.
 
 The Richard/Tiffany thread is underdeveloped but potentially important. Chris named Richard as controlling payments and making direct hiring decisions. That's a structural claim that points away from William and toward whoever Richard actually is. Worth figuring out who he is before you write the VC angle.
 

@@ -56,7 +56,7 @@ Chris's role was explicitly a pass-through: he collected timesheets, submitted t
 
 **June–November 2025**: The record thins. From the available logs, payments either continued with less visible tension, or the mod team simply stopped discussing it in the main channel. The TGE (November 18) and the capsule crisis consumed most of the bandwidth.
 
-**December 2025**: *"Things broke down fully."* That's Chris's own characterization from April 2026. He doesn't elaborate in the interview, but the phrase does the work: it implies a breaking point, not a gradual fade. What specifically broke in December is a critical gap.
+**December 2025**: *"Things broke down fully."* That's Chris's own characterization from April 2026. In the second round of follow-up questions, Chris clarified what "broke down" meant: William stopped responding to anything the team told him needed to be done. *"Radio silent essentially."* This was not a formal decision or a specific event — it was a cessation. William went dark on operational requests, and without William moving, nothing moved. Combined with Richard's post-TGE silence on the payment side, December was the month where both the development layer and the financial layer simultaneously went quiet. The project was functionally over weeks before Jason's public departure.
 
 **January 17, 2026**: Jason's script contains the final line: *"I will make sure all moderators are paid their USDT through today."* He specifies USDT — not DGRAM tokens, not a pro-rated share of the treasury. USDT through today.
 
@@ -68,7 +68,7 @@ No documented answer. The thread ends.
 **SOURCE**: Mod-discussion payment logs (April–May 2025), Chris DM (April 2026), mod-discussion Part 3 (Jan 17, 2026)
 
 ### ⚠️ SOURCING GAPS — Critical for this section:
-- **Chris**: What specifically "broke down fully" in December? Was it a missed payment to Chris from Richard? A direct communication from Richard/the board that funds were not coming? Or did it just stop without explanation?
+- ~~**Chris**: What specifically "broke down fully" in December?~~ ✅ RESOLVED — William stopped responding to all operational requests. Radio silent. No formal decision; just a cessation. Both William (development) and Richard (payments) went dark around the same time post-TGE.
 - **Chris**: Did you ever receive payment for your own work? What was owed to you at the end?
 - **Jason**: Did you ever attempt to get clarity from Richard or the board on why payments stopped? What were you told?
 - **Justin (you)**: How much were you owed at the time of the January 17 departure? Did you ever receive the USDT Jason promised "through today"?
@@ -171,14 +171,14 @@ Close with the bridge to Part 5: The question the series has been building towar
 
 ## ⚠️ MASTER SOURCING GAPS FOR PART 4
 
-| Gap | Source needed | Priority |
-|-----|--------------|----------|
-| What specifically "broke down fully" in December — the moment or mechanism | Chris interview | CRITICAL |
-| The full text of Jason's Jan 17 public community update | Archive/announcement logs | CRITICAL |
-| Whether the USDT payment promised by Jason on Jan 17 was ever delivered | Jason / Justin (you) | CRITICAL |
-| Whether Chris himself was ever paid for his work | Chris interview | HIGH |
-| What Jason was going to say after "I am stepping..." — was the message truncated? | Jason interview | HIGH |
-| What the phrase "seen and unseen" referred to — what did Kyle know? | Kyle interview | HIGH |
-| Justin's personal experience of receiving the Jan 17 message | Justin (you) | HIGH |
-| Whether mod payment records exist (Google Sheets) and what they show as final balances owed | Chris / existing files | MEDIUM |
-| Chris's opinion of Richard as distinct from William — did he think Richard knew what was happening? | Chris interview | MEDIUM |
+| Gap | Source needed | Priority | Status |
+|-----|--------------|----------|--------|
+| ~~What specifically "broke down fully" in December~~ | ~~Chris interview~~ | ~~CRITICAL~~ | ✅ RESOLVED: William went radio silent on all requests post-TGE; no formal event, just cessation |
+| The full text of Jason's Jan 17 public community update | Archive/announcement logs | CRITICAL | Resolved — recovered from community-updates channel |
+| Whether the USDT payment promised by Jason on Jan 17 was ever delivered | Jason / Justin (you) | CRITICAL | Open |
+| Whether Chris himself was ever paid for his work | Chris interview | HIGH | Open |
+| What Jason was going to say after "I am stepping..." — was the message truncated? | Jason interview | HIGH | Open |
+| What the phrase "seen and unseen" referred to — what did Kyle know? | Kyle interview | HIGH | Open |
+| Justin's personal experience of receiving the Jan 17 message | Justin (you) | HIGH | Open |
+| Whether mod payment records exist (Google Sheets) and what they show as final balances owed | Chris / existing files | MEDIUM | Open |
+| ~~Chris's opinion of Richard as distinct from William~~ | ~~Chris interview~~ | ~~MEDIUM~~ | ✅ PARTIAL: Chris believes William was deceived by Richard, not the primary bad actor — but still culpable in Chris's view |

@@ -68,27 +68,37 @@ Specific documented examples of unilateral William decisions:
 
 ### Layer 3: The Board and Richard
 
-This is the least documented layer — and the most important.
+This is the least visible layer — and the most important. It has now been partially identified.
 
 What is confirmed:
 - Jason explicitly frames his departure as being contingent on *"a change at the board level"* — meaning the board was the decision-making authority above him
 - Chris named "Richard" in his April 2026 DM to Justin as the person who controlled payments and made direct hiring decisions (he hired Tiffany)
+- **Richard has been identified as Richard Han (also known as Yu te Han), affiliated with Vina Capital, the VC that invested in Datagram** — confirmed by Chris in April 2026 follow-up
+- Richard held no formal title at Datagram. Chris: *"I would call him William's handler."*
+- William would only act if Richard instructed him to. Richard was the effective decision-making ceiling.
+- Richard was most active until approximately TGE (November 18, 2025), after which he went radio silent — consistent with when payments collapsed and William went dark in December
 - The earliest documented reference to Tiffany is June 12, 2025, when mod supercrunch.alt mentions: *"This was requested by Tiffany in the call earlier"* — indicating she had operational authority over mod workflows before most mods knew who she was
-- Chris's payment chain ran: mods → Chris → "finance" → (presumably) Richard/board
+- Chris's payment chain ran: mods → Chris → "finance" (Richard/Vina Capital) → back to Chris → mods
 
-What is NOT confirmed and must come from interviews:
-- Richard's full name, title, and background
-- Whether Richard was the primary VC representative or a hired operator
-- The board's composition and who held voting authority
+**Additional nuance from Chris**: Chris believes William was himself deceived by Richard, rather than being the primary bad actor. *"I think William is not 100% guilty — he rather got deceived by Rich, but that doesn't redeem him in my book."* This complicates the two-villain framing: it may be that the deception chain ran Richard → William → Jason/community, with William as an intermediary rather than an architect.
+
+**NEW PRIMARY SOURCE — VinaCapital/Quickom press release (March 6, 2024):**
+A public press release establishes the corporate lineage. VinaCapital Ventures led a **$1.5M seed round** in **Quickom** — Dr. William H. Nguyen's video conferencing company, founded 2021 in Vietnam. Quickom's described technology (decentralized peer-hosted network, unused bandwidth extraction, U.S. patents) is word-for-word the Datagram pitch. Datagram was the Web3/node-sale layer built on top of Quickom's underlying infrastructure. The named VinaCapital partner in the press release is **Hoang Duc Trung**, not Richard Han — see flag below.
+
+What is still NOT confirmed:
+- The board's full composition and formal governance structure
+- **Richard Han is confirmed on the VinaCapital Ventures team page** as Vice President (LinkedIn title: Partner, Principal Investment VC). Hoang Duc Trung is the Partner who took the public quote in the press release — Richard Han is the deal-level investment manager who would have handled the hands-on portfolio company relationship. This is consistent with Chris's description of him as the day-to-day "handler." His background: Baruch College (MS/BBA), ABN AMRO M&A, Masan Group strategy, VinaCapital since 2018. LinkedIn: linkedin.com/in/hanrichard/. Note: "Yu te Han" yields no public records — "Richard Han" is the confirmed public identity.
 - Whether Jason ever had a formal equity stake or was entirely at the board's discretion
+- The precise legal relationship between Quickom (the VinaCapital investee) and Datagram Network (the token/node entity)
 
-**SOURCE**: Jason DMs (April 2026), Kyle/Justin meeting (Jan 2, 2026), mod-discussion payment logs, supercrunch.alt reference (June 12, 2025)
+**SOURCE**: Jason DMs (April 2026), Kyle/Justin meeting (Jan 2, 2026), Chris DM (April 2026 — both sets), mod-discussion payment logs, supercrunch.alt reference (June 12, 2025), VinaCapital/Quickom press release (March 6, 2024)
 
 ### ⚠️ SOURCING GAPS — Critical for this section:
-- **Jason**: Who specifically is "the board"? Is Richard the primary VC, or an operator? Did Jason have any equity? What was he told his authority would be when he first joined?
+- **Jason**: Who specifically is "the board" beyond Richard? Did Jason have any equity? What was he told his authority would be when he first joined?
 - **Jason**: Specific examples of plans he submitted that were ignored (beyond VPN and accent AI) — dates and documentation if possible
-- **Chris**: Richard's full identity and role. What was the relationship between Richard and William? Who had final authority?
-- **Carth**: Jason mentioned Carth shared his suspicions about the rug theory. What specifically did Carth observe about the control structure?
+- ~~**Chris**: Richard's full identity and role. What was the relationship between Richard and William? Who had final authority?~~ ✅ RESOLVED — Richard Han / Yu te Han, Vina Capital; William only acted on Richard's direction; Richard held no formal title
+- ~~**Carth**: Jason mentioned Carth shared his suspicions about the rug theory. What specifically did Carth observe about the control structure?~~ ✅ NOTE: Carth (Carthaphilus in Datagram Discord) = Chris (enron_financial_intern). Already interviewed. His view: William was deceived by Richard, not a primary architect — but not redeemed.
+- **Research**: Vina Capital — can Richard Han's background and other investments be established from public sources?
 
 ---
 
@@ -113,7 +123,7 @@ Also here: the "rug" theory. Jason raised it unsolicited in April 2026:
 
 > *"I think the whole thing was set up to be a rug by Dr. William and the main VC guy behind it and they wanted to pin the whole thing on me. I obviously didn't cooperate because I don't do that sort of shit, and so I kinda ruined their plans. The issue is that I can't PROVE it."*
 
-Present this as what it is: an allegation from an insider who was positioned to observe but cannot prove. Note that Jason cited fear for his family's safety as a reason for caution. Note that he identified Carth as sharing similar suspicions.
+Present this as what it is: an allegation from an insider who was positioned to observe but cannot prove. Note that Jason cited fear for his family's safety as a reason for caution. Note that he identified Carth as sharing similar suspicions. **NOTE: Carth = Chris (Carthaphilus was his Datagram Discord username; enron_financial_intern is his standard Discord handle).** Chris has now been interviewed and his view is consistent with Jason's framing: Richard was the primary bad actor, William a compromised middleman.
 
 This is not a verdict. It is testimony — and the reader has enough context by now to weigh it.
 
@@ -122,7 +132,7 @@ This is not a verdict. It is testimony — and the reader has enough context by 
 ### ⚠️ SOURCING GAPS:
 - **Jason**: What specifically were the ultimatums? What were the deadlines and what happened when they were missed?
 - **Jason**: Who is "the main VC guy"? (He may not be willing to name publicly — explore anonymous sourcing)
-- **Carth**: What specifically did Carth observe that aligns with Jason's suspicions? (Direct outreach needed)
+- ~~**Carth**: What specifically did Carth observe that aligns with Jason's suspicions? (Direct outreach needed)~~ ✅ RESOLVED: Carth = Chris. Interviewed. His view aligns with Jason's suspicion: Richard (Vina Capital) was the primary bad actor; William was deceived but still culpable.
 - **Chris**: Does Chris believe the rug theory? His departure statement — "done with the madness bestowed upon us by the leadership" — suggests he saw something. What?
 
 ---
@@ -166,14 +176,18 @@ Close with the bridge to Part 4: The structure of control is the context for the
 
 ## ⚠️ MASTER SOURCING GAPS FOR PART 3
 
-| Gap | Source needed | Priority |
-|-----|--------------|----------|
-| Richard's full identity, role, and relationship to William | Chris interview | CRITICAL |
-| The specific ultimatums Jason gave William | Jason interview | CRITICAL |
-| Who "the main VC guy" is | Jason interview (may decline) | CRITICAL |
-| Carth's specific observations about control structure | Carth outreach | HIGH |
-| Board composition and voting authority | Jason/Chris | HIGH |
-| Whether Jason had equity or was purely salaried/contracted | Jason | HIGH |
-| The full timeline of when Jason realized his authority was nominal | Jason | HIGH |
-| Whether Chris believes the rug theory | Chris | MEDIUM |
-| Tiffany's full role and when she was brought in | Chris | MEDIUM |
+| Gap | Source needed | Priority | Status |
+|-----|--------------|----------|--------|
+| ~~Richard's full identity, role, and relationship to William~~ | ~~Chris interview~~ | ~~CRITICAL~~ | ✅ RESOLVED: Richard Han, VP at VinaCapital Ventures (LinkedIn: linkedin.com/in/hanrichard/). Confirmed on team page. Not named in press release — Hoang Duc Trung is the public-facing Partner. Richard was the deal-level manager, consistent with Chris's "handler" description. |
+| The specific ultimatums Jason gave William | Jason interview | CRITICAL | Open |
+| ~~Who "the main VC guy" is~~ | ~~Jason interview~~ | ~~CRITICAL~~ | ✅ RESOLVED: Richard Han, VP at VinaCapital Ventures. Confirmed via team page and Chris's account. |
+| ~~Carth's specific observations about control structure~~ | ~~Carth outreach~~ | ~~HIGH~~ | ✅ RESOLVED: Carth = Chris (Carthaphilus = enron_financial_intern). Already interviewed. |
+| Board composition and voting authority | Jason/Chris | HIGH | Open |
+| Whether Jason had equity or was purely salaried/contracted | Jason | HIGH | Open |
+| The full timeline of when Jason realized his authority was nominal | Jason | HIGH | Open |
+| ~~Whether Chris believes the rug theory~~ | ~~Chris~~ | ~~MEDIUM~~ | ✅ PARTIAL: Chris believes William was deceived by Richard, not a primary bad actor — but doesn't redeem him |
+| Tiffany's full role and when she was brought in | Chris | MEDIUM | Open |
+| Richard Han / Vina Capital — public background and other investments | Web research | HIGH | PARTIAL: Press release (March 2024) names Hoang Duc Trung as VinaCapital Ventures partner on Quickom deal. Richard Han not named. Need to verify Richard Han's role against VinaCapital team page. |
+| Quickom → Datagram corporate structure — are they separate legal entities? What is the relationship between Quickom equity and Datagram treasury? | Research / Jason | HIGH | Open |
+| Enterprise client claims in VinaCapital press release vs. Jason's departure statement ("could not be substantiated") — are these the same representations? | Research / Jason | HIGH | Open |
+| Chat3 — William's parallel project pre-dating Datagram node sale. Was dev team split between Quickom, Chat3, and Datagram simultaneously? | Research / Kyle | MEDIUM | Open |

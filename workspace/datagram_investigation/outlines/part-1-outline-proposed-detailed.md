@@ -39,9 +39,11 @@ _Source: public record, your prior relationship with Jason from Gala era, Jason 
 
 This is the part where you give the pitch its due. You believed in the decentralized RTC technology specifically. That belief wasn't irrational. The architecture was genuinely novel and the problem it was solving was real. State this without irony.
 
+NOTE FOR DRAFT: The underlying technology was real — it had been built by Dr. William Nguyen's company Quickom since 2021 and backed by VinaCapital Ventures in a $1.5M seed round in March 2024. Datagram was the Web3/node layer built on top of it. The tech wasn't invented for the node sale. This is both a reason the belief was rational and a reason the later collapse is more damning — the foundation was solid; what was built on top of it wasn't.
+
 _[IMAGE 2: A simple visual of the three-token model or the node architecture -- if available in assets folder, otherwise suggest an illustrative diagram]_
 
-_Source: announcements channel, June 2025 AMA transcript (BitBender's tokenomics explanation)_
+_Source: announcements channel, June 2025 AMA transcript (BitBender's tokenomics explanation), VinaCapital/Quickom press release (March 6, 2024)_
 
 **The community that formed around it** (150 words) 120,000+ nodes in Alpha Testnet. International channels for Indonesia, Korea, the Philippines. A tiered engagement system -- Engage Points, whitelist roles, capsule eligibility -- that turned participation into something that felt like building toward a stake in something real. You weren't just running software; you were accumulating evidence of your contribution.
 
