@@ -14,11 +14,14 @@
 
 Analogy to use: **Browser tabs and hard drives** — the broad thing is efficiency gains in personal computing that produced more consumption, not less. The bridging property is that lower cost-per-unit unlocks new demand the user didn't know they had. Narrows to Jevons' coal observation, then to AI compute as the current manifestation.
 
-Paragraph structure:
+Paragraph structure (Section 1 IS the opener — all three ¶s live here):
 - ¶1 — The browser tab / hard drive / bandwidth litany. Three rapid examples of efficiency gains the reader has personally experienced producing more consumption. Lands on: "The thing that was supposed to free up capacity got consumed by new demand you didn't know you had."
-- ¶2 — Jevons named, 1865, coal engines. His peers assumed efficiency would reduce consumption; he proved the opposite. The Jevons quote: "It is wholly a confusion of ideas to suppose that the economical use of fuel is equivalent to a diminished consumption." Then narrow: the coal is now AI compute, and every tech CEO is banking on the paradox while telling you only half the story.
+- ¶2 — Jevons named, 1865, coal engines. Peers assumed efficiency would reduce consumption; he proved the opposite. Deploy the "confusion of ideas" quote. End ¶2 by pivoting from coal to AI compute — thesis lands here.
+- ¶3 — The Nadella setup and the "half the story" promise. This is the gap that earns the next 30 seconds.
 
-Marcus 30-second test: The browser tabs hook is experiential — Marcus recognizes the pattern in his own life before he knows it's economics. The "telling you only half the story" ending of ¶2 creates the gap that earns the next 30 seconds.
+Marcus 30-second test: The browser tabs hook is experiential — Marcus recognizes the pattern in his own life before he knows it's economics. Thesis must be present by end of ¶2 per Marcus patience test. ¶3 earns paragraph 3 by promising a diagnostic tool, not just a concept explainer.
+
+Headline test: Subhead ("a 160-year-old paradox explains why Google's memory breakthrough crashed chip stocks — then made them rally 10% a week later. The same paradox determines whether your job survives.") does double duty — concrete market drama + personal stake. Keep. Headline ("Cheaper AI Won't Use Less of Anything") is a flat assertion; it works because the subhead carries the hook. Consider whether the headline alone passes the scroll test or if it's doing "obvious thesis" work that Marcus will skip past.
 
 What to avoid: Don't over-explain the browser tab examples. The litany should be rapid (three examples, three sentences). Don't define "paradox" — Marcus knows the word. Don't use "delve" or "dive into" when transitioning to the coal story.
 
@@ -40,6 +43,14 @@ Facts to deploy (in order):
 Argument move: Establishes the pattern experientially before naming it. The reader nods along.
 
 Key sentence to land: The sentence that names the pattern without yet giving it a name — something like "every efficiency gain has produced more consumption, not less."
+
+💡 [RHETORICAL SUGGESTION — USE OR SKIP]
+Type: Triplet rhythm / anaphora
+Location: Opening of ¶1
+Suggestion: Structure the three examples as a tight parallel triplet — same syntactic shape across all three so the rhythm does the argument. Bandwidth → tabs. Storage → full drive. Processor → bloated software. The pattern recognition happens at the ear before it happens at the brain.
+Example shape: "Faster internet. Bigger drives. More powerful chips. None of it made you faster, freed your disk, or sped up your day." (Rough — three nouns, one dismissal, not polished.)
+Why it might work: Marcus reads fast. A triplet lands before the skepticism engages. Matches voice-rules "build complexity in longer sentences; land the point in a short one."
+Why it might not: Could feel formulaic if the second sentence ends up symmetric too. Voice rules warn against "patterns of exactly three items in every list" — this one's earned by being experiential, but don't repeat the device in ¶2.
 
 **¶2 — Jevons named: 1865, coal, and the thesis**
 
@@ -103,19 +114,20 @@ Suggestion: A one-sentence structural echo connecting highways to coal — "Jevo
 Why it might work: Compresses two examples into a rhythm that feels like discovery. Marcus likes pattern recognition delivered dry.
 Why it might not: Could feel too tidy this early — the pattern should still be building, not yet confirmed.
 
-**¶6 — Example 2: Refrigeration (David Owen / New Yorker)**
+**¶6 — Example 2: Refrigeration and A/C (David Owen / New Yorker)**
 
-Facts to deploy:
-- David Owen, New Yorker, 2010: The 35-year period during which new refrigerators plunged in electricity use is also the period during which the global refrigeration market burgeoned
-- Owen's family: old fridge moved to basement (stayed plugged in 25 years), joined by stand-alone freezer and bar icemaker
-- Modern kitchens: enormous side-by-side fridge + side-by-side freezer + under-counter mini-fridge for beverages
+Facts to deploy (lead with the number, then the household scene):
+- **Killer stat (lead with this):** Between 1993 and 2005, the average new A/C unit became ~28% more efficient. Household A/C energy consumption rose ~37% over the same period. The efficiency gain and the consumption gain run on parallel tracks.
+  Source: [[The Efficiency Dilemma — David Owen New Yorker 2010]]
+- Refrigeration: The 35-year period during which new refrigerators plunged in electricity use is also the period during which the global refrigeration market burgeoned
+- Owen's family archetype: old fridge moved to basement, stayed plugged in 25 years, joined by stand-alone freezer and bar icemaker. Modern kitchens: side-by-side fridge + side-by-side freezer + under-counter beverage mini-fridge
 - Gas stations now have almost as much refrigerated shelf space as 1960s grocery stores
 - Second-order: since mid-1970s, per-capita food waste in US increased by half (40% of edible food discarded) — refrigeration conveyed false sense food would last longer
   Source: [[The Efficiency Dilemma — David Owen New Yorker 2010]]
 
-Argument move: Second example, more surprising than highways. Escalates from infrastructure (highways) to consumer goods (fridges) — bringing the pattern closer to the reader's kitchen. The food waste angle is a second-order Jevons effect that makes the concept deeper than expected.
+Argument move: Second example, more surprising than highways. The A/C stat does the heavy lifting — a single sourced number proves the mechanism before the prose describes it. Escalates from infrastructure (highways) to consumer goods (fridges/A/C) — bringing the pattern closer to the reader's kitchen. Food waste is a second-order Jevons effect that makes the concept deeper than expected.
 
-Key sentence to land: The sentence that makes the concept vivid — the efficient fridge didn't replace the old one, it multiplied the *idea* of refrigeration.
+Key sentence to land: The sentence that makes the concept vivid — the efficient fridge didn't replace the old one, it multiplied the *idea* of refrigeration. The A/C number proves it in advance so the sentence lands as confirmation, not assertion.
 
 **¶7 — Example 3: Video streaming (bandwidth)**
 
@@ -155,6 +167,10 @@ Argument move: Delivers the diagnostic tool the piece promised. This is the "pre
 
 Key sentence to land: The sentence that states the question plainly enough to be memorable and portable: "Is demand for this elastic or inelastic?"
 
+📎 [INLINE FOOTNOTE LOCATION]
+Place in ¶9, attached to the Jevons name at its second mention or the "three conditions" cite: Jevons predicted England's coal consumption would collapse and was wrong — he didn't anticipate energy substitution (oil, gas, electricity). The paradox he named was sound; his forecast using it wasn't. Footnote the irony without making it a paragraph. Source: [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]].
+Why it works: Shows intellectual honesty — we're using his framework while naming his blind spot. Inoculates Marcus against "you're citing him selectively just like Nadella." One footnote, 2-3 sentences.
+
 💡 [RHETORICAL SUGGESTION — USE OR SKIP]
 Type: Structural move / callback
 Location: Closing of ¶9
@@ -165,8 +181,10 @@ Why it might not: Could slow the section down right when it should be accelerati
 ---
 
 ### Section 3: The Applications — The $71 Billion Bluff That Proved Jevons Right
-Word target: ~400 words | Tone: forward-looking, analytical, connecting to current events
+Word target: ~400-500 words | Tone: forward-looking, analytical, connecting to current events
 Argument job: Apply the framework to the live DRAM crisis and the AI labor question — show the reader the concept operating in real time.
+
+⚠️ Word-budget flag: Four ¶s (¶10-¶13) carry heavy fact loads (stock prices, percentages, two analyst citations, Brynjolfsson, Nadella, surplus-capture argument). 400 words is tight — expect this section to push 450-500. Either accept the expansion (total stays under 1,600) or consolidate ¶10 and ¶11 into a single crash-and-rally paragraph with the pivot inside it.
 
 **¶10 — The TurboQuant crash-and-recovery as live Jevons demonstration**
 
@@ -183,6 +201,14 @@ Facts to deploy (in order):
 Argument move: Sets up the expectation — efficiency breakthrough → prices should fall. The data initially confirms it.
 
 Key sentence to land: The "+408% vs. July 2025" fact — the correction looks dramatic until you see the baseline.
+
+💡 [RHETORICAL SUGGESTION — USE OR SKIP]
+Type: Structural pivot / dramatic reversal
+Location: Transition between ¶10 and ¶11 (this is the hinge of the entire piece)
+Suggestion: End ¶10 on the crash data so the reader sits momentarily with the wrong conclusion — "Jevons was wrong this time." Open ¶11 with a short sentence that flips it. The gap between the two paragraphs does the work; the reader completes the turn before the prose names it. Model the reversal on the Thompson-detonation rhythm from voice-rules ("Turns out I wasn't paranoid. I was just early.") — credible setup, floor drops, traceable.
+Example shape: End ¶10 with the crash numbers as evidence for the skeptic. Open ¶11 with something like: "Then the market did the math." Short. Complete. Carries the whole pivot.
+Why it might work: This is the piece's single most dramatic argument move — a real-time demonstration of the framework inside three trading sessions. The reversal deserves structural emphasis, not just prose explanation. Marcus rewards the writer who trusts him to complete the turn himself.
+Why it might not: If ¶10 isn't crisp enough, the pivot feels like a gotcha rather than a reveal. The crash data has to land as genuinely damning before the reversal rescues it.
 
 **¶11 — The reversal: Jevons in real time**
 
@@ -225,10 +251,10 @@ Argument move: Delivers the "half the story" payoff promised in ¶2. The piece h
 Key sentence to land: The sentence that closes the loop on the "half the story" promise — sharp, short, landing on the omission.
 
 😬 [HUMOR LOCATION]
-Situation: Tech CEOs citing a 160-year-old economist to justify their stock price after a competitive scare.
+Situation: Nadella citing a 19th-century coal economist on an earnings call to reassure investors that a Chinese competitor's efficiency breakthrough is actually bullish for Microsoft.
 Register: sardonic / deadpan
-Rough target: The self-serving selectivity of the citation — Nadella invoking Jevons not as economics but as investor relations.
-Model sentence rhythm: "In 2024, one side brought a policy paper to a meme war, and lost." (Short. Complete. Every word earning its place.)
+Rough target: The genre confusion — the citation is dressed as economics but functioning as investor relations. The joke is the gap between what's being said (a 160-year-old framework) and what it's doing (managing a stock price this quarter). Owen's own line is nearby if useful: "efficiency is easy to endorse: it's how we created the problems we're now trying to solve." Source: [[The Efficiency Dilemma — David Owen New Yorker 2010]]
+Model sentence rhythm: "In 2024, one side brought a policy paper to a meme war, and lost." (Short. Complete. Every word earning its place.) Apply to: "Nadella brought [a 19th-century economist / a dead Victorian / Jevons] to an earnings call, and the stock held."
 
 ---
 
@@ -247,11 +273,12 @@ Argument move: The concept made viscerally personal. The reader's own device is 
 Key sentence to land: The sentence that names the self as a Jevons engine — "I am Jevons' coal engine, and the resource I'm consuming is my own attention" or similar self-aware compression.
 
 💡 [RHETORICAL SUGGESTION — USE OR SKIP]
-Type: Metaphor
+Type: Metaphor (commit on this one)
 Location: Opening of ¶14
-Suggestion: Frame the progression of hard drives as an archaeological record — each drive a geological layer of consumed efficiency. "My hard drive is a museum of efficiency gains" (the proposed subheadline).
-Why it might work: Gives the personal section a single vivid image that does double duty as the section's identity.
-Why it might not: "Museum" might be too precious — could try "graveyard" or just play it straight.
+Suggestion: "Museum" is the right frame — it's curated, deliberate, slightly absurd (who curates hard drives?), and carries the self-aware register this section needs. "Graveyard" is more macabre but less accurate; the drives aren't dead, they're *displayed* as monuments to efficiency that got consumed. The self-aware tone matches voice-rules humor-as-pressure-valve — the writer is the exhibit.
+Example shape: Open ¶14 by walking the reader through the "exhibits" — 40GB drive (2005), 256GB drive (2015), 2TB SSD (2026) — each one was "unlimited" at acquisition, each one is full now. The shape is the gag.
+Why it might work: Turns a potentially tired "my drive is full" line into a structural move with a punchline. Gives the section its own identity and earns the subheadline.
+Why it might not: If the three drives get too much real estate, the section bloats past 250 words. The litany is a device, not the section.
 
 **¶15 — The browser tab callback and the question to leave with**
 
@@ -292,7 +319,7 @@ Final sentence goal: Leave Marcus feeling slightly implicated — he's not just 
    **Yes.** The elasticity framework as the key variable determining whether Jevons applies is not in the mainstream coverage. Most Jevons citations (Nadella, tech press) present it as a universal law ("efficiency increases demand"). The agriculture counterexample and the "elastic vs. inelastic" diagnostic are the signal — Marcus has heard of Jevons but doesn't have the tool to evaluate when it's being invoked honestly vs. self-servingly.
 
 2. **Patience test** — Would Marcus still be reading at paragraph 3?
-   **Yes.** The opener lands experientially (browser tabs), names the concept by ¶2, and promises the "half the story" payoff. ¶3 (Nadella setup) is the riskiest — if it feels like "here's a CEO quote" rather than "here's the con," Marcus might skim. The sentence must frame Nadella's citation as selective, not just informational.
+   **Yes, with one fix required.** The opener lands experientially (browser tabs), names the concept by ¶2, and promises the "half the story" payoff. ¶3 (Nadella setup) is the riskiest — if it feels like "here's a CEO quote" rather than "here's the con," Marcus might skim. **Fix:** Frame Nadella as the antagonist of ¶3, not a neutral cite. The sentence introducing him should do the work of telegraphing that the piece is going to audit his citation, not just report it. If ¶3 reads as setup for a critique Marcus doesn't yet see coming, the patience test passes.
 
 3. **Depth test** — Does this feel like the writer operates in the thing they're writing about?
    **Yes.** The DRAM crisis data (171% YoY, 408% vs. July 2025, TurboQuant crash-and-recovery timeline, contract vs. spot price divergence) is specific and sourced. The agriculture counterexample shows the writer understands the limits of the framework, not just the framework itself. The Jevons-was-wrong-about-coal note (he predicted coal collapse, missed energy substitution) shows intellectual honesty.
