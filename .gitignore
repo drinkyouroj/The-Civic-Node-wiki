@@ -33,3 +33,6 @@ public/
 *.tmp
 *.temp
 *.log
+
+# Claude Code internal artifacts
+.claude/worktrees/
