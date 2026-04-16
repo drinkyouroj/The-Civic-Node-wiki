@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, infrastructure, supply-chain]
 created: 2026-04-11
 updated: 2026-04-12
-sources: 20
+sources: 21
 ---
 
 ## Overview
@@ -57,6 +57,7 @@ Samsung's dominance in memory chips places it at the center of several newslette
 - [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]] — contemporary reaction to LOI deals (Dec 2025)
 - [[Samsung HBM DDR5 DRAM Capacity Shift — Digitimes]] — 80K wafer reallocation from HBM to DDR5 RDIMM (Dec 2025)
 - [[TrendForce DRAM Market Share Q3 2025]] — Q3 2025 market share 32.6%, second to SK Hynix
+- [[Samsung SK Hynix Surge 10 Percent as Tech Rebounds — Investing.com]] — surged 10% on Apr 1, 2026, rebounding from 20%+ March losses driven by TurboQuant panic
 
 ## Open Questions
 

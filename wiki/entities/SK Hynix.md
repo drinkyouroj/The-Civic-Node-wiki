@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, infrastructure, supply-chain]
 created: 2026-04-11
 updated: 2026-04-12
-sources: 14
+sources: 15
 ---
 
 ## Overview
@@ -46,6 +46,7 @@ Same exposure as [[Samsung]] to helium supply disruption. SK Hynix's HBM market 
 - [[Sam Altman's Dirty DRAM Deal]] — signed LOI alongside Samsung; neither knew about the other
 - [[The Letter That Moved a Market — Medium]] — LOI mechanism and price cascade
 - [[IDC Global Memory Shortage Crisis Market Analysis 2026]] — named as one of the three oligopoly members deliberately shifting capacity from consumer to AI
+- [[Samsung SK Hynix Surge 10 Percent as Tech Rebounds — Investing.com]] — rallied 9.5% on Apr 1, 2026, rebounding from 20%+ March losses driven by TurboQuant panic
 
 ## Open Questions
 
