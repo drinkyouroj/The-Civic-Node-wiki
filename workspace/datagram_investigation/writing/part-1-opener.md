@@ -1,0 +1,5 @@
+The pop-up appeared at 11:33 PM on November 26th, the Tuesday before Thanksgiving. Twenty-four hours to complete a wallet-claiming dialog — originally announced as forty-eight, then quietly edited down. Between the turkey and the small talk, 250,000 people had a window. I completed mine while moderating the Discord server from my family's dinner table. 159,000 people didn't make it.
+
+No one logged the timestamps. The backend that was supposed to track a quarter-million participants' wallet connections had never recorded when anyone connected. The fix for this gap was a holiday pop-up with a shrinking deadline. When people missed it, the project's response was a single line: *"This is an automated process and not something we can manually influence."*
+
+But someone designed the automation. Someone chose the timeline. Someone edited 48 to 24. This is the story of what a crypto project looks like from inside the mod team — not the version you read in a post-mortem, but the version you live through while passing the cranberry sauce.
