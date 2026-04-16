@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [power, depin, politics, ai, technology]
 created: 2026-04-06
-updated: 2026-04-07
-sources: 15
+updated: 2026-04-16
+sources: 17
 ---
 
 ## Overview
@@ -59,11 +59,13 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 - [[Anthropic Catching Up to OpenAI — On Track for $9 Billion Annual Run Rate]] — October 2025 revenue and valuation update
 - [[Ghost Work — The Hidden Humans Behind AI (Science Array)]] — Scale AI (Anthropic's former data labeling partner) context
 - [[Jack Clark on AI Fear — Anthropic Co-Founder Speech]] — Yahoo Finance Australia; Clark's Berkeley speech; "creature not machine" framing; 50-50 fear
+- [[Statement from Dario Amodei on our discussions with the Department of War]] — Amodei's official statement; two red lines (mass surveillance, autonomous weapons); DPA and supply chain risk threats; first frontier AI company on classified networks
+- [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — American Progress legal analysis; supply chain risk designation likely illegal; commercial "death penalty"; Claude used for Iran strikes while designated a risk
 
 ## Open Questions
 
-- What specifically did the DoD ask Anthropic to enable — targeted surveillance? Drone targeting? Autonomous kill decisions?
+- ~~What specifically did the DoD ask Anthropic to enable?~~ **Answered (partially)**: Amodei's statement specifies the DoD demanded "any lawful use" and removal of safeguards against mass domestic surveillance and fully autonomous weapons. The American Progress piece adds that Anthropic feared tools being used to analyze "bulk data collected from Americans" and "unclassified commercial data."
 - What is the status of the two lawsuits? What legal theory is Anthropic using?
 - Does Anthropic have meaningful DoD/government revenue at stake, or is this about precedent?
 - What does a "dual stock listing" in the UK actually offer Anthropic?
-- Are other AI companies (OpenAI, Google DeepMind) complying with DoD requests that Anthropic refused?
+- ~~Are other AI companies (OpenAI, Google DeepMind) complying with DoD requests that Anthropic refused?~~ **Answered (partially)**: OpenAI signed a DoD contract within hours of the Anthropic designation, claiming its deal has "more guardrails" including shared red lines on mass surveillance and autonomous weapons. But the American Progress article asks the key follow-up: why would the government honor OpenAI's restrictions after trying to destroy Anthropic for similar ones?

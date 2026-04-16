@@ -5,8 +5,8 @@ entity_type: organization
 aliases: ["Department of Defense", "DoD", "Pentagon"]
 tags: [military, technology, ai]
 created: 2026-04-11
-updated: 2026-04-11
-sources: 3
+updated: 2026-04-16
+sources: 10
 ---
 
 ## Overview
@@ -18,6 +18,12 @@ The United States Department of Defense is the federal executive department resp
 - Headquartered at the Pentagon in Arlington, Virginia
 - Oversees the Army, Navy, Air Force, Marine Corps, Space Force, and numerous defense agencies
 - Blacklisted [[Anthropic]] for the company's refusal to pursue military AI applications
+- Demanded AI contractors accede to "any lawful use" and remove safeguards per DoD AI Strategy document [[Statement from Dario Amodei on our discussions with the Department of War]]
+- Threatened Anthropic with Defense Production Act invocation and "supply chain risk" designation — never before applied to an American company [[Statement from Dario Amodei on our discussions with the Department of War]]
+- [[Pete Hegseth]] designated Anthropic a supply chain risk via X on Feb 27, 2026; added sweeping commercial prohibition exceeding statutory authority [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]]
+- Signed classified-network AI contract with [[OpenAI]] hours after the Anthropic designation [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]]
+- Used Claude for Iran military strike planning on the same weekend it designated Anthropic a supply chain risk (WSJ, Washington Post) [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]]
+- Under Secretary Emil Michael led negotiations with both Anthropic and OpenAI; called [[Dario Amodei]] a liar and demanded he testify under oath [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]]
 - Maintains partnerships with major technology companies for AI, cloud computing, and cybersecurity through programs like JEDI/JWCC and Maven
 - Annual budget exceeds $800 billion
 
@@ -28,12 +34,18 @@ The DoD is a central node in the [[Tech-State Conflict]] — its relationships w
 ## Connections
 
 - [[Anthropic]] — blacklisted for refusing military AI applications
+- [[OpenAI]] — signed classified-network contract hours after Anthropic designation
+- [[Pete Hegseth]] — Secretary of Defense; issued supply chain risk designation
+- [[Dario Amodei]] — Anthropic CEO; counterparty in negotiations
 - [[United Kingdom]] — allied defense technology sharing and joint military programs
 - [[Tech-State Conflict]] — exemplifies the tension between technology companies and state power over AI governance
+- [[Regulatory Weaponization]] — supply chain risk designation as unprecedented punitive tool
 
 ## Source Appearances
 
-- (stub — awaiting source linkage)
+- [[Statement from Dario Amodei on our discussions with the Department of War]] — Amodei's account of DoD demands, threats, and the two red lines
+- [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — American Progress legal analysis; supply chain risk designation; OpenAI deal; Congressional action items
+- [[Britain woos Anthropic expansion after US defence clash]] — UK recruiting Anthropic after DoD blacklisting
 
 ## Open Questions
 

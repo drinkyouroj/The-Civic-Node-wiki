@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-15
-total_pages: 845
-total_sources: 456
-total_entities: 177
+updated: 2026-04-16
+total_pages: 844
+total_sources: 454
+total_entities: 178
 total_concepts: 116
 total_syntheses: 13
-total_articles: 84
+total_articles: 85
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -87,12 +87,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Nixon shock - Wikipedia]] — Wikipedia; Bretton Woods end; gold window closure; SWIFT origin
 
 ### Iran / Geopolitics
-- [[Trump Easter Threats Hell on Iran Infrastructure If Strait Remains Blocked — Reuters]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
+- [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
 - [[Iran Ceasefire Fragments — Strait Reopens Then Closes, Oil Toward 100]] — PBS/AP, Apr 9 2026; ceasefire collapses within hours; Israel Lebanon strikes; WTI $99.44; Trump "next conquest" framing
 - [[Iran Dueling Peace Plans — English vs Persian 10-Point Discrepancy]] — Al Jazeera, Apr 9 2026; English/Persian version gap on enrichment; Vance "written by ChatGPT"; Islamabad talks Saturday
 - [[Republicans Block Iran War Powers Resolution — House Adjournment]] — USA Today, Apr 9 2026; Chris Smith adjourns chamber; first congressional action since "destroy a civilization" threat
 - [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]] — USA Today, Apr 8 2026; 60% unfavorable (up from 42% in 2022); 80% Democrats; 77% say Iran conflict personally important
-- [[Will Blow Up Everything Take Over Iran Oil — Trump Says Deal Possible by Monday — India Today]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
+- [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
 
 ### AI / Technology
 - [[Best Local LLMs for Every Apple Silicon Mac — 2025 Guide]] — apxml.com, Jul 2025; unified memory architecture; Q4 quantization explainer; Ollama setup; per-RAM-tier model recommendations
@@ -113,6 +113,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Echo Chamber Research Systematic Review]] — JCSS, Apr 2025; 129 studies; no consensus; TikTok underexplored
 - [[If Hate-Fueled Algorithms Cause Real-World Harm, California's Tech Companies Should Pay]] — CalMatters, Oct 2025; CA SB 771; product liability framing; Myanmar; hate crime data
 
+- [[Statement from Dario Amodei on our discussions with the Department of War]] — Anthropic, Feb 2026; Amodei's official statement; two red lines (mass domestic surveillance, fully autonomous weapons); DoD threatened supply chain risk designation and DPA invocation
+- [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — American Progress, Mar 4 2026; legal analysis of supply chain risk designation; OpenAI DoD contract; Congressional action items; "commercial death penalty" for Anthropic
 - [[Anthropic vs White House — Anthropic Tries to Keep Pace with OpenAI While Taking on the US Government]] — Oct 2025; Sacks attack; Mamdani-Wired narrative; political backstory to DoD blacklisting
 - [[Import AI 431 — Technological Optimism and Appropriate Fear]] — Jack Clark; existential risk framing; "appropriate fear" vs. techno-optimism
 - [[How Much Money Do OpenAI and Anthropic Actually Make]] — Revenue skepticism; ARR vs. actual revenue; ChatGPT vs. API split
@@ -162,7 +164,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Render RENDER Tokenomics — Tokenomist]] — Tokenomist; RENDER supply/cliff vesting data
 - [[Gala GALA CoinMarketCap]] — CoinMarketCap; $GALA ecosystem description
 - [[GalaChain Sees 2.8 Billion GALA Migration]] — Node Staking Program launch; 2.8B GALA migration; June 2025
-- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; Section 4 cites Adam Back's Hashcash by name; published Oct 31 2008, 46 days after Lehman; 21M cap; proof of work
+- [[Satoshi Nakamoto Bitcoin Whitepaper 2008]] — Original Bitcoin whitepaper; P2P electronic cash; 21M cap; proof of work
 - [[iShares Bitcoin Trust ETF IBIT — BlackRock]] — BlackRock IBIT product page; largest Bitcoin ETF; institutional adoption
 - [[Strategic Bitcoin Reserve]] — EO establishing US Strategic Bitcoin Reserve; BTC + ETH + XRP + SOL holdings
 - [[What to Know About CECOT — El Salvador Mega-Prison]] — El Salvador mega-prison; 40,000 capacity; gangs + dissidents; due process concerns
@@ -198,17 +200,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[El Salvador Removes Bitcoin Mandate Digital Watch Observatory]] — Jan 2025 Congress 55-2 vote removing Bitcoin legal tender status; IMF conditionality
 - [[El Salvador y el bitcoin Cristosal 2023]] — Accountability failures; Fidebitcoin opacity; Chivo identity theft documentation
 - [[El Salvador Tourism Sector Grows 81 Percent 2019 to 2024]] — 81% tourism growth; Bukele rebranding success separate from Bitcoin
-- [[NYT Claims Bitcoin Creator Satoshi Nakamoto Is British Cryptographer Adam Back — Bitcoin.com News]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
-- [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — English High Court; Wright definitively ruled NOT Satoshi; 47 forgeries; Back-Satoshi Aug 2008 emails produced as discovery; worldwide injunction; CPS referral
-- [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — US Senate Vote #57; 51–45; Lutnick confirmed as Commerce Secretary Feb 2025; son Brandon Lutnick leads BSTR/CEPO SPAC
-- [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — Apr 12 2026; Seyffart quote; Carreyrou photo-shoot question; BSTR SPAC as PR vehicle for Satoshi spotlight
-- [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — Decrypt/FT, Jul 2025; 30K BTC; $4B deal; Brandon Lutnick (Commerce Secretary's son); BSTR Nasdaq listing mechanics
-- [[Crypto Attorney Sues DHS to Reveal Satoshi Nakamoto Identity — CryptoSlate]] — CryptoSlate, Apr 2025; James Murphy FOIA lawsuit; DHS agent Rana Saoud claimed 2019 California interview with Satoshi
-- [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — Nexo, Apr 2026; 1.1M BTC cluster; Patoshi Pattern (Lerner 2013); genesis address; never-moved coins; seizure-impossible-by-design
-- [[Adam Back Denies Being Satoshi Nakamoto — NYT]] — NYT (Rhone), Apr 8 2026; "I'm not satoshi"; Blockstream statement; AI-assisted stylometric analysis; Cypherpunk definition; NYT primary URL for denial
-- [[BSTR to Go Public with 30K BTC and $1.5B Buying Power — CoinDesk]] — CoinDesk (Sandor), Jul 17 2025; official BSTR launch; $1.5B PIPE confirmed ($400M equity + $750M notes + $350M preferred); Back contributing 25K BTC personally; fourth-largest public BTC holder
-- [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CoinDesk (Van Straten), Feb 24 2026; Back says approval "could come as soon as April"; BTC at $63K; bear market context
-- [[Hashcash Announcement to Cypherpunks Mailing List 1997 — Adam Back]] — Adam Back, Mar 28 1997; primary source for 1997 Hashcash invention; posted to cypherpunks@toad.com; proof-of-work mechanism; University of Exeter
+- [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — Bitcoin.com, Apr 2026; NYT investigation; stylometric analysis (inconclusive); 67 shared hyphenations; Back denies 6+ times; SEC disclosure angle
 - [[Fitch Upgrades El Salvador Credit Rating to B- Stable]] — Jan 2025 CCC+ to B- upgrade post-IMF deal; credit market validation
 - [[La adopcion de Bitcoin en El Salvador parece fracasando]] — 2022 one-year failure analysis; Volcano Bond collapse; merchant resistance
 - [[Only 4 in 10 Continued Using Chivo Wallet After Bonus]] — 40% retention after $30 airdrop; Lightning Network growth pattern
@@ -451,6 +443,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Seahawks 41-6 Divisional Win Over 49ers]] — Jan 17 Divisional Round blowout
 - [[Sam Darnold Spotrac Contract Details]] — Contract mechanics; performance comparison data
 - [[A Party and a Protest — Bad Bunny at Super Bowl LX]] — NPR; halftime preview; joy-as-resistance thesis
+- [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]] — ESPN, Feb 8 2026; definitive game recap; Walker MVP (135 rush yds); Dark Side defense 6 sacks, 3 turnovers; Darnold 19/38, 202 yds, 1 TD, 0 INT
 - [[Bad Bunny Super Bowl 60 Controversy Explained]] — Yahoo; MAGA backlash; NFL's global-reach rationale
 - [[Roger Goodell Backs Bad Bunny After ICE Out Speech]] — Goodell public defense; week of the game
 - [[Bad Bunny Spotify Global Top Artist 2025]] — Spotify Wrapped; 19.8B streams; fourth consecutive top-artist title
@@ -484,9 +477,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ### Recent Ingests (2026-04-08, post-insight-sweep)
 - [[Epic Games v Apple - Wikipedia]] — Wikipedia, Apr 8 2026; comprehensive Epic v. Apple case record (2020-2025); 9-of-10 Apple win, anti-steering UCL violation, April 2025 contempt finding eliminating 27% compliance fee; chokepoint reconstituting itself
-- [[Trump Is Openly Targeting Innocent Civilians — Reason]] — Matthew Petti, Reason, Apr 7 2026; "Stone Age" rhetoric; B1 bridge strike killing 8; Sharif University bombing; bipartisan civilian-targeting continuity
+- [[Reason — Trump is openly targeting innocent civilians]] — Matthew Petti, Reason, Apr 7 2026; "Stone Age" rhetoric; B1 bridge strike killing 8; Sharif University bombing; bipartisan civilian-targeting continuity
 - [[CBC — Trump Iran ceasefire what happens next]] — Mike Crawley, CBC, Apr 7 2026; two-week ceasefire 90 min before deadline; Iran's 10-point plan; reported $2M-per-ship Hormuz transit fees
-- [[Liberal Flips Conservative Supreme Court Seat in Wisconsin Election — Newsweek]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
+- [[Newsweek — Liberal flips Conservative Wisconsin Supreme Court seat]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
 - [[The Hill — Clay Fuller wins Georgia special election]] — Caroline Vakil, The Hill, Apr 7 2026; Trump-endorsed Fuller wins GA-14 special; House GOP margin tightens to 218-214; Democratic overperformance pattern continues
 
 ### Recent Ingests (2026-04-11)
@@ -533,14 +526,14 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Five things to know about Hungary's election]] — Apr 2026; Hungary election as illiberal democracy test; Orban vs Magyar; Fidesz vs Tisza
 
 #### Politics & Culture
-- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right — ResetDoc]] — Reset DOC, Jan 2026; Dark Enlightenment/NRx intellectual genealogy; Yarvin as Thiel-funded ideological architect
+- [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]] — Reset DOC, Jan 2026; Dark Enlightenment/NRx intellectual genealogy; Yarvin as Thiel-funded ideological architect
 - [[The Reactionary Prophet of Silicon Valley]] — The Nation; Yarvin's racist writings; Thiel-to-candidate pipeline; DOGE as applied neoreaction
 - [[Pope Leo Is Speaking Truth to Donald Trumps Power]] — Apr 2026; Pope Leo XIV vs Trump on Iran war; Hegseth Pentagon prayer; 66% antiwar polling; faith vs militarism
 - [[How Louis Theroux Got Inside the Manosphere — NYT]] — NYT; Netflix documentary; manosphere as sales grift targeting 8-20 year olds; Andrew Tate pipeline
 - [[No One at Waffle House Remembers FEMA Official Who Says He Teleported]] — FEMA official Gregg Phillips teleportation claims; supernatural conspiracy in government appointments
 
 #### Crypto
-- [[Trump World Liberty Financial Borrows $75M Against WLFI Token on Dolomite — CoinDesk]] — CoinDesk, Apr 2026; WLFI insider self-dealing via Dolomite; 5B governance tokens as collateral; depositors locked out; 93% pool utilization
+- [[Trump's World Liberty Financial uses five billion WLFI to borrow $75 million]] — CoinDesk, Apr 2026; WLFI insider self-dealing via Dolomite; 5B governance tokens as collateral; depositors locked out; 93% pool utilization
 
 #### Economics
 - [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]] — NPR/Planet Money, Feb 2025; Jevons Paradox applied to AI; efficiency → more consumption; Brynjolfsson pilots example
@@ -576,6 +569,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[John Schneider]] — Seahawks GM since 2010; Super Bowl LX architect; first GM with zero holdovers to reach Super Bowl
 - [[Mike Macdonald]] — Seahawks HC; Ravens DC background; defensive scheme architect; "Macdonald Method"
 - [[Sam Darnold]] — Seahawks QB; $100.5M/3yr; career renaissance (Jets failure → Vikings → Seahawks Super Bowl)
+- [[Kenneth Walker III]] — Seahawks RB; Super Bowl LX MVP; 135 rushing yards, 5.0 YPC in 29-13 win
 - [[Bill Belichick]] — Patriots HC 2000-2023; 6 Super Bowls; the modern dynasty benchmark
 - [[Bad Bunny]] — Puerto Rican artist (Benito Martínez Ocasio); Super Bowl LX halftime performer; 19.8B Spotify streams 2025; politics of the performance
 - [[Pete Carroll]] — Seahawks HC 2010-2023; LOB dynasty builder; fired after 2023 season; the regime that was replaced
@@ -961,6 +955,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Obsidian Was Never the Problem]] — PKM systems fail because humans are bad maintenance agents; Karpathy's LLM wiki as fix; meta: this wiki
 
 ### Nonfiction Essays — Personal & Introspective
+- [[The Vibes Are Off]] — "A Field Guide to Collective Dread in 2025"; neuroscience of collective dysregulation; amygdala mismatch; self-care as category error; 2023 psychotic break reframed
 - [[The Autism Advantage]] — Neurodivergent minds as suited for DePIN's merit-based systems; career failure as "beta-testing the future economy"
 - [[My Autism Self-Assessment Scores]] — Data-anchored late-diagnosis piece (RAADS-R 152, CAT-Q 138, AQ 38/50); AI therapist made diagnosis suggestion before any human clinician
 - [[When Minds Break]] — Psychotic depression as analytical access to why LLMs hallucinate; Friston's free-energy principle; Anil Seth's "controlled hallucination"
@@ -1011,9 +1006,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 439 |
-| Published articles tracked | 84 |
-| Entity pages | 177 |
+| Total sources ingested | 454 |
+| Published articles tracked | 85 |
+| Entity pages | 178 |
 | Concept pages | 116 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-14 |
+| Last updated | 2026-04-16 |

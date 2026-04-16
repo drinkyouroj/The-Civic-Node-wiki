@@ -4,11 +4,11 @@ type: entity
 entity_type: person
 tags: [nfl]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 13
+updated: 2026-04-16
+sources: 14
 ---
 
-> ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** No raw post-game Super Bowl LX recap exists in this cluster; the latest sourced Darnold appearance is the Jan 26, 2026 NFC Championship win.
+~~Caveat resolved 2026-04-16: ESPN Super Bowl LX recap now ingested. See [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]].~~
 
 ## Overview
 
@@ -48,6 +48,7 @@ Quarterback for the Seattle Seahawks. Career narrative: selected 3rd overall by 
 - [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — overcame 2 INTs; decisive in 4Q and OT comeback
 - [[Seahawks Are Biggest Threat to Overthrow the NFC]] — cap analysis; Darnold vs. Smith financial comparison
 - [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 2nd Pro Bowl selection
+- [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]] — Super Bowl LX: 19/38, 202 yards, 1 TD, 0 turnovers; game manager role in defense-dominant win
 
 ## Open Questions
 
