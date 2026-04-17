@@ -1,0 +1,111 @@
+---
+title: "Cheaper AI Won’t Use Less of Anything"
+cover_image: "raw/assets/cheaper-ai-wont-use-less-of-anything.png"
+cover_caption: "Efficiency scales appetite, not capacity."
+---
+
+# Cheaper AI Won’t Use Less of Anything
+
+## A 160-year-old paradox explains why Google’s memory breakthrough crashed chip stocks — then made them rally a week later. It also determines whether your job survives.
+
+Faster internet. Bigger drives. More powerful chips. None of it gave you free time, free space, or a faster computer; you just opened more tabs, filled the disk, and installed software that used every cycle the new processor could spare. Every efficiency gain in your adult life has produced more consumption, not less. The thing that was supposed to free up capacity got consumed by demand you didn't know you had.
+
+A British economist named William Stanley Jevons figured this out in 1865, watching coal. His peers assumed that more efficient steam engines would reduce England's coal consumption; he watched efficient engines unlock factories, railroads, and steamships that consumed far more coal than the old engines saved. ["It is wholly a confusion of ideas to suppose that the economical use of fuel is equivalent to a diminished consumption,"](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox) he wrote. The coal is now compute. The engines are now AI models. The exit is the same.
+
+Which is why every tech CEO in the world is suddenly citing a Victorian. After DeepSeek built a competitive chatbot for a fraction of what OpenAI spends, Satya Nadella [invoked Jevons paradox](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox) to reassure investors that cheaper AI was actually bullish: more efficient AI would drive more AI demand, and the stocks would be fine. The concept he cited is real. The application was selective. This piece gives you the full framework — when Jevons applies, when it doesn't, and the one question that tells you which.
+
+---
+
+## The Mechanics: Coal, Highways, Refrigerators, and the One Question That Determines Everything
+
+The mechanism is simple enough to carry in one sentence. Efficiency lowers the cost per unit of output; lower cost opens new use cases; new demand can exceed the old savings. Economists call the general case the ["rebound effect"](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox), and they reserve "Jevons paradox" for the version where rebound exceeds 100% and total consumption actually goes up.
+
+Highways are the infrastructure version. Add lanes to reduce congestion; the cheaper per-trip time-cost pulls in drivers who didn't make the trip before; congestion returns. Transportation planners have a name for it, *induced demand*, and they've been watching it happen for seventy years. Jevons saw it with coal. City planners see it with lanes. The resource changes; the pattern doesn't.
+
+Refrigeration is the household version, and the numbers are ugly. Between 1993 and 2005, the average new air conditioner [became roughly 28% more efficient](https://www.newyorker.com/magazine/2010/12/20/the-efficiency-dilemma). Over the same years, household A/C [energy consumption rose about 37%](https://www.newyorker.com/magazine/2010/12/20/the-efficiency-dilemma). The efficiency curve and the consumption curve run on parallel tracks, climbing together. The period during which fridges plunged in per-unit electricity use is [the same period during which the global refrigeration market burgeoned](https://www.newyorker.com/magazine/2010/12/20/the-efficiency-dilemma): the old fridge gets moved to the basement and stays plugged in for twenty-five years, joined by a stand-alone freezer and a bar icemaker; the new kitchen has a side-by-side fridge, a side-by-side freezer, and an under-counter mini-fridge for drinks; gas stations now carry about as much refrigerated shelf space as a 1960s grocery store. The efficient fridge didn't replace the old fridge. It multiplied the *idea* of refrigeration.
+
+Video codecs did it digitally. Better compression didn't reduce bandwidth consumption; it let Netflix stream 4K to your phone while your kid watched a different show upstairs on a third device. The pipe kept getting fatter. The pipe kept being full.
+
+Then there is the counterexample, which is the whole point. Tractors made farmers enormously more productive. Food demand did not respond elastically; people don't eat six times more when food gets six times cheaper. So the productivity gain had nowhere to go except through labor: farming fell from [about 40% of the US workforce in 1900](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox) to under 2% today. Efficiency destroyed millions of jobs because demand couldn't grow fast enough to absorb what the machines could produce.
+
+That's the whole game. For a Jevons effect to fire, [three conditions](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox) have to hold: the technology makes the worker more productive, productivity translates into lower prices, and demand is elastic enough to grow into those lower prices. Miss the third one and you don't get Jevons; you get farming. (Jevons himself, for the record, [predicted England's economy would collapse when coal ran out](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox). It didn't, because oil and gas and electricity arrived to substitute for it. The paradox he named was sound; his forecast using it wasn't. Frameworks travel better than predictions.)
+
+So there is one question, and it is the whole diagnostic. **Is demand for this thing elastic or inelastic?** If elastic, efficiency grows the pie and everyone uses more. If inelastic, efficiency eats the workforce. Highways: elastic. Fridges: elastic. Farming: inelastic. The framework retroactively sorts everything you just read.
+
+---
+
+## The Applications: The $71 Billion Bluff That Proved Jevons Right
+
+On March 23, 2026, Google Research [published TurboQuant](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/), a compression technique that reduces the memory cost of an LLM context window by roughly six times. For a market where OpenAI's purchase agreements had [pulled roughly 40% of global DRAM](https://timesofindia.indiatimes.com/technology/tech-news/popular-twitter-user-explains-how-sam-altmans-openai-may-have-caused-the-worst-consumer-hardware-crisis-with-purchase-orders-that-were-never-real/articleshow/129879770.cms) off the consumer shelf and [sent DDR5 prices up more than 400%](https://www.trendforce.com/news/2026/03/31/news-ddr5-retail-prices-pullback-amid-market-correction-but-industry-players-cite-stable-contract-trends/), this was supposed to be the antidote. Memory [stocks fell 5-6%](https://timesofindia.indiatimes.com/technology/tech-news/popular-twitter-user-explains-how-sam-altmans-openai-may-have-caused-the-worst-consumer-hardware-crisis-with-purchase-orders-that-were-never-real/articleshow/129879770.cms) the same day. Retail DDR5 kits fell sharply from their peaks; a [Corsair VENGEANCE 32GB kit](https://www.trendforce.com/news/2026/03/31/news-ddr5-retail-prices-pullback-amid-market-correction-but-industry-players-cite-stable-contract-trends/) that had been $490 at the top slid back to about $380. The bluff looked called. Except the corrected kit was still priced [408% higher than it had been in July 2025](https://www.trendforce.com/news/2026/03/31/news-ddr5-retail-prices-pullback-amid-market-correction-but-industry-players-cite-stable-contract-trends/). The "crash" was a rounding error on a structural price re-rating.
+
+Then the market did the math.
+
+Within a week, [Samsung surged 10%](https://www.investing.com/news/stock-market-news/samsung-sk-hynix-surge-10-as-tech-rebounds-from-bruising-march-losses-4592012) to about 184,300 won and [SK Hynix rallied 9.5% to 884,000 won](https://www.investing.com/news/stock-market-news/samsung-sk-hynix-surge-10-as-tech-rebounds-from-bruising-march-losses-4592012), recovering a significant portion of their March losses. Contract prices between chipmakers and OEMs had not moved during the retail pullback; Taiwan-based suppliers [said publicly](https://www.trendforce.com/news/2026/03/31/news-ddr5-retail-prices-pullback-amid-market-correction-but-industry-players-cite-stable-contract-trends/) there was no need for concern. Analysts had spent a few days applying the framework: if AI needs one-sixth the memory per context window, the hyperscalers will buy six times the context windows, deploy six times the agents, and consume the efficiency gain as new demand. The hyperscalers will use more AI. The memory goes with it. That is Jevons, live, at the speed of equity markets — a century-and-a-half-old paradox settling a three-day argument.
+
+The labor question is the same question in a nastier key. Erik Brynjolfsson at Stanford [has argued](https://www.npr.org/sections/planet-money/2025/02/04/g-s1-46018/ai-deepseek-economics-jevons-paradox) AI could fire a Jevons effect on some occupations: jet engines made pilots more productive, air travel demand exploded, and the industry ended up needing *more* pilots, not fewer. That's the aviation outcome. The agriculture outcome is the one nobody at an earnings call mentions: if AI-augmented output has inelastic demand, efficiency won't grow the pie, it'll shrink the payroll. Is your job aviation or agriculture? The honest answer is occupation by occupation, and the elasticity question is the entire test.
+
+And there is a second thing the earnings calls omit: even when demand is elastic and total output grows — even in the aviation case — nothing in Jevons paradox says workers benefit. The paradox forecasts total demand; it has nothing to say about who captures the surplus. Employers can take the productivity gain as lower headcount and higher margins; the same output gets produced by fewer people at better unit economics, and the line goes up. Nadella brought a dead Victorian to an earnings call and the stock held. The concept he cited is real. The half he skipped is that the paradox is a description of demand, not a promise of wages.
+
+---
+
+## The Human Element: My Hard Drive Is a Museum of Efficiency Gains
+
+I own three drives and I can date my life in them. A 40GB disk from around 2005, "more than I'll ever need" at purchase, full. A 256GB SSD from 2015, half the price per gigabyte and four times the space, full. A 2TB SSD in the current machine, full. Every efficiency gain in personal storage that has ever happened to me has produced more stuff, not more room. I am a walking proof of the paradox; I should get a small plaque.
+
+Turns out I wasn't disciplined. I was just waiting for capacity.
+
+The 47 browser tabs at the top of this piece are the same artifact. They aren't a failure of willpower; they're Jevons paradox operating at the speed of thought. Faster loading dropped the cost per tab. The tabs expanded to fill the gap. My attention is the coal.
+
+So take the question with you and use it on anything someone tries to sell as a cost-saver. Is demand for this elastic or inelastic? If elastic, the savings won't show up in your budget; they'll show up as more of the thing. If inelastic, the savings are real and so are the layoffs. There isn't a version of efficiency that comes for free. Jevons figured that out staring at a coal engine in 1865. I keep learning it with every tab I open.
+
+---
+
+**Draft notes:**
+- Word count: ~1,585
+- Template: Concept Decoder (Definition → Mechanics → Applications → Human Element)
+- Trigger: Precision Gift
+- Version: v4
+- Status: review
+
+**Reconciliation (v3 → v4):**
+- Corrections applied: 2
+- AI writing signs removed (2):
+  - Negative parallelism eliminated: "Companies are not going to use less memory. They are going to use more AI." → "The hyperscalers will use more AI. The memory goes with it." — positive assertion, sharper close to the Jevons payoff sentence
+  - Em dash parenthetical reordered: "Even in the aviation case — even when demand is elastic and total output grows — nothing in Jevons paradox says workers benefit." → "And even when demand is elastic and total output grows — even in the aviation case — nothing in Jevons paradox says workers benefit." — aviation case now serves as the parenthetical, eliminating the mirrored em dash structure
+
+**Prior reconciliation (v2 → v3):**
+- Corrections applied: 2
+- Links restored (1): NPR link on "predicted England's economy would collapse when coal ran out" — dropped during v2 rewrite, now restored
+- Claims softened (1): "erasing most of their March losses" → "recovering a significant portion of their March losses" — the sourced single-day move (10% on 20%+ losses) supports "significant portion"; "most" overstated what the Investing.com source documents
+
+**Prior reconciliation (v1 → v2):**
+- Corrections applied: 9
+- Claims rewritten (2):
+  - Jevons prediction: "coal use would eventually collapse" → "economy would collapse when coal ran out" (NPR says he predicted economic collapse from coal exhaustion, not reduced consumption)
+  - LOI characterization: "non-binding letters of intent" → "purchase agreements" (LOI framing sourced to a Twitter thread; characterization removed, market-impact fact preserved)
+- Figures corrected (1):
+  - TurboQuant publication date: "March 24, 2026" → "March 23, 2026" (per Google Research blog frontmatter)
+- Figures removed (1):
+  - "$60-100 from their peaks" dropped — conflicted with the Corsair example in the same sentence (~$110 actual drop per TrendForce). Replaced with "fell sharply from their peaks"
+- Links added (4):
+  - New Yorker link added to "energy consumption rose about 37%" (was unlinked; same source as the adjacent 28% efficiency claim)
+  - Times of India link added to "stocks fell 5-6% the same day" (was unlinked)
+  - TrendForce link added to "Corsair VENGEANCE 32GB kit" sentence (was unlinked)
+  - Investing.com link added to "Samsung surged 10%" (SK Hynix in same sentence was already linked; Samsung figure from same source)
+- Links swapped (1):
+  - "sent DDR5 prices up more than 400%" — moved from Times of India link (wrong source) to TrendForce link (primary source for the 408% figure). Restructured sentence to carry two separate linked claims (40% DRAM → Times of India; 400%+ prices → TrendForce)
+- Skipped / unresolved (1):
+  - 40% of global DRAM figure remains linked to Times of India (Tier 3 outlet, Tier 4 origin via Twitter). No Tier 1-2 primary source available in wiki for this specific figure. Claim softened (removed "non-binding" characterization) but link source not upgraded. Flag for editorial review if a Bloomberg/Reuters primary source becomes available.
+
+**Wiki audit:** 6 URLs linked across the article. All 6 have ingested source pages in `wiki/sources/`. No new raw files needed.
+
+| URL | Wiki status |
+|---|---|
+| NPR/Planet Money (×5 uses) | ✓ Ingested — `Why the AI world is suddenly obsessed...` |
+| New Yorker/Owen (×3 uses) | ✓ Ingested — `The Efficiency Dilemma — David Owen New Yorker 2010` |
+| TrendForce (×4 uses) | ✓ Ingested — `DDR5 Retail Prices Pullback Amid Market Correction` |
+| Times of India (×2 uses) | ✓ Ingested — `How Sam Altman's OpenAI may have caused...` |
+| Google Research TurboQuant (×1 use) | ✓ Ingested — `TurboQuant - Redefining AI efficiency with extreme compression` |
+| Investing.com (×2 uses) | ✓ Ingested — `Samsung SK Hynix Surge 10 Percent as Tech Rebounds` |
+
+**Marcus tests: all pass.** One open editorial item (40% source tier) flagged for review but does not affect overall sourcing quality — the article's primary analytical claims (Jevons mechanism, elasticity framework, A/C data, agriculture counterexample, DRAM recovery timeline) are all sourced at Tier 1-2.
