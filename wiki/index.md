@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-16
-total_pages: 844
-total_sources: 456
-total_entities: 178
-total_concepts: 116
+updated: 2026-04-17
+total_pages: 856
+total_sources: 463
+total_entities: 181
+total_concepts: 118
 total_syntheses: 13
 total_articles: 85
 ---
@@ -482,6 +482,19 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Newsweek — Liberal flips Conservative Wisconsin Supreme Court seat]] — Mandy Taheri, Newsweek, Apr 7 2026; Chris Taylor wins WI SC with 61%; majority expands to 5-2; differential-engagement pattern
 - [[The Hill — Clay Fuller wins Georgia special election]] — Caroline Vakil, The Hill, Apr 7 2026; Trump-endorsed Fuller wins GA-14 special; House GOP margin tightens to 218-214; Democratic overperformance pattern continues
 
+### Recent Ingests (2026-04-17) — Institutional Gaslighting Research Brief
+
+Seven sources ingested to fill cross-partisan and consumer-scale evidence gaps in the [[Institutional Gaslighting]] thesis. Correct prior wiki factual error on Epstein file count (12,285 documents → 3,965 files / 3 GB on the Dec 19 deadline; ~40,000 pages by early January; total universe ~6M pages, not 2M). Added the fourth structural component: [[Toothless Transparency Laws]] — legal instruments designed without enforcement mechanisms.
+
+- [[The Untouchables PBS Frontline Wall Street prosecutions transcript]] — PBS Frontline, Jan 22 2013; Obama DOJ Wall Street non-prosecution record; Breuer's "greed isn't criminal" quote; "no subpoenas, no document reviews, no wiretaps"
+- [[Eric Holder Too Big to Jail Senate Judiciary testimony transcript]] — American Banker, Mar 6 2013; Holder's direct on-record testimony that institution size makes prosecution difficult; Grassley-Holder exchange on HSBC
+- [[The lost year Merrick Garland DOJ Trump January 6 prosecution CNN]] — Evan Perez, Hannah Rabinowitz, CNN, Jan 6 2025; definitive Biden DOJ timeline reconstruction; "lost year" thesis; 2.5-year delay to indictment
+- [[Biden DOJ slow-walked Trump legal probes MSNBC Yahoo]] — MSNBC, Jan 6 2025; cross-partisan companion reporting; Gallego critique; fall 2022 freeze
+- [[Pennsylvania Grand Jury Catholic Church sexual abuse investigation]] — Wikipedia, Aug 14 2018; 301 predators / 1,000+ victims / 2 prosecutions; two-thirds of accused priests dead; 50-year cover-up pattern
+- [[Claims Denials and Appeals ACA Marketplace Plans 2024 KFF]] — Kaiser Family Foundation, Jan 30 2025; 19% in-network denial rate; <1% appeal rate; 34% overturn rate; mathematical proof of exhaustion-as-strategy
+- [[Epstein Files Transparency Act Wikipedia]] — Wikipedia; H.R. 4405; House 427–1; no penalty provision for noncompliance; corrected file counts
+- [[More than a million Epstein documents discovered release delayed Al Jazeera]] — Al Jazeera, Dec 24 2025; primary source for Massie's "DOJ did break the law" quote; 12-senator IG letter
+
 ### Recent Ingests (2026-04-11)
 
 #### AI DRAM Crisis Cluster (2026-04-12 additions)
@@ -558,6 +571,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Paul Volcker]] — Fed Chair 1979–1987; defeated Great Inflation through brutal rate hikes; archetype of central bank independence under political pressure
 - [[William McChesney Martin]] — Fed Chair 1951–1970; longest-serving in history; defied LBJ's Johnson Ranch pressure; the actual benchmark for Fed independence
 - [[Kevin Warsh]] — Former Fed Governor; potential Trump replacement for Powell; more rate-cut-friendly; market-friendly profile
+- [[Merrick Garland]] — AG 2021–2025 under Biden; subject of CNN's "lost year" retrospective; froze Trump investigations before 2022 midterms; 2.5-year delay to Jan 6 indictment; cross-partisan anchor for institutional-gaslighting thesis
+- [[Eric Holder]] — AG 2009–2015 under Obama; March 2013 Senate Judiciary testimony articulating "too big to jail" reasoning; zero senior Wall Street prosecutions during tenure; foundational cross-partisan anchor for institutional gaslighting
+- [[Thomas Massie]] — Rep. R-KY; chief Republican sponsor of the Epstein Files Transparency Act; publicly stated "DOJ did break the law by making illegal redactions and by missing the deadline"; cross-partisan smoking gun for Epstein non-release
 - [[Marjorie Taylor Greene]] — Former R-GA rep; resigned; broke publicly with Trump over Iran war rhetoric and political violence response
 - [[Dario Amodei]] — Anthropic CEO; target of UK government recruitment effort; refused DoD military AI demands
 - [[Mehmet Oz]] — CMS Administrator; leading hospice fraud crackdown targeting California while federal oversight was defunded
@@ -743,7 +759,9 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Chokepoint Control]] — How geographic/infrastructure bottlenecks confer coercive power; Strait as paradigm case
 - [[Infrastructure Warfare]] — Targeting physical infrastructure as primary instrument of conflict or coercion
 - [[Oil Seizure as Coercion]] — Trump's threat to "take" Iranian oil; physical commodity as coercive weapon
-- [[Institutional Gaslighting]] — Flooding narrative zones with competing claims; evidence control preventing accountability
+- [[Institutional Gaslighting]] — Flooding narrative zones with competing claims; evidence control preventing accountability; four structural components: custody + substitution + exhaustion + toothless legal instruments
+- [[Toothless Transparency Laws]] — Fourth structural component of institutional gaslighting: statutes mandating disclosure that omit enforcement mechanisms; Epstein Files Transparency Act as paradigmatic case
+- [[Too Big to Jail]] — Obama DOJ doctrine articulated by Holder in March 2013 Senate testimony; financial-sector instance of institutional gaslighting; zero senior Wall Street prosecutions for 2008 crisis conduct
 - [[Leverage Erasure Through Automation]] — Automation eliminates bargaining power before eliminating jobs
 - [[Retroactive Executive Protection]] — Pattern of Trump erasing consequences for allies through pardons, conviction vacation, prosecution abandonment
 - [[Regulatory Weaponization]] — Using agency designations and enforcement as political punishment tools

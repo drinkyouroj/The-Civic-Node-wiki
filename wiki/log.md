@@ -5,6 +5,32 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-17] ingest | 7 sources — Institutional Gaslighting cross-partisan research brief
+
+Seven sources ingested to fill source gaps for the Institutional Gaslighting Concept Decoder piece (outline v2 at `/Users/justin/Documents/substack-research/Substack Research/workspace/outlines/institutional-gaslighting-concept-decoder-v2.md`). Investigative research round verified existing wiki claims, corrected one factual error, and surfaced a fourth structural component of the institutional-gaslighting architecture.
+
+**Sources ingested:**
+
+1. **[[The Untouchables PBS Frontline Wall Street prosecutions transcript]]** (PBS Frontline, Jan 22 2013) — Breuer's on-camera "greed isn't criminal" quote; two former DOJ Criminal Division prosecutors confirming "no subpoenas, no document reviews, no wiretaps" of senior Wall Street executives; Spitzer's "The Justice Department failed."
+2. **[[Eric Holder Too Big to Jail Senate Judiciary testimony transcript]]** (American Banker, Mar 6 2013) — Holder's direct testimony that the size of financial institutions makes prosecution difficult because of potential macroeconomic consequences; Grassley's framing of a "too-big-to-jail mentality" spreading across fraud, terrorist financing, and money laundering cases.
+3. **[[The lost year Merrick Garland DOJ Trump January 6 prosecution CNN]]** (Evan Perez, Hannah Rabinowitz, CNN, Jan 6 2025) — definitive retrospective on Biden DOJ timeline; 2.5-year delay between Jan 6 and August 2023 indictment; fall 2022 freeze before midterms; fifty-year statute of limitations expires during Trump's second term.
+4. **[[Biden DOJ slow-walked Trump legal probes MSNBC Yahoo]]** (MSNBC, Jan 6 2025) — companion reporting to CNN "Lost Year"; cross-partisan validation that non-accountability is structural.
+5. **[[Pennsylvania Grand Jury Catholic Church sexual abuse investigation]]** (Wikipedia; August 2018 report) — 301 predator priests across six dioceses; 1,000+ victims; **only 2 criminally charged**; approximately two-thirds of the accused priests had died before the grand jury completed its work; 50-year cover-up pattern.
+6. **[[Claims Denials and Appeals ACA Marketplace Plans 2024 KFF]]** (Kaiser Family Foundation, Jan 30 2025) — 19% in-network denial rate; 8.8M denials across reporting insurers; **<1% appeal rate**; 34% overturn rate when appealed; mathematical proof that the denial machine runs on non-participation rather than substantive merit.
+7. **[[Epstein Files Transparency Act Wikipedia]]** + **[[More than a million Epstein documents discovered release delayed Al Jazeera]]** — primary sources for Rep. [[Thomas Massie]]'s public statement that "DOJ did break the law by making illegal redactions and by missing the deadline"; 12-senator IG audit letter; confirmation that the Act contains no penalty provision for noncompliance.
+
+**Factual correction applied:** The [[Institutional Gaslighting]] concept page previously stated DOJ released "12,285 documents" on the Dec 19 deadline. Per CBS News reporting via the Epstein Files Transparency Act Wikipedia entry, the actual figure is approximately **3,965 files / 3 GB of data** on the deadline day, with approximately 40,000 pages released in total by early January 2026. Total file universe corrected from "2 million" to "5.2–6 million potentially responsive pages" (NYT / Rep. Khanna estimates). Projected full-release timeline revised from "8 years" to "more than a decade" based on current release pace vs. responsive universe.
+
+**Fourth structural component added:** The Epstein Files Transparency Act's lack of a penalty provision — a law near-unanimously passed (House 427–1), signed by the President, and violated with no consequence — is the paradigmatic case for a new concept: [[Toothless Transparency Laws]]. This is the fourth structural component of [[Institutional Gaslighting]] alongside evidence custody, procedural substitution, and exhaustion as exit condition. The architecture is complete when the legal instrument designed to produce accountability is itself unenforceable.
+
+**New entity pages:** [[Merrick Garland]], [[Eric Holder]], [[Thomas Massie]].
+**New concept pages:** [[Toothless Transparency Laws]], [[Too Big to Jail]].
+**Updated:** [[Institutional Gaslighting]] concept (sources 16→23; added fourth structural component; corrected Epstein file count; added cross-partisan anchors for Obama DOJ / Biden DOJ / Catholic Church / KFF consumer-scale case).
+
+Index updated: 463 sources, 181 entities, 118 concepts, 856 total pages.
+
+---
+
 ## [2026-04-16] ingest | David Owen "The Efficiency Dilemma" — primary Jevons paradox source
 
 New Yorker (Dec 20, 2010): The definitive popular treatment of Jevons paradox. Owen traces the concept from 1865 coal through refrigeration, air conditioning, lighting (Nordhaus cost history: Babylonian 41hrs → fluorescent <0.5sec), and the Model T. Key data: A/C efficiency improved 28% (1993-2005) but per-household A/C energy consumption rose 37%. US now uses as much electricity to cool buildings as it did for all purposes in 1955. Strongest editorial insight: "Improving efficiency is easy to endorse: we've been doing it, globally, for centuries. It's how we created the problems we're now trying to solve." — directly applicable to tech CEO Jevons citations. Fills the last source gap in the Concept Decoder outline. Updated [[Jevons Paradox]] (7→8) with refrigeration detail, A/C data, and lighting history. Index updated: 456 sources.
