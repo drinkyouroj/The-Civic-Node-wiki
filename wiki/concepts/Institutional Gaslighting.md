@@ -4,7 +4,7 @@ type: concept
 tags: [power, politics, truth-control, federal-immunity, accountability]
 created: 2026-04-06
 updated: 2026-04-17
-sources: 25
+sources: 28
 ---
 
 ## Definition
@@ -142,6 +142,8 @@ The grand jury explicitly stated the outcome — 2 prosecutions from 301 identif
 - [[The Pastor Runs the Gestapo]] — Minneapolis case details
 - [[ICE Agent Cellphone Captures Fatal Confrontation in Minneapolis CNN]] — video evidence vs. Trump admin narrative
 - [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — FBI evidence reversal
+- [[Minnesota officials cant access evidence after fatal ICE shooting PBS NewsHour]] — primary source for Jacobson "extremely difficult, if not impossible" quote
+- [[Derek Chauvin federal civil rights indictment parallel investigation PBS FRONTLINE]] — George Floyd contrast: federal and state investigators ran parallel tracks in the same city
 - [[Trump Says Hes Freezing Minnesota Out of ICE Shooting Probe Because Walz Is a Stupid Person]] — jurisdiction delegitimization
 - [[Woman Fatally Shot by ICE Officer Remembered as One of the Kindest People]] — family testimony vs. "domestic terrorist" label
 - [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — real-time narrative construction
@@ -152,6 +154,7 @@ The grand jury explicitly stated the outcome — 2 prosecutions from 301 identif
 - [[More than a million Epstein documents discovered release delayed Al Jazeera]] — primary source for Massie's "DOJ did break the law" quote
 - [[With few Epstein files released, conspiracy theories flourish]] — forgeries, poisoned information environment
 - [[For Trump, the Epstein Cover-Up Beats the Truth]] — Bondi Day 1 letter timeline
+- [[Epstein Files Ro Khanna Questions Documents Withheld Newsweek]] — primary source for 6M/3.5M figures and Khanna/Blanche attribution
 
 **Cross-partisan / structural anchors (new April 17, 2026):**
 - [[The Untouchables PBS Frontline Wall Street prosecutions transcript]] — Obama DOJ operational record; Breuer quote

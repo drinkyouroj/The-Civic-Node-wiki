@@ -5,6 +5,20 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-17] ingest | Three thin-sourcing fact-check gaps closed (PBS NewsHour, Newsweek, PBS FRONTLINE)
+
+Three sources ingested to close thin-sourcing gaps surfaced by the fact-check pass on "the-system-is-functioning-correctly-v1" draft:
+
+1. **[[Minnesota officials cant access evidence after fatal ICE shooting PBS NewsHour]]** (AP/PBS NewsHour, Jan 8 2026) — primary source for Bob Jacobson's verbatim "extremely difficult, if not impossible, without cooperation from the federal government" quote. Jacobson identified as Minnesota Public Safety Commissioner. Earlier wiki had quote substance but no outlet-specific citation.
+
+2. **[[Epstein Files Ro Khanna Questions Documents Withheld Newsweek]]** (Newsweek, Jan 30 2026) — primary source for the 6M / 3.5M Epstein document figures with specific attribution: Khanna as source of the framing, Deputy AG Todd Blanche acknowledging the 6M number at press conference and characterizing it as DOJ "overcollection."
+
+3. **[[Derek Chauvin federal civil rights indictment parallel investigation PBS FRONTLINE]]** (Star Tribune / PBS FRONTLINE, May 7 2021) — primary source for the George Floyd parallel-tracks contrast: "The Justice Department investigation has run parallel to the state's cases." Confirms federal/state investigators coordinated in the same city five years before the 2026 ICE shooting evidence block.
+
+All three sources added to [[Institutional Gaslighting]] concept page key-sources list (sources: 25 → 28). Index totals updated (pages 859 → 862, sources 465 → 468). Draft "the-system-is-functioning-correctly-v1" now has no remaining thin-sourcing issues for fact-check purposes.
+
+---
+
 ## [2026-04-17] ingest | What We Know About the Fatal ICE Shooting in Minneapolis (NYT) + outline v3
 
 NYT January 7, 2026 explainer ingested as primary source for two previously unverifiable claims in the Institutional Gaslighting Concept Decoder outline:
