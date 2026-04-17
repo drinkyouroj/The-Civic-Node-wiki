@@ -1306,3 +1306,18 @@ Completed full ingestion of all 13 raw stubs created during v11 fact-check audit
 **Updated index.md:** 15 new source entries, 3 new entity entries, 1 new concept entry, 1 new article entry; stats 819→839 pages, 435→450 sources, 174→177 entities, 115→116 concepts, 82→83 articles
 
 Total pages after ingest: ~839. Total sources: 450.
+
+## [2026-04-17] synthesis | Institutional Gaslighting — Research Brief for Substack Draft
+
+Rebuilt source base for the pending Institutional Gaslighting essay after prior research was lost. Ran three parallel research agents (Minneapolis / Epstein / Trump investigations) plus a theoretical-grounding agent. WebSearch was blocked; agents pivoted to mine ingested wiki material. Output filed at [[Institutional Gaslighting — Research Brief for Substack Draft]].
+
+**Headline additions to the parent synthesis:**
+- Legal doctrine now named: **Touhy** (28 C.F.R. § 16.21) as the specific mechanism FBI used to block MN BCA; **Reynolds** (1953) as the origin-lie historical anchor; **Richman 2009** on DOJ slow-walk capacity
+- Theoretical scaffolding: Paige Sweet 2019 (structural gaslighting as live scholarly frame), Arendt 1978 NYRB interview (correctly attributed — commonly misattributed to Origins), Frankfurt *On Bullshit*, Pomerantsev, Rauch (*"exhaustion… is the goal"*), Gessen, Snyder
+- Jack Smith "coming months and years" quote corrected: from Dec 17 2025 deposition (transcript p. 237), not a post-resignation interview. Fuller sentence is stronger.
+- Minneapolis has four stacked evidence-seizure layers, not three: at-the-scene physician block → next-day forensic block → civil rights review refusal → multi-case lawsuit (MN v. DOJ/DHS, Mar 24)
+- Don Lemon arrest is the cleanest "investigation as perception instrument" case: two federal judges rejected the warrants; DOJ grand-juried anyway
+
+**Critical gap flagged:** wiki source stub `Renee Good family reacts to ICE shooter verdict` (created 2026-04-07, published 2026-04-01) references a verdict but the raw file was never clipped. Writer must verify via live web before drafting — potential lede.
+
+**Other high-priority gaps:** Bondi Day-1 letter (Epstein); names of four CRT Criminal Section resignees (CBS Lynch Jan 13); updated Epstein release metrics; scholarly-voice pull from Just Security/Lawfare/Vance for Pillar 3.

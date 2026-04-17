@@ -993,6 +993,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ### Insight Sweeps
 - [[Insight Sweep — 2026-04-08]] — Master briefing; 3-agent sweep; 7 patterns, 8 contradictions, 7 underexplored angles; top 5 hooks filed
 - [[Institutional Gaslighting as Operational Pattern]] — Federal evidence custody as accountability-destruction mechanism; Minneapolis, Epstein, Trump investigations; ready to draft
+- [[Institutional Gaslighting — Research Brief for Substack Draft]] — Writer's brief: Touhy/Reynolds/Richman legal spine; Arendt/Sweet/Rauch theoretical scaffolding; quote bank for all three pillars; gap list
 - [[Fed Independence Under Endogenous Supply Shock]] — Burns comparison is wrong; Martin is right; tariff-driven endogenous inflation as unprecedented leverage; ready to draft
 - [[Operation Metro Surge as Institutional Breakdown]] — $200M cost, 3,789 arrests, 2 deaths, 96 court order violations, FBI evidence seizure; enforcement theater; ready to draft
 - [[Chokepoint Control as Power's Architecture]] — Strait of Hormuz, GENIUS Act reserves, DEA quotas, App Store, Fed rate-setting as the same mechanism; DePIN as structural response
