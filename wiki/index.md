@@ -2,10 +2,10 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-17
-total_pages: 862
-total_sources: 468
-total_entities: 182
-total_concepts: 118
+total_pages: 874
+total_sources: 471
+total_entities: 187
+total_concepts: 120
 total_syntheses: 13
 total_articles: 85
 ---
@@ -497,6 +497,25 @@ Seven sources ingested to fill cross-partisan and consumer-scale evidence gaps i
 - [[More than a million Epstein documents discovered release delayed Al Jazeera]] — Al Jazeera, Dec 24 2025; primary source for Massie's "DOJ did break the law" quote; 12-senator IG letter
 - [[How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them]] — ProPublica, Mar 25 2023; primary source for PxDx mechanism; 300K denials at 1.2 seconds each; "we literally click and submit"; legal exposure angle
 - [[What We Know About the Fatal ICE Shooting in Minneapolis]] — NYT, Jan 7 2026; primary source for Trump Truth Social quote; NYT video analysis contradicts admin account; Good's final words confirmed
+
+### Recent Ingests (2026-04-17) — Doe v. Bonnell / Destiny catfish lawsuit
+
+Primary sworn evidence ingested for "You Can't Sue the Catfish" — the first piece in the [[Reachability Routing]] series. Core finding: the Rose the lawsuit treats as a direct participant in Destiny's messages never existed. Under oath, the real teenager whose identity was stolen confirms she never messaged Destiny, never controlled the Discord account, and never consented to the leak. Defendant's own counsel on cross: "Defendant Bonnell was catfished by your boyfriend; correct?" "Yes."
+
+- [[Doe v Bonnell complaint (ECF 1)]] — operative complaint filed Feb 18, 2025; four counts (federal NCII, FL cyberharassment, IIED, public disclosure); contains the Nov 29, 2024 "fairly close to me" written admission, the "young girl" pre-announcement allegation, pattern evidence with 15+ women, and alleged evidence destruction
+- [[Doe v Bonnell continuance motion (ECF 227)]] — plaintiff's April 8, 2026 motion to continue trial; Bonnell not yet deposed; letter-rogatory foreign deposition pending (Solo in UK); spoliation investigation ongoing; hearing April 21, 2026
+- [[Rose deposition — Doe v Bonnell]] — ECF 204-1 filed Jan 7, 2026; 91 pp. deposition of Oct 23, 2025; sworn testimony by the real "Rose" (pseudonym AH) dissolving the factual predicate of the complaint *as to her* — not as to Bonnell's conduct generally
+
+New entities:
+- [[Doe v. Bonnell (1-25-cv-20757)]] — Federal case, S.D. Fla., Judge Becerra; trial May 18, 2026 pending continuance; April 21 continuance hearing
+- [[Steven K. Bonnell II]] — Defendant (streamer "Destiny"); Miami Beach; organized Discord group that doxxed Rose after the leak
+- [[Jane Doe (Pxie)]] — Plaintiff; content creator; September 2020 encounter; >$1M damages sought
+- [[Solo (Ben Conway)]] — Anonymous UK-based catfisher; real identity unverified; jurisdictionally unreachable; proximate cause but not a party
+- [[Rose (AH)]] — Illinois teenager whose identity was stolen; deposed; doxxed; not a party
+
+New concepts:
+- [[Reachability Routing]] — civil litigation defaults to the reachable defendant when proximate cause is anonymous, foreign, or judgment-proof
+- [[Catfishing as Legal Gap]] — intimate-image statutes presuppose direct sharer→subject relationship; collapse under third-party impersonation
 
 ### Recent Ingests (2026-04-11)
 

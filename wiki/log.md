@@ -5,6 +5,38 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-17] ingest | Doe v. Bonnell deposition + Destiny catfish case foundation
+
+Primary evidence and entity ingest for the first piece in the [[Reachability Routing]] series, "You Can't Sue the Catfish." Opened `article/destiny-catfish` branch.
+
+**Source page (1):**
+- [[Rose deposition — Doe v Bonnell]] — ECF 204-1, 91 pp., sworn deposition of the real teenage "Rose" (pseudonym AH) whose identity was stolen to catfish Destiny. Core finding: under oath, on both direct and defense cross, she confirms she never messaged or called Destiny, never controlled the Rose Discord account, and never consented to the November 2024 leak. Defense counsel (Destiny's lawyer) elicits: "Defendant Bonnell was catfished by your boyfriend; correct?" "Yes." PDF extracted via poppler's pdftotext. Protective-order redactions present but do not obscure substance.
+
+**New entities (5):**
+- [[Doe v. Bonnell (1-25-cv-20757)]] — S.D. Fla., Judge Becerra; filed Feb 18, 2025; trial set May 18, 2026 with continuance hearing April 21, 2026; full docket reconstructed from PacerMonitor
+- [[Steven K. Bonnell II]] — streamer "Destiny"; Miami Beach; doxxed the real Rose after the leak; represented by Berk Brettler LLP + Bilzin Sumberg
+- [[Jane Doe (Pxie)]] — plaintiff; identified herself publicly on own channels; pleads ~15-woman pattern; represented by JSP Law + SMGQ
+- [[Solo (Ben Conway)]] — anonymous UK catfisher; multiple aliases; threatened to kill Rose's family; jurisdictionally unreachable; the proximate cause not in the case
+- [[Rose (AH)]] — Illinois teenager whose identity was used; never communicated with Destiny; doxxed by him after the leak; never contacted by law enforcement
+
+**New concepts (2):**
+- [[Reachability Routing]] — civil systems default to the reachable defendant when proximate cause is unreachable; the core concept for this article series
+- [[Catfishing as Legal Gap]] — NCII statutes break structurally under third-party impersonation
+
+Reporting triangulated via WFLA/Yahoo, National World, Dexerto, Destiny Wiki, rDrama, PacerMonitor (most publisher sites 403'd on direct WebFetch; sufficient summary captured).
+
+**Supplemental ingest (same day):** Complaint and continuance motion pulled from CourtListener RECAP archive via curl (WebFetch 403'd the docket page; RECAP PDFs were directly accessible). Extracted:
+- [[Doe v Bonnell complaint (ECF 1)]] — Feb 18, 2025, 13 pp. **Materially changes the article's moral geometry.** Contains Bonnell's contemporaneous Nov 29, 2024 written admission ("I'd had phone convos and stuff with this person they were fairly close to me"), the "young girl" pre-announcement allegation (he told "Rose" in advance he'd send her a video of a young woman), pattern evidence (15+ women), alleged evidence destruction (began Jan 21, 2025, one day after plaintiff's public announcement), and Hannah Brooke's allegation that Bonnell offered her the Videos *after* the leak was public. The case is not a "Destiny got framed" case; it is a reachability-routing case in which the reachable defendant also appears actually liable under the statute.
+- [[Doe v Bonnell continuance motion (ECF 227)]] — April 8, 2026, 7 pp. Reveals Bonnell has not been deposed (stayed Nov 5, 2025 ECF 167); plaintiff's SJ opposition and Rule 56(d) motion pending; spoliation investigation ongoing; Bonnell's SJ motion (ECF 210) pending; **letter rogatory foreign deposition pending (implicitly Solo in UK)**. This last detail refines the [[Reachability Routing]] concept: reachability is a gradient, not a binary. Civil process *can* reach foreign witnesses; it's just slow enough that the reachable defendant absorbs the practical weight anyway.
+
+Updated: [[Steven K. Bonnell II]] entity expanded with the admission quote, the "young girl" detail, pattern allegations, and the non-deposed status. [[Reachability Routing]] concept refined with the reachability-as-gradient framing and the "reachable defendant may actually be liable" counter-tension.
+
+Still pending: KiwiFarms Nov 29, 2024 thread metadata — user is looking at KF posts but needs specific guidance on what to capture (thread header/timestamps/OP text only; not imagery). Specific capture targets: (1) original SoloTinyLeaks drop thread title + OP timestamp + view/post count as of early Dec 2024 and as of now; (2) Solo's December 2024 post claiming Rose "gave me the account" (fabricated-consent post contradicted by Rose's sworn deposition — critical for the article's "manufactured consent" beat); (3) timeline markers for spread velocity in the first 24-48 hours.
+
+Outline for "You Can't Sue the Catfish" complete (Template 2 System Audit, Named Hypocrisy trigger, ~1500 words); Section 4 ("Personal Code") drafted using Memory Ledger #28 LED-delusion material with user sign-off on framing ("A few years ago, in a depression full of psychotic features..."). Article will require moral recalibration after the complaint ingest: Destiny is not the victim of the system; he is the reachable-and-likely-liable party. The structural argument (the system routes to reachability even when the actual mechanism of public harm is unreachable) survives and sharpens. Headline and draft passes pending user review of the reframe.
+
+---
+
 ## [2026-04-17] ingest | Three thin-sourcing fact-check gaps closed (PBS NewsHour, Newsweek, PBS FRONTLINE)
 
 Three sources ingested to close thin-sourcing gaps surfaced by the fact-check pass on "the-system-is-functioning-correctly-v1" draft:
