@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-17
-total_pages: 858
-total_sources: 464
+total_pages: 859
+total_sources: 465
 total_entities: 182
 total_concepts: 118
 total_syntheses: 13
@@ -495,6 +495,7 @@ Seven sources ingested to fill cross-partisan and consumer-scale evidence gaps i
 - [[Epstein Files Transparency Act Wikipedia]] — Wikipedia; H.R. 4405; House 427–1; no penalty provision for noncompliance; corrected file counts
 - [[More than a million Epstein documents discovered release delayed Al Jazeera]] — Al Jazeera, Dec 24 2025; primary source for Massie's "DOJ did break the law" quote; 12-senator IG letter
 - [[How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them]] — ProPublica, Mar 25 2023; primary source for PxDx mechanism; 300K denials at 1.2 seconds each; "we literally click and submit"; legal exposure angle
+- [[What We Know About the Fatal ICE Shooting in Minneapolis]] — NYT, Jan 7 2026; primary source for Trump Truth Social quote; NYT video analysis contradicts admin account; Good's final words confirmed
 
 ### Recent Ingests (2026-04-11)
 

@@ -4,7 +4,7 @@ type: concept
 tags: [power, politics, truth-control, federal-immunity, accountability]
 created: 2026-04-06
 updated: 2026-04-17
-sources: 24
+sources: 25
 ---
 
 ## Definition
@@ -43,7 +43,7 @@ Research conducted April 2026 identified a **fourth structural component** along
 - Good shifting gears to drive away (not attacking)
 - Four separate camera angles confirming same sequence
 
-**The Gaslighting**: Trump claims in Oval Office that Good "violently, willfully, and viciously ran over the ICE Officer."
+**The Gaslighting**: Trump [claimed on Truth Social](https://truthsocial.com/@realDonaldTrump/posts/115855701696773990) that Good "violently, willfully, and viciously ran over the ICE Officer." NYT video analysis of multiple videos directly contradicts this account.
 
 **The Evidence Control**: FBI initially partnered with Minnesota BCA on investigation. Then "reversed course." State investigators blocked from accessing vehicle, forensics, witness interviews, crime scene materials.
 

@@ -5,6 +5,25 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-17] ingest | What We Know About the Fatal ICE Shooting in Minneapolis (NYT) + outline v3
+
+NYT January 7, 2026 explainer ingested as primary source for two previously unverifiable claims in the Institutional Gaslighting Concept Decoder outline:
+1. **Trump's exact quote** ("violently, willfully, and viciously ran over") confirmed via Truth Social post linked in NYT; venue corrected from "Oval Office" to "Truth Social post" in [[Institutional Gaslighting]] concept page.
+2. **Video analysis language**: NYT describes "multiple videos" analyzed — confirmed "multiple camera angles" phrasing; no specific count stated.
+
+Fact-reconcile pass on v2 outline produced **v3** at `/Users/justin/Documents/substack-research/Substack Research/workspace/outlines/institutional-gaslighting-concept-decoder-v3.md`. All six fact-check issues from the prior pass are resolved:
+- Bondi first-day date: Feb 27 → **Feb 5, 2025** (Gibson Dunn)
+- House vote date: Nov 19 → **House Nov 18 / Senate + signing Nov 19**
+- Trump quote: unverifiable → **verified NYT/Truth Social**
+- Trump venue: "Oval Office" → **"Truth Social post"**
+- "Four camera angles" → **"multiple camera angles"**
+- George Floyd framing: overstated → reframed as specific contrast
+
+New pages: [[What We Know About the Fatal ICE Shooting in Minneapolis]] (source).
+Updated: [[Institutional Gaslighting]] concept (sources 24→25; Trump venue corrected), index (465 sources, 859 total pages).
+
+---
+
 ## [2026-04-17] ingest | How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them
 
 ProPublica / Capitol Forum investigative report (Mar 25 2023; Patrick Rucker, Maya Miller, David Armstrong) ingested as the primary source for the PxDx 1.2-seconds / 300,000-claims figures used in the Institutional Gaslighting Concept Decoder draft. The report documents the mechanism behind Cigna's algorithmic mass-denial system and establishes potential legal exposure (state insurance laws requiring physician review before medical denial). Previously this data point floated on KFF's passing reference to "related reporting"; this ingest anchors it to a named, document-based ProPublica investigation.
