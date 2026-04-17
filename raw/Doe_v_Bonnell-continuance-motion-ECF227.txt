@@ -1,0 +1,316 @@
+Case 1:25-cv-20757-JB Document 227 Entered on FLSD Docket 04/08/2026 Page 1 of 7
+
+
+
+                                UNITED STATES DISTRICT COURT
+                                SOUTHERN DISTRICT OF FLORIDA
+
+                                          MIAMI DIVISION
+
+ JANE DOE,                                                  CASE NO: 1:25-cv-20757-JB/Torres
+
+              Plaintiff,
+    v.
+
+ STEVEN K. BONNELL II,
+
+           Defendant.
+ ______________________________/
+
+    PLAINTIFF JANE DOE’S VERIFIED MOTION FOR CONTINUANCE OF TRIAL
+
+         Plaintiff Jane Doe (“Plaintiff”), by and through undersigned counsel, pursuant to Federal
+
+ Rule of Civil Procedure 16(b)(4) and this Court’s inherent authority to manage its docket,
+
+ respectfully moves to continue the trial currently set to commence during the two-week period
+
+ beginning May 18, 2026, and states as follows:
+
+         I.       PRELIMINARY STATEMENT
+
+         This case is not trial-ready, and proceeding to trial under the current posture would be
+
+ fundamentally unfair. Trial is set to begin on May 18, 2026, yet core discovery—most notably,
+
+ Defendant’s deposition—has not occurred. Significantly, the Court has not yet ruled on several
+
+ pending motions that directly govern whether and how that discovery may proceed, including: (i)
+
+ Defendant’s motion for protective order concerning deposition scheduling [ECF 163]; (ii)
+
+ Plaintiff’s motion to modify the Scheduling Order [ECF 184]; and (iii) Plaintiff’s Rule 56(d)
+
+ motion seeking discovery necessary to respond to Defendant’s summary judgment motion [ECF
+
+ 216].
+
+         Under Eleventh Circuit precedent, courts consider the moving party’s diligence, the
+
+ prejudice that would result from denial, and whether a continuance would cure the need for
+Case 1:25-cv-20757-JB Document 227 Entered on FLSD Docket 04/08/2026 Page 2 of 7
+
+
+
+ additional time. Each factor strongly favors relief. Plaintiff diligently pursued discovery, but was
+
+ constrained by the timing of the Protective Order, a Court-ordered stay of Defendant’s deposition,
+
+ ongoing discovery disputes, and the pendency of motions central to the completion of discovery.
+
+ As a result, the case cannot be fairly tried in its current posture. Moreover, the Defendant’s
+
+ summary judgment motion remains pending. [ECF 210]. Trial is imminent, yet it remains
+
+ unresolved whether Plaintiff may complete the discovery necessary to present her claims and
+
+ challenge Defendant’s evidence. Under these circumstances, good cause—and indeed
+
+ fundamental fairness—require a continuance of the trial and a revised Scheduling Order.
+
+        II.     RELEVANT FACTS
+
+        The Court’s Scheduling Order set a trial date during the two-week period beginning May
+
+ 18, 2026 [ECF 23]. As fully set forth in Plaintiff’s Motion to Modify the Scheduling Order [ECF
+
+ 184, 184-1, 200, 200-1], the operative discovery period was significantly constrained. Discovery
+
+ did not meaningfully begin until entry of the Protective Order on September 2, 2025, leaving only
+
+ a three-and-a-half month window. [ECF 116]. On November 5, 2025, the Court stayed Defendant’s
+
+ deposition pending resolution of his motion for protective order. [ECF 167]. As a result, the
+
+ discovery period was further shortened and Plaintiff had only two months to conduct written
+
+ discovery and party depositions. [See ECF 184].
+
+        Despite Plaintiff’s diligence – as detailed in her Rule 56 (d) filings [ECF 216, 216-1, 216-
+
+ 2, 220], and incorporated herein – critical discovery remains incomplete: i) Defendant has not
+
+ been deposed; ii) discovery disputes regarding Defendant’s deficient productions remain
+
+ unresolved; iii) a foreign deposition (via letter rogatory) remains pending; and iv) issues
+
+ concerning potential spoliation require further investigation and motion practice.
+
+        III.    LEGAL STANDARD
+Case 1:25-cv-20757-JB Document 227 Entered on FLSD Docket 04/08/2026 Page 3 of 7
+
+
+
+          Under Federal Rule of Civil Procedure 16(b)(4), a scheduling order may be modified for
+
+ “good cause,” which exists where the schedule cannot be met despite the movant’s diligence. Sosa
+
+ v. Airprint Sys., Inc., 133 F.3d 1417, 1418 (11th Cir. 1998).
+
+          In evaluating a motion to continue trial, courts in the Eleventh Circuit consider: (1) the
+
+ moving party’s diligence; (2) whether a continuance would remedy the need for additional time;
+
+ (3) inconvenience to the Court and opposing party; and (4) prejudice from denial. Romero v.
+
+ Drummond Co., 552 F.3d 1303, 1320 (11th Cir. 2008). See also High Soc’y Exotics, LLC v.
+
+ Bellsouth Telecomms., LLC, No. 1:24-cv-22768-KMM, 2025 U.S. Dist. LEXIS 266891, at *6
+
+ (S.D. Fla. Sep. 8, 2025).
+
+          Local Rule 7.6 further requires a showing of “good cause supported by a full factual
+
+ record.” S.D. Fla. L.R. 7.6. The decision whether to grant a continuance is within the sound
+
+ discretion of the trial court. See Arabian Am. Oil Co. v. Scarfone, 939 F.2d 1472, 1479 (11th Cir.
+
+ 1991).
+
+          IV.    ARGUMENT
+
+          A.     Good Cause Exists Because A Core Party Deposition—Central to the Case—
+                 Has Not Occurred
+
+          This case cannot proceed to trial where the central witness—Defendant—has not been
+
+ deposed. His testimony goes to the core of every claim and defense, including his alleged
+
+ disclosure of the Video and the authenticity of his evidence. This is not due to inaction.
+
+ Defendant’s deposition was stayed by Court order pending resolution of his motion for protective
+
+ order. As a result, Plaintiff has been deprived of any meaningful opportunity to examine Defendant
+
+ under oath.
+
+          Courts routinely recognize that that a case should not proceed on an incomplete record
+
+ where a party has been unable to depose a key witness. See, e.g., Snook v. Tr. Co. of Ga. Bank of
+Case 1:25-cv-20757-JB Document 227 Entered on FLSD Docket 04/08/2026 Page 4 of 7
+
+
+
+ Savannah, 859 F.2d 865, 870–71 (11th Cir. 1988); Jones v. City of Columbus, 120 F.3d 248, 253–
+
+ 54 (11th Cir. 1997); Clairmont v. Sun Terminals, Inc., No. 06-61040-CIV, 2007 U.S. Dist. LEXIS
+
+ 13098, at *3–4 (S.D. Fla. Feb. 25, 2007); Barn Light Elec. Co., Ltd. Liab. Co. v. Barnlight
+
+ Originals, Inc., No. 8:14-cv-1955-MSS-AEP, 2016 U.S. Dist. LEXIS 184154, at *6 (M.D. Fla.
+
+ Feb. 25, 2016)(granting motion to continue trial to allow additional discovery to occur).
+
+ Proceeding to trial under these circumstances would deny Plaintiff a fair opportunity to present
+
+ her case and constitutes good cause for a continuance.
+
+             B. Good Cause Exists Because The Court Has Not Yet Ruled on Motions That
+                Directly Control Whether Discovery May Proceed, or on a Dispositive Motion
+
+
+        The procedural posture independently warrants a continuance. The Court has not ruled on
+
+ multiple motions that directly control whether Plaintiff may complete essential discovery,
+
+ including the motion for protective order, the motion to modify the schedule, and the Rule 56(d)
+
+ motion. These motions are central—not collateral—to whether discovery necessary for trial will
+
+ occur. In addition, Defendant’s summary judgment motion remains pending. Where dispositive
+
+ motions and discovery-related motions remain unresolved, the case is not ready for trial. See
+
+ Rosello v. Esq, No. 8:19-cv-3027, 2021 U.S. Dist. LEXIS 268540, at *3 (M.D. Fla. July 12,
+
+ 2021)(granting motion for continuance). See also Kessler v. Fla. Dep't of Revenue, No. 09-10079-
+
+ CIV, 2010 U.S. Dist. LEXIS 12922, at *1 (S.D. Fla. Feb. 16, 2010). These unresolved issues
+
+ directly affect the completeness of the factual record and constitute good cause for a continuance.
+
+        C.      Plaintiff Has Acted Diligently
+
+        The record reflects that Plaintiff has acted diligently at every stage, and that the current
+
+ posture is the result of exceptional circumstances – not lack of diligence. During the curtailed
+
+ discovery window, Plaintiff served and responded to written discovery, produced documents,
+
+ engaged in meet-and-confers regarding deficiencies, sought to schedule depositions, conducted
+Case 1:25-cv-20757-JB Document 227 Entered on FLSD Docket 04/08/2026 Page 5 of 7
+
+
+
+ non-party depositions, and pursued foreign discovery. Plaintiff also timely moved to modify the
+
+ schedule and sought Rule 56(d) relief. See ECF 184, 184-1, 200, 200-1, 216, 216-1, 216-2, 220,
+
+ relied on and incorporated herein. The current posture is the result of Court-imposed constraints,
+
+ unresolved disputes, and Defendant’s failure to cooperate—not lack of diligence.
+
+             C. The Eleventh Circuit Factors Confirm That These Exceptional Circumstances
+                Warrant a Continuance
+
+
+        Application of the governing Eleventh Circuit factors further confirms that a continuance
+
+ is warranted.
+
+        First, Plaintiff acted diligently, see ante.
+
+        Second, a continuance will cure the problem. A limited continuance will allow the
+
+ resolution of pending motions and outstanding discovery issues, and permit the taking of
+
+ Defendant’s and non-party witness Melina Goransson’s depositions.
+
+        Third, any inconvenience is minimal. Plaintiff seeks a finite continuance tied to completion
+
+ of core discovery, not an open-ended delay.
+
+        Fourth, denial of a continuance would cause substantial prejudice. Plaintiff would be
+
+ forced to proceed to trial without deposing Defendant and without the ability to test evidence
+
+ central to Defendant’s case—much of which is within his exclusive control. That is precisely the
+
+ type of prejudice Rule 16 is designed to prevent.
+
+        Taken together, these factors compel the conclusion that a continuance is not only
+
+ appropriate, but necessary.
+
+        V.       CONCLUSION
+
+        Ultimately, the question before the Court is one of fairness and orderly case management.
+
+ This case is not trial-ready because key discovery remains incomplete, and the Court has not yet
+
+ resolved motions that will determine whether Plaintiff may obtain the discovery necessary to
+Case 1:25-cv-20757-JB Document 227 Entered on FLSD Docket 04/08/2026 Page 6 of 7
+
+
+
+ present her claims and oppose Defendant’s dispositive motion. Proceeding to trial under these
+
+ circumstances would elevate scheduling over substance and risk adjudicating the case on an
+
+ incomplete and untested record. These circumstances constitute good cause under Rule 16 and
+
+ exceptional circumstances under Local Rule 7.6. A continuance of the trial and a revised
+
+ Scheduling Order are therefore necessary to ensure a fair adjudication on the merits.
+
+                                      Local Rule 7.1(a)(3) Certificate
+
+        On April 2, 2026, counsel for Plaintiff conferred with counsel for Defendant about the relief
+
+ requested by Plaintiff via e-mail. The parties were unable to reach any agreement as to the relief
+
+ requested.
+
+                                        VERIFICATION
+
+        Under penalty of perjury, I, Joan Schlump Peters, declare that the foregoing facts and
+
+ allegations stated in this motion are true. See Fla. Stat. § 92.525(2).
+
+        Date: April 2, 2026.
+
+                                                Respectfully submitted,
+
+ JSP LAW, LLC                                   SANCHEZ-MEDINA GONZALEZ
+ Joan Schlump Peters                            LAGE GOMEZ & MACHADO, LLP
+ (admitted pro hac vice)                        CARLOS A. GARCIA PEREZ
+ 838 Neapolitan Way, #91                        Florida Bar No. 106895
+ Naples, FL 34103                               GUSTAVO D. LAGE
+ Tel. 305-299-4759                              Florida Bar No. 972551
+ Email: petersjoan@bellsouth.net                201 Alhambra Circle, Suite 1205
+                                                Coral Gables, Florida, 33134
+                                                Tel.: (305) 377-1000
+                                                Primary E-Mail: cgarciaperez@smgqlaw.com
+                                                Primary E-Mail: glage@smgqlaw.com
+                                                Counsels for Plaintiff
+
+                                                        /s/ Carlos A. Garcia Perez
+                                                By:_________________________________
+                                                      CARLOS A. GARCIA PEREZ
+Case 1:25-cv-20757-JB Document 227 Entered on FLSD Docket 04/08/2026 Page 7 of 7
+
+
+
+
+                               CERTIFICATE OF SERVICE
+
+        I HEREBY CERTIFY that on April 8, 2026 a true and correct copy of the foregoing was
+
+ served on all parties via the CM/ECF filing portal to all counsel of record.
+
+
+
+                                                      By: /s/ Carlos A. Garcia Perez
+                                                      CARLOS A. GARCIA PEREZ
+                                                      Attorney for Plaintiff
+
