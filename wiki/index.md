@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-17
-total_pages: 856
-total_sources: 463
-total_entities: 181
+total_pages: 858
+total_sources: 464
+total_entities: 182
 total_concepts: 118
 total_syntheses: 13
 total_articles: 85
@@ -494,6 +494,7 @@ Seven sources ingested to fill cross-partisan and consumer-scale evidence gaps i
 - [[Claims Denials and Appeals ACA Marketplace Plans 2024 KFF]] — Kaiser Family Foundation, Jan 30 2025; 19% in-network denial rate; <1% appeal rate; 34% overturn rate; mathematical proof of exhaustion-as-strategy
 - [[Epstein Files Transparency Act Wikipedia]] — Wikipedia; H.R. 4405; House 427–1; no penalty provision for noncompliance; corrected file counts
 - [[More than a million Epstein documents discovered release delayed Al Jazeera]] — Al Jazeera, Dec 24 2025; primary source for Massie's "DOJ did break the law" quote; 12-senator IG letter
+- [[How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them]] — ProPublica, Mar 25 2023; primary source for PxDx mechanism; 300K denials at 1.2 seconds each; "we literally click and submit"; legal exposure angle
 
 ### Recent Ingests (2026-04-11)
 
@@ -664,6 +665,7 @@ Seven sources ingested to fill cross-partisan and consumer-scale evidence gaps i
 - [[Tom Brady]] — Retired NFL QB; seven-time Super Bowl champion; NFL Dynasty reference point
 
 ### Organizations
+- [[Cigna]] — major health insurer; PxDx algorithmic denial system; 300K claims denied at 1.2 sec each; potential state insurance law violations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
 - [[Federal Reserve]] — US central bank; under intense political pressure 2025; dual mandate; board composition shifting via Trump appointments
 - [[FOMC]] — Federal Open Market Committee; the Fed's rate-setting body; site of Miran dissent and dual governor revolt

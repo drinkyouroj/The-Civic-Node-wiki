@@ -4,7 +4,7 @@ type: concept
 tags: [power, politics, truth-control, federal-immunity, accountability]
 created: 2026-04-06
 updated: 2026-04-17
-sources: 23
+sources: 24
 ---
 
 ## Definition
@@ -162,6 +162,7 @@ The grand jury explicitly stated the outcome — 2 prosecutions from 301 identif
 
 **Consumer-scale exhaustion:**
 - [[Claims Denials and Appeals ACA Marketplace Plans 2024 KFF]] — mathematical proof of exhaustion-as-strategy; <1% appeal rate, ~34% overturn rate
+- [[How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them]] — ProPublica primary source for the PxDx mechanism; 300,000 claims denied at 1.2 seconds each; legal exposure angle
 
 **Adjacent institutional-failure sources:**
 - [[Former CNN Anchor Don Lemon Appears in Court After Arrest Over Church Protest]] — DOJ bypassing judicial review

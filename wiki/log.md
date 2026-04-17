@@ -5,6 +5,16 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-17] ingest | How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them
+
+ProPublica / Capitol Forum investigative report (Mar 25 2023; Patrick Rucker, Maya Miller, David Armstrong) ingested as the primary source for the PxDx 1.2-seconds / 300,000-claims figures used in the Institutional Gaslighting Concept Decoder draft. The report documents the mechanism behind Cigna's algorithmic mass-denial system and establishes potential legal exposure (state insurance laws requiring physician review before medical denial). Previously this data point floated on KFF's passing reference to "related reporting"; this ingest anchors it to a named, document-based ProPublica investigation.
+
+New pages: [[How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them]] (source), [[Cigna]] (entity).
+Updated: [[Institutional Gaslighting]] concept (sources 23→24; new source added to Key Sources).
+Index updated: 464 sources, 182 entities, 858 total pages.
+
+---
+
 ## [2026-04-17] ingest | 7 sources — Institutional Gaslighting cross-partisan research brief
 
 Seven sources ingested to fill source gaps for the Institutional Gaslighting Concept Decoder piece (outline v2 at `/Users/justin/Documents/substack-research/Substack Research/workspace/outlines/institutional-gaslighting-concept-decoder-v2.md`). Investigative research round verified existing wiki claims, corrected one factual error, and surfaced a fourth structural component of the institutional-gaslighting architecture.
