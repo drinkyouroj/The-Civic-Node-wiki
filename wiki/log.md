@@ -5,6 +5,18 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-16] ingest | David Owen "The Efficiency Dilemma" — primary Jevons paradox source
+
+New Yorker (Dec 20, 2010): The definitive popular treatment of Jevons paradox. Owen traces the concept from 1865 coal through refrigeration, air conditioning, lighting (Nordhaus cost history: Babylonian 41hrs → fluorescent <0.5sec), and the Model T. Key data: A/C efficiency improved 28% (1993-2005) but per-household A/C energy consumption rose 37%. US now uses as much electricity to cool buildings as it did for all purposes in 1955. Strongest editorial insight: "Improving efficiency is easy to endorse: we've been doing it, globally, for centuries. It's how we created the problems we're now trying to solve." — directly applicable to tech CEO Jevons citations. Fills the last source gap in the Concept Decoder outline. Updated [[Jevons Paradox]] (7→8) with refrigeration detail, A/C data, and lighting history. Index updated: 456 sources.
+
+---
+
+## [2026-04-16] ingest | Samsung/SK Hynix rebound source — TurboQuant recovery timeline
+
+Investing.com (Apr 1, 2026): Samsung surged 10%, SK Hynix rallied 9.5% on April 1, rebounding from 20%+ March losses driven by Google TurboQuant panic and OpenAI spending cuts. Fills the source gap flagged in the Jevons Paradox Concept Decoder outline — the crash was documented but the recovery date and magnitude were not. Key finding: the crash-to-recovery timeline was ~1 week (March 24 → April 1), not "three days" as initially estimated. Updated [[Samsung]] (20→21), [[SK Hynix]] (14→15). Index updated: 455 sources.
+
+---
+
 ## [2026-04-16] ingest | 3 raw sources — Anthropic/DoD conflict, Super Bowl LX (automated daily ingest)
 
 Three raw sources ingested:

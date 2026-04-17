@@ -4,7 +4,7 @@ type: concept
 tags: [economics, technology, ai, energy]
 created: 2026-04-11
 updated: 2026-04-11
-sources: 7
+sources: 8
 ---
 
 ## Definition
@@ -28,8 +28,10 @@ Jevons Paradox sits at the intersection of multiple newsletter themes:
 - **Agriculture** (counterexample): Tractors and automation made farmers enormously more productive. But food demand is inelastic -- people don't eat proportionally more when food gets cheaper. Farm employment dropped from 40% to 2% of the US workforce. This is the anti-Jevons case.
 - **AI compute (2025)**: DeepSeek's efficient model triggered fears of reduced demand for US AI infrastructure. Nadella's Jevons citation reframed this as bullish -- cheaper AI means more AI usage, more compute demand overall.
 - **Highways**: More lanes (efficiency) create more traffic (induced demand). Scholars have documented Jevons-like effects in infrastructure capacity.
-- **Refrigeration**: David Owen (New Yorker, 2010) argued that more-efficient refrigeration led to multiple fridges per household, mini-fridges in hotels, and ultimately higher total energy consumption.
-- **TurboQuant and AI memory (March 2026)**: Google published TurboQuant, a compression technique reducing LLM context window memory requirements by 6x. Memory chip stocks dropped 5-6% on the news. But within days, the market stabilized — analysts and investors applied Jevons paradox reasoning: if AI needs 1/6th the memory per context window, companies will simply use 6x longer context windows and deploy more AI agents. The efficiency gain won't reduce total memory demand; it will expand AI's addressable market. [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
+- **Refrigeration**: David Owen (New Yorker, 2010) documented in granular detail how efficient refrigeration multiplied rather than reduced cold-storage energy use. Owen's own family: the old fridge moved to the basement (stayed plugged in 25 years), was joined by a stand-alone freezer and a bar icemaker. Modern kitchens: enormous side-by-side fridge + freezer + under-counter mini-fridge. Gas stations now have almost as much refrigerated shelf space as 1960s grocery stores. Second-order effect: since mid-1970s, per-capita food waste in the US increased by half (40% of edible food discarded) — refrigeration conveyed false sense that food would last longer. [[The Efficiency Dilemma — David Owen New Yorker 2010]]
+- **Air conditioning**: Between 1993 and 2005, A/C energy efficiency improved 28%, but energy consumption per air-conditioned household rose 37%. US now uses roughly as much electricity to cool buildings as it did for all purposes in 1955. Ownership flipped from 12% of homes (1960) to 84% (2005). A Las Vegas resident described cars as "devices for transporting air-conditioning between buildings." [[The Efficiency Dilemma — David Owen New Yorker 2010]]
+- **Lighting cost history** (William Nordhaus, Yale, 1998): Ancient Babylonian needed 41+ hours of labor for 1,000 lumen-hours of light. Jefferson contemporary: ~5 hours 20 minutes (tallow candles). By 1992 with compact fluorescents: less than half a second. Yet total energy spent on illumination has only grown. "We now generate light so extravagantly that darkness itself is spoken of as an endangered natural resource." [[The Efficiency Dilemma — David Owen New Yorker 2010]]
+- **TurboQuant and AI memory (March–April 2026)**: Google published TurboQuant on March 24, 2026, a compression technique reducing LLM context window memory requirements by 6x. Samsung and SK Hynix stocks dropped 5-6% immediately, then lost over 20% through March. But on April 1, Samsung surged 10% and SK Hynix rallied 9.5% as bargain buyers and analysts applied Jevons reasoning: if AI needs 1/6th the memory per context window, companies will use 6x longer context windows and deploy more agents. The efficiency gain won't reduce total memory demand; it will expand AI's addressable market. [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] [[Samsung SK Hynix Surge 10 Percent as Tech Rebounds — Investing.com]]
 - **Video streaming bandwidth**: Before modern compression, 360p video used significant bandwidth. Better codecs didn't reduce bandwidth consumption — people streamed more content, at higher resolutions, on more devices simultaneously. Total bandwidth consumption exploded. [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
 
 ## Tensions & Counterarguments
@@ -52,3 +54,4 @@ Jevons Paradox sits at the intersection of multiple newsletter themes:
 - [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]]
 - [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
 - [[DDR5 Retail Prices Pullback Amid Market Correction — TrendForce]]
+- [[The Efficiency Dilemma — David Owen New Yorker 2010]] — the primary popular treatment of Jevons; refrigerators, A/C, lighting cost history, Model T driving productivity, political economy of efficiency

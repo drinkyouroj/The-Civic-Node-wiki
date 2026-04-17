@@ -3,7 +3,7 @@ title: "Wiki Index"
 type: index
 updated: 2026-04-16
 total_pages: 844
-total_sources: 454
+total_sources: 456
 total_entities: 178
 total_concepts: 116
 total_syntheses: 13
@@ -518,6 +518,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Samsung Flags Eightfold Jump in Q1 Profit — Reuters]] — Reuters, Apr 2026; 57.2T won ($37.92B) Q1 operating profit; 8.5x YoY; chip division 95% of total; TrendForce expects 50%+ Q2 price increase
 - [[The Letter That Moved a Market — Medium]] — Medium/Mastin Bailey, Mar 2026; LOI valued at $71.3B/4yr; 171% contract price rise; 7-day quote windows; Samsung shifted 80K wafers back to DDR5
 - [[DDR5 Retail Prices Pullback Amid Market Correction — TrendForce]] — TrendForce, Mar 2026; Germany -7.2% MoM but +408% vs Jul 2025; Corsair 32GB $379.99; contract prices stable
+- [[Samsung SK Hynix Surge 10 Percent as Tech Rebounds — Investing.com]] — Investing.com, Apr 1 2026; Samsung +10%, SK Hynix +9.5% rebound after 20%+ March losses from TurboQuant/OpenAI spending cut panic
+- [[The Efficiency Dilemma — David Owen New Yorker 2010]] — New Yorker, Dec 2010; definitive popular treatment of Jevons paradox; refrigerators, A/C, lighting history, Model T, political economy of efficiency
 
 #### Infrastructure & Geopolitics
 - [[An Invisible Bottleneck - Helium Shortage Threatens the Chip Industry]] — NYT, Mar 2026; Qatar offline; Iran strikes Ras Laffan; 200 containers stranded in Hormuz; 6-week storage limit per batch; Air Liquide Taichung factory
