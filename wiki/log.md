@@ -5,6 +5,75 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-17] ingest | Three thin-sourcing fact-check gaps closed (PBS NewsHour, Newsweek, PBS FRONTLINE)
+
+Three sources ingested to close thin-sourcing gaps surfaced by the fact-check pass on "the-system-is-functioning-correctly-v1" draft:
+
+1. **[[Minnesota officials cant access evidence after fatal ICE shooting PBS NewsHour]]** (AP/PBS NewsHour, Jan 8 2026) — primary source for Bob Jacobson's verbatim "extremely difficult, if not impossible, without cooperation from the federal government" quote. Jacobson identified as Minnesota Public Safety Commissioner. Earlier wiki had quote substance but no outlet-specific citation.
+
+2. **[[Epstein Files Ro Khanna Questions Documents Withheld Newsweek]]** (Newsweek, Jan 30 2026) — primary source for the 6M / 3.5M Epstein document figures with specific attribution: Khanna as source of the framing, Deputy AG Todd Blanche acknowledging the 6M number at press conference and characterizing it as DOJ "overcollection."
+
+3. **[[Derek Chauvin federal civil rights indictment parallel investigation PBS FRONTLINE]]** (Star Tribune / PBS FRONTLINE, May 7 2021) — primary source for the George Floyd parallel-tracks contrast: "The Justice Department investigation has run parallel to the state's cases." Confirms federal/state investigators coordinated in the same city five years before the 2026 ICE shooting evidence block.
+
+All three sources added to [[Institutional Gaslighting]] concept page key-sources list (sources: 25 → 28). Index totals updated (pages 859 → 862, sources 465 → 468). Draft "the-system-is-functioning-correctly-v1" now has no remaining thin-sourcing issues for fact-check purposes.
+
+---
+
+## [2026-04-17] ingest | What We Know About the Fatal ICE Shooting in Minneapolis (NYT) + outline v3
+
+NYT January 7, 2026 explainer ingested as primary source for two previously unverifiable claims in the Institutional Gaslighting Concept Decoder outline:
+1. **Trump's exact quote** ("violently, willfully, and viciously ran over") confirmed via Truth Social post linked in NYT; venue corrected from "Oval Office" to "Truth Social post" in [[Institutional Gaslighting]] concept page.
+2. **Video analysis language**: NYT describes "multiple videos" analyzed — confirmed "multiple camera angles" phrasing; no specific count stated.
+
+Fact-reconcile pass on v2 outline produced **v3** at `/Users/justin/Documents/substack-research/Substack Research/workspace/outlines/institutional-gaslighting-concept-decoder-v3.md`. All six fact-check issues from the prior pass are resolved:
+- Bondi first-day date: Feb 27 → **Feb 5, 2025** (Gibson Dunn)
+- House vote date: Nov 19 → **House Nov 18 / Senate + signing Nov 19**
+- Trump quote: unverifiable → **verified NYT/Truth Social**
+- Trump venue: "Oval Office" → **"Truth Social post"**
+- "Four camera angles" → **"multiple camera angles"**
+- George Floyd framing: overstated → reframed as specific contrast
+
+New pages: [[What We Know About the Fatal ICE Shooting in Minneapolis]] (source).
+Updated: [[Institutional Gaslighting]] concept (sources 24→25; Trump venue corrected), index (465 sources, 859 total pages).
+
+---
+
+## [2026-04-17] ingest | How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them
+
+ProPublica / Capitol Forum investigative report (Mar 25 2023; Patrick Rucker, Maya Miller, David Armstrong) ingested as the primary source for the PxDx 1.2-seconds / 300,000-claims figures used in the Institutional Gaslighting Concept Decoder draft. The report documents the mechanism behind Cigna's algorithmic mass-denial system and establishes potential legal exposure (state insurance laws requiring physician review before medical denial). Previously this data point floated on KFF's passing reference to "related reporting"; this ingest anchors it to a named, document-based ProPublica investigation.
+
+New pages: [[How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them]] (source), [[Cigna]] (entity).
+Updated: [[Institutional Gaslighting]] concept (sources 23→24; new source added to Key Sources).
+Index updated: 464 sources, 182 entities, 858 total pages.
+
+---
+
+## [2026-04-17] ingest | 7 sources — Institutional Gaslighting cross-partisan research brief
+
+Seven sources ingested to fill source gaps for the Institutional Gaslighting Concept Decoder piece (outline v2 at `/Users/justin/Documents/substack-research/Substack Research/workspace/outlines/institutional-gaslighting-concept-decoder-v2.md`). Investigative research round verified existing wiki claims, corrected one factual error, and surfaced a fourth structural component of the institutional-gaslighting architecture.
+
+**Sources ingested:**
+
+1. **[[The Untouchables PBS Frontline Wall Street prosecutions transcript]]** (PBS Frontline, Jan 22 2013) — Breuer's on-camera "greed isn't criminal" quote; two former DOJ Criminal Division prosecutors confirming "no subpoenas, no document reviews, no wiretaps" of senior Wall Street executives; Spitzer's "The Justice Department failed."
+2. **[[Eric Holder Too Big to Jail Senate Judiciary testimony transcript]]** (American Banker, Mar 6 2013) — Holder's direct testimony that the size of financial institutions makes prosecution difficult because of potential macroeconomic consequences; Grassley's framing of a "too-big-to-jail mentality" spreading across fraud, terrorist financing, and money laundering cases.
+3. **[[The lost year Merrick Garland DOJ Trump January 6 prosecution CNN]]** (Evan Perez, Hannah Rabinowitz, CNN, Jan 6 2025) — definitive retrospective on Biden DOJ timeline; 2.5-year delay between Jan 6 and August 2023 indictment; fall 2022 freeze before midterms; fifty-year statute of limitations expires during Trump's second term.
+4. **[[Biden DOJ slow-walked Trump legal probes MSNBC Yahoo]]** (MSNBC, Jan 6 2025) — companion reporting to CNN "Lost Year"; cross-partisan validation that non-accountability is structural.
+5. **[[Pennsylvania Grand Jury Catholic Church sexual abuse investigation]]** (Wikipedia; August 2018 report) — 301 predator priests across six dioceses; 1,000+ victims; **only 2 criminally charged**; approximately two-thirds of the accused priests had died before the grand jury completed its work; 50-year cover-up pattern.
+6. **[[Claims Denials and Appeals ACA Marketplace Plans 2024 KFF]]** (Kaiser Family Foundation, Jan 30 2025) — 19% in-network denial rate; 8.8M denials across reporting insurers; **<1% appeal rate**; 34% overturn rate when appealed; mathematical proof that the denial machine runs on non-participation rather than substantive merit.
+7. **[[Epstein Files Transparency Act Wikipedia]]** + **[[More than a million Epstein documents discovered release delayed Al Jazeera]]** — primary sources for Rep. [[Thomas Massie]]'s public statement that "DOJ did break the law by making illegal redactions and by missing the deadline"; 12-senator IG audit letter; confirmation that the Act contains no penalty provision for noncompliance.
+
+**Factual correction applied:** The [[Institutional Gaslighting]] concept page previously stated DOJ released "12,285 documents" on the Dec 19 deadline. Per CBS News reporting via the Epstein Files Transparency Act Wikipedia entry, the actual figure is approximately **3,965 files / 3 GB of data** on the deadline day, with approximately 40,000 pages released in total by early January 2026. Total file universe corrected from "2 million" to "5.2–6 million potentially responsive pages" (NYT / Rep. Khanna estimates). Projected full-release timeline revised from "8 years" to "more than a decade" based on current release pace vs. responsive universe.
+
+**Fourth structural component added:** The Epstein Files Transparency Act's lack of a penalty provision — a law near-unanimously passed (House 427–1), signed by the President, and violated with no consequence — is the paradigmatic case for a new concept: [[Toothless Transparency Laws]]. This is the fourth structural component of [[Institutional Gaslighting]] alongside evidence custody, procedural substitution, and exhaustion as exit condition. The architecture is complete when the legal instrument designed to produce accountability is itself unenforceable.
+
+**New entity pages:** [[Merrick Garland]], [[Eric Holder]], [[Thomas Massie]].
+**New concept pages:** [[Toothless Transparency Laws]], [[Too Big to Jail]].
+**Updated:** [[Institutional Gaslighting]] concept (sources 16→23; added fourth structural component; corrected Epstein file count; added cross-partisan anchors for Obama DOJ / Biden DOJ / Catholic Church / KFF consumer-scale case).
+
+Index updated: 463 sources, 181 entities, 118 concepts, 856 total pages.
+
+---
+
 ## [2026-04-16] ingest | David Owen "The Efficiency Dilemma" — primary Jevons paradox source
 
 New Yorker (Dec 20, 2010): The definitive popular treatment of Jevons paradox. Owen traces the concept from 1865 coal through refrigeration, air conditioning, lighting (Nordhaus cost history: Babylonian 41hrs → fluorescent <0.5sec), and the Model T. Key data: A/C efficiency improved 28% (1993-2005) but per-household A/C energy consumption rose 37%. US now uses as much electricity to cool buildings as it did for all purposes in 1955. Strongest editorial insight: "Improving efficiency is easy to endorse: we've been doing it, globally, for centuries. It's how we created the problems we're now trying to solve." — directly applicable to tech CEO Jevons citations. Fills the last source gap in the Concept Decoder outline. Updated [[Jevons Paradox]] (7→8) with refrigeration detail, A/C data, and lighting history. Index updated: 456 sources.
@@ -1306,3 +1375,28 @@ Completed full ingestion of all 13 raw stubs created during v11 fact-check audit
 **Updated index.md:** 15 new source entries, 3 new entity entries, 1 new concept entry, 1 new article entry; stats 819→839 pages, 435→450 sources, 174→177 entities, 115→116 concepts, 82→83 articles
 
 Total pages after ingest: ~839. Total sources: 450.
+
+## [2026-04-17] synthesis | Institutional Gaslighting — Research Brief for Substack Draft
+
+Rebuilt source base for the pending Institutional Gaslighting essay after prior research was lost. Ran three parallel research agents (Minneapolis / Epstein / Trump investigations) plus a theoretical-grounding agent. WebSearch was blocked; agents pivoted to mine ingested wiki material. Output filed at [[Institutional Gaslighting — Research Brief for Substack Draft]].
+
+**Headline additions to the parent synthesis:**
+- Legal doctrine now named: **Touhy** (28 C.F.R. § 16.21) as the specific mechanism FBI used to block MN BCA; **Reynolds** (1953) as the origin-lie historical anchor; **Richman 2009** on DOJ slow-walk capacity
+- Theoretical scaffolding: Paige Sweet 2019 (structural gaslighting as live scholarly frame), Arendt 1978 NYRB interview (correctly attributed — commonly misattributed to Origins), Frankfurt *On Bullshit*, Pomerantsev, Rauch (*"exhaustion… is the goal"*), Gessen, Snyder
+- Jack Smith "coming months and years" quote corrected: from Dec 17 2025 deposition (transcript p. 237), not a post-resignation interview. Fuller sentence is stronger.
+- Minneapolis has four stacked evidence-seizure layers, not three: at-the-scene physician block → next-day forensic block → civil rights review refusal → multi-case lawsuit (MN v. DOJ/DHS, Mar 24)
+- Don Lemon arrest is the cleanest "investigation as perception instrument" case: two federal judges rejected the warrants; DOJ grand-juried anyway
+
+**Critical gap flagged:** wiki source stub `Renee Good family reacts to ICE shooter verdict` (created 2026-04-07, published 2026-04-01) references a verdict but the raw file was never clipped. Writer must verify via live web before drafting — potential lede.
+
+**Other high-priority gaps:** Bondi Day-1 letter (Epstein); names of four CRT Criminal Section resignees (CBS Lynch Jan 13); updated Epstein release metrics; scholarly-voice pull from Just Security/Lawfare/Vance for Pillar 3.
+
+## [2026-04-17] ingest | Government Ordered to Turn Over Files on ICE Agent Who Killed Renee Good
+
+Ingested Intercept source (Apr 9, 2026) covering Judge Bryan's order compelling the DOJ to produce Ross's personnel files, body-cam footage, fitness records, and witness statements by May 1, 2026. Order arose from a defense motion in the Muñoz-Guatemala assault case, not from any government accountability initiative.
+
+**Fact-check correction:** The existing stub [[Renee Good family reacts to ICE shooter verdict]] was mislabeled. There is no verdict in the Ross/Good case. DOJ refused to open a criminal investigation (declared self-defense). The "verdict" the stub referred to was the Muñoz-Guatemala assault conviction (Dec 12, 2025) — Ross was the victim in that case. Stub updated with ⚠️ flags and corrected framing. New source page replaces it as the authoritative Minneapolis accountability source.
+
+**Key quote for draft:** "This judge is effectively doing the investigation that the United States has turned its back on." — Shauna Kieffer, defense attorney.
+
+**Draft action:** Any claim in the institutional gaslighting draft citing the stub as evidence of a verdict or Ross being cleared must be corrected. The accurate framing: DOJ abdicated; a judge compelled partial disclosure via a tangential case.

@@ -1,10 +1,10 @@
 ---
 title: "Overview"
 type: overview
-tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health]
+tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health, accountability]
 created: 2026-04-06
-updated: 2026-04-11
-sources: 438
+updated: 2026-04-17
+sources: 463
 ---
 
 # Research Overview
@@ -15,6 +15,8 @@ sources: 438
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
 
 The wiki has grown from 31 source documents to **423** across roughly a dozen major thematic clusters. The dominant themes that emerged from the accumulated material are: the Trump administration's unprecedented intervention in monetary, regulatory, and platform-speech systems; the legal infrastructure being built around stablecoins and digital assets; the structural mechanisms (DEA quotas, jawboning, regulatory weaponization) by which state power is exercised through indirection; and the ongoing tension between AI systems marketed as autonomous and the human labor that actually makes them work.
+
+**Update 2026-04-17**: Seven sources ingested on the institutional-gaslighting research brief branch. Investigative research round for the [[Institutional Gaslighting]] Concept Decoder article surfaced cross-partisan evidence gaps in the existing wiki documentation and filled them with primary-source reporting: PBS Frontline's "The Untouchables" (Obama DOJ Wall Street non-prosecution, Jan 2013), Eric Holder's Senate Judiciary "too big to jail" testimony (Mar 2013), CNN's "The lost year" retrospective on Biden DOJ's Trump investigation timeline (Jan 2025), MSNBC companion reporting, Pennsylvania Grand Jury Catholic Church abuse investigation (Aug 2018 report; 301 predators, 2 prosecutions, two-thirds deceased), Kaiser Family Foundation's 2024 ACA claims denial analysis (<1% appeal rate — mathematical proof of exhaustion-as-strategy), and updated Epstein Files Transparency Act sourcing (Rep. [[Thomas Massie]]'s "DOJ did break the law" quote; 12-senator IG letter; corrected file counts). Corrected one factual error: the wiki's prior "12,285 documents" figure for the Dec 19 Epstein release is revised to ~3,965 files / 3 GB (≈40,000 pages by early January); total file universe revised from 2M to 5.2–6M pages. **Fourth structural component added** to the institutional-gaslighting architecture: [[Toothless Transparency Laws]] — legal instruments designed without enforcement mechanisms. New entity pages: [[Merrick Garland]], [[Eric Holder]], [[Thomas Massie]]. New concept pages: [[Toothless Transparency Laws]], [[Too Big to Jail]]. Total wiki: ~856 pages, 463 sources, 181 entities, 118 concepts.
 
 **Update 2026-04-15**: Two sources ingested on the article branch. **COPA v Wright** ([2024] EWHC 1198 (Ch)) is now a full source page: Justice Mellor's ruling definitively eliminates [[Craig Wright]] as a Satoshi candidate (47 forgeries; worldwide injunction; CPS referral) and establishes the August 2008 Back-Satoshi emails as judicially-produced discovery evidence. [[Craig Wright]] entity expanded from stub to full page. **Howard Lutnick confirmation** (Senate Vote #57, 119th Congress, 51–45, February 2025) is now sourced — the primary document for the Commerce Secretary timeline in the BSTR story; also corrects a date error in the [[Cantor Fitzgerald]] entity page. Total wiki: ~845 pages, 456 sources.
 
