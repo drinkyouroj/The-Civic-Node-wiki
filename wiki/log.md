@@ -1390,3 +1390,13 @@ Rebuilt source base for the pending Institutional Gaslighting essay after prior 
 **Critical gap flagged:** wiki source stub `Renee Good family reacts to ICE shooter verdict` (created 2026-04-07, published 2026-04-01) references a verdict but the raw file was never clipped. Writer must verify via live web before drafting — potential lede.
 
 **Other high-priority gaps:** Bondi Day-1 letter (Epstein); names of four CRT Criminal Section resignees (CBS Lynch Jan 13); updated Epstein release metrics; scholarly-voice pull from Just Security/Lawfare/Vance for Pillar 3.
+
+## [2026-04-17] ingest | Government Ordered to Turn Over Files on ICE Agent Who Killed Renee Good
+
+Ingested Intercept source (Apr 9, 2026) covering Judge Bryan's order compelling the DOJ to produce Ross's personnel files, body-cam footage, fitness records, and witness statements by May 1, 2026. Order arose from a defense motion in the Muñoz-Guatemala assault case, not from any government accountability initiative.
+
+**Fact-check correction:** The existing stub [[Renee Good family reacts to ICE shooter verdict]] was mislabeled. There is no verdict in the Ross/Good case. DOJ refused to open a criminal investigation (declared self-defense). The "verdict" the stub referred to was the Muñoz-Guatemala assault conviction (Dec 12, 2025) — Ross was the victim in that case. Stub updated with ⚠️ flags and corrected framing. New source page replaces it as the authoritative Minneapolis accountability source.
+
+**Key quote for draft:** "This judge is effectively doing the investigation that the United States has turned its back on." — Shauna Kieffer, defense attorney.
+
+**Draft action:** Any claim in the institutional gaslighting draft citing the stub as evidence of a verdict or Ross being cleared must be corrected. The accurate framing: DOJ abdicated; a judge compelled partial disclosure via a tangential case.
