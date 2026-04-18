@@ -579,6 +579,7 @@ New concepts:
 
 **Doe v. Bonnell docket deep-read (11 ECF filings):** Full pre-trial motion record now in the wiki — MTD (jurisdiction), protective orders, Rule 11 sanctions, MSJ, Rule 56(d) deferral, motions in limine, and continuance opposition. Entity pages for all five principals updated with source appearances across the full docket.
 
+- [[Doe v Bonnell ECF23 — Scheduling Order]] — Judge Becerra's April 3, 2025 scheduling order; trial May 18, 2026; discovery cutoff Dec 16, 2025; dispositive motions Jan 30, 2026
 - [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell MTD for lack of subject matter jurisdiction; argues Out-of-Circuit Abby subpoena history establishes no federal cause of action; Sep 19, 2025
 - [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Plaintiff attacks Bonnell's footnote claiming Rose was a minor; demonstrates it was false and fabricated; Oct 2025
 - [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — Bonnell seeks protective order on deposition timing and scope; Nov 2025

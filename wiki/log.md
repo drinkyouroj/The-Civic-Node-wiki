@@ -5,6 +5,12 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-18] ingest | Doe v Bonnell ECF 23 scheduling order + v3 draft of "The Process Is the Punishment"
+
+ECF 23 (Judge Becerra's April 3, 2025 scheduling order) ingested as new source page. Locks in May 18, 2026 trial, December 16, 2025 discovery cutoff, January 30, 2026 dispositive motion deadline. Continuance must be filed ≥30 days before trial. This is the baseline scheduling order against which ECF 227 (plaintiff's April 8, 2026 continuance motion) and ECF 235 (Bonnell opposition) are measured.
+
+Also: wrote v3 of [[the-process-is-the-punishment]] at `workspace/drafts/the-process-is-the-punishment-v3.md`. Softened three claims flagged by fact-check as unverifiable from public sources (Nov 20 DeLaguna tweet — account deleted; Dec 17 deposition date — not in wiki sources; Oct 2 fake-address date — not cleanly sourced). Added ECF 23 citation for ten-month discovery claim and May 18 trial date.
+
 ## [2026-04-18] ingest | Bulk ingest — Destiny ECF docket, Minnesota/ICE accountability, misc raw sources
 
 Comprehensive clean-up ingest across three content clusters, plus one new published article filed to wiki. 32 new source pages, 4 new entity pages, 1 new concept page, 1 new article page. Index updated to 503 sources, 191 entities, 121 concepts, 86 articles.
