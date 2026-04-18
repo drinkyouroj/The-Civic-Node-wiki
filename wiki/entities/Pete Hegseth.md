@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, military, religion, iran, war]
 created: 2026-04-11
 updated: 2026-04-16
-sources: 8
+sources: 10
 ---
 
 ## Overview
@@ -20,6 +20,7 @@ Self-described "secretary of war" in the Trump administration. Led a March 26, 2
 - Designated [[Anthropic]] a "Supply-Chain Risk to National Security" via X post on Feb 27, 2026 — a designation never before applied to an American company [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]]
 - Added that "no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic" — exceeds existing statutory authority per legal scholars [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]]
 - Referenced as head of the "Department of War" in Anthropic's statement, using his own preferred framing [[Statement from Dario Amodei on our discussions with the Department of War]]
+- April 2026: delivered a sermon at a Pentagon worship service quoting what appeared to be Samuel L. Jackson's Pulp Fiction "Ezekiel 25:17" monologue during a prayer for the "Sandy 1" rescue mission — multiple outlets noted the apparent misquotation [[Iran Hormuz Strait Reopens — Trump Blockade Remains in Full Force]]
 
 ## Newsletter Relevance
 
@@ -38,6 +39,8 @@ Hegseth's Pentagon prayer is the most explicit instance of faith-based war justi
 - [[Pope Leo Is Speaking Truth to Donald Trumps Power]] — Pentagon prayer session described in detail
 - [[Statement from Dario Amodei on our discussions with the Department of War]] — referenced as head of "Department of War"; issued threats of supply chain risk designation and DPA invocation
 - [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — central actor; designated Anthropic supply chain risk via X; legal analysis finds his actions likely exceed statutory authority
+- [[Iran Hormuz Strait Reopens — Trump Blockade Remains in Full Force]] — Pulp Fiction sermon incident: Hegseth quoted what appeared to be Samuel L. Jackson's Ezekiel monologue from Pulp Fiction during a Pentagon worship service
+- [[Iran-US War Latest — Trump Says Talks Continue Over the Weekend]] — same Pulp Fiction sermon; prayer for the "Sandy 1" rescue mission; viral incident amid war coverage
 
 ## Open Questions
 

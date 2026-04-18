@@ -5,7 +5,7 @@ entity_type: organization
 tags: [nfl, seahawks, power, systems-thinking]
 created: 2026-04-07
 updated: 2026-04-16
-sources: 22
+sources: 24
 ---
 
 ~~Caveat resolved 2026-04-16: ESPN post-game recap now ingested. See [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]].~~
@@ -57,6 +57,8 @@ NFL franchise based in Seattle, Washington. Members of the NFC West division. Wo
 - [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 6 Pro Bowl selections; Leonard Williams "Dark Side" framing
 - [[2025-26 NFL Playoffs Wikipedia]] — bracket and results
 - [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]] — ESPN post-game recap; Walker MVP, 6 sacks, 3 turnovers forced; 29-13 final
+- [[Seahawks-Patriots Super Bowl LX — What We Learned from Seattle's 29-13 Win]] — NFL.com game analysis; Walker 135 yards/MVP; Macdonald scheme; Myers record 5 FGs; Drake Maye struggles
+- [[Seahawks vs 49ers Week 18 Predictions and Best Bets — January 2026]] — betting preview for NFC No. 1 seed game; Darnold/Charbonnet/JSN statistical context
 
 ## Open Questions
 

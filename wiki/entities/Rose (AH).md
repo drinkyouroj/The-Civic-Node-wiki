@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [identity-theft-victim, minor, catfish-victim, destiny]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 1
+updated: 2026-04-18
+sources: 8
 ---
 
 ## Overview
@@ -42,7 +42,11 @@ Her deposition is also the single most useful piece of evidence for the article'
 
 ## Source Appearances
 
-- [[Rose deposition — Doe v Bonnell]] — primary
+- [[Rose deposition — Doe v Bonnell]] — primary sworn testimony; confirms she never communicated with Bonnell, never controlled the Discord account, never consented to Solo's operations
+- [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — her October 23, 2025 deposition is the evidentiary basis for Bonnell's Rule 11 motion; she confirmed Solo controlled the account, not her
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — her deposition is central evidence in the MSJ; confirms catfishing and establishes that no real "Rose" ever received the video
+- [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — Bonnell seeks to exclude false minor allegation on grounds that AH deposition refutes it; her DOB (Oct 30, 2004) was falsely cited in Plaintiff's Footnote 2
+- [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff argues Rose's deposition itself contains evidence of minor-age context: Solo showed her "a handful of videos that Destiny sent" via the impostor account
 
 ## Open Questions
 
@@ -50,3 +54,4 @@ Her deposition is also the single most useful piece of evidence for the article'
 - Has any law enforcement agency ever contacted her? Her deposition says no, as of October 2025.
 - Are the identity-theft and stalking predicates severe enough to have triggered a state or federal investigation independent of the civil suit?
 - Will she be called at trial? Will she face cross on any substantive issue beyond the catfish confirmation?
+- Does her deposition testimony that Solo showed her Bonnell's videos change her legal status in any way — does it give her standing to bring her own claim against Solo or Bonnell?

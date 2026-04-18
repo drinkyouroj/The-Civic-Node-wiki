@@ -3,8 +3,8 @@ title: "Catfishing as Legal Gap"
 type: concept
 tags: [legal, ncii, catfishing, statute-design, jurisdictional-asymmetry]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 1
+updated: 2026-04-18
+sources: 10
 ---
 
 ## Definition
@@ -40,3 +40,8 @@ For TCN readers, this is a useful precise instance of a broader pattern: law as 
 
 - [[Rose deposition — Doe v Bonnell]]
 - [[Doe v. Bonnell (1-25-cv-20757)]]
+- [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — the gap's most concrete legal manifestation: a false minor allegation persists because the actual account-holder (Solo) can't be subpoenaed; AH deposition establishes the factual shape of the gap
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — MSJ argument turns almost entirely on catfishing: if Solo received the video (not Rose), then CARDII's intent/consent elements cannot be satisfied for any post-statute transmission
+- [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — seeks to exclude evidence flowing from the false minor allegation; catfishing defense used as basis for excluding Abbymc and Rose evidence at trial
+- [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff's most sophisticated counter-argument: even under the catfishing framing, Solo showed the real Rose Bonnell's videos, meaning the catfish doesn't fully close the gap; the intermediary model creates new liability rather than eliminating it
+- [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — Bonnell argues Solo evidence is essential to trial because Solo's UK location explains the European date format and establishes the April 9, 2022 transmission date as pre-CARDII

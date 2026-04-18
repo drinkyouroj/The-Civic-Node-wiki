@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-17
-total_pages: 874
-total_sources: 471
-total_entities: 187
-total_concepts: 120
+updated: 2026-04-18
+total_pages: 912
+total_sources: 503
+total_entities: 191
+total_concepts: 121
 total_syntheses: 13
-total_articles: 85
+total_articles: 86
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -575,6 +575,65 @@ New concepts:
 #### Economics
 - [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]] — NPR/Planet Money, Feb 2025; Jevons Paradox applied to AI; efficiency → more consumption; Brynjolfsson pilots example
 
+### Recent Ingests (2026-04-18) — Destiny ECF docket + news, Minnesota/ICE accountability, and misc
+
+**Doe v. Bonnell docket deep-read (11 ECF filings):** Full pre-trial motion record now in the wiki — MTD (jurisdiction), protective orders, Rule 11 sanctions, MSJ, Rule 56(d) deferral, motions in limine, and continuance opposition. Entity pages for all five principals updated with source appearances across the full docket.
+
+- [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell MTD for lack of subject matter jurisdiction; argues Out-of-Circuit Abby subpoena history establishes no federal cause of action; Sep 19, 2025
+- [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Plaintiff attacks Bonnell's footnote claiming Rose was a minor; demonstrates it was false and fabricated; Oct 2025
+- [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — Bonnell seeks protective order on deposition timing and scope; Nov 2025
+- [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — Plaintiff moves for Rule 11 sanctions over false minor footnote; Dec 2025
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — Bonnell's MSJ arguing no genuine dispute of material fact; Feb 2026
+- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — Plaintiff seeks deferral pending Bonnell deposition and foreign discovery (Solo); Mar 2026
+- [[Doe v Bonnell ECF218 — Bonnell Opposition to Rule 56(d) Motion]] — Bonnell argues plaintiff has had adequate time for discovery; Mar 2026
+- [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — Bonnell's omnibus MIL; seeks to exclude multiple categories of evidence at trial; Mar 2026
+- [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — Bonnell opposes plaintiff's motions in limine; Apr 2026
+- [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff argues Bonnell's MIL overreaches; Novel argument: catfish intermediary creates new liability layers; Apr 2026
+- [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — Bonnell opposes plaintiff's request for continuance; argues case is ready for trial; Apr 2026
+
+**Destiny case news articles and reference files:**
+- [[wfla-destiny-sued-cyber-sexual-harassment]] — WFLA/Tampa (Feb 19, 2025); first mainstream news coverage of the lawsuit filing; Bonnell's written admission quoted
+- [[pxie-substack-lawsuit-announcement-2025-01-20]] — Pxie's Jan 20, 2025 Substack post (her own announcement); "proxy" distribution theory; GiveSendGo fundraiser
+- [[lauren-delaguna-x-admission-2025-12]] — Compiled record of DeLaguna's Nov–Dec 2025 X posts and Bonnell's Dec 2025 counter-post; confirmed admissions vs. unconfirmed allegations
+- [[destiny-wiki-lauren-delaguna]] — Destiny fan wiki biography of Lauren DeLaguna (Lauren Hayden); Blacklist timeline; Nov 2025 Austin encounter; independent of either party's filings
+
+**Minnesota/ICE accountability cluster (support for "The System Is Functioning Correctly"):**
+- [[Acting ICE Director Todd Lyons Submits Resignation]] — Lyons exits May 31; resignation announced same day as first criminal charge against a surge officer
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — ProPublica; federal lawsuit against DHS/DOJ; 14 additional investigations; Supremacy Clause obstacles
+- [[Minnesota Prosecutors Charge ICE Agent With Assault]] — First criminal case against a surge officer; Morgan charged with felony assault; 911 call as the evidence pathway
+- [[Minnesota Sues to Obtain Evidence in Shootings by Federal Officers]] — PBS; "categorically withholding evidence" framing; DOJ asymmetric civil rights review
+- [[When Can States Prosecute Federal Agents]] — Legal framework; *In re Neagle*; four historical exceptions; pardon firewall for state convictions
+- [[When the Federal Government Blocks State Murder Investigations]] — "Defensive immunity" concept; George Floyd contrast; Good family forced into private civil litigation
+- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — Cannon extends unlawful-appointment theory to suppress the public record; 11th Circuit appeal pending
+- [[Judge Halts White House Ballroom Construction]] — Leon blocks above-ground construction; Trump inadvertently discloses classified project features while attacking judge
+- [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]] — Inverted redaction: victim identities exposed, enabler names concealed; 200,000 pages withheld
+- [[House GOP Passes Short-Term FISA Deal Amid Republican Infighting]] — Three-way GOP split; 10-day stopgap; Freedom Caucus defies Trump
+- [[Trump Nominates Erica Schwartz as CDC Director]] — Qualified nominee; public health experts question whether RFK Jr. will allow independence
+
+**Iran / Geopolitics additions:**
+- [[Iran Hormuz Strait Reopens — Trump Blockade Remains in Full Force]] — The Hill, Apr 17 2026; Iran FM declares Hormuz "completely open" during ceasefire; Trump maintains blockade; oil -13%
+- [[Iran-US War Latest — Trump Says Talks Continue Over the Weekend]] — The Independent live blog, Apr 17–18 2026; Trump-Iran negotiations; NATO swipe at Arizona rally; Hezbollah excluded
+- [[Trump Says Israel and Lebanon Have Agreed to a Ceasefire — NPR]] — NPR, Apr 16 2026; 10-day ceasefire mechanics; 1M displaced; Lebanon as Iranian precondition for nuclear talks
+
+**NFL / Seahawks additions:**
+- [[Seahawks vs 49ers Week 18 Predictions and Best Bets — January 2026]] — Jan 3 2026; pre-game betting analysis; Darnold/JSN/Charbonnet; NFC No. 1 seed game
+- [[Seahawks-Patriots Super Bowl LX — What We Learned from Seattle's 29-13 Win]] — NFL.com, Feb 8 2026; official Super Bowl LX game recap; Walker 135-yd MVP; Macdonald scheme; Drake Maye struggles; Myers record 5 FGs
+
+**Social media:**
+- [[How Social Media Algorithms Are Set to Change in 2025]] — Touchstone Digital, Mar 2025; practitioner guide to platform algorithm changes; AI personalization; Reels dominance
+
+New entities:
+- [[Todd Lyons]] — Acting ICE director who resigned effective May 31, 2026; resignation timed to first criminal charge against a surge officer
+- [[Mary Moriarty]] — Hennepin County Attorney pursuing first-ever criminal cases against surge officers; leaves office end-of-year
+- [[Gregory Donnell Morgan]] — First federal surge officer charged with a crime; felony assault; test case for Supremacy Clause immunity
+- [[Aileen Cannon]] — Federal judge (S.D. Fla.); permanently blocked Jack Smith classified documents report; 11th Circuit appeal pending
+
+New concept:
+- [[Supremacy Clause Immunity]] — Doctrinal expansion from *In re Neagle*'s four historical exceptions to "defensive immunity"; pardon firewall for state convictions; key concept for federal accountability gap
+
+New article:
+- [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026; Adam Back's SPAC merger with Cantor Equity Partners as the first compulsion vector that may force resolution of the Satoshi question; SEC S-4 disclosure vs. press interview denials
+
 ---
 
 ## Entities
@@ -680,6 +739,10 @@ New concepts:
 - [[Len Sassaman]] — Cypherpunk; prominent Satoshi Nakamoto candidate; NYT investigation subject
 - [[Nick Szabo]] — Cryptographer; Bit Gold inventor; prominent Satoshi Nakamoto candidate
 - [[Peter Todd]] — Bitcoin core developer; prominent Satoshi Nakamoto candidate; NYT investigation subject
+- [[Aileen Cannon]] — Federal judge (S.D. Fla.); permanently blocked Jack Smith classified documents report; 11th Circuit appeal pending
+- [[Gregory Donnell Morgan]] — First federal surge officer criminally charged (felony assault); test case for Supremacy Clause immunity
+- [[Mary Moriarty]] — Hennepin County Attorney; first-ever criminal cases against ICE surge officers; leaves office end-of-year
+- [[Todd Lyons]] — Acting ICE director; resigned effective May 31 2026; departure timed to first surge-officer criminal charge
 - [[Rick Crawford]] — U.S. Representative (R-AR); House Intelligence Committee chair
 - [[Scott Bessent]] — U.S. Secretary of the Treasury; fiscal policy, sanctions, stablecoin regulation oversight
 - [[Tim Kaine]] — U.S. Senator from Virginia (D); shutdown negotiation coverage
@@ -790,6 +853,7 @@ New concepts:
 - [[Regulatory Weaponization]] — Using agency designations and enforcement as political punishment tools
 - [[Federal Power as Political Instrument]] — Executive branch tools deployed with partisan logic
 - [[Federal Immunity Above Constitutional Law]] — Pattern of immunity doctrines defeating ordinary constitutional/statutory accountability for federal actors
+- [[Supremacy Clause Immunity]] — *In re Neagle* doctrine and its "defensive immunity" expansion; four historical exceptions to state prosecution of federal agents; pardon firewall for state convictions; Doe v. Bonnell / Destiny case as civil analog
 - [[International Humanitarian Law]] — Geneva framework regulating armed conflict; the legal standard against which Iran-war infrastructure targeting is being evaluated
 - [[Institutional Capture]] — Slow-motion failure mode where regulators come to serve the regulated; baseline against which dramatic interventions are measured
 
@@ -954,6 +1018,7 @@ New concepts:
 - [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
 
 ### Nonfiction Essays — DePIN & Crypto
+- [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026; Adam Back's SPAC merger as the first mechanism that may force SEC disclosure on Satoshi's $81B in BTC; 17 years of anonymity vs. a single S-4 filing
 - [[DePIN More Than Hype]] — Introductory DePIN thesis; Datagram as flagship example
 - [[The DePIN Scam]] — "DePIN mullet" concept; 32-50% insider token allocations; Helium SEC enforcement; corporate theater as community governance
 - [[Everyone's Farming DePIN Tokens. Almost Nobody's Checking If the Hardware Exists]] — Oracle problem and verification failure at scale; IO.net 98% GPU count collapse; Helium location spoofing
@@ -1050,9 +1115,9 @@ New concepts:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 454 |
-| Published articles tracked | 85 |
-| Entity pages | 178 |
-| Concept pages | 116 |
+| Total sources ingested | 503 |
+| Published articles tracked | 86 |
+| Entity pages | 191 |
+| Concept pages | 121 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-16 |
+| Last updated | 2026-04-18 |

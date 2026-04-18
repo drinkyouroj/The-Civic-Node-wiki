@@ -4,8 +4,8 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
-updated: 2026-04-08
-sources: 27
+updated: 2026-04-18
+sources: 33
 ---
 
 ## Overview
@@ -77,10 +77,29 @@ Metro Surge is the clearest recent example of [[Sanctuary Infrastructure]] under
 - [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] — Primary-source Feb 12 2026 preliminary impact assessment from the City; contains the corrected $203.1M total figure with full sector breakdown
 - [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]] — Methodological accountability piece (Mar 2 2026) walking through both the city's arithmetic and Rosenthal-Sojourner's econometric approach; $106.1M wage-loss independent estimate
 - [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]] — Judge Menendez's Jan 31 denial of preliminary injunction; documents the Tenth Amendment and equal sovereignty theories and why they failed at PI stage
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — ProPublica; federal lawsuit filed March 24; 14 additional investigations; Supremacy Clause legal framework
+- [[Minnesota Sues to Obtain Evidence in Shootings by Federal Officers]] — PBS; "categorically withholding evidence" framing; DOJ civil rights review asymmetry
+- [[Minnesota Prosecutors Charge ICE Agent With Assault]] — first criminal case against surge officer; Morgan charges April 16
+- [[Acting ICE Director Todd Lyons Submits Resignation]] — Lyons exit effective May 31; same-day timing with Morgan charges
+- [[When Can States Prosecute Federal Agents]] — legal framework for state prosecution of federal officers; four historical exceptions; pardon firewall
+- [[When the Federal Government Blocks State Murder Investigations]] — "defensive immunity" vs. traditional immunity; George Floyd contrast; privatization of justice
+
+## Accountability Developments (updated April 18, 2026)
+
+- **March 24, 2026**: [[Mary Moriarty]] (Hennepin County) and [[Keith Ellison]] (Minnesota AG) filed federal lawsuit against DHS/DOJ seeking evidence in three shootings. Moriarty described it as "unprecedented in American history." DOJ had earlier agreed to cooperate, then reversed after Trump administration public statements. [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
+- **March 24, 2026**: DOJ opened civil rights investigation into Pretti's death but declined similar review for Good — described as "departure from past administrations' standard procedure." [[Minnesota Sues to Obtain Evidence in Shootings by Federal Officers]]
+- **April 16, 2026**: First criminal charge against a surge officer: [[Gregory Donnell Morgan]] charged with two felony counts of second-degree assault (gun pointed at civilian drivers, Feb 5, 2026). Case initiated by 911 call — civilian reporting, not federal cooperation. [[Minnesota Prosecutors Charge ICE Agent With Assault]]
+- **April 16, 2026**: Acting ICE Director [[Todd Lyons]] resigned effective May 31; DHS framed as voluntary transition to private sector. [[Acting ICE Director Todd Lyons Submits Resignation]]
+- Moriarty has opened **14 additional criminal investigations** into federal conduct during the surge, including high school force incident and investigation of [[Gregory Bovino]] (Border Patrol commander, chemical agents). [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
+- New doctrinal dispute: Trump administration asserting immunity from *investigation* (not just prosecution) — no historical precedent at this scale. See [[Supremacy Clause Immunity]].
+- **Pardon firewall**: State convictions are beyond presidential pardon authority — the structural reason federal evidence-withholding is so aggressive.
 
 ## Open Questions
 - What happened to the Feeding Our Future fraud prosecutions after the lead prosecutors resigned?
 - Were any of the 96 court violations prosecuted? Did DHS face any sanctions?
-- Will the anti-commandeering doctrine case eventually be heard on the merits at the Eighth Circuit or Supreme Court, and if so, will the doctrine be extended to enforcement-deployment contexts?
-- Did the sanctuary model (synagogues, churches sheltering migrants) lead to federal enforcement action against those institutions?
-- What is the full docket number for Judge Schiltz's Jan 28 96-violations finding? The Wikipedia sourcing is secondary.
+- Will the anti-commandeering doctrine case eventually be heard on the merits at the Eighth Circuit or Supreme Court?
+- Did the sanctuary model (synagogues, churches sheltering migrants) lead to federal enforcement action?
+- What is the full docket number for Judge Schiltz's Jan 28 96-violations finding?
+- Will the evidence lawsuit produce court-ordered disclosure before Moriarty leaves office?
+- What is the status of the 14 additional investigations beyond the Morgan assault case?
+- Will Morgan's case survive a Supremacy Clause immunity challenge?

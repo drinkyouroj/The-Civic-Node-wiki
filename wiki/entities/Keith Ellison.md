@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, minnesota, legal, immigration]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 10
+updated: 2026-04-18
+sources: 12
 ---
 
 ## Overview
@@ -18,6 +18,7 @@ Keith Ellison is the Minnesota Attorney General who led the state's legal challe
 - Asked residents to submit videos, photos, and eyewitness accounts of the shooting to enable state prosecution [[Killing of Renée Good - Wikipedia]]
 - DOJ subsequently probed Ellison, Governor Walz, and Mayor Frey for alleged conspiracy to impede federal officers [[Killing of Renée Good - Wikipedia]]
 - On March 24, Minnesota, Hennepin County, and the Minnesota Bureau of Criminal Apprehension filed suit against DOJ and DHS for withholding investigative evidence [[Killing of Renée Good - Wikipedia]]
+- Quoted in lawsuit coverage: "The federal government has refused to cooperate with state law enforcement, which is unique, rare and simply cannot be tolerated" [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
 
 ## Newsletter Relevance
 Ellison represents the institutional counter-strategy to federal overreach: using state AG authority to file suits, preserve evidence, and build alternative legal records when federal institutions have been captured. Whether his strategy produces accountability or just generates legal delay is an open question worth tracking.
@@ -35,6 +36,8 @@ Ellison represents the institutional counter-strategy to federal overreach: usin
 - [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — quoted extensively on the investigation breakdown: "Maybe they don't care"
 - [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — the legal ecosystem in which the preliminary injunction sits
 - [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — parallel legal strategy to his AG suit
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — March 24 evidence lawsuit; "unique, rare and simply cannot be tolerated" quote
+- [[Minnesota Sues to Obtain Evidence in Shootings by Federal Officers]] — parallel PBS coverage of same lawsuit
 
 ## Open Questions
 - Did Ellison's state-level investigations produce any indictments or convictions?

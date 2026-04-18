@@ -3,8 +3,8 @@ title: "Toothless Transparency Laws"
 type: concept
 tags: [politics, power, accountability, institutional-gaslighting, transparency, law]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 3
+updated: 2026-04-18
+sources: 10
 ---
 
 ## Definition
@@ -77,6 +77,7 @@ This pattern is not unique to Epstein. The absence of any mechanism by which sta
 - [[More than a million Epstein documents discovered release delayed Al Jazeera]] — Massie's "DOJ did break the law" quote; 12-senator IG letter
 - [[Pennsylvania Grand Jury Catholic Church sexual abuse investigation]] — statute of limitations as the functional toothlessness mechanism; 301 predators, 2 prosecutions
 - [[Trump administration uses taxpayer dollars to blame Democrats for government shutdown]] — Hatch Act operating as functionally nullified
+- [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]] — CNN; January 30, 2026 Epstein release; bipartisan lawmakers confirm DOJ violated the Act; 200,000 additional pages withheld under privilege claims; inverted redaction
 
 ## Open Questions
 

@@ -3,8 +3,8 @@ title: "Institutional Gaslighting"
 type: concept
 tags: [power, politics, truth-control, federal-immunity, accountability]
 created: 2026-04-06
-updated: 2026-04-17
-sources: 28
+updated: 2026-04-18
+sources: 39
 ---
 
 ## Definition
@@ -49,6 +49,13 @@ Research conducted April 2026 identified a **fourth structural component** along
 
 **The Result**: Investigation exists to manage perception, not discover truth. Minnesota can legislate all it wants—federal agency controls evidence and narrative.
 
+**April 2026 Updates**:
+- March 24, 2026: Minnesota and Hennepin County filed federal lawsuit against DHS and DOJ alleging "categorical evidence withholding." DOJ opened civil rights review for Pretti but declined for Good — selective accountability.
+- April 16, 2026: First criminal charge filed against a federal surge officer: ICE agent [[Gregory Donnell Morgan]] charged with second-degree assault for pointing gun at civilian drivers. Case reached charges because victims called 911 — circumventing federal evidence obstruction.
+- April 16, 2026: Acting ICE Director [[Todd Lyons]] resigned effective May 31 — same day as Morgan charges; no stated accountability connection.
+- New doctrinal claim (per [[When the Federal Government Blocks State Murder Investigations]]): federal officials asserting immunity from *investigation itself*, not merely immunity from prosecution after charges — an expansion of Supremacy Clause doctrine without historical precedent.
+- **Pardon firewall identified**: State convictions cannot be pardoned by the president. This structural fact explains the aggressive preemptive evidence-withholding — state prosecution is the only accountability pathway that survives executive clemency.
+
 ### Epstein Files (December 2025 - present)
 
 **The Deadline**: Congress passed the Epstein Files Transparency Act (H.R. 4405) on November 19, 2025 — House 427–1, Senate by unanimous consent. Required full release by December 19, 2025. **The Act contains no penalty provision for noncompliance.**
@@ -60,6 +67,9 @@ Research conducted April 2026 identified a **fourth structural component** along
 **The Republican smoking gun**: Rep. [[Thomas Massie]] (R-KY), chief Republican author of the Act, posted publicly on X after the deadline: *"DOJ did break the law by making illegal redactions and by missing the deadline."* Twelve senators — Republican [[Lisa Murkowski]] and eleven Democrats — sent a letter to DOJ Inspector General Don Berthiaume on December 24, 2025 requesting an independent audit. No legal consequence has attached.
 
 **The Result**: Promise transparency, pass a law with no teeth, miss deadlines, release fragments, blame volume, attack questioners as against victims, run out the clock. The fourth structural component (toothless legal instruments) completes the architecture.
+
+**February 2026 Update — Inverted Redactions**:
+January 30, 2026 release of 3.5M pages revealed an inverted redaction pattern: victim names, addresses, and phone numbers were exposed while the names of alleged enablers were concealed. DOJ withheld ~200,000 additional pages under attorney-client privilege and work-product doctrine. Bipartisan congressional condemnation: Massie said release "grossly fails to comply with both the spirit and the letter of the law." Survivor Sharlene Rochard: "Publishing images of victims while shielding predators is just a failure of complete justice." See [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]].
 
 ### Trump Investigations — Biden DOJ Slow-Walk (2021–2025)
 
@@ -137,7 +147,15 @@ The grand jury explicitly stated the outcome — 2 prosecutions from 301 identif
 
 ## Key Sources
 
-**Federal accountability cases (Trump era):**
+**Federal accountability cases (Trump era — updated April 18, 2026):**
+- [[Acting ICE Director Todd Lyons Submits Resignation]] — Lyons exits same day first criminal charge filed against a surge agent; leadership rotation without accountability
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — ProPublica; 14 additional investigations; Supremacy Clause as stated primary obstacle; Touhy letter process; extradition uncertainty
+- [[Minnesota Prosecutors Charge ICE Agent With Assault]] — first criminal case against federal surge officer; mechanism: civilian 911 call, not federal cooperation
+- [[Minnesota Sues to Obtain Evidence in Shootings by Federal Officers]] — PBS; "categorically withholding evidence" as stated federal policy; DOJ civil rights review asymmetry (Pretti yes, Good no)
+- [[When Can States Prosecute Federal Agents]] — legal framework; four historical exceptions; pardon firewall (state convictions beyond presidential pardon)
+- [[When the Federal Government Blocks State Murder Investigations]] — "defensive immunity" concept; George Floyd parallel investigation contrast; privatization of justice via civil litigation
+- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — unlawful-appointment theory extends to suppress the public record; 11th Circuit appeal pending
+- [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]] — inverted redaction: victim identities exposed, enabler names concealed; 200,000 pages withheld under privilege claims; bipartisan condemnation
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — full documentation of pattern across three cases
 - [[The Pastor Runs the Gestapo]] — Minneapolis case details
 - [[ICE Agent Cellphone Captures Fatal Confrontation in Minneapolis CNN]] — video evidence vs. Trump admin narrative

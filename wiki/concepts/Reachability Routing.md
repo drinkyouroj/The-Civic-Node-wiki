@@ -3,8 +3,8 @@ title: "Reachability Routing"
 type: concept
 tags: [legal, jurisdictional-asymmetry, civil-litigation, power]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 1
+updated: 2026-04-18
+sources: 13
 ---
 
 ## Definition
@@ -46,3 +46,8 @@ This concept anchors the [[You Can't Sue the Catfish]] article and generalizes t
 - [[Doe v Bonnell continuance motion (ECF 227)]]
 - [[Rose deposition — Doe v Bonnell]]
 - [[Doe v. Bonnell (1-25-cv-20757)]]
+- [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — fullest articulation of the jurisdictional asymmetry in the case; Bonnell is reachable, Solo is not
+- [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Discord CDN reachability theory; Plaintiff's attempt to bridge the April 2022 pre-statute gap via continuous disclosure
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — most complete legal synthesis; shows how reachability routing and catfishing interact in the post-discovery record
+- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — Hague Convention request to depose Göransson in Sweden; practical example of how expensive and slow it is to reach unreachable witnesses even via legitimate process
+- [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — system's practical verdict as of April 2026: the reachable defendant proceeds to trial while the proximate cause is unserved and undeposed

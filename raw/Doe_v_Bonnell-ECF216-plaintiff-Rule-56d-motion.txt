@@ -1,0 +1,876 @@
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 1 of 16
+
+
+
+
+                                UNITED STATES DISTRICT COURT
+                               SOUTHERN DISTRICT OF FLORIDA
+
+                                          (MIAMI DIVISION)
+
+  JANE DOE,                                                       CASE NO: 1:25-cv-20757-JB/Torres
+
+          Plaintiff,
+
+  v.
+
+  STEVEN K. BONNELL II,
+
+          Defendant.
+
+  ____________________________________/
+
+                   PLAINTIFF’S RULE 56(D) MOTION TO DENY OR DEFER
+                          MOTION FOR SUMMARY JUDGMENT
+
+          Pursuant to Fed. R. Civ. P. 56(d), Plaintiff Jane Doe (“Doe”) moves this Court for an order
+
+  denying or deferring the time to respond to the motion for summary judgment filed by Defendant
+
+  (ECF 210)(“MSJ”), and respectfully states as follows:
+
+                                          INTRODUCTION
+
+          Material discovery remains outstanding in this matter, including, critically, the deposition
+
+  of Defendant. Since the filing of this action, Plaintiff has acted diligently in prosecuting her claims,
+
+  and the inability to complete discovery is through no fault of Plaintiff. Defendant’s deposition
+
+  testimony is necessary to rebut Defendant’s assertion that he did not disclose the Video to Abbymc
+
+  and that his disclosure to Rose did not render the Video continuously accessible. In addition,
+
+  Defendant’s document production is deficient and reflects indicia of alteration and improper
+
+  preservation, necessitating further discovery efforts, including a motion to compel and potential
+
+  spoliation relief. Plaintiff has been unable to pursue such relief to date due to Defendant’s lack of
+
+  cooperation and conduct that has impeded Plaintiff’s discovery efforts.
+
+
+
+
+                                                     1
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 2 of 16
+
+
+
+
+         The Court has also granted Plaintiff leave to depose Melina Goransson in Sweden;
+
+  however, that deposition has not yet occurred due to the requirements of the international discovery
+
+  process. The testimony of both Defendant and Ms. Goransson is material to the issues raised in
+
+  Defendant’s MSJ.
+
+         Accordingly, Plaintiff respectfully requests that the Court deny Defendant’s MSJ without
+
+  prejudice, with leave to refile after the completion of Defendant’s and Ms. Goransson’s depositions
+
+  and the resolution of outstanding discovery issues. In the alternative, should the Court decline to
+
+  deny the motion, Plaintiff requests a two-week enlargement of time from the date of such ruling
+
+  to respond to Defendant’s Motion for Summary Judgment pursuant to Federal Rule of Civil
+
+  Procedure 6(b).
+
+                    RELEVANT FACTS AND PROCEDURAL BACKGROUND
+
+         1.      On February 18, 2025, Plaintiff filed her initial Complaint against Bonnell. (DE 1).
+
+         2.      On April 4, 2025, the Court entered a Scheduling Order wherein it set, inter alia, a
+
+  discovery cutoff date of December 16, 2025. (DE 23).
+
+         3.      On April 3, 2025, Plaintiff moved for a preliminary injunction (DE 26); Defendant
+
+  opposed on April 25 (DE 42); and Plaintiff replied on May 2 (DE 49). On June 3 a hearing was
+
+  held before Magistrate Judge Torres.
+
+         4.      On May 23, 2025, after Defendant refused to agree to the terms of a proposed
+
+  protective order seeking to protect the confidential and intimate information of the Plaintiff and
+
+  non-party witnesses, Plaintiff was compelled to file a Motion for a Protective Order Governing
+
+  Discovery (DE82), which the Court granted on September 2, 2025. DE116 (“Protective Order”).
+
+         5.      Discovery could not commence until the Protective Order was entered, thus the
+
+  discovery period was only three-and-a-half months. Decl. J. Peters, ¶2. This was further shortened
+
+
+
+
+                                                   2
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 3 of 16
+
+
+
+
+  by the Stay Order, see infra.
+
+          6.     Since the Protective Order was issued, Plaintiff diligently conducted and
+
+  participated in discovery, including i) serving three requests for production of documents, a request
+
+  for admissions, and interrogatories; ii) responding to Defendant’s two sets of interrogatories, five
+
+  requests for production of documents and producing over 3,650 documents; iii) serving multiple
+
+  objection letters regarding Defendant’s deficient responses to request for admissions,
+
+  interrogatories and document productions and attempting to resolve discovery disputes (see infra);
+
+  iv) three non-party witness depositions; v) representing a non-party witness’ response to a
+
+  subpoena duces tecum and producing over 400 documents; vi) serving six subpoena duces tecum
+
+  on various entities including Kiwi Farms, Discord, Google, Instagram and also a non-party
+
+  witness; vii) extensive on-going efforts to depose non-party witness Melina Goransson in Sweden;
+
+  and viii) extensive efforts to coordinate party depositions. See Decl. J. Peters, ¶4.
+
+          7.     On September 4, 2025, the Court granted Plaintiff’s Motion to file a First Amended
+
+  Complaint (“FAC”), which was filed on September 5, 2025. DEs 119, 120.
+
+                              ~The Party Depositions and the Stay Order
+
+          8.     On September 17, 2025, Plaintiff’s counsel requested Defendant’s available dates
+
+  for deposition. DEs 163-2, 163-3. On September 26, 2025, the deposition of Defendant was
+
+  confirmed for November 6, 2025. DE 163-5.
+
+          9.     Thereafter a scheduling dispute ensued regarding Plaintiff’s deposition, and
+
+  Defendant retracted his confirmation of his deposition. Decl. J. Peters, ¶¶ 11-12. On November 4,
+
+  2025, Defendant filed a Motion for Protective Order to Coordinate Deposition Scheduling (DE
+
+  163).
+
+          10.    On November 5, 2025, Magistrate Judge Torres entered an order staying the
+
+
+
+
+                                                    3
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 4 of 16
+
+
+
+
+  November 6 deposition of Defendant pending resolution of Defendant’s motion for protective
+
+  order. DE 167 (“Stay Order”). Defendant’s motion was fully briefed and submitted to the Court
+
+  on November 17, 2025. DEs 177, 179. The motion for protective order is still pending, and thus
+
+  Plaintiff was precluded from taking Defendant’s deposition prior to the December 16th discovery
+
+  deadline. Decl. J. Peters, ¶13.
+
+                     ~Motion to Dismiss and Motion to Depose Witness in Sweden
+
+         11.     On September 19, 2025, Defendant filed a Motion to Dismiss the Amended
+
+  Complaint, inter alia raising therein factual claims, which were refuted by Plaintiff, including via
+
+  expert testimony. DEs 132, 139, 147, 149, 165. The Motion to Dismiss is still pending.
+
+         12.     On November 5, 2025, this Court granted Plaintiff’s Motion for Issuance of Letter
+
+  of Request to depose a witness in Sweden. DE166. The letter of request was sent to the US
+
+  Department of State and was then submitted to the Ministry of Justice in Sweden in mid-
+
+  December. Decl. J. Peters, ¶18. The Ministry of Justice has confirmed that the request is being
+
+  processed, however the deposition has not yet been scheduled. Id.
+
+     ~Defendant’s Deficient Document Productions and Plaintiff’s Thwarted Motion to Compel
+
+         13.     On November 19, 2025, Plaintiff held a meet and confer with Defendant regarding
+
+  his deficient document production and Plaintiff’s intended motion to compel. DE 184, 190, 190-
+
+  1. Defendant made his first production on September 12 (7 days late), Plaintiff objected via letters
+
+  on September 18, October 17 and October 24, and Defendant responded with a second production
+
+  on November 12, to which Plaintiff also objected on November 18. Id. Defendant agreed to make
+
+  an additional production allegedly to cure the deficiencies. Defendant also agreed that if the
+
+  additional production did not cure the deficiencies, defense counsel were available on December
+
+  11 or December 18, the last two dates available for discovery hearings on Magistrate Judge Torres’
+
+
+
+
+                                                   4
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 5 of 16
+
+
+
+
+  calendar at that time. Id.
+
+          14.     On November 25, Defendant made an additional production which did not cure the
+
+  noted deficiencies. Plaintiff had exhausted her efforts to resolve the deficiencies without resorting
+
+  to the Court. Decl. J. Peters, ¶7.
+
+          15.     On December 3, Plaintiff contacted Magistrate Judge Torres’ chambers pursuant to
+
+  his Order Setting Discovery Procedures, and was informed that December 18 was the only
+
+  remaining discovery-calendar date available in December. DE 184, 190.
+
+          16.     On December 4, Plaintiff advised defense counsel in writing that the supplemental
+
+  production did not cure the deficiencies identified in Plaintiff’s four deficiency letters, and that
+
+  Plaintiff was moving forward with a motion to compel via hearing on the 18th. DE 190, 190-1, 3.
+
+  Defendant’s counsel, despite having previously confirmed availability, claimed that none of the
+
+  four attorneys were available on the 18th. Id.
+
+          17.     Defense counsels’ sudden unavailability for December 18 effectively prevented
+
+  Plaintiff from obtaining judicial resolution of Defendant’s discovery deficiencies, despite
+
+  Plaintiff’s diligence. Decl. J. Peters, ¶9.
+
+                               ~Expert Reports and Evidence of Spoliation
+
+          18.     On October 16, 2025, Plaintiff timely submitted to Defendant the expert reports of
+
+  her forensic and medical experts, Mr. Jesus Pena, and Dr. Robert Gordon.
+
+          19.     Defendant noticed the deposition of Mr. Pena for December 16, 2025, but cancelled
+
+  the deposition two days prior. Defendant never sought to depose Dr. Gordon.
+
+          20.     Mr. Pena’s expert report opined that the Defendant failed to use forensically sound
+
+  data preservation, and omitted the essential step of generating cryptographic hash values at the
+
+  time of collection. DE 139, at 3; 139-1. Moreover, Mr. Pena opined that the documents produced
+
+
+
+
+                                                   5
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 6 of 16
+
+
+
+
+  by Defendant (and relied on by Defendant in his Motion to Dismiss and now in his Motion for
+
+  Summary Judgment) bear indicia of alteration and tampering. Id.
+
+         21.     The issues relating to deficient preservation and possible tampering of evidence
+
+  must be explored at Defendant’s deposition. Should Defendant fail to provide a credible
+
+  explanation of his preservation methods and the indicia of alteration, Plaintiff will need to seek
+
+  appropriate judicial relief, including spoliation sanctions. A finding of spoliation could result in an
+
+  adverse inference regarding Defendant’s disclosure of the Video to Abbymc, which would not
+
+  only defeat summary judgment, but also support Plaintiff’s punitive damages claim. Decl. J.
+
+  Peters, ¶16.
+
+                 ~Motion to Modify the Scheduling Order and Other Pending Motions
+
+         22.     On December 4, 2025, twelve days before the cut off for discovery, with unresolved
+
+  deficiencies in Defendant’s document production, and the Stay Order still in place preventing the
+
+  taking of Defendant’s deposition, Plaintiff filed a Motion to Modify the Scheduling Order. DE
+
+  184. The Motion to Modify is still pending.
+
+         23.     Currently the following motions are pending resolution: Plaintiff’s Motion for
+
+  Protective Order Governing Public Commentary (DEs 84, 99, 104); Plaintiff’s Motion for Order
+
+  to Show Cause (DEs 113, 118, 130); Defendant’s Motion to Dismiss (DEs 132, 139, 147, 149,
+
+  178); Defendant’s Motion for Protective Order To Coordinate Deposition Scheduling (DEs 163,
+
+  177, 179); Defendant’s Motion for Sanctions (DEs 183, 185, 192); Plaintiff’s Motion for Sanctions
+
+  (DEs 186, 197, 202); Plaintiff’s Motion to Modify the Scheduling Order (DEs184, 190, 196, 200);
+
+  and Joint Notice of Resolution of Confidentiality Designation and Motion for Leave to Refile
+
+  Papers (DE 204).
+
+
+
+
+                                                    6
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 7 of 16
+
+
+
+
+                                          MEMORANDUM OF LAW
+
+          I.      Legal Standard
+
+          “Rule 56(d) permits a court to ‘defer’ or ‘deny’ a motion for summary judgment, allow
+
+  additional time for discovery, or issue an appropriate order ‘[i]f a nonmovant shows by affidavit
+
+  or declaration that, for specified reasons, it cannot present facts essential to justify its opposition.’”
+
+  Taylor v. Farm Credit of N. Fla. ACA, No. 21-13807, 2022 WL 4493044, at *3 (11th Cir. Sept.
+
+  28, 2022) (quoting Fed. R. Civ. P. 56(d))(summary judgment may be premature where important
+
+  discovery remains ongoing). The Eleventh Circuit has held that summary judgment should not be
+
+  granted until the party opposing the motion has had an adequate opportunity to complete discovery
+
+  prior to consideration of the motion." Snook v. Tr. Co. of Ga. Bank of Savannah, N.A., 859 F.2d
+
+  865, 870 (11th Cir. 1988). See also WSB-TV v. Lee, 842 F.2d 1266, 1269 (11th Cir.1988). When
+
+  essential discovery remains outstanding, the Court has found it appropriate to defer ruling on a
+
+  motion for summary judgment until after such discovery has been completed. Sphar v. Amica Mut.
+
+  Ins. Co., No. 6:16-cv-2221-Orl-40TBS, 2017 U.S. Dist. LEXIS 206250, 2017 WL 6406837, at *2
+
+  (M.D. Fla. Dec. 15, 2017) (denying without prejudice as premature a motion for summary
+
+  judgment, to allow time to depose critical witness).
+
+          "Whether to grant or deny a Rule 56(d) motion for discovery requires the court to balance
+
+  the movant's demonstrated need for discovery against the burden such discovery will place on the
+
+  opposing party." Harbert Int'l, Inc. v. James, 157 F.3d 1271, 1280 (11th Cir. 1998). In striking this
+
+  balance, though, the Eleventh Circuit has explained that Rule 56(d) "is infused with a spirit of
+
+  liberality." Reflectone, Inc. v. Farrand Optical Co., 862 F.2d 841, 844 (11th Cir.
+
+  1989) (quoting Wallace v. Brownell Pontiac-GMC Co., 703 F.2d 525, 527 (11th Cir. 1983)). See
+
+  also Walters v. City of Ocean Springs, 626 F.2d 1317, 1321 (5th Cir. 1980) ("Unless dilatory or
+
+
+
+
+                                                      7
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 8 of 16
+
+
+
+
+  lacking in merit, [a Rule 56(d)] motion should be liberally treated.") (internal quotation marks
+
+  omitted).
+
+         II.     Argument
+
+         A.      The Court Should Deny or Defer the MSJ Because Plaintiff Has Been Unable to
+                 Take Defendant’s Deposition or Complete Other Discovery Critical to Disputing
+                 Defendant’s MSJ and Statement of Undisputed Material Facts (“SUMF”)
+
+         The Court should deny or defer Defendant’s Motion until such time that Plaintiff can take
+
+  the deposition of Defendant and complete other discovery necessary to oppose the MSJ and
+
+  SUMF. The Stay Order has been in effect since November 5, 2025, effectively precluding Plaintiff
+
+  from taking Defendant’s deposition. Plaintiff’s inability to depose Defendant is not attributable to
+
+  any lack of diligence or delay on her part. To the contrary, Plaintiff actively sought to schedule
+
+  Defendant’s deposition beginning on September 17—approximately two weeks after entry of the
+
+  September 2 Protective Order and the commencement of discovery. Decl. J. Peters ¶ 10; DE 163-
+
+  5. The deposition was scheduled for November 6, at which point Plaintiff would have had
+
+  sufficient time to seek appropriate discovery relief, including spoliation sanctions, prior to the
+
+  close of discovery. Defendant’s deposition is essential to Plaintiff’s ability to meaningfully oppose
+
+  the MSJ/SUMF and to demonstrate the existence of genuine disputes of material fact.
+
+         Defendant’s MSJ rests on two central assertions: (i) that Defendant’s disclosure of the
+
+  Video to Rose occurred prior to the October 1, 2022 effective date of CARDII; and (ii) that
+
+  Defendant did not disclose the Video to Abbymc. To prevail on summary judgment, Defendant
+
+  must establish that both propositions are undisputed. The MSJ relies primarily on Defendant
+
+  Bonnell’s declaration and documents he produced and attached as exhibits to establish these
+
+  allegedly uncontested facts. See DE 213; DEs 213-1–213-6.
+
+         Courts have repeatedly recognized that summary judgment is inappropriate where the
+
+
+
+
+                                                   8
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 9 of 16
+
+
+
+
+  nonmoving party has not had an opportunity to depose the declarants whose affidavits form the
+
+  basis of the motion. In a closely analogous circumstance, the Eleventh Circuit reversed the denial
+
+  of a Rule 56(d) motion where plaintiffs were denied the opportunity to depose officials whose
+
+  affidavits were submitted in support of summary judgment. Jones v. City of Columbus, Ga., 120
+
+  F.3d 248, 253 (11th Cir. 1997). As detailed below, Plaintiff requires additional discovery to
+
+  challenge Defendant’s purportedly undisputed facts and to adequately respond to the MSJ.
+
+                         1. Defendant’s Disclosure of the Video to Rose
+
+         Even assuming, arguendo, that Defendant disclosed the Video to Rose prior to the October
+
+  1, 2022 effective date of CARDII, Plaintiff contends that the manner of that disclosure rendered
+
+  the Video accessible after that date. See Decl. J. Peters ¶ 20; DE 136 at 9–11. Plaintiff must depose
+
+  Defendant to determine how the Video was transmitted, whether and when Defendant deleted the
+
+  Video attachment from the Discord chat thread, and Defendant’s knowledge of Discord’s well-
+
+  documented security vulnerabilities relating to the exposure of user attachments. Decl. J. Peters ¶
+
+  20.
+
+         Answers to these questions are directly relevant to Plaintiff’s continuous accessibility
+
+  theory and may yield additional evidence supporting her claims. Without Defendant’s deposition
+
+  testimony, Plaintiff cannot adequately address or rebut Defendant’s assertions on summary
+
+  judgment. Id., ¶21.
+
+                         2. Defendant’s Disclosure of the Video to Abbymc
+
+         The MSJ and SUMF rely heavily on Defendant Bonnell’s declaration and certain
+
+  documents he produced to support the contention that it is an undisputed fact that he did not
+
+  transmit the Video to Abbymc. See DE 210 at 12–13; DE 211 ¶¶ 15–18; DE 213 ¶¶ 9–12.
+
+  Defendant declares, “I have preserved the entirety of my communication logs with Abbymc,
+
+
+
+
+                                                   9
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 10 of 16
+
+
+
+
+   including all media files. I did not transmit or otherwise disclose the Video depicting Plaintiff to
+
+   Abbymc at any time.” DE 213 ¶ 10. Yet Plaintiff has had no opportunity to test the veracity of this
+
+   assertion through deposition testimony. Moreover, paragraphs 11 and 12 of Defendant’s
+
+   declaration rely on Exhibits E and F (DEs 213-5, 213-6) as purported support. Plaintiff’s forensic
+
+   expert has identified significant indicia of tampering and spoliation in these exhibits, raising
+
+   substantial questions as to their authenticity and reliability. See DE 139 at 12–13; DE 139-1 ¶¶
+
+   19–22.
+
+            The authenticity and provenance of Exhibits E and F must be examined through
+
+   Defendant’s deposition. Numerous material questions remain unanswered, including but not
+
+   limited to: the steps Defendant took to preserve evidence 1; what evidence, if any, was deleted;
+
+   whether Defendant obtained or retained hash values or metadata; why his production lacks such
+
+   metadata; why attachments, links, and embedded files are missing; whether Defendant used a
+
+   reliable e-discovery platform; whether he used Redact to delete Discord messages; and whether
+
+   communications were archived. Decl. J. Peters ¶ 23.
+
+            Particularly concerning is Exhibit E, an Excel spreadsheet that appears to have been
+
+   artificially created by Defendant for purposes of supporting the Motion for Summary Judgment.
+
+   Id. Plaintiff must question Defendant regarding when, how, and why Exhibit E was created, as
+
+   well as inconsistencies between Exhibit E and Exhibit F. Id. For example, Exhibit E purports to
+
+   list MP4 files transmitted to Abbymc, including file names, creation dates, and transmission dates;
+
+   yet the file names reflect creation timestamps that postdate the alleged transmission dates. Decl. J.
+
+
+
+
+   1
+     Bonnell has provided conflicting accounts of his preservation of evidence methods. During the preliminary
+   injunction hearing he testified that he used “online platforms” to request a copy of all chat threads, DE___, p. 70, but
+   in a declaration submitted to the Court he used a third-party app “called Discord Log Exporter to export all relevant
+   messages into an HTML file.” DE 42-1.
+
+
+
+                                                             10
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 11 of 16
+
+
+
+
+   Peters, ¶24. And a comparison of the time stamps and Google Drive file identifiers in the two
+
+   URLs from the chat thread in Exhibit F do not match the same from the spreadsheet list the
+
+   Defendant prepared of media files sent to Abbymc in Exhibit E. See Decl. J. Peña, DE 139-1, ¶19.
+
+   These inconsistencies require explanation and cannot be resolved without Defendant’s testimony.
+
+   Id., ¶ 25.
+
+           Defendant’s assertion that he “preserved the entirety” of his communications with Abbymc
+
+   further necessitates inquiry into what Defendant considers preserved communications, how those
+
+   records were generated, and the role of Redact or other tools in producing Exhibits E and F. Decl.
+
+   J. Peters ¶ 26. If Defendant cannot authenticate these exhibits and establish their reliability—which
+
+   is presently in serious doubt—he cannot rely on them to support summary judgment on the issue
+
+   of disclosure to Abbymc. Id.
+
+           Plaintiff has been denied the opportunity to examine Defendant regarding the exhibits that
+
+   form the crux of the Motion for Summary Judgment. Allowing Plaintiff to obtain Defendant’s
+
+   deposition testimony is essential to developing the factual record necessary to oppose summary
+
+   judgment. Decl. J. Peters ¶ 27. Precluding Plaintiff from doing so would substantially prejudice
+
+   her ability to oppose the Motion for Summary Judgment and would impair her ability to fully
+
+   prosecute her claims, including her claim for punitive damages. Id.
+
+                B. Defendant’s Failure to Comply with Discovery Obligations Independently
+                   Warrants Denial or Deferral of the MSJ
+
+           Denial or deferral of Defendant’s Motion for Summary Judgment is independently
+
+   warranted because Defendant’s document production remains incomplete and deficient. Decl. J.
+
+   Peters ¶ 28. The missing discovery bears directly on Plaintiff’s ability to rebut Defendant’s
+
+   assertion that no genuine disputes of material fact exist. Defendant should not be permitted to seek
+
+   summary judgment while failing to comply with his discovery obligations.
+
+
+
+                                                    11
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 12 of 16
+
+
+
+
+          As detailed in the Declaration of J. Peters, Defendant repeatedly failed to produce
+
+   documents responsive to Plaintiff’s requests despite multiple written objections and several meet-
+
+   and-confer efforts. Id. ¶¶ 5-9. For example, Plaintiff requested the production of all documents
+
+   identified by Defendant as being in his possession in his Initial Disclosures; however, Defendant
+
+   never produced those materials. Id. ¶ 5 According to Defendant’s Initial Disclosures, these
+
+   documents included, inter alia, communications between Plaintiff and third parties concerning
+
+   Defendant; Plaintiff’s social media posts concerning Defendant; Plaintiff’s Substack statements
+
+   concerning Defendant; KiwiFarms data concerning Plaintiff and Defendant; YouTube videos;
+
+   Twitter posts regarding Plaintiff and/or Defendant; and messages exchanged via Instagram,
+
+   Snapchat, Telegram, WhatsApp, and Signal regarding Plaintiff and/or Defendant. Id. ¶ 5 n.1.
+
+          Additionally, Defendant failed to produce attachments or embedded links sent by him in
+
+   chat threads, including the chat thread between Defendant and Abbymc. Id. ¶ 5. Instead, Defendant
+
+   produced only attachments sent by Abbymc. The missing attachments are directly relevant to
+
+   rebutting Defendant’s purportedly undisputed facts and are material to the issues raised in the MSJ.
+
+   Id.
+
+          Plaintiff will be required to seek relief through a motion to compel. However, due to
+
+   Defendant’s dilatory conduct and the timing of the Protective Order and commencement of the
+
+   active discovery phase, Plaintiff could not reasonably have brought such a motion earlier. Id. ¶¶
+
+   6-8. Plaintiff attempted to schedule a discovery hearing before Magistrate Judge Torres, but despite
+
+   having previously represented their availability, Defendant’s four attorneys claimed they were all
+
+   unavailable on the final available hearing date in December. Id.
+
+          Defendant now seeks to benefit from his deficient and dilatory discovery conduct—and
+
+   from his asserted unavailability—by pursuing a one-sided Motion for Summary Judgment. Rule
+
+
+
+
+                                                   12
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 13 of 16
+
+
+
+
+   56(d) exists precisely to prevent such an outcome. Under these circumstances, Defendant’s Motion
+
+   for Summary Judgment should be denied or, at a minimum, deferred until Defendant has complied
+
+   with his discovery obligations and Plaintiff has had a fair opportunity to obtain and present material
+
+   evidence.
+
+               C. Issues of Authenticity, Tampering and Spoliation Must Be Resolved Before
+                  Summary Judgment Can Be Determined
+
+          Plaintiff has uncovered substantial grounds for a potential spoliation claim based on her
+
+   forensic expert’s findings concerning Defendant’s document production. These findings
+
+   necessitate additional discovery—most notably, the deposition of Defendant—and potentially
+
+   related motions. Plaintiff’s inability to pursue this discovery earlier is through no fault of her own,
+
+   but rather stems from Defendant’s apparent misconduct. See Facts ¶¶ 19–22, ante; DEs 139-1,
+
+   147-1; Decl. J. Peters ¶ 29.
+
+          Defendant failed to employ forensically sound data preservation practices and omitted the
+
+   critical step of generating cryptographic hash values at the time of collection. DE 139 at 3; DE
+
+   139-1. Moreover, the documents Defendant produced—and upon which he relied both in his
+
+   Motion to Dismiss and now in his Motion for Summary Judgment—bear indicia of alteration and
+
+   tampering. Id. The issues relating to deficient preservation and potential evidence manipulation
+
+   must be explored through Defendant’s deposition. Decl. J. Peters ¶ 30.
+
+          Inquiry into Defendant’s preservation methods, tools, collection dates, sources of
+
+   electronically stored information, digital fingerprints, metadata, and hash values is necessary to
+
+   assess the scope and impact of the spoliation issues, which may materially prejudice Plaintiff’s
+
+   claims and potential damages. Id.¶ 31. Should Defendant fail to provide a credible explanation for
+
+   his preservation practices and the apparent indicia of alteration, Plaintiff will be required to seek
+
+   appropriate judicial relief, including spoliation sanctions. Id.
+
+
+
+                                                     13
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 14 of 16
+
+
+
+
+            Plaintiff could not have sought spoliation sanctions prior to deposing Defendant without
+
+   risking denial of such a motion as premature. Courts have consistently held that spoliation
+
+   determinations should await the development of a substantial factual record. Ward v. Copenhaver,
+
+   No. 3:22-cv-00250-LPR-BBM, 2025 U.S. Dist. LEXIS 205719, at *27–30 (E.D. Ark. Oct. 20,
+
+   2025) (citing Swindell Dressler Int’l Co. v. Travelers Cas. & Sur. Co., 827 F. Supp. 2d 498, 508
+
+   (W.D. Pa. 2011)). Although Rule 37 does not specify a deadline for filing spoliation motions,
+
+   courts recognize that such motions may be brought either too late or too early. See 7 Moore’s
+
+   Federal Practice, § 37.121B at 37-227 (3d ed. 2025); Groves Inc. v. R.C. Bremer Mktg. Assocs.,
+
+   No. 22 CV 50154, 2024 U.S. Dist. LEXIS 213009, 2024 WL 4871368, at *4 (N.D. Ill. Nov. 22,
+
+   2024).
+
+            Here, unresolved factual questions required Defendant’s deposition before Plaintiff could
+
+   responsibly pursue spoliation sanctions. Following that deposition, Plaintiff anticipates being able
+
+   to establish Defendant’s bad-faith spoliation of evidence that underlies his Motion for Summary
+
+   Judgment and to seek an adverse inference that Defendant disclosed the Video to Abbymc—an
+
+   inference that would preclude summary judgment, and support Plaintiff’s claims at trial. Decl. J.
+
+   Peters, ¶ 32. A finding of spoliation would also provide independent support for Plaintiff’s claim
+
+   for punitive damages. Id.
+
+                                                CONCLUSION
+
+            For the foregoing reasons, Plaintiff respectfully requests that the Court deny or defer
+
+   Defendant’s MSJ as premature, as critical discovery remains outstanding. Precluding Plaintiff
+
+   from completing this discovery, including but not limited to the depositions of Defendant and
+
+   Melina Göransson, 2 and the pursuit of a motion to compel and for spoliation sanctions, would
+
+
+   2
+     The sought-after discovery from Göransson will likely prove highly material to the prosecution of this action, and
+   lead to admissible relevant evidence, including potentially Defendant’s disclosure of the video to other women.
+
+
+                                                            14
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 15 of 16
+
+
+
+
+   substantially prejudice her ability to oppose the MSJ. Balancing Plaintiff’s demonstrated need for
+
+   discovery against any burden such discovery may impose on Defendant, and applying the Eleventh
+
+   Circuit’s “spirit of liberality,” the balance weighs decidedly in Plaintiff’s favor. Reflectone, Inc.,
+
+   862 F.2d 841, 844. The discovery sought is routine in litigated matters, and Defendant will suffer
+
+   no prejudice, as he may refile his MSJ after the completion of discovery.
+
+            Alternatively, should the Court deny this Rule 56(d) Motion, Plaintiff respectfully seeks,
+
+   pursuant to Federal Rule of Civil Procedure 6(b), a two-week enlargement of time from the date
+
+   of such ruling to file her opposition to the MSJ. Good cause exists for such an extension, as Plaintiff
+
+   filed this Motion in good faith and without any intent to delay the proceedings. Moreover, had
+
+   Plaintiff filed a substantive opposition to the MSJ contemporaneously with this Rule 56(d) Motion,
+
+   she would have risked waiving the protections afforded by Rule 56(d). See Burns v. Town of Palm
+
+   Beach, 343 F. Supp. 3d 1258, 1262 (S.D. Fla. 2018). As the court explained in Burns, “[t]he
+
+   protection afforded by Rule 56(d) is an alternative to a response in opposition to summary
+
+   judgment under Rule 56(e) and is designed to safeguard against a premature or improvident grant
+
+   of summary judgment.” Id. (emphasis in original).
+
+            WHEREFORE, Plaintiff respectfully requests that this Court grant this Rule 56(d) Motion,
+
+   or alternatively grant a two-week enlargement of time to respond, and allow such other relief as
+
+   warranted.
+
+
+
+
+   Göransson is the former spouse of the Defendant, and is uniquely positioned to provide evidence of the conduct
+   complained of in the Amended Complaint, as well as similar conduct that she was a witness to. By way of example,
+   Göransson is the recipient of certain sexually explicit materials involving Plaintiff. Göransson is expected to
+   corroborate Plaintiff’s allegations, including those allegations regarding Bonnell’s lack of consent to disclose the
+   Video. Moreover, Göransson is—or is believed to be—another victim of Bonnell’s unlawful conduct. Finally,
+   Göransson would testify to Bonnell’s character, as it is relevant to this case.
+
+
+                                                            15
+Case 1:25-cv-20757-JB Document 216 Entered on FLSD Docket 02/13/2026 Page 16 of 16
+
+
+
+
+                  CERTIFICATE OF COMPLIANCE WITH LOCAL RULE 7.1(a)(3)
+
+          On February 10, 2026, counsel for Plaintiff conferred with counsel for Defendant on the
+
+   relief requested herein in a good faith effort to resolve the issues raised in this Motion. Defendant
+
+   opposes this Motion.
+
+          Dated: February 13, 2026.
+
+
+                                                 Respectfully submitted,
+
+   JSP LAW, LLC                                  SANCHEZ-MEDINA GONZALEZ
+   Joan Schlump Peters                           LAGE GOMEZ & MACHADO, LLP
+   (admitted pro hac vice)                       CARLOS A. GARCIA PEREZ / Fla Bar 106895
+   838 Neapolitan Way, #91                       GUSTAVO D. LAGE / Fla Bar 972551
+   Naples, FL 34103                              201 Alhambra Circle, Suite 1205
+   Tel. 305-299-4759                             Coral Gables, Florida, 33134
+   Email: petersjoan@bellsouth.net               Tel. (305) 377-1000
+   Counsel for Plaintiff JANE DOE                Primary E-Mail: cgarciaperez@smgqlaw.com
+                                                 Primary E-Mail: glage@smgqlaw.com
+                                                         Counsels for Plaintiff JANE DOE
+
+
+                                                 By:_________________________________
+                                                             CARLOS A. GARCIA PEREZ
+
+
+                                  CERTIFICATE OF SERVICE
+
+          I HEREBY CERTIFY that on February 13, 2026, a true and correct copy of the foregoing
+
+   was served on all parties via the CM/ECF filing portal to all counsel of record.
+
+
+
+
+                                                         By: _____________________________
+                                                                CARLOS A. GARCIA PEREZ
+                                                                Attorney for Plaintiff
+
+
+
+
+                                                    16
+

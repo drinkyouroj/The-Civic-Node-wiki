@@ -1,0 +1,859 @@
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 1 of 16
+
+
+
+
+                              UNITED STATES DISTRICT COURT
+                              SOUTHERN DISTRICT OF FLORIDA
+
+                                          (MIAMI DIVISION)
+
+  JANE DOE,                                                     CASE NO: 1:25-cv-20757-JB/Torres
+
+         Plaintiff,
+
+  v.
+
+  STEVEN K. BONNELL II,
+
+         Defendant.
+
+  ____________________________________/
+
+    PLAINTIFF’S OPPOSITION TO MOTION TO DISMISS AMENDED COMPLAINT
+   FOR LACK OF SUBJECT MATTER JURISDICTION PURSUANT TO FRCP 12(B)(1)
+
+        COMES NOW Plaintiff Jane Doe, by and through the undersigned counsel, and hereby
+
+  opposes Defendant’s Motion to Dismiss Amended Complaint For Lack of Subject Matter
+
+  Jurisdiction Pursuant to FRCP 12(b)(1) (ECF 132)(“Motion”), and respectfully states as follows:
+
+                                        INTRODUCTION
+
+         Defendant’s Motion is nothing more than an improper attempt to short-circuit Plaintiff’s
+
+  core CARDII claim. The Motion rests entirely on factual disputes—whether his disclosures
+
+  predated CARDII and whether he disclosed the Video to Abbymc—that go to the heart of
+
+  Plaintiff’s cause of action. By styling his factual defenses as a jurisdictional challenge, Defendant
+
+  seeks to have the Court resolve disputed merits questions on a Rule 12(b)(1) motion. That is not
+
+  the law. Under binding Eleventh Circuit precedent, when jurisdictional issues are intertwined with
+
+  the merits—as they are here—the Court must assume jurisdiction and deny dismissal. At most,
+
+  Defendant’s arguments may be raised on summary judgment after discovery is complete. For now,
+
+  the Motion should be denied outright.
+
+
+
+                                                                                                     1
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 2 of 16
+
+
+
+
+                          RELEVANT PROCEDURAL BACKGROUND
+
+         Discovery closes December 16, 2025 (see Order, ECF 23), but is still in early stages.
+
+  Written discovery is on-going and depositions have not yet been conducted. Written discovery
+
+  only began after the Court granted Plaintiff’s protective order on September 2, 2025 (ECF 116).
+
+  Plaintiff produced over 3,000 documents on September 5 (with additional productions on
+
+  September 22). Defendant, however, delayed production until September 12 and provided
+
+  incomplete, deficient, and forensically unsound materials. Defendant’s ESI was not collected and
+
+  preserved in a forensically sound manner, thus it cannot be authenticated and is not reliable. See
+
+  Declaration of Jesus Peña, forensic expert, Exhibit A hereto, ¶ 16. Moreover, there is evidence of
+
+  tampering and spoliation. Id., ¶¶ 16-22. There are multiple factual disputes pertaining to Bonnell’s
+
+  disclosure of the Video that require further discovery. Id. ¶¶ 7, 9.
+
+                                             ARGUMENT
+
+                 I.      DEFENDANT’S FACTUAL CHALLENGE MUST BE
+                         DENIED BECAUSE JURISDICTION AND THE MERITS
+                         ARE INTERTWINED
+
+         Defendant styles his Motion as a Rule 12(b)(1) factual attack, arguing that (i) his disclosure
+
+  to Rose occurred before CARDII’s effective date, and (ii) he did not disclose the Video to Abbymc
+
+  after the statute took effect. This argument goes to the heart of Plaintiff’s substantive claim under
+
+  CARDII and cannot be resolved at the pleading stage.
+
+         The Eleventh Circuit has long held that when jurisdictional facts are “intertwined with the
+
+  merits,” the district court must assume jurisdiction and resolve the dispute as a direct attack on the
+
+  merits. Garcia v. Copenhaver, Bell & Assocs., M.D.’s, P.A., 104 F.3d 1256, 1261 (11th Cir.
+
+  1997)(citations omitted). See also Lawrence v. Dunbar, 919 F.2d 1525, 1530 (11th Cir. 1990);
+
+  Morrison v. Amway Corp., 323 F.3d 920, 925–26 (11th Cir. 2003). This occurs where, as here, the
+
+
+
+                                                                                                      2
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 3 of 16
+
+
+
+
+  statute both creates the cause of action and provides the jurisdictional grant. Eaton v. Dorchester
+
+  Dev., Inc., 692 F.2d 727, 734 (11th Cir. 1982). See also Morrison, 323 F.3d 920.
+
+          Dismissal is permitted only if the federal claim is “immaterial, insubstantial, or frivolous.”
+
+  Williamson v. Tucker, 645 F.2d 404, 416 (5th Cir. 1981). Plaintiff’s CARDII claim is her central
+
+  claim, and plainly neither immaterial nor frivolous. See Garcia, 104 F.3d at 1266.
+
+          Accordingly, the Court may not resolve factual disputes or weigh competing evidence on
+
+  this Rule 12(b)(1) motion. Defendant’s Motion should be denied outright, or treated under Rule
+
+  56 standards—meaning it must be denied as premature, and in any event because material facts
+
+  remain in dispute. See Lawrence, 919 F.2d at 1531(“federal claims should not be dismissed on
+
+  motion for lack of subject matter jurisdiction when that determination is intermeshed with the
+
+  merits of the claim and when there is a dispute as to a material fact.”).
+
+                  II.     DEFENDANT’S FACTUAL CHALLENGE IS PREMATURE
+
+          Since Defendant’s jurisdictional argument challenges the merits of Plaintiff’s claim, and
+
+  discovery is in its early stages, “it is prudent to deny the motion without prejudice and decide the
+
+  [jurisdictional] dispute at the summary judgment stage.” Avini Health Corp. v. Biogenus LLC, No.
+
+  22-CV-61992-RAR, 2023 U.S. Dist. LEXIS 45449, at *5-6 (S.D. Fla. Mar. 17, 2023), citing In re
+
+  Mednax Servs., Inc., Customer Data Sec. Breach Litig., 603 F. Supp. 3d 1183, 1207 (S.D. Fla.
+
+  2022) (denying motion to dismiss for lack of subject matter jurisdiction because the defendants'
+
+  "contentions [were] indirect, if not direct, attacks on the merits" of the plaintiffs' claims, and “those
+
+  questions must be resolved at the summary judgment stage after both parties have had an
+
+  opportunity to develop the record through discovery”). See also Eaton, 692 F.2d 727, 729–30.
+
+          Here, Defendant’s jurisdictional challenge turns on disputed factual issues that require
+
+  discovery to resolve: the timing of his disclosure of Plaintiff’s Video to Rose, including whether
+
+
+
+                                                                                                         3
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 4 of 16
+
+
+
+
+  it remained accessible to Rose and the public after the effective date of CARDII, as well as whether
+
+  or not he disclosed the image to Abbymc. Yet discovery in this matter is far from complete (see
+
+  ante), and the evidence relied on by Defendant to support his argument is not reliable and cannot
+
+  be authenticated. See Decl. J. Pena, Exh. A, ¶¶ 16- 22. Plaintiff cannot fairly be required to meet
+
+  her burden of proof without the opportunity to complete discovery. See McElmurray v. Consol.
+
+  Gov’t of Augusta-Richmond Cnty., 501 F.3d 1244, 1251 (11th Cir. 2007). See also Jones v. Waffle
+
+  House, Inc., No. 6:15-cv-1637-Orl-37DAB, 2016 U.S. Dist. LEXIS 76507, at *23-24 (M.D. Fla.
+
+  June 13, 2016)(applying Rule 56 standard to a Rule 12(b)(1) motion where the jurisdictional facts
+
+  are intertwined with the merits, and denying the motion “at this stage of the litigation” because
+
+  discovery is not yet complete and plaintiff “is entitled to full discovery”).
+
+           Because Rule 56 presumes that parties opposing summary judgment have had a fair chance
+
+  to complete discovery, “converting the [Rule 12(b)(1)] Motion to Dismiss into a motion for
+
+  summary judgment would be improper at this juncture in the litigation.” Castro v. BM Roofing
+
+  LLC, No. 24-CV-21433-Bloom/Elfenbein, 2024 U.S. Dist. LEXIS 149706, at *11 (S.D. Fla. Aug.
+
+  20, 2024)(emphasis supplied). "’The law in this circuit is clear: the party opposing a motion for
+
+  summary judgment should be permitted 'an adequate opportunity to complete discovery prior to
+
+  consideration of the motion.’'" Id. (citations omitted).
+
+           Thus here, the proper course is to deny Bonnell’s Motion to Dismiss without prejudice and
+
+  defer jurisdictional issues until summary judgment after discovery is complete. See, e.g., In re
+
+  Mednax Servs., 603 F. Supp. 3d at 1206-08; In re Blackbaud, Inc., Customer Data Breach
+
+  Litigation, No. 20-02972, 2021 U.S. Dist. LEXIS 123355, 2021 WL 2718439 (D.S.C. July 1,
+
+  2021).
+
+
+
+
+                                                                                                    4
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 5 of 16
+
+
+
+
+                 III.    ALTERNATIVELY, THERE ARE MATERIAL ISSUES OF
+                         FACT IN DISPUTE THAT PREVENT SUMMARY
+                         JUDGMENT
+
+
+         Alternatively, even if the Court were to convert Bonnell’s Rule 12(b)(1) Motion into a
+
+  motion for summary judgment, and not defer ruling until after discovery is complete, the Motion
+
+  should be denied because there are genuine issues of material fact. A genuine dispute of material
+
+  fact exists if "the evidence is such that a reasonable jury could return a verdict" for the non-
+
+  movant. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S. Ct. 2505, 91 L. Ed. 2d 202
+
+  (1986). Which facts are material depends on the underlying substantive law. Id. The Court must
+
+  view the evidence and all reasonable inferences drawn from the evidence in the light most
+
+  favorable to the non-movant. See Battle v. Bd. of Regents for Ga., 468 F.3d 755, 759 (11th Cir.
+
+  2006). See also Impossible Electronics Techniques, Inc. v. Wackenhut Protective Sys. Inc., 669
+
+  F.2d 1026, 1031 (5th Cir. Unit B 1982) ("Summary judgment may be inappropriate even where
+
+  the parties agree on the basic facts, but disagree about the factual inferences that should be drawn
+
+  from these facts. . . . If reasonable minds might differ on the inferences arising from disputed facts,
+
+  then the court should deny summary judgment.").
+
+           A.      DEFENDANT’S MOTION MUST BE DENIED BECAUSE IT RESTS ON
+                            TAINTED AND INADMISSIBLE EVIDENCE
+
+         At the outset, Plaintiff objects to Defendant’s reliance on Exhibits B, C, D, E and F to
+
+  Bonnell’s declaration (ECF 132-3, 132-4, 132-5, 132-6, 132-7)) under Federal Rule of Civil
+
+  Procedure 56(c)(2) because these materials “cannot be presented in a form that would be
+
+  admissible in evidence.” Based on all material and communications produced by the Defendant,
+
+  including these exhibits, he embarked on a DIY search to preserve, authenticate and produce
+
+
+
+                                                                                                       5
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 6 of 16
+
+
+
+
+  documents, but failed to adhere to the cornerstone principle of digital forensics: forensically sound
+
+  data preservation. Specifically, the essential step of generating cryptographic hash values at the
+
+  time of collection was omitted. See Decl. J. Peña, Exh. A, ¶16. These hashes are unique digital
+
+  identifiers that assure integrity. Without an initial hash value to compare against, any subsequent
+
+  analysis or attempt to reproduce findings is based on unauthenticated and unreliable data. Id. The
+
+  Defendant's mismanagement of the ESI effectively breaks the chain of custody, preventing any
+
+  reliable verification that the evidence remains in its original state. Id.
+
+
+          Moreover, the documents bear indicia of alteration and tampering and cannot be properly
+
+  authenticated under Federal Rule of Evidence 901. Id., ¶¶16-22. Such tampering constitutes
+
+  spoliation and, at a minimum, creates a genuine issue of material fact as to the reliability of
+
+  Defendant’s submissions. Where credibility and authenticity are in dispute, summary judgment is
+
+  inappropriate because “[c]redibility determinations, the weighing of the evidence, and the drawing
+
+  of legitimate inferences from the facts are jury functions, not those of a judge.” Anderson v. Liberty
+
+  Lobby, Inc., 477 U.S. 242, 255 (1986).
+
+
+          Accordingly, on this basis alone, Defendant’s Motion should be denied because it rests on
+
+  inadmissible, tainted evidence and raises material factual disputes that only a jury can resolve.
+
+  Plaintiff reserves all rights to seek sanctions or an adverse inference instruction arising from
+
+  Defendant’s misconduct.
+
+
+          B.      THERE ARE DISPUTED ISSUES OF FACT REGARDING BONNELL’S
+                  DISCLOSURE TO ROSE AND WHETHER IT WAS WITHIN THE AMBIT
+                  OF CARDII
+
+
+          Defendant claims that the disclosure of the Video to Rose fails to establish subject matter
+
+
+
+                                                                                                      6
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 7 of 16
+
+
+
+
+  jurisdiction because i) it occurred prior to October 1, 2022; and ii) the continuous accessibility
+
+  theory fails as a matter of law.1 Both of these arguments fail.
+
+                ~The Court Has Already Determined that Defendant’s Evidence Regarding the
+                               Disclosure to Rose is “Murky at Best”
+
+
+           None of the evidence presented in Defendant’s Motion regarding the timing of his
+
+  disclosure to Rose is new – the same evidence has been presented to the Court numerous times.
+
+  See, e.g., ECF 42, 109. Indeed, the Court has already reviewed this same evidence and held that:
+
+  “the evidence establishing a definitive timeline as to what Defendant did or did not do and when
+
+  is murky at best.” ECF 119, p. 8, Opinion and Order Granting Plaintiff’s Motion for Leave to File
+
+  Amended Complaint (emphasis supplied). The Court also noted that, “noticeably absent from
+
+  Defendant’s arguments, generally, regarding subject matter jurisdiction is testimony from Rose
+
+  that would corroborate Defendant’s characterization that incorporates in Exhibit C a screenshot
+
+  from Rose’s Discord account…” Id. (emphasis in original). Despite this clear directive from the
+
+  Court, Defendant failed to submit any corroborating evidence from Rose2, and instead simply
+
+  submitted the same evidence and arguments that the Court already rejected. Thus, there is no need
+
+  for the Court to revisit this issue. On this basis alone, the Court can deny the Motion.
+
+           ~ There are Disputed Issues of Fact Regarding the Date of Disclosure to Rose
+
+           Defendant relies on a comparison of two documents (ECF 132-2, 132-3) as the sole support
+
+  for his assertion that the evidence “conclusively establishes that the Video was transmitted on April
+
+
+  1 Defendant once again argues that CARDII does not apply retroactively. Plaintiff has never contended that CARDII
+  applies retroactively (see ECF 110) and thus will not address this argument.
+  2 In fact, it is Plaintiff, not Defendant, that has made efforts to obtain evidence from Rose. Plaintiff hired a private
+  investigator to ascertain Rose’s legal identity and location and has just this week managed to serve Rose with a
+  subpoena duces tecum and to appear at a deposition. After finally ascertaining Rose’s legal identity, Plaintiff has
+  obtained evidence that Rose’s date of birth is October 30, 2004. Thus when Bonnell was exchanging pornographic
+  content with Rose between March of 2022 and until October 30, 2022, Rose was a minor. See Exhibit B hereto,
+  redacted Official Certification of Department of Motor Vehicles Driving Record.
+
+
+                                                                                                                             7
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 8 of 16
+
+
+
+
+  9, 2022 at 8:36 p.m. EST.” (Mot., p. 9). Yet the Discord chat thread (ECF 132-2) does not show
+
+  any transmission of the video at 8:36 p.m., and it actually contradicts that contention. Moreover,
+
+  the chat thread shows signs of tampering and is thus not reliable evidence.
+
+          In the Discord chat thread (ECF 132-2), Bonnell offers to send Rose the Video at 8:28 p.m.
+
+  Then at 8:33 p.m., Rose responds: “id love it omg,” immediately followed by “That was amazing.
+
+  I can’t wait to blow you now.” And yet, in the leaked screenshot (ECF 132-3), and according to
+
+  Bonnell’s declaration and the Motion, the Video was not sent to Rose until 8:36 p.m. Rose could
+
+  not have been responding that the Video was “amazing” at 8:33 p.m. if she did not receive the
+
+  Video until 8:36 p.m. This temporal and logical inconsistency is an indication of post-Discord
+
+  export manipulation. See Exh. A, Decl. J. Pena, at ¶¶ 17-18. Thus, this evidence should not be
+
+  considered by the Court. Moreover, it certainly does not “conclusively establish” that Bonnell sent
+
+  the Video to Rose on April 9, 2022 at 8:36 p.m.
+
+          There are also contradictions in Bonnell’s declarations submitted to the Court about the
+
+  date of his disclosure to Rose. In Bonnell’s April 25, 2025 declaration (ECF 4 2-1), he claimed
+
+  under penalty of perjury, that the reason the leaked screenshot had a European date stamp is
+
+  “because it is a screenshot from Rose’s side of the conversation…and Rose was corresponding
+
+  from a time zone five hours ahead of me in Miami, Florida.” 3 (ECF 42-1, ¶ 9 (emphasis supplied)).
+
+  See also, ECF 42, p. 14 (“the date is reflected using the European date format (day/month/year)
+
+  because Rose was communicating with Bonnell from a European time zone”).
+
+          Defendant now claims, without providing any explanation for his directly contradictory
+
+  assertions, that it was not Rose that was in Europe at the time of the disclosure, but rather it was
+
+
+
+  3
+    It appears, based on Defendant’s production of his full chat thread with Rose, that this was a knowingly false
+  statement to the Court because Defendant knew that in April 2022 Rose was a student living in Illinois in her
+  parent’s home, and was not in Europe. See Exhibit C hereto, excerpts of chat thread between Rose and Bonnell.
+
+                                                                                                                     8
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 9 of 16
+
+
+
+
+  SoloTinyLeaks “who [was] located in Europe” at the time he accessed the Video and other material
+
+  from Rose’s Discord account, “such that the timestamps are reflected in the standard European
+
+  format”. (Mot., p. 8). Bonnell provides no evidence to support his new, contradictory assertion that
+
+  SoloTinyLeaks was in Europe. Thus, Bonnell’s explanation for the different timestamps is nothing
+
+  other than sheer speculation.
+
+         Accordingly, there are disputed factual issues regarding the date of Bonnell’s disclosure to
+
+  Rose, and Defendant’s Motion can be denied on this basis alone.
+
+
+
+    ~The Evidence and Legal Precedent Establish that Bonnell’s Disclosure to Rose Made the
+                           Video Accessible After October 1, 2022
+
+
+         Even assuming that Bonnell’s initial disclosure of the Video to Rose occurred before
+
+  October 1, 2022 (this has not been established), his disclosure made the Video accessible after
+
+  October 1, 2022. The CARDII statute provides a right of action to “an individual whose intimate
+
+  visual depiction is disclosed…without the consent of the individual.” 15 U.S.C. § 6851(b)(1)(A)
+
+  (emphasis provided). CARDII defines "disclose" as "to transfer, publish, distribute, or make
+
+  accessible." 15 U.S.C. § 6851(a)(4) (emphasis provided). This is “a broad definition”. Doe v.
+
+  McCoy, No. 1:23-cv-3169-MLB, 2024 U.S. Dist. LEXIS 33901, at *6 (N.D. Ga. Feb. 28, 2024).
+
+         Although CARDII is a relatively new statute and there is little case law interpreting it, at
+
+  least one court has upheld a continuous disclosure argument. See Doe v. Unknown Party, No. CV-
+
+  24-00252-PHX-DLR, 2024 U.S. Dist. LEXIS 21835, at *5 n.3 (D. Ariz. Feb. 7, 2024). The Doe
+
+  court found that, although the initial disclosure of certain videos was done before the effective date
+
+  of CARDII, there is “a colorable argument that [defendant] continued to ‘disclose’ the recordings
+
+  after the statute’s effective date because he allegedly continued to make these videos accessible on
+
+  the internet until [after the effective date].” So even if Bonnell’s initial transfer of the Video to
+
+                                                                                                      9
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 10 of 16
+
+
+
+
+   Rose took place before the effective date of CARDII as Defendant contends, because Bonnell’s
+
+   disclosure made the Video accessible after the effective date it is within the statutory definition.
+
+   And here it is indisputable that the Video was accessible to Rose after the effective date because
+
+   otherwise SoloTinyleaks would not have been able to access the Video from Rose in November
+
+   2024.
+
+            In addition to being made accessible to Rose, and SoloTinyleaks, after October 1, 2022, it
+
+   was also made accessible to the public. As fully detailed in the declaration of Plaintiff’s forensics
+
+   expert, Mr. Jesus Peña, at this early stage of discovery and based on the current evidence, it appears
+
+   the Video was sent to Rose via an attachment on Discord. Decl. J. Peña, Exh. A, ¶13. The Video
+
+   remained stored on Discord’s Content Delivery Network (CDN),4 and remained accessible to
+
+   Rose, until it was finally deleted by Defendant after the November 29, 2024 KiwiFarms post by
+
+   SoloTinyleaks. Id. ¶¶ 10-13.
+
+            Moreover, the Video was also publicly accessible via the permanent link and reachable by
+
+   index engines between April 9, 2022, through early December 2023. 5 Id. This unprotected,
+
+   unrestricted accessibility of the Video is due to a significant security issue in how Discord
+
+   implemented storage and access of message attachments on its CDN servers that cache Discord’s
+
+   attachments. Id. ¶¶9-10. Between April 22, 2021, and up until sometime in December 2023 when
+
+   Discord’s security issue was finally rectified, ALL attachments sent in messages were permanently
+
+   publicly accessible from the CDN servers simply by navigating to a permanent web address that
+
+   pointed to the attachment. Id. ¶ 10. Moreover, and contrary to Defendant’s assertion that Discord
+
+
+   4 A geographically distributed network of proxy servers and their data centers. The goal is to provide high-
+   availability and high-performance by distributing the service spatially relative to end-users.
+   5 Search engine indexing is the process by which a search engine, such as Google, crawls, analyzes, and stores a
+   resource’s URL, metadata, and content, such as text in PDFs or TXT files, captions for videos (e.g., MP4), or alt text
+   for images (e.g., PNG, JPEG), to make them discoverable in search results.
+
+
+                                                                                                                      10
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 11 of 16
+
+
+
+
+   attachments were not “publicly indexed nor searchable,” (Mot., FN4) search engine indexing
+
+   crawlers from Google, Bing and others, did index the Discord CDN servers. Decl. J. Peña, Exh.
+
+   A, ¶¶13-14. It is important to note that Bonnell could have deleted the Video attachment at any
+
+   time prior to November 29, 2024, in which case it would not have been accessible to Rose,
+
+   SoloTinyleaks, or the public, but he did not do so.
+
+           Defendant’s argument that the continuing accessibility theory fails as a matter of law is
+
+   premised on two factual contentions: i) the Discord attachment was a “one-time file attachment,”
+
+   and ii) the attachment was not “publicly indexed nor searchable.” (Mot., pp. 11-12, and FN4). As
+
+   set forth above, and further detailed in Mr. Peña’s Declaration, both of these contentions are
+
+   erroneous. Because Defendant’s cited caselaw hinges on these two factual contentions, they do not
+
+   support his argument.6 Defendant’s argument is devoid of merit.
+
+                 C.     WHETHER OR NOT DEFENDANT DISCLOSED THE VIDEO TO
+                      ABBYMC IS A DISPUTED ISSUE OF FACT PREVENTING SUMMARY
+                                             JUDGMENT
+
+
+           Even assuming, arguendo, that the disclosure to Rose was before October 1, 2022, and that
+
+   the disclosure did not make the Video continuously accessible after October 1, 2022, subject matter
+
+   jurisdiction can still be found based on Bonnell’s disclosure to Abbymc after October 1, 2022.
+
+   Viewing the facts and evidence in the light most favorable to Plaintiff, the evidence establishes
+
+   that Bonnell did transmit the Video to Abbymc, or at the very least that this is a disputed issue of
+
+   fact requiring further discovery and preventing summary judgment. Moreover, the evidence
+
+
+
+
+   6 See Wray v. Greenburg, 646 F. Supp. 3d 1084, 1115 (D. Ariz. 2022)(“there are no facts that suggest the link…was
+   placed in a location where anyone could access it); Greenburg v. Wray, No. CV-22-00122-PHX-DLR, 2022 WL
+   2176499, at *2 (D. Ariz. June 16, 2022)(“the Google Drive was not indexed by any search engines”). The caselaw
+   relied on by Defendant has already been fully distinguished by Plaintiff. See ECF 110, pp. 6-9. The arguments set
+   forth by Plaintiff in ECF 110, pp. 6-9, are fully incorporated herein.
+
+
+                                                                                                                   11
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 12 of 16
+
+
+
+
+   submitted and relied on by Bonnell for his assertion that he never sent the Video to Abbymc
+
+   appears to have been tampered with and thus is unreliable and inadmissible.
+
+                ~ Bonnell Fails to Establish that He Never Transmitted the Video to Abbymc
+
+           Bonnell claims that his “preserved communication logs with Abbymc conclusively
+
+   establish that he never transmitted the Video to her at any time.” (ECF 132, p. 13). But these
+
+   “preserved communication logs” are nothing other than an Excel spreadsheet, purportedly
+
+   including all media files sent to Abbymc, created by Defendant for the purpose of his Motion, as
+
+   well as a purported chat thread between him and Abbymc (“inbloom1991”). See ECF 132-6.
+
+   “Preserved” logs might have consisted of a copy of his Discord exports in an HTML file, but
+
+   instead this is merely evidence artificially created by Bonnell. There is no way to verify whether
+
+   this list of media files sent to Abbymc is complete or accurate; therefore, the evidence should be
+
+   disregarded.
+
+           The evidence presented in ECF 132-6 should also be disregarded because i) it is
+
+   inconsistent and ii) there is evidence of spoliation: a comparison of the time stamps and Google
+
+   Drive file identifiers in the two URLs from the chat thread do not match the same from the
+
+   spreadsheet list the Defendant prepared of media files sent to Abbymc. See Decl. J. Peña, Exh. A,
+
+   ¶19. Because of this inconsistency, the evidence does not support Defendant’s argument. This
+
+   inconsistency also indicates the evidence has been tampered with, and thus it cannot be considered
+
+   by the Court. See id., ¶¶ 19, 21.
+
+           There is more evidence of tampering: the two Google Drive links that Bonnell purportedly
+
+   sent to both Abby (ECF 132-6) and Peach (ECF 132-7) in the two chat threads are actually not the
+
+   same links.7 See Decl. J. Peña, ¶20 (demonstrating the myriad differences between the links). Thus,
+
+
+   7 The only thing that can be gained from Defendant’s evidence is his confirmation that he sent two videos to Abbymc
+   on November 3, 2023. This evidence actually serves to corroborate Abbymc’s declaration (ECF 49-2), and the
+
+                                                                                                                   12
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 13 of 16
+
+
+
+
+   Defendant’s contention that the videos he sent to Abbymc were the same videos he sent to Peach
+
+   (and allegedly were videos of Peach and not of Plaintiff), is unsupported.
+
+            Further evidence of spoilation is Bonnell’s admission on a livestream on September 8, 2025
+
+   that these “preserved communication logs” were artificially created by him: “Information is lost!
+
+   There is no original file! I’m trying to reconstruct a file! I’m artificially creating a file by
+
+   reconstructing a log of stuff, that’s what I’m trying to do and it’s not working!”
+
+   https://www.youtube.com/watch?v=UEnB49z9l0s&t=15704s, at 4:22:38 to 4:22:48. Bonnell also
+
+   admitted to using Artificial Intelligence to format data into the Excel spreadsheet file:
+
+   https://youtu.be/JXFl4fBob_4?t=6937.
+
+            Additionally, Bonnell contends that because the original filename of the Video, as revealed
+
+   by SoloTinyleaks (see ECF 132-5), is not the same as either of the filenames that he sent to
+
+   Abbymc (see ECF 132-6), that proves that he never sent the Video to Abbymc. (Mot. pp. 13-14).
+
+   But Bonnell is comparing apples to oranges, because the two “filenames” in ECF 132-6 that he
+
+   purportedly sent to Abbymc on November 3, 2023 are NOT filenames. Instead, they are Google
+
+   Drive links which merely point to unknown file names. See Decl. J. Peña, ¶22. Thus this evidence
+
+   does not support Bonnell’s contention that he did not send the Video to Abbymc. Accordingly,
+
+   Defendant’s Motion should be denied because it rests on inconsistent and tainted evidence and
+
+   raises material factual issues that only a jury can resolve. 8
+
+
+
+
+   supporting exhibit with her message to a friend dated November 3, 2023 saying that she had received a video of Pxie
+   and a video of Chaeiry (ECF 86-1).
+
+   8 Defendant also claims that Abbymc only saw the Video because she allegedly snooped through his computer on
+   September 5, 2023. (Mot. pp. 14-15). This purely speculative claim is belied by Abbymc’s declaration and the
+   evidence of her conversation with her friend – attesting to the fact that she received the Video via a Google Drive
+   link on or about November 3, 2023, two months later. Defendant’s speculative claim is nothing other than an
+   attempt to malign the witness.
+
+
+                                                                                                                         13
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 14 of 16
+
+
+
+
+                 ~ Abbymc’s Declaration and Exhibit Should Not Be Disregarded
+
+          Defendant again attempts to challenge Abbymc’s declaration (ECF 49-2) and the
+
+   screenshot exhibit (ECF 86-1), but these arguments once again fail, precisely because of
+
+   Defendant’s spoliation. Bonnell claims that Abbymc’s declaration and the exhibit should be
+
+   disregarded because she failed to provide evidence of the disclosure, ie. “a screenshot of a message
+
+   in which Bonnell supposedly sent the Video to Abbymc.” (Mot. p. 15). However, Bonnell knows
+
+   that Abbymc cannot do that because Bonnell deleted all of his direct messages to her sometime in
+
+   early 2025. Abbymc’s declaration, dated April 25, 2025, clearly states: I recently reviewed my
+
+   Discord account and realized that Destiny deleted all of his direct messages to me on the Discord
+
+   platform, including the sharing of the video of Pxie. I have retained copies of my messages to
+
+   Destiny, as well as my messages to other people about his non-consensual sharing of sexually
+
+   explicit videos.” ECF 49-2, ¶9 (emphasis supplied). Multiple other women who received explicit
+
+   content from Bonnell have also attested to his deletion of his side of their message thread after the
+
+   November 29, 2024 post by SoloTinyleaks. See, e.g., Decl. Hannah Brookes, ECF 21-2, ¶ 11;
+
+   Decl. Witness A, ECF 49-4, ¶9; Decl.Witness B, ECF 49-5, ¶9. And as noted above, he has
+
+   publicly acknowledged that “there is no original file;” ie. because he deleted it.
+
+          Bonnell also asserts that the screenshot exhibit does not establish that he disclosed the
+
+   Video to Abbymc after the effective date of CARDII. (Mot. p.15). This, of course, is nonsensical
+
+   because Bonnell did not even meet Abbymc (online) until March 2023, well after the effective
+
+   date of CARDII. See Decl. Abbymc, ECF 49-2, ¶4. Thus, Bonnell has failed to present any valid
+
+   reason to discard the Abbymc declaration or exhibit.
+
+          IV.     DEFENDANT’S FAILURE TO SERVE ABBYMC IS NOT RELEVANT
+
+          Defendant next argues that the Abbymc evidence should be disregarded because he has
+
+
+
+                                                                                                     14
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 15 of 16
+
+
+
+
+   been unable to serve her with a subpoena. This contention fails for several reasons. First, Defendant
+
+   offers no evidence of any effort to locate or serve Abbymc. Second, he provides no basis to claim
+
+   that Plaintiff’s counsel represents Abbymc for purposes of service. To the contrary, undersigned
+
+   counsel expressly advised Mr. Brettler that they did not represent Abbymc for purposes of the
+
+   subpoena, that they were not authorized to accept service on her behalf, and that they had never
+
+   instructed her to evade service. Third, counsel recently obtained Abbymc’s last known address,
+
+   and promptly provided it to Mr. Brettler upon receipt.
+
+           Defendant’s position is further undermined by his own conduct: his Initial Disclosures
+
+   identified eleven individuals likely to have discoverable information, including Rose, yet he has
+
+   not produced contact information for any of them. Plaintiff was forced to hire a private investigator
+
+   to locate Rose.
+
+           Finally, the authority Defendant cites is inapposite, as it concerns expert witness
+
+   disclosures rather than lay witness contact information. See Brown v. NCL (Bahamas) Ltd., 190 F.
+
+   Supp. 3d 1136, 1141 (S.D. Fla. 2016). Defendant’s failure to serve Abbymc is therefore irrelevant
+
+   to his Motion and to the admissibility of the Abbymc evidence.
+
+                                            CONCLUSION
+
+           Defendant cannot use Rule 12(b)(1) to litigate the merits of Plaintiff’s CARDII claim.
+
+   Because jurisdiction and the merits are inseparable, and because Plaintiff’s claim is neither
+
+   immaterial nor frivolous, dismissal is foreclosed. At this stage, where discovery is ongoing and
+
+   material factual disputes abound, the Motion must be denied—either outright or under Rule 56
+
+   standards. Plaintiff respectfully requests that the Court deny Defendant’s Motion to Dismiss in its
+
+   entirety.
+
+
+
+
+                                                                                                     15
+Case 1:25-cv-20757-JB Document 139 Entered on FLSD Docket 10/03/2025 Page 16 of 16
+
+
+
+
+          WHEREFORE, Plaintiff respectfully requests that this Court deny Defendant’s Motion to
+
+   Dismiss the Amended Complaint for Lack of Subject Matter Jurisdiction, and allow such other
+
+   relief as warranted.
+
+          Respectfully submitted,
+
+          Dated: October 3, 2025.
+
+   JSP LAW, LLC                                 SANCHEZ-MEDINA GONZALEZ
+   Joan Schlump Peters                          LAGE GOMEZ & MACHADO, LLP
+   (admitted pro hac vice)                      CARLOS A. GARCIA PEREZ / Fla Bar 106895
+   838 Neapolitan Way, #91                      GUSTAVO D. LAGE / Fla Bar 972551
+   Naples, FL 34103                             201 Alhambra Circle, Suite 1205
+   Tel. 305-299-4759                            Coral Gables, Florida, 33134
+   Email: petersjoan@bellsouth.net              Tel. (305) 377-1000
+   Counsel for Plaintiff JANE DOE               Primary E-Mail: cgarciaperez@smgqlaw.com
+                                                Primary E-Mail: glage@smgqlaw.com
+                                                        Counsels for Plaintiff JANE DOE
+
+
+                                                By:_________________________________
+                                                            CARLOS A. GARCIA PEREZ
+
+
+                                 CERTIFICATE OF SERVICE
+
+          I HEREBY CERTIFY that on October 3, 2025 a true and correct copy of the foregoing
+
+   was served on all parties via the CM/ECF filing portal to all counsel of record.
+
+
+
+
+                                                        By: ________________________
+                                                               CARLOS A. GARCIA PEREZ
+                                                               Attorney for Plaintiff
+
+
+
+
+                                                                                              16
+

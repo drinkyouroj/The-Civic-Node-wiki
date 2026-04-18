@@ -1,0 +1,1182 @@
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 1 of 22
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                        FOR THE SOUTHERN DISTRICT OF FLORIDA
+
+                                  Case No.: 1:25-cv-20757-JB/Torres
+  JANE DOE,
+          Plaintiff,
+  v.
+  STEVEN K. BONNELL II,
+          Defendant.
+                                     /
+
+   DEFENDANT STEVEN K. BONNELL II’S MOTION FOR SUMMARY JUDGEMENT
+
+          Defendant Steven K. Bonnell II respectfully moves, pursuant to Federal Rule of Civil
+
+  Procedure 56 and Local Rule 56.1 for summary judgment against Plaintiff Jane Doe on the grounds
+
+  that she failed to establish subject matter jurisdiction.
+
+                                     MEMORANDUM OF LAW
+
+  I.      INTRODUCTION
+
+          As Bonnell has maintained from the outset of this case, the Court lacks subject matter
+
+  jurisdiction over this dispute. In the Court’s October 6, 2025 Order denying Plaintiff’s Motion for
+
+  Preliminary Injunction, Magistrate Judge Torres warned that “if Plaintiff cannot show in due
+
+  course that the conduct alleged is indeed covered by the statute . . . it is possible that we do not
+
+  have subject matter jurisdiction over Plaintiff’s case.” (Order [ECF No. 143] at 13.) It is now the
+
+  end of January 2026 and discovery has closed. Plaintiff’s opportunity to establish subject matter
+
+  jurisdiction has come and gone. Since filing the Complaint in February 2025, Plaintiff has failed
+
+  to produce any evidence to demonstrate that Bonnell ever transmitted the sexually explicit video
+
+  she recorded with him in September 2020 (the “Video”) to anyone after October 1, 2022, the date
+
+  the relevant federal statute (hereinafter, “CARDII”) went into effect.
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 2 of 22
+
+
+
+
+         At first, Plaintiff attempted to argue that Bonnell transmitted the Video to a Discord user
+
+  named “Rose” in October 2022. (Compl. [ECF No. 1] ¶ 12.) Then, in her Amended Complaint,
+
+  Plaintiff backtracked and alleged that Bonnell sent the Video to Rose “sometime in 2022.” (Am.
+
+  Compl. [ECF No. 120] ¶ 13.) But the undisputed evidence obtained during discovery establishes
+
+  that the transmission to “Rose” occurred in April 2022.
+
+         Next, Plaintiff tried to argue that Bonnell more recently transmitted the Video to an
+
+  individual who goes by the screenname “Abbymc.” (Id. ¶ 14.) But neither Abbymc, nor her
+
+  allegations ever materialized. Despite that Plaintiff’s counsel also represents Abbymc, they refused
+
+  to accept a subpoena on her behalf. They delayed providing contact information for Abbymc, and
+
+  when they finally provided an address for service, it was a fake address. Ultimately Bonnell served
+
+  Abbymc with a subpoena deuces tecum, but she failed to produce any documents in support of the
+
+  claims in her declaration.
+
+         At the June 3, 2025 Preliminary Injunction hearing, Plaintiff admitted, under oath, that
+
+  she possessed no evidence that Bonnell transmitted the Video to anyone after the effective date
+
+  of the CARDII statute:
+
+                 Court:          [H]ave you seen any transmission yourself or record
+                                 of a transmission as opposed to what somebody’s
+                                 told you that evidenced Mr. Bonnell sending a video
+                                 after October of 2022? Have you seen anything?
+
+                 Plaintiff:      I have not.
+
+  (Brettler Decl., dated Jan. 30, 2026, Ex. M at 55:7-13.) Now, after nearly a year of litigation,
+
+  Plaintiff still has failed to produce any evidence that Bonnell transmitted the Video to anyone after
+
+  the effective date of statute. No such evidence exists.
+
+         On September 19, 2025 Bonnell filed a motion to dismiss for lack of subject matter
+
+  jurisdiction, pursuant to Rule 12(b)(1) of the Federal Rules of Civil Procedure. (Mot. To Dismiss
+
+
+
+                                                   2
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 3 of 22
+
+
+
+
+  [ECF No. 132].) That motion is sub judice. In light of the summary judgment filing deadline,
+
+  Bonnell hereby renews the arguments presented in his 12(b)(1) motion and submits this Motion
+
+  for Summary Judgment and supporting documents (collectively, the “Motion”), to demonstrate,
+
+  beyond any dispute, that he never transmitted the Video to Rose, Abbymc, or anyone else after
+
+  CARDII went into effect on October 1, 2022. As a result, the Court lacks subject matter jurisdiction
+
+  over this dispute and must dismiss the case, including the pendant state claims.
+
+  II.    STATEMENT OF FACTS
+
+         A.      Plaintiff and Bonnell Created the Video in 2020.
+
+         Bonnell is a live streamer and progressive political commentator, commonly known online
+
+  as “Destiny.” (Bonnell Decl., dated Apr. 25, 2025 [ECF No. 42-1] ¶ 3.) On October 23, 2019,
+
+  Plaintiff sent Bonnell a private message online. (Id. ¶ 5.) Thereafter, they developed a friendship
+
+  and began discussing their sex lives. (Id.) On multiple occasions, Plaintiff offered to send Bonnell,
+
+  and in fact did send Bonnell, sexually explicit videos of herself and her partner(s) and encouraged
+
+  Bonnell to send her similar videos of himself with sexual partners. (Id. & Ex. A [ECF No. 42-2].)
+
+  On March 19, 2020, Plaintiff suggested that she and Bonnell meet and “make some [sex] videos
+
+  together.” (Id. ¶ 6 & Ex. B [ECF No. 42-3].) Plaintiff repeated her request on September 6, 2020.
+
+  (Id. ¶ 6.) On or about September 12, 2020, Plaintiff and Bonnell met in person and recorded the
+
+  Video. (Id. ¶ 7; Pl.’s Decl., dated Apr. 3, 2025 [ECF No. 20-1] ¶ 5.) Plaintiff sent the Video to her
+
+  then-boyfriend, MH. (See Brettler Decl., dated Jan. 30, 2026, Ex. M at 13:3-8; id. Ex. N at 170:13-
+
+  171:14.) See also Bonnell’s Statement of Undisputed Material Facts, dated Jan. 30, 2026
+
+  (hereinafter, the “UMF”) ¶¶ 1-3.
+
+         B.      On April 9, 2022, Bonnell Sent the Video to “Solo,” Who Was Masquerading
+                 as “Rose” Online.
+
+         Two years later, beginning in April 2022, Bonnell was contacted online by an individual
+
+
+
+                                                   3
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 4 of 22
+
+
+
+
+  using the screenname “Rose.” (Bonnell Decl., dated Jan. 30, 2026, ¶ 2.) Rose identified herself as
+
+  a female college student, and Bonnell and Rose formed a relationship online. (Id.) Soon after
+
+  meeting online, Bonnell and Rose shared sexually explicit messages and content with each other
+
+  on the Discord platform. (Id.) On April 9, 2022, Bonnell transmitted the Video depicting Plaintiff
+
+  to Rose via Discord. (Id. ¶ 3.) Bonnell did not send the Video to anyone since he sent it to Rose
+
+  on April 9, 2022. (Id.) Over two years later, in November 2024, an individual using the screenname
+
+  “Solo” (aka “SoloTinyLeaks”) published portions of Bonnell’s Discord communications with
+
+  Rose, including the Video, on a website called KiwiFarms. (Id. ¶ 4.)
+
+          On or around October 3, 2025, Plaintiff claimed to have identified “Rose,” and issued a
+
+  subpoenaed to AH, an adult female residing in Rockford, Illinois. (See Pl.’s Opp’n to Mot. To
+
+  Dismiss [ECF No. 139] at 7, n.2.) On October 23, 2025, Plaintiff deposed AH. AH testified that
+
+  she never messaged or communicated with Bonnell and never exchanged photographs or videos
+
+  with him of any kind. (See Brettler Decl., dated Jan. 30, 2026, Ex. L at 67:13-16 (“Q. You’ve never
+
+  spoken to [Bonnell] ever; correct? A. No.”); id. at 67:21-24 (Q. Have you ever corresponded
+
+  electronically with [Bonnell] ever? A. I never messaged him . . . .”); id. at 67:25-68:2 (Q. And you
+
+  never spoke with [Bonnell] on Discord ever; correct? A. Not that I can remember, no.”).) AH also
+
+  testified that she had no knowledge of Plaintiff’s identity, that she had never seen the Video, or
+
+  any explicit material depicting Plaintiff, and that Bonnell had never sent her any such material.
+
+  (Id. at 68:3-18).
+
+          In fact, AH confirmed at her deposition that her abusive, older ex-boyfriend, “Solo,” had
+
+  impersonated her online and catfished Bonnell, using the alias “Rose.” (See Bonnell Decl., ¶ 5;
+
+  Brettler Decl., Ex. L at 23:13-15 (Q. Do you know [Solo’s] Discord username? A. Yeah. It was
+
+  Rose . . . .”); id. at 24:13-18 (“Q. Do you know what [Solo’s] Twitter username was? A. He made
+
+
+
+
+                                                   4
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 5 of 22
+
+
+
+
+  one impersonating me called Rose.”); id. at 68:19-21 (Q. So essentially Defendant Bonnell was
+
+  catfished by your boyfriend [Solo]; correct? A. Yes.”).)
+
+         Critically, AH also testified that while Solo was communicating with Bonnell online, Solo
+
+  was a British citizen living in the United Kingdom. (See id. at 16:20-24, 17:8-17.) She further
+
+  testified that the leaked screenshots of the Discord communications between Bonnell and Solo
+
+  (using the alias “Rose”) appeared in European date format (day/month/year) because Solo resided
+
+  in the United Kingdom. (See id. at 18:2-7 (“Also, there is stuff online that pointed to him living in
+
+  England because of in America how dates are, it’s month, date, year, but in England it’s different;
+
+  and so screenshots between him [Solo] and Destiny [Bonnell] talking showed a different date
+
+  form”); id. at 79:22-80:7 (“Solo was located in the United Kingdom . . . And so everything that
+
+  was leaked would have had time stamps in a European format”); Bonnell Decl., dated Jan. 30,
+
+  2026, ¶¶ 6-8 & Exs. A-C.) See also UMF ¶¶ 4-7.
+
+         C.      Plaintiff Amended Her Complaint To Allege a Post-CARDII Transmission of
+                 the Video to Abbymc.
+
+         In light of the fatal jurisdictional defect of the Rose transmission occurring prior to the
+
+  effective date of the CARDII statute, Plaintiff amended her Complaint to allege that, at some
+
+  unspecified time after March 2023, Bonnell sent the Video to an individual using the screenname
+
+  “Abbymc” via a “Google drive link.” (See Am. Compl. [ECF No. 120] ¶¶ 14-15.) To date, Plaintiff
+
+  has provided no evidence of this alleged transmission. For example, Plaintiff has not even
+
+  produced a screenshot of any message in which Bonnell supposedly sent the Video to Abbymc,
+
+  nor has Plaintiff provided proof of the existence of the Google drive link. 1 In fact, at the
+
+
+
+
+  1
+    As discussed in Section V.A., infra, Bonnell has produced evidence demonstrating that no such
+  transmission occurred. Bonnell’s preserved communications with Abbymc capture every media
+  file he ever sent to her, none of which contained the Video depicting Plaintiff.
+
+
+                                                   5
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 6 of 22
+
+
+
+
+  Preliminary Injunction hearing on June 3, 2025, Plaintiff admitted that she possessed no evidence
+
+  of an actual transmission of the Video to Abbymc, or to anyone else. (See Brettler Decl., dated
+
+  Jan. 30, 2026, Ex. M at 55:7-13 (“Court: [H]ave you seen any transmission yourself or record of a
+
+  transmission as opposed to what somebody’s told you that evidenced Mr. Bonnell sending a video
+
+  after October of 2022? Have you seen anything? A: I have not.”).)
+
+         Instead, Plaintiff relies solely on a declaration from Abbymc, dated May 3, 2025 [ECF No.
+
+  49-2] and an uncorroborated and unauthenticated text message purportedly from Abbymc to an
+
+  unidentified third-party, wherein Abbymc wrote: “I have videos of him f*cking cheiry and pxie
+
+  like lmfao he just sent me another one haven’t opened it.” [ECF No. 86-1.] As explained herein,
+
+  the Court should not give any weight whatsoever to the Abbymc declaration or exhibit thereto.
+
+                 1.     Plaintiff’s Counsel Obstructed Bonnell’s Access to Abbymc.
+
+         Since May 2025, Bonnell has attempted to serve Abbymc with a subpoena in an effort to
+
+  test the false claims in her declaration. However, for six months, Plaintiff’s counsel stymied
+
+  Bonnell’s efforts to effect service of a subpoena on Abbymc. Despite that Plaintiff’s counsel also
+
+  represented Abbymc, they refused to accept service of the subpoena on her behalf and refused to
+
+  provide Abbymc’s current contact information as required pursuant to Plaintiff’s initial disclosure
+
+  obligations. (See Brettler Decl., dated Sept. 19, 2025 [ECF No. 132-9] ¶¶ 3-11.)
+
+         Notwithstanding Plaintiff’s counsel’s recalcitrance, Abbymc publicly acknowledged her
+
+  awareness of the subpoena and her deliberate avoidance of service. She commented online about
+
+  the subpoena and, during a livestream broadcast that aired on or about September 8, 2025, Abbymc
+
+  stated that Plaintiff’s counsel advised her to continue evading service of process while continuing
+
+  to “submit[] evidence.” (See id. ¶ 12 & Ex. H [ECF No. 132-17].)
+
+         After repeated requests from Bonnell’s counsel, on October 2, 2025, Plaintiff’s counsel
+
+  provided Abbymc’s “last known address.” (Brettler Decl., dated Jan. 30, 2026, ¶ 5 & Ex. A.).
+
+
+                                                  6
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 7 of 22
+
+
+
+
+  Bonnell’s counsel also requested Abbymc’s email address and phone number, but Plaintiff’s
+
+  counsel refused to provide it. (Id. ¶ 6 & Ex. B.)
+
+            Despite numerous attempts, Bonnell’s process servers were unable to find any habitable
+
+  structure at the fake address Plaintiff’s counsel provided for Abbymc. (Id. ¶ 8.) On October 15,
+
+  2025, Bonnell’s counsel sent Plaintiff’s counsel another email requesting correct contact
+
+  information for Abbymc. (Id. & Ex. D.) A week later, Plaintiff’s counsel provided the “most recent
+
+  telephone number” for Abbymc. (Id. ¶ 9 & Ex. E.). Counsel for Bonnell thereafter texted Abbymc
+
+  a copy of the subpoena using the phone number that Plaintiff’s counsel provided. (Id. ¶ 10 &
+
+  Ex. F.) Counsel for Bonnell received no response. (Id. ¶ 10.)
+
+            On November 13, 2025, counsel for Bonnell again emailed Plaintiff’s counsel requesting
+
+  Abbymc’s email address. (Id. ¶ 11.) Four days later, Plaintiff’s counsel responded that they had no
+
+  obligation to provide that information. (Id.) On November 17, 2025, Plaintiff’s counsel for the first
+
+  time provided a valid address for Abbymc. (Id. ¶ 11-12 & Exs. G-H.) See UMF ¶¶ 8-12.
+
+                   2.     Abbymc Failed To Produce Any Documents Responsive to the
+                          Subpoena.
+
+            Upon receiving the correct street address from Plaintiff’s counsel, Bonnell immediately
+
+  took steps to serve Abbymc with the subpoena at the new address. (Id. ¶ 13 & Ex. I.) The subpoena
+
+  requesting documents evidencing Bonnell’s purported transmission of the Video was served on
+
+  Abbymc on November 21, 2025. (Id. ¶ 14 & Ex. J.) Despite receiving a reminder of her obligation
+
+  to respond to the subpoena (id. ¶ 15 & Ex. K), to date, Abbymc failed to produce any documents
+
+  or otherwise respond to the subpoena. (Id. ¶ 16.) See UMF ¶¶ 12-14. Now that the discovery
+
+  deadline has passed, Plaintiff is precluded from introducing or relying upon any new documents
+
+  or other purported evidence from Abbymc, and her untested declaration should be given no legal
+
+  weight.
+
+
+
+                                                      7
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 8 of 22
+
+
+
+
+         D.      Bonnell Demonstrated That He Never Transmitted the Video to Abbymc.
+
+         Bonnell has filed evidence with the Court identifying each and every media file he
+
+  transmitted to Abbymc. (Bonnell, Decl., dated Jan. 30, 2026, ¶¶ 10-12 & Exs. E-F.) The original
+
+  file name of the Video, “VID_240100707_144752_318-1.mp4” appears nowhere in Bonnell’s
+
+  communication log because he never sent the Video to her. (Id. ¶ 11 & Ex. E.) Moreover, as further
+
+  reflected in Bonnell’s communication logs, he sent Abbymc just two Google Drive links, neither
+
+  of which contained the Video depicting Plaintiff, but instead depicted another woman who uses
+
+  the screenname “Peach,”. (Id. ¶ 12 & Exs. E-F.) See UMF ¶ 15-18.
+
+  III.   LEGAL STANDARD
+
+         Pursuant to Rule 56(a) of the Federal Rules of Civil Procedure, a “court shall grant
+
+  summary judgment if the movant shows that there is no genuine dispute as to any material fact and
+
+  the movant is entitled to judgment as a matter of law.” Anderson v. Liberty Lobby, Inc., 477 U.S.
+
+  242, 250 (1986). A dispute is “genuine” if a reasonable jury could return a verdict for the non-
+
+  moving party, and a fact is “material” if it might affect the outcome of the suit under the governing
+
+  substantive law. Id. at 248.
+
+         Entry of summary judgment is appropriate “after adequate time for discovery and upon
+
+  motion, against a party who fails to make a showing sufficient to establish the existence of an
+
+  element essential to that party’s case, and on which that party will bear the burden of proof at
+
+  trial.” Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986). Initially, it is the moving party’s “burden
+
+  to demonstrate the basis for its motion, and [it] must identify the portions of the record ‘which it
+
+  believes demonstrates the absence of a genuine issue of material fact.’” Hornsby-Culpepper v.
+
+  Ware, 906 F.3d 1302, 1311 (11th Cir. 2018) (quoting Celotex, 477 U.S. at 323). The movant may
+
+  meet this burden by demonstrating that the nonmoving party has failed to present sufficient
+
+
+
+
+                                                    8
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 9 of 22
+
+
+
+
+  evidence to support an essential element of the case. See id.; see also Jeffery v. Sarasota White
+
+  Sox, Inc., 64 F.3d 590, 593 (11th Cir. 1995) (holding that the movant may satisfy his burden “by
+
+  ‘showing’ or ‘pointing out’ to the Court that there is an absence of evidence to support the non-
+
+  moving party’s case”) (quoting Celotex, 477 U.S. at 325). Provided that the moving party meets
+
+  its burden, the burden then shifts to the non-moving party to show that a genuine issue of material
+
+  fact exists. Hornsby-Culpepper, 906 F.3d at 1311-12.
+
+         Courts in this Circuit routinely grant summary judgment for lack of subject matter
+
+  jurisdiction. See, e.g., Enlow v. United States, 161 F. App’x 837, 838-41 (11th Cir. 2006) (holding
+
+  that the trial court properly dismissed the action for lack of subject matter jurisdiction under Rule
+
+  56); Lombardi v. Lady of Am. Franchise Corp., No. CV7245CIV, 2002 WL 459717, at *1 (S.D.
+
+  Fla. Mar. 4, 2002) (granting motion for summary judgment for lack of subject matter jurisdiction
+
+  where plaintiff could not establish a genuine dispute of material fact as to the “threshold”
+
+  jurisdictional showing of an employment relationship, as required to assert claims under Title VII);
+
+  Fargo Weite Reisen GmbH v. Jam. Vacations Ltd., 790 F. Supp. 272, 273-76 (S.D. Fla. 1992)
+
+  (granting summary judgment and dismissing the complaint for lack of subject matter jurisdiction
+
+  under the Foreign Sovereign Immunities Act (“FISA”), holding that because the defendant was an
+
+  agency of a foreign sovereign and none of the FSIA’s jurisdictional exceptions applied, the court
+
+  lacked subject matter jurisdiction necessary to adjudicate the dispute).
+
+  IV.    THERE IS NO DISPUTE THAT BONNELL’S SOLE TRANSMISSION OF THE
+         VIDEO TO “ROSE” PRECEDED THE EFFECTIVE DATE OF CARDII BY
+         NEARLY SIX MONTHS.
+
+         Count I of the Amended Complaint, for Bonnell’s alleged violation of CARDII, 15 U.S.C.
+
+  § 6851, provides the sole basis for federal question jurisdiction, yet the Count fails as a matter of
+
+  law. The evidence obtained during discovery conclusively establishes that Bonnell transmitted the
+
+
+
+
+                                                   9
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 10 of 22
+
+
+
+
+   Video depicting Plaintiff, on just one occasion, to an individual, who used the screenname “Rose,”
+
+   in April 2022. (Bonnell Decl. ¶¶ 3, 6-8 & Exs. A-C.) Specifically, the evidence—including the
+
+   leaked Discord correspondence—establishes that Bonnell sent the Video to her nearly six months
+
+   before CARDII took effect on October 1, 2022. 2 (Id.) Plaintiff has submitted no evidence to dispute
+
+   that fact.
+
+           The Discord logs between Bonnell and Rose (who turned out to be Solo) conclusively
+
+   establish that Bonnell transmitted the Video on April 9, 2022. (Bonnell Decl., dated Jan. 30, 2026,
+
+   ¶ 3 & Exs. A-C.) Because Solo was located in the United Kingdom, his Discord communications
+
+   with Bonnell display the date of the transmission in European format (day/month/ year). (Id. ¶ 6
+
+   & Ex. A; Brettler Decl. Ex. L at 18:2-7, 79:22-80:7.) Thus, the entry displaying Bonnell’s
+
+   transmission of the Video to Rose appears as “10/04/22,” which corresponds to April 10, 2022,
+
+   not October 4, 2022. (Bonnell Decl., dated Jan. 30, 2026, ¶ 3 & Exs. A-C.) By comparison, because
+
+   Bonnell is located in Florida, his Discord logs with Rose display the date of transmission of the
+
+   Video in conventional U.S. date format (month/day/year) as “04/09/2022” (April 9, 2022 at 8:36
+
+   p.m. EST), which would have been April 10, 2022 at 1:36 a.m. BST in the United Kingdom. (Id.
+
+   ¶ 7 & Ex. B.)
+
+           After Bonnell sent the Video in April 2022, he continued to communicate with “Rose” on
+
+   Discord. That subsequent correspondence between Solo (using the alias “Rose”) and Bonnell
+
+   further confirms that the communications between them are displayed in the European date format.
+
+
+
+   2
+     Plaintiff concedes the CARDII statute is not retroactive. (See Pl.’s Opp’n to Mot. To Dismiss,
+   dated Oct. 3, 2025 [ECF No. 139] at 7, n.1; Pl.’s Reply in Support of Mot. for Leave to File Am.
+   Compl., dated July 28, 2025 [ECF No. 110] at 4.) See also K.T. v. Place for Rover, No. 23-02858,
+   2024 WL 1356221, at *5 (E.D. Pa. Mar. 29, 2024) (“since there is no clear Congressional intent to
+   apply the statute retroactively, this leads the Court to conclude that § 6851 should not be given
+   retroactive application.”).
+
+
+                                                   10
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 11 of 22
+
+
+
+
+   (Id. ¶ 8.) For example, on April 14, 2022, Bonnell texted Rose, “Just streaming,” and that
+
+   communication is date-stamped “14/04/2022.” (Id. & Ex. C.) The timestamp can only be read as
+
+   April 14, 2022, consistent with the European day/month/year format. 3
+
+          The evidence shows that Bonnell transmitted the Video to Rose on a single occasion, nearly
+
+   six months before CARDII took effect. See UMF ¶¶ 4-7. Because the date of transmission to
+
+   “Rose” preceded the effective date of the statute, there is no federal question jurisdiction. The
+
+   Court lacks subject matter jurisdiction and should dismiss the action.
+
+   V.     NO ADMISSIBLE EVIDENCE OF A TRANSMISSION OF THE VIDEO TO
+          ABBYMC EXISTS.
+
+          The false, uncorroborated, and untested claims in Abbymc’s declaration, dated May 3,
+
+   2025 [ECF No. 49-2] are controverted by the evidence that actually exists. Plaintiff cannot identify
+
+   a material issue of disputed fact by relying on anything contained in or attached to Abbymc’s
+
+   declaration. At summary judgment, the nonmoving party must do more than point to the existence
+
+   of some evidence in the record. The Supreme Court has made clear that “[t]he mere existence of a
+
+   scintilla of evidence in support of the plaintiff’s position will be insufficient; there must be
+
+   evidence on which the jury could reasonably find for the plaintiff.” Anderson, 477 U.S. at 252; see
+
+   also Ellis v. England, 432 F.3d 1321, 1326 (11th Cir. 2005) (“For factual issues to be considered
+
+   genuine, they must have a real basis in the record . . . mere conclusions and unsupported factual
+
+   allegations are legally insufficient to defeat a summary judgment motion.”); Avirgan v. Hull, 932
+
+   F.2d 1572, 1577 (11th Cir. 1991) (holding the evidence presented cannot consist merely of
+
+   conclusory allegations, legal conclusions or evidence which would be inadmissible at trial).
+
+          The Eleventh Circuit applies this principle strictly, holding that an issue of fact is not
+
+
+   3
+    Notably, Plaintiff’s own expert witness, Jesus Peña, concedes that Bonnell’s transmission of the
+   Video to Rose occurred on April 9, 2022. (See Peña Am. Decl., dated Oct. 8, 2025 [ECF No.
+   147-1] at ¶ 2.)
+
+
+                                                   11
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 12 of 22
+
+
+
+
+   “genuine” where it is supported only by evidence that is “merely colorable” or “not significantly
+
+   probative.” Flamingo S. Beach I Condo. Ass’n v. Selective Ins. Co. of Se., 492 F. App’x 16, 26-27
+
+   (11th Cir. 2012) (quoting Anderson, 477 U.S. at 249-50) (emphasis added). A defendant “is
+
+   entitled to summary judgment unless the nonmoving party, in response, comes forward with
+
+   significant, probative evidence demonstrating the existence of a triable issue of fact.” Rich v. Sec’y,
+
+   Fla. Dep’t of Corr., 716 F.3d 525, 530 (11th Cir. 2013) (quoting United States v. Four Parcels of
+
+   Real Prop., 941 F.2d 1428, 1438 (11th Cir. 1991) (emphasis added). Where the record contains
+
+   only minimal, speculative, or merely colorable evidence on a required element of a plaintiff’s
+
+   claim, summary judgment is appropriate as a matter of law.
+
+           A.      Bonnell Did Not Transmit the Video to Abbymc at Any Time.
+
+           In an attempt to manufacture subject matter jurisdiction where none exists, Plaintiff
+
+   amended her Complaint to allege that at some unspecified time after March 2023, Bonnell sent the
+
+   Video to Abbymc via a “Google drive link.” (Am. Compl. ¶ 14.) Critically, Plaintiff offers no
+
+   actual evidence that Bonnell transmitted the Video to Abbymc at any time, let alone evidence that
+
+   could establish a genuine dispute of material fact as to such a transmission. Indeed, Plaintiff
+
+   admitted, under oath, that she possesses no such evidence of a transmission to Abbymc (or anyone
+
+   else). (Brettler Decl., dated Jan. 30, 2026, Ex. M at 55:7-13.) Accordingly, Plaintiff fails to put
+
+   forth any evidence to establish that Bonnell ever transmitted the Video to Abbymc, or to anyone
+
+   else, after April 9, 2022.
+
+           In fact, Bonnell’s communication logs establish that he never transmitted the Video to
+
+   Abbymc at any time. (Bonnell Decl., dated Jan. 30, 2026, at ¶¶ 10-11 & Ex. E.) These logs capture
+
+   every media file Bonnell ever sent to Abbymc. They reflect that he never transmitted the Video.
+
+   (Id. ¶ 11 & Ex. E.) The original filename of the Video, “VID_240100707_144752_318-1.mp4,”
+
+   was revealed when Solo uploaded it to the KiwiFarms website without authorization. (Id. ¶ 9 &
+
+
+                                                     12
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 13 of 22
+
+
+
+
+   Ex. D.) By contrast, the files Bonnell sent to Abbymc bear entirely different filenames, none of
+
+   which correspond to the filename of Plaintiff’s Video. (See id. ¶ 11 & Ex. E.)
+
+          Further, each of the media files Bonnell sent to Abbymc display the creation date of the
+
+   file    within     the     file     name.      For     example,       one        file   is   titled
+
+   “SPOILER_PXL_20230310_151548695.TS.mp4,” which indicates a creation date on March 10,
+
+   2023. (See id. (emphasis added).) All of the files Bonnell sent to Abbymc reflect creation dates in
+
+   2023. (See id.) Had Bonnell sent Abbymc the Video, the file name would reflect a creation date in
+
+   2020, as the Video was created years earlier in September 2020. (Id.; Pl.’s Decl., dated Apr. 3,
+
+   2025 [ECF No. 20-1], ¶ 5.) Accordingly, the record conclusively establishes that Bonnell did not
+
+   transmit the Video to Abbymc in any form.
+
+          The evidence also establishes that Bonnell did not transmit the Video to Abbymc via
+
+   Google Drive. Bonnell sent Abbymc only two Google Drive links on November 3, 2023. (Bonnell
+
+   Decl., dated Jan. 30, 2026, ¶ 12 & Ex. E.) The contents of those links contain videos of Bonnell
+
+   with another woman who uses the screenname “Peach,” and they do not depict Plaintiff. (Id. ¶ 12
+
+   & Ex. F.) In fact, Peach herself confirmed that these same files, bearing the same unique Google
+
+   Drive URLs that Bonnell sent to Abbymc, depicted her, and not Plaintiff, exclaiming, “Omg aww
+
+   that’s me!,” in contemporaneous communications with Bonnell. (Id. Ex. F.) In those same
+
+   communications, Peach consented to and even encouraged further sharing of her video. (Id.) (“You
+
+   can also add [the video] to my resume if you have any single friends.”).)
+
+          The entirety of Bonnell’s relevant communication logs with Abbymc have been filed with
+
+   the Court. The Video appears nowhere in those logs, and for good reason—Bonnell never
+
+   transmitted the Video to Abbymc at any time. Plaintiff has not and cannot proffer admissible
+
+   evidence to dispute that fact, and the Motion should be granted accordingly. See UMF ¶¶ 15-18.
+
+
+
+
+                                                   13
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 14 of 22
+
+
+
+
+          B.      Abbymc Failed To Support the Claims in Her Declaration.
+
+          Plaintiff’s anticipated reliance on the Abbymc declaration to defeat summary judgment is
+
+   improper. Although as part of her Rule 26 initial disclosures, Plaintiff identified Abbymc as a
+
+   potential witness and submitted a declaration, Plaintiff’s counsel made it exceedingly difficult for
+
+   Bonnell to test the statements contained in Abbymc’s declaration. Over the course of several
+
+   months, Plaintiff’s attorneys first refused to provide contact information, then provided a fake
+
+   address and obstructed Bonnell’s efforts to serve Abbymc with a subpoena. 4 Bonnell was
+
+   prevented from testing the veracity of Abbymc’s declaration, even though the declaration concerns
+
+   a central and dispositive issue—whether a post–October 2022 transmission of the Video occurred.
+
+   Under well-settled Eleventh Circuit authority, such conduct warrants exclusion of Abbymc’s
+
+   declaration.
+
+          The Federal Rules of Civil Procedure provide that “a party must, without awaiting a
+
+   discovery request, provide to the other parties the name and, if known, the address and telephone
+
+   number of each individual likely to have discoverable information.” Fed. R. Civ. P. 26(a)(1)(A)(i).
+
+   “Parties also must supplement their Rule 26 disclosures at appropriate intervals.” Cooley v. Great
+
+   S. Wood Preserving, 138 F. App’x 149, 161 (11th Cir. 2005). The requirements of Rule 26(a) are
+
+   “mandatory.” Altheim v. GEICO Gen. Ins. Co., No. 10-CV-156-T-24TBM, 2010 WL 11508155,
+
+   at *1 (M.D. Fla. May 17, 2010). “Parties who fail to satisfy these disclosure and supplementation
+
+   requirements are prohibited, pursuant to Fed. R. Civ. P. 37(c)(1), from using the undisclosed
+
+
+
+
+   4
+     Plaintiff asserted the attorney–client privilege and work-product doctrine as grounds for refusing
+   to produce requested communications with Abbymc. (Brettler Decl., dated Jan. 30, 2025, Ex. O.)
+   However, a witness’s location, contact information, and counsel’s communications regarding
+   compliance with a subpoena are not protected from disclosure. Treminio v. Crowley Mar. Corp.,
+   No. 22-CV-00174-CRK, 2023 WL 8114403, at *5, n.6 (M.D. Fla. Nov. 22, 2023).
+
+
+                                                   14
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 15 of 22
+
+
+
+
+   evidence at trial, at a hearing, or on a motion, unless the failure is harmless.” Cooley, 138 F. App’x
+
+   at 161.
+
+             Indeed, courts routinely exclude evidence submitted in connection with a summary
+
+   judgment motion due to a party’s violation of Rule 26. See Cooley, 138 F. App’x at 160-61
+
+   (affirming the district court’s striking of third-party affidavits submitted in connection with a
+
+   summary judgment motion for failure to disclose or supplement disclosure under Rule 26(a));
+
+   Music Specialist, Inc. v. Atl. Recording Corp., No. 18-cv-25474-RAR, 2021 WL 2905410, at *3 -
+
+   8 (S.D. Fla. Mar. 8, 2021) (striking affidavits submitted in opposition to summary judgment under
+
+   Rule 37(c)(1) where plaintiffs failed to comply with Rule 26(a) and (e) disclosure and
+
+   supplementation obligations, “depriv[ing] the opposing party of a meaningful opportunity to
+
+   perform discovery and depositions related to the documents or witnesses in question”); Brown v.
+
+   NCL (Bahamas) Ltd., 190 F. Supp. 3d 1136, 1142 (S.D. Fla. 2016) (“Plaintiff’s failure to comply
+
+   with Rule 26(a) and (e) is grounds for exclusion under Rule 37(c)”).
+
+             Treminio is particularly instructive. There, plaintiff sought to rely on the sworn testimony
+
+   of a third-party witness to defeat a summary judgment motion filed by defendants. 2023 WL
+
+   8114403 at *1. However, and despite repeated requests by defendants, plaintiff failed to
+
+   supplement her Rule 26 disclosure “to include the address of or information on where to contact
+
+   [the third-party witness].” Id. at *3. In excluding the third-party declaration, the court held:
+
+                    Despite her ongoing obligation to supplement her Rule 26(a)
+                    disclosures . . . Plaintiff did not provide [the witness’s] contact
+                    information until . . . over a month after the discovery period had
+                    ended . . . . [Plaintiff’s] failure to alert defendants to [the witness’s]
+                    whereabouts or a means of contacting him—even if that was only
+                    an email address or phone number—is not substantially
+                    justified . . . . [The witness’s] location, contact information, and
+                    testimony would have been important for defendant to access during
+                    discovery, and defendant has been prejudiced by not having that
+                    information . . . . Plaintiff’s use of [the witness’s] testimony as
+
+
+
+                                                       15
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 16 of 22
+
+
+
+
+                  evidence in response to summary judgment . . . left defendant
+                  without any opportunity to prepare for, or respond to, his testimony
+                  in its motion for summary judgment . . . . Rule 37 requires the
+                  exclusion of [the witness’s] testimony from summary judgment
+                  arguments, at trial, or for any further proceedings in this case.
+
+   Id. at *5-6 (emphasis added).
+
+          Similarly, courts in this district have consistently held that it is improper to permit a party
+
+   to rely on a non-party declaration to oppose summary judgment where the opposing party
+
+   obstructed access to the witness, particularly where the declaration is critical to the nonmovant’s
+
+   case. See Henriquez v. Total Bike, LLC, No. 13-20417-CIV, 2013 WL 6834656, at *6 (S.D. Fla.
+
+   Dec. 23, 2013) (granting summary judgment and refusing to consider affidavits of non-party
+
+   witnesses, noting that “courts have consistently held that the affidavit of a witness cannot be used
+
+   to support or oppose summary judgment where the other party did not have the ability to depose
+
+   the witness”); Inmuno Vital, Inc. v. Telemundo Grp., 203 F.R.D. 561, 565-66 (S.D. Fla. 2001)
+
+   (excluding affidavit testimony where defendants obstructed access to the witness during discovery
+
+   and holding that “defendants will not be permitted to glean an unfair advantage over plaintiff by
+
+   relying on this witness to whom plaintiff did not have access during discovery”); Crawford v.
+
+   NCB, Inc., No. 00-6625-CIV, 2001 WL 833715, at *2 (S.D. Fla. May 17, 2001) (striking affidavits
+
+   submitted in opposition to summary judgment where defendant was unable to depose the witnesses
+
+   due to “plaintiffs’ failure to disclose new addresses or [contact] information,” despite that
+
+   plaintiff’s counsel “readily was able to contact these witnesses himself to procure affidavits”).
+
+          For over six months, Plaintiff and her counsel repeatedly violated their obligations under
+
+   Rule 26, obstructed access to their purported star witness, and now seek to rely exclusively on the
+
+   Abbymc declaration to establish subject matter jurisdiction in this case. Plaintiff cannot have it
+
+   both ways. Worse, as Abbymc publicly admitted during a livestream on or about September 8,
+
+   2025, she claims that Plaintiff’s counsel advised her to continue evading service of process while
+
+
+                                                    16
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 17 of 22
+
+
+
+
+   continuing to “submit[] evidence.” (See Brettler Decl., dated Sept. 19, 2025 [ECF No. 132-9] ¶ 12
+
+   & Ex. H [ECF No. 132-17.)
+
+          Due to Plaintiff and her counsel’s obstruction, Bonnell has been deprived of the
+
+   opportunity to test, challenge, or even access Abbymc during discovery. (Id. ¶¶ 3-12; Brettler
+
+   Decl., dated Jan. 30, 2026, ¶¶ 4-12.) When Bonnell was finally able to serve Abbymc with a
+
+   subpoena prior to the close of discovery, Abbymc failed to produce any documents responsive
+
+   thereto. (Brettler Decl., dated Jan. 30, 2026 ¶¶ 13-16.) Under well-established Eleventh Circuit
+
+   authority, the Abbymc declaration should be stricken and given no weight in connection with
+
+   deciding this Motion. See UMF ¶¶ 8-14.
+
+          C.     The Abbymc Declaration Does Not Establish a Genuine Dispute of Material
+                 Fact.
+
+          Even if the Court were to consider the Abbymc declaration, it fails to establish a genuine
+
+   dispute of material fact, as a matter of law. Critically, Plaintiff has not and cannot submit any
+
+   evidence that Bonnell transmitted the Video to Abbymc at any time. Indeed, had such a
+
+   transmission occurred, it would appear in both Bonnell’s and Abbymc’s communication logs.
+
+   Bonnell has filed with the Court each and every media file he transmitted to Abbymc. (Id. ¶¶ 10-
+
+   12 & Exs. E-F.) Abbymc has refused. (See Brettler Decl., dated Jan. 30, 2026, ¶¶ 13-16 & Exs. I-
+
+   J.)
+
+          Plaintiff argues that the Abbymc declaration establishes Bonnell sent her the Video, but it
+
+   does no such thing. Indeed, even “merely colorable” or merely plausible evidence cannot establish
+
+   a genuine dispute of material fact as a matter of law. See Cargill Ltd. v. Jennings, 308 F. App’x
+
+   385, 387-88 (11th Cir. 2009) (affirming summary judgment where the nonmovant relied on an
+
+   affidavit asserting misconduct without evidentiary support, holding that such “merely colorable”
+
+   assertions are insufficient to defeat summary judgment); Hudson v. S. Ductile Casting Corp., 849
+
+
+
+                                                  17
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 18 of 22
+
+
+
+
+   F.2d 1372, 1375–76 (11th Cir. 1988) (affirming summary judgment where the plaintiff relied on
+
+   unsupported assertions of discrimination and retaliation that were contradicted by undisputed
+
+   record evidence and deposition testimony); Rayborn v. Auburn Univ., 350 F. Supp. 2d 954, 963
+
+   (M.D. Ala. 2004) (granting summary judgment where the nonmovant relied on conclusory
+
+   deposition testimony and generalized allegations of discrimination but failed to identify any
+
+   evidentiary materials or specific testimony to corroborate his claims)
+
+          Here, even if the Abbymc declaration is “merely colorable” (it is not), in light of the
+
+   substantial evidence in the record, the Abbymc declaration is certainly not “significantly
+
+   probative” as to establish a genuine dispute of material fact. Anderson, 477 U.S. at 249-50. Rather
+
+   than provide probative evidence of the alleged transmission, e.g., a screenshot of a message in
+
+   which Bonnell supposedly sent the Video to Abbymc, or proof of the Google drive link that
+
+   Bonnell allegedly shared with Abbymc, Plaintiff relies on a single, self-serving, and
+
+   unauthenticated text message purportedly from Abbymc to an unidentified third party, dated
+
+   November 3, 2023, wherein Abbymc wrote: “I have videos of him f*cking cheiry and pxie like
+
+   lmfao he just sent me another one haven’t opened it.” [ECF No. 86-1.] The message does not
+
+   establish that Bonnell transmitted the Video to Abbymc, as it is unauthenticated, ambiguous as to
+
+   the sender of the message, and as to the content allegedly received, and provides no evidence of
+
+   any transmission method or timing. At most, it reflects Abbymc’s own unsworn characterization
+
+   of what she believed she possessed, not evidence that Bonnell actually transmitted the Video to
+
+   her. Abbymc’s declaration and unauthenticated exhibit does not come close to establishing that
+
+   Bonnell transmitted the Video to her at all. Plaintiff could have submitted proof of such a
+
+   transmission, yet she has not done so (and for good reason, it never happened).
+
+
+
+
+                                                   18
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 19 of 22
+
+
+
+
+           Moreover, courts in this Circuit routinely hold that an unauthenticated exhibit cannot
+
+   establish a genuine dispute of material fact. See, e.g., Hernandez v. J.P. Morgan Chase Bank N.A.,
+
+   No. 14-24254-CIV, 2016 WL 3647883, at *2 (S.D. Fla. June 30, 2016) (“the documents are not
+
+   properly authenticated and will not be considered by this Court when assessing the summary
+
+   judgment motion.”); Hill v. Lazarou Enters., Inc., No. 10-61479-CIV, 2011 WL 124630, at *2-3
+
+   (S.D. Fla. Jan. 14, 2011) (“Authentication is a condition precedent to admissibility . . . because the
+
+   defendant has failed to authenticate the [exhibit], it cannot properly support the defendant’s motion
+
+   for summary judgment”); see also Snover v. City of Starke, Fla., 398 F. App’x 445, 449 (11th Cir.
+
+   2010) (holding that because the party “merely filed the [exhibit] with the court and did not
+
+   authenticate it, the district court did not abuse its discretion in declining to consider the [exhibit]”).
+
+           Nowhere in Abbymc’s declaration does she authenticate or even attach the text message
+
+   she purportedly sent to an unknown third party. (See Abbymc Decl., dated May 3, 2025 [ECF No.
+
+   49-2], ¶¶ 1-10.) Rather, it was Plaintiff who “merely filed” the exhibit with the Court a month later
+
+   on June 2, 2025. (See Pl. Mot. To File Redacted Evid. in Supp. of Abbymc Decl., dated June 2,
+
+   2025 [ECF No. 86]); Snover, 398 F. App’x at 449 (declining to consider unauthenticated exhibit).
+
+           Accordingly, pursuant to well-established Eleventh Circuit authority, Plaintiff’s allegation
+
+   that Bonnell transmitted Plaintiff’s video to Abbymc is merely colorable and fails to establish a
+
+   genuine dispute of material fact as a matter of law. In any event, at most, the proffered Abbymc
+
+   declaration and later-accompanying exhibit constitutes inadmissible hearsay, i.e. an out of court
+
+   statement offered to prove that Bonnell transmitted a video of Plaintiff after the CARDII statute
+
+   went into effect. Fed. R. Civ. P. 801. The Court should disregard the declaration and the later-
+
+   amended exhibit thereto.
+
+
+
+
+                                                      19
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 20 of 22
+
+
+
+
+   VI.    THE COURT SHOULD DECLINE TO EXERCISE SUPPLEMENTAL
+          JURISDICTION OVER PLAINTIFF’S REMAINING STATE LAW CLAIMS.
+
+          The remainder of Plaintiff’s claims (Counts II-IV) are state law claims only. Federal law
+
+   is clear that if the root federal claims are dismissed before trial, a court should decline to exercise
+
+   supplemental jurisdiction over the remaining state law claims. See United Mine Workers of Am. v.
+
+   Gibbs, 383 U.S. 715, 726 (1966) (“Certainly, if the federal claims are dismissed before trial . . .
+
+   the state claims should be dismissed as well.”); see also 28 U.S.C. 1367(c)(3) (district courts may
+
+   decline to exercise supplemental jurisdiction over a claim under subsection (a) if “the district court
+
+   has dismissed all claims over which it has original jurisdiction”); Vibe Micro, Inc. v. Shabanets,
+
+   878 F.3d 1291, 1296 (11th Cir. 2018) (“When all federal claims are dismissed before trial, a district
+
+   court should typically dismiss the pendant state claims as well”). Indeed, “[s]tate courts, not federal
+
+   courts, should be the final arbiters of state law.” Baggett v. First Nat’l Bank of Gainesville, 117
+
+   F.3d 1342, 1353 (11th Cir. 1997).
+
+          Taggart v. Colonial Hotel, Inc., No. 06-80018-CIV-WJZ, 2007 WL 9702259 (S.D. Fla.
+
+   Oct. 29, 2007) is instructive. There, the Court granted defendant’s motion for summary judgment
+
+   for lack of subject matter jurisdiction, dismissing Count 1 of the complaint for violation of the
+
+   Americans with Disabilities Act of 1990. Id. at *3. In declining to exercise supplemental
+
+   jurisdiction over plaintiffs’ remaining state law claims, the court held:
+
+                  By granting the instant Motion as to Count I of Plaintiffs' Complaint,
+                  Plaintiffs’ sole federal claim no longer exists. The Court notes that
+                  Plaintiffs' remaining claims in Counts II and III of the Complaint are
+                  brought under Florida state law. . . . In the interests of comity, the
+                  Court declines to exercise jurisdiction over the state law claims
+                  contained in counts II and III of Plaintiffs’ Complaint.
+   Id.
+
+          Here, as in Taggart, Plaintiff’s remaining claims raise no federal question, and no diversity
+
+   jurisdiction exists between the Parties. Counts II-IV arise exclusively under Florida statutory
+
+
+
+                                                     20
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 21 of 22
+
+
+
+
+   and/or common law and should be dismissed accordingly. 5
+
+   VII.      CONCLUSION
+
+             For the foregoing reasons, Defendant Steven K. Bonnell respectfully requests that the
+
+   Court grant the Motion for Summary Judgment in its entirety.
+
+
+       Dated: January 30, 2026                        Respectfully submitted,
+
+                                                      BILZIN SUMBERG BAENA PRICE &
+                                                      AXELROD LLP
+                                                      1450 Brickell Avenue, Suite 2300
+                                                      Miami, Florida 33131
+                                                      Tel.: (305) 374-7580
+                                                      Fax: (305) 374-7593
+
+                                                      By: /s/ Michael S. Morgan
+                                                      Michael S. Morgan
+                                                      Florida Bar No.: 1061173
+                                                      mmorgan@bilzin.com
+
+                                                      and
+
+                                                      BERK BRETTLER LLP
+                                                      9119 West Sunset Blvd.
+                                                      West Hollywood, CA 90069-3106
+                                                      Tel: (310) 278-2111
+
+                                                      By: /s/ Andrew B. Brettler
+                                                      Andrew Brad Brettler
+                                                      California Bar No.: 262928
+                                                      abrettler@berkbrettler.com
+                                                      Jake A. Camara
+                                                      California Bar No.: 305780
+                                                      jcamara@berkbrettler.com
+                                                      Joel Sichel
+                                                      California Bar No: 361148
+                                                      jsichel@berkbrettler.com
+                                                      (admitted pro hac vice)
+
+                                                      Counsel for Steven K. Bonnell I
+
+
+   5
+    Notably, Plaintiff is no longer a resident of Florida. Since the filing of her Complaint, Plaintiff
+   moved out of state to attend school. (See Doe Decl., dated Nov. 12, 2025, [ECF No. 177-3] ¶ 3.)
+
+
+                                                   21
+Case 1:25-cv-20757-JB Document 210 Entered on FLSD Docket 01/30/2026 Page 22 of 22
+
+
+
+
+                                    CERTIFICATE OF SERVICE
+
+          I HEREBY CERTIFY that on January 30, 2026, a true and correct copy of the foregoing
+
+   was served on all parties via electronic transmission to counsel of record for these parties.
+
+
+                                                         By: /s/ Michael S. Morgan
+                                                              Michael S. Morgan
+
+
+                                           SERVICE LIST
+                                    Jane Doe v. Steven K. Bonnell II
+                                      Case No.: 1:25-cv-20757-JB
+
+    Carlos A. Garcia Perez, Esq. Sanchez-             Counsel for Jane Doe
+    Medina, Gonzalez, Quesada, Lage, Gomez &
+    Machado, LLP 201 Alhambra Circle, Suite
+    1205 Coral Gables, Florida, 33134
+    Email: cgarciaperez@smgqlaw.com
+
+    Joan Schlump Peters, Esq.
+    JSP LAW, LLC
+    838 Neapolitan Way, #91, Naples, FL 34103
+    Email: petersjoan@bellsouth.net
+
+
+
+
+                                                    22
+

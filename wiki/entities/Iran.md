@@ -5,7 +5,7 @@ entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
 updated: 2026-04-11
-sources: 14
+sources: 17
 ---
 
 ## Overview
@@ -68,6 +68,9 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[Republicans Block Iran War Powers Resolution — House Adjournment]] — congressional response; war powers context
 - [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]] — US public opinion on Israel and the war
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Iranian strikes on Qatar/Gulf infrastructure triggered global helium supply crisis, cascading into semiconductor production
+- [[Iran Hormuz Strait Reopens — Trump Blockade Remains in Full Force]] — April 17: Iran FM declares Strait "completely open" for ceasefire duration; Trump maintains naval blockade; uranium transfer dispute; oil -13%
+- [[Iran-US War Latest — Trump Says Talks Continue Over the Weekend]] — April 17-18 live coverage; Trump contradicted by Iran FM on uranium; Ghalibaf threatens Strait re-closure; Trump NATO swipe at Arizona rally
+- [[Trump Says Israel and Lebanon Have Agreed to a Ceasefire — NPR]] — Lebanon ceasefire was Iranian precondition for nuclear talks; Hezbollah excluded from negotiations; 1M displaced
 
 ## Open Questions
 

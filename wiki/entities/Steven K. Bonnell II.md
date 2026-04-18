@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [streamer, destiny, legal, ncii, youtube, kick]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 2
+updated: 2026-04-18
+sources: 19
 ---
 
 ## Overview
@@ -47,7 +47,20 @@ The structural story is that the civil liability apparatus reaches him *because 
 ## Source Appearances
 
 - [[Rose deposition — Doe v Bonnell]] — third-party witness testimony describing the catfish from Rose's side
-- Public streams and a January 2025 Reddit post constitute his main public defense
+- [[Florida streamer Destiny sued over cyber sexual harassment: court documents]] — WFLA news coverage; quotes his November 2024 written admission verbatim
+- [[Pxie Substack: 'I will be suing Steven Kenneth Bonnell II']] — plaintiff's framing of his conduct; evidence log of his apology messages cited
+- [[Lauren DeLaguna X posts on her role in Doe v. Bonnell]] — Bonnell alleges DeLaguna contacted 10+ creators to coordinate negative coverage; posted as X reply Dec 6, 2025
+- [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell files 12(b)(1) attack on CARDII jurisdiction; argues video was pre-statute; documents Abbymc non-service
+- [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — opposing counsel's characterization of his conduct; false Footnote 2 alleges he sent content to a minor
+- [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — Bonnell files after Plaintiff's deposition no-show; seeks his own deposition to be rescheduled once stay lifted
+- [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — Bonnell seeks sanctions after AH deposition confirms Solo catfishing; argues Plaintiff's minor claim was made in bad faith
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — Bonnell's comprehensive post-discovery MSJ; argues no post-CARDII transmission can be proven; cites his own deposition stay as procedurally fair
+- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — Plaintiff argues his deposition has never been taken (Stay Order ECF 167); seeks deferral
+- [[Doe v Bonnell ECF218 — Bonnell Opposition to Rule 56(d) Motion]] — Bonnell argues discovery delays were Plaintiff's own doing; MSJ should proceed
+- [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — Bonnell seeks to exclude false minor allegation, Abbymc evidence, and Plaintiff's trial pseudonym
+- [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — Bonnell argues consent evidence is CARDII-essential; Rule 412 doesn't apply; Solo evidence needed
+- [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff contests all three MIL exclusion requests; Rose deposition shows Solo shared Bonnell videos with real Rose
+- [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — Bonnell declares he is "ready for trial and eager to clear his name"; opposes all three continuance grounds
 
 ## Open Questions
 
