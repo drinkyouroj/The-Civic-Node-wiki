@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [nfl, seahawks, power, systems-thinking]
 created: 2026-04-07
-updated: 2026-04-16
-sources: 22
+updated: 2026-04-17
+sources: 25
 ---
 
 ~~Caveat resolved 2026-04-16: ESPN post-game recap now ingested. See [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]].~~
@@ -50,6 +50,7 @@ NFL franchise based in Seattle, Washington. Members of the NFC West division. Wo
 - [[NFC Championship — Seahawks 31 Rams 27]] — playoff clinching game
 - [[NFC Championship — ESPN Game Analysis]] — tactical breakdown of championship win
 - [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]] — consolidated coverage of the Jan 3 Week 18 win; NFC West title, #1 seed, McCaffrey shutout
+- [[13-3 The Box Score That Ended the Can Seattle's Defense Travel Debate]] — TCN article treating the 13-3 win as empirical validation of architecture-beats-momentum
 - [[Seahawks 41-6 Divisional Win Over 49ers]] — Jan 17 Divisional Round blowout
 - [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — identity-forming Dec 18 comeback win; first 16-pt 4Q comeback in franchise history
 - [[Seahawks Are Biggest Threat to Overthrow the NFC]] — Week 4 analytical piece; early-season case for the Seahawks' ceiling
@@ -57,6 +58,8 @@ NFL franchise based in Seattle, Washington. Members of the NFC West division. Wo
 - [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 6 Pro Bowl selections; Leonard Williams "Dark Side" framing
 - [[2025-26 NFL Playoffs Wikipedia]] — bracket and results
 - [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]] — ESPN post-game recap; Walker MVP, 6 sacks, 3 turnovers forced; 29-13 final
+- [[Seahawks Injury Updates — Coby Bryant, Riq Woolen, Nick Emmanwori]] — post-Week 16 injury report; Bryant expected to miss time, Woolen/Emmanwori cleared
+- [[Seahawks vs 49ers Week 18 Predictions — Covers.com]] — pregame betting preview for the Jan 3 finale
 
 ## Open Questions
 

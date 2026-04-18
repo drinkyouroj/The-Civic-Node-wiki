@@ -1432,3 +1432,33 @@ Ingested Intercept source (Apr 9, 2026) covering Judge Bryan's order compelling 
 **Key quote for draft:** "This judge is effectively doing the investigation that the United States has turned its back on." — Shauna Kieffer, defense attorney.
 
 **Draft action:** Any claim in the institutional gaslighting draft citing the stub as evidence of a verdict or Ross being cleared must be corrected. The accurate framing: DOJ abdicated; a judge compelled partial disclosure via a tangential case.
+
+## [2026-04-17] ingest | Bulk Sync — 32 sources, 18 entities, 8 concepts, 3 articles
+
+Bulk-ingested ~38 raw files and 6 published articles that had accumulated in `raw/` and `published/` since the last sweep. Dispatched parallel ingest agents partitioned by theme cluster (Minnesota state-vs-federal litigation; DC politics / Cannon / Epstein; Trump foreign policy — Iran, Israel-Lebanon, Japan tariffs; crypto and stablecoin policy; AI and algorithmic systems; culture/tech — gaming, Amazon robotics, Cities Church; NFL Seahawks coverage). Eleven junk files (Google Search results, Steam store pages, generic site indexes) were skipped.
+
+**Counts:** 32 new source pages, 18 new entity pages, 8 new concept pages, 3 new article pages, plus 31 modified existing pages where source counts were incremented and new Source Appearances entries added. Wiki totals: 503 sources / 205 entities / 128 concepts / 88 articles / 935 total pages.
+
+**Headline additions:**
+- **Minnesota state-vs-federal litigation arc:** A four-stack structure now documented in the wiki — at-the-scene physician block → next-day forensic block → state assault charges against ICE agent (first prosecution of its kind) → MN v. DOJ/DHS lawsuit. New concepts [[Anti-Commandeering Doctrine]], [[Defensive Immunity]], [[Supremacy Clause Immunity]] capture the legal terrain. New entities [[Mary Moriarty]] (Hennepin County DA who filed charges), [[Katherine Menendez]] (judge), [[Gregory Donnell Morgan]] (charged ICE agent), [[Keith Ellison]] (lead plaintiff for state).
+- **AI legal personhood precedent:** [[Atrato River]] / Colombia T-622-16 ruling and [[Biocultural Rights]] / [[Rights of Nature]] concepts establish a non-corporate-personhood pathway for legal agency that parallels current AI personhood debates. Cross-linked to existing [[AI Legal Personhood]] and [[Corporate Personhood]].
+- **Sam Altman as standalone entity** with [[Partnership on AI]] connection and ties to OpenAI's Microsoft antitrust exposure (two new sources documenting the lawsuit).
+- **Section 702 FISA** concept page anchors the surveillance-authority cluster.
+- **Cypherpunk → S-1 arc:** Three new articles ([[Beyond Crypto Week]], [[The Cypherpunk Who Filed an S-1]], [[13-3 The Box Score That Ended the Can Seattle's Defense Travel Debate]]) join the published library; [[Adam Back]], [[Bitcoin]], [[Bitcoin as Digital Gold]] all extended.
+- **Cooperative game design** as a counter-pattern to engagement-maximizing algorithms: new concept [[Aggression-Based Matchmaking]] and [[Cooperative Game Design]] anchored to [[Arc Raiders]] / [[Embark Studios]] / [[Alex Pretti]].
+
+**Deferred:** None. All viable raw + published files processed.
+
+## [2026-04-18] ingest | Backlog reconciliation pass — coverage audit, 3 net new pages
+
+Re-ran the raw/ vs wiki/sources/ diff after yesterday's bulk ingest. The naive diff (filename literal vs `raw:` frontmatter field) showed ~65 "uningested" raw files. Dispatched four parallel ingest agents to process the apparent backlog. Result: nearly all of those files were already filed in prior sessions under non-matching filename strings — smart-quote vs straight-quote variants, secondary-raw merges into consolidated source pages' Notes sections (e.g., the three Seahawks game-recap pages each merge 4–11 raw files but only carry one in frontmatter), and one byte-identical duplicate raw file ("What's Next in AI 2027" is identical to "...2026").
+
+**Net new pages (3):** `wiki/sources/BEA Gross Domestic Product Q1 2025 Advance Estimate.md` (primary-source GDP release, -0.3% Q1 contraction); `wiki/sources/Google Search Quality Evaluator Guidelines September 2025.md` (primary-source platform governance rubric — E-E-A-T, YMYL, AI-content rules); `wiki/entities/Bureau of Economic Analysis.md`.
+
+**Corrections:** Fixed broken `[[Kevin Miran]]` wikilink in [[The Fed's Independence Theater]] to [[Stephen Miran]] (the published piece contains the name error; flagged in parenthetical). Added `raw_alt:` pointers to existing source pages where second raw captures of the same article were discovered (Bob Weir / The Conversation duplicate; Securities Enforcement Roundup April 2025/2026 misnamed duplicate). Extended [[Algorithmic Incentives]] (sources 4→5) and [[Attention Economy]] (10→11) with the Google Eval Guidelines as a primary-source anchor.
+
+**Junk skipped (12):** Google Books, Google Search × 3 variants, Home page, Popular Articles, Seattle Seahawks roster, espn.com, llm-wiki, the original article text, HELLDIVERS Steam page, raw/CLAUDE.md.
+
+**Index hygiene:** Deleted two duplicate article pages from yesterday's bulk pass — straight-quote variants of `[[13-3 The Box Score That Ended the Can Seattle's Defense Travel? Debate]]` and `[[Beyond "Crypto Week"]]` that the parallel agents created without checking for the pre-existing smart-quote originals. Wiki totals adjusted: 505 sources / 206 entities / 128 concepts / 86 articles / 936 pages.
+
+**Followup recommendation:** The diff-based "uningested" check overcounts when source pages list secondary raws in Notes rather than frontmatter. A more accurate audit would grep for raw filename basenames across all of wiki/sources/, not just the `raw:` field. Worth doing before the next bulk pass.

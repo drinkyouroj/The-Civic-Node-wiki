@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, economics, politics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 15
+sources: 16
 ---
 
 ## Definition
@@ -82,3 +82,4 @@ Powell's framing: "A reasonable base case is these are one-time price effects" �
 - [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]]
 - [[Trump announces massive trade deal with Japan Al Jazeera]]
 - [[US M2 Money Supply YoY Historical Data]]
+- [[Times of India — Massive Trade Deal Japan 15% Tariffs]] — 15% reciprocal tariff on Japanese goods as part of broader July 2025 Asia tariff cascade; Philippines and Indonesia at 19%

@@ -3,8 +3,8 @@ title: "Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives"
 type: source
 tags: [nfl, seahawks, rams, game-recap, darnold, comeback]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 7
+updated: 2026-04-17
+sources: 14
 raw: "raw/Rams-Seahawks on 'Thursday Night Football' What We Learned from Seattle's 38-37 overtime win.md"
 source_url: "https://www.nfl.com/news/rams-seahawks-on-thursday-night-football-what-we-learned-from-seattle-s-38-37-overtime-win"
 author: "Multiple (NFL.com, ESPN, FOX 13, Seahawks.com, CBS, CNN)"
@@ -65,4 +65,17 @@ Consolidated record of seven source documents covering the Seahawks' 38-37 overt
 
 ## Notes
 
-Seven raw files cover this game: Gametracker (CBS), Seahawks rapid reaction, Seahawks quote story, ESPN recap, NFL.com recap/analysis, FOX 13 takeaways, CNN recap, and an NFL.com controversial play story. The CBS Gametracker and ESPN recap have the most tactical detail; the FOX 13 piece has the best statistical oddities; the Seahawks.com quotes piece has the best player quotes. All consolidated here.
+Consolidated from multiple raw sources covering the Week 16 LAR@SEA 38-37 OT game. Raw files merged here:
+- `raw/Rams-Seahawks on 'Thursday Night Football' What We Learned from Seattle's 38-37 overtime win.md` (NFL.com — primary)
+- `raw/Rapid Reactions Seahawks Take Over First Place In The NFC West With A Stunning Comeback Win Over the Rams.md` (Seahawks.com / Boyle)
+- `raw/Seahawks Show 'We're A Very Resilient, Relentless Group' In Comeback Win Over Rams.md` (Seahawks.com / Boyle — best player quotes)
+- `raw/Seahawks 38-37 Rams (Dec 18, 2025) Game Recap - ESPN.md` (ESPN AP recap)
+- `raw/Seahawks lead NFC after comeback OT thriller vs. Rams.md` (ESPN / Barshop & Henderson — analytics, win probability detail)
+- `raw/Takeaways from Seattle Seahawks 38-37 OT win over Rams.md` (FOX 13 / Crabtree — best statistical oddities)
+- `raw/Seattle Seahawks claim playoff spot after making 16-point, 4th quarter comeback to stun LA Rams in OT thriller CNN.md` (CNN)
+- `raw/Rams vs. Seahawks Seahawks pull off a comeback for the ages, beat Rams with walk-off 2-point conversion in OT.md` (Yahoo Sports live blog / Schwab & Baer — cites Amazon Prime Video 0-172 all-time stat)
+- `raw/Rams question overturned two-point play that aided collapse vs. Seahawks.md` (NFL.com / Patra — controversial play analysis, Rams protest of lateral ruling)
+- `raw/Los Angeles Rams vs. Seattle Seahawks Live Score and Stats - December 18, 2025 Gametracker.md` (CBS Gametracker — stats-only stub)
+- `raw/Seahawks injury updates Coby Bryant will miss time, Riq Woolen okay.md` (Field Gulls / Freeman — post-game injury report; see separate source page)
+
+The CBS Gametracker and ESPN recap have the most tactical detail; the FOX 13 piece has the best statistical oddities; the Seahawks.com quotes piece has the best player quotes; the NFL.com controversial play story is the definitive explainer on the lateral/backward-pass ruling. Injury details broken out to their own source page ([[Seahawks Injury Updates — Coby Bryant, Riq Woolen, Nick Emmanwori]]) because the secondary injuries had downstream implications for subsequent games.

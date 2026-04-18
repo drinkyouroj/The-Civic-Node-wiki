@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, military, religion, iran, war]
 created: 2026-04-11
-updated: 2026-04-16
-sources: 8
+updated: 2026-04-17
+sources: 9
 ---
 
 ## Overview
@@ -38,6 +38,7 @@ Hegseth's Pentagon prayer is the most explicit instance of faith-based war justi
 - [[Pope Leo Is Speaking Truth to Donald Trumps Power]] — Pentagon prayer session described in detail
 - [[Statement from Dario Amodei on our discussions with the Department of War]] — referenced as head of "Department of War"; issued threats of supply chain risk designation and DPA invocation
 - [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — central actor; designated Anthropic supply chain risk via X; legal analysis finds his actions likely exceed statutory authority
+- [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — claims Iran "begged" for the ceasefire — triumphalist framing incompatible with good-faith negotiation
 
 ## Open Questions
 

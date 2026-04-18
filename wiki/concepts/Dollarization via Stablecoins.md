@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, crypto, stablecoin, geopolitics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 7
+sources: 8
 ---
 
 ## Definition
@@ -83,6 +83,8 @@ The contrarian observation: this is the most successful dollarization-of-the-wor
 ## Key Sources
 
 *(Pending ingest. The wiki currently lacks Argentina/Turkey/Nigeria/Lebanon source coverage. Acquisition targets: Castle Island Ventures research notes, Chainalysis geographic adoption reports, Matt Levine columns on Tether-in-Argentina, FT Alphaville pieces, IMF working papers on cryptoization in emerging markets, Nic Carter writing on offshore dollar demand. This is the single biggest source-acquisition gap in the crypto cluster.)*
+
+- [[How Stablecoins Could Affect Borrowing Costs — ABA Banking Journal]] — domestic-fiscal flip side: stablecoin reserves as new structural buyer of short-duration Treasuries (raw clipping truncated; framing preserved for follow-up)
 
 ## Open Questions
 

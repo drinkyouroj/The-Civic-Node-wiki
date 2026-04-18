@@ -4,7 +4,7 @@ type: concept
 tags: [politics, power, accountability, institutional-gaslighting, transparency, law]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 3
+sources: 5
 ---
 
 ## Definition

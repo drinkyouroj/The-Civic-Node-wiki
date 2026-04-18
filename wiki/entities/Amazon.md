@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, ai, labor, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 7
+sources: 8
 ---
 
 ## Overview
@@ -37,6 +37,7 @@ American multinational technology and e-commerce company. Founded 1994 by Jeff B
 - [[Amazon's Just Walk Out Technology Relies on Hundreds of Workers in India]] — 700/1,000 transaction review figure; India workers
 - [[Ghost Work — The Hidden Humans Behind AI]] — AMT as foundational crowdwork platform
 - [[When Robots Leave the Lab]] — 750K warehouse robots as physical AI deployment case
+- [[Amazon Reaches 750000 Robots in Fulfillment Operations — Distribution Strategy]] — June 2025 corporate disclosure of 750K robot count; nine core systems itemized; Shreveport facility detail
 
 ## Open Questions
 

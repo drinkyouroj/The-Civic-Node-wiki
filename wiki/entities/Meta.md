@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, politics, antitrust, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 10
+updated: 2026-04-17
+sources: 13
 ---
 
 ## Overview
@@ -35,6 +35,9 @@ Meta sits at the intersection of three major themes: algorithmic power over demo
 - [[Echo Chamber Research Systematic Review]] — most-studied platform in echo chamber literature
 - [[If Hate-Fueled Algorithms Cause Real-World Harm, California's Tech Companies Should Pay]] — Myanmar and internal research cited
 - [[Anthropic Raises $3.5B at $61.5B Valuation]] — competitor launching AI chatbot
+- [[How Social Media Algorithms Are Set to Change in 2025 — TouchStone Digital]] — Facebook and Instagram 2025 algorithm shifts described for marketers
+- [[Keep Up With Social Media Algorithm Changes in 2025 — Vista Social]] — Instagram/Facebook feature inventory; Collaborative Posts, Reels Remix, Shopping Tags, Reels Integration
+- [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — Instagram intent modeling, Threads crossover influence, Facebook four-step ranking pipeline, "AI moderator assist"
 
 ## Open Questions
 - What is the current status of the FTC antitrust case?

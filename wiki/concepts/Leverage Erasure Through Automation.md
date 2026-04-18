@@ -4,7 +4,7 @@ type: concept
 tags: [power, automation, labor, infrastructure, ownership]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 6
+sources: 7
 ---
 
 ## Definition

@@ -3,8 +3,8 @@ title: "Platform Antitrust"
 type: concept
 tags: [technology, legal, politics, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 9
+updated: 2026-04-17
+sources: 11
 ---
 
 ## Definition
@@ -41,3 +41,5 @@ Platform antitrust is where political power and tech power most directly collide
 - [[AI-Driven Personalized Pricing May Not Help Consumers]]
 - [[Fueling the Fire — Social Media and Political Polarization]]
 - [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]] — compute infrastructure as antitrust leverage; AI Computational Barrier to Entry; 82% market concentration; class action filed October 2025
+- [[Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal — PYMNTS]] — CPI trade-press summary of same class action
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — UK coverage adds relief-sought detail (treble damages, dismantling order) and £2B UK parallel Windows Server claim

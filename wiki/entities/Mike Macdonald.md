@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [nfl, power, systems-thinking]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 17
+updated: 2026-04-17
+sources: 18
 ---
 
 > ⚠️ **Caveat — Super Bowl LX is referenced but not directly sourced.** The latest sourced events in this cluster are the Jan 26, 2026 NFC Championship and the Feb 6, 2026 pre-game Schneider profile. No raw post-game Super Bowl LX recap exists in the cluster as of 2026-04-07. All "Super Bowl LX winner" claims here trace to the pre-game profile or to the bracket entry, not to a game recap.
@@ -54,6 +54,7 @@ Head coach of the Seattle Seahawks since 2024. Former Baltimore Ravens defensive
 - [[Seahawks Are Biggest Threat to Overthrow the NFC]] — Week 4 2025; his former assistants as control group; "the changing denominator is the head coach"
 - [[Where Seahawks Defense Ranks Among League's Best]] — Week 12 2025; statistical confirmation of #1 defensive DVOA
 - [[NFC Championship — ESPN Game Analysis]] — blitz rate (6%) vs. pressure rate (5th NFL) as the scheme's high-stakes proof
+- [[Seahawks Injury Updates — Coby Bryant, Riq Woolen, Nick Emmanwori]] — post-Week 16 injury comments; Bryant not "automatically season-ending"
 
 ## Open Questions
 

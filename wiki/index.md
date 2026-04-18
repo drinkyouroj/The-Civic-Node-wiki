@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-17
-total_pages: 874
-total_sources: 471
-total_entities: 187
-total_concepts: 120
+updated: 2026-04-18
+total_pages: 936
+total_sources: 505
+total_entities: 206
+total_concepts: 128
 total_syntheses: 13
-total_articles: 85
+total_articles: 86
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -516,6 +516,58 @@ New entities:
 New concepts:
 - [[Reachability Routing]] — civil litigation defaults to the reachable defendant when proximate cause is anonymous, foreign, or judgment-proof
 - [[Catfishing as Legal Gap]] — intimate-image statutes presuppose direct sharer→subject relationship; collapse under third-party impersonation
+
+### Recent Ingests (2026-04-17) — Bulk Sync Backlog
+
+Bulk ingest of ~80 raw sources accumulated across the Apr 7 substack-research sync and prior unprocessed clippings. Six parallel agents grouped by theme: NFL/Seahawks playoff arc, Minnesota ICE state-vs-federal litigation, crypto/Fed/Warsh, AI/Anthropic/DRAM/algorithms/antitrust, Trump foreign policy (Iran/Israel/Japan/Pope), DC politics + culture/tech misc. Plus 6 published TCN pieces. Many raw files were duplicates of already-ingested sources or consolidated into existing recap pages.
+
+#### Minnesota ICE — State vs Federal Litigation
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — ProPublica, Mar 24 2026; State + Hennepin County federal lawsuit vs DHS/DOJ for evidence in three federal-officer shootings during Operation Metro Surge
+- [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — PBS NewsHour, Mar 24 2026; same lawsuit; PBS framing of state-federal evidence-access conflict
+- [[Minnesota Prosecutors Charge an ICE Agent With Assault]] — Notus, Apr 16 2026; Hennepin County charges ICE agent Gregory Donnell Morgan with two felony counts of second-degree assault — first proof-of-concept of state prosecution bypassing federal custody
+- [[When Can States Prosecute Federal Agents]] — State Court Report, 2026; doctrinal analysis: Supremacy Clause immunity from In re Neagle (1890); narrow exceptions; Kozinski's Horiuchi dissent
+- [[When the Federal Government Blocks State Murder Investigations]] — GovFacts, 2026; "defensive immunity" coined; preemptive blocking distinguished from post-charge immunity; state convictions survive presidential pardon
+
+#### DC Politics, Legal & Investigations
+- [[House GOP passes short-term FISA deal amid Republican infighting]] — Apr 17 2026; 10-day Section 702 stopgap after Massie/Greene block on five-year reauth; coalition fracture
+- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — Feb 23 2026; Aileen Cannon permanently bars Volume II of Jack Smith documents-case report; retroactive executive protection
+- [[Judge halts ballroom — Trump reveals hospital is part of White House project]] — federal court halt of WH ballroom construction; Trump reveals broader complex plan including hospital
+- [[Justice Department under scrutiny for revealing victim info and concealing enablers in Epstein files]] — CNN, Feb 5 2026; inverted-redaction pattern in Jan 30 release (3.5M of 6M pages); victims named, enablers concealed
+- [[Citizens United v. FEC — Case Brief Summary]] — Quimbee; foundational corporate-personhood doctrine for AI Legal Personhood arc
+
+#### Trump Foreign Policy & Tariffs
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — The Hill, Apr 17 2026; Iran confirms Hormuz reopening sequenced after Israel-Lebanon ceasefire; contradicts Vance denial
+- [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — The Independent, Apr 9 2026; Truth Social escalation post; coercive diplomacy
+- [[Trump Announces 10-Day Israel-Lebanon Ceasefire]] — NPR, Apr 16 2026; ceasefire brokered via separate calls with Netanyahu and Aoun
+- [[Trump Nominates Erica Schwartz as CDC Director]] — USA Today, Apr 16 2026; ends 8-month vacancy during which RFK Jr. restructured ACIP and childhood vaccine schedule
+- [[Times of India — Massive Trade Deal Japan 15% Tariffs]] — TOI; Trump-Ishiba July 23, 2025 framework; cross-reference with Al Jazeera coverage
+
+#### Crypto / Bitcoin / Monetary Policy
+- [[Northcrypto — Monetary Policy and Bitcoin]] — Northcrypto blog, Mar 2022; Bitcoin's fixed-supply monetary policy vs central bank discretion; explainer
+- [[InvestX — Best 20 DePIN Projects Tier List]] — Tier 4 listicle; logged as reading artifact
+- [[How Stablecoins Could Affect Borrowing Costs — ABA Banking Journal]] — ABA; stablecoin demand for short-dated Treasuries and downstream rate impacts (truncated raw clipping)
+
+#### AI / Algorithms / Antitrust
+- [[About — Partnership on AI]] — Partnership on AI institutional self-description; multi-stakeholder governance org
+- [[Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal — PYMNTS]] — PYMNTS; thin antitrust framing of MS-OpenAI bundle pricing
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — Computing.co.uk; substantive UK reporting on the same antitrust action
+- [[How Social Media Algorithms Are Set to Change in 2025 — TouchStone Digital]] — Tier 4 SEO/marketing
+- [[Keep Up With Social Media Algorithm Changes in 2025 — Vista Social]] — Tier 4 SEO/marketing
+- [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — Tier 4 SEO/marketing
+- [[Impact of Dynamic Pricing on Customer Behavior and Loyalty — Upvoty]] — Tier 4 marketing; reference for The Algorithmic Price Tag
+
+#### Culture / Tech / Misc
+- [[Colombian Constitutional Court T-622-16 — Atrato River Legal Personhood]] — 2016 Colombian Constitutional Court decision granting legal personhood to the Atrato River; structural precedent for AI Legal Personhood
+- [[Arc Raiders devs uplifted by player kindness — PC Gamer]] — Embark Studios on emergent cooperation in PvPvE design
+- [[Arc Raiders aggression-based matchmaking — PC Gamer]] — algorithmic behavioral governance via matchmaking
+- [[Leadership — Cities Church]] — church leadership page; suspected connection to "The Pastor Runs the Gestapo" (unconfirmed)
+- [[Amazon Reaches 750000 Robots in Fulfillment Operations — Distribution Strategy]] — Distribution Strategy Group, Jun 2025; 750K robots; Shreveport 3.1M sq ft fulfillment center; Leverage Erasure Through Automation evidence
+
+#### NFL / Seahawks
+- [[Seahawks Injury Updates — Coby Bryant, Riq Woolen, Nick Emmanwori]] — Field Gulls; post-Week 16 injury report
+- [[Seahawks vs 49ers Week 18 Predictions — Covers.com]] — Week 18 betting preview
+
+(Game-recap raw files were consolidated into existing pages: [[NFC Championship — Seahawks 31 Rams 27]], [[Seahawks 13-3 Win Over 49ers — NFC West Title Clincher]], [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]].)
 
 ### Recent Ingests (2026-04-11)
 

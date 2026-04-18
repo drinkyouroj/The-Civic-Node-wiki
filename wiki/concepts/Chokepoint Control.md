@@ -3,8 +3,8 @@ title: "Chokepoint Control"
 type: concept
 tags: [power, infrastructure, geopolitics, energy]
 created: 2026-04-06
-updated: 2026-04-11
-sources: 10
+updated: 2026-04-17
+sources: 13
 ---
 
 ## Definition
@@ -51,3 +51,6 @@ Chokepoint control is the ability of a state, organization, or actor to regulate
 - [[Super Bowl LX — Homegrown GM John Schneider at the Peak of Powers]] — Schneider controls the structural chokepoints of competitive advantage (cap, comp picks, roster)
 - [[insight-chokepoint-control-architecture-2026-04-08]] — synthesis page generalizing chokepoint logic across geographic, regulatory, and platform domains
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Qatar's helium dominance + South Korea's import dependency = compounding supply chain chokepoints for semiconductor manufacturing
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — Iran explicitly conditions Strait reopening on Israel-Lebanon ceasefire; chokepoint as multi-party leverage tool
+- [[Trump Announces 10-Day Israel-Lebanon Ceasefire]] — Iran's Hormuz leverage is what generated diplomatic pressure for the Lebanon ceasefire — chokepoint control reshaping regional diplomacy
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — compute infrastructure as an antitrust-relevant chokepoint; Microsoft's Azure exclusivity framed as "gatekeeper of AI compute infrastructure"

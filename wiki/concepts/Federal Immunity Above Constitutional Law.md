@@ -3,8 +3,8 @@ title: "Federal Immunity Above Constitutional Law"
 type: concept
 tags: [politics, power, legal]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 1
+updated: 2026-04-17
+sources: 5
 ---
 
 ## Definition
@@ -35,4 +35,8 @@ Federal Immunity Above Constitutional Law describes the pattern in which federal
 
 ## Key Sources
 
-- Currently a stub; references to this concept appear in [[Retroactive Executive Protection]] and the wiki overview's cross-cutting patterns. To be expanded as additional sources land.
+- [[When Can States Prosecute Federal Agents]] — the *In re Neagle* doctrine and the "four times in U.S. history" data point
+- [[When the Federal Government Blocks State Murder Investigations]] — the "defensive immunity" variant; federal obstruction of state investigation
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — live application in the Good/Pretti/Sosa-Celis cases
+- [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — structural claim of federal "categorical withholding"
+- Previously also referenced in [[Retroactive Executive Protection]] and the wiki overview's cross-cutting patterns

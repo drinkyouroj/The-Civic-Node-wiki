@@ -4,8 +4,8 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
-updated: 2026-04-08
-sources: 27
+updated: 2026-04-17
+sources: 32
 ---
 
 ## Overview
@@ -77,6 +77,11 @@ Metro Surge is the clearest recent example of [[Sanctuary Infrastructure]] under
 - [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] — Primary-source Feb 12 2026 preliminary impact assessment from the City; contains the corrected $203.1M total figure with full sector breakdown
 - [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]] — Methodological accountability piece (Mar 2 2026) walking through both the city's arithmetic and Rosenthal-Sojourner's econometric approach; $106.1M wage-loss independent estimate
 - [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]] — Judge Menendez's Jan 31 denial of preliminary injunction; documents the Tenth Amendment and equal sovereignty theories and why they failed at PI stage
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — ProPublica (Mar 24 2026) on Moriarty's evidence lawsuit; documents the 14 parallel investigations into federal-agent conduct during the surge and the Bovino chemical-agent probe
+- [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — PBS NewsHour (Mar 24 2026); "categorically withholding evidence" framing; DOJ Pretti/Good disparate treatment
+- [[Minnesota Prosecutors Charge an ICE Agent With Assault]] — Notus (Apr 16 2026); first state assault charges against ICE agent Gregory Donnell Morgan for Feb 5 incident during the surge
+- [[When Can States Prosecute Federal Agents]] — legal analysis placing the Metro Surge shootings within the *In re Neagle* supremacy-clause-immunity framework
+- [[When the Federal Government Blocks State Murder Investigations]] — GovFacts legal analysis; coins "defensive immunity" to describe preemptive blocking of state investigation
 
 ## Open Questions
 - What happened to the Feeding Our Future fraud prosecutions after the lead prosecutors resigned?
