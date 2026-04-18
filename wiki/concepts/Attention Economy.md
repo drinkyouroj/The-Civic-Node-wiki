@@ -4,7 +4,7 @@ type: concept
 tags: [technology, culture, influencer-economy, radicalization]
 created: 2026-04-08
 updated: 2026-04-17
-sources: 10
+sources: 11
 ---
 
 ## Definition
@@ -40,3 +40,4 @@ The attention economy is the engine beneath multiple wiki topics: [[Algorithmic 
 - [[Keep Up With Social Media Algorithm Changes in 2025 — Vista Social]] — "88% amused / 71% angered" framing as platform's emotional economy
 - [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — "algorithmic Darwinism" and 181ZB data scale
 - [[Impact of Dynamic Pricing on Customer Behavior and Loyalty — Upvoty]] — FOMO and urgency as attention-economy mechanisms extended into pricing
+- [[Google Search Quality Evaluator Guidelines September 2025]] — Google's internal rubric; 16,000 human raters shape which content reaches attention at scale

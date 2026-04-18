@@ -40,7 +40,7 @@ A listicle of 14 evidence points, each naming a specific mechanism by which inde
 
 - [[Jerome Powell]] — the central figure; trapped between political compliance and institutional credibility
 - [[Federal Reserve]] — the institution whose independence is the subject under analysis
-- [[Kevin Miran]] — Trump appointee whose first-meeting dissent is the most concrete evidence of political capture
+- [[Stephen Miran]] — Trump appointee whose first-meeting dissent is the most concrete evidence of political capture (the published piece refers to him as "Kevin Miran" — factual error in the original)
 - [[Arthur Burns]] — the historical parallel; Nixon-era Fed chair whose accommodation caused the 1970s inflation disaster
 - [[Paul Volcker]] — the corrective figure; what it took to restore credibility after Burns
 - [[Scott Bessent]] — Treasury Secretary whose public framing amplifies political pressure

@@ -1448,3 +1448,17 @@ Bulk-ingested ~38 raw files and 6 published articles that had accumulated in `ra
 - **Cooperative game design** as a counter-pattern to engagement-maximizing algorithms: new concept [[Aggression-Based Matchmaking]] and [[Cooperative Game Design]] anchored to [[Arc Raiders]] / [[Embark Studios]] / [[Alex Pretti]].
 
 **Deferred:** None. All viable raw + published files processed.
+
+## [2026-04-18] ingest | Backlog reconciliation pass — coverage audit, 3 net new pages
+
+Re-ran the raw/ vs wiki/sources/ diff after yesterday's bulk ingest. The naive diff (filename literal vs `raw:` frontmatter field) showed ~65 "uningested" raw files. Dispatched four parallel ingest agents to process the apparent backlog. Result: nearly all of those files were already filed in prior sessions under non-matching filename strings — smart-quote vs straight-quote variants, secondary-raw merges into consolidated source pages' Notes sections (e.g., the three Seahawks game-recap pages each merge 4–11 raw files but only carry one in frontmatter), and one byte-identical duplicate raw file ("What's Next in AI 2027" is identical to "...2026").
+
+**Net new pages (3):** `wiki/sources/BEA Gross Domestic Product Q1 2025 Advance Estimate.md` (primary-source GDP release, -0.3% Q1 contraction); `wiki/sources/Google Search Quality Evaluator Guidelines September 2025.md` (primary-source platform governance rubric — E-E-A-T, YMYL, AI-content rules); `wiki/entities/Bureau of Economic Analysis.md`.
+
+**Corrections:** Fixed broken `[[Kevin Miran]]` wikilink in [[The Fed's Independence Theater]] to [[Stephen Miran]] (the published piece contains the name error; flagged in parenthetical). Added `raw_alt:` pointers to existing source pages where second raw captures of the same article were discovered (Bob Weir / The Conversation duplicate; Securities Enforcement Roundup April 2025/2026 misnamed duplicate). Extended [[Algorithmic Incentives]] (sources 4→5) and [[Attention Economy]] (10→11) with the Google Eval Guidelines as a primary-source anchor.
+
+**Junk skipped (12):** Google Books, Google Search × 3 variants, Home page, Popular Articles, Seattle Seahawks roster, espn.com, llm-wiki, the original article text, HELLDIVERS Steam page, raw/CLAUDE.md.
+
+**Index hygiene:** Deleted two duplicate article pages from yesterday's bulk pass — straight-quote variants of `[[13-3 The Box Score That Ended the Can Seattle's Defense Travel? Debate]]` and `[[Beyond "Crypto Week"]]` that the parallel agents created without checking for the pre-existing smart-quote originals. Wiki totals adjusted: 505 sources / 206 entities / 128 concepts / 86 articles / 936 pages.
+
+**Followup recommendation:** The diff-based "uningested" check overcounts when source pages list secondary raws in Notes rather than frontmatter. A more accurate audit would grep for raw filename basenames across all of wiki/sources/, not just the `raw:` field. Worth doing before the next bulk pass.

@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-17
-total_pages: 935
-total_sources: 503
-total_entities: 205
+updated: 2026-04-18
+total_pages: 936
+total_sources: 505
+total_entities: 206
 total_concepts: 128
 total_syntheses: 13
-total_articles: 88
+total_articles: 86
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power

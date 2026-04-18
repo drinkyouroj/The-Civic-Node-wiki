@@ -4,7 +4,7 @@ type: concept
 tags: [technology, media, attention-economy]
 created: 2026-04-09
 updated: 2026-04-17
-sources: 4
+sources: 5
 ---
 
 ## Definition
@@ -36,3 +36,4 @@ sources: 4
 - [[How Social Media Algorithms Are Set to Change in 2025 — TouchStone Digital]]
 - [[Keep Up With Social Media Algorithm Changes in 2025 — Vista Social]]
 - [[Social Media Algorithm and How They Work in 2025 — Sprinklr]]
+- [[Google Search Quality Evaluator Guidelines September 2025]] — Google's own rubric; E-E-A-T framework, YMYL, explicit rules against scaled AI content abuse; the clearest public window into search-ranking incentives from the platform side
