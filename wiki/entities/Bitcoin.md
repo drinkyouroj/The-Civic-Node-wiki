@@ -5,7 +5,7 @@ entity_type: asset
 tags: []
 created: 2026-04-08
 updated: 2026-04-08
-sources: 8
+sources: 9
 ---
 
 ## Overview
@@ -31,3 +31,4 @@ First and largest cryptocurrency by market cap. Subject of the Strategic Bitcoin
 - [[Satoshi Nakamoto Bitcoin Whitepaper 2008]]
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]]
 - [[Satoshi Nakamoto Bitcoin Wallet That Never Moved — Nexo]] — 1.1M BTC cluster; Patoshi Pattern; genesis address; never-moved coins; market-risk framing
+- [[Northcrypto — Monetary Policy and Bitcoin]] — Bitcoin-maximalist framing of Bitcoin's fixed monetary policy vs. discretionary central banking

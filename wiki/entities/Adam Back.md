@@ -5,7 +5,7 @@ entity_type: person
 tags: [crypto, bitcoin, technology, cypherpunk]
 created: 2026-04-09
 updated: 2026-04-09
-sources: 14
+sources: 15
 ---
 
 ## Overview
@@ -46,6 +46,7 @@ The Satoshi mystery pulls focus back to the [[Cypherpunk Movement]] — the extr
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — BSTR deal mechanics; 30K BTC; Brandon Lutnick connection; July 2025 timeline
 - [[Hashcash Announcement to Cypherpunks Mailing List 1997 — Adam Back]] — primary document; March 28 1997; proof-of-work mechanism; Cypherpunks mailing list; University of Exeter
 - [[COPA v Wright Judgment — Mellor 2024 EWHC 1198 Ch]] — Wright's trial produced August 2008 Back-Satoshi emails as discovery evidence; Wright's elimination narrows field to Back/Finney/Szabo
+- [[The Cypherpunk Who Filed an S-1]] — TCN capstone article on Back's BSTR SPAC and the S-4 disclosure compulsion thesis
 
 ## Open Questions
 

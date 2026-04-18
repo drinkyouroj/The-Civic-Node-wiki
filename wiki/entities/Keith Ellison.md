@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, minnesota, legal, immigration]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 10
+updated: 2026-04-17
+sources: 13
 ---
 
 ## Overview
@@ -35,6 +35,9 @@ Ellison represents the institutional counter-strategy to federal overreach: usin
 - [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — quoted extensively on the investigation breakdown: "Maybe they don't care"
 - [[Judge Imposes Sweeping Restrictions on ICE Tactics Against Protesters in Minnesota]] — the legal ecosystem in which the preliminary injunction sits
 - [[ACLU Sues Federal Government to End ICE CBP Practice of Suspicionless Stops]] — parallel legal strategy to his AG suit
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — quoted on federal non-cooperation as "unique, rare and simply cannot be tolerated"
+- [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — state plaintiff alongside Hennepin County in March 24 evidence lawsuit
+- [[When the Federal Government Blocks State Murder Investigations]] — cited among Minnesota's counter-moves: "AG investigations conducted independently of federal authorities"
 
 ## Open Questions
 - Did Ellison's state-level investigations produce any indictments or convictions?

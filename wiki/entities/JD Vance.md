@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, iran, diplomacy, neoreaction, silicon-valley]
 created: 2026-04-09
-updated: 2026-04-11
-sources: 10
+updated: 2026-04-17
+sources: 13
 ---
 
 ## Overview
@@ -41,6 +41,9 @@ Vice President of the United States (January 2025–present). Former Senator fro
 - [[Five things to know about Hungary's election]] — visited Budapest April 7 for "Day of Friendship" with [[Viktor Orban]]
 - [[Curtis Yarvin Nick Land and the Dark Utopia of the New Radical Right]] — identified as sympathetic to neoreactionary ideas via Thiel connection
 - [[The Reactionary Prophet of Silicon Valley]] — 2022 campaign adopted Yarvin's RAGE plan; $15M Thiel funding documented
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — led first (unsuccessful) round of Islamabad talks
+- [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — leading U.S. delegation to Islamabad peace talks per Leavitt announcement
+- [[When Can States Prosecute Federal Agents]] — Vance quoted as claiming federal officers possess "absolute immunity"; legal precedent contradicts the claim
 
 ## Open Questions
 

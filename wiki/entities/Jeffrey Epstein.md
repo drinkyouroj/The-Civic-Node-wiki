@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, criminal, legal]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 7
+sources: 8
 ---
 
 ## Overview
@@ -21,6 +21,7 @@ Jeffrey Epstein (1953–2019) was a financier and convicted sex offender who bui
 - Epstein files may not be released in full until after Trump leaves office [[Epstein files might not be released in full until after Trump leaves office]]
 - Half of Americans think Trump is covering up Epstein crimes — polling [[Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes]]
 - Sen. Whitehouse called Epstein probe "enormous step forward" [[Sen. Whitehouse on Congress enormous step forward with Epstein probe]]
+- DOJ's January 30, 2026 release of 3.5M pages revealed an inverted redaction pattern — victim identities exposed, enabler names shielded — drawing bipartisan condemnation from Khanna, Massie, Raskin, and Schumer [[Justice Department under scrutiny for revealing victim info and concealing enablers in Epstein files]]
 
 ## Newsletter Relevance
 The Epstein files case is a slow-motion transparency crisis: a bipartisan law, a statutory deadline, a missed deadline, a Christmas Eve "discovery" of a million new documents. This is [[Institutional Gaslighting]] at the document management level — each delay is procedurally defensible while the cumulative effect is indefinite suppression.

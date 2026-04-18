@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, justice, federal-immunity]
 created: 2026-04-06
 updated: 2026-04-06
-sources: 6
+sources: 7
 ---
 
 ## Overview
@@ -46,3 +46,4 @@ Jack Smith, former special counsel investigating Trump's election interference a
 - [[Jack Smith tells Congress he could prove Trump engaged in criminal scheme]] — "criminal scheme" framing
 - [[Jack Smith says 'no historical analog' for Trump's actions around 2020 election, denies political influence]] — historical framing
 - [[Jack Smith told lawmakers Trump was most culpable in election interference case]] — additional coverage
+- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — February 2026 permanent sealing of Smith's classified documents report

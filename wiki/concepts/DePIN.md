@@ -4,7 +4,7 @@ type: concept
 tags: [technology, infrastructure, crypto, depin]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 13
+sources: 14
 ---
 
 ## Definition
@@ -69,3 +69,4 @@ The a16z framing (see Why DePIN Matters) positions DePIN as democratizing infras
 - [[Solana Project CEO Sybil Attackers Gamed Metric io.net]] — sybil attacks as fundamental DePIN vulnerability
 - [[Preventable Cyber Attack Impacts io.net DePIN]] — fake GPU attack; TEE hardware attestation as solution
 - [[Gala Games Founder Node Staking Whats Changing]] — staking upgrade as DePIN incentive redesign
+- [[InvestX — Best 20 DePIN Projects Tier List]] — Tier 4 retail listicle; useful as reading-log artifact, not citation

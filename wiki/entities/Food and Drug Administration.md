@@ -6,7 +6,7 @@ aliases: ["FDA"]
 tags: [politics, infrastructure]
 created: 2026-04-11
 updated: 2026-04-11
-sources: 2
+sources: 3
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ The FDA's regulatory authority intersects with critical infrastructure questions
 - [[Drug Enforcement Administration]] — overlapping jurisdiction on controlled substances creates policy friction
 
 ## Source Appearances
-- (stub — awaiting source linkage)
+- [[Trump Nominates Erica Schwartz as CDC Director]] — FDA's Sara Brenner named CDC senior counselor for public health in April 2026 reshuffle
 
 ## Open Questions
 - How has the FDA responded to medication shortages caused by DEA production quotas?

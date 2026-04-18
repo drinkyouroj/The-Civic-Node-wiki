@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
-updated: 2026-04-16
-sources: 27
+updated: 2026-04-17
+sources: 29
 ---
 
 ## Overview
@@ -60,6 +60,8 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[OpenAI Pulls the Plug on Its Sora AI Video App]] — CBS News on Sora shutdown and compute reallocation
 - [[OpenAI Shutters Sora App — CNBC]] — CNBC's "reels in costs" framing of Sora discontinuation
 - [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — Signed DoD classified-network contract hours after Anthropic designation; claims "more guardrails" than Anthropic's contract; Altman said deal was "an attempt to de-escalate"; released contract language on mass surveillance prohibition
+- [[Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal — PYMNTS]] — CPI / PYMNTS summary confirming trade-press penetration of the Azure-exclusivity class action
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — UK trade-press coverage of the San Francisco class action; $13B investment, 200x token price inflation, 80% price drop after Google Cloud access
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?

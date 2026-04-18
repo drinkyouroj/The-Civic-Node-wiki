@@ -1432,3 +1432,19 @@ Ingested Intercept source (Apr 9, 2026) covering Judge Bryan's order compelling 
 **Key quote for draft:** "This judge is effectively doing the investigation that the United States has turned its back on." — Shauna Kieffer, defense attorney.
 
 **Draft action:** Any claim in the institutional gaslighting draft citing the stub as evidence of a verdict or Ross being cleared must be corrected. The accurate framing: DOJ abdicated; a judge compelled partial disclosure via a tangential case.
+
+## [2026-04-17] ingest | Bulk Sync — 32 sources, 18 entities, 8 concepts, 3 articles
+
+Bulk-ingested ~38 raw files and 6 published articles that had accumulated in `raw/` and `published/` since the last sweep. Dispatched parallel ingest agents partitioned by theme cluster (Minnesota state-vs-federal litigation; DC politics / Cannon / Epstein; Trump foreign policy — Iran, Israel-Lebanon, Japan tariffs; crypto and stablecoin policy; AI and algorithmic systems; culture/tech — gaming, Amazon robotics, Cities Church; NFL Seahawks coverage). Eleven junk files (Google Search results, Steam store pages, generic site indexes) were skipped.
+
+**Counts:** 32 new source pages, 18 new entity pages, 8 new concept pages, 3 new article pages, plus 31 modified existing pages where source counts were incremented and new Source Appearances entries added. Wiki totals: 503 sources / 205 entities / 128 concepts / 88 articles / 935 total pages.
+
+**Headline additions:**
+- **Minnesota state-vs-federal litigation arc:** A four-stack structure now documented in the wiki — at-the-scene physician block → next-day forensic block → state assault charges against ICE agent (first prosecution of its kind) → MN v. DOJ/DHS lawsuit. New concepts [[Anti-Commandeering Doctrine]], [[Defensive Immunity]], [[Supremacy Clause Immunity]] capture the legal terrain. New entities [[Mary Moriarty]] (Hennepin County DA who filed charges), [[Katherine Menendez]] (judge), [[Gregory Donnell Morgan]] (charged ICE agent), [[Keith Ellison]] (lead plaintiff for state).
+- **AI legal personhood precedent:** [[Atrato River]] / Colombia T-622-16 ruling and [[Biocultural Rights]] / [[Rights of Nature]] concepts establish a non-corporate-personhood pathway for legal agency that parallels current AI personhood debates. Cross-linked to existing [[AI Legal Personhood]] and [[Corporate Personhood]].
+- **Sam Altman as standalone entity** with [[Partnership on AI]] connection and ties to OpenAI's Microsoft antitrust exposure (two new sources documenting the lawsuit).
+- **Section 702 FISA** concept page anchors the surveillance-authority cluster.
+- **Cypherpunk → S-1 arc:** Three new articles ([[Beyond Crypto Week]], [[The Cypherpunk Who Filed an S-1]], [[13-3 The Box Score That Ended the Can Seattle's Defense Travel Debate]]) join the published library; [[Adam Back]], [[Bitcoin]], [[Bitcoin as Digital Gold]] all extended.
+- **Cooperative game design** as a counter-pattern to engagement-maximizing algorithms: new concept [[Aggression-Based Matchmaking]] and [[Cooperative Game Design]] anchored to [[Arc Raiders]] / [[Embark Studios]] / [[Alex Pretti]].
+
+**Deferred:** None. All viable raw + published files processed.

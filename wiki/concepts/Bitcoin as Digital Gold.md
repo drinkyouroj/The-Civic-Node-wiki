@@ -4,7 +4,7 @@ type: concept
 tags: [crypto, monetary-policy, technology]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 11
 ---
 
 ## Definition
@@ -55,3 +55,4 @@ This model bets that Bitcoin's digital-gold properties will generate returns exc
 - [[El Salvador President Bitcoin Success Elon Musk Reply]]
 - [[Cryptocurrencies and Monetary Policy Bruegel 2018]]
 - [[The Crypto Question Bitcoin Digital Dollars Future of Money CFR]]
+- [[Northcrypto — Monetary Policy and Bitcoin]] — the maximalist "unchanging monetary policy" form of the thesis, articulated by an exchange for retail audiences
