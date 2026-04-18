@@ -9,7 +9,7 @@ series_position: 2
 target_length: 1500
 actual_length: ~1780
 status: review
-version: 3
+version: 4
 created: 2026-04-18
 ---
 
@@ -25,7 +25,7 @@ On February 18, 2025, Pxie filed [Doe v. Bonnell](https://www.courtlistener.com/
 
 ---
 
-## The Definition: The Lawsuit Is the Punishment, Not the Verdict
+## The definition: the lawsuit is the punishment, not the verdict
 
 There is a class of civil filing whose primary function is not to win. It is to run. Discovery is expensive. Depositions are expensive. Being publicly accused of something for fourteen months is expensive in ways that no invoice captures. The verdict, if one arrives, arrives in a different news cycle than the accusation. The cost has already been imposed. The correction does not catch up.
 
@@ -35,11 +35,11 @@ A weak case is one that might lose on the merits. A meritless case is one the pl
 
 Pxie has been [unusually candid](https://web.archive.org/web/20250121011243/https://pxie412.substack.com/p/i-will-be-suing-steven-kenneth-bonnell) about the resources in play. In her January 20, 2025 Substack post, published the same day her GiveSendGo launched, she wrote: *"I cannot imagine what he might try to do to me in this process... As if it's an indirect flaunt/warning over his capability of out spending me."* She understood, on day zero, that the case was a spending contest. She chose federal court anyway.
 
-The governing question for the rest of this piece is not whether Destiny wins. It is what winning costs him, and who designed the system to make that question unanswerable in advance.
+The question is not whether Destiny wins. It is what winning costs him — and the answer to that is always the same, regardless of outcome.
 
 ---
 
-## The Mechanics: The Meter Is Running, Whether Anyone Wins or Not
+## The mechanics: the meter is running, whether anyone wins or not
 
 Federal civil discovery runs for months and bills by the hour. The [scheduling order in this case](https://storage.courtlistener.com/recap/gov.uscourts.flsd.684111/gov.uscourts.flsd.684111.23.0.pdf) gave the parties close to ten months from the complaint to the discovery cutoff. Attorney rates at the level of Destiny's defense move in the several-hundred-dollars-per-hour range, plus court reporters, transcripts, and document review on every contested exchange. The defendant pays regardless of outcome. Wealth, for a defendant, is a liability: more documents to produce, more depositions to defend, more motions to answer.
 
@@ -57,9 +57,9 @@ One of those three items is bad lawyering. Three of them, all pointing the same 
 
 ---
 
-## The Applications: The Coordination Layer in Her Own Words
+## The applications: the coordination layer in her own words
 
-A federal lawsuit is a public document. Once filed, the complaint generates legitimized public accusations — *she filed, therefore the accusation is at least credible enough to report.* Media coverage, YouTube commentary, and social pile-on follow automatically. If a party wanted to extend that attention across the full duration of discovery, the mechanism would need to be: more public discussion, more surrogates, more people talking on their own platforms about the case.
+A federal lawsuit is a public document. Once filed, the complaint generates legitimized public accusations — *she filed, therefore the accusation is at least credible enough to report.* Media coverage, YouTube commentary, and social pile-on follow automatically. If a party wanted to extend that attention across the full duration of discovery, the mechanism would need to be: more public discussion, more people talking on their own platforms about the case.
 
 In a [now-deleted X post](https://x.com/laurendelaguna) captured at the time, Lauren DeLaguna, a conservative commentator and lawyer, described herself as a witness who did not actively want to be one, and denied that she had encouraged Pxie to file or given her legal advice. She had been subpoenaed by the defense. She was subsequently deposed.
 
@@ -73,7 +73,7 @@ The structural asymmetry does not change. The number of viable targets does. Eve
 
 ---
 
-## The Human Element: What the Verdict Doesn't Cover
+## The human element: what the verdict doesn't cover
 
 I have watched this happen. Not to me. Close enough to see the version that does not require fame or a public docket. The shape is the same at every scale. A filing lands. The clock starts. The accused begins spending money and time and attention on the defense. Nine months in, they have had the conversation about their reputation with family, with business partners, with employers, with insurance. Fifteen months in, a verdict arrives. If they win it, the cost of the fourteen months is not mentioned anywhere in the verdict. The verdict cannot cover what the fourteen months cost. It is not a category the verdict knows about.
 
@@ -82,8 +82,6 @@ Most cases like this settle before anyone has to say any of this out loud. The d
 Bonnell has not settled. He is going to trial, assuming the [plaintiff's motion to continue](https://storage.courtlistener.com/recap/gov.uscourts.flsd.684111/gov.uscourts.flsd.684111.227.0.pdf) does not move the date again. A verdict will arrive by May, or by August, or by whenever the case resolves. Whether it lands in his favor will shape the narrative but not the cost structure. The cost is already locked in.
 
 What the defendant has actually paid, by the time a case like this is over, is the thing the verdict cannot name.
-
----
 
 The walls stand. They will probably stand through trial. If the verdict comes in Destiny's favor, it will confirm what his [motion for summary judgment](https://storage.courtlistener.com/recap/gov.uscourts.flsd.684111/gov.uscourts.flsd.684111.210.0.pdf) already argued: the statute does not reach the conduct at issue, and the case should not have existed as a matter of law. That is what a civil-court win looks like.
 
@@ -106,6 +104,12 @@ The creator economy is going to spend the next decade learning a question nobody
 - Marcus tests: pass (Signal: the mechanism is named, not just described; Patience: each docket item advances; Depth: primary sources throughout; Save: the "siege, not breach" frame is quotable; Accumulation: second piece in the series, builds on the first)
 - Inline source links: 15
 - Unsourced claims: none
+
+**v3 → v4 changes (humanize pass):**
+- "governing question for the rest of this piece": rewritten to "The question is not whether Destiny wins. It is what winning costs him — and the answer to that is always the same, regardless of outcome." (removed significance-signal framing and structural announcement)
+- "more surrogates" removed from third rule-of-three list in Applications (was padding the pattern; implied by the DeLaguna paragraph that follows)
+- Section headers: Title Case → sentence case throughout (four headers)
+- `---` before closing coda removed (paragraph break sufficient; horizontal rule made the coda feel templated)
 
 **v3 → v3.1 changes (per fact-check):**
 - "fourteen months": corrected from "fifteen months" throughout (complaint filed Feb 18, 2025 → April 18, 2026 = 14 months exactly)
