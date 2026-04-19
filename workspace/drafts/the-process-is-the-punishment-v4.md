@@ -63,7 +63,7 @@ A federal lawsuit is a public document. Once filed, the complaint generates legi
 
 In a [now-deleted X post](https://x.com/laurendelaguna) captured at the time, Lauren DeLaguna, a conservative commentator and lawyer, described herself as a witness who did not actively want to be one, and denied that she had encouraged Pxie to file or given her legal advice. She had been subpoenaed by the defense. She was subsequently deposed.
 
-Two weeks later, on [December 5](https://pbs.twimg.com/media/G7fpxmdWMAAC3It.jpg), DeLaguna posted again. This time she admitted she had *"spoken about the case to my friends"* and had *"asked a friend to represent"* Pxie, while maintaining that she was *"still not relevant to the case"* on the underlying issues.
+Two weeks later, on [December 5](https://pbs.twimg.com/media/G7fpxmdWMAAC3It.jpg), DeLaguna posted again. This time she admitted she had "spoken about the case to my friends" and had "asked a friend to represent" Pxie, while maintaining that she was "*still not relevant to the case*" on the underlying issues.
 
 Take her at her word. A non-party witness admits recruiting plaintiff's counsel and discussing the case with friends, then argues she is nonetheless not a participant in the case. Both things are true inside the technical frame she is using. The first is the coordination layer describing itself; the second is the plausible-deniability frame laid on top of it. Readers do not need to resolve the tension. The tension is the evidence.
 
@@ -93,7 +93,7 @@ The attacker never came to breach the walls.
 
 The siege was the point.
 
-The creator economy is going to spend the next decade learning a question nobody wants to price in: how much of a reputation can be burned by process alone, before the verdict arrives with the news that the process was never the case.
+The creator economy is going to spend the next decade learning a question nobody wants to price in: how much of a reputation can be burned by process alone, before the verdict arrives with the news that the process was never the case. The verdict says you won, but it doesn't say what you lost getting there.
 
 ---
 
