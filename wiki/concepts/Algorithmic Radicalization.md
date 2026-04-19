@@ -3,8 +3,8 @@ title: "Algorithmic Radicalization"
 type: concept
 tags: [technology, politics, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 16
+updated: 2026-04-17
+sources: 18
 ---
 
 ## Definition
@@ -51,3 +51,5 @@ Algorithmic radicalization is the mechanism connecting platform business models 
 - [[Memes and the Extreme Right Wing — ISD Explainer]] — content-layer mechanism; humor/irony as Overton Window tool; Christchurch as meme-terrorism case study
 - [[Algorithmic Influence and Media Legitimacy — Frontiers Systematic Review]] — journalism-specific evidence; "shareworthiness" replacing newsworthiness; self-censorship by journalists; 78-study systematic review
 - [[Time Spent on Social Media — DataReportal 2024]] — scale anchor: 2 hrs 23 min/day average; 500 million years of collective attention annually; TikTok highest time-per-user
+- [[Keep Up With Social Media Algorithm Changes in 2025 — Vista Social]] — marketer advice to post "emotionally engaging or sticky... slightly provocative or counter-narrative" content mirrors the radicalization mechanism
+- [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — Reddit's Feb 2025 shift from "Hot" to "Best" sort documented as dwell-time optimization that favors controversial older content

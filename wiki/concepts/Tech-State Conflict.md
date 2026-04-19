@@ -3,8 +3,8 @@ title: "Tech-State Conflict"
 type: concept
 tags: [power, depin, politics]
 created: 2026-04-06
-updated: 2026-04-07
-sources: 22
+updated: 2026-04-17
+sources: 24
 ---
 
 ## Definition
@@ -58,3 +58,5 @@ Tech-state conflict describes confrontations between private technology companie
 - [[AI Tech Trends 2026 — IBM Think]] — AI sovereignty as enterprise concern; geopolitical trust shaping data flows
 - [[Google Search Quality Rater Guidelines — Key Insights About AI Use]] — Google's AI content policies as regulatory self-defense
 - [[If Hate-Fueled Algorithms Cause Real-World Harm, California's Tech Companies Should Pay]] — California vs. Silicon Valley state-level conflict
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — US class action + UK parallel £2B claim: transatlantic antitrust pressure on AI compute
+- [[About — Partnership on AI]] — industry-convened soft-governance body as alternative to state regulation

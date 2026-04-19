@@ -3,8 +3,8 @@ title: "Coercive Diplomacy"
 type: concept
 tags: [politics, power, geopolitics]
 created: 2026-04-06
-updated: 2026-04-07
-sources: 12
+updated: 2026-04-17
+sources: 16
 ---
 
 ## Definition
@@ -44,3 +44,7 @@ Coercive diplomacy is the use of explicit threats — military, economic, or inf
 - [[Trump Cut Biden-Era Energy Projects in Blue States. Red States Got to Keep Theirs]] — explicit "pass the CR and it goes away" framing
 - [[Trump Admin Says It's Canceling Energy Projects in 16 Blue States]] — same coercive frame: "Pass the CR and all of this goes away"
 - [[Trump Says Hes Freezing Minnesota Out of ICE Shooting Probe Because Walz Is a Stupid Person]] — threatening and humiliating state officials as a deterrent to further resistance
+- [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — escalation threats during active ceasefire; "next Conquest" posture as negotiating leverage
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — asymmetric reopen/blockade posture as negotiating instrument
+- [[Trump Announces 10-Day Israel-Lebanon Ceasefire]] — phone-call diplomacy; ceasefire brokered to preserve U.S.-Iran negotiating track
+- [[Times of India — Massive Trade Deal Japan 15% Tariffs]] — 25% threat reduced to 15% as classic tariff-as-coercion pattern applied in Asia trade policy

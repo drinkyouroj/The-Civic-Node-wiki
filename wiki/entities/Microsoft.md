@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power, platform-antitrust]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 6
+updated: 2026-04-17
+sources: 8
 ---
 
 ## Overview
@@ -41,6 +41,8 @@ Microsoft is a US technology conglomerate (market cap ~$3T) whose AI strategy ce
 
 - [[Microsoft Antitrust Lawsuit — Secret Deal with OpenAI and Artificial Scarcity]] — central subject; compute exclusivity, price inflation, class action
 - [[Import AI 431 — Technological Optimism and Appropriate Fear]] — Microsoft Research cited as co-author of AI bioweapons paper
+- [[Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal — PYMNTS]] — CPI summary of the Azure-exclusivity class action
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — UK trade-press coverage; adds £2B UK parallel claim and treble-damages detail
 
 ## Open Questions
 

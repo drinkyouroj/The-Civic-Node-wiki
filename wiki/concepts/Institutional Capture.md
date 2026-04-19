@@ -3,8 +3,8 @@ title: "Institutional Capture"
 type: concept
 tags: [politics, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 4
+updated: 2026-04-17
+sources: 5
 ---
 
 ## Definition
@@ -36,3 +36,4 @@ Institutional capture is the process by which a regulatory body, oversight insti
 ## Key Sources
 
 - Currently a stub; will be populated as the wiki accumulates source material that explicitly diagnoses capture in specific institutions.
+- [[Trump Nominates Erica Schwartz as CDC Director]] — RFK Jr.'s HHS regime: 17 ACIP members fired, replaced; childhood vaccine schedule reduced; 8-month CDC directorship vacancy during restructuring; Schwartz arrives at a gutted agency — capture-via-vacancy pattern

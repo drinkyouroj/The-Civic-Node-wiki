@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [geopolitics, power, military]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 4
+updated: 2026-04-17
+sources: 5
 ---
 
 ## Overview
@@ -31,6 +31,7 @@ The Islamic Revolutionary Guard Corps (IRGC) is Iran's elite military and parami
 ## Source Appearances
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — issued warning about intensifying Gulf attacks
+- [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — "Any attack on the proud Hezbollah is an attack on Iran"; warned of "regret-inducing response" to Israeli strikes on Lebanon
 
 ## Open Questions
 

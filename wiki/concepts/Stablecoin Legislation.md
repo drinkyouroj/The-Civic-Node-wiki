@@ -4,7 +4,7 @@ type: concept
 tags: [politics, monetary-policy, crypto, stablecoin, legislation]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 22
+sources: 23
 ---
 
 ## Definition
@@ -115,3 +115,4 @@ Georgetown's Adam Levitin argues GENIUS Act insolvency priority reform sets up a
 - [[Securities Enforcement Roundup April 2025 — Morgan Lewis]]
 - [[GENIUS Act Impact on Stablecoins and Taxpayers — Bankrate]]
 - [[Trump EO on Digital Financial Technology — White House]]
+- [[How Stablecoins Could Affect Borrowing Costs — ABA Banking Journal]] — bank-industry framing of how stablecoin reserves affect Treasury yields and downstream borrowing costs (raw clipping truncated)

@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, epstein, transparency, institutional-gaslighting]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 2
+sources: 12
 ---
 
 ## Overview
@@ -43,6 +43,7 @@ Massie is also a useful anchor for the argument that [[Toothless Transparency La
 
 - [[Epstein Files Transparency Act Wikipedia]] — passage details, Massie's role as primary sponsor
 - [[More than a million Epstein documents discovered release delayed Al Jazeera]] — primary source for the X post quote
+- [[Justice Department under scrutiny for revealing victim info and concealing enablers in Epstein files]] — Massie joined Khanna, Raskin, Schumer in naming DOJ's redaction inversion a violation of the Act
 
 ## Open Questions
 

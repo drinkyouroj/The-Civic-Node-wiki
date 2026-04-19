@@ -3,7 +3,7 @@ title: "NFC Championship — Seahawks 31, Rams 27"
 type: source
 tags: [nfl, seahawks, playoffs, darnold, nfc-championship]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-17
 sources: 5
 raw: "raw/NFC championship Seahawks ride late fourth-down stop, career game from Sam Darnold past Rams into Super Bowl.md"
 source_url: "https://sports.yahoo.com/nfl/breaking-news/live/nfc-championship-seahawks-ride-late-fourth-down-stop-career-game-from-sam-darnold-past-rams-into-super-bowl-220009934.html"
@@ -47,4 +47,12 @@ Live game recap of the 2026 NFC Championship Game — Seahawks 31, Rams 27. Sam 
 
 ## Notes
 
-Definitive game recap. Two versions exist in raw — this Yahoo! Sports live-blog version and the CBS News recap. Both used; this one has more tactical detail.
+Consolidated from multiple raw sources covering the NFC Championship Game. Raw files merged here:
+- `raw/NFC championship Seahawks ride late fourth-down stop, career game from Sam Darnold past Rams into Super Bowl.md` (Yahoo live-blog — primary)
+- `raw/Darnold, Seahawks outlast Rams for NFC title, Super Bowl berth.md` (ESPN/ESPN News Services)
+- `raw/Sam Darnold and Seahawks advance to Super Bowl with thrilling 31-27 win over Rams in NFC title game.md` (Fox Sports/AP wire)
+- `raw/Rams fall to Seahawks 31-27 in NFC Championship Game; Seattle to face Patriots in Super Bowl LX.md` (CBS News LA — Rams-side framing)
+- `raw/Seahawks 31-27 Rams (Jan 25, 2026) Final Score - ESPN.md` (ESPN Gamecast — box score stub)
+- `raw/NFL fans torch Rams returner after muffed punt leads to crucial Seahawks touchdown.md` (Fox News — Xavier Smith muffed punt reaction)
+
+Additional detail from the Fox News muffed-punt piece: Xavier Smith fumbled a third-quarter punt that led directly to a Seahawks TD, turning a potential Rams momentum swing into the game's pivotal score. ESPN/Fox recaps add Darnold context: cast aside by Jets (No. 3 in 2018), let go by Vikings after 14-3 2024 season, "first USC Trojan QB to start a Super Bowl." Super Bowl LX pairs Seattle-New England for the first time since Super Bowl XLIX (Feb 2015, Malcolm Butler interception).

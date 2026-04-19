@@ -4,7 +4,7 @@ type: concept
 tags: [monetary-policy, geopolitics, economics]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 9
 ---
 
 ## Definition
@@ -57,3 +57,4 @@ A key policy assumption behind Trump's tariff strategy is that trade deficits re
 - [[Trump secures $550B trade deal with Japan]]
 - [[Nixon shock - Wikipedia]]
 - [[Federal Reserve Signals Further Rate Cuts Amidst Worsening Labor Market and Divided Opinions]]
+- [[Times of India — Massive Trade Deal Japan 15% Tariffs]] — Trump's $550B "90% of profits" framing illustrates asymmetric concession model rather than rebalancing

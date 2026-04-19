@@ -3,8 +3,8 @@ title: "Echo Chamber and Polarization"
 type: concept
 tags: [politics, technology, polarization, media]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 8
+updated: 2026-04-17
+sources: 9
 ---
 
 ## Definition
@@ -37,3 +37,4 @@ The empirical evidence for echo chambers is more contested than the public disco
 - [[Polarization framing analysis]]
 - [[How Right-wing Media Consumed the Death of Charlie Kirk]]
 - [[Media analysis of Charlie Kirk's assassination]]
+- [[How Social Media Algorithms Are Set to Change in 2025 — TouchStone Digital]] — 2025 interest-based personalization as filter-bubble reinforcement mechanism
