@@ -2,10 +2,10 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-19
-total_pages: 914
-total_sources: 504
-total_entities: 191
-total_concepts: 121
+total_pages: 937
+total_sources: 521
+total_entities: 195
+total_concepts: 123
 total_syntheses: 13
 total_articles: 87
 ---
@@ -593,6 +593,47 @@ New concepts:
 - [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff argues Bonnell's MIL overreaches; Novel argument: catfish intermediary creates new liability layers; Apr 2026
 - [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — Bonnell opposes plaintiff's request for continuance; argues case is ready for trial; Apr 2026
 
+### Recent Ingests (2026-04-19) — Child Safety Bills / Age Verification / LGBTQ+ Censorship / Surveillance Infrastructure
+
+17 sources ingested spanning KOSA and sibling child-safety legislation, age-verification proposals, LGBTQ+ youth impact analyses, Flock Safety ALPR surveillance, Section 230 legislative history, and LLM political-preference research. Four new entity pages and two new concept pages anchor the cluster.
+
+**KOSA / child safety bills:**
+- [[Bad Internet Bills]] — Fight for the Future coalition campaign page; KOSA/EARN IT/STOP CSAM opposition
+- [[Child safety bills are reshaping the internet for everyone]] — cross-demographic impact analysis
+- [[Congress is flooded with bills for childproofing the internet]] — legislative landscape overview
+- [[Echoes of History in New National Push to Shield Children Online]] — historical parallels to COPA/CDA
+- [[Officials say social media is hurting teens. Scientists say it's comp…]] — Vivek Murthy advisory vs. empirical evidence
+- [[President Biden's new executive action is all about children and the internet]] — Biden EO framing
+
+**Age verification (LGBTQ+ impact):**
+- [[Age Verification Is Locking Trans People Out of the Internet]] — face-scan bias; trans lockout
+- [[Considering Age Verification and Impacts on LGBTQ+ Youth]] — policy brief
+- [[LGBTQ Youth Are Under Attack. Why Are Democrats Pushing a Bill That Hurts Them Even More?]] — Democratic-enabler framing
+- [[This Bill Purports to Protect Kids from Big Tech. For LGBTQ+ Youth, It's a Grave Danger]] — grave-danger frame
+- [[This Bill Threatens Access to LGBTQ+ Online Communities]] — community-access frame
+- [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]] — coalition-breakdown analysis
+
+**Surveillance infrastructure:**
+- [[Atlanta PD used Flock cameras to track migrants, records show]] — ALPR data shared with ICE; records obtained via FOIA
+- [[Community members unite to protest Flock Safety cameras on campus]] — campus protest; campus surveillance
+
+**Foundational:**
+- [[Section 230 Legislative History]] — 47 U.S.C. § 230 origin; Cox/Wyden 1996; carve-out trajectory
+
+**AI / research:**
+- [[The political preferences of LLMs]] — academic paper on LLM political bias; left-leaning skew across major models
+- [[EFF Age Verification One-Pager]] — EFF policy brief (PDF stub)
+
+**New entities:**
+- [[Kids Online Safety Act (KOSA)]] — Blackburn/Blumenthal; "duty of care"; state AG enforcement; Heritage Foundation weaponization risk
+- [[Fight for the Future]] — Evan Greer; Bad Internet Bills coalition; KOSA opposition lead
+- [[Electronic Frontier Foundation]] — digital civil liberties; Kelley/Collings/McKinney; age-verification/encryption advocacy
+- [[Flock Safety]] — Atlanta ALPR company; >5000 agency network; ICE migrant tracking via Atlanta PD
+
+**New concepts:**
+- [[Age Verification]] — mandatory identity/age checks; trans lockout / LGBTQ+ exclusion / surveillance honeypot; Reno v. ACLU precedent
+- [[Section 230]] — 47 U.S.C. § 230; platform immunity shield; KOSA/EARN IT erosion; SESTA/FOSTA precedent
+
 **Destiny case news articles and reference files:**
 - [[wfla-destiny-sued-cyber-sexual-harassment]] — WFLA/Tampa (Feb 19, 2025); first mainstream news coverage of the lawsuit filing; Bonnell's written admission quoted
 - [[pxie-substack-lawsuit-announcement-2025-01-20]] — Pxie's Jan 20, 2025 Substack post (her own announcement); "proxy" distribution theory; GiveSendGo fundraiser
@@ -1120,9 +1161,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 504 |
+| Total sources ingested | 521 |
 | Published articles tracked | 87 |
-| Entity pages | 191 |
-| Concept pages | 121 |
+| Entity pages | 195 |
+| Concept pages | 123 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
 | Last updated | 2026-04-19 |

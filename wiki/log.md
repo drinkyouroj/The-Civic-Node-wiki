@@ -5,20 +5,52 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
-## [2026-04-19] ingest | Daily scheduled ingest — article page + ECF 143 source
+## [2026-04-19] ingest | Daily scheduled ingest — child safety bills / age verification / surveillance cluster + article page + ECF 143
 
-Automated daily ingest. No new raw or published files detected since last ingest (April 18).
+Automated daily ingest. User surfaced 17 new untracked raw files in the main vault (not visible to the worktree initially) covering KOSA, age-verification, LGBTQ+ censorship, and Flock Safety surveillance infrastructure. Copied into worktree and ingested.
 
-**Backlog items resolved (2):**
-- Created article page for [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026 published piece; first in the [[Reachability Routing]] series; was missing from wiki/articles/
-- Created source page for [[Doe v Bonnell — Torres PI Order (ECF 143)]] — Magistrate Judge Torres's Oct 6, 2025 order denying PI; raw file existed but had no wiki source page
+**New sources (17):**
+
+*Child safety bills (6):*
+- [[Bad Internet Bills]], [[Child safety bills are reshaping the internet for everyone]], [[Congress is flooded with bills for childproofing the internet]], [[Echoes of History in New National Push to Shield Children Online]], [[Officials say social media is hurting teens. Scientists say it's comp…]], [[President Biden's new executive action is all about children and the internet]]
+
+*Age verification / LGBTQ+ impact (6):*
+- [[Age Verification Is Locking Trans People Out of the Internet]], [[Considering Age Verification and Impacts on LGBTQ+ Youth]], [[LGBTQ Youth Are Under Attack. Why Are Democrats Pushing a Bill That Hurts Them Even More?]], [[This Bill Purports to Protect Kids from Big Tech. For LGBTQ+ Youth, It's a Grave Danger]], [[This Bill Threatens Access to LGBTQ+ Online Communities]], [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]]
+
+*Surveillance infrastructure (2):*
+- [[Atlanta PD used Flock cameras to track migrants, records show]] — Atlanta PD shared ALPR data with ICE per FOIA records
+- [[Community members unite to protest Flock Safety cameras on campus]] — campus protest coverage
+
+*Foundational / research (3):*
+- [[Section 230 Legislative History]] — 47 U.S.C. § 230 origin; Cox/Wyden 1996
+- [[The political preferences of LLMs]] — academic paper; left-leaning skew across major LLMs
+- [[EFF Age Verification One-Pager]] — EFF policy brief (PDF stub)
+
+**New entities (4):**
+- [[Kids Online Safety Act (KOSA)]] — Blackburn/Blumenthal duty-of-care bill; state AG enforcement risk (Paxton); Heritage weaponization
+- [[Fight for the Future]] — Evan Greer's digital rights org; Bad Internet Bills coalition
+- [[Electronic Frontier Foundation]] — Kelley/Collings/McKinney; age-verification and encryption advocacy
+- [[Flock Safety]] — Atlanta ALPR company; >5000 agency network; ICE migrant tracking pathway
+
+**New concepts (2):**
+- [[Age Verification]] — mandatory identity/age checks; trans lockout via face-scan bias; surveillance honeypot risk
+- [[Section 230]] — platform immunity shield; KOSA/EARN IT erosion trajectory; SESTA/FOSTA precedent
+
+**Backlog items also resolved (2):**
+- Created article page for [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026 published piece; first in the [[Reachability Routing]] series
+- Created source page for [[Doe v Bonnell — Torres PI Order (ECF 143)]] — Magistrate Judge Torres's Oct 6, 2025 order denying PI
 
 **Entity updates:**
 - [[Doe v. Bonnell (1-25-cv-20757)]] — sources 16→17
 
-Index updated to 504 sources, 87 articles, 191 entities, 121 concepts.
+**Thematic observations:**
+- Cross-cluster connection: Flock Safety surveillance and KOSA age-verification converge on **surveillance infrastructure** — both create data honeypots queryable by law enforcement (ICE in the Flock case; state AGs in the KOSA case). Strong synthesis candidate.
+- Coalition-fracture angle: multiple sources flag Democratic enablers of nominally child-safety legislation that LGBTQ+ advocates see as censorship infrastructure — Schumer, Durbin, Klobuchar named. Ties to [[Institutional Gaslighting]] and existing wiki patterns.
+- Historical echo: [[Echoes of History in New National Push to Shield Children Online]] explicitly traces CDA/COPA precedents — Reno v. ACLU (1997) as the controlling precedent KOSA would force revisiting.
 
-**Note:** ~100 raw .md files remain without wiki source pages (primarily older NFL, crypto, tech, and politics content from earlier ingests). These are historical backlog, not new additions.
+**Follow-up candidates (not created this pass):** entity pages for Marsha Blackburn, Richard Blumenthal, Ken Paxton, Ron Wyden, Evan Greer, ACLU, GLAAD, EARN IT Act, STOP CSAM Act, Reno v. ACLU. The Flock/ICE and KOSA/state-AG threads both deserve their own synthesis page.
+
+Index updated to 521 sources, 87 articles, 195 entities, 123 concepts.
 
 ---
 
