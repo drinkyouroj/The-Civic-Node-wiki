@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, executive-overreach, institutional-capture, historic-preservation]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 7
 raw: "raw/Judge halts ballroom. Trump reveals hospital is part of White House project.md"
 source_url: "https://www.usatoday.com/story/news/politics/2026/04/16/white-house-ballroom-construction-trump-hospital/89646128007/"
 author: "Swapna Venugopal Ramaswamy"

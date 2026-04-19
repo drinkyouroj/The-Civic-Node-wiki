@@ -1,0 +1,548 @@
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 1 of 10
+
+
+
+
+                           UNITED STATES DISTRICT COURT
+                       FOR THE SOUTHERN DISTRICT OF FLORIDA
+
+                                Case No.: 1:25-cv-20757-JB/Torres
+  JANE DOE,
+         Plaintiff,
+  v.
+  STEVEN K. BONNELL II,
+         Defendant.
+                                   /
+
+     DEFENDANT STEVEN K. BONNELL II’S OMNIBUS MOTION IN LIMINE TO
+   PRECLUDE ARGUMENT AND EVIDENCE AND PREVENT PLAINTIFF’S USE OF A
+                        PSEUDONYM AT TRIAL 1
+  I.     PRELIMINARY STATEMENT
+
+         This Motion concerns three discrete categories of evidence and argument that Plaintiff has
+
+  injected into this case for an improper purpose and should be excluded at trial. Pursuant to Federal
+
+  Rules of Evidence 401, 403, 801, and 901, Defendant Steven K. Bonnell II files this Omnibus
+
+  Motion in Limine to preclude the following categories of argument and evidence (collectively, the
+
+  “Challenged Evidence”) on the grounds that each of these categories is irrelevant to any claim or
+
+  defense, unduly prejudicial, and, in several instances, constitutes inadmissible hearsay or lacks
+
+  proper authentication:
+         1.      Evidence, testimony, or argument suggesting that Bonnell transmitted the Video to
+
+  a minor. Plaintiff’s false allegation is absent from the Amended Complaint, has no bearing on any
+
+  element of her claims, prejudices the jury, and is currently the subject of Bonnell’s pending Motion
+
+  for Rule 11 Sanctions [ECF No. 183].
+
+         2.      The declaration [ECF No. 49-2], exhibit attached thereto [ECF No. 86-1], and
+
+  future testimony or other purported evidence from non-party witness “Abbymc.” Plaintiff’s
+
+
+  1
+   As Bonnell contends in his pending 12(b)(1) Motion To Dismiss [ECF No. 132] and pending
+  Motion for Summary Judgment [ECF No. 210], because the Court lacks subject matter jurisdiction
+  over Plaintiff’s claims, no trial is warranted.
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 2 of 10
+
+
+
+
+  counsel, who also represents Abbymc, obstructed Bonnell’s access to her during discovery, by,
+
+  among other things, refusing to accept service of a subpoena on her behalf and then providing
+
+  undersigned counsel with a fake address for Abbymc. Ultimately, Bonnell was able to effect
+
+  service of a subpoena on Abbymc, but she ignored it and failed to produce any of the requested
+
+  materials. In support of her Motion for a Preliminary Injunction, which the Court denied [ECF No.
+
+  143], Plaintiff filed a declaration from Abbymc that contains hearsay and uncorroborated
+
+  testimony, and later submitted an unauthenticated exhibit from her. Plaintiff should be precluded
+
+  from relying upon or introducing new evidence or testimony from Abbymc.
+
+           3.     Plaintiff’s use of a pseudonym at trial. While pseudonymity may be permitted in
+
+  limited circumstances during pretrial proceedings, its continued use before a jury would unfairly
+
+  prejudice Bonnell, as it suggests—without proving—that Plaintiff is deserving of some special
+
+  status or protection as a victim.
+
+  II.      LEGAL STANDARD
+           Evidence is inadmissible under Federal Rules of Evidence 401 and 403 where it does not
+
+  make any fact of consequence more or less probable and instead invites unfair prejudice,
+
+  confusion, or speculation. Fed. R. Evid. 401, 403. Evidence is relevant only if “it has any tendency
+
+  to make a fact more or less probable than it would be without the evidence” and “the fact is of
+
+  consequence in determining the action.” Jackson v. Catanzariti, 159 F.4th 874, 884 (11th Cir.
+
+  2025).
+
+           Even relevant evidence may be excluded where its probative value is substantially
+
+  outweighed by the danger of unfair prejudice, confusing the issues, misleading the jury, undue
+
+  delay, or waste of time. Fed. R. Evid. 403; Jackson, 159 F.4th at 885 (“[T]he essential question
+
+  under Rule 403 is whether the probative value of [the] evidence is substantially outweighed by the
+
+  danger of unfair prejudice.”).
+
+
+
+
+                                                   2
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 3 of 10
+
+
+
+
+  III.   PURPORTED EVIDENCE OR ARGUMENT THAT BONNELL TRANSMITTED
+         THE VIDEO TO A MINOR MUST BE EXCLUDED.
+         In her October 3, 2025 Opposition to Bonnell’s pending Motion To Dismiss, Plaintiff
+
+  falsely asserted that Bonnell transmitted the Video to a minor. (See Pl.’s Opp’n to Mot. Dismiss
+
+  [ECF No. 139] at n.2.) Plaintiff’s demonstrably false allegation is absent from the Complaint and
+
+  the operative Amended Complaint, is contradicted by testimony and other evidence obtained
+
+  during discovery, and has no bearing on any of Plaintiff’s claims. Indeed, Plaintiff and her counsel
+
+  have been on notice of the falsity of their allegation since at least the October 23, 2025 deposition
+
+  of third party witness AH, when Plaintiff discovered that the recipient of the Video in April 2022
+
+  was not a minor, but rather an adult male who goes by the screenname “Solo.” After Plaintiff
+
+  refused to retract the false allegation from her pleading during the safe-harbor period, Bonnell filed
+
+  a motion for Rule 11 sanctions. [ECF No. 183.]
+
+         The Eleventh Circuit routinely excludes evidence that has minimal or no probative value
+
+  where its inclusion would divert attention away “from primary issues in the case” and risks
+
+  “confusing the jury.” Gray v. Koch Foods, Inc., No. 17-CV-595-RAH, 2022 WL 3007569, at *4-
+
+  5 (M.D. Ala. July 28, 2022), aff’d, 144 F.4th 1298 (11th Cir. 2025). Even assuming, arguendo,
+
+  some marginal relevance, any evidence of Bonnell’s alleged transmission of the Video to a minor
+
+  must be excluded under Rule 403. Its probative value is substantially outweighed by the danger of
+
+  unfair prejudice, confusion, and misleading the jury. Indeed, Rule 403 is specifically designed to
+  prevent evidence of “scant or cumulative probative force, dragged in by the heels for the sake of
+
+  its prejudicial effect.” Aycock v. R.J. Reynolds Tobacco Co., 769 F.3d 1063, 1069 (11th Cir. 2014)
+
+         Here, the allegation that Bonnell transmitted the Video to a minor—and any argument or
+
+  purported evidence pertaining to it—is categorically and knowingly false. (See Def.’s Mot. for R.
+
+  11 Sanctions [ECF No. 183] at 1-4 (filed under seal) [ECF No. 189].) Even if it were true (it is
+
+  not), such an allegation has no bearing whatsoever on Plaintiff’s claims. Indeed, a claim under 15
+
+  U.S.C. § 6851 requires only that the defendant knowingly disclosed an intimate image under
+
+  circumstances giving rise to a reasonable expectation of privacy and resulting harm. Diaz v.
+
+
+
+                                                    3
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 4 of 10
+
+
+
+
+  Hernandez, No. 24-81151-CIV, 2024 WL 5341743, at *3 (S.D. Fla. Oct. 29, 2024). The purported
+
+  age of the alleged recipient is irrelevant, and any such evidence should be excluded.
+
+  IV.    ABBYMC’S DECLARATION, PURPORTED EVIDENCE, AND FUTURE
+         TESTIMONY FROM HER MUST BE EXCLUDED.
+
+         A.      Plaintiff and Her Counsel Obstructed Access to Abbymc During Discovery,
+                 and Abbymc Disregarded a Subpoena.
+         Despite that Plaintiff’s counsel also represents Abbymc, Bonnell has been deprived of the
+
+  opportunity to test, challenge, or even access Abbymc during discovery. For over six months,
+
+  Plaintiff and her attorneys repeatedly violated their obligations under Rule 26, obstructed
+
+  Bonnell’s access to their star witness, and now seek to rely exclusively on Abbymc to establish
+
+  subject matter jurisdiction and liability in this case. Plaintiff cannot have it both ways.
+
+         Exclusion is warranted under Federal Rules of Civil Procedure 26 and 37 where a party
+
+  seeks to rely on evidence from a witness who was not made available for discovery. Courts in this
+
+  Circuit consistently preclude such evidence to prevent unfair prejudice and trial by ambush. See
+
+  Inmuno Vital, Inc. v. Telemundo Grp., 203 F.R.D. 561, 565-66 (S.D. Fla. 2001) (excluding witness
+
+  where opposing party was denied access during discovery and holding that a party cannot “glean
+
+  an unfair advantage” by relying on testimony shielded from discovery); Crawford v. NCB, Inc.,
+
+  No. 00-6625-CIV, 2001 WL 833715, at *2 (S.D. Fla. May 17, 2001) (striking declarations where
+
+  counsel failed to provide contact information for witnesses despite having access to them);
+
+  Treminio v. Crowley Mar. Corp., No. 22-CV-00174-CRK, 2023 WL 8114403, at *5-6 (M.D. Fla.
+
+  Nov. 22, 2023) (excluding testimony where the proponent failed to disclose witness contact
+
+  information, emphasizing that withholding a witness’s whereabouts prejudices the opposing
+
+  party’s ability to prepare rebuttal); Henriquez v. Total Bike, LLC, No. 13-20417-CIV, 2013 WL
+
+  6834656, at *6 (S.D. Fla. Dec. 23, 2013) (refusing to consider declarations of non-party witnesses
+
+  where the opposing party lacked any opportunity to depose them, finding such use improper as a
+
+  matter of fairness).
+
+
+
+
+                                                    4
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 5 of 10
+
+
+
+
+         Further, exclusion is justified where a party interferes with access to a non-party witness
+
+  whom they control or otherwise contributes to the opposing party’s inability to obtain discovery.
+
+  See Hernandez-Sabillon v. Naturally Delicious, Inc., No. 15-CV-80812, 2015 WL 10550934, at
+
+  *4 (S.D. Fla. Dec. 23, 2015) (recognizing exclusion may be appropriate where a party exercised
+
+  control over a witness who failed to appear “or took any action to procure their failure to appear”).
+
+         Although as part of her Rule 26 initial disclosures, Plaintiff identified Abbymc as a
+
+  potential witness and submitted a declaration from her in support of Plaintiff’s Motion for a
+
+  Preliminary Injunction, Plaintiff’s counsel made it exceedingly difficult for Bonnell to test the
+  statements contained in Abbymc’s declaration. Over the course of several months, Plaintiff’s
+
+  attorneys first refused to accept service of a subpoena on behalf of their client, or provide
+
+  Abbymc’s contact information. Then, only after being pressed, Plaintiff’s counsel provided a fake
+
+  address for Abbymc. 2 (See Brettler Decl., dated Sept. 19, 2025 [ECF No. 132-9] at ¶¶ 3-12; Brettler
+
+  Decl., dated Jan. 30, 2026 [ECF No. 212] at ¶¶ 3-11.) Worse, Abbymc admitted during a livestream
+
+  she posted on or about September 8, 2025 that Plaintiff’s counsel advised her to continue evading
+
+  service of process while continuing to “submit[] evidence.” (See Brettler Decl., dated Sept. 19,
+
+  2025 [ECF No. 132-9] at ¶ 12 & Ex. H [ECF No. 132-17].)
+
+         When Bonnell was finally able to serve Abbymc with a subpoena just prior to the close of
+
+  discovery, she ignored the subpoena and failed to produce any documents responsive thereto. (See
+
+  Brettler Decl., dated Jan. 30, 2026 [ECF No. 212] at ¶¶ 13-16.) Because service was effectuated
+
+  fewer than 30 days before the close of discovery, Bonnell lacked a meaningful opportunity to move
+
+  to compel before the discovery deadline expired. Plaintiff should not be permitted to benefit from
+
+  her own delay and obstruction preventing Bonnell to move to compel within the discovery period.
+
+  See Baxter v. Roberts, 54 F.4th 1241, 1255 (11th Cir. 2022) (affirming exclusion of witness where
+
+
+  2
+    Plaintiff asserted the attorney-client privilege and work-product doctrine as grounds for refusing
+  to produce requested communications with Abbymc. (Brettler Decl., dated Jan. 30, 2025, Ex. O.)
+  However, a witness’s location, contact information, and counsel’s communications regarding
+  compliance with a subpoena are not protected from disclosure. Treminio, 2023 WL 8114403, at
+  *5 n.6.
+
+
+                                                   5
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 6 of 10
+
+
+
+
+  late disclosure deprived opposing party of any opportunity to depose the witness or develop
+
+  rebuttal evidence); Jones v. Aaron’s Inc., 748 F. App’x 907, 914 (11th Cir. 2018) (affirming
+
+  exclusion of witnesses disclosed on the last day of discovery where opposing party had no
+
+  opportunity to depose or conduct discovery); Oasis Cap., LLC v. Nason, Yeager, Gerson, Harris
+
+  & Fumero, P.A., No. 22-81913-CIV, 2025 WL 1881922, at *2 (S.D. Fla. Mar. 30, 2025)
+
+  (excluding evidence disclosed at the close of discovery where the delay prevented the opposing
+
+  party from pursuing discovery). Under well-established Eleventh Circuit authority, Abbymc’s
+
+  evidence and testimony must be excluded.
+
+         B.      The Abbymc Exhibit Is Not Authenticated, Constitutes Inadmissible Hearsay,
+                 and Lacks Probative Value.
+         The Abbymc exhibit constitutes a self-serving and unauthenticated text message,
+
+  purportedly from Abbymc to an unidentified third party, dated November 3, 2023, wherein
+
+  Abbymc supposedly wrote: “I have videos of him [Bonnell] f*cking cheiry and pxie like lmfao he
+
+  just sent me another one haven’t opened it.” [ECF No. 86-1.] As an initial matter, the Abbymc
+
+  exhibit constitutes an out-of-court statement offered for the truth of the matter asserted—namely,
+
+  that Bonnell allegedly transmitted the Video to her—and is therefore inadmissible hearsay, with
+
+  no applicable exception. Fed. R. Evid. 801.
+
+         Further, the purported message lacks probative value and fails altogether to establish that
+  Bonnell transmitted the Video to Abbymc, or if he did, when. The exhibit is unauthenticated,
+
+  contains no information from which the recipient of the message can be identified, is ambiguous
+
+  as to the content Abbymc allegedly received, and provides no evidence as to the existence or timing
+
+  of such a transmission. See United States v. Caldwell, 776 F.2d 989, 1001-02 (11th Cir. 1985)
+
+  (authentication requires “sufficient evidence to make out a prima facie case that the proffered
+
+  evidence is what it purports to be.”); Pohl v. MH Sub I, LLC, 332 F.R.D. 713, 721 (N.D. Fla. 2019)
+
+  (excluding screenshots where the proponent relied solely on their own testimony without objective
+
+  indicia of authenticity, holding that such testimony is insufficient to establish the evidence is what
+
+  it purports to be). At most, the exhibit reflects Abbymc’s own characterization of what she believed
+
+
+                                                    6
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 7 of 10
+
+
+
+
+  she possessed, not evidence that Bonnell actually transmitted the Video to her. Abbymc’s
+
+  declaration and unauthenticated exhibit does not come close to establishing that Bonnell
+
+  transmitted the Video to her at all, and, due to Plaintiff’s obstruction, Bonnell was deprived of the
+
+  opportunity to test or challenge the evidence in discovery. 3 It must be excluded accordingly.
+
+  V.     PLAINTIFF SHOULD NOT BE PERMITTED TO PROCEED USING A
+         PSEUDONYM AT TRIAL.
+         Plaintiff’s continued use of a pseudonym at trial would unfairly prejudice Bonnell and
+
+  undermine the integrity of the proceedings. Courts in this Circuit have recognized that
+
+  pseudonymity is not automatically appropriate at trial and often must be revisited as proceedings
+
+  advance. See Doe v. Swearingen, No. 18-24145-CIV, 2019 WL 95548, at *6 (S.D. Fla. Jan. 3,
+
+  2019) (limiting plaintiff’s use of a pseudonym to pretrial proceedings); S.Y. v. Seasonal Invs., Inc.,
+
+  No. 20-cv-603-JES-MRM, 2021 WL 4822627, at *6 (M.D. Fla. June 11, 2021) (requiring renewed
+
+  showing that pseudonymity remained appropriate at trial); S.Y. v. Jay Varahimata Invs., LLC, No.
+
+  20-cv-606-JES-MRM, 2021 WL 3117117, at *6 (M.D. Fla. June 11, 2021) (recognizing the
+
+  prejudicial effect that use of a pseudonym at trial may have on the opposing party); see also In re
+
+  Chiquita Brands Int’l, Inc., 965 F.3d 1238, 1248 (11th Cir. 2020) (reaffirming that pseudonymity
+
+  requires a concrete, evidence-based showing and that generalized or speculative concerns are
+
+  insufficient—particularly as proceedings advance toward trial).
+         Here, permitting Plaintiff to proceed under a pseudonym at trial would unfairly prejudice
+
+  Bonnell. Proceeding anonymously risks conferring Plaintiff an improper advantage by suggesting
+
+  that she is indeed a victim, enhancing the perceived legitimacy or sensitivity of her claims, and
+
+  simultaneously impairing Bonnell’s ability to present a full and fair defense. It is Plaintiff who
+
+  chose to file a federal lawsuit publicly accusing Bonnell of despicable conduct and breaking the
+
+
+
+
+  3
+    Likewise, Plaintiff should be precluded from offering testimony from Hannah Brooks and
+  unidentified “Witnesses A and B” regarding alleged transmissions. [ECF Nos. 21-2; 49-4; 49-5].
+  Any such testimony would concern unproven, unrelated allegations, lack evidentiary foundation,
+  and be inadmissible for the same reasons.
+
+
+                                                    7
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 8 of 10
+
+
+
+
+  law, destroying Bonnell’s reputation in the process. Bonnell should be given the same opportunity
+
+  to publicly confront his accuser at trial.
+
+          The case for anonymity is further undermined by Plaintiff’s own public-facing conduct.
+
+  Plaintiff is not a private individual seeking to litigate sensitive matters outside of public view; she
+
+  is a public-facing online personality who has appeared under the moniker “Pxie” in widely viewed
+
+  YouTube debates and other public forums garnering millions of views. By voluntarily placing
+
+  herself and her identity into the public sphere, Plaintiff cannot credibly claim the same level of
+
+  privacy interest typically invoked to justify pseudonymity.
+          Moreover, Plaintiff’s own conduct throughout this litigation warrants an order requiring
+
+  her to proceed using her legal name. From the outset of this litigation, Plaintiff has publicly
+
+  discussed this case and its subject matter through a variety of platforms—including Substack, X
+
+  (formerly Twitter), and the fundraising website GiveSendGo, which is linked directly to her
+
+  numerous public posts. (Bonnell Decl., dated Apr. 25, 2025 [ECF No. 42-1] ¶ 23-26. at Ex. H
+
+  [ECF No. 42-9].) Indeed, Plaintiff originally posted her GiveSendGo fundraiser using her legal
+
+  name, publicly associating herself with this case and her allegations against Bonnell. For months
+
+  after filing suit, Plaintiff repeatedly posted online about this lawsuit, encouraged donations, and
+
+  commented on the Court’s rulings. (Brettler Decl., dated June 16, 2025 [ECF No. 99-1] ¶¶ 3-6 &
+
+  Exs. A-D [ECF Nos. 99-2 to 99-5]; Bonnell Decl. [ECF No. 42-1] ¶¶ 23-27 & Exs. F, H-I [ECF
+
+  Nos. 42-7, 42-9, 42-10].)
+
+          At a minimum, the Court should require Plaintiff to make a renewed, particularized
+
+  showing—supported by competent evidence—that anonymity remains warranted under the
+
+  heightened scrutiny applicable at the trial stage. Absent such a showing, Plaintiff should be ordered
+
+  to proceed under her true legal identity.
+  VI.     CONCLUSION
+          For the foregoing reasons, Bonnell respectfully requests that the Court exclude the
+
+  Challenged Evidence, as described herein.
+
+
+
+
+                                                    8
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 9 of 10
+
+
+
+
+                   LOCAL RULE 7.1(a)(3) CERTIFICATE OF CONFERRAL
+
+         WE HEREBY CERTIFY that undersigned counsel for movant conferred with counsel
+
+  for Plaintiff regarding the relief sought in this Motion, and Plaintiff’s counsel indicated that they
+
+  oppose the relief requested herein.
+
+   Dated: March 30, 2026                               Respectfully submitted,
+
+                                                       BILZIN SUMBERG BAENA PRICE &
+                                                       AXELROD LLP
+                                                       1450 Brickell Avenue, Suite 2300
+                                                       Miami, Florida 33131
+                                                       Tel.: (305) 374-7580
+                                                       Fax: (305) 374-7593
+
+                                                       By: /s/ Michael S. Morgan
+                                                       Michael S. Morgan
+                                                       Florida Bar No.: 1061173
+                                                       mmorgan@bilzin.com
+
+                                                       and
+
+                                                       BERK BRETTLER LLP
+                                                       9119 West Sunset Blvd.
+                                                       West Hollywood, CA 90069-3106
+                                                       Tel: (310) 278-2111
+
+                                                       By: /s/ Andrew B. Brettler
+                                                       Andrew Brad Brettler
+                                                       California Bar No.: 262928
+                                                       abrettler@berkbrettler.com
+                                                       Jake A. Camara
+                                                       California Bar No.: 305780
+                                                       jcamara@berkbrettler.com
+                                                       Joel Sichel
+                                                       California Bar No: 361148
+                                                       jsichel@berkbrettler.com
+                                                       (admitted pro hac vice)
+
+                                                       Counsel for Steven K. Bonnell I
+
+
+
+
+                                                   9
+Case 1:25-cv-20757-JB Document 222 Entered on FLSD Docket 03/30/2026 Page 10 of 10
+
+
+
+
+                                    CERTIFICATE OF SERVICE
+
+          I HEREBY CERTIFY that on March 30, 2026, a true and correct copy of the foregoing
+
+   was served on all parties via electronic transmission to counsel of record for these parties.
+
+                                                         By: /s/ Michael S. Morgan
+                                                                 Michael S. Morgan
+
+                                            SERVICE LIST
+
+                                    Jane Doe v. Steven K. Bonnell II
+                                      Case No.: 1:25-cv-20757-JB
+
+    Carlos A. Garcia Perez, Esq. Sanchez-             Counsel for Jane Doe
+    Medina, Gonzalez, Quesada, Lage, Gomez &
+    Machado, LLP 201 Alhambra Circle, Suite
+    1205 Coral Gables, Florida, 33134
+    Email: cgarciaperez@smgqlaw.com
+
+    Joan Schlump Peters, Esq.
+    JSP LAW, LLC
+    838 Neapolitan Way, #91, Naples, FL 34103
+    Email: petersjoan@bellsouth.net
+
+   MIAMI 13652618.1 104971/307949
+
+
+
+
+                                                    10
+

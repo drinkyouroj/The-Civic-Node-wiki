@@ -4,7 +4,7 @@ type: concept
 tags: [technology, media, attention-economy]
 created: 2026-04-09
 updated: 2026-04-17
-sources: 5
+sources: 8
 ---
 
 ## Definition

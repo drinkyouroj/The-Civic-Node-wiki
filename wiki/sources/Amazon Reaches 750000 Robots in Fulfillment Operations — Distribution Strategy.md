@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, labor, power, automation, leverage-erasure]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 9
 raw: "raw/Thought Leadership and Software for Wholesale Change Agents.md"
 source_url: "https://distributionstrategy.com/amazon-reaches-750000-robots-in-fulfillment-operations/"
 author: "Distribution Strategy Group"

@@ -4,7 +4,7 @@ type: concept
 tags: [politics, technology, media, misinformation]
 created: 2026-04-09
 updated: 2026-04-17
-sources: 2
+sources: 5
 ---
 
 ## Definition

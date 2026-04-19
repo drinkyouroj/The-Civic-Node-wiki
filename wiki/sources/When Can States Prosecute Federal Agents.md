@@ -1,10 +1,10 @@
 ---
 title: "When Can States Prosecute Federal Agents?"
 type: source
-tags: [politics, legal, federalism, immigration, supremacy-clause]
-created: 2026-04-17
-updated: 2026-04-17
-sources: 1
+tags: [legal, politics, power, federal-immunity, supremacy-clause]
+created: 2026-04-18
+updated: 2026-04-18
+sources: 7
 raw: "raw/When Can States Prosecute Federal Agents.md"
 source_url: "https://statecourtreport.org/our-work/analysis-opinion/when-can-states-prosecute-federal-agents"
 author: "State Court Report"
@@ -14,46 +14,46 @@ published: 2026
 [Original source](https://statecourtreport.org/our-work/analysis-opinion/when-can-states-prosecute-federal-agents)
 
 ## Summary
-A State Court Report legal analysis of the doctrinal framework governing state prosecution of federal agents — Supremacy Clause immunity, originating with *In re Neagle* (1890) — and the exceptionally narrow historical record of successful prosecutions. The piece documents that federal courts have denied supremacy clause immunity to officers only four times in U.S. history, enumerates the procedural barriers (federal removal, federal judicial oversight of state charges, inconsistent lower-court standards), and places the Minnesota/Pretti situation in that precedential context. Crucially, the article identifies the gap between JD Vance's public claim of "absolute immunity" for federal officers and the actual legal framework, which is narrower in theory but effectively protective in practice.
+
+A legal analysis of Supremacy Clause immunity doctrine from the State Court Report, tracing the doctrine from *In re Neagle* (1890) through Ruby Ridge (2001) and contextualizing the Minnesota ICE investigation within historical precedent. The piece establishes that immunity has been denied in only four instances in U.S. history — and each time, the court found evidence the officer acted with deliberate malice or outside official duties. A critical resource for understanding the legal landscape for state prosecution of federal agents.
 
 ## Key Points
-- Supremacy Clause immunity originates in *In re Neagle* (1890): federal marshal killed an armed assailant of a Supreme Court justice; the Court ruled him immune because he did "no more than what was necessary and proper"
-- Immunity is not absolute — exceptions exist when officers act "outside what's necessary and proper" or "unreasonably or unlawfully"
-- Only four instances in U.S. history where federal courts denied supremacy clause immunity to an officer (per Judge Kozinski's *Horiuchi* dissent); three of those involved evidence of "deliberate malice"
-- **Historical exceptions**:
-  - 1906: Supreme Court permitted prosecution of soldiers who killed a civilian at a federal arsenal
-  - Ruby Ridge (2001, 9th Cir.): Idaho prosecutor allowed to proceed with manslaughter charges against FBI sniper Lon Horiuchi
-  - Prohibition era: federal courts authorized state prosecutions for unreasonable force
-- **Historical denials**: 1964 — federal district court blocked Mississippi's prosecution of a U.S. marshal using tear gas during James Meredith's admission to Ole Miss, citing *Neagle*
-- **Procedural barriers** even when immunity doesn't apply: federal removal under 28 U.S.C. § 1442; federal judges oversee immunity claims; last Supreme Court consideration was 1920; lower courts apply inconsistent standards
-- **Minnesota application**: videos allegedly show Pretti "disarmed and restrained on the ground when he was shot multiple times" — described as "part of a pattern across the country of escalating violence by federal officers"
-- **Critical distinction**: state convictions for state crimes are outside presidential pardon authority — unlike federal prosecutions
-- **JD Vance's "absolute immunity" claim contradicts precedent** — immunity is real but procedural, not categorical
+
+- Supremacy Clause immunity originates from *In re Neagle* (1890): federal marshal shot an unarmed assailant to protect a Supreme Court justice; immunity upheld because act was "necessary and proper"
+- Immunity is **not absolute**: fails when officers act outside what's "necessary and proper" or conduct themselves unreasonably or unlawfully
+- **Only four instances in U.S. history** where federal courts denied Supremacy Clause immunity
+- Historical exceptions: 1906 Pennsylvania soldiers case; Ruby Ridge/Idaho (2001) — 9th Circuit allowed manslaughter charges against FBI sniper who shot an unarmed woman; Prohibition-era cases; 1964 Mississippi case (immunity upheld for marshal using tear gas)
+- Ruby Ridge: Idaho county prosecutor initially charged FBI sniper; federal courts ultimately dismissed, but the state's initial assertion of jurisdiction was permitted
+- Procedural barriers beyond immunity: federal removal under 28 U.S.C. § 1442; federal judge oversight; inconsistent lower court standards; extended litigation
+- **Pardon power distinction**: State convictions for state crimes are **outside the president's pardon authority** — a significant structural difference from federal prosecution
+- JD Vance and Trump administration have asserted "absolute" immunity for federal officers — legal precedent contradicts this
+- Alex Pretti video allegedly shows him "disarmed and restrained on the ground when he was shot" — if accurate, that's the strongest possible factual predicate for the "deliberate malice" exception
 
 ## Newsletter Angles
-- **"Four times in the history of our nation"** is the quote that reframes the whole Minnesota story. The federal government isn't claiming a dubious protection — it is claiming something that has worked in every substantively similar case except four. Minnesota is fighting a 135-year-old doctrine with a 100+ year Supreme Court silence.
-- **The pardon power distinction is load-bearing for strategy.** A state conviction survives Trump's pardon. This is why state prosecution — even if nearly impossible — is the only route to accountability that the administration can't undo. That reframes Minnesota's litigation as not just principled but strategic.
-- **Vance's "absolute immunity" claim is a concrete factual error** that an article could cleanly expose: precedent says it's not absolute, but the procedural barriers make the distinction academic. A good piece would treat both halves of that.
-- **Ruby Ridge parallel is editorially important**: that was also an unarmed person shot by a federal sniper; the state prosecution was initially allowed but ultimately failed in federal court. That's the precedent Minnesota is trying to repeat — and the historical outcome is not reassuring.
+
+- **The pardon firewall**: State prosecution of federal agents produces convictions the president cannot pardon. This is the single most under-covered structural fact in the whole Minnesota story. It explains why the Trump administration's evidence-withholding is so aggressive — federal immunity fails occasionally, and state convictions are pardon-proof.
+- **Four in history, possibly five**: The historical rarity of successful state prosecution is the obstacle and the story simultaneously. Moriarty may be attempting something that has succeeded four times in U.S. history.
+- **The malice threshold in the Pretti case**: If the video shows Pretti restrained and disarmed, the "deliberate malice" exception is directly invoked. This is the strongest factual case. The question is whether Minnesota can get the video into evidence.
 
 ## Entities Mentioned
-- [[JD Vance]] — Vice President; quoted as claiming federal officers have absolute immunity
-- [[Alex Pretti]] — subject of Minnesota investigation
-- [[Killing of Renée Good]] — the broader Minnesota context
-- [[Donald Trump]] — administration context for Vance's claims
+
+- [[Alex Pretti]] — described as "disarmed and restrained on the ground when he was shot"; presents strongest factual basis for defeating immunity
+- [[Mary Moriarty]] — facing a legal doctrine with only four precedents in U.S. history
+- [[Donald Trump]] — administration has asserted "absolute" federal officer immunity; contradicted by precedent
+- [[JD Vance]] — cited as asserting absolute immunity for federal officers
 
 ## Concepts Mentioned
-- [[Supremacy Clause Immunity]] — central doctrine analyzed
-- [[Federal Immunity Above Constitutional Law]] — structural frame
-- [[State Power Without Accountability]] — mirror frame
-- [[Defensive Immunity]] — the novel variant emerging in the Minnesota case
+
+- [[Supremacy Clause Immunity]] — central subject; foundational doctrine from *In re Neagle*
+- [[Federal Immunity Above Constitutional Law]] — Trump administration's expansive reading exceeds even established immunity doctrine
+- [[Institutional Gaslighting]] — "absolute immunity" assertion is contested by 130 years of precedent; asserting it anyway is a form of narrative control
 
 ## Quotes
-> "There appear to be only four instances in the entire history of our nation in which federal courts have denied supremacy clause immunity to an officer who has sought protection from state criminal prosecution." — Judge Kozinski, *Horiuchi* dissent
 
-> In three of those four cases, "there was evidence suggesting that the federal officers acted with deliberate malice." — Kozinski dissent
+> "[T]here appear to be only four instances in the entire history of our nation in which federal courts have denied supremacy clause immunity to an officer who has sought protection from state criminal prosecution." — Horiuchi dissent
 
-> "It could not reasonably be claimed that the fatal shot was fired in the performance of a duty." — 1906 Supreme Court opinion on soldiers prosecuted for killing a civilian
+> "[I]t could not reasonably be claimed that the fatal shot was fired in the performance of a duty." — 1906 Supreme Court, permitting prosecution of soldiers who killed a civilian
 
 ## Notes
-Research-summary extraction from State Court Report, a Brennan Center-affiliated publication. Published 2026 (specific date not recorded in fetch). Legal-analysis piece rather than news reporting. The Kozinski *Horiuchi* dissent quote is the editorially most valuable citation — it quantifies the accountability gap in terms that a general reader can absorb.
+
+State Court Report is a Brennan Center-affiliated publication focused on state court issues — expert and credible but has an institutional perspective (state courts as legitimate, federal immunity as limited). The Horiuchi dissent quote comes from the Ruby Ridge case (Horiuchi was the FBI sniper); the dissent was from a judge who would have extended immunity — meaning even the immunity-protective dissent acknowledges only four historical exceptions. Highly useful for [[Supremacy Clause Immunity]] concept page build-out.

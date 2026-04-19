@@ -4,8 +4,8 @@ type: entity
 entity_type: case
 tags: [legal, ncii, catfishing, destiny, florida, intimate-image-protection-act]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 2
+updated: 2026-04-18
+sources: 16
 ---
 
 ## Overview
@@ -42,17 +42,30 @@ The case's factual predicate is now contested in a specific way: the Discord acc
 | ECF | Date | Entry |
 |---|---|---|
 | 1 | Feb 18, 2025 | Complaint (not reviewed directly — summarized via press coverage) |
+| 23 | — | Scheduling Order (trial date set; "no extensions absent extraordinary circumstances") |
 | 116 | — | Protective Order (governs deposition confidentiality) |
-| 186 | — | Motion for sanctions (referenced via ECF 229 "ninety days expiring") |
+| 132 | Sep 19, 2025 | **Bonnell MTD** (12(b)(1) factual attack; April 2022 transmission predates CARDII; Abbymc subpoena history) |
+| 139 | Oct 3, 2025 | Plaintiff's opposition to MTD (intertwined merits doctrine; Discord CDN reachability theory; false Footnote 2 minor allegation) |
+| 163 | Nov 2025 | Bonnell motion for protective order / deposition scheduling (after Plaintiff no-showed Nov 3 deposition; requests $10,875 fees) |
+| 167 | Nov 5, 2025 | Stay Order — Bonnell deposition stayed pending ECF 163 ruling |
+| 183 | Dec 1, 2025 | **Bonnell Rule 11 sanctions motion** (AH deposition confirms Solo catfishing; Plaintiff refused to retract Footnote 2) |
+| 184 | Dec 4, 2025 | Plaintiff's first motion to modify scheduling order (expressly requested trial date remain unchanged) |
+| 186 | — | Motion for sanctions re: Plaintiff's Nov 3 deposition no-show (referenced via ECF 229; 90 days expiring Apr 10, 2026) |
 | 204-1 | Jan 7, 2026 | Exhibit A: [[Rose deposition — Doe v Bonnell]] (Oct 23, 2025 transcript, 91 pp.) |
+| 210 | Jan 30, 2026 | **Bonnell MSJ** (post-discovery record; Peña concedes April 2022 date; AH deposition in record; Plaintiff admits no post-CARDII evidence at June 3, 2025 hearing) |
+| 216 | Feb 13, 2026 | Plaintiff's Rule 56(d) motion (Bonnell never deposed; Göransson Hague Convention pending; requests deferral) |
+| 218 | Feb 26, 2026 | Bonnell opposition to Rule 56(d) (Plaintiff's own inaction caused discovery failures; no good cause shown) |
+| 222 | Mar 30, 2026 | **Bonnell omnibus MIL** (three exclusion requests: false minor allegation, Abbymc evidence, trial pseudonym) |
+| 224 | — | Plaintiff's MIL (sought to exclude consent evidence, sexual history, Bonnell's documents, Solo evidence) |
 | 227 | Apr 8, 2026 | **Plaintiff's Motion to Continue Trial** |
 | 228 | Apr 10, 2026 | Order setting continuance hearing April 21, 2026, 8:30 a.m., Courtroom 11-4 |
 | 229 | Apr 10, 2026 | Notice of ninety days expiring (ECF 186 sanctions motion) |
-| 230 | Apr 13, 2026 | Response in opposition to plaintiff's motion in limine |
-| 231 | Apr 13, 2026 | Response in opposition to defendant's motion in limine re: pseudonym use at trial |
+| 230 | Apr 13, 2026 | Bonnell opposition to Plaintiff's MIL (consent evidence essential to CARDII elements; Rule 412 inapplicable) |
+| 231 | Apr 13, 2026 | Plaintiff opposition to Bonnell omnibus MIL (Rose deposition; Abbymc subpoena enforcement failure; CARDII pseudonymity) |
 | 232 | Apr 14, 2026 | Notice of errata on opposition filing |
 | 233 | Apr 15, 2026 | Motion for remote appearance at April 21 hearing |
 | 234 | Apr 15, 2026 | Order granting remote appearance (counsel may attend telephonically but "will not be permitted to make any arguments") |
+| 235 | Apr 17, 2026 | Bonnell opposition to Plaintiff's motion for trial continuance |
 
 ## Alleged Timeline
 
@@ -94,6 +107,17 @@ This case is the spine of [[You Can't Sue the Catfish]] — the first piece in t
 
 - [[Rose deposition — Doe v Bonnell]] — sworn third-party testimony undermining the complaint's factual predicate
 - Press context: PacerMonitor docket, WFLA/Yahoo News, Polygon, Dexerto, Dot Esports (see [[Press context — Doe v Bonnell]])
+- [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell's 12(b)(1) jurisdictional attack; establishes April 2022 pre-CARDII transmission as central dispute; documents Abbymc subpoena evasion
+- [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Plaintiff's intertwined-merits counter and Discord CDN reachability theory; contains the false Footnote 2 minor allegation
+- [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — Bonnell's response to Plaintiff's November 3 deposition no-show; seeks coordinated deposition schedule and $10,875 fees
+- [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — Bonnell's Rule 11 motion after Rose deposition confirms Solo catfished him; Plaintiff refused to retract Footnote 2
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — post-discovery MSJ; full record summary including AH deposition, Peña expert concessions, Abbymc failure to produce
+- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — Plaintiff's request to defer MSJ due to outstanding discovery (Bonnell deposition, Göransson/Hague, document deficiencies)
+- [[Doe v Bonnell ECF218 — Bonnell Opposition to Rule 56(d) Motion]] — Bonnell's argument that Plaintiff's own inaction caused all discovery failures; no good cause for deferral
+- [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — three evidentiary exclusion requests for trial: false minor claim, Abbymc evidence, trial-stage pseudonym
+- [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — consent evidence is essential to CARDII elements; Rule 412 inapplicable; Solo evidence needed for timing
+- [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Rose deposition shows Solo shared Bonnell videos with real Rose; Abbymc exclusion improper; CARDII pseudonymity applies at trial
+- [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — Bonnell "ready for trial and eager to clear his name"; Plaintiff estopped; no good cause for continuance
 
 ## Open Questions
 

@@ -4,7 +4,7 @@ type: source
 tags: [crypto, depin, listicle]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 6
 raw: "raw/Crypto media outlet Best 20 projects for massive gains.md"
 source_url: "https://investx.fr/en/crypto-news/crypto-pin-tier-list-top-20-projects-for-massive-gains/"
 author: "Charles Ledoux"

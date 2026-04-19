@@ -4,7 +4,7 @@ type: source
 tags: [crypto, stablecoin, monetary-policy, banking]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 5
 raw: "raw/How stablecoins could affect borrowing costs for the government, businesses and households ABA Banking Journal.md"
 source_url: "https://bankingjournal.aba.com/2025/07/how-stablecoins-could-affect-borrowing-costs-for-the-government-businesses-and-households/"
 author: "ABA Banking Journal Guest Contributor"

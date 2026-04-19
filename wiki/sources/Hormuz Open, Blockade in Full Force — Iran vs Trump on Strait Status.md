@@ -4,7 +4,7 @@ type: source
 tags: [geopolitics, power, energy, infrastructure, iran]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 10
 raw: "raw/Iran says Hormuz Strait \u2018completely open;\u2019 Trump says blockade \u2018in full force\u2019.md"
 source_url: "https://thehill.com/policy/international/5836133-iran-trump-strait-of-hormuz-lebanon-israel-ceasefire/"
 author: "Julia Manchester"

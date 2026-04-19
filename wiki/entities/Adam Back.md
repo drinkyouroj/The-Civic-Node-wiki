@@ -38,6 +38,7 @@ The Satoshi mystery pulls focus back to the [[Cypherpunk Movement]] — the extr
 
 ## Source Appearances
 
+- [[The Cypherpunk Who Filed an S-1]] — primary subject of published article; the S-4 disclosure mechanism as the live compulsion vector
 - [[NYT Names Adam Back as Satoshi Nakamoto — Bitcoin.com Coverage]] — primary subject; NYT's pick for Satoshi identity
 - [[Adam Back Denies Being Satoshi Nakamoto — NYT]] — Back's X denial ("I'm not satoshi"); Blockstream statement; Back's direct quote ("It's not me..."); NYT primary source
 - [[Free PR or Confession — Expert Thinks Adam Back Played the NYT Like a Prospectus — Bitcoin Ethereum News]] — strategic PR angle; photo shoot cooperation; Seyffart quote

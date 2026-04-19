@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, minnesota, legal, ice, federalism]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 12
 raw: "raw/Minnesota sues to obtain evidence in shootings by federal officers during ICE surge.md"
 source_url: "https://www.pbs.org/newshour/nation/minnesota-sues-to-obtain-evidence-in-shootings-by-federal-officers-during-ice-surge"
 author: "PBS NewsHour"

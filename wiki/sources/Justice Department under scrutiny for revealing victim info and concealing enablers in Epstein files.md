@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, epstein, transparency, institutional-gaslighting, doj]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 13
 raw: "raw/Justice Department under scrutiny for revealing victim info and concealing enablers in Epstein files.md"
 source_url: "https://www.cnn.com/2026/02/05/politics/justice-department-under-scrutiny-for-revealing-victim-info-and-concealing-possible-enablers-in-epstein-files"
 author: "CNN"

@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, epstein, transparency, institutional-gaslighting]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 3
+sources: 12
 ---
 
 ## Overview

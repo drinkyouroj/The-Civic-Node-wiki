@@ -4,7 +4,7 @@ type: source
 tags: [crypto, monetary-policy, bitcoin]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 6
 raw: "raw/Northcrypto A Finland based cryptocurrency exchange.md"
 source_url: "https://www.northcrypto.com/learn/blog/monetary-policy-bitcoin"
 author: "Mikko Soon"

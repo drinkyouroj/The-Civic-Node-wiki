@@ -1,0 +1,655 @@
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 1 of 13
+
+
+
+
+                                UNITED STATES DISTRICT COURT
+                                SOUTHERN DISTRICT OF FLORIDA
+
+                                            MIAMI DIVISION
+
+  JANE DOE,                                                     CASE NO: 1:25-cv-20757-JB/Torres
+
+             Plaintiff,
+     v.
+
+  STEVEN K. BONNELL II,
+
+           Defendant.
+  ______________________________/
+
+                 PLAINTIFF JANE DOE’S OPPOSITION TO DEFENDANT’S
+                            OMNIBUS MOTION IN LIMINE
+
+          Plaintiff Jane Doe, by and through her undersigned counsel, hereby opposes Defendant’s
+
+  Motion in Limine (DE 222), and respectfully states as follows:
+
+                                          INTRODUCTION
+
+          Defendant’s Omnibus Motion in Limine (“Motion”) is not a proper evidentiary motion—
+
+  it is an attempt to resolve disputed facts, relitigate issues, and exclude probative evidence through
+
+  procedural shortcuts. The Motion repeatedly seeks exclusion not because the evidence is
+
+  inadmissible, but because Defendant disputes it or failed to develop it in discovery. That is not the
+
+  function of a motion in limine.
+
+          Defendant first seeks to exclude evidence relating to his transmission of sexually explicit
+
+  material to a minor based on a contested factual narrative. But such disputes are for the jury, not a
+
+  basis for pretrial exclusion. He next attempts to exclude testimony and evidence from a non-party
+
+  witness, Abbymc, despite having known of the witness, communicated with her, and served a
+
+  subpoena—yet choosing not to enforce it. Defendant cannot manufacture prejudice through his
+
+  own lack of diligence. Defendant also challenges the admissibility of the Abbymc exhibit on
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 2 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 2
+
+  grounds not raised during the required meet-and-confer process and that fail on the merits. Finally,
+
+  he seeks to strip Plaintiff of pseudonym protections already granted by this Court, despite binding
+
+  Eleventh Circuit authority permitting anonymity through trial where, as here, substantial privacy
+
+  interests outweigh any alleged prejudice.
+
+          At bottom, Defendant’s Motion is an effort to exclude damaging—but admissible—
+
+  evidence and to revisit issues already decided. Because Defendant identifies no valid basis for
+
+  exclusion, the Motion should be denied in its entirety.
+
+                                  ARGUMENT
+
+          A. Evidence Regarding Bonnell’s Disclosure of the Video to a Minor is Relevant,
+             Factually Supported and Not Excludable
+
+          Defendant seeks to exclude any reference to Rose’s status as a minor. This argument rests
+
+  entirely on a disputed factual premise—that Defendant never communicated with or transmitted
+
+  materials to a minor because a third party allegedly controlled the account—and it fails for multiple
+
+  independent reasons: (i) Defendant failed to confer on this issue before seeking relief; ii) the
+
+  evidence is not false, but disputed; (iii) it is relevant; and (iv) it is not excludable under the Rules
+
+  of Evidence.
+
+          First, Defendant’s argument should be rejected for failure to comply with Local Rule
+
+  7.1(a)(3)’s meet-and-confer requirement. During conferral, Defendant stated only that he intended
+
+  to seek exclusion of evidence relating to alleged transmissions to Rose on the ground that such
+
+  conduct predated the CARDII statute and was therefore irrelevant. See Decl. J. Peters. He did not
+
+  raise—let alone meaningfully confer on—the distinct argument advanced in this Motion pertaining
+
+  to Rose’s age. “Failure to confer or to show a good-faith attempt to confer, by itself, constitutes
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 3 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 3
+
+  grounds for the motion to be denied.” Alequin v. Darden Rests., Inc., No. 12-61742-CIV, 2013
+
+  U.S. Dist. LEXIS 99458, at *31 (S.D. Fla. July 12, 2013)(citation omitted).
+
+           Second, the record demonstrates that the factual premise underlying Defendant’s Motion
+
+  is hotly disputed and cannot be resolved through a motion in limine. See, e.g., Allen v. First Unum
+
+  Life Ins. Co., No. 2:18-cv-00069-JES-MRM, 2022 U.S. Dist. LEXIS 30918, at *19 (M.D. Fla. Feb.
+
+  22, 2022) ("[A] motion in limine should not be used to resolve factual disputes or weigh
+
+  evidence."). Defendant’s Motion, as well as his related Rule 11 Motion [ECF 183], conveniently
+
+  omit that Rose testified that Solo shared with her the materials Bonnell sent to Rose through the
+
+  Discord account. See ECF 185, 185-2, at 35(12-16); 36(5-10); and at 36(11-15) (Rose admitting
+
+  she was shown “a handful of videos that Destiny sent” via the “impostor” account). Rose also
+
+  testified that Solo shared with her the Discord messages exchanged with Bonnell, id., 81 (5-8), and
+
+  that she knew that the explicit images and videos that she took of herself (and with other
+
+  individuals) would be provided to Bonnell, id., 81-82. Thus, the facts demonstrate that Bonnell
+
+  intended to send the Video to Rose, a minor; that he sent the Video and other sexually explicit
+
+  videos to an account in her name; and that Rose received at least “a handful” of those videos,
+
+  including possibly the Video.1 Based on these facts, the assertion that Bonnell shared the Video
+
+  with an underage girl is not false. Simply put, the fact that Solo acted as a go-between, or controlled
+
+  Rose’s account, does not render the assertion that Bonnell shared the Video with a minor false.
+
+           Third, Defendant’s “catfishing” theory does not render the evidence irrelevant. Even
+
+  accepting Defendant’s characterization for purposes of argument, the evidence remains probative
+
+
+
+
+  1
+   Rose further testified that she does not know the Plaintiff. Id., at 36(19-21). This is important because, if Rose does
+  not know the Plaintiff, she could not know one way or another whether one of the “handful of videos that Destiny
+  sent” depicted Plaintiff.
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 4 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 4
+
+  of (i) Defendant’s knowledge, intent, and absence of mistake in engaging in sexually explicit
+
+  exchanges; (ii) the nature and scope of his online conduct; and (iii) the foreseeability and risk
+
+  inherent in disseminating intimate material in anonymous online environments. See Fed. R. Evid.
+
+  404(b)(2). Courts routinely admit such evidence for these non-propensity purposes, and
+
+  Defendant’s attempt to recast it as categorically irrelevant improperly collapses a merits dispute
+
+  into an evidentiary bar.
+
+         This is also where Plaintiff’s own Motion in Limine to exclude the “catfishing defense” is
+
+  fully consistent—not contradictory. [ECF 224]. Plaintiff’s position is not that the factual
+
+  circumstances surrounding Rose’s Discord account are irrelevant; rather, it is that Defendant
+
+  should be precluded from using an unsubstantiated “catfishing” narrative as an affirmative defense
+
+  to avoid liability. Even if the Court permits Defendant to present that theory, it does not follow
+
+  that Plaintiff must be precluded from introducing the underlying evidence—including Rose’s
+
+  minority—that gives context to those same events. In other words, Defendant cannot
+
+  simultaneously rely on the circumstances of the exchange while shielding the jury from a probative
+
+  and consequential aspect of those circumstances.
+
+         Furthermore, Defendant’s own framing confirms relevance. His Rule 11 motion repeatedly
+
+  acknowledges that the dispute centers on whether he “exchanged sexually explicit material with a
+
+  minor” and whether that allegation is “false” or “irrelevant.” [ECF 183]. That is not an argument
+
+  for exclusion—it is an argument on the merits. And as Plaintiff has already demonstrated, Rule 11
+
+  (and by extension a motion in limine) cannot be used to resolve disputed factual issues or to strike
+
+  evidence simply because Defendant contests Plaintiff’s interpretation of it. See ECF 185.
+
+         Fourth, Rule 403 does not support exclusion. Defendant’s argument is premised on the
+
+  notion that reference to Rose’s age is inherently prejudicial. But the Eleventh Circuit makes clear
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 5 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 5
+
+  that Rule 403 excludes only unfair prejudice, not evidence that is merely damaging. See Goldsmith
+
+  v. Bagby Elevator Co., 513 F.3d 1261, 1285 (11th Cir. 2008). Here, any prejudice flows directly
+
+  from the probative force of the evidence—namely, that Defendant engaged in conduct involving
+
+  an individual who was, in fact, under 18 at the relevant time. That is not a proper basis for
+
+  exclusion. To the extent the Court has any concern, it can be addressed through a limiting
+
+  instruction rather than wholesale exclusion. It is well-settled that a curative instruction ordinarily
+
+  resolves any concerns of prejudice. § 404:5 Rule 404(b)(2): crimes, wrongs or other acts, 3
+
+  Handbook of Fed. Evid. § 404:5 (9th ed.) (citing Rules 105, 103(e)).
+
+         For these reasons, Defendant’s request to exclude all evidence relating to Rose’s age should
+
+  be denied.
+
+         B. Defendant Cannot Exclude Abbymc Evidence Based on His Own Failure to
+            Pursue Discovery or a Non-Party’s Alleged Noncompliance With a Subpoena
+
+         Defendant seeks to exclude evidence relating to Abbymc on the grounds that Plaintiff’s
+
+  counsel allegedly obstructed his ability to obtain discovery, and that the witness failed to comply
+
+  with a subpoena. These arguments provide no valid basis for exclusion. First, the underlying
+
+  factual assertions are incorrect. Second, the governing law does not support the requested relief.
+
+         The relevant facts are straightforward: (i) Abbymc is a non-party witness not under
+
+  Plaintiff’s control; (ii) Abbymc has never been represented by Plaintiff’s counsel in this matter;
+
+  (iii) Plaintiff did not obstruct Defendant’s access to Abbymc; (iv) Defendant served Abbymc with
+
+  a subpoena duces tecum approximately one month before the discovery deadline; and (v)
+
+  Defendant failed to move to compel, seek contempt, or otherwise enforce the subpoena. Having
+
+  failed to pursue available enforcement mechanisms, Defendant cannot now rely on his own lack
+
+  of diligence as a basis to exclude otherwise admissible evidence or to claim prejudice.
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 6 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 6
+
+         First, the assertion that Plaintiff’s counsel obstructed access to non-party witness Abbymc
+
+  is demonstrably false. Plaintiff identified Abbymc in her initial disclosures on April 4, 2025 (see
+
+  Decl. J. Peters), submitted her declaration on May 2, 2025 [ECF 49-2] and supporting evidence on
+
+  June 2, 2025 [ECF 86], thereby placing Defendant on notice of both her identity and the substance
+
+  of her anticipated testimony. Moreover, this was not a non-party witness unknown to the
+
+  Defendant: Defendant had an intimate relationship with Abbymc commencing in early May 2023,
+
+  and had on-going communications with her well after the initiation of the suit and at least as
+
+  recently as May 2025. (See Abbymc Decl., ECF 49-2; Decl. J. Peters). Indeed, Defendant knew
+
+  Abbymc for years before the Plaintiff did. Plaintiff’s counsel provided Abbymc’s contact
+
+  information as it became available to them (id.), which is all that FRCP 26 requires. Indeed,
+
+  Abbymc was apparently homeless for an extended period of time and thus there was no address to
+
+  provide. And contrary to Defendant’s false claim, Plaintiff never provided a “fake” address for
+
+  Abbymc. (Id.)
+
+         Second, Defendant’s assertion that Plaintiff’s counsel refused to accept service of the
+
+  subpoena on behalf of their “client” is also false. Plaintiff’s counsel expressly advised that they
+
+  did not represent Abbymc for purposes of service and were not authorized to accept a subpoena
+
+  on her behalf. (Id.). Defendant is falsely characterizing Abbymc as a client, when in fact she was
+
+  a non-party witness not under Plaintiff’s control. Defendant’s insinuation that Plaintiff’s counsel
+
+  advised Abbymc to evade service is also false. (Id. See also, ECF 139).
+
+         Third, the undisputed fact is that Defendant successfully served Abbymc with a subpoena
+
+  duces tecum on November 21, 2025, almost a full month before the discovery deadline. [ECF 212-
+
+  10]. When Abbymc, a non-party outside of Plaintiff’s control, failed to comply, the Federal Rules
+
+  provided Defendant with specific remedies – namely, a motion to compel, or for contempt.,
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 7 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 7
+
+  Defendant pursued none of them. Additionally, Defendant aggressively objected to Plaintiff’s
+
+  motion to extend the discovery deadline, thereby choosing to foreclose any further opportunity to
+
+  pursue a subpoena response. [ECF 196]. Nor did Defendant ever attempt to subpoena Abbymc for
+
+  a deposition. Having failed to enforce his own subpoena, Defendant cannot now seek the
+
+  extraordinary sanction of excluding admissible evidence or shift the consequences of his lack of
+
+  diligence onto Plaintiff. A motion in limine is not a substitute for a motion to compel.
+
+         Courts routinely reject attempts to claim prejudice under these circumstances. In Go Mobile
+
+  Flooring, LLC v. Blue Banyan Solutions, Inc., the court held that any alleged prejudice was “’at
+
+  least partially the result of Defendants’ own failure to bring the issue … before the Court at an
+
+  earlier time,’” and rejected attempts to raise the issue after discovery closed. 663 F. Supp. 3d 1294,
+
+  1306 (M.D. Fla. 2023)(citation omitted). Likewise here, Defendant “simply waited to cry prejudice
+
+  after discovery closed and the case was set for trial.” Id. Defendant never moved to compel, never
+
+  sought Court intervention, and instead waited to raise “obstacles” only after the fact. A party
+
+  cannot manufacture prejudice through inaction and then use that purported prejudice as a basis to
+
+  exclude evidence.
+
+         Defendant’s reliance on cases addressing exclusion for failure to disclose or inability to
+
+  depose a witness is misplaced. Those cases turn on circumstances where the opposing party was
+
+  genuinely deprived of the opportunity to obtain discovery—such as where disclosures were made
+
+  after the close of discovery or where court-imposed limitations prevented depositions. See, e.g.,
+
+  Treminio v. Crowley Mar. Corp., No. 3:22-cv-00174-CRK, 2023 WL 8114403, at *5 (M.D. Fla.
+
+  Nov. 22, 2023) (disclosure of required information occurred over a month after close of discovery);
+
+  Henriquez v. Total Bike, LLC, No. 13-20417-CIV, 2013 WL 6834656, at *6 (S.D. Fla. Dec. 23,
+
+  2013)(excluding evidence because due to “the Court's limitation of the extent and scope of
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 8 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 8
+
+  discovery, Defendants were not able to depose or cross-examine the two non-party witnesses”).
+
+  That is not the situation here, where there were no Court-imposed limitations, Defendant knew the
+
+  witness, communicated with her, and had the ability to pursue discovery, yet chose not to do so.
+
+         Nor is there any basis to attribute the alleged subpoena issues to Plaintiff. The Federal
+
+  Rules do not require counsel to accept service for nonparties, nor do they impose any obligation
+
+  on Plaintiff to ensure a nonparty’s compliance with a subpoena.
+
+         In sum, Defendant had actual knowledge of the witness, her identity, and her relevance,
+
+  directly communicated with her, and served her well before the discovery deadline. There is no
+
+  surprise and no unfair prejudice. Ultimately, Defendant’s argument reduces to a claim that he
+
+  should benefit from discovery he chose not to pursue. Defendant cannot now recast his lack of
+
+  diligence as obstruction by Plaintiff or as grounds to exclude probative evidence. The motion
+
+  should be denied.
+
+         C. The Abbymc Exhibit is Admissible
+
+         Defendant moves in limine to exclude the Abbymc exhibit on authentication, hearsay, and
+
+  Rule 403 grounds. The motion should be denied for two separate and independent reason: i)
+
+  Defendant failed to comply with Local Rule 7.1’s conferral requirement, and ii) he cannot meet
+
+  the high standard required to exclude evidence before trial.
+
+         As an initial matter, Defendant’s motion should be denied because he failed to raise
+
+  authentication, hearsay, or Rule 403 arguments regarding the Abbymc exhibit during conferral.
+
+  See Decl. J. Peters. On this basis alone, Defendant’s motion should be denied. See, e.g., Alequin
+
+  2013 U.S. Dist. LEXIS 99458, at *31.
+
+         Even setting that procedural failure aside, Defendant’s motion fails on the merits. First, the
+
+  exhibit is properly authenticated. The Eleventh Circuit makes clear that the burden to authenticate
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 9 of 13
+
+  DOE v BONNELL
+  CASE NO: 1:25-cv-20757-JB/Torres
+  Page 9
+
+  evidence is “not high” and requires only a prima facie showing that the evidence is what it purports
+
+  to be. United States v. Caldwell, 776 F.2d 989, 1001 (11th Cir. 1985). That standard is satisfied
+
+  through testimony of a witness with personal knowledge or through the item’s distinctive
+
+  characteristics. See Fed. R. Evid. 901(b)(1), (4).
+
+         Here, Abbymc attested under penalty of perjury that she personally sent the message
+
+  reflected in the exhibit and retained copies of those communications. Her declaration further
+
+  describes the same contemporaneous communication to a friend regarding Defendant’s
+
+  transmission of sexually explicit videos on or about November 3, 2023. ECF 49-2, ¶ 7. The
+
+  Abbymc exhibit [ECF 86-1] corresponds directly to that testimony and therefore meets Rule 901’s
+
+  threshold. See also United States v. Lanzon, 639 F.3d 1293, 1301–02 (11th Cir. 2011)
+
+  (authentication satisfied by testimony and contextual indicia of online communications). Any
+
+  remaining disputes go to weight, not admissibility.
+
+         Second, the exhibit is not inadmissible hearsay. Defendant incorrectly assumes the message
+
+  is offered solely for the truth of the matter asserted. It is independently admissible to corroborate
+
+  Abbymc’s sworn testimony that Defendant transmitted sexually explicit material to her. (See ECF
+
+  49-2, ¶¶ 6–7). At minimum, the statement qualifies as a prior consistent statement to rebut
+
+  Defendant’s insinuation of fabrication. Fed. R. Evid. 801(d)(1)(B). It is also admissible as a
+
+  contemporaneous statement reflecting the declarant’s perception. Fed. R. Evid. 803(1).
+
+         Third, the exhibit has substantial probative value. It directly corroborates sworn testimony
+
+  regarding Defendant’s transmission of sexually explicit videos. As Plaintiff previously explained,
+
+  the exhibit “directly corroborates the testimony of Abbymc.” [ECF 86]. Defendant’s complaints
+
+  about ambiguity or lack of context are matters for cross-examination, not exclusion.
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 10 of 13
+
+   DOE v BONNELL
+   CASE NO: 1:25-cv-20757-JB/Torres
+   Page 10
+
+             For all of these reasons, Defendant’s motion to exclude the Abbymc exhibit should be
+
+   denied.
+
+             D. Defendant’s Motion in Limine to Bar Plaintiff from Proceeding Under a
+                Pseudonym Should be Denied
+
+             Defendant’s request to prohibit Plaintiff from proceeding under a pseudonym at trial should
+
+   be denied. The Court has already granted Plaintiff leave to proceed anonymously upon a finding
+
+   of good cause [ECF 7], and Defendant offers no basis to revisit that ruling—let alone satisfy the
+
+   demanding standard required to strip those protections at the eve of trial. This action arises from
+
+   the non-consensual disclosure of sexually explicit material—allegations that involve matters of the
+
+   utmost intimacy and carry a significant risk of further harm if Plaintiff’s identity is publicly
+
+   disclosed. The CARDII statute itself offers pseudonymity to protect such privacy rights. See 15
+
+   U.S.C. § 6851(b)(3)(B)).
+
+             The Court’s Order contains no limitation to pretrial proceedings, and Defendant has neither
+
+   cited authority imposing such a limitation nor moved to modify or dissolve the Order. See ECF 7.
+
+   To the contrary, the Court has consistently enforced anonymity protections throughout this case,
+
+   including through a Protective Order [ECF 116] and multiple sealing orders [ECF Nos. 75, 121,
+
+   123–125]. Defendant’s attempt to undo those protections through a motion in limine is
+
+   procedurally improper.
+
+             Nor can Defendant meet his burden to revisit that determination. The Eleventh Circuit has
+
+   expressly rejected the premise underlying Defendant’s motion— that pseudonymity is
+
+   inappropriate or “must” be revisited at trial. In Doe v. Neverson, the court held it was error to
+
+   assume a plaintiff could not proceed under a pseudonym at trial, reaffirming that anonymity may
+
+   continue through trial where the balance of interests so warrants. 820 Fed. App’x 984 (11th Cir.
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 11 of 13
+
+   DOE v BONNELL
+   CASE NO: 1:25-cv-20757-JB/Torres
+   Page 11
+
+   2020)(reversing denial of pseudonymity). The inquiry remains a totality-of-the-circumstances
+
+   analysis, under which anonymity is appropriate where substantial privacy interests outweigh the
+
+   presumption of openness. Id. That standard is readily satisfied here.
+
+            The record reflects concrete—not speculative—risks of harm. Defendant has repeatedly
+
+   used his online platform to publicize this case, disclose sensitive information, and target Plaintiff,
+
+   her counsel, and witnesses. Witnesses have expressed fear of retaliation and reluctance to
+
+   participate absent confidentiality protections, and Defendant has publicly disclosed Plaintiff’s
+
+   identity despite Court-ordered protections. See ECF Nos. 84, 84-1, 86, 88, 98, 104, 105, 114. These
+
+   facts present precisely the type of harassment and stigma concerns the Eleventh Circuit has held
+
+   justify pseudonymity. See Neverson, 820 F. App’x at 988.
+
+            Defendant’s prejudice argument is equally unavailing. The relevant question is whether
+
+   anonymity creates a “unique threat of fundamental unfairness”—not whether it creates any abstract
+
+   disadvantage. Plaintiff B v. Francis, 631 F.3d 1310, 1316–18 (11th Cir. 2011) (reversing denial of
+
+   pseudonymity). Defendant identifies none. He has long known Plaintiff’s identity and has had a
+
+   full opportunity to conduct discovery and prepare his defense. His assertion that pseudonymity
+
+   suggests Plaintiff is a “victim” improperly reframes the issue. (Mot., 7)2. Plaintiff seeks anonymity
+
+   to prevent further harm, not to gain a litigation advantage. Anonymity does not create unfairness
+
+   where Defendant can fully defend the case—it simply mitigates the risk of additional injury.
+
+            Defendant’s argument based on Plaintiff’s alleged public conduct fares no better. It is both
+
+   overstated and irrelevant. Plaintiff has consistently sought to protect her identity and, in the limited
+
+
+
+   2
+     Defendant further attempts to claim prejudice by asserting that Plaintiff accused him of “despicable conduct and
+   breaking the law, destroying [his] reputation in the process.” Id. 7-8. Defendant’s argument collapses under its own
+   premise: Plaintiff is the victim, and Defendant has admitted to his “despicable conduct,” which is a violation of the
+   law, thus he destroyed his own reputation.
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 12 of 13
+
+   DOE v BONNELL
+   CASE NO: 1:25-cv-20757-JB/Torres
+   Page 12
+
+   instances she has posted on social media, has done so under the screen name “Pxie”—not her
+
+   legal name. The limited instances Defendant cites do not establish any public disclosure of
+
+   Plaintiff’s legal identity, nor do they constitute a waiver of her right to proceed pseudonymously
+
+   in this action.
+
+           Defendant’s reliance on cases suggesting pseudonymity may be revisited at trial is
+
+   misplaced.3 Those decisions do not mandate disclosure; they simply recognize judicial discretion
+
+   to reassess anonymity where appropriate. See, e.g., S.Y. v. Jay Varahimata Invs., LLC, 2021 U.S.
+
+   Dist. LEXIS 139036 (M.D. Fla. June 11, 2021) (permitting a sex trafficking plaintiff to proceed
+
+   pseudonymously during the litigation upon a showing of privacy interests and risk of harm).
+
+   Likewise, Defendant’s reliance on In re Chiquita Brands Int’l, Inc., 965 F.3d 1238, 1248 (11th Cir.
+
+   2020) is inapposite. The Neverson court specifically distinguished Chiquita on the basis that it
+
+   involved “hundreds of plaintiffs [who] had litigated under their true names for over a decade,”
+
+   without any evidence of harm—circumstances wholly absent here. 820 Fed. Appx. 984, 988. Here,
+
+   by contrast, Plaintiff was granted pseudonym status at the outset, the CARDII statute specifically
+
+   provides for it, the claims involve highly sensitive sexually explicit subject matter, and the record
+
+   reflects concrete risks of harm. The balance decisively favors maintaining the protections already
+
+   in place.
+
+           Finally, to the extent the Court determines that additional measures are necessary, Plaintiff
+
+   respectfully requests alternative relief, including narrowly tailored restrictions on public access to
+
+   proceedings or identifying information, to prevent further harassment, intimidation, and prejudice
+
+   to the integrity of the trial.
+
+
+   3
+    Defendant’s Motion relies on S.Y. v. Seasonal Invs., Inc., No. 20-cv-603-JES-MRM, 2021 WL 4822627, at *6 (M.D.
+   Fla. June 11, 2021), but this case does not exist.
+Case 1:25-cv-20757-JB Document 231 Entered on FLSD Docket 04/13/2026 Page 13 of 13
+
+   DOE v BONNELL
+   CASE NO: 1:25-cv-20757-JB/Torres
+   Page 13
+
+                                         CONCLUSION
+
+          For the foregoing reasons, Plaintiff respectfully requests that the Court deny Defendant’s
+
+   Omnibus Motion in Limine.
+
+          Date: April 13, 2026
+
+
+   JSP LAW, LLC                                  SANCHEZ-MEDINA GONZALEZ
+   Joan Schlump Peters                           LAGE GOMEZ & MACHADO, LLP
+   (admitted pro hac vice)                       CARLOS A. GARCIA PEREZ
+   838 Neapolitan Way, #91                       Florida Bar No. 106895
+   Naples, FL 34103                              GUSTAVO D. LAGE
+   Tel. 305-299-4759                             Florida Bar No. 972551
+   Email: petersjoan@bellsouth.net               201 Alhambra Circle, Suite 1205
+                                                 Coral Gables, Florida, 33134
+                                                 Tel.: (305) 377-1000
+                                                 Primary E-Mail: cgarciaperez@smgqlaw.com
+                                                 Primary E-Mail: glage@smgqlaw.com
+                                                 Counsels for Plaintiff
+
+                                                       /s/ Carlos A. Garcia Perez
+                                                 By:_________________________________
+                                                       CARLOS A. GARCIA PEREZ
+                                                       Attorney for Plaintiff
+
+
+                                 CERTIFICATE OF SERVICE
+
+          I HEREBY CERTIFY that on April 13, 2026 a true and correct copy of the foregoing was
+
+   served on all parties via the CM/ECF filing portal to all counsel of record.
+
+
+                                                        By: /s/ Carlos A. Garcia Perez
+
+                                                        CARLOS A. GARCIA PEREZ
+                                                        Attorney for Plaintiff
+

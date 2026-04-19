@@ -4,7 +4,7 @@ type: concept
 tags: [technology, game-design, cooperation, algorithmic-governance]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 2
+sources: 5
 ---
 
 ## Definition

@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, platform-governance, algorithmic-incentives, primary-source]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 6
 raw: "raw/Google Search Quality Evaluator Guidelines, September 2025.md"
 source_url: "https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf"
 author: "Google LLC"

@@ -5,7 +5,7 @@ entity_type: asset
 tags: [technology, game-design, culture, cooperation]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 2
+sources: 7
 ---
 
 ## Overview

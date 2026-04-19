@@ -4,7 +4,7 @@ type: source
 tags: [legal, politics, power, corporate-personhood, campaign-finance]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 11
 raw: "raw/Citizens United v. Federal Election Commission, 558 U.S. 310 (2010) Case Brief Summary.md"
 source_url: "https://www.quimbee.com/cases/citizens-united-v-federal-election-commission"
 author: "Quimbee"

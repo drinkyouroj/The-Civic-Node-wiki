@@ -4,7 +4,7 @@ type: source
 tags: [geopolitics, power, iran, war, diplomacy]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 11
 raw: "raw/Trump threatens \u2018bigger, stronger\u2019 attacks if Iran doesn\u2019t make \u2018real\u2019 agreement.md"
 source_url: "https://www.the-independent.com/news/world/americas/us-politics/trump-iran-us-war-ceasefire-b2954276.html"
 author: "Owen Scott"

@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
 updated: 2026-04-17
-sources: 52
+sources: 48
 ---
 
 ## Overview

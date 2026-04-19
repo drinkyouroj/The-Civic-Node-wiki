@@ -5,7 +5,7 @@ entity_type: country
 tags: [geopolitics, middle-east, infrastructure, displacement]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 2
+sources: 6
 ---
 
 ## Overview

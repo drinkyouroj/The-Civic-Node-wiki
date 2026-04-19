@@ -4,7 +4,7 @@ type: source
 tags: [legal, rights-of-nature, ai-personhood, power, infrastructure, biocultural-rights]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 12
 raw: "raw/I. ANTECEDENTES.md"
 source_url: "https://www.corteconstitucional.gov.co/relatoria/2016/t-622-16.htm"
 author: "Corte Constitucional de Colombia"

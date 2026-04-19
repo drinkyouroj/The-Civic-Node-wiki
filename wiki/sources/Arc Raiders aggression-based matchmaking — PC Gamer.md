@@ -4,7 +4,7 @@ type: source
 tags: [technology, game-design, cooperation, culture, power]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 8
 raw: "raw/Arc Raiders' contentious 'aggression-based matchmaking' isn't just smart, but absolutely necessary.md"
 source_url: "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-contentious-aggression-based-matchmaking-isnt-just-smart-but-absolutely-necessary/"
 author: "Morgan Park"

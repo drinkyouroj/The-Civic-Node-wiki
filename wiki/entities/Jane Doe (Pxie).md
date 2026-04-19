@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [streamer, ncii-plaintiff, destiny, legal]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 2
+updated: 2026-04-18
+sources: 18
 ---
 
 ## Overview
@@ -40,9 +40,23 @@ Pxie is the person the statute was designed to protect, and she is suing the onl
 ## Source Appearances
 
 - [[Rose deposition — Doe v Bonnell]] — establishes Rose was not a party to her own impersonation, complicating but not eliminating Pxie's theory of Destiny's culpability
+- [[Pxie Substack: 'I will be suing Steven Kenneth Bonnell II']] — Pxie's own public announcement; describes learning of leak Nov 29, 2024; states month of legal consultations before filing; raises "proxy" theory of distribution; launches GiveSendGo fundraiser
+- [[Florida streamer Destiny sued over cyber sexual harassment: court documents]] — early mainstream press coverage summarizing her complaint's allegations
+- [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell's MTD argues her case fails for lack of CARDII jurisdiction; her evidence characterized as insufficient
+- [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — her attorneys advance the intertwined-merits doctrine and the CDN reachability theory; contains the false Footnote 2 minor allegation
+- [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — her deposition no-show (Nov 3, 2025) is the central event; Bonnell seeks sanctions
+- [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — Bonnell targets her counsel's filing of the false minor allegation; she declines to retract
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — she admitted at the June 3, 2025 hearing she had no post-CARDII transmission evidence; Bonnell cites this as dispositive
+- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — she seeks deferral of MSJ citing outstanding depositions and Hague Convention discovery; reports Bonnell's document production was deficient
+- [[Doe v Bonnell ECF218 — Bonnell Opposition to Rule 56(d) Motion]] — Bonnell argues her own procedural failures foreclose Rule 56(d) relief
+- [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — Bonnell seeks to strip her trial pseudonym; she opposes
+- [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — her MIL exclusion requests contested; Judge Torres's symmetry observation cited (she also distributed a video of an ex)
+- [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — her counsel argues Rose deposition confirms minor-age context, Abbymc exclusion improper, CARDII § 6851(b)(3)(B) pseudonymity applies at trial
+- [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — her continuance motion (ECF 227) is opposed; Bonnell argues she is estopped and failed to show good cause
 
 ## Open Questions
 
 - What specifically is the theory of Destiny's knowledge state at the time of the October 2022 share? Did he know "Rose" was a stranger, a fan, a catfish, or something else?
-- Has plaintiff pursued any discovery mechanism to reach Solo in the UK?
-- What is the content of the pseudonym-at-trial dispute (ECF 231 / defense's motion in limine)?
+- Has the court ruled on the continuance motion (hearing: April 21, 2026)?
+- Will the pseudonym be maintained through trial under the CARDII statute?
+- What is the status of the Hague Convention request directed at Melina Göransson in Sweden?

@@ -4,7 +4,7 @@ type: source
 tags: [technology, media, marketing, algorithmic-incentives, ai]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 9
 raw: "raw/Social Media Algorithm and How They Work in 2025 Sprinklr.md"
 source_url: "https://www.sprinklr.com/blog/social-media-algorithm/"
 author: "Ankita Srivastava"

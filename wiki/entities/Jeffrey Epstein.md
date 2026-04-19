@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, criminal, legal]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 8
+updated: 2026-04-18
+sources: 10
 ---
 
 ## Overview
@@ -21,7 +21,9 @@ Jeffrey Epstein (1953–2019) was a financier and convicted sex offender who bui
 - Epstein files may not be released in full until after Trump leaves office [[Epstein files might not be released in full until after Trump leaves office]]
 - Half of Americans think Trump is covering up Epstein crimes — polling [[Half of Americans think Donald Trump is trying to cover up Jeffrey Epstein's crimes]]
 - Sen. Whitehouse called Epstein probe "enormous step forward" [[Sen. Whitehouse on Congress enormous step forward with Epstein probe]]
-- DOJ's January 30, 2026 release of 3.5M pages revealed an inverted redaction pattern — victim identities exposed, enabler names shielded — drawing bipartisan condemnation from Khanna, Massie, Raskin, and Schumer [[Justice Department under scrutiny for revealing victim info and concealing enablers in Epstein files]]
+- **January 30, 2026 release**: 3.5 million pages of ~6 million identified; DOJ withheld ~200,000 pages under attorney-client privilege and work-product doctrine; inverted redaction pattern — victim names/addresses exposed while alleged enabler names concealed [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]]
+- Bipartisan condemnation: [[Ro Khanna]] and [[Thomas Massie]] (co-authors of Epstein Files Transparency Act) both said DOJ violated the law; Massie: release "grossly fails to comply with both the spirit and the letter of the law" [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]]
+- Near-100 victims had personal information improperly disclosed; DOJ reached settlement with survivors' lawyers to avoid federal court hearing [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]]
 
 ## Newsletter Relevance
 The Epstein files case is a slow-motion transparency crisis: a bipartisan law, a statutory deadline, a missed deadline, a Christmas Eve "discovery" of a million new documents. This is [[Institutional Gaslighting]] at the document management level — each delay is procedurally defensible while the cumulative effect is indefinite suppression.
@@ -40,6 +42,7 @@ The Epstein files case is a slow-motion transparency crisis: a bipartisan law, a
 - [[For Trump, the Epstein Cover-Up Beats the Truth]] — argument that Pam Bondi's Day 1 letter demanding files proves Trump is deliberately suppressing them
 - [[With few Epstein files released, conspiracy theories flourish]] — NPR overview of file release status; 40K released, 1M+ remaining; forged documents in the released set; no FBI witness interview memos released
 - [[Sen. Whitehouse on Congress enormous step forward with Epstein probe]] — House Oversight subpoenaed Les Wexner and estate executors
+- [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]] — CNN; January 30 release; inverted redaction; bipartisan condemnation
 
 ## Open Questions
 - What is actually in the files? Has any released content produced new revelations about named individuals?

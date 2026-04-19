@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, legal, platform-antitrust, power]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 7
 raw: "raw/Microsoft sued over secret deal with OpenAI.md"
 source_url: "https://www.computing.co.uk/news/2025/legislation-regulation/microsoft-sued-over-secret-deal-with-openai"
 author: "Dev Kundaliya"

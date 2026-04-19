@@ -4,7 +4,7 @@ type: concept
 tags: [politics, legal, federalism, power]
 created: 2026-04-09
 updated: 2026-04-17
-sources: 4
+sources: 9
 ---
 
 ## Definition

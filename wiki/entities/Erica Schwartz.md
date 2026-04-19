@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, public-health, trump-administration]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 3
 ---
 
 ## Overview

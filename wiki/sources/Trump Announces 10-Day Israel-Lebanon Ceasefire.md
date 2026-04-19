@@ -4,7 +4,7 @@ type: source
 tags: [geopolitics, power, iran, diplomacy, middle-east]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 7
 raw: "raw/Trump says Israel and Lebanon have agreed to a ceasefire.md"
 source_url: "https://www.npr.org/2026/04/16/nx-s1-5787777/trump-says-israel-and-lebanon-have-agreed-to-a-ceasefire"
 author: "Kat Lonsdorf"

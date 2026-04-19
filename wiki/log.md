@@ -5,6 +5,44 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-18] ingest | Doe v Bonnell ECF 23 scheduling order + v3 draft of "The Process Is the Punishment"
+
+ECF 23 (Judge Becerra's April 3, 2025 scheduling order) ingested as new source page. Locks in May 18, 2026 trial, December 16, 2025 discovery cutoff, January 30, 2026 dispositive motion deadline. Continuance must be filed ≥30 days before trial. This is the baseline scheduling order against which ECF 227 (plaintiff's April 8, 2026 continuance motion) and ECF 235 (Bonnell opposition) are measured.
+
+Also: wrote v3 of [[the-process-is-the-punishment]] at `workspace/drafts/the-process-is-the-punishment-v3.md`. Softened three claims flagged by fact-check as unverifiable from public sources (Nov 20 DeLaguna tweet — account deleted; Dec 17 deposition date — not in wiki sources; Oct 2 fake-address date — not cleanly sourced). Added ECF 23 citation for ten-month discovery claim and May 18 trial date.
+
+## [2026-04-18] ingest | Bulk ingest — Destiny ECF docket, Minnesota/ICE accountability, misc raw sources
+
+Comprehensive clean-up ingest across three content clusters, plus one new published article filed to wiki. 32 new source pages, 4 new entity pages, 1 new concept page, 1 new article page. Index updated to 503 sources, 191 entities, 121 concepts, 86 articles.
+
+**Published article (1):**
+- [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026 nonfiction; Adam Back's SPAC merger as the first SEC disclosure vector that may force the Satoshi identity question; article page filed to `wiki/articles/`. Adam Back entity page updated.
+
+**Doe v. Bonnell ECF docket (11 source pages):**
+Full pre-trial motion record (Sep 2025–Apr 2026) now in the wiki. ECF132 (MTD/jurisdiction), ECF139 (plaintiff MTD opposition, false minor footnote), ECF163 (protective order), ECF183 (Rule 11 sanctions), ECF210 (MSJ), ECF216 (plaintiff Rule 56(d) deferral), ECF218 (Bonnell opposition to Rule 56(d)), ECF222 (omnibus MIL), ECF230 (Bonnell MIL opposition), ECF231 (plaintiff MIL opposition — novel catfish-intermediary liability argument), ECF235 (Bonnell continuance opposition).
+Updated: [[Doe v. Bonnell (1-25-cv-20757)]] (sources 2→13), [[Steven K. Bonnell II]] (sources 2→13), [[Jane Doe (Pxie)]] (sources 2→13), [[Solo (Ben Conway)]] (sources 1→8), [[Rose (AH)]] (sources 1→5), [[Reachability Routing]] (sources 1→5), [[Catfishing as Legal Gap]] (sources 1→6).
+
+**Destiny news and reference files (4 source pages):**
+- [[wfla-destiny-sued-cyber-sexual-harassment]] — WFLA Feb 2025 first mainstream coverage
+- [[pxie-substack-lawsuit-announcement-2025-01-20]] — Pxie's own announcement; "proxy" distribution theory
+- [[lauren-delaguna-x-admission-2025-12]] — DeLaguna Nov–Dec 2025 X posts; confirmed vs. unconfirmed allegations separated
+- [[destiny-wiki-lauren-delaguna]] — Fan wiki biography; independent of filings
+Updated: [[lauren-de-laguna]] (sources 1→3), [[joan-peters]] (sources 1→2).
+
+**Minnesota/ICE accountability cluster (11 source pages):**
+- Todd Lyons resignation, MN legal battle, MN prosecutors charge Morgan, MN sues for evidence, When Can States Prosecute Federal Agents, When the Federal Government Blocks State Murder Investigations, Judge Cannon blocks Jack Smith report, Judge halts White House ballroom, DOJ inverted-redaction Epstein coverage, House FISA 10-day stopgap, Trump CDC nomination.
+New entities: [[Todd Lyons]], [[Mary Moriarty]], [[Gregory Donnell Morgan]], [[Aileen Cannon]].
+New concept: [[Supremacy Clause Immunity]] — full doctrinal analysis of *In re Neagle*, defensive immunity expansion, and pardon firewall.
+Updated: [[Institutional Gaslighting]] (sources 28→36), [[Operation Metro Surge]] (sources 27→32), [[Federal Immunity Above Constitutional Law]], [[Toothless Transparency Laws]], [[Jeffrey Epstein]], [[Jack Smith]], [[Keith Ellison]].
+
+**Iran / Geopolitics (3 source pages):** Hormuz "completely open" / Trump blockade stance (Apr 17), Iran-US war live blog (Apr 17–18), Israel-Lebanon 10-day ceasefire (Apr 16).
+
+**NFL Seahawks (2 source pages):** Week 18 vs 49ers betting preview, Super Bowl LX game recap (Walker 135-yd MVP, Macdonald scheme, Myers record 5 FGs).
+
+**Social media (1 source page):** Social media algorithm changes 2025 (Touchstone Digital).
+
+---
+
 ## [2026-04-17] ingest | Doe v. Bonnell deposition + Destiny catfish case foundation
 
 Primary evidence and entity ingest for the first piece in the [[Reachability Routing]] series, "You Can't Sue the Catfish." Opened `article/destiny-catfish` branch.

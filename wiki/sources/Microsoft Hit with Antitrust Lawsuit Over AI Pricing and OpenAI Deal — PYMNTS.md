@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, legal, platform-antitrust]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 3
 raw: "raw/Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal PYMNTS.com.md"
 source_url: "https://www.pymnts.com/cpi-posts/microsoft-hit-with-antitrust-lawsuit-over-ai-pricing-and-openai-deal/"
 author: "CPI (Competition Policy International)"

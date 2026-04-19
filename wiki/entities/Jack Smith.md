@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, justice, federal-immunity]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 7
+updated: 2026-04-18
+sources: 8
 ---
 
 ## Overview
@@ -18,6 +18,7 @@ Jack Smith, former special counsel investigating Trump's election interference a
 - **Prosecutorial record**: Grand juries returned indictments in two separate districts; cases survived preliminary legal challenges; evidence included recorded phone calls, witness testimony, video footage
 - **Congressional strategy against him**: Not arguing evidence was wrong; arguing the investigation itself was "weaponization" and "partisan persecution"
 - **Expects to be indicted himself**: Trump publicly called for Smith to be "investigated and put in prison" (expected retaliation for successful prosecution)
+- **Report permanently suppressed**: February 23, 2026 — Judge [[Aileen Cannon]] permanently barred public release of Volume II (classified documents report) citing her prior unlawful-appointment ruling; [[Knight First Amendment Institute]] appeal to 11th Circuit pending [[Judge Cannon Permanently Blocks Release of Jack Smith Report]]
 - **Pattern**: Prosecutor documenting crimes becomes subject of investigation by person whose crimes were documented
 - **Testified**: Evidence was gathered following standard DOJ procedures regardless of Trump's political status; investigation wasn't motivated by politics
 
@@ -46,4 +47,4 @@ Jack Smith, former special counsel investigating Trump's election interference a
 - [[Jack Smith tells Congress he could prove Trump engaged in criminal scheme]] — "criminal scheme" framing
 - [[Jack Smith says 'no historical analog' for Trump's actions around 2020 election, denies political influence]] — historical framing
 - [[Jack Smith told lawmakers Trump was most culpable in election interference case]] — additional coverage
-- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — February 2026 permanent sealing of Smith's classified documents report
+- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — Volume II of classified documents report permanently suppressed; Knight Institute appeal to 11th Circuit pending

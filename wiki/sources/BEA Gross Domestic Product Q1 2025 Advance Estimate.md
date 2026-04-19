@@ -4,7 +4,7 @@ type: source
 tags: [monetary-policy, economics, macro, primary-source]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 4
 raw: "raw/Bureau of Economic Analysis. \"Gross Domestic Product, First Quarter 2025 (Advance Estimate).\".md"
 source_url: "https://www.bea.gov/sites/default/files/2025-04/gdp1q25-adv.pdf"
 author: "U.S. Bureau of Economic Analysis"

@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, governance]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 3
 raw: "raw/About - Partnership on AI.md"
 source_url: "https://www.partnershiponai.org/about/"
 author: "Partnership on AI"

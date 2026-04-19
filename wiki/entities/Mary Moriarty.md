@@ -2,41 +2,49 @@
 title: "Mary Moriarty"
 type: entity
 entity_type: person
-tags: [politics, legal, minnesota, immigration]
-created: 2026-04-17
-updated: 2026-04-17
-sources: 3
+tags: [politics, legal, minnesota, accountability, immigration]
+created: 2026-04-18
+updated: 2026-04-18
+sources: 10
 ---
 
 ## Overview
-Mary Moriarty is the Hennepin County Attorney (Minneapolis, Minnesota) who in March 2026 filed the first state/county federal lawsuit against DHS and DOJ seeking evidence in three shootings by federal agents during [[Operation Metro Surge]] — the killings of [[Renée Good]] and [[Alex Pretti]] and the wounding of Julio Cesar Sosa-Celis. On April 16, 2026, her office charged ICE agent [[Gregory Donnell Morgan]] with two felony counts of second-degree assault — reportedly the first criminal case against a federal immigration officer tied to Trump's second-term immigration campaign. Moriarty announced she is not seeking reelection, which introduces leadership-transition risk into the prosecutions she has opened.
+
+Mary Moriarty is the Hennepin County Attorney who launched the first state criminal prosecutions of federal immigration officers stemming from [[Operation Metro Surge]], and filed a federal lawsuit against DHS and DOJ seeking evidence in three ICE shootings. She is not seeking reelection, meaning her accountability efforts — including pending prosecutions and the evidence lawsuit — will be inherited by a successor.
 
 ## Key Facts
-- Hennepin County Attorney; represents the largest county in Minnesota
-- Filed federal lawsuit against DHS and DOJ (late March 2026) on behalf of Hennepin County + State of Minnesota [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
-- Characterized federal evidence withholding as "unprecedented in American history" and "unprecedented and alarming" [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]]
-- Charged ICE agent Gregory Donnell Morgan with second-degree assault (Apr. 16, 2026) — the first such case against a federal immigration officer in Trump's second-term campaign [[Minnesota Prosecutors Charge an ICE Agent With Assault]]
-- Runs 14 additional open criminal investigations into federal-agent conduct during Operation Metro Surge, including a probe into Border Patrol commander [[Gregory Bovino]]
-- Not seeking reelection; leaves office end of 2026; successor could inherit cases mid-prosecution
+
+- Hennepin County Attorney; not seeking reelection; leaves office end of 2026
+- Filed federal lawsuit March 24, 2026 against DHS and DOJ seeking evidence in three shootings: [[Renée Good]], [[Alex Pretti]], and Julio Cesar Sosa-Celis [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
+- April 16, 2026: charged ICE agent [[Gregory Donnell Morgan]] with two felony counts of second-degree assault — "the first criminal case against a federal immigration officer involved in President Donald Trump's immigration campaign in the Twin Cities" [[Minnesota Prosecutors Charge ICE Agent With Assault]]
+- Described the evidence lawsuit as "unprecedented in American history" [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
+- Opened **14 additional criminal investigations** into federal conduct during the surge, including force at a high school and an investigation of [[Gregory Bovino]] [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
+- Stated she has "not decided whether to file charges" in the Good and Pretti deaths as of March 2026
+- Described federal conduct as "adopted a policy of categorically withholding evidence" — "unprecedented and alarming" [[Minnesota Sues to Obtain Evidence in Shootings by Federal Officers]]
 
 ## Newsletter Relevance
-Moriarty is the single most consequential local official in the Minneapolis ICE arc. The substantive accountability strategy — Touhy letters, the evidence lawsuit, the Morgan charges, the 14-parallel-docket — is hers. Her statement that federal evidence withholding is "unprecedented in American history" is the kind of sober institutional testimony that carries more weight than political rhetoric. Her retirement introduces a concrete fragility into the accountability arc worth tracking.
+
+Moriarty is the institutional embodiment of the state-federal accountability battle. Her office is attempting something with only four historical precedents (state prosecution of a federal agent for on-duty conduct), against a federal evidence-withholding posture the DOJ itself has never previously attempted at this scale. Her exit creates an accountability continuity problem: the prosecutions and the lawsuit may survive, but the prosecutorial will behind them is institution-dependent, not person-independent.
 
 ## Connections
-- [[Keith Ellison]] — Minnesota AG; parallel state-level legal counterpart
-- [[Killing of Renée Good]] — core case in her lawsuit
-- [[Alex Pretti]] — core case in her lawsuit
-- [[Operation Metro Surge]] — operational context for every case she has opened
-- [[Gregory Donnell Morgan]] — first ICE agent her office has charged
-- [[Department of Justice]] — defendant in her evidence lawsuit
-- [[Department of Homeland Security]] — defendant in her evidence lawsuit
+
+- [[Keith Ellison]] — Minnesota AG; parallel legal actions at state level
+- [[Operation Metro Surge]] — the operation generating her investigation docket
+- [[Renée Good]] — one of three shooting victims whose cases she's pursuing
+- [[Alex Pretti]] — second killing under investigation
+- [[Gregory Donnell Morgan]] — the first federal agent she successfully charged
+- [[Supremacy Clause Immunity]] — the primary legal obstacle to state prosecution
+- [[Institutional Gaslighting]] — her prosecutorial effort is the closest thing to accountability in the pattern
 
 ## Source Appearances
-- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — lead prosecutor in the evidence lawsuit; "unprecedented in American history"
-- [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — "categorically withholding evidence"; "unprecedented and alarming"
-- [[Minnesota Prosecutors Charge an ICE Agent With Assault]] — filed the Morgan charges; framed as "first case of its kind across the country"
+
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — primary source for lawsuit filing and 14 investigations
+- [[Minnesota Sues to Obtain Evidence in Shootings by Federal Officers]] — "categorically withholding" framing; DOJ review asymmetry
+- [[Minnesota Prosecutors Charge ICE Agent With Assault]] — Morgan charges; first-of-its-kind nationally
 
 ## Open Questions
-- Who succeeds Moriarty and will they continue the docket?
-- Will any of the 14 parallel investigations produce indictments before her term ends?
-- Does the Morgan case survive federal removal to U.S. District Court under 28 U.S.C. § 1442?
+
+- Will Moriarty's successor inherit and continue the prosecutions and the evidence lawsuit?
+- Has she made a final decision on filing charges in the Good and Pretti deaths?
+- What is the status of the 14 additional investigations beyond the Morgan assault case?
+- Does the evidence lawsuit reach resolution before she leaves office?

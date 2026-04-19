@@ -5,7 +5,7 @@ entity_type: infrastructure
 tags: [infrastructure, legal, rights-of-nature, ai-personhood, biocultural-rights]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 7
 ---
 
 ## Overview

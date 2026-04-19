@@ -4,7 +4,7 @@ type: source
 tags: [technology, ai, economics, marketing, dynamic-pricing]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 3
 raw: "raw/Impact of Dynamic Pricing on Customer Behavior and Loyalty - Hirebase AI-powered Startup Website Template Made In Framer.md"
 source_url: "https://www.upvoty.com/blog/impact-of-dynamic-pricing-on-customer-behavior-and-loyalty"
 author: "Upvoty (unbylined)"

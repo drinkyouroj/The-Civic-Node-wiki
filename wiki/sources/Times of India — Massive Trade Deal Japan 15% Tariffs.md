@@ -4,7 +4,7 @@ type: source
 tags: [economics, monetary-policy, politics, geopolitics]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 4
 raw: "raw/\u00e2Massive trade deal\u00e2 US President Donald Trump announces 15% reciprocal tariffs on Japanese goods; PM Ishiba says \u00e2need.md"
 source_url: "https://timesofindia.indiatimes.com/business/international-business/massive-trade-deal-donald-trump-announces-15-reciprocal-tariffs-for-japan-reveals-550-billion-investment-says-us-to-get-90-of-profits/articleshow/122846889.cms"
 author: "TOI Business Desk"

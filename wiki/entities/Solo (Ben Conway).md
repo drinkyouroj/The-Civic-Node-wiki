@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [catfisher, anonymous, uk, discord, kiwi-farms, ncii, destiny]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 1
+updated: 2026-04-18
+sources: 13
 ---
 
 ## Overview
@@ -43,6 +43,13 @@ Solo is the structural center of [[You Can't Sue the Catfish]] and of the [[Reac
 
 - [[Rose deposition — Doe v Bonnell]] — primary sworn evidence of Solo's operation, methods, and threats
 - KiwiFarms thread of November 29, 2024 (not directly reviewed — pending screenshot from user)
+- [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell's MTD names Solo as the actual video recipient and establishes the catfish as the core jurisdictional defense
+- [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Plaintiff's opposition addresses Solo's catfishing but frames it as legally irrelevant to CARDII liability
+- [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — AH deposition (Oct 23, 2025) establishes Solo controlled the Discord account that received Bonnell's video
+- [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — MSJ provides fullest legal argument that Solo's catfishing means no real Rose ever received the video (pre-CARDII); European date format in screenshots confirms UK location
+- [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — Bonnell's MIL seeks to exclude false minor claim specifically because Solo — not AH — was the account holder
+- [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — Solo's UK residence and European date format are cited as explanation for the April 9, 2022 timestamp; Solo evidence declared essential for timing
+- [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff's counter-argument: Solo showed Rose ("a handful of videos") from Bonnell via the impostor account, meaning the catfish didn't fully insulate Bonnell from the minor argument
 
 ## Open Questions
 

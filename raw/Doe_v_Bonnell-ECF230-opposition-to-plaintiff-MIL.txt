@@ -1,0 +1,647 @@
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 1 of 12
+
+
+
+
+                             UNITED STATES DISTRICT COURT
+                         FOR THE SOUTHERN DISTRICT OF FLORIDA
+
+                                 Case No.: 1:25-cv-20757-JB/Torres
+  JANE DOE,
+           Plaintiff,
+  v.
+  STEVEN K. BONNELL II,
+           Defendant.
+                                    /
+
+        STEVEN K. BONNELL II’S OPPOSITION TO PLAINTIFF’S MOTION IN LIMINE
+
+  I.       INTRODUCTION
+
+           Under the guise of a motion in limine, Plaintiff attempts to conceal critical evidence from
+
+  the jury and prevent Bonnell from presenting a meaningful defense. Plaintiff seeks to exclude
+
+  nearly all the pertinent, exculpatory evidence in the record, including evidence bearing directly on
+
+  the elements of her claims. The law in this Circuit is clear—evidence directly relevant to the
+
+  elements of a party’s claims is not the proper subject of a motion in limine. Accordingly, Plaintiff’s
+
+  Motion must be denied.
+
+  II.      LEGAL STANDARD
+
+           Although courts may rule on motions in limine in advance of trial, their purpose is limited
+  to addressing discrete evidentiary issues that are “clearly inadmissible on all potential grounds.”
+
+  Gautier v. Monta, No. 22-23296-CIV, 2023 WL 7279365, at *1 (S.D. Fla. Nov. 3, 2023) (internal
+
+  quotations removed). Where admissibility depends on context, rulings should be “deferred until
+
+  trial.” Lopez v. Allstate Fire & Cas. Ins. Co., No. 14-20654-CIV, 2015 WL 11216748, at *1 (S.D.
+
+  Fla. Oct. 27, 2015). Motions that are “broad, vague, and include speculative categories of
+
+  evidence” are routinely denied because they ask the court to rule in a vacuum. Jolibois v. Pub.
+
+  Health Tr. of Miami-Dade Cnty., No. 23-CV-24442, 2025 WL 1101217, at *2 (S.D. Fla. Apr. 14,
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 2 of 12
+
+
+
+
+  2025) (quoting SEC v. MintBroker Int’l, Ltd., No. 21-CV-21079, 2024 WL 2292470, at *20 (S.D.
+
+  Fla. May 21, 2024)).
+
+          Critically, motions in limine are not vehicles to adjudicate the merits of claims or defenses
+
+  or to resolve disputed elements of a case. Whidden v. Roberts, 334 F.R.D. 321, 324 (N.D. Fla.
+
+  2020) (holding that motions in limine “are not the proper vehicle for seeking a dispositive ruling,”
+
+  to “resolve factual disputes or weigh evidence,” or to establish or negate elements of a claim).
+
+  “[T]he better practice is to deal with questions of admissibility of evidence as they arise” at trial,
+
+  rather than through sweeping pretrial exclusion. Id. at 323.
+          Relevant evidence is broadly admissible, Fed. R. Evid. 401-02, and threshold issues such
+
+  as authentication require only a prima facie showing, after which the ultimate determination is for
+
+  the jury. The Eleventh Circuit has held that Federal Rule of Evidence 901 “merely requires the
+
+  proponent to present sufficient evidence to make out a prima facie case that the proffered evidence
+
+  is what it purports to be.” Shutler v. Citizens Disability LLC, No. 23-CV-14337-KMM, 2024 WL
+
+  4483375, at *2 (S.D. Fla. Sept. 23, 2024). Thus, motions in limine challenging a document’s
+
+  authentication and seeking to exclude evidence under Rule 403 are also disfavored. Rule 403 “is
+
+  an extraordinary remedy which the district court should invoke sparingly,” and the balance “should
+
+  be struck in favor of admissibility.” Buonomo v. JetBlue Airways Corp., No. 22-CV-23606, 2023
+
+  WL 8865706, at *5 (S.D. Fla. Dec. 22, 2023).
+
+  III.    EVIDENCE OF CONSENT GOES TO THE HEART OF THIS CASE.
+
+          A.      Evidence of Consent and Intent Is Directly Relevant to Plaintiff’s Claims.
+
+          Plaintiff seeks to exclude all evidence of her implied consent for Bonnell to share the Video
+
+  with third parties, yet consent (or lack thereof) is an essential element of half of Plaintiff’s claims,
+
+  and an affirmative defense to all of them. Specifically, Count 1 (Violation of 15 U.S.C. § 6851),
+
+  Count 2 (Violation of Fla. Stat. § 784.049), and Count 4 (Public Disclosure of Private Facts) each
+
+  allege that Bonnell acted without consent, whether express or implied. (Am. Compl. [ECF No.
+
+  120] ¶¶ 44, 51, 66.) Indeed, Plaintiff’s Motion entirely ignores Counts 2 through 4 of her Amended
+
+
+                                                     2
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 3 of 12
+
+
+
+
+  Complaint, each of which requires Plaintiff to establish a lack of consent or Bonnell’s intent to
+
+  harm as an element of the claims. 1 Evidence that Plaintiff consented to the transmission of the
+
+  Video, or that Bonnell reasonably believed he had obtained such consent, is directly relevant to
+
+  Plaintiff’s claims and Bonnell’s defenses.
+
+         Motions in limine seeking to exclude evidence directly relevant to an element of a claim
+
+  must be denied. See Morgan v. Orlando Health, Inc., No. 17-CV-1972-CEM-GJK, 2021 WL
+
+  12100347, at *6, *12 (M.D. Fla. Dec. 8, 2021) (denying motion in limine to exclude evidence of
+
+  consent where such evidence “is a defense to the . . . claims in th[e] case”); Ctr. Hill Cts. Condo.
+  Ass’n v. Rockhill Ins. Co., No. 19-CV-80111, 2020 WL 496065, at *3 (S.D. Fla. Jan. 30, 2020)
+
+  (denying motion in limine that “improperly seeks to . . . address the substantive issues to be tried
+
+  in the case” where evidence sought to be excluded was “relevant to establishing” a core element
+
+  of plaintiff’s claim); LSQ Funding Grp. v. EDS Field Servs., 879 F. Supp. 2d 1320, 1337 (M.D.
+
+  Fla. 2012) (“A motion in limine is not the proper vehicle to resolve substantive issues, to test issues
+
+  of law, or to address or narrow the issues to be tried.”); OneSource Facility Servs., Inc. v. Mosbach,
+
+  No. 05-cv-525-FTM-34DNF, 2007 WL 9718744, at *3-4 (M.D. Fla. Aug. 31, 2007) (denying
+
+  motion in limine where evidence was “directly relevant” to the elements of plaintiff’s claims).
+
+         Here, Counts 1 and 2 of the Amended Complaint specifically require Plaintiff to establish
+
+  a lack of consent as an element of her claims. 2 See Doe v. Stevenson, No. 24-CV-02778, 2025 WL
+
+  1165660, at *3-5 (N.D. Ill. Apr. 3, 2025) (dismissing CARDII claim where plaintiff failed to
+
+  establish defendant knew of or recklessly disregarded whether he had consent to share the images);
+
+  1
+   Plaintiff also seeks punitive damages, requiring evidence of malice. (See Am. Compl. [ECF No.
+  120] ¶¶ 48, 57, 64, 73.)
+  2
+    Evidence of consent is also relevant to and probative of Count 3 of the Amended Complaint for
+  Intentional Infliction of Emotional Distress. Whether Plaintiff consented to the transmission of the
+  Video is critical to a jury’s determination of “extreme and outrageous conduct,” as well as any
+  intent to harm Plaintiff. See Dome v. Celebrity Cruises Inc., 595 F. Supp. 3d 1212, 1226 (S.D. Fla.
+  2022) (IIED claim requires “extreme and outrageous conduct” and an “intent to cause, or reckless
+  disregard to the probability of causing, emotional distress”); see also Am. Compl. [ECF No. 120]
+  at ¶ 59 (“Defendant’s conduct of disclosing the Videos without Plaintiff’s consent was either done
+  intentionally or with reckless disregard to the probability of causing Plaintiff emotional distress.”).
+
+
+                                                    3
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 4 of 12
+
+
+
+
+  see also Conradis v. Buonocore, No. 18-cv-1486-EJK, 2021 WL 4243720, at *5 (M.D. Fla. Sept.
+
+  17, 2021) (noting that a claim under Florida Statute section 784.049 requires a showing that
+
+  dissemination occurred “without the depicted person’s consent”). Indeed, evidence that Plaintiff
+
+  herself first shared the Video with third parties (see, e.g., Prelim. Inj. Hr’g Tr. [ECF No. 90] at
+
+  13:3-8, 17-19) is directly relevant to whether Bonnell had Plaintiff’s consent, implied or otherwise,
+
+  to do the same. The Motion should be denied for that reason alone.
+
+         Similarly, evidence that Plaintiff repeatedly sent Bonnell sexually explicit material of
+
+  herself with other individuals (id. at 35:8-11; 37:23-25; 38:1-12), repeatedly solicited sexually
+  explicit material from Bonnell depicting him with others (id. at 34:23-25:3), and “had a lot of
+
+  conversations about consent” with Bonnell (id. at 8:8-9) is probative and directly relevant to
+
+  Bonnell’s state of mind regarding consent and any purported intent to harm Plaintiff. Indeed, Judge
+
+  Torres already indicated that Plaintiff’s conduct is relevant to her claims:
+
+                 But if that were true, then [Plaintiff is] guilty of cyber harassing
+                 because she sent a video of her former boyfriend . . . . She may not
+                 have had any intention of causing substantial harm or emotional
+                 distress to her former boyfriend because she assumed she had
+                 consent, but she clearly disseminated it. So how is that any
+                 different? . . . This statute seems to require me to find that at the time
+                 of dissemination, [Bonnell] did so with the intent of causing harm
+                 to the depicted person.
+
+  (Id. at 116:12-20; 117:11-13.) As the Court noted at the hearing on Plaintiff’s Motion for
+
+  Preliminary Injunction, evidence of implied consent and Bonnell’s state of mind is relevant to and
+
+  probative of the claims and defenses in this case. Accordingly, Plaintiff’s Motion should be denied.
+
+         B.      CARDII Does Not Preclude Evidence of Implied Consent.
+
+         Plaintiff’s contention that her claim pursuant to the CARDII statute (Count 1) precludes
+
+  evidence of implied consent is contrary to law. 3 Indeed, the CARDII statute specifically requires
+
+
+  3
+    Even if Plaintiff’s CARDII claim precluded evidence of implied consent (it does not), the Court
+  still would have to deny Plaintiff’s Motion because evidence of implied consent and state of mind
+  are essential factual elements of Counts 2 and 3 in the Amended Complaint.
+
+
+                                                     4
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 5 of 12
+
+
+
+
+  that the “disclosure was made by a [defendant] who knows that, or recklessly disregards whether,
+
+  the [plaintiff] has not consented to such disclosure.” 15 U.S.C. § 6851(b)(1)(A) (emphasis
+
+  added). Evidence probative of Bonnell’s reasonable belief regarding consent goes to the heart of
+
+  whether Bonnell “knew” or “recklessly disregarded” whether Plaintiff had consented to the
+
+  transmission of the Video. At least one Court interpreting the CARDII statute confirmed that
+
+  liability turns on defendant’s contemporaneous mental state regarding consent. See Doe v.
+
+  Stevenson, No. 24-CV-02778, 2025 WL 1165660, at *3-5 (N.D. Ill. Apr. 3, 2025) (dismissing
+
+  CARDII claim where “nothing in the record . . . can be read to establish [defendant’s] mental state
+  for purposes of § 6851,” or whether defendant “kn[ew] that the plaintiff had not consented or
+
+  recklessly disregard[ed] whether the plaintiff had provided consent”).
+
+         Plaintiff’s reliance on Aaron v. Ferrell, No. 23-CV-374-MHT-CWB, 2025 WL 2054859
+
+  (M.D. Ala. July 21, 2025) is puzzling. Aaron does not concern a motion in limine, but rather the
+
+  district court’s Findings of Fact and Conclusions of Law, after a bench trial. Id. at *1. While
+
+  Plaintiff here seeks to exclude all evidence regarding implied consent, the court in Aaron did no
+
+  such thing. There, the court admitted and considered evidence of implied consent. Id. at *3.
+
+  Moreover, while the Aaron court found defendant liable for violating CARDII, the facts of that
+
+  case bear no resemblance to the facts here. In Aaron, defendant stole a nude photo of plaintiff and
+
+  published it online. Id. at *2. Bonnell did neither of those things, nor does Plaintiff allege he did.
+
+         Similarly, Plaintiff’s reliance on the definition of “consent” in 15 U.S.C. § 6851(a)(2) has
+
+  no bearing on the instant Motion. Nothing in the CARDII statute mandates that evidence of implied
+
+  consent must be excluded. As stated above, evidence of Bonnell’s mental state regarding consent
+
+  is an element of a CARDII claim, and such evidence must be evaluated by a jury. 15 U.S.C.
+
+  § 6851(b)(1)(A). Moreover, Plaintiff’s reliance on § 6851(b)(2)(B) is similarly misplaced. The
+
+  provision reads, “the fact that the individual disclosed the intimate visual depiction to someone
+
+  else shall not establish that the person consented to the further disclosure of the intimate visual
+
+  depiction.” 15 U.S.C. § 6851(b)(2)(B) (emphasis added). First, this section does not mandate that
+
+  the Court exclude such evidence; rather, only that such evidence by itself does not establish
+
+
+                                                    5
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 6 of 12
+
+
+
+
+  consent. Second, § 6851(b)(2)(B) does not even apply. Here, Plaintiff did not simply send a nude
+
+  video of herself to a third party, she sent the Video at issue depicting herself and Bonnell to a third
+
+  party. She then filed the instant lawsuit against Bonnell for doing the exact same thing. A jury
+
+  should not be shielded from that fact.
+  IV.    PLAINTIFF’S MOTION TO EXCLUDE EVIDENCE OF “SEXUAL BEHAVIOR”
+         IS VAGUE AND OVERBROAD; PLAINTIFF PLACED HER SEXUAL CONDUCT
+         AT ISSUE.
+         Plaintiff’s Motion to exclude all evidence of her “sexual behavior or predisposition” (Mot.
+
+  at 6) is vague and overbroad, and must be denied as a result. “Motions in limine that are broad,
+
+  vague, and include speculative categories of evidence and argument of which the Court cannot
+
+  predetermine the admissibility are due to be denied.” Robbins v. Robertson, No. 15-CV-00124
+
+  (WLS), 2022 WL 2987890, at *5 (M.D. Ga. July 28, 2022); see also Perez v. Fla. POP, LLC, No.
+
+  20-14214-CV, 2022 WL 18023487, at *2 (S.D. Fla. Jan. 28, 2022) (denying motions in limine for
+
+  being “too vague, overbroad, or confusing for purposes of making a definitive informed pretrial
+
+  ruling”); MintBroker, 2024 WL 2292470, at *20 (motions in limine should be denied where “it is
+
+  unclear what specific evidence is or is not covered” by the motion). “When confronted with a
+
+  broad motion in limine, therefore, the ‘better practice is to deal with questions of admissibility of
+
+  evidence as they arise’ during the trial.” Whidden, 334 F.R.D. at 323.
+
+         Here, it is unclear from Plaintiff’s Motion what specific evidence she seeks to exclude.
+
+  Plaintiff’s Motion would necessarily cover evidence of her own communications with Bonnell, the
+
+  fact she engaged in consensual sex with Bonnell and recorded the Video, and many of the other
+
+  material allegations in her Amended Complaint. Because the Motion is not narrowly tailored, the
+
+  Court must deny it, as a matter of law.
+
+         Further, Plaintiff placed her sexual history and conduct at issue in this case. In her
+
+  Amended Complaint, Plaintiff alleged that she was sexually “inexperienced” and had only one
+
+  prior sexual partner before Bonnell. (Am. Compl. [ECF No. 120] at ¶ 3.) At the hearing on her
+
+  Motion for Preliminary Injunction, Plaintiff repeated that assertion under oath (Prelim. Inj. Hr’g
+
+  Tr. [ECF No. 90] at 8:9-10), admitted to soliciting sexually explicit material from Bonnell
+
+
+                                                    6
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 7 of 12
+
+
+
+
+  depicting him with others (id. at 34:23-25:3), and admitted that she sent the Video she made with
+
+  Bonnell to her then-boyfriend before Bonnell allegedly sent it to anyone (id. at 13:3-8, 17-19).
+
+  Plaintiff cannot now shield the jury from her own allegations, her own conduct and correspondence
+
+  with Bonnell, or her prior admissions under oath.
+
+         Plaintiff’s reliance on Rule 412 is misplaced. In fact, Rule 412 does not even apply here.
+
+  The Eleventh Circuit has repeatedly limited the Rule’s application only to “civil cases involving
+
+  rape or sexual harassment.” Judd v. Rodman, 105 F.3d 1339, 1341 (11th Cir. 1997); see also
+
+  Siotkas v. Top Jet, LLC, No. 19-61051-CIV, 2021 WL 9939107, at *3 n.5 (S.D. Fla. May 3, 2021)
+  (“Neither [plaintiff] [is] claiming to be a victim of sexual harassment in this case, and thus, Rule
+
+  412 does not apply.”). Here, Plaintiff does not allege rape or sexual harassment. Her claims arise
+
+  under 18 U.S.C. § 6851, Florida Statute section 784.049, and common law torts. Moreover, even
+
+  where Rule 412 is applicable, such evidence remains admissible where its probative value
+
+  outweighs prejudice. Judd, 105 F.3d at 1343 (holding that “evidence of prior sexual relationships
+
+  and the type of protection used during sexual intercourse was highly relevant” and outweighed any
+
+  prejudice). Any such evidence would be offered to rebut Plaintiff’s assertions and to provide
+
+  context for the parties’ relationship and communications—issues central to consent, Bonnell’s
+
+  state of mind, and Plaintiff’s claims for damages.
+
+  V.     PLAINTIFF’S REQUEST TO EXCLUDE BONNELL’S DOCUMENTATION
+         MUST BE DENIED.
+
+         Plaintiff’s effort to exclude nearly all of Bonnell’s documentary evidence on the purported
+
+  grounds that it is “self-generated” and “unauthenticated” is entirely without merit. Bonnell already
+
+  has authenticated the materials through sworn testimony establishing their creation, maintenance,
+
+  and accuracy. (See Bonnell Decl., dated Sept. 19, 2025 [ECF No. 132-1]; Bonnell Decl., dated Jan.
+
+  30, 2026 [ECF No. 213].) Nothing more is required. See SMS Audio, LLC v. Belson, No. 16-81308-
+
+  CIV, 2017 WL 1533971, at *3 (S.D. Fla. Mar. 20, 2017) (authentication requires only a prima
+
+  facie showing that the evidence “is what it purports to be, and that authentication may be
+
+  established through testimony or circumstantial evidence, including the “appearance, contents,
+
+
+                                                   7
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 8 of 12
+
+
+
+
+  [and] substance” of electronic communications); see also Carroll v. ATA Retail Servs., Inc., 747
+
+  F. App’x 762, 764 (11th Cir. 2018) (holding that a witness’s testimony was sufficient to
+
+  authenticate emails for admissibility purposes, and that the absence of original messages did not
+
+  defeat authentication).
+
+          Further, Plaintiff’s allegation of spoliation is meritless and not the proper subject of a
+
+  motion in limine. Discovery closed four months ago, and Plaintiff neither filed a motion to compel
+
+  nor a motion for spoliation sanctions. 4 Having failed to pursue available remedies during the
+
+  discovery period, Plaintiff cannot now use a motion in limine as a substitute for an untimely
+  discovery challenge or motion for sanctions. See XTEC, Inc. v. Cardsmart Techs., Inc., No. 11-
+
+  22866-CIV, 2014 WL 10250973, at *4 (S.D. Fla. Dec. 2, 2014) (denying motion in limine where
+
+  defendants attempted to raise a discovery issue outside the discovery period, thereby waiving the
+
+  argument); Celler L. Org. v. Sony Pictures TV Inc., No. 13-61678-CIV, 2014 WL 12580516, at *5
+
+  (S.D. Fla. Apr. 12, 2014) (denying motion in limine as untimely and meritless where the movant
+
+  “had ample time” to raise the discovery dispute during discovery but waited until the eve of trial);
+
+  Wyeth v. Apotex Inc., No. 08-22308-CIV, 2009 WL 8626786, at *7 (S.D. Fla. Oct. 6, 2009)
+
+  (denying motion in limine as a procedurally improper and untimely Rule 37 motion where the
+
+  movant failed to seek relief during discovery and instead attempted to exclude evidence at trial);
+
+  see also Bunch v. Pac. Cycle, Inc., No. 13-CV-0036-HLM, 2015 WL 11622952, at *8 n.2 (N.D.
+
+  Ga. Apr. 27, 2015) (rejecting discovery-related objections in connection with a motion in limine
+
+  and emphasizing that plaintiffs “should have raised their discovery-related concerns during
+
+  discovery or within the appropriate period for filing motions to compel”).
+
+
+
+  4
+    Over a year ago, at the April 4, 2025, status conference, the Court expressly contemplated that
+  any spoliation issues should be raised through an appropriate motion practice, stating: “If [Bonnell]
+  doesn’t think it’s destroying evidence for some reason, well that will all play out . . . . in a motion
+  for spoliation or maybe in the preliminary injunction . . . . And if there is an issue of the destruction
+  of evidence, that’s something that on a motion for spoliation you will have to confer.” (Status
+  Conf. Tr. [ECF No. 42-12] at 9:14-17; 12:9-11.) Plaintiff never filed a motion seeking spoliation
+  sanctions against Bonnell.
+
+
+                                                     8
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 9 of 12
+
+
+
+
+         Indeed, since at least the April 4, 2025 status conference, Plaintiff has asserted that
+
+  evidence spoliation is an “ongoing issue,” yet she never filed a spoliation motion. (See Mot. for
+
+  TRO & Prelim. Inj. [ECF No. 21] at 13-14; Opp’n to Mot. To Dismiss [ECF No. 139] at 2, 6, 12,
+
+  14; Mot. re: Audio Files [ECF No. 150] at 1.) In the Order denying Plaintiff’s Motion for
+
+  Preliminary Injunction, the Court put it succinctly: “It is now October of 2025 and there is no such
+
+  [spoliation] motion on the docket.” (Order, dated Oct. 6, 2025 [ECF No. 143] at 9.) Nothing has
+
+  changed since then. Plaintiff fails to offer any explanation why, if she had a good faith basis to
+
+  accuse Bonnell of spoliation, she did not seek relief earlier.
+
+  VI.    EVIDENCE REGARDING THE RECIPIENT OF THE VIDEO AND CONTEXT
+         OF THE TRANSMISSION SHOULD NOT BE EXCLUDED.
+
+         In a public filing, dated October 3, 2025, Plaintiff falsely accused Bonnell of transmitting
+
+  the Video to a minor. 5 (See Pl.’s Opp’n to Mot. To Dismiss [ECF No. 139] at 7, n.2.) Plaintiff’s
+
+  attempt to prevent Bonnell from submitting evidence refuting Plaintiff’s knowingly false
+
+  allegation is absurd. Moreover, Plaintiff’s request to exclude all evidence concerning “Solo,” the
+
+  actual recipient of the Video, is equally meritless. That evidence is highly probative of critical
+
+  factual issues in this case—most notably, the timing, context, and circumstances of the alleged
+
+  transmission. 6
+
+         Evidence concerning Solo is particularly critical because it establishes when the Video was
+  sent. The undisputed record establishes that Solo was located in the United Kingdom, and therefore
+
+  his Discord logs display dates in the European day/month/year format. (See Bonnell Decl., dated
+
+  Jan. 30, 2026 [ECF No. 213] ¶¶ 3, 5-8 & Exs. A-C; Brettler Decl., dated Jan. 30, 2026 [ECF No.
+
+
+  5
+   Plaintiff’s conduct is the subject of a pending motion for Rule 11 sanctions. (Def.’s R. 11 Mot.,
+  dated Dec. 1, 2025 [ECF No. 183]).
+  6
+   See id. [ECF No. 183] at 2-4; Brettler Decl., dated Dec. 1, 2025 [ECF No. 183-1], Ex. A ¶¶ 17:8-
+  17, 24-25, 35:18-20, 51:2-4, 56:3-10, 64:17-23, 71:20-72:1, 84:10-21); Def.’s Mot. for Summ. J.,
+  dated Jan. 30, 2026 [ECF No. 210] at 4-5; Brettler Decl., dated Jan. 30, 2026 [ECF No. 212]
+  Ex. L ¶¶ 18:2-7, 23:13-15, 24:13-18, 67:13-16, 67:21-24, 67:25-68:2, 68:3-18, 68:19-21, 79:22-
+  80:7.
+
+
+                                                    9
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 10 of 12
+
+
+
+
+   212] Ex. L at 18:2-7, 79:22-80:7.) As a result, the entry reflecting the transmission of the Video
+
+   appears as “10/04/22”—which, in European date format, corresponds to April 10, 2022, not
+
+   October 4, 2022. (See Bonnell Decl., dated Jan. 30, 2026 [ECF No. 213] ¶ 3 & Exs. A-C; see also
+
+   Reply in Supp. of Mot. To Dismiss [ECF No. 149] at 4.) Bonnell’s authenticated correspondence
+
+   logs independently confirm that the Video was transmitted late on April 9, 2022 (Miami time),
+
+   nearly six months before the CARDII statute’s effective date. (See Bonnell Decl., dated Jan. 30,
+
+   2026 [ECF No. 213] ¶¶ 6-7 & Ex. B; Mot. To Dismiss [ECF No. 132] at 8-11.) 7
+
+            The timing of the transmission is dispositive to subject matter jurisdiction. CARDII did not
+   take effect until October 1, 2022 and does not apply retroactively—a point Plaintiff expressly
+
+   concedes. (See Opp’n to Mot. To Dismiss [ECF No. 139] at 7 n.1; Reply in Supp. of Mot. for
+
+   Leave to Amend Compl. [ECF No. 110] at 4.) Stevenson, 2025 WL 1165660, at *2-3 (concluding
+
+   that § 6851 “does not have retroactive effect”). Accordingly, evidence regarding Solo—including
+
+   his identity, location, and the date of transmission displayed in the Discord logs—is central to
+
+   determining whether Bonnell’s conduct falls within the statute and must not be excluded from
+
+   trial.
+
+   VII.     CONCLUSION
+
+            For the reasons stated herein, Bonnell respectfully requests that Plaintiff’s Motion in limine
+
+   be denied in its entirety.
+
+
+
+
+   7
+     Defendant maintains that, because the alleged conduct predates the effective date of the statute,
+   the Court lacks subject matter jurisdiction over Plaintiff’s claims. See Mot. to Dismiss [ECF No.
+   132] at 7-12; Mot. for Summ. J. [ECF No. 210] at 9-11.)
+
+
+                                                     10
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 11 of 12
+
+
+
+
+    Dated: April 13, 2026                             Respectfully submitted,
+
+                                                      BILZIN SUMBERG BAENA PRICE &
+                                                      AXELROD LLP
+                                                      1450 Brickell Avenue, Suite 2300
+                                                      Miami, Florida 33131
+                                                      Tel.: (305) 374-7580
+                                                      Fax: (305) 374-7593
+
+                                                      By: /s/ Michael S. Morgan
+                                                      Michael S. Morgan
+                                                      Florida Bar No.: 1061173
+                                                      mmorgan@bilzin.com
+                                                      amotta@bilzin.com
+                                                      eservice@bilzin.com
+
+                                                      and
+
+                                                      BERK BRETTLER LLP
+                                                      9119 West Sunset Blvd.
+                                                      West Hollywood, CA 90069-3106
+                                                      Tel: (310) 278-2111
+
+                                                      By: /s/ Andrew B. Brettler
+                                                      Andrew Brad Brettler
+                                                      California Bar No.: 262928
+                                                      abrettler@berkbrettler.com
+                                                      Jake A. Camara
+                                                      California Bar No.: 305780
+                                                      jcamara@berkbrettler.com
+                                                      Joel Sichel
+                                                      California Bar No: 361148
+                                                      jsichel@berkbrettler.com
+                                                      (admitted pro hac vice)
+
+                                                      Counsel for Steven K. Bonnell II
+
+                                    CERTIFICATE OF SERVICE
+
+          I HEREBY CERTIFY that on April 13, 2026, a true and correct copy of the foregoing
+
+   was served on all parties via electronic transmission to counsel of record for these parties.
+
+                                                         By: /s/ Michael S. Morgan
+                                                                Michael S. Morgan
+
+
+                                                    11
+Case 1:25-cv-20757-JB Document 230 Entered on FLSD Docket 04/13/2026 Page 12 of 12
+
+
+
+
+                                           SERVICE LIST
+                                    Jane Doe v. Steven K. Bonnell II
+                                      Case No.: 1:25-cv-20757-JB
+
+    Carlos A. Garcia Perez, Esq. Sanchez-            Counsel for Jane Doe
+    Medina, Gonzalez, Quesada, Lage, Gomez &
+    Machado, LLP 201 Alhambra Circle, Suite
+    1205 Coral Gables, Florida, 33134
+    Email: cgarciaperez@smgqlaw.com
+
+    Joan Schlump Peters, Esq.
+    JSP LAW, LLC
+    838 Neapolitan Way, #91, Naples, FL 34103
+    Email: petersjoan@bellsouth.net
+
+   MIAMI 13693119.1 104971/307949
+
+
+
+
+                                                  12
+

@@ -4,7 +4,7 @@ type: source
 tags: [technology, media, marketing, algorithmic-incentives]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 5
 raw: "raw/Keep Up With Social Media Algorithm Changes in 2025 Proven Tips Vista Social.md"
 source_url: "https://vistasocial.com/insights/social-media-algorithm-changes/"
 author: "Gia Muyco"

@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, 49ers, betting, preview, nfc-west]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 2
 raw: "raw/Seahawks vs 49ers Predictions, Picks & Best Bets for Tonight — NFL Week 18.md"
 source_url: "https://www.covers.com/nfl/seahawks-vs-49ers-predictions-picks-today-january-3-2026"
 author: "Rohit Ponnaiya"

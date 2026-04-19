@@ -5,7 +5,7 @@ entity_type: person
 tags: [technology, ai, power, politics]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 4
+sources: 11
 ---
 
 ## Overview

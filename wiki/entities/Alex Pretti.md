@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, immigration, minnesota, police-violence]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 3
+sources: 9
 ---
 
 ## Overview

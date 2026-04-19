@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, minnesota, legal, ice, accountability]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 8
 raw: "raw/Minnesota Prosecutors Charge an ICE Agent With Assault.md"
 source_url: "https://www.notus.org/immigration/minnesota-prosecutors-charge-ice-agent"
 author: "Notus"

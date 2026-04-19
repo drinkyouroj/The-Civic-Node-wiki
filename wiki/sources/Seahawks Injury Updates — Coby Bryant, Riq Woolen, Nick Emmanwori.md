@@ -4,7 +4,7 @@ type: source
 tags: [nfl, seahawks, injury-report, secondary, macdonald]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 4
 raw: "raw/Seahawks injury updates Coby Bryant will miss time, Riq Woolen okay.md"
 source_url: "https://www.fieldgulls.com/seattle-seahawks-injury-report/158208/seahawks-injury-updates-coby-bryant-will-miss-time-riq-woolen-knee"
 author: "Jack Freeman"

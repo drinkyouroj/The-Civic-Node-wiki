@@ -2,41 +2,41 @@
 title: "Aileen Cannon"
 type: entity
 entity_type: person
-tags: [politics, legal, power, institutional-capture, judiciary]
-created: 2026-04-17
-updated: 2026-04-17
-sources: 1
+tags: [legal, politics, federal-immunity, judiciary, trump]
+created: 2026-04-18
+updated: 2026-04-18
+sources: 5
 ---
 
 ## Overview
 
-U.S. District Judge for the Southern District of Florida (Fort Pierce), appointed by [[Donald Trump]] in 2020 and confirmed shortly after his loss in that year's election. Cannon presided over the classified documents criminal case against Trump and made a series of rulings — repeatedly reversed or criticized by the Eleventh Circuit — that had the cumulative effect of delaying the case until Trump's re-election mooted it. Her July 2024 ruling that [[Jack Smith]]'s appointment as Special Counsel was unconstitutional became the basis for permanently suppressing Volume II of Smith's final report in February 2026.
+Aileen Cannon is the U.S. District Judge for the Southern District of Florida who dismissed the federal classified documents case against Donald Trump and subsequently permanently blocked the public release of special counsel [[Jack Smith]]'s report. Her rulings have been the primary judicial vehicle for suppressing the public record of the classified documents investigation.
 
 ## Key Facts
 
-- Appointed to the S.D. Florida bench by Trump in 2020 [[Judge Cannon Permanently Blocks Release of Jack Smith Report]]
-- Ruled in July 2024 that Special Counsel Jack Smith was unlawfully appointed — the foundation for subsequent rulings sealing his final report
-- Permanently blocked the public release of Smith's classified documents report on February 23, 2026 [[Judge Cannon Permanently Blocks Release of Jack Smith Report]]
-- Denied defendants' request to destroy the report — the document exists but is sealed
-- Knight First Amendment Institute appeal to the Eleventh Circuit pending as of February 2026
+- U.S. District Judge, Southern District of Florida (Fort Pierce); Trump appointee
+- Dismissed the federal classified documents case against Trump, relying on the theory that Jack Smith was unlawfully appointed as special counsel
+- February 23, 2026: permanently barred public release of Volume II of Jack Smith's report, citing the same unlawful-appointment theory [[Judge Cannon Permanently Blocks Release of Jack Smith Report]]
+- Denied defendants' request to have the report destroyed — a notable limit on the ruling
+- Ruling challenged by [[Knight First Amendment Institute]]; appeal to U.S. Court of Appeals for the 11th Circuit is pending [[Judge Cannon Permanently Blocks Release of Jack Smith Report]]
 
 ## Newsletter Relevance
 
-Cannon is the single judicial node through which Trump's classified-documents legal exposure was neutralized. Her rulings demonstrate how [[Retroactive Executive Protection]] operates at the district-court level: one friendly judge, a contested legal theory, and a permanent seal. The pattern is not unique — but Cannon's case is the cleanest example of a single judicial appointment producing cascading protective effects for the appointing president.
+Cannon represents the judicial extension of the accountability-suppression architecture. Her unlawful-appointment theory has done dual work: dissolving the prosecution and dissolving the public record of the prosecution. The same legal theory that ended the case is now being used to end the account of what the case was about. The 11th Circuit appeal is the remaining accountability pathway.
 
 ## Connections
 
-- [[Donald Trump]] — appointer; primary beneficiary
-- [[Jack Smith]] — Special Counsel whose report Cannon permanently sealed
-- [[Knight First Amendment Institute]] — petitioner seeking disclosure; appealing to 11th Circuit
-- [[Retroactive Executive Protection]] — paradigm case
+- [[Jack Smith]] — special counsel whose case she dismissed and whose report she blocked
+- [[Donald Trump]] — beneficiary of her rulings
+- [[Knight First Amendment Institute]] — appellants challenging the report suppression
+- [[Federal Immunity Above Constitutional Law]] — her rulings are a judicial contribution to the immunity architecture
 
 ## Source Appearances
 
-- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — the February 2026 sealing ruling
+- [[Judge Cannon Permanently Blocks Release of Jack Smith Report]] — primary source for the February 2026 ruling
 
 ## Open Questions
 
-- Will the Eleventh Circuit reverse the sealing order?
-- Have any other Cannon rulings in the classified-documents case been permanently consequential beyond the sealing?
-- Are there judicial-ethics concerns about Cannon's continuing oversight of matters implicating her appointer?
+- How will the 11th Circuit rule on the Knight Institute's appeal?
+- Does the unlawful-appointment theory have any limiting principle — could it be applied to suppress records beyond the classified documents case?
+- What other pending matters remain before her court related to Trump or January 6?

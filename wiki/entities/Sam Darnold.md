@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl]
 created: 2026-04-07
 updated: 2026-04-16
-sources: 14
+sources: 15
 ---
 
 ~~Caveat resolved 2026-04-16: ESPN Super Bowl LX recap now ingested. See [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]].~~
@@ -48,6 +48,7 @@ Quarterback for the Seattle Seahawks. Career narrative: selected 3rd overall by 
 - [[Seahawks 38-37 OT Comeback Over Rams — Multiple Perspectives]] — overcame 2 INTs; decisive in 4Q and OT comeback
 - [[Seahawks Are Biggest Threat to Overthrow the NFC]] — cap analysis; Darnold vs. Smith financial comparison
 - [[Seahawks Tie for NFL Lead with Six Pro Bowl Selections]] — 2nd Pro Bowl selection
+- [[Seahawks-Patriots Super Bowl LX — What We Learned from Seattle's 29-13 Win]] — struggled in Super Bowl LX (-9.4% completion percentage over expected); Walker carried the team while Darnold was pressured on 41.5% of dropbacks
 - [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]] — Super Bowl LX: 19/38, 202 yards, 1 TD, 0 turnovers; game manager role in defense-dominant win
 
 ## Open Questions

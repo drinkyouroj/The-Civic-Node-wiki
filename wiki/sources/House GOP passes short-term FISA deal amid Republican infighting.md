@@ -4,7 +4,7 @@ type: source
 tags: [politics, power, surveillance, civil-liberties, coalition-fracture]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 13
 raw: "raw/House GOP passes short-term FISA deal amid Republican infighting.md"
 source_url: "https://thehill.com/homenews/house/5835879-fisa-702-spy-powers-vote/"
 author: "Emily Brooks; Rebecca Beitsch"

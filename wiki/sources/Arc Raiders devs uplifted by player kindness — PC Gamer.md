@@ -4,7 +4,7 @@ type: source
 tags: [technology, game-design, cooperation, culture, power]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 6
 raw: "raw/Arc Raiders devs are uplifted by how kind players have been to one another, but admit 'we're way worse people than the c.md"
 source_url: "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-are-uplifted-by-how-kind-players-have-been-to-one-another-but-admit-were-way-worse-people-than-the-community-when-it-comes-to-engaging-in-pvp/"
 author: "Elie Gould; Tim Clark; Evan Lahti"

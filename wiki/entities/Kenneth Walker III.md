@@ -5,7 +5,7 @@ entity_type: person
 tags: [nfl, seahawks]
 created: 2026-04-16
 updated: 2026-04-16
-sources: 4
+sources: 5
 ---
 
 ## Overview
@@ -30,6 +30,7 @@ Walker's MVP performance reinforces the [[Defensive Scheme Architecture]] thesis
 ## Source Appearances
 
 - [[Super Bowl 2026 highlights Seahawks capture second Lombardi with 29-13 win over Patriots]] — Super Bowl MVP; 135 rushing yards; 5.0 YPC
+- [[Seahawks-Patriots Super Bowl LX — What We Learned from Seattle's 29-13 Win]] — NFL.com game analysis; Walker +42 RYOE; runs of 30 and 29 yards; pending free agent status
 
 ## Open Questions
 

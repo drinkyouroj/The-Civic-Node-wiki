@@ -4,7 +4,7 @@ type: concept
 tags: [legal, rights-of-nature, ai-personhood, power, infrastructure]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 6
 ---
 
 ## Definition
