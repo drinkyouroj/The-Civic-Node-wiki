@@ -5,6 +5,23 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-19] ingest | Daily scheduled ingest — article page + ECF 143 source
+
+Automated daily ingest. No new raw or published files detected since last ingest (April 18).
+
+**Backlog items resolved (2):**
+- Created article page for [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026 published piece; first in the [[Reachability Routing]] series; was missing from wiki/articles/
+- Created source page for [[Doe v Bonnell — Torres PI Order (ECF 143)]] — Magistrate Judge Torres's Oct 6, 2025 order denying PI; raw file existed but had no wiki source page
+
+**Entity updates:**
+- [[Doe v. Bonnell (1-25-cv-20757)]] — sources 16→17
+
+Index updated to 504 sources, 87 articles, 191 entities, 121 concepts.
+
+**Note:** ~100 raw .md files remain without wiki source pages (primarily older NFL, crypto, tech, and politics content from earlier ingests). These are historical backlog, not new additions.
+
+---
+
 ## [2026-04-18] ingest | Doe v Bonnell ECF 23 scheduling order + v3 draft of "The Process Is the Punishment"
 
 ECF 23 (Judge Becerra's April 3, 2025 scheduling order) ingested as new source page. Locks in May 18, 2026 trial, December 16, 2025 discovery cutoff, January 30, 2026 dispositive motion deadline. Continuance must be filed ≥30 days before trial. This is the baseline scheduling order against which ECF 227 (plaintiff's April 8, 2026 continuance motion) and ECF 235 (Bonnell opposition) are measured.

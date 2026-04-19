@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-18
-total_pages: 912
-total_sources: 503
+updated: 2026-04-19
+total_pages: 914
+total_sources: 504
 total_entities: 191
 total_concepts: 121
 total_syntheses: 13
-total_articles: 86
+total_articles: 87
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -580,6 +580,7 @@ New concepts:
 **Doe v. Bonnell docket deep-read (11 ECF filings):** Full pre-trial motion record now in the wiki — MTD (jurisdiction), protective orders, Rule 11 sanctions, MSJ, Rule 56(d) deferral, motions in limine, and continuance opposition. Entity pages for all five principals updated with source appearances across the full docket.
 
 - [[Doe v Bonnell ECF23 — Scheduling Order]] — Judge Becerra's April 3, 2025 scheduling order; trial May 18, 2026; discovery cutoff Dec 16, 2025; dispositive motions Jan 30, 2026
+- [[Doe v Bonnell — Torres PI Order (ECF 143)]] — Magistrate Judge Torres denies preliminary injunction Oct 6, 2025; flags unfiled spoliation motion plaintiff promised at April TRO hearing
 - [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell MTD for lack of subject matter jurisdiction; argues Out-of-Circuit Abby subpoena history establishes no federal cause of action; Sep 19, 2025
 - [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Plaintiff attacks Bonnell's footnote claiming Rose was a minor; demonstrates it was false and fabricated; Oct 2025
 - [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — Bonnell seeks protective order on deposition timing and scope; Nov 2025
@@ -1018,6 +1019,9 @@ New article:
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Institutional gaslighting through evidence control and narrative flooding
 - [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
 
+### Nonfiction Essays — Legal & Systems
+- [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026; first piece in the [[Reachability Routing]] series; civil liability routes to the reachable defendant (Destiny), not the person who caused the harm (Solo in Oxford); three structural fixes proposed; Doe v. Bonnell as live case study
+
 ### Nonfiction Essays — DePIN & Crypto
 - [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026; Adam Back's SPAC merger as the first mechanism that may force SEC disclosure on Satoshi's $81B in BTC; 17 years of anonymity vs. a single S-4 filing
 - [[DePIN More Than Hype]] — Introductory DePIN thesis; Datagram as flagship example
@@ -1116,9 +1120,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 503 |
-| Published articles tracked | 86 |
+| Total sources ingested | 504 |
+| Published articles tracked | 87 |
 | Entity pages | 191 |
 | Concept pages | 121 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-18 |
+| Last updated | 2026-04-19 |
