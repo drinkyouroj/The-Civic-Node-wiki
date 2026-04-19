@@ -3,7 +3,7 @@ title: "Seahawks 13-3 Win Over 49ers — NFC West Title Clincher"
 type: source
 tags: [nfl, seahawks, 49ers, game-recap, nfc-west, macdonald, darnold]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-17
 sources: 9
 raw: "raw/Rapid Reactions Seahawks Clinch NFC West and No. 1 Seed With 13-3 Win Over 49ers.md"
 source_url: "https://www.seahawks.com/news/rapid-reactions-seahawks-clinch-nfc-west-and-no-1-seed-with-13-3-win-over-49ers"
@@ -62,4 +62,17 @@ Consolidated record of six source documents covering the Seahawks' 13-3 Week 18 
 
 ## Notes
 
-Six raw files cover this game/week: Seahawks rapid reaction (Boyle), CBS live recap (Sullivan), NBC Bay Area 49ers perspective, Field Gulls winners/losers (Alexander), SI studs/duds (Weaver), MyNorthwest preview (Van Til). The Field Gulls winners/losers piece has the most analytical depth; the CBS recap has the best play-by-play reconstruction; the NBC Bay Area perspective provides the 49ers' viewpoint.
+Consolidated from multiple raw sources covering the Week 18 SF@SEA game and its preview/aftermath. Raw files merged here:
+- `raw/Rapid Reactions Seahawks Clinch NFC West and No. 1 Seed With 13-3 Win Over 49ers.md` (Seahawks.com / Boyle — primary)
+- `raw/Seahawks smother 49ers to clinch NFC West, No. 1 seed as Sam Darnold flips Week 18 script.md` (CBS Sports / Sullivan — best play-by-play)
+- `raw/49ers vs. Seahawks recap Brock Purdy, offense struggle in 13-3 loss to rivals, who take No. 1 seed.md` (NBC Sports Bay Area — 49ers perspective)
+- `raw/Seahawks beat 49ers Winners and Losers from Seattle's NFC West title win.md` (Field Gulls / Alexander — most analytical depth)
+- `raw/Seattle Seahawks studs & duds from a massive win over the San Francisco 49ers.md` (SI Seahawks / Weaver)
+- `raw/Seattle Seahawks-49ers Preview The stakes, matchups, more.md` (MyNorthwest / Van Til — pregame preview)
+- `raw/4 Takeaways From the Seahawks' Win Over the 49ers.md` (Fox Sports / Eric Williams — Darnold redemption framing)
+- `raw/Seahawks vs. 49ers preview Race for the NFC's No. 1 seed.md` (ESPN / Wagoner & Henderson — referencing 2019 Week 17 Dre Greenlaw goal-line stop as historical parallel)
+- `raw/Seahawks vs. 49ers Seattle dominates San Francisco 13-3, clinches No. 1 seed in NFC and NFC West title.md` (Yahoo Sports live blog)
+- `raw/Seahawks 13-3 49ers (Jan 3, 2026) Final Score - ESPN.md` (ESPN Gamecast — box score stub)
+- `raw/Seattle Seahawks vs. San Francisco 49ers Live Score and Stats - January 3, 2026 Gametracker.md` (CBS Gametracker — stats-only stub)
+
+The Field Gulls winners/losers piece has the most analytical depth; the CBS Sullivan recap has the best play-by-play reconstruction; the NBC Bay Area perspective provides the 49ers' viewpoint. ESPN preview adds the 2019 Greenlaw goal-line stop as the historical parallel for NFC West-on-the-line regular season finales. Fox Sports (Williams) frames the Darnold redemption narrative explicitly (2024 Week 18 Vikings loss to Detroit with NFC North on the line, then Rams Wild Card loss).

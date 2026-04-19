@@ -24,6 +24,9 @@ changes_from_v2: |
   - Changed "26 videos" to "dozens of videos" — the specific count is not in any court document
     and cannot be sourced to a Tier 1-2 outlet; the scale ("dozens") is preserved without claiming
     an unsourceable figure
+  - Editorial pass: rewrote Fix 2 in plainer language — replaced "Hague mechanism," "evidentially
+    fragile," "carve-outs," "MLAT analog," and the "reachability gradient with a steep slope"
+    metaphor with everyday phrasing. Substance unchanged.
 ---
 
 # The Defendant Is in Miami. The Harm Came From Oxford.
@@ -94,7 +97,7 @@ Three structural fixes. All three target the gap between reachable fault and act
 
 **Fix 1 — A third-party catfisher provision in NCII statutes.** Not to shield the reachable defendant. To give the unreachable actor a cause of action built for him. Civil and criminal liability triggered by the combination of identity theft and NCII distribution, with statute-of-limitations tolling for cases where the impersonator is discovered only after the victim has already been sued. As written, § 6851 has no operational concept of an intermediary who manufactured the consent narrative itself. It cannot reach a Solo at all.
 
-**Fix 2 — A digital-harm carve-out in foreign civil cooperation.** Pxie has already filed a letter rogatory targeting the UK. The Hague mechanism is real. It is also slow and evidentially fragile enough that the reachable defendant will absorb the full practical weight of the suit before the process produces anything usable. Extradition has carve-outs for specific offenses; foreign civil discovery does not. Digital identity abuse and cross-border intimate-image distribution are discrete enough to warrant a streamlined civil MLAT analog. Without one, reachability stays a gradient with a steep slope near the reachable party.
+**Fix 2 — A digital-harm carve-out in foreign civil cooperation.** Pxie has already filed a letter rogatory targeting the UK. The international cooperation process exists. It is also slow, and the evidence it can pull out of an anonymous user is thin enough that the trial will be over before any of it lands. Criminal extradition has fast tracks for specific offenses. Civil discovery across borders does not. Cross-border intimate-image distribution and digital identity theft are specific enough harms to deserve their own version — a civil equivalent of the treaties prosecutors already rely on. Without one, the closer a defendant is to home, the more of the lawsuit they end up carrying alone.
 
 **Fix 3 — Platform design liability proportionate to design choices.** The KiwiFarms thread where the drop landed had been running since March 2017. It has a subforum called Lolcows. It had a seven-year prior on the target. The distribution infrastructure was already built; Solo did not design it, he dumped into it. [Section 230](https://www.law.cornell.edu/uscode/text/47/230) treats the forum as a neutral pipe. The pipe is not neutral. Liability that attaches to platform design choices — subforum architecture and amplification defaults — targets the actual substrate of the harm. Nothing else does.
 

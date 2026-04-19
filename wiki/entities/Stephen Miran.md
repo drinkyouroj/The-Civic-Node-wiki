@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 6
+sources: 7
 ---
 
 ## Overview
@@ -33,6 +33,7 @@ Stephen Miran is the chair of Trump's Council of Economic Advisers (CEA) and a T
 
 - [[New Trump appointee Miran calls for half-point cut]]
 - [[Fed 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent]]
+- [[The Fed's Independence Theater]] — published article; Miran's first-meeting dissent and "flying blind" admission during shutdown data gap used as centerpiece evidence of political capture (published piece erroneously calls him "Kevin Miran")
 
 ## Open Questions
 

@@ -3,8 +3,8 @@ title: "Misinformation Economy"
 type: concept
 tags: [politics, technology, media, misinformation]
 created: 2026-04-09
-updated: 2026-04-09
-sources: 1
+updated: 2026-04-17
+sources: 5
 ---
 
 ## Definition
@@ -37,3 +37,4 @@ The framing shift — from "misinformation as sincere error" to "misinformation 
 ## Key Sources
 
 - [[Artemis II Conspiracy Theorists Already Failing — Vice]]
+- [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — documents Reddit's dwell-time tuning and the marketer playbook of "sticky, slightly provocative" content — the incentive structure the misinformation economy exploits

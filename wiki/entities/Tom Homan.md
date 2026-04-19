@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, immigration]
 created: 2026-04-11
-updated: 2026-04-11
-sources: 2
+updated: 2026-04-17
+sources: 3
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ Homan is a key player in the federal-local power struggle over immigration enfor
 - [[Kristi Noem]] — DHS Secretary overseeing ICE operations
 
 ## Source Appearances
-- (stub — awaiting source linkage)
+- [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]] — Homan's public statements linking surge duration to state/local "cooperation" cited as evidence of coercive intent in Minnesota's anti-commandeering theory
 
 ## Open Questions
 - What is Homan's actual operational authority vs. his public-facing role as enforcement spokesperson?

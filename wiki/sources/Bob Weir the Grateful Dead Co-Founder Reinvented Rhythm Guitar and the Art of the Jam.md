@@ -6,6 +6,7 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 9
 raw: "raw/Bob Weir the Grateful Dead co-founder reinvented rhythm guitar and the art of the jam [theconversation.com].md"
+raw_alt: "raw/Bob Weir the Grateful Dead co-founder reinvented rhythm guitar and the art of the jam.md"
 source_url: "https://theconversation.com/bob-weir-the-grateful-dead-co-founder-reinvented-rhythm-guitar-and-the-art-of-the-jam-273265"
 author: "Max Bowden"
 published: 2026-01-12

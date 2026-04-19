@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [politics, power, legal, antitrust]
 created: 2026-04-09
-updated: 2026-04-09
-sources: 2
+updated: 2026-04-17
+sources: 7
 ---
 
 ## Overview
@@ -31,6 +31,9 @@ The OLC is doing significant work building the legal architecture of executive i
 
 - [[DOJ OLC Opinion — Presidential Records Act Unconstitutional]] — issued the records opinion
 - [[DOJ Investigating NFL Over Subscription Fees — Antitrust]] — antitrust enforcement arm
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — named defendant in Hennepin County + State of Minnesota evidence lawsuit; did not respond to comment requests
+- [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — defendant; opened civil rights investigation into Pretti death but declined similar review of Good's case — "a departure from past administrations' standard procedure"
+- [[When the Federal Government Blocks State Murder Investigations]] — documents multiple senior Civil Rights Division prosecutor resignations in protest; 33 former federal prosecutors in Minnesota issued open letter calling the posture abnormal
 
 ## Open Questions
 

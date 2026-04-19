@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, military, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 6
+updated: 2026-04-17
+sources: 9
 ---
 
 ## Overview
@@ -33,6 +33,9 @@ Israel is the United States' co-belligerent in the active 2026 war against Iran.
 
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — the joint U.S.-Israeli strike origin
 - [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — continuation of the joint operation through Trump's Easter ultimatum
+- [[Trump Announces 10-Day Israel-Lebanon Ceasefire]] — Netanyahu agrees to 10-day Lebanon ceasefire via Trump brokering; "we are not leaving" southern Lebanon
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — Israel-Lebanon ceasefire cited by Iran as precondition for Strait reopening
+- [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — Israeli strikes in Lebanon (100 targets in 10 min) cited by Iran as "grave violation" of ceasefire
 
 ## Open Questions
 

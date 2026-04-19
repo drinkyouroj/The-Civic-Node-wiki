@@ -3,8 +3,8 @@ title: "Oil Seizure as Coercion"
 type: concept
 tags: [power, energy, monetary-policy, geopolitics]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 4
+updated: 2026-04-17
+sources: 5
 ---
 
 ## Definition
@@ -38,3 +38,4 @@ Oil seizure as coercion is the explicit threat or action of seizing, blocking, o
 ## Key Sources
 
 - [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]]
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — U.S. naval blockade of Iranian shipping persists while Strait reopens for other commerce — selective oil-flow coercion in practice

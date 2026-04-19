@@ -3,8 +3,8 @@ title: "Dynamic Pricing AI"
 type: concept
 tags: [technology, ai, economics]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 9
+updated: 2026-04-17
+sources: 11
 ---
 
 ## Definition
@@ -43,3 +43,5 @@ Dynamic pricing AI creates a fundamental power asymmetry in market transactions:
 - [[AI-Driven Personalized Pricing May Not Help Consumers]]
 - [[Delta Air Lines AI Pricing with Fetcherr — Early Results]] — real-world airline deployment; 3% of Delta domestic routes in 2025, targeting 20% by year-end; industry acknowledges regulatory scrutiny risk
 - [[Future of AI Pricing — SuperAGI]] — industry survey; 75% retail adoption by 2025; 5% revenue gain (Forrester); personalized pricing exploitation risk acknowledged
+- [[Impact of Dynamic Pricing on Customer Behavior and Loyalty — Upvoty]] — industry-friendly framing casting dynamic-pricing targets as "collaborators"; useful as the naive-transparency-fixes-it position
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — API token pricing as the alleged harm; compute scarcity as the mechanism

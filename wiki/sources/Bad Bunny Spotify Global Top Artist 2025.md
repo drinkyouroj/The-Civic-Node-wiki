@@ -43,3 +43,5 @@ Spotify's 2025 Wrapped announcement confirming Bad Bunny as global top artist fo
 ## Notes
 
 Lightweight. Useful corroboration for the Bad Bunny cluster — establishes his commercial scale without political analysis. Pair with [[Bad Bunny Super Bowl 60 Controversy Explained]].
+
+**Alternate reference**: The same 19.8bn-streams / 4th-time-top-artist stat is also reported by Music Business Worldwide (Dec 3, 2025, Mandy Dalugdug — `raw/Bad Bunny is Spotifyâs most-streamed artist globally for 2025 with over 19.8bn streams.md`). MBW adds comparison context: Taylor Swift's 2024 (26.6bn) and 2023 (26.1bn) totals; 2025 top-5 was Bad Bunny → Swift → The Weeknd → Drake → Billie Eilish. Not filed as a separate source page since the primary data is identical to the Spotify Newsroom release.

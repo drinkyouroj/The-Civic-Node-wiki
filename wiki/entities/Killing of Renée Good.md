@@ -4,8 +4,8 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, police-violence, minnesota]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 21
+updated: 2026-04-17
+sources: 27
 ---
 
 ## Overview
@@ -54,6 +54,10 @@ This is a defining civil liberties event: a U.S. citizen killed by federal agent
 - [[Trump Says Hes Freezing Minnesota Out of ICE Shooting Probe Because Walz Is a Stupid Person]] — Trump's personal justification; daycare fraud used to delegitimize Walz
 - [[Attorney General Ellison and Minneapolis Saint Paul sue to halt ICE surge]] — legal challenge
 - [[Was the ICE church shooting preventable]] — preventability analysis
+- [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — ProPublica on Hennepin County + Minnesota's federal evidence lawsuit covering Good, Pretti, and Sosa-Celis shootings
+- [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — PBS NewsHour; documents DOJ's declination to open a civil rights investigation in Good's case while opening one in Pretti's — a "departure from past administrations' standard procedure"
+- [[When the Federal Government Blocks State Murder Investigations]] — GovFacts; Good case as central example of "defensive immunity"; Good family's retention of Romanucci & Blandin (George Floyd family firm)
+- [[When Can States Prosecute Federal Agents]] — legal analysis placing Good case within *In re Neagle* framework
 
 ## Open Questions
 - Has Jonathan Ross faced any state-level charges following the federal refusal to prosecute?

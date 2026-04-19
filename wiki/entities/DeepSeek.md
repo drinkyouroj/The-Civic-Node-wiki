@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai]
 created: 2026-04-11
-updated: 2026-04-11
-sources: 2
+updated: 2026-04-17
+sources: 3
 ---
 
 ## Overview
@@ -28,6 +28,7 @@ DeepSeek's efficiency breakthrough is the catalyst for the [[Jevons Paradox]] de
 ## Source Appearances
 
 - [[Why the AI world is suddenly obsessed with a 160-year-old economics paradox]] — triggered the Jevons Paradox discussion
+- [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — DeepSeek's early-2025 price cuts (75% off) exposed Azure-exclusivity-driven pricing at OpenAI; DeepSeek cited as competitive trigger in class-action complaint
 
 ## Open Questions
 

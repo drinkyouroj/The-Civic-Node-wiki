@@ -5,7 +5,7 @@ entity_type: country
 tags: [geopolitics, energy, infrastructure]
 created: 2026-04-11
 updated: 2026-04-11
-sources: 5
+sources: 6
 ---
 
 ## Overview
@@ -32,6 +32,7 @@ Qatar's role as the world's dominant helium supplier creates a critical [[Chokep
 ## Source Appearances
 
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — central to the helium supply disruption
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — praised by Trump as ally alongside Saudi Arabia and UAE
 
 ## Open Questions
 

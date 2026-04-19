@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, politics, power, geopolitics]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 6
+updated: 2026-04-17
+sources: 8
 ---
 
 ## Overview
@@ -30,6 +30,8 @@ TikTok is the clearest current case of AI Sovereignty and Tech-State Conflict: a
 
 ## Source Appearances
 - [[Echo Chamber Research Systematic Review]] — identified as underexplored short video platform
+- [[Keep Up With Social Media Algorithm Changes in 2025 — Vista Social]] — hyper-personalized FYF feature inventory (Trending Filters, Poll Stickers, Playlists, LIVE Subscriptions)
+- [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — detailed description of 2025 For You Feed ranking signals; first-3-seconds completion weight; content-similarity over social graph
 
 ## Open Questions
 - What is the current legal status of the TikTok ban legislation?
