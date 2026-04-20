@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-18
-total_pages: 936
-total_sources: 505
-total_entities: 206
-total_concepts: 128
+updated: 2026-04-19
+total_pages: 964
+total_sources: 522
+total_entities: 217
+total_concepts: 137
 total_syntheses: 13
 total_articles: 86
 ---
@@ -689,6 +689,59 @@ New article:
 
 ---
 
+### Recent Ingests (2026-04-19) — Bad Internet Bills cluster + Flock Safety + LLM Political Bias
+
+**The Bad Internet Bills cluster** — 13 sources on US federal child-safety legislation (KOSA, Section 230 sunset, EARN IT, age verification, SCREEN Act, etc.) framed by Fight for the Future as a coordinated three-vector attack on online speech, with disproportionate harm to LGBTQ+ communities. **The Flock Safety thread** — 2 sources documenting how privately-operated nationwide ALPR networks circumvent local sanctuary policies. **The LLM political bias** outlier — Rozado's PLOS ONE study on cross-provider AI political tilt.
+
+**Bad Internet Bills sources:**
+- [[Bad Internet Bills — Fight for the Future Campaign Hub]] — campaign hub; catalogs Section 230, KOSA, TAKE IT DOWN, EARN IT, COOPER DAVIS, SCREEN Act, STOP CSAM, age-gating bills; 472K+ recorded actions
+- [[Section 230 Legislative History — EFF]] — canonical reference: Cubby v. CompuServe, Stratton Oakmont v. Prodigy, Cox-Wyden amendment, Reno v. ACLU
+- [[Echoes of History in New National Push to Shield Children Online]] — NYT, April 2023; Hansen and Beeson interviews; Reno v. ACLU through 2023; technological inversion attack vector
+- [[Congress is flooded with bills for childproofing the internet]] — The Verge, May 2023; legislative-mechanics reference; EARN IT committee vote; Schumer KOSA backing
+- [[President Biden's executive action on children and the internet]] — Vox, May 2023; Biden EA + Murthy advisory + state-by-state inventory
+- [[Officials say social media is hurting teens — Scientists say it's complicated]] — WaPo Tech 202, May 2023; APA report contradicts political framing; Prinstein opposes age limits
+- [[Child safety bills are reshaping the internet for everyone]] — The Verge, Aug 2023; Louisiana → 17 copycats; NCOSE history; JustFor.Fans operational data
+- [[Considering Age Verification and Impacts on LGBTQ+ Youth]] — Tech Policy Press, July 2024; Povolny's three-tier age-assurance taxonomy; French digital intermediary model
+- [[Age Verification Is Locking Trans People Out of the Internet]] — Tech Policy Press, Dec 2025; Os Keyes research; UK OSA rollout; Tea app breach as proof of concept
+- [[LGBTQ Youth Are Under Attack — Why Are Democrats Pushing a Bill That Hurts Them More]] — Vice, Dec 2022; Greer's canonical KOSA-opposition / duty-of-care critique
+- [[This Bill Threatens Access to LGBTQ+ Online Communities — Philips]] — Teen Vogue, July 2023; AO3 DDoS; Surgeon General report contradiction; Texas/Paxton anchor
+- [[This Bill Purports to Protect Kids From Big Tech — Bonesteel]] — *Them*, July 2024; 38-Dem co-sponsor list; Project 2025 KOSA rationale; queer youth testimonials
+- [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]] — Teen Vogue, Oct 2025; the canonical three-vector framing (Section 230 / age verification / KOSA); Trump FTC anti-trans workshop
+- [[EFF Age Verification One Pager]] — EFF reference brief (PDF)
+
+**Flock Safety thread:**
+- [[Atlanta PD used Flock cameras to track migrants]] — ACPC, Nov 2025; APD audit reveals 15 immigration-related searches contradicting official denial; 4,500-agency network scale; Pierce County workaround
+- [[Community members protest Flock Safety cameras at Emory]] — Emory Wheel, April 15 2026; April 10 walkout; 7+ campus cameras since 2024; AVP Diamond statement vs. Atlanta audit precedent
+
+**LLM Political Bias:**
+- [[The political preferences of LLMs — Rozado]] — PLOS ONE, July 2024; 24 conversational LLMs / 11 tests / 2,640 administrations; cross-provider left-of-center tilt; SFT malleability demonstrated
+
+**New entity pages:**
+- [[Fight for the Future]] — queer-/trans-led digital rights org; runs badinternetbills.com; Greer leads; smeared by Blumenthal
+- [[Evan Greer]] — FtF director; canonical KOSA-opposition voice
+- [[Heritage Foundation]] — Project 2025 coordinator; explicit anti-LGBTQ+ KOSA framing
+- [[Marsha Blackburn]] — KOSA R co-sponsor; "from the transgender" quote
+- [[Richard Blumenthal]] — KOSA D co-sponsor; "pawn of Big Tech" smear of FtF
+- [[Flock Safety]] — Atlanta-based ALPR vendor; 4,500-agency network; ICE-cooperation contradiction
+- [[Atlanta Police Department]] — Flock immigration-search contradiction case
+- [[Archive of Our Own]] — fan-fiction platform; queer-youth refuge; 2023 DDoS; KOSA grassroots node
+- [[David Rozado]] — author of primary peer-reviewed LLM political-bias study
+- [[Electronic Frontier Foundation]] — canonical Section 230 reference; coalition partner
+- [[ACLU]] — Reno v. ACLU lead plaintiff; ongoing KOSA litigation
+
+**New concept pages:**
+- [[KOSA]] — Kids Online Safety Act; central legislative target
+- [[Section 230]] — foundational platform liability shield under bipartisan attack
+- [[Age Verification]] — three-tier taxonomy; surveillance-as-safety pattern
+- [[EARN IT Act]] — Section 230 conditionality as encryption-attack vehicle
+- [[Duty of Care (Internet Bills)]] — KOSA's structural censorship mechanism
+- [[SESTA/FOSTA]] — 2018 historical precedent for KOSA's failure mode
+- [[Bad Internet Bills Campaign]] — FtF-organized opposition coalition
+- [[Flock Safety Surveillance Network]] — connected ALPR infrastructure as sanctuary-policy circumvention
+- [[LLM Political Bias]] — cross-provider conversational AI political tilt
+
+---
+
 ## Entities
 
 ### Events
@@ -1168,9 +1221,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 503 |
+| Total sources ingested | 520 |
 | Published articles tracked | 86 |
-| Entity pages | 191 |
-| Concept pages | 121 |
+| Entity pages | 202 |
+| Concept pages | 130 |
 | Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-18 |
+| Last updated | 2026-04-19 |

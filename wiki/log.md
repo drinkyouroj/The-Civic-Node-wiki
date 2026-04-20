@@ -5,6 +5,30 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-19] ingest | Bad Internet Bills cluster + Flock Safety + LLM political bias (17 sources, automated daily ingest)
+
+Largest single-day ingest in recent history: 17 raw sources — 13 on the federal "child safety" internet legislation cluster (KOSA, Section 230 sunset, EARN IT, age verification, SCREEN Act), 2 on Flock Safety surveillance network expansion, 1 PLOS ONE peer-reviewed study on LLM political bias, and 1 EFF age-verification one-pager (PDF).
+
+**Cluster framing (per [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]], Greer/Rose, Teen Vogue Oct 2025):** Three coordinated vectors of internet censorship — Section 230 sunset (Trump + Durbin + Klobuchar); age-verification laws (19 states + federal SCREEN Act); KOSA (Schumer co-sponsoring; Trump FTC anti-trans workshop). All three enabled by Democratic complicity despite uniform opposition from queer-/trans-led civil society. Heritage Foundation's Project 2025 explicitly frames the cluster as anti-LGBTQ+ infrastructure.
+
+**Sources by theme:**
+
+*Bad Internet Bills (13):* [[Bad Internet Bills — Fight for the Future Campaign Hub]] (campaign hub); [[Section 230 Legislative History — EFF]] (canonical reference); [[Echoes of History in New National Push to Shield Children Online]] (NYT historical anchor — Reno v. ACLU); [[Congress is flooded with bills for childproofing the internet]] (The Verge legislative survey); [[President Biden's executive action on children and the internet]] (Vox state inventory + May 2023 EA); [[Officials say social media is hurting teens — Scientists say it's complicated]] (WaPo APA contradiction); [[Child safety bills are reshaping the internet for everyone]] (Verge state-level deep dive + NCOSE history); [[Considering Age Verification and Impacts on LGBTQ+ Youth]] (Tech Policy Press conceptual frame); [[Age Verification Is Locking Trans People Out of the Internet]] (Tech Policy Press 2025 trans-specific harms + Tea breach); [[LGBTQ Youth Are Under Attack — Why Are Democrats Pushing a Bill That Hurts Them More]] (Greer Vice 2022 — canonical duty-of-care critique); [[This Bill Threatens Access to LGBTQ+ Online Communities — Philips]] (Teen Vogue 2023 + AO3 narrative); [[This Bill Purports to Protect Kids From Big Tech — Bonesteel]] (Them 2024 + youth testimonials); [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]] (Teen Vogue 2025 — three-vector framing); [[EFF Age Verification One Pager]] (PDF reference brief).
+
+*Flock Safety (2):* [[Atlanta PD used Flock cameras to track migrants]] (ACPC Nov 2025 — APD audit reveals immigration-search contradiction); [[Community members protest Flock Safety cameras at Emory]] (Emory Wheel April 15 2026 — campus walkout).
+
+*LLM Political Bias (1):* [[The political preferences of LLMs — Rozado]] (PLOS ONE 2024 — 24-LLM cross-provider tilt study).
+
+**11 new entity pages:** [[Fight for the Future]], [[Evan Greer]], [[Heritage Foundation]], [[Marsha Blackburn]], [[Richard Blumenthal]], [[Flock Safety]], [[Atlanta Police Department]], [[Archive of Our Own]], [[David Rozado]], [[Electronic Frontier Foundation]], [[ACLU]].
+
+**9 new concept pages:** [[KOSA]], [[Section 230]], [[Age Verification]], [[EARN IT Act]], [[Duty of Care (Internet Bills)]], [[SESTA/FOSTA]], [[Bad Internet Bills Campaign]], [[Flock Safety Surveillance Network]], [[LLM Political Bias]].
+
+**Editorial significance:** This cluster opens a major new domain for the wiki — Politics + Technology + LGBTQ+ rights via internet legislation. Connects existing entities ([[Federal Trade Commission]], [[Donald Trump]], [[Charlie Kirk Assassination]]) into a coordinated political project. The Flock thread connects to the existing ICE / sanctuary-policy / [[Operation Metro Surge]] cluster as a parallel "federal-via-private-vendor" pattern. The Rozado study introduces AI political infrastructure as a discrete theme.
+
+Index updated: 520 sources (+17), 202 entities (+11), 130 concepts (+9), 964 total pages (+28).
+
+---
+
 ## [2026-04-18] ingest | Doe v Bonnell ECF 23 scheduling order + v3 draft of "The Process Is the Punishment"
 
 ECF 23 (Judge Becerra's April 3, 2025 scheduling order) ingested as new source page. Locks in May 18, 2026 trial, December 16, 2025 discovery cutoff, January 30, 2026 dispositive motion deadline. Continuance must be filed ≥30 days before trial. This is the baseline scheduling order against which ECF 227 (plaintiff's April 8, 2026 continuance motion) and ECF 235 (Bonnell opposition) are measured.
