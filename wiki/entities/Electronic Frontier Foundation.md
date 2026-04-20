@@ -2,41 +2,50 @@
 title: "Electronic Frontier Foundation"
 type: entity
 entity_type: organization
-tags: [politics, technology, digital-rights, privacy, advocacy, legal]
+tags: [legal, technology, politics, censorship]
 created: 2026-04-19
 updated: 2026-04-19
-sources: 12
+sources: 16
 ---
 
 ## Overview
-The Electronic Frontier Foundation (EFF) is a San Francisco-based digital civil-liberties nonprofit founded in 1990. It litigates, lobbies, and publishes research against internet surveillance, platform-liability erosion, and mandatory identity systems. It is the primary technical and legal counterweight to the current wave of child-safety legislation.
+The Electronic Frontier Foundation (EFF) is a US non-profit founded 1990, focused on civil liberties in the digital sphere. Author of the canonical [[Section 230]] legal-history reference; recurring litigant or amicus across Reno v. ACLU, Tumblr/SESTA cases, KOSA-related state lawsuits, and Flock-related local privacy cases. Coalition partner of [[Fight for the Future]] across the [[Bad Internet Bills Campaign]]; primary technical-policy voice on encryption, age verification, and platform liability.
 
 ## Key Facts
-- Headquartered in San Francisco; staff cited across the ingested cluster include Jason Kelley (Activism Director), Paige Collings (Senior Speech & Privacy Activist), and India McKinney (Director of Federal Affairs).
-- Leads opposition, with detailed legal analysis, on [[Kids Online Safety Act (KOSA)]], [[EARN IT Act]], [[STOP CSAM Act]], and state-level [[Age Verification]] laws.
-- Maintains the legislative memory around [[Section 230]] — the [[Section 230 Legislative History]] source in this wiki is an EFF-authored explainer.
-- Grounds its age-verification opposition in First Amendment precedent, particularly [[Reno v. ACLU]] (1997) [[EFF Age Verification One-Pager]].
-- Also active on adjacent surveillance issues in this wiki: cryptocurrency financial surveillance [[US Government Targeting Cryptocurrency Financial Surveillance EFF]] and consumer-data enforcement [[California Targets Tractor Supply's Tricky Tracking — EFF]].
+- Authored the canonical [[Section 230 Legislative History — EFF]] reference page; primary source for Section 230 origin story across the wiki
+- **Blue Ribbon Campaign (1996)** — early online speech protest; sites linked back to EFF
+- Quoted across this cluster on KOSA, age verification, Flock Safety:
+  - **India McKinney** (director of federal affairs) on KOSA — [[President Biden's executive action on children and the internet]]
+  - **Jason Kelley** (activism director) on age verification — [[Child safety bills are reshaping the internet for everyone]]
+  - **Paige Collings** (senior speech and privacy activist) on UK OSA — [[Age Verification Is Locking Trans People Out of the Internet]]
+- **Austin Flock contract cancellation (June 2025)** — cited EFF Deeplinks as part of the organizing victory ([[Atlanta PD used Flock cameras to track migrants]] context)
+- Issued the [[EFF Age Verification One Pager]] reference brief
+- Operates the eff.org/deeplinks blog cited extensively across the cluster
 
 ## Newsletter Relevance
-EFF is the closest thing to an institutional memory for the open internet — their legislative histories and legal analyses are load-bearing across multiple sources in this wiki. For Technology & State coverage, they're the go-to primary-source interpreter of how bills like KOSA and EARN IT would actually function once enforced. Their framing consistently connects age-verification mandates to encryption weakening and mass-surveillance data honeypots — a line of argument worth centering in any piece on the child-safety legislative wave.
+EFF is the **technical-policy backbone** of the digital rights coalition. Where [[Fight for the Future]] handles political organizing and grassroots campaigning, EFF provides the legal-historical reference (Section 230 piece), litigation infrastructure (Reno v. ACLU descendant cases), and technical analysis (encryption, biometric bias). Together they form the institutional framing for any newsletter piece on the bad-internet-bills cluster.
 
 ## Connections
-- [[Jason Kelley]], [[India McKinney]], [[Paige Collings]] — key staff voices in this wiki's sources
-- [[Fight for the Future]] — coalition partner on Bad Internet Bills
-- [[ACLU]] — historical co-litigant ([[Reno v. ACLU]])
-- [[Section 230]] — EFF authored the legislative history source
-- [[Age Verification]] — primary opposition framework
-- [[Kids Online Safety Act (KOSA)]], [[EARN IT Act]], [[STOP CSAM Act]] — opposed bills
-- [[Surveillance Capitalism]] — related concept
+- [[Fight for the Future]] — coalition partner
+- [[ACLU]] — litigation partner, especially historical (Reno v. ACLU)
+- [[India McKinney]] — director of federal affairs
+- [[Jason Kelley]] — activism director
+- [[Paige Collings]] — senior speech and privacy activist
+- [[Open Rights Group]] — UK counterpart; cited in [[Age Verification Is Locking Trans People Out of the Internet]]
+- [[Knight First Amendment Institute]] — adjacent civil-liberties partner
 
 ## Source Appearances
-- [[EFF Age Verification One-Pager]] — primary EFF-authored source
-- [[Section 230 Legislative History]] — EFF-authored
-- [[Bad Internet Bills]] — coalition co-member
-- [[US Government Targeting Cryptocurrency Financial Surveillance EFF]]
-- [[California Targets Tractor Supply's Tricky Tracking — EFF]]
+- [[Section 230 Legislative History — EFF]] — canonical reference (author)
+- [[EFF Age Verification One Pager]] — reference brief (author)
+- [[Bad Internet Bills — Fight for the Future Campaign Hub]] — coalition partner
+- [[Child safety bills are reshaping the internet for everyone]] — Kelley quoted
+- [[President Biden's executive action on children and the internet]] — McKinney quoted
+- [[Considering Age Verification and Impacts on LGBTQ+ Youth]] — Greer (FtF, EFF cited together)
+- [[LGBTQ Youth Are Under Attack — Why Are Democrats Pushing a Bill That Hurts Them More]] — coalition signatory
+- [[Age Verification Is Locking Trans People Out of the Internet]] — Collings quoted
+- [[Atlanta PD used Flock cameras to track migrants]] — Austin Flock-cancellation context
 
 ## Open Questions
-- How has EFF's litigation strategy shifted now that multiple state age-verification laws (TX, UT, LA) are moving through the circuits?
-- What is their posture on the Trump II FTC's use of KOSA-style enforcement authority if the bill passes?
+- EFF litigation pipeline against state-level age-verification laws — current docket and forecast outcomes given current SCOTUS composition
+- Internal funding and donor dependency — EFF has historically taken positions even tech-industry funders disagreed with; how robust is that independence under current pressure?
+- Coordination with EU/UK counterparts (Open Rights Group, EDRi) on cross-jurisdictional digital rights pressure

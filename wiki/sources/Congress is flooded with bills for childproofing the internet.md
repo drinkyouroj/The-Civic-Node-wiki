@@ -1,10 +1,10 @@
 ---
 title: "Congress is flooded with bills for childproofing the internet"
 type: source
-tags: [legislation, child-safety, section-230, age-verification, politics, civil-liberties]
+tags: [politics, technology, censorship, encryption, legal]
 created: 2026-04-19
 updated: 2026-04-19
-sources: 17
+sources: 20
 raw: "raw/Congress is flooded with bills for childproofing the internet.md"
 source_url: "https://www.theverge.com/2023/5/5/23712443/kosa-earn-it-coppa-child-privacy-data-tiktok-blackburn-blumenthal"
 author: "Makena Kelly"
@@ -14,47 +14,54 @@ published: 2023-05-05
 [Original source](https://www.theverge.com/2023/5/5/23712443/kosa-earn-it-coppa-child-privacy-data-tiktok-blackburn-blumenthal)
 
 ## Summary
-The Verge rundown of a single week's flood of US child-safety internet bills: Protecting Kids on Social Media Act, [[COPPA]] 2.0, Kids Online Privacy Act, and [[EARN IT Act]] passing committee for the second time. Anchors on the [[Frances Haugen]] Facebook whistleblower documents as catalyst and traces bipartisan momentum plus the [[FTC]]'s parallel proposal to ban Meta from monetizing under-18 user data.
+The Verge survey of the May 2023 federal-level explosion of child internet legislation: Protecting Kids on Social Media Act (under-13 ban + national age-verification pilot), Kids Online Privacy Act, COPPA 2.0 (raising COPPA age 13→16, Markey), [[KOSA]] (reintroduced), and EARN IT (cleared committee for second time, unanimous voice vote). Documents Frances Haugen's October 2021 Facebook leak as the political triggering event. Captures the moment Senate Democrats (Schumer, 24+ co-sponsors) committed to KOSA, and the FTC moved to ban Meta from monetizing data on under-18 users (proposing changes to the 2020 privacy order).
 
 ## Key Points
-- Protecting Kids on Social Media Act: federal age verification pilot, bans under-13 from social media.
-- Ed Markey's [[COPPA 2.0]] raises age of privacy protection from 13 to 16.
-- EARN IT passed Senate Judiciary by unanimous voice vote despite encryption concerns from Booker (NJ) and Ossoff (GA).
-- [[KOSA]] backed by 24 senators including Majority Leader Schumer.
-- [[FTC]] proposed Meta be barred from monetizing under-18 user data — Messenger Kids violations of 2020 consent decree.
-- Commissioner Alvaro Bedoya questioned FTC authority under current law.
-- House (under McCarthy) more focused on debt ceiling than kids' privacy.
+- **Bills introduced/advanced in one week (early May 2023):**
+  - Protecting Kids on Social Media Act (national age-verification pilot, under-13 ban)
+  - Kids Online Privacy Act (Senate)
+  - COPPA 2.0 (Markey, age 13→16)
+  - EARN IT — passed Senate Judiciary unanimously by voice vote
+- **24+ senators backing KOSA**, including Senate Majority Leader Chuck Schumer.
+- **Cory Booker (D-NJ) and Jon Ossoff (D-GA)** raised cybersecurity / encryption concerns at EARN IT vote but did not block it.
+- **FTC proposed change to 2020 Meta order:** ban monetizing under-18 user data; require independent privacy assessor sign-off on new products. Bedoya questioned authority.
+- **Frances Haugen 2021 leak** is the consistent political reference for the post-2021 wave.
+- **House Republican leadership (McCarthy)** focused on debt ceiling — child-online bills face House headwinds.
+- **Evan Greer** at Fight for the Future press conference: agrees Big Tech harms kids, but says these specific bills will make problems worse.
 
 ## Newsletter Angles
-- The "bipartisan" fig leaf: this wave of legislation moves fast precisely because the core objections (encryption, speech) don't map cleanly onto left-right. The result is bad policy with minimal political cost.
-- The [[Frances Haugen]] catalyst: single whistleblower moment in 2021 arguably created the political space for every subsequent child-safety bill. A study in how whistleblower documents shape years of downstream legislation.
-- Regulatory agencies vs. Congress: FTC moving faster and more coherently than Congress on Meta-specific violations. Might be the more durable path.
+- Useful as the **legislative-mechanics reference** for any piece on KOSA/EARN IT — captures committee vote dynamics, sponsor lists, and the Frances-Haugen-as-ignition-point framing.
+- **Politics:** Documents the Schumer-Schumer dynamic — Senate Dem leadership behind KOSA before the broader civil rights coalition mobilized fully. Useful for tracking Democratic complicity over time.
+- Pairs with [[President Biden's new executive action is all about children and the internet]] (Vox, May 2023) and [[Officials say social media is hurting teens. Scientists say it's complicated]] (WaPo, June 2023) — same week of activity, different framings.
 
 ## Entities Mentioned
-- [[Marsha Blackburn]] (R-TN), [[Richard Blumenthal]] (D-CT) — KOSA co-sponsors
-- [[Ed Markey]] (D-MA) — COPPA 2.0
-- [[Lindsey Graham]] (R-SC) — EARN IT Act
-- [[Cory Booker]] (D-NJ), [[Jon Ossoff]] (D-GA) — encryption concerns
-- [[Chuck Schumer]]
-- [[Kevin McCarthy]]
-- [[Frances Haugen]] — Facebook whistleblower
-- [[FTC]] / Federal Trade Commission
-- [[Alvaro Bedoya]] — FTC commissioner
-- [[Fight for the Future]] — Evan Greer
-- [[Meta]] — Messenger Kids COPPA violations
+- [[Marsha Blackburn]] — KOSA co-sponsor
+- [[Richard Blumenthal]] — KOSA co-sponsor
+- [[Lindsey Graham]] — EARN IT co-sponsor
+- [[Ed Markey]] — COPPA 2.0 lead
+- [[Chuck Schumer]] — KOSA backer
+- [[Cory Booker]] — encryption concerns
+- [[Jon Ossoff]] — encryption concerns
+- [[Kevin McCarthy]] — House debt-ceiling focus
+- [[Joe Biden]] — SOTU child-safety language
+- [[Frances Haugen]] — 2021 Facebook leak
+- [[Evan Greer]] — Fight for the Future
+- [[Federal Trade Commission]] — moving against Meta data practices
+- [[Alvaro Bedoya]] — FTC commissioner; authority concerns
+- [[Meta]] / [[Instagram]] / [[WhatsApp]] / [[Oculus]] — FTC target
 
 ## Concepts Mentioned
-- [[KOSA]] / Kids Online Safety Act
+- [[KOSA]]
 - [[EARN IT Act]]
-- [[COPPA]] / Children's Online Privacy Protection Act
+- [[COPPA]]
 - [[Section 230]]
-- [[End-to-end encryption]]
-- [[Duty of care]]
+- [[Age Verification]]
+- [[End-to-End Encryption]]
 
 ## Quotes
-> "The bills that we are talking about today will make all of the problems that we are discussing worse, not better." — Evan Greer
+> "We have a real concern in this bill about issues of cybersecurity and how we might empower the government to do things to target disadvantaged groups for more harassment and discrimination." — Cory Booker on EARN IT
 
-> "I have a real concern in this bill about issues of cybersecurity and how we might empower the government to do things to target disadvantaged groups for more harassment and discrimination." — Sen. Cory Booker on EARN IT
+> "the bills that we are talking about today will make all of the problems that we are discussing worse, not better." — Evan Greer
 
 ## Notes
-Straight-news Verge policy reporting, May 2023. Useful baseline for the pre-2024 bill landscape before KOSA's multiple amendments.
+The Verge; tech-policy beat reporting. Straight news, not opinion. Useful baseline document for understanding what was on the table in spring 2023, before the bills evolved through their multiple amendments. Note: Schumer's 24-co-sponsor claim sourced via WaPo, not original reporting.

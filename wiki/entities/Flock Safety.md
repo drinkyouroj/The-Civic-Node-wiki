@@ -2,38 +2,49 @@
 title: "Flock Safety"
 type: entity
 entity_type: organization
-tags: [surveillance, infrastructure, technology, power, policing, immigration]
+tags: [surveillance, infrastructure, technology, immigration, power]
 created: 2026-04-19
 updated: 2026-04-19
-sources: 7
+sources: 12
 ---
 
 ## Overview
-Flock Safety is an Atlanta-based surveillance technology company that sells networked automated license plate reader (ALPR) cameras to law-enforcement agencies, HOAs, and private businesses. Its cameras are deployed with more than 5,000 agencies nationwide, creating a de facto national vehicle-movement database accessible across jurisdictions. Despite marketing itself as a neighborhood-safety tool, its infrastructure has been used for immigration enforcement and is the subject of growing community protest.
+Flock Safety is an Atlanta-based private surveillance technology company providing automated license plate readers (ALPRs), vehicle "fingerprint" recognition, and related capture systems to ~4,500 US law enforcement and private agencies. Operates a connected nationwide network through which any participating agency can query data captured by any other — making the [[Flock Safety Surveillance Network]] *de facto* nationwide surveillance infrastructure with no federal warrant requirement. Central character in the contemporary debate over how privately operated surveillance vendors enable federal immigration enforcement to circumvent local sanctuary policies.
 
 ## Key Facts
-- Atlanta, GA-based; ALPR camera network spanning >5,000 law-enforcement agencies and an unknown number of private/HOA deployments.
-- [[Atlanta Police Department]] used Flock's network to run license-plate queries on behalf of [[ICE]] immigration enforcement, per public records obtained by local reporters [[Atlanta PD used Flock cameras to track migrants, records show]].
-- Queries from one jurisdiction can search cameras owned by another — a design feature that makes single-jurisdiction "sanctuary" policies effectively unenforceable.
-- Active community opposition on college campuses; protests have pushed several universities and municipalities to pause or remove cameras [[Community members unite to protest Flock Safety cameras on campus]].
-- Functions as privately owned surveillance infrastructure sold into public agencies — a model with minimal federal oversight and no unified auditing regime.
+- **~4,500 agencies** participate in Flock's connected network ([[Atlanta PD used Flock cameras to track migrants]])
+- **10.6 million searches** of Atlanta PD's cameras alone in 2025; APD itself ran 323,292 searches; 3,254 by US Border Patrol; 3,383 with immigration keywords from external agencies
+- **Camera capabilities:** License plate, vehicle make/model, bumper stickers, body damage — composite "vehicle fingerprint"
+- **CBP/HSI pilots ended Aug 25, 2025** — Flock announced ending limited pilots after Illinois Secretary of State audit found federal agencies had direct access to Illinois networks in violation of state law
+- **Workaround documented:** Pierce County (GA) Sheriff ran 4 "Border Patrol Assist" searches on Sept 15, 2025, providing the cross-jurisdictional bypass
+- **8+ cities cancelled or paused contracts** in 2025 over privacy/ICE concerns (NBC News)
+- **Austin City Council** declined to renew (June 2025); **Denver City Council** unanimously rejected extension but Mayor [[Mike Johnston]] unilaterally signed a smaller contract under cost threshold
+- **Campus expansion:** [[Emory University]] deployed 7+ Flock cameras since 2024; April 2026 student/faculty walkout demanded contract termination
+- **Stated position (Jan 6, 2026 statement):** No partnership with ICE; access requires explicit customer grant + applicable law
 
 ## Newsletter Relevance
-Flock is the ground-truth example of how [[Surveillance Capitalism]] infrastructure becomes state infrastructure without a public debate. The Atlanta/ICE story is a clean case of [[Regulatory Weaponization]]: a local department's relationship with a private vendor is the pipeline that routes around sanctuary policies. For Power & Infrastructure coverage, Flock sits at the intersection of privatized policing, immigration enforcement, and local-democracy erosion. The campus protests are a useful counter-narrative to the "inevitability" framing vendors deploy.
+Flock is the **clearest case study of "private vendor as policy-laundering vehicle"** in this wiki's surveillance coverage. The architecture is the story: local sanctuary policies become functionally meaningless when local cameras feed a nationwide network that ICE-cooperative neighboring agencies can query. Connects directly to [[Operation Metro Surge]] and [[Killing of Renée Good]] as parallel "federal-immigration-via-local-infrastructure" cases.
+
+The contradiction between Flock's stated non-cooperation policy and the documented operational reality (Atlanta audit; Pierce County workaround; Illinois SoS audit) is the editorial center.
 
 ## Connections
-- [[ICE]] — end-user of queries routed through local PDs
-- [[Atlanta Police Department]] — documented user for immigration surveillance
-- [[Surveillance Capitalism]] — parent concept
-- [[ICE Public Opinion Shift]] — related dynamic
-- [[Federal Immunity Above Constitutional Law]] — related concept for federal-local surveillance tensions
+- [[Atlanta Police Department]] — primary documented misuse case
+- [[Atlanta Community Press Collective]] — primary investigative outlet
+- [[US Customs and Border Protection]] — major external user (pilots officially ended)
+- [[ICE]] — central concern
+- [[Enforcement and Removal Operations (ERO)]] — search-keyword origin
+- [[Sandy Springs Police Department]] — also documented running ERO queries
+- [[Pierce County Sheriff's Department (GA)]] — post-pilot CBP workaround
+- [[Austin City Council]] / [[Denver City Council]] — local political opposition
+- [[Illinois Secretary of State]] — Flock audit finding illegal CBP access
+- [[Emory University]] — campus deployment under protest
 
 ## Source Appearances
-- [[Atlanta PD used Flock cameras to track migrants, records show]] — primary accountability reporting
-- [[Community members unite to protest Flock Safety cameras on campus]] — opposition movement
+- [[Atlanta PD used Flock cameras to track migrants]] — primary investigative document
+- [[Community members protest Flock Safety cameras at Emory]] — campus expansion under protest
 
 ## Open Questions
-- What is Flock's revenue share between public-agency contracts and HOA/private deployments?
-- Which other municipal PDs have cross-queried Flock on ICE's behalf, and are there audit logs that would surface this?
-- What is the legal theory, if any, under which a sanctuary jurisdiction can meaningfully restrict Flock cross-jurisdiction queries?
-- Who are Flock's investors, and how does its board composition compare to peers (Axon, Palantir)?
+- Funding and ownership structure — Flock has raised significant venture capital; understanding the investor pressure to expand the agency network is key to predicting how seriously they'll enforce non-cooperation pledges.
+- Technical architecture of "ending CBP pilots" — what changed materially? The Pierce County workaround suggests very little.
+- Analogous private-vendor surveillance systems (e.g., Axon, Palantir) — how does Flock's business model compare to broader police-tech sector consolidation?
+- The water/energy footprint of Flock's AI infrastructure — flagged at the Emory protest, but lacks a hard public number specific to Flock.

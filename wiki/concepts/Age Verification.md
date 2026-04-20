@@ -1,44 +1,67 @@
 ---
 title: "Age Verification"
 type: concept
-tags: [technology, censorship, privacy, surveillance, lgbtq, legal, power]
+tags: [technology, censorship, surveillance, lgbtq, politics, ai]
 created: 2026-04-19
 updated: 2026-04-19
-sources: 13
+sources: 17
 ---
 
 ## Definition
-Age verification is the practice of requiring users to prove their age — typically via government-ID upload, biometric face scan, or credit-card authentication — before accessing online content. In the current U.S. legislative wave, it is the enforcement mechanism that makes bills like [[Kids Online Safety Act (KOSA)]], the [[EARN IT Act]], and state-level "porn laws" operational. In practice, platforms facing liability for serving minors respond by ID-gating all users, not just suspected minors.
+**Age verification** (or "age assurance") is the mandated practice of requiring users to prove their age — and increasingly their identity — to access certain websites or platforms. [[Considering Age Verification and Impacts on LGBTQ+ Youth]] (Povolny, 2024) defines a useful three-tier taxonomy:
+
+- **Age screening / declaration:** Self-attestation ("I am 18+"). Largely unenforceable.
+- **Age verification:** Government ID upload or third-party identity verification. Requires submitting personally identifiable information.
+- **Age estimation:** Biometric AI (facial scan, voiceprint, behavior pattern) inferring age without explicit ID.
+
+19 US states had passed online ID-check laws by Dec 2025; the federal **SCREEN Act** would impose nationwide requirements for sites deemed "harmful to minors." The UK [[Online Safety Act]] mandates age assurance industry-wide as of July 2025.
 
 ## Why It Matters for the Newsletter
-Age verification is where "protect the children" framing collides with the structural reality of the internet: there is no privacy-preserving way to verify identity at scale without building a surveillance chokepoint. This cuts across Politics (bipartisan cover for the mandate), Power (who controls the ID pipeline and the data honeypots it creates), and Technology & State (the end of anonymous internet access as a civic default). The trans-exclusion angle — face-scan systems with documented bias against trans users — reveals who the enforcement architecture actually targets when implemented.
+Age verification is the operational mechanism through which the [[KOSA]], [[EARN IT Act]], and SCREEN Act legislative cluster converts "child safety" framing into actual surveillance and censorship infrastructure. It is the place where Politics, Power, Technology, and LGBTQ+ rights themes converge. The systems are documented to be (a) biased against trans users, (b) ineffective at their stated goals, (c) breach-vulnerable in ways that uniquely endanger marginalized communities, and (d) deployed disproportionately to gate reproductive health, LGBTQ+, and political content.
 
 ## Evidence & Examples
-- **Structural lock-out of trans users**: Face-recognition-based age estimation systems systematically misclassify trans people, cutting them off from services that treat misclassification as non-compliance [[Age Verification Is Locking Trans People Out of the Internet]].
-- **LGBTQ+ youth harm**: Age-gating forces LGBTQ+ youth — who often rely on online communities for survival information before coming out to family — to either out themselves to guardians or lose access [[Considering Age Verification and Impacts on LGBTQ+ Youth]], [[This Bill Purports to Protect Kids from Big Tech. For LGBTQ+ Youth, It’s a Grave Danger]].
-- **Data honeypot creation**: Every ID-gating system generates a centralized database of government IDs linked to content consumed — an irresistible target for breach, subpoena, or sale [[EFF Age Verification One-Pager]].
-- **Biden EO precedent**: The 2024 Biden executive action on children and the internet signaled federal appetite for mandated verification even from a Democratic administration [[President Biden’s new executive action is all about children and the internet]].
-- **Circumvents the poor and undocumented**: Requires possession of a state ID or credit card — instantly excludes millions from legal online access [[Considering Age Verification and Impacts on LGBTQ+ Youth]].
-- **Constitutional precedent**: [[Reno v. ACLU]] (1997) struck down prior age-verification mandates in the Communications Decency Act as overbroad First Amendment restrictions [[Section 230 Legislative History]], [[EFF Age Verification One-Pager]].
+**Operational failures:**
+- **JustFor.Fans data** (cited in [[Child safety bills are reshaping the internet for everyone]]): Only 25% of users click verification link, 9% complete; $1.50/user cost.
+- **Pornhub Louisiana traffic dropped 80%** after age-verification rollout ([[President Biden's executive action on children and the internet]]).
+- **VPN traffic surged** as users route around the systems ([[Age Verification Is Locking Trans People Out of the Internet]]).
+- **UK Online Safety Act rollout (July 2025):** Restricted Reddit health/advice forums; X and Reddit blocked posts about Gaza and Ukraine ([[Age Verification Is Locking Trans People Out of the Internet]]).
+
+**Bias against marginalized users:**
+- **Os Keyes (UMass Lowell):** Image-recognition systems systematically misclassify trans people; HRT-induced facial changes confound age estimation.
+- **Algorithmic Justice League:** Facial recognition broadly biased against women and people of color (cited in [[Considering Age Verification and Impacts on LGBTQ+ Youth]]).
+- **Trans-specific document gaps:** Out-of-date IDs, banking access issues compound the problem.
+
+**Breach risk:**
+- **Tea (women's safety app) breach:** Selfies and drivers licenses dumped on 4chan; maps used address data to pinpoint home locations ([[Age Verification Is Locking Trans People Out of the Internet]]).
+- **Discord verification hack:** Recent precedent for what age-verification breaches will look like at scale.
+- **Yoti's appeal mechanism:** Email a generic support address. No formal recourse.
+
+**Constructive alternative:**
+- **France's "digital intermediary" model** under government review — third-party verifier as firewall, doesn't track destination ([[Considering Age Verification and Impacts on LGBTQ+ Youth]]).
 
 ## Tensions & Counterarguments
-- **Stated rationale**: Minors do face real harms online (targeted advertising, CSAM, algorithmic amplification of self-harm content). Opponents rarely dispute this, but argue the verification cure is worse than the disease.
-- **"Privacy-preserving verification" claim**: Vendors pitch zero-knowledge age proofs, but every real-world deployment in this wiki's sources functions as an ID-collection regime.
-- **Federalism confusion**: State laws (TX, UT, LA) are already imposing age verification; a federal mandate may be framed as preemption but will likely stack, not replace.
+- **Stated goal: protect kids from porn/harm.** Verifiable outcomes: ambiguous — adult traffic decreases, but kids use VPNs; non-compliant sites gain traffic.
+- **Constitutional precedent (Reno v. ACLU, 1997):** Court assumed verification would remain impractical. Vendors now claim "10 cents per visitor" — the technological inversion is the legal attack vector ([[Echoes of History in New National Push to Shield Children Online]]).
+- **The trans-passport SCOTUS ruling (Nov 2025):** Supreme Court overturned a stay allowing trans-affirming passport documents — same identity-verification logic now being automated for online access ([[Age Verification Is Locking Trans People Out of the Internet]]).
+- **KOSA's "no age verification required" claim:** Critics across the cluster argue meaningful compliance with KOSA's duty of care requires de facto age verification.
 
 ## Related Concepts
-- [[Section 230]] — the liability shield age-verification laws work around
-- [[Surveillance Capitalism]] — the data-collection logic that makes verification profitable
-- [[Regulatory Weaponization]] — how child-safety framing enables targeted enforcement
-- [[Data Privacy Weaponization]]
-- [[CISA Jawboning]] — adjacent pattern of government pressure routed through platforms
+- [[KOSA]]
+- [[EARN IT Act]]
+- [[SCREEN Act]] — federal age-verification mandate
+- [[UK Online Safety Act]]
+- [[Biometric Surveillance]]
+- [[Algorithmic Bias]]
+- [[Reno v. ACLU]] — the constitutional baseline
+- [[Section 230]]
+- [[Data Broker Loophole]]
+- [[Surveillance Capitalism]]
 
 ## Key Sources
-- [[EFF Age Verification One-Pager]]
-- [[Age Verification Is Locking Trans People Out of the Internet]]
-- [[Considering Age Verification and Impacts on LGBTQ+ Youth]]
-- [[This Bill Purports to Protect Kids from Big Tech. For LGBTQ+ Youth, It’s a Grave Danger]]
-- [[President Biden’s new executive action is all about children and the internet]]
-- [[Child safety bills are reshaping the internet for everyone]]
-- [[Bad Internet Bills]]
-- [[Echoes of History in New National Push to Shield Children Online]]
+- [[Age Verification Is Locking Trans People Out of the Internet]] — most current empirical evidence
+- [[Considering Age Verification and Impacts on LGBTQ+ Youth]] — taxonomy and conceptual frame
+- [[Child safety bills are reshaping the internet for everyone]] — operational data
+- [[President Biden's executive action on children and the internet]] — state-by-state inventory
+- [[Echoes of History in New National Push to Shield Children Online]] — constitutional history
+- [[Bad Internet Bills — Fight for the Future Campaign Hub]] — bills catalog
+- [[EFF Age Verification One Pager]] — EFF reference position

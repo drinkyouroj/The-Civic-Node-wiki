@@ -2,38 +2,51 @@
 title: "Fight for the Future"
 type: entity
 entity_type: organization
-tags: [politics, technology, censorship, digital-rights, advocacy]
+tags: [politics, technology, lgbtq, censorship]
 created: 2026-04-19
 updated: 2026-04-19
-sources: 9
+sources: 20
 ---
 
 ## Overview
-Fight for the Future is a digital-rights advocacy nonprofit that organizes coalition opposition to internet censorship, surveillance, and platform-liability legislation. It coordinates the "Bad Internet Bills" coalition — the primary public-facing tracker and lobbying hub opposing the current wave of child-safety bills.
+Fight for the Future (FtF) is a US digital rights non-profit that organizes campaigns at the intersection of internet policy, civil liberties, and political power. Queer- and trans-led; current leadership includes [[Evan Greer]] (director, formerly deputy director). Operates the [[Bad Internet Bills Campaign]] hub (badinternetbills.com) and is the most consistently visible organizational opponent of [[KOSA]], [[Section 230]] sunset proposals, [[Age Verification]] mandates, and the [[EARN IT Act]] cluster.
 
 ## Key Facts
-- Executive director: [[Evan Greer]] — musician, activist, and lead public voice on [[KOSA]] opposition.
-- Staff cited across sources include Sarah Philips and Anna Bonesteel [[Bad Internet Bills]].
-- Operates the "Bad Internet Bills" campaign tracking [[Kids Online Safety Act (KOSA)]], [[EARN IT Act]], [[STOP CSAM Act]], SCREEN Act, and related [[Age Verification]] legislation.
-- Builds cross-ideological coalitions — pairing LGBTQ+ groups ([[GLAAD]]), civil-liberties orgs ([[ACLU]], [[Electronic Frontier Foundation]]), and sex-worker/harm-reduction advocates.
-- Framing emphasizes that child-safety bills create surveillance and censorship infrastructure that harms the marginalized communities they claim to protect [[LGBTQ Youth Are Under Attack. Why Are Democrats Pushing a Bill That Hurts Them Even More?]].
+- Coalition organizer behind 90+ org letter opposing KOSA in November 2022 ([[LGBTQ Youth Are Under Attack — Why Are Democrats Pushing a Bill That Hurts Them More]])
+- Operates badinternetbills.com — 472,000+ recorded actions as of April 2026 ([[Bad Internet Bills — Fight for the Future Campaign Hub]])
+- Authored or contributed to multiple op-eds across Vice, Vox, Teen Vogue, *Them*, and Tech Policy Press analyzing the contemporary internet bills cluster
+- Identified by Sen. [[Richard Blumenthal]] as "a pawn of Big Tech" — a smear FtF describes as a particularly cynical attack on a queer-/trans-led group ([[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]])
+- Coordinates with fan-fiction communities (especially [[Archive of Our Own]]), Tumblr, and TikTok creator networks for grassroots mobilization
+- Positioned alongside [[Electronic Frontier Foundation]] and [[ACLU]] as the core Section 230 / age-verification / KOSA defense coalition
 
 ## Newsletter Relevance
-FFTF is the connective tissue of the anti-KOSA coalition — the rare organization that successfully bridges digital-rights, LGBTQ+, and civil-liberties camps against bipartisan legislation. Their messaging is a useful map of where the opposition's evidentiary and rhetorical strength actually lies. For Politics/Power coverage, they are a clean case study of coalition-building against a "bipartisan consensus" that masks weaponizable enforcement.
+FtF is the **primary organizational character** in the contemporary internet-bills story — every major source in this cluster either quotes them, is authored by them, or operates within the framework they helped build. Their three-vector framing (Section 230 sunset, age verification, KOSA) per [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]] is the cleanest way to articulate the coordinated political project.
 
 ## Connections
-- [[Evan Greer]] — director, primary spokesperson
+- [[Evan Greer]] — director; longtime public face
+- [[Sara Philips]] / [[Sarah Philips]] — campaigner / digital rights organizer
+- [[Anna Bonesteel]] — staff writer / op-ed author
+- [[Janus Rose]] — co-author with Greer (Teen Vogue 2025)
 - [[Electronic Frontier Foundation]] — coalition partner
-- [[ACLU]], [[GLAAD]] — coalition partners
-- [[Kids Online Safety Act (KOSA)]] — flagship opposition target
-- [[Section 230]] — defends against erosion
+- [[ACLU]] — coalition partner
+- [[GLAAD]] / [[GLSEN]] / [[National Center for Transgender Equality]] — LGBTQ+ coalition partners
+- [[Archive of Our Own]] — grassroots community ally
+- [[Heritage Foundation]] — primary opposing think tank
 
 ## Source Appearances
-- [[Bad Internet Bills]] — their coalition landing page, ingested as source
-- [[LGBTQ Youth Are Under Attack. Why Are Democrats Pushing a Bill That Hurts Them Even More?]] — Greer quoted
-- [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]]
-- [[This Bill Threatens Access to LGBTQ+ Online Communities]]
+- [[Bad Internet Bills — Fight for the Future Campaign Hub]] — campaign owner
+- [[LGBTQ Youth Are Under Attack — Why Are Democrats Pushing a Bill That Hurts Them More]] — Greer authored
+- [[This Bill Threatens Access to LGBTQ+ Online Communities — Philips]] — Philips authored
+- [[This Bill Purports to Protect Kids From Big Tech — Bonesteel]] — Bonesteel authored
+- [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]] — Greer/Rose/FtF authored
+- [[Age Verification Is Locking Trans People Out of the Internet]] — Philips quoted
+- [[Considering Age Verification and Impacts on LGBTQ+ Youth]] — Greer cited
+- [[Child safety bills are reshaping the internet for everyone]] — Greer interviewed
+- [[Officials say social media is hurting teens — Scientists say it's complicated]] — Greer quoted
+- [[Congress is flooded with bills for childproofing the internet]] — Greer quoted
+- [[President Biden's executive action on children and the internet]] — referenced
 
 ## Open Questions
-- What is FFTF's funding base, and how stable is it under an administration hostile to digital-rights orgs?
-- How have their coalition tactics evolved between KOSA 2024 (Senate passage) and the Trump II reintroduction?
+- Funding model — heavily reliant on individual donations vs foundation grants? Affects how to read their political independence.
+- Internal coalition tensions — how does FtF navigate disagreement with larger LGBTQ+ orgs (e.g., GLAAD's earlier sit-out of KOSA opposition)?
+- Tactical evolution — the move from policy briefs to fan-community mobilization is unusual and deserves its own piece.
