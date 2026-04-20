@@ -1,12 +1,12 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-18
-total_pages: 936
-total_sources: 505
-total_entities: 206
-total_concepts: 128
-total_syntheses: 13
+updated: 2026-04-19
+total_pages: 997
+total_sources: 553
+total_entities: 214
+total_concepts: 130
+total_syntheses: 14
 total_articles: 86
 ---
 
@@ -57,8 +57,6 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Online resource center for businesses struggling with tariff impacts]] — Concentrate, Jul 2025; Michigan $3.3B tariff costs; survey data; absorbing vs. passing costs
 - [[Fed Interest Rate Predictions 2026-2028]] — Norada Real Estate, Jan 2026; FOMC projections; dot plot divergence; mortgage implications
 - [[Without data centers, GDP growth was 0.1% in H1 2025]] — Fortune, Oct 2025; Furman analysis; 92% of GDP growth from AI/data centers; broader economy flat
-- [[Trump calls Powell too stupid — Times of India]] — ToI; Truth Social attacks on Powell; tariff-driven inflation trap
-- [[Paul Volcker's Legacy — PBS]] — PBS; Volcker independence model; Burns cautionary tale
 
 - [[Federal Reserve issues FOMC statement June 18 2025]] — June 2025 FOMC; unanimous hold; "swings in net exports" as tariff code; primary Fed source
 - [[Gross Domestic Product First Quarter 2025 Advance Estimate BEA]] — BEA advance estimate; data interpretation and revision context
@@ -84,7 +82,6 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]] — Asset manager view; balance sheet implications; forward guidance changes
 - [[PBS NewsHour — What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve]] — NewsHour analysis; Warsh as Powell replacement; rate policy outlook
 - [[The Fulcrum — Warsh's Family Fight Model]] — Warsh's communication philosophy; "family fight" approach to Fed messaging
-- [[Nixon shock - Wikipedia]] — Wikipedia; Bretton Woods end; gold window closure; SWIFT origin
 
 ### Iran / Geopolitics
 - [[Trump threatens hell on Iran infrastructure if Strait remains blocked]] — Reuters, Apr 5 2026; Easter ultimatum on Strait of Hormuz; war-driven inflation; coalition fracture
@@ -271,17 +268,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Conservative activist Charlie Kirk assassinated at Utah university]] — AP retrospective; Kirk's rise from teenage conservative to TPUSA CEO
 - [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]] — CBC News analysis; political implications; polarization escalation
 - [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]] — Right-wing media and grassroots response; "we're at war" rhetoric
-- [[Charlie Kirk assassinated at university event in Utah]] — Breaking news; Kirk shot at UVU event
-- [[Conservative activist Charlie Kirk assassinated at Utah university]] — Extended coverage; shooting details
-- [[After Charlie Kirk's killing MAGA world mourns but some say we're at war]] — Right-wing response; war rhetoric escalation
-- [[Trump blames rhetoric from left for political violence after killing of Charlie Kirk]] — Trump response; blame-shifting framing
-- [[Trump blames the radical left for Charlie Kirk's killing]] — Companion coverage; blame dynamics
-- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — Trump rally response; revenge rhetoric
-- [[Trump blames rhetoric from left for political violence after killing of Charlie Kirk]] — Trump Oval Office statement; left-blaming framing
-- [[Live updates Vance hosts Charlie Kirk Show CNN Politics]] — Vance on Kirk Show; political dynamics
-- [[Live updates Vance hosts Charlie Kirk Show]] — Companion coverage
-- [[Live updates Vance hosts Charlie Kirk Show CNN Politics]] — CNN live blog; day-after coverage; Vance memorial episode
-- [[Minnesota and federal officials no longer cooperating on ICE shooting investigation]] — Cooperation breakdown; ICE shooting investigation
+- [[Trump blames rhetoric from left for political violence after killing of Charlie Kirk]] — Trump Oval Office statement; blame-shifting framing
+- [[Trump blames the radical left for Charlie Kirk's killing]] — Companion coverage; selective mourning
+- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — Trump rally response; "revenge at the voter box" rhetoric
+- [[Live updates Vance hosts Charlie Kirk Show CNN Politics]] — CNN live blog; Vance hosts memorial episode of Kirk's show
+- [[Live updates Vance hosts Charlie Kirk Show]] — Companion coverage; institutional continuity of MAGA media
 - [[ICE agent cellphone video undercuts Trump administration account]] — Jonathan Ross's own video contradicted Trump narrative
 - [[ICE agent shoots kills Renee Good in south Minneapolis]] — Breaking news; Renée Good fatal shooting by ICE agent
 - [[Who was Renee Nicole Good the woman killed in ICE Minneapolis shooting]] — Profile of Renée Good; background; family
@@ -372,9 +363,6 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[In rare interviews, federal judges criticize Supreme Court's handling of Trump cases]] — Anonymous judge testimony; "thrown under the bus" framing; institutional integrity signal
 - [[Fact check Trump repeats numerous false claims in prime-time address]] — December 17 2025 address; systematic false claims documented
 - [[Trump appealing ruling against Portland National Guard deployment]] — Portland National Guard; executive overreach pattern
-- [[Trump blames the radical left for Charlie Kirk's killing]] — Selective mourning; omitted Democratic victims; political processing of assassination
-- [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]] — "Revenge at the voter box" framing within 48 hours of shooting
-- [[Live updates Vance hosts Charlie Kirk Show]] — Vance hosting Kirk's show; institutional continuity of MAGA media
 - [[Tulsi Gabbard details bombshell claims of Obama-era cabal]] — DNI releasing declassified docs; "cabal" framing; political use of intelligence
 - [[Journalists face escalating threats in 2026]] — 400+ threat investigations through June 2025; press freedom deterioration data
 - [[Saturday Night Massacre — Britannica]] — Historical reference; Watergate parallel for Trump executive actions
@@ -382,9 +370,6 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[State-Created Damages Remedies Against Federal Officials]] — Legal scholarship; Section 1983 implications for federal accountability
 - [[Virginia results map shows where Abigail Spanberger won election]] — Geographic analysis; coalition composition data
 - [[Democrat Abigail Spanberger to make history as Virginia's 1st female governor]] — Historic first; moderate Democrat as governing template
-- [['Made of sunshine' Renee Good's wife speaks out following fatal Minneapolis ICE shooting]] — Human interest; victim profile; ICE shooting aftermath
-- [['They're trying to break us' Trump's focus on Minnesota boils over with ICE shooting]] — Trump targeting Minnesota; ICE shooting political fallout
-- [[ANALYSIS What Charlie Kirk's killing means for an already angry and polarized U.S. CBC News]] — CBC analysis; Kirk assassination and polarization dynamics
 - [[City of Minneapolis — Operation Metro Surge results in $203 million impact]] — City analysis; $203M economic impact; one-month enforcement cost
 - [[Comedian John Mulaney postpones Minneapolis show after shooting]] — Cultural ripple effect of ICE shooting
 - [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]] — Federal court ruling; Tenth Amendment; Minnesota v. federal enforcement
@@ -675,17 +660,7 @@ Bulk ingest of ~80 raw sources accumulated across the Apr 7 substack-research sy
 **Social media:**
 - [[How Social Media Algorithms Are Set to Change in 2025]] — Touchstone Digital, Mar 2025; practitioner guide to platform algorithm changes; AI personalization; Reels dominance
 
-New entities:
-- [[Todd Lyons]] — Acting ICE director who resigned effective May 31, 2026; resignation timed to first criminal charge against a surge officer
-- [[Mary Moriarty]] — Hennepin County Attorney pursuing first-ever criminal cases against surge officers; leaves office end-of-year
-- [[Gregory Donnell Morgan]] — First federal surge officer charged with a crime; felony assault; test case for Supremacy Clause immunity
-- [[Aileen Cannon]] — Federal judge (S.D. Fla.); permanently blocked Jack Smith classified documents report; 11th Circuit appeal pending
-
-New concept:
-- [[Supremacy Clause Immunity]] — Doctrinal expansion from *In re Neagle*'s four historical exceptions to "defensive immunity"; pardon firewall for state convictions; key concept for federal accountability gap
-
-New article:
-- [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026; Adam Back's SPAC merger with Cantor Equity Partners as the first compulsion vector that may force resolution of the Satoshi question; SEC S-4 disclosure vs. press interview denials
+Recent additions (now indexed under canonical sections below): entities [[Todd Lyons]], [[Mary Moriarty]], [[Gregory Donnell Morgan]], [[Aileen Cannon]]; concept [[Supremacy Clause Immunity]]; article [[The Cypherpunk Who Filed an S-1]].
 
 ---
 
@@ -1168,9 +1143,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 503 |
-| Published articles tracked | 86 |
-| Entity pages | 191 |
-| Concept pages | 121 |
-| Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-18 |
+| Total sources ingested | 553 |
+| Published articles tracked | 86 (75 standalone + 11 episodes) |
+| Entity pages | 214 |
+| Concept pages | 130 |
+| Synthesis pages | 14 (5 audits + 7 insight sweep + 2 DRAM crisis) |
+| Last updated | 2026-04-19 |
