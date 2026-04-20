@@ -21,7 +21,7 @@ Largest single-day ingest in recent history: 17 raw sources — 13 on the federa
 
 **11 new entity pages:** [[Fight for the Future]], [[Evan Greer]], [[Heritage Foundation]], [[Marsha Blackburn]], [[Richard Blumenthal]], [[Flock Safety]], [[Atlanta Police Department]], [[Archive of Our Own]], [[David Rozado]], [[Electronic Frontier Foundation]], [[ACLU]].
 
-**9 new concept pages:** [[KOSA]], [[Section 230]], [[Age Verification]], [[EARN IT Act]], [[Duty of Care (Internet Bills)]], [[SESTA/FOSTA]], [[Bad Internet Bills Campaign]], [[Flock Safety Surveillance Network]], [[LLM Political Bias]].
+**9 new concept pages:** [[KOSA]], [[Section 230]], [[Age Verification]], [[EARN IT Act]], [[Duty of Care (Internet Bills)]], [[SESTA-FOSTA]], [[Bad Internet Bills Campaign]], [[Flock Safety Surveillance Network]], [[LLM Political Bias]].
 
 **Editorial significance:** This cluster opens a major new domain for the wiki — Politics + Technology + LGBTQ+ rights via internet legislation. Connects existing entities ([[Federal Trade Commission]], [[Donald Trump]], [[Charlie Kirk Assassination]]) into a coordinated political project. The Flock thread connects to the existing ICE / sanctuary-policy / [[Operation Metro Surge]] cluster as a parallel "federal-via-private-vendor" pattern. The Rozado study introduces AI political infrastructure as a discrete theme.
 
