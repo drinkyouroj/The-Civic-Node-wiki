@@ -2,12 +2,12 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-19
-total_pages: 959
-total_sources: 523
-total_entities: 210
+total_pages: 997
+total_sources: 553
+total_entities: 214
 total_concepts: 130
-total_syntheses: 13
-total_articles: 87
+total_syntheses: 14
+total_articles: 86
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -1213,9 +1213,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 523 |
-| Published articles tracked | 87 |
-| Entity pages | 210 |
+| Total sources ingested | 553 |
+| Published articles tracked | 86 (75 standalone + 11 episodes) |
+| Entity pages | 214 |
 | Concept pages | 130 |
-| Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
+| Synthesis pages | 14 (5 audits + 7 insight sweep + 2 DRAM crisis) |
 | Last updated | 2026-04-19 |
