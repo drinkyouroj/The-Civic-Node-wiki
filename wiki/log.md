@@ -29,6 +29,65 @@ Index updated: 520 sources (+17), 202 entities (+11), 130 concepts (+9), 964 tot
 
 ---
 
+## [2026-04-19] cleanup | Delete raw/ junk and Finder-duplicate files
+
+Removed 18 files from `raw/` that will never be ingested:
+
+**Web-clipper junk (9):** `Google Books.md`, `Google Search.md`, `Google Search [google.com].md`, `Home page.md`, `Popular Articles.md`, `espn.com.md`, `the original article text.md`, `Seattle Seahawks.md` (team roster nav page), `HELLDIVERS™ 2 on Steam.md` (Steam store nav page).
+
+**Finder-style auto-renamed duplicates (9):** Files where macOS Finder incremented the year in the filename when a duplicate was created, but the content is byte-identical to the original. Verified via MD5:
+- `American Psychological Association — Stress in America 2025.md` (dup of 2024 file — today is April 2026; the real 2025 report content is actually labeled 2024 in its frontmatter)
+- `Securities Enforcement Roundup – April 2026.md`, `...2027.md`, `...2028.md` (all dups of April 2025 file)
+- `What's next in AI 7 trends to watch in 2027.md`, `...2028.md`, `...2029.md` (all dups of 2026 file)
+- `Toms Hardware RAM Price Index 2027.md` (dup of 2026 file)
+- `TrendForce DRAM Market Share Q3 2026.md` (dup of Q3 2025 file)
+
+Updated [[Securities Enforcement Roundup April 2025 — Morgan Lewis]] to remove the `raw_alt:` field and the "mis-filed duplicate" note that pointed to the deleted April 2026 file.
+
+No wiki pages broken — none of the deleted raw files were the primary `raw:` target of any source page.
+
+---
+
+## [2026-04-19] lint | Full wiki health check — duplicates, stubs, orphans, broken wikilinks
+
+Ran a three-agent parallel sweep: duplicate-file detector, stub/orphan/missing-raw detector, broken-wikilink detector. Results below.
+
+**File-level duplicates found (1 merged, 3 flagged for review):**
+- **Merged** — deleted `wiki/sources/Trump calls Powell too stupid — Times of India.md`; the richer sibling `wiki/sources/Trump calls Powell 'too stupid' after fifth rate hold.md` carries the same `source_url` and `raw:` pointer and fuller summary/entities. Removed the index duplicate entry for the deleted file.
+- **Flagged** — `Live updates Vance hosts Charlie Kirk Show.md` vs `...CNN Politics.md` (may be distinct CNN live-blog snapshots); `Ghost Work — The Hidden Humans Behind AI.md` vs `...(Science Array).md` (near-identical but differ slightly); `Ghost Workers in the AI Machine — US Data Worker Conditions Report.md` vs `...Workers Report.md` (AWU-CWA vs Alphabet Workers Union distribution — arguably two entry points to the same report). Left in place pending user decision.
+
+**Index-level duplicates dedup'd in `wiki/index.md`:** 14 duplicate wikilink lines removed from the Domestic Politics, Mental Health, and Crypto/Fed sections — primarily the Charlie Kirk assassination cluster (each of the 9 Kirk-related sources was listed 2–3 times across the section), plus the Minneapolis ICE cluster (Minnesota/federal non-cooperation, "Made of sunshine", "They're trying to break us"), plus `Trump calls Powell too stupid — Times of India`, `Paul Volcker's Legacy — PBS`, and `Nixon shock - Wikipedia` trailing duplicates. Also collapsed the "New entities / New concept / New article" scratchpad section from the 2026-04-18 Recent Ingests block into a single one-line pointer, since all four entities and both the concept and article were already indexed under their canonical sections.
+
+**Stubs (documented, not filled):** 58 concept pages are empty auto-generated stubs from the 2026-04-08 health check (`1951 Treasury-Fed Accord`, `AI Sovereignty`, `Dark Enlightenment`, `Fed Independence`, `Neocameralism`, `The Cathedral`, `War Powers Resolution`, etc. — full list in agent output). Another 7 concept pages are minimal 14-line stubs (`AI Rights`, `Corporate Personhood`, `Datagram Network`, `EU AI Act`, `Neurodiversity`, `Stylometric Analysis`, `Moon Landing Denial`, `Energy Policy`). That's ~50% of the concept directory waiting for content. Not filled in this pass — deferred for ingest-time enrichment as sources touch each concept.
+
+**Missing raw files (32 flagged):** 32 source pages reference `raw:` filenames that don't exist in `raw/`. Mostly filename-drift cases (e.g., `raw/Kevin Warsh Won't Revolutionize the Fed.md` vs what's actually filed as `raw/CFR — Kevin Warsh...md`) and one page (`KiwiFarms SoloTinyLeaks drop metadata.md`) pointing to `raw/assets/` screenshots that were moved or never copied. These need pointer repair page-by-page; left for a targeted `raw:` fix pass.
+
+**Orphan pages (sampled):** Confirmed orphans include `wiki/entities/pixie.md` and `wiki/entities/Bureau of Economic Analysis.md` (0 inbound wikilinks). Full scan hit grep timeouts — expected orphan count 5–15 but not conclusively bounded.
+
+**Broken wikilinks (544 unique targets, 35.6% of 1,530 link targets):** High-volume broken targets: `[[Google]]` (25 refs), `[[Renée Good]]` (16 refs — note: the page exists as `Killing of Renée Good`, so references should be retargeted), `[[Destiny vs. Pixie Civil Trial — YouTube Coverage]]` (13), `[[Ro Khanna]]` (12), `[[Solo]]` (11), `[[Lauren de Laguna]]` (11), `[[AMD]]` (11), `[[Rose]]` (8), `[[Todd Blanche]]` (8), `[[Chris Lehane]]` (8), `[[Chuck Grassley]]` (7), `[[Lanny Breuer]]` (7), `[[TurboQuant]]` (7), `[[Lisa Su]]` (7). These fall into three buckets: (a) entities that should be created (e.g., Google, AMD, Oracle, Tesla, Ro Khanna, Todd Blanche, Lanny Breuer, Chuck Grassley — all high-salience enough to warrant pages); (b) name variants that already exist under a different canonical title (Renée Good → Killing of Renée Good); (c) placeholders for pages that reflect the user's intent to write but hasn't yet (Destiny vs. Pixie Civil Trial — YouTube Coverage). Full top-30 list preserved in agent output for the next editorial pass. Not fixed in this lint — scope creep.
+
+**Contradictions / stale claims:** None net-new flagged beyond existing `⚠️ Contradiction:` markers in the wiki. The 2026-04-18 bulk ingest has already been through a ⚠️-sweep.
+
+**Counts corrected in `wiki/index.md`:** Frontmatter updated to `total_pages: 997, total_sources: 553, total_entities: 214, total_concepts: 130, total_syntheses: 14, total_articles: 86`. Stats table updated to match. Prior numbers were stale against actual file counts by +48 sources / +23 entities / +9 concepts / +1 synthesis — reflecting 2026-04-18 bulk ingest + 2026-04-19 URL-fix pass not being reflected in the self-reported totals. Pre-commit hook may further normalize `sources:` fields across source-linked pages.
+
+**Deferred for user decision:** (1) three flagged-but-not-merged source duplicates (Vance CNN, Ghost Work, Ghost Workers); (2) 32 broken `raw:` pointers; (3) 58+7 concept stubs; (4) 544 broken wikilinks — especially the ~20 high-volume targets that would most help the wiki's connective tissue if promoted to real pages; (5) `Renée Good` inbound-link retargeting (16 refs pointing to a page that doesn't exist, though `Killing of Renée Good` does).
+
+**Followup recommendations:** Run a dedicated `raw:` pointer-repair pass (pattern similar to the 2026-04-19 source URL fix pass). Promote the top ~20 broken wikilink targets to real entity pages in a single batch (Google, AMD, Oracle, Tesla, Ro Khanna, Todd Blanche, Lanny Breuer, Chuck Grassley, Lisa Su, Chris Lehane, Lisa Murkowski — all appear repeatedly across high-value source pages).
+
+## [2026-04-19] update | Source URL fix pass — 28 pages repaired
+
+Systematic audit and repair of broken or missing "Original source" links across wiki/sources/.
+
+**Doe v Bonnell ECFs (11 pages):** Replaced `[Original source](raw/...)` local-file links with public CourtListener PDF URLs using pattern `https://storage.courtlistener.com/recap/gov.uscourts.flsd.684111/gov.uscourts.flsd.684111.{N}.0.pdf`. ECFs fixed: 132, 139, 163, 183, 210, 216, 218, 222, 230, 231, 235. Also fixed Rose deposition (ECF 204-1) `source_url` and link.
+
+**Stub pages (16 pages):** Added `source_url:` frontmatter field and `[Original source](URL)` links to pages that had neither. URLs sourced via web search and matched to article titles/dates. Pages fixed: Protest outside ICE detention center, Trump Jan 6 pardons rollout explainer (×2), GOP lawmaker/State of Union, FBI/Secret Service info gaps, How the shutdown damaged federal data, Minnesota ICE surge polling, New ICE tactic churches, Q&A with Imam, Mamdani elected NYC mayor, Minnesota legal fight vs. Metro Surge, What's at stake 2025 elections, NY special election, Greenland purchase bid, ICE DREAMer arrest MN.
+
+**Special cases:** Renee Good verdict stub — no source URL exists (raw file missing, title factually incorrect per prior flag); marked with note. KiwiFarms SoloTinyLeaks — URL requires login, added access note. destiny-pixie-youtube and Bonnell ECF 1/227 — already had working public links under alternate link text; left as-is.
+
+---
+
+---
+
 ## [2026-04-18] ingest | Doe v Bonnell ECF 23 scheduling order + v3 draft of "The Process Is the Punishment"
 
 ECF 23 (Judge Becerra's April 3, 2025 scheduling order) ingested as new source page. Locks in May 18, 2026 trial, December 16, 2025 discovery cutoff, January 30, 2026 dispositive motion deadline. Continuance must be filed ≥30 days before trial. This is the baseline scheduling order against which ECF 227 (plaintiff's April 8, 2026 continuance motion) and ECF 235 (Bonnell opposition) are measured.

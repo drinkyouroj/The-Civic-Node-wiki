@@ -2,11 +2,11 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-19
-total_pages: 964
-total_sources: 522
-total_entities: 217
-total_concepts: 137
-total_syntheses: 13
+total_pages: 997
+total_sources: 553
+total_entities: 214
+total_concepts: 130
+total_syntheses: 14
 total_articles: 86
 ---
 
@@ -632,6 +632,7 @@ Bulk ingest of ~80 raw sources accumulated across the Apr 7 substack-research sy
 **Doe v. Bonnell docket deep-read (11 ECF filings):** Full pre-trial motion record now in the wiki — MTD (jurisdiction), protective orders, Rule 11 sanctions, MSJ, Rule 56(d) deferral, motions in limine, and continuance opposition. Entity pages for all five principals updated with source appearances across the full docket.
 
 - [[Doe v Bonnell ECF23 — Scheduling Order]] — Judge Becerra's April 3, 2025 scheduling order; trial May 18, 2026; discovery cutoff Dec 16, 2025; dispositive motions Jan 30, 2026
+- [[Doe v Bonnell — Torres PI Order (ECF 143)]] — Magistrate Judge Torres denies preliminary injunction Oct 6, 2025; flags unfiled spoliation motion plaintiff promised at April TRO hearing
 - [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — Bonnell MTD for lack of subject matter jurisdiction; argues Out-of-Circuit Abby subpoena history establishes no federal cause of action; Sep 19, 2025
 - [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Plaintiff attacks Bonnell's footnote claiming Rose was a minor; demonstrates it was false and fabricated; Oct 2025
 - [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — Bonnell seeks protective order on deposition timing and scope; Nov 2025
@@ -643,6 +644,47 @@ Bulk ingest of ~80 raw sources accumulated across the Apr 7 substack-research sy
 - [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — Bonnell opposes plaintiff's motions in limine; Apr 2026
 - [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff argues Bonnell's MIL overreaches; Novel argument: catfish intermediary creates new liability layers; Apr 2026
 - [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — Bonnell opposes plaintiff's request for continuance; argues case is ready for trial; Apr 2026
+
+### Recent Ingests (2026-04-19) — Child Safety Bills / Age Verification / LGBTQ+ Censorship / Surveillance Infrastructure
+
+17 sources ingested spanning KOSA and sibling child-safety legislation, age-verification proposals, LGBTQ+ youth impact analyses, Flock Safety ALPR surveillance, Section 230 legislative history, and LLM political-preference research. Four new entity pages and two new concept pages anchor the cluster.
+
+**KOSA / child safety bills:**
+- [[Bad Internet Bills]] — Fight for the Future coalition campaign page; KOSA/EARN IT/STOP CSAM opposition
+- [[Child safety bills are reshaping the internet for everyone]] — cross-demographic impact analysis
+- [[Congress is flooded with bills for childproofing the internet]] — legislative landscape overview
+- [[Echoes of History in New National Push to Shield Children Online]] — historical parallels to COPA/CDA
+- [[Officials say social media is hurting teens. Scientists say it's comp…]] — Vivek Murthy advisory vs. empirical evidence
+- [[President Biden's new executive action is all about children and the internet]] — Biden EO framing
+
+**Age verification (LGBTQ+ impact):**
+- [[Age Verification Is Locking Trans People Out of the Internet]] — face-scan bias; trans lockout
+- [[Considering Age Verification and Impacts on LGBTQ+ Youth]] — policy brief
+- [[LGBTQ Youth Are Under Attack. Why Are Democrats Pushing a Bill That Hurts Them Even More?]] — Democratic-enabler framing
+- [[This Bill Purports to Protect Kids from Big Tech. For LGBTQ+ Youth, It's a Grave Danger]] — grave-danger frame
+- [[This Bill Threatens Access to LGBTQ+ Online Communities]] — community-access frame
+- [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]] — coalition-breakdown analysis
+
+**Surveillance infrastructure:**
+- [[Atlanta PD used Flock cameras to track migrants, records show]] — ALPR data shared with ICE; records obtained via FOIA
+- [[Community members unite to protest Flock Safety cameras on campus]] — campus protest; campus surveillance
+
+**Foundational:**
+- [[Section 230 Legislative History]] — 47 U.S.C. § 230 origin; Cox/Wyden 1996; carve-out trajectory
+
+**AI / research:**
+- [[The political preferences of LLMs]] — academic paper on LLM political bias; left-leaning skew across major models
+- [[EFF Age Verification One-Pager]] — EFF policy brief (PDF stub)
+
+**New entities:**
+- [[Kids Online Safety Act (KOSA)]] — Blackburn/Blumenthal; "duty of care"; state AG enforcement; Heritage Foundation weaponization risk
+- [[Fight for the Future]] — Evan Greer; Bad Internet Bills coalition; KOSA opposition lead
+- [[Electronic Frontier Foundation]] — digital civil liberties; Kelley/Collings/McKinney; age-verification/encryption advocacy
+- [[Flock Safety]] — Atlanta ALPR company; >5000 agency network; ICE migrant tracking via Atlanta PD
+
+**New concepts:**
+- [[Age Verification]] — mandatory identity/age checks; trans lockout / LGBTQ+ exclusion / surveillance honeypot; Reno v. ACLU precedent
+- [[Section 230]] — 47 U.S.C. § 230; platform immunity shield; KOSA/EARN IT erosion; SESTA/FOSTA precedent
 
 **Destiny case news articles and reference files:**
 - [[wfla-destiny-sued-cyber-sexual-harassment]] — WFLA/Tampa (Feb 19, 2025); first mainstream news coverage of the lawsuit filing; Bonnell's written admission quoted
@@ -1123,6 +1165,9 @@ New article:
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Institutional gaslighting through evidence control and narrative flooding
 - [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
 
+### Nonfiction Essays — Legal & Systems
+- [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026; first piece in the [[Reachability Routing]] series; civil liability routes to the reachable defendant (Destiny), not the person who caused the harm (Solo in Oxford); three structural fixes proposed; Doe v. Bonnell as live case study
+
 ### Nonfiction Essays — DePIN & Crypto
 - [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026; Adam Back's SPAC merger as the first mechanism that may force SEC disclosure on Satoshi's $81B in BTC; 17 years of anonymity vs. a single S-4 filing
 - [[DePIN More Than Hype]] — Introductory DePIN thesis; Datagram as flagship example
@@ -1221,9 +1266,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 520 |
-| Published articles tracked | 86 |
-| Entity pages | 202 |
+| Total sources ingested | 553 |
+| Published articles tracked | 86 (75 standalone + 11 episodes) |
+| Entity pages | 214 |
 | Concept pages | 130 |
-| Synthesis pages | 13 (5 audits + 6 insight sweep + 2 DRAM crisis) |
+| Synthesis pages | 14 (5 audits + 7 insight sweep + 2 DRAM crisis) |
 | Last updated | 2026-04-19 |
