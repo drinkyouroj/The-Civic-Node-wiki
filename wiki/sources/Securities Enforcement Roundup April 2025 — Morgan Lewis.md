@@ -6,7 +6,6 @@ created: 2026-04-07
 updated: 2026-04-07
 sources: 7
 raw: "raw/Securities Enforcement Roundup – April 2025.md"
-raw_alt: "raw/Securities Enforcement Roundup – April 2026.md"
 source_url: "https://www.morganlewis.com/pubs/2025/05/securities-enforcement-roundup-april-2025"
 author: "Morgan Lewis"
 published: 2025-05-09
@@ -49,5 +48,3 @@ Morgan Lewis monthly securities enforcement roundup covering April 2025. Key dev
 ## Notes
 
 Useful for showing the executive-agency regulatory reversal that preceded and enabled Crypto Week legislation. The Crenshaw dissent on stablecoin intermediary redemption is analytically significant. Morgan Lewis is a top law firm.
-
-A second raw clipping (`raw/Securities Enforcement Roundup – April 2026.md`) exists but its frontmatter, URL, and body are identical to the April 2025 original — it is a mis-filed duplicate, not a new 2026 roundup. Tracked here as `raw_alt`.

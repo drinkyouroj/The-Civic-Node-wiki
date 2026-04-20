@@ -5,6 +5,25 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-19] cleanup | Delete raw/ junk and Finder-duplicate files
+
+Removed 18 files from `raw/` that will never be ingested:
+
+**Web-clipper junk (9):** `Google Books.md`, `Google Search.md`, `Google Search [google.com].md`, `Home page.md`, `Popular Articles.md`, `espn.com.md`, `the original article text.md`, `Seattle Seahawks.md` (team roster nav page), `HELLDIVERS™ 2 on Steam.md` (Steam store nav page).
+
+**Finder-style auto-renamed duplicates (9):** Files where macOS Finder incremented the year in the filename when a duplicate was created, but the content is byte-identical to the original. Verified via MD5:
+- `American Psychological Association — Stress in America 2025.md` (dup of 2024 file — today is April 2026; the real 2025 report content is actually labeled 2024 in its frontmatter)
+- `Securities Enforcement Roundup – April 2026.md`, `...2027.md`, `...2028.md` (all dups of April 2025 file)
+- `What's next in AI 7 trends to watch in 2027.md`, `...2028.md`, `...2029.md` (all dups of 2026 file)
+- `Toms Hardware RAM Price Index 2027.md` (dup of 2026 file)
+- `TrendForce DRAM Market Share Q3 2026.md` (dup of Q3 2025 file)
+
+Updated [[Securities Enforcement Roundup April 2025 — Morgan Lewis]] to remove the `raw_alt:` field and the "mis-filed duplicate" note that pointed to the deleted April 2026 file.
+
+No wiki pages broken — none of the deleted raw files were the primary `raw:` target of any source page.
+
+---
+
 ## [2026-04-19] lint | Full wiki health check — duplicates, stubs, orphans, broken wikilinks
 
 Ran a three-agent parallel sweep: duplicate-file detector, stub/orphan/missing-raw detector, broken-wikilink detector. Results below.
