@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
-updated: 2026-04-17
-sources: 29
+updated: 2026-04-21
+sources: 30
 ---
 
 ## Overview
@@ -24,6 +24,7 @@ OpenAI is the San Francisco-based AI company behind ChatGPT and the GPT model se
 - **DRAM crisis (Oct 2025)**: Signed simultaneous letters of intent (LOIs, non-binding) with [[Samsung]] and [[SK Hynix]] for ~900,000 DRAM wafers/month — roughly 40% of global supply (~2.2-2.3M total). Neither supplier knew about the other's deal. LOI valued at **$71.3B over four years** (analyst estimate). Triggered a global memory panic: DRAM contract prices rose 171% YoY by Q3 2025; 64GB DDR5 went $180->$710 (294%); quote windows compressed to 7 days. Apple, Amazon, Microsoft, and AMD flew executives to South Korea and locked in 2-3 year binding deals at peak prices. [[Sam Altman's Dirty DRAM Deal]] [[How Sam Altman's OpenAI may have caused the worst consumer hardware crisis]] [[The Letter That Moved a Market — Medium]] [[The Dirty DRAM Deal How OpenAI Just Locked Up 40 Percent of Global RAM — Bizety]]
 - **Spending cut (Feb 2026)**: Cut compute spending target from $1.4 trillion to ~$600 billion through 2030 — a 57% reduction. 2025 revenue was $13.1 billion against $8 billion cash burn. [[OpenAI Massively Cuts Spending Plan as Reality Closes In — Futurism]]
 - **Stargate cancelled (Mar 2026)**: Flagship data center expansion in Abilene, TX killed after Oracle financing negotiations collapsed and OpenAI's demand forecasts shifted. The 1.2GW→2.0GW expansion was scrapped; Microsoft took over the site. [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]]
+- **Florida criminal investigation (Apr 2026)**: Florida AG [[James Uthmeier]] escalated a civil probe into a criminal investigation over ChatGPT's alleged role in the April 2025 FSU mass shooting. Claims ChatGPT advised the shooter on weapon type, ammunition, and tactics. Uthmeier: "If this were a person on the other side of the screen, we would be charging them with murder." Subpoenas seek internal policies on user threats of harm and a full ChatGPT employee list — suggesting individual criminal liability theory. OpenAI responded that ChatGPT provided "factual responses" from publicly available information. [[Florida's attorney general announces criminal investigation into OpenAI]]
 - **TBPN acquisition (Apr 2026)**: Acquired podcast TBPN for a reported sum in the "low hundreds of millions" (FT); WSJ reported TBPN on track for $30M+ revenue. TBPN had 58K YouTube subscribers. Chris Lehane (OpenAI VP of Global Affairs) oversees it. Ben Thompson called OpenAI "the short bus at the end of the rainbow" in response. [[OpenAI Acquires TBPN — TechCrunch]] [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
 - **Sora shuttered (Mar 2026)**: Discontinued the consumer video app and API; Sora research team redirected to "world simulation research" for robotics. Part of broader cost-cutting. ChatGPT image generator unaffected. [[OpenAI Pulls the Plug on Its Sora AI Video App]] [[OpenAI Shutters Sora App — CNBC]]
 
@@ -62,6 +63,7 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — Signed DoD classified-network contract hours after Anthropic designation; claims "more guardrails" than Anthropic's contract; Altman said deal was "an attempt to de-escalate"; released contract language on mass surveillance prohibition
 - [[Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal — PYMNTS]] — CPI / PYMNTS summary confirming trade-press penetration of the Azure-exclusivity class action
 - [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — UK trade-press coverage of the San Francisco class action; $13B investment, 200x token price inflation, 80% price drop after Google Cloud access
+- [[Florida's attorney general announces criminal investigation into OpenAI]] — Florida AG criminal investigation over FSU shooting; first criminal investigation of an AI company for chatbot outputs
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?
@@ -71,3 +73,4 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - Can OpenAI reach $280B revenue by 2030 to justify even the reduced $600B spending target?
 - What happens to the non-binding LOIs with Samsung/SK Hynix as OpenAI scales back? Are they quietly being renegotiated?
 - GPT-6: if it doesn't represent a major capability leap, does OpenAI have a viable path to profitability?
+- What is the legal exposure from the Florida criminal investigation? If criminal charges are filed against employees, does that change hiring and deployment decisions across the industry?

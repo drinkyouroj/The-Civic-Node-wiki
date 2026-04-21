@@ -5,6 +5,34 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-21] ingest | Warsh hearing + OpenAI criminal probe + Iran ship seizure + published article (3 sources, 1 article, automated daily ingest)
+
+Three raw sources ingested and one published article filed.
+
+**Sources:**
+
+1. **[[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]]** (Axios, Apr 21): Warsh confirmation hearing before Senate Banking Committee. Committed to "strictly independent" monetary policy while narrowing independence to exclude bank regulation, public money stewardship, and international finance — the intellectual architecture for accommodating Trump on non-monetary functions. Stated that elected officials expressing views on rate policy does not threaten operational independence. Same morning, Trump on CNBC declined to wind down DOJ Powell investigation. Warren called Warsh "uniquely ill-suited."
+
+2. **[[Florida's attorney general announces criminal investigation into OpenAI]]** (NBC News, Apr 21): AG James Uthmeier escalated civil probe to criminal investigation over ChatGPT's alleged role in April 2025 FSU mass shooting. First known criminal investigation of an AI company for chatbot outputs contributing to violence. Claims ChatGPT advised the shooter on weapon type, ammunition, and tactics. Subpoenas seek employee org chart — suggesting individual criminal liability theory. New concept: [[AI Liability]].
+
+3. **[[US intercepts and seizes Iranian-flagged cargo ship — BBC]]** (BBC, Apr 19): US Navy seized the Iranian-flagged Touska, firing on its engine room. Iran called it "armed piracy" and vowed retaliation. Strait of Hormuz closed. Ceasefire collapsing; IRNA said reports of second-round talks were "not true." Ceasefire expires April 23.
+
+**Published article:**
+
+4. **[[The Process Is the Punishment]]** (Substack, Apr 20): Second piece in The Wrong Defendant series. Process-as-weapon thesis in creator-economy litigation, anchored in three items from the Doe v. Bonnell docket. Filed as article page.
+
+**New entity pages:** [[James Uthmeier]], [[Ron DeSantis]].
+
+**New concept page:** [[AI Liability]].
+
+**Updated entities:** [[Kevin Warsh]] (sources: 21→22), [[OpenAI]] (sources: 29→30), [[Iran]] (sources: 17→18), [[Strait of Hormuz]] (sources: 10→11).
+
+**Updated concepts:** [[Fed Independence]] (sources: 17→18), [[Streamer Civil Litigation]] (sources: 4→5).
+
+Index updated: 556 sources (+3), 216 entities (+2), 131 concepts (+1), 87 articles (+1), ~1,004 total pages (+7).
+
+---
+
 ## [2026-04-19] ingest | Bad Internet Bills cluster + Flock Safety + LLM political bias (17 sources, automated daily ingest)
 
 Largest single-day ingest in recent history: 17 raw sources — 13 on the federal "child safety" internet legislation cluster (KOSA, Section 230 sunset, EARN IT, age verification, SCREEN Act), 2 on Flock Safety surveillance network expansion, 1 PLOS ONE peer-reviewed study on LLM political bias, and 1 EFF age-verification one-pager (PDF).

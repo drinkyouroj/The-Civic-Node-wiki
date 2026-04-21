@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-19
-total_pages: 997
-total_sources: 553
-total_entities: 214
-total_concepts: 130
+updated: 2026-04-21
+total_pages: 1004
+total_sources: 556
+total_entities: 216
+total_concepts: 131
 total_syntheses: 14
-total_articles: 86
+total_articles: 87
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -84,6 +84,7 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]] — Asset manager view; balance sheet implications; forward guidance changes
 - [[PBS NewsHour — What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve]] — NewsHour analysis; Warsh as Powell replacement; rate policy outlook
 - [[The Fulcrum — Warsh's Family Fight Model]] — Warsh's communication philosophy; "family fight" approach to Fed messaging
+- [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]] — Axios, Apr 21 2026; Warsh confirmation hearing; "strictly independent" with narrow mandate qualifier; Trump declines off-ramp on DOJ Powell probe same morning
 - [[Nixon shock - Wikipedia]] — Wikipedia; Bretton Woods end; gold window closure; SWIFT origin
 
 ### Iran / Geopolitics
@@ -93,8 +94,10 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Republicans Block Iran War Powers Resolution — House Adjournment]] — USA Today, Apr 9 2026; Chris Smith adjourns chamber; first congressional action since "destroy a civilization" threat
 - [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]] — USA Today, Apr 8 2026; 60% unfavorable (up from 42% in 2022); 80% Democrats; 77% say Iran conflict personally important
 - [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
+- [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — BBC, Apr 19 2026; US Navy seizes Touska; fires on engine room; Iran calls it "armed piracy"; ceasefire collapsing; Strait closed; Vance delegation to Islamabad uncertain
 
 ### AI / Technology
+- [[Florida's attorney general announces criminal investigation into OpenAI]] — NBC News, Apr 21 2026; first criminal investigation of AI company for chatbot outputs; FSU shooting; AG Uthmeier: "we would be charging them with murder"; employee-level liability theory
 - [[Best Local LLMs for Every Apple Silicon Mac — 2025 Guide]] — apxml.com, Jul 2025; unified memory architecture; Q4 quantization explainer; Ollama setup; per-RAM-tier model recommendations
 - [[Best Local LLMs for Every Apple Silicon Mac — 2026 Guide]] — apxml.com, Feb 2026; Phi-4 Mini, Qwen3, DeepSeek R1 671B on 512GB Mac; 60% RAM rule; Flash Attention; frontier on consumer hardware
 - [[Britain woos Anthropic expansion after US defence clash]] — Reuters, Apr 5 2026; Anthropic blacklisted by US DoD for refusing military AI; UK recruiting
@@ -830,6 +833,8 @@ New article:
 - [[Keith Ellison]] — Minnesota AG; led legal fight against Operation Metro Surge; sued to block ICE enforcement
 - [[Zohran Mamdani]] — Democratic socialist NY Assembly member; elected NYC mayor Nov 4 2025; democratic socialist victory
 - [[Jeffrey Epstein]] — Financier and convicted sex offender; 5.2M DOJ pages still under review; connections to political elite
+- [[James Uthmeier]] — Florida Attorney General; leading criminal investigation into OpenAI over FSU shooting; first state AG to pursue criminal liability for AI-generated content
+- [[Ron DeSantis]] — Florida Governor; AI-skeptic positioning; proposed AI Bill of Rights Dec 2025; intra-GOP split on tech regulation
 - [[Kristi Noem]] — Secretary of Homeland Security; overseeing ICE operations including Operation Metro Surge
 - [[Bill Hagerty]] — Senator (R-TN); GENIUS Act Senate sponsor; authored the Hagerty Amendment
 - [[Cynthia Lummis]] — Senator (R-WY); Senate's leading crypto champion; Bitcoin maximalist; Strategic Bitcoin Reserve advocate
@@ -1004,6 +1009,7 @@ New article:
 - [[Supremacy Clause Immunity]] — *In re Neagle* doctrine and its "defensive immunity" expansion; four historical exceptions to state prosecution of federal agents; pardon firewall for state convictions; Doe v. Bonnell / Destiny case as civil analog
 - [[International Humanitarian Law]] — Geneva framework regulating armed conflict; the legal standard against which Iran-war infrastructure targeting is being evaluated
 - [[Institutional Capture]] — Slow-motion failure mode where regulators come to serve the regulated; baseline against which dramatic interventions are measured
+- [[AI Liability]] — Emerging legal theories for holding AI companies/employees civilly or criminally liable for model outputs that contribute to real-world harm; Florida criminal investigation of OpenAI as first test case
 
 - [[ICE Public Opinion Shift]] — Rapid deterioration of ICE favorability during Operation Metro Surge; four major polls; video effect on opinion; "Abolish ICE" messaging
 - [[Budget as Weapon]] — Blue-state targeting via federal spending; $18B NYC freeze; energy grants cancellation; "pass the CR and it goes away" stated explicitly
@@ -1167,6 +1173,7 @@ New article:
 
 ### Nonfiction Essays — Legal & Systems
 - [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026; first piece in the [[Reachability Routing]] series; civil liability routes to the reachable defendant (Destiny), not the person who caused the harm (Solo in Oxford); three structural fixes proposed; Doe v. Bonnell as live case study
+- [[The Process Is the Punishment]] — Apr 20 2026; second piece in The Wrong Defendant series; process-as-weapon thesis in creator-economy litigation; three docket items from Doe v. Bonnell (Abbymc evasion, Rose footnote, spoliation non-motion); coordination layer analysis
 
 ### Nonfiction Essays — DePIN & Crypto
 - [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026; Adam Back's SPAC merger as the first mechanism that may force SEC disclosure on Satoshi's $81B in BTC; 17 years of anonymity vs. a single S-4 filing

@@ -3,8 +3,8 @@ title: "Streamer Civil Litigation"
 type: concept
 tags: [streaming, legal, technology, power, content-creator]
 created: 2026-04-17
-updated: 2026-04-17
-sources: 4
+updated: 2026-04-21
+sources: 5
 ---
 
 ## Definition
@@ -36,3 +36,4 @@ Civil litigation against creators is becoming a tool of power — both to seek l
 ## Key Sources
 
 - [[Destiny vs. Pixie Civil Trial — YouTube Coverage]]
+- [[The Process Is the Punishment]] — published April 20, 2026; second piece in The Wrong Defendant series; argues that in creator-economy litigation, the process itself (discovery costs, reputational damage, fourteen months of attention) is the weapon regardless of verdict outcome. Anchored in three items from the Doe v. Bonnell docket: Abbymc subpoena evasion, the Rose footnote dissolution, and the one-year spoliation non-motion.
