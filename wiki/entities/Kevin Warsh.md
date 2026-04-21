@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics, fed, fed-independence]
 created: 2026-04-07
-updated: 2026-04-08
-sources: 21
+updated: 2026-04-21
+sources: 22
 ---
 
 ## Overview
@@ -71,9 +71,12 @@ American lawyer, former Federal Reserve Governor (2006–2011), currently a Visi
 - Could smooth balance sheet runoff while minimizing disruptions to mortgage markets
 
 ### Senate Confirmation Status
-- **Blocking hold**: Senator [[Thom Tillis]] (R-NC) intends to block Senate Banking Committee recommendation "until an ongoing criminal probe of Powell is 'fully' resolved." Probe focuses on Fed HQ renovation costs and Powell's Congressional testimony about it. Many (including Powell and Tillis) believe the investigation was launched because the Fed wouldn't cut rates as quickly as Trump wanted. ([[CFR — Kevin Warsh Won't Revolutionize the Fed]])
-- **Democratic opposition**: Senator [[Elizabeth Warren]] (D-MA) raising Fed independence concerns
-- **Confirmation hearing**: Expected spring 2026
+- **Confirmation hearing held April 21, 2026**: Warsh testified before the Senate Banking Committee. Opening statement: "I am committed to ensuring that the conduct of monetary policy remains strictly independent." Distinguished monetary policy independence (paramount) from the Fed's broader regulatory functions (less independent) — implicitly attacking recent "mission creep." [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]]
+- **Key hedge**: Stated that elected officials expressing views on rates policy does not threaten operational independence — a position that normalizes Trump's public pressure while nominally defending autonomy.
+- **"Narrow mandate" framing**: Independence "does not extend to the full range of its congressionally mandated functions" including stewardship of public money, bank regulation, and international finance. This is the intellectual architecture that would allow a Warsh-chaired Fed to accommodate Trump on regulation and fiscal coordination while claiming the independence norm is intact.
+- **Blocking hold**: Senator [[Thom Tillis]] (R-NC) continues to block. Same morning as the hearing, Trump appeared on CNBC and refused to wind down the DOJ investigation of Powell, joking "Kevin will have to have an office next to me in the White House, because that building's not going to be done." ([[CFR — Kevin Warsh Won't Revolutionize the Fed]], [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]])
+- **Democratic opposition**: Senate Democrats appear united against. Senator [[Elizabeth Warren]] (D-MA) called Warsh "uniquely ill-suited" for the chairmanship, citing Wall Street ties. [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]]
+- **Powell serving pro tempore**: Powell's term expired May 15; he stated he will continue serving as chairman pro tempore if his successor is not confirmed.
 
 ### Structural Constraints on Warsh's Power
 Per [[CFR — Kevin Warsh Won't Revolutionize the Fed]] — even a compliant chair faces:
@@ -115,6 +118,7 @@ The **DOJ criminal probe of Powell** is the quietly important subplot. It's the 
 - [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]] — Asset-manager reading of balance-sheet-plus-rates framework; documents specific yield curve reaction
 - [[Commonfund — Fed Watching under Warsh]] — Institutional investor consensus framing; Cohn quote; "hawk-turned-dove" shorthand
 - [[Fed keeps rates steady, despite historic contrary votes and Trump pressure]] — Earlier reference to Warsh as potential future Fed chair alongside Waller
+- [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]] — Confirmation hearing testimony; "strictly independent" commitment with narrow-mandate qualifier; Trump declines off-ramp on same morning
 
 ## Open Questions
 - Will Warsh actually cut rates aggressively if confirmed, or will his hawkish track record reassert itself once he's responsible for institutional credibility?

@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-04-11
-sources: 17
+updated: 2026-04-21
+sources: 18
 ---
 
 ## Overview
@@ -71,6 +71,7 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[Iran Hormuz Strait Reopens — Trump Blockade Remains in Full Force]] — April 17: Iran FM declares Strait "completely open" for ceasefire duration; Trump maintains naval blockade; uranium transfer dispute; oil -13%
 - [[Iran-US War Latest — Trump Says Talks Continue Over the Weekend]] — April 17-18 live coverage; Trump contradicted by Iran FM on uranium; Ghalibaf threatens Strait re-closure; Trump NATO swipe at Arizona rally
 - [[Trump Says Israel and Lebanon Have Agreed to a Ceasefire — NPR]] — Lebanon ceasefire was Iranian precondition for nuclear talks; Hezbollah excluded from negotiations; 1M displaced
+- [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — Touska seized April 19; US fired on engine room; Iran calls it "armed piracy"; ceasefire collapsing
 
 ## Open Questions
 
@@ -79,3 +80,9 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - How long can Iran sustain the Strait closure economically? Land routes to China?
 - Will any Senate Republicans defect on the war powers resolution vote next week?
 - What is the state of Iran's nuclear program during the conflict?
+- **April 19, 2026 — Touska seizure**: US Navy intercepted and seized the Iranian-flagged cargo ship Touska after it failed to respond to warnings; US fired on the engine room. Ship was under US Treasury sanctions. Iran called it "armed piracy" and vowed retaliation. [[US intercepts and seizes Iranian-flagged cargo ship — BBC]]
+- Strait of Hormuz remained closed following IRGC's decision to end a temporary reopening over the US blockade.
+- Ceasefire due to expire April 23; second round of talks in Islamabad with Vance delegation uncertain — IRNA said reports of talks were "not true."
+- Iran and IRGC actively contesting shipping in Hormuz — two tankers (Botswana/Angola flags) forced to retreat; India reported shooting incident involving two Indian-flagged ships.
+- What happens when the ceasefire expires April 23 without a deal?
+- Does the Touska seizure constitute an act of war under international law, and will Iran's promised retaliation materialize?

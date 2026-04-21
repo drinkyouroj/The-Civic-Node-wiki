@@ -4,8 +4,8 @@ type: entity
 entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure]
 created: 2026-04-06
-updated: 2026-04-17
-sources: 10
+updated: 2026-04-21
+sources: 11
 ---
 
 ## Overview
@@ -45,6 +45,7 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Strait closure disrupted Qatar's helium exports, cascading into semiconductor supply chains
 - [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — Iran announces Strait "completely open" April 17; Trump says U.S. naval blockade of Iran remains "in full force"; Brent drops to $89
 - [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — Trump cites "Strait of Hormuz WILL BE OPEN & SAFE" as absolute red line during ceasefire
+- [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — Touska seized April 19 near the Strait; IRGC ended temporary reopening; traffic at standstill; two tankers forced to retreat by Iranian forces
 
 ## Open Questions
 
