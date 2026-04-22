@@ -4,8 +4,8 @@ type: entity
 entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure]
 created: 2026-04-06
-updated: 2026-04-21
-sources: 11
+updated: 2026-04-22
+sources: 12
 ---
 
 ## Overview
@@ -21,6 +21,7 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - Trump set April 8, 2026 8 PM ET deadline for Iran to reopen or face strikes on power plants and bridges
 - **April 7, 2026 — Conditional reopening**: 90 minutes before Trump's deadline, Iran agreed to a two-week ceasefire and reopening of the Strait. Foreign Minister Abbas Araghchi specified safe passage "will be possible via coordinating with Iran's Armed Forces" — implying continued Iranian gatekeeping. NYT reports Iran intends to charge $2M per ship in transit fees, with revenue earmarked for war reconstruction. Iran's 5-week blockade triggered the global energy price spike. [[CBC — Trump Iran ceasefire what happens next]]
 - **Civilian-targeting context**: The pre-ceasefire days featured Trump's "Stone Age" rhetoric and the U.S. strike on the unfinished B1 highway bridge that killed 8 civilians at a family picnic. [[Reason — Trump is openly targeting innocent civilians]]
+- **April 22, 2026 — 3-ship escalation**: Iran's IRGC fired on three ships and seized two of them (MSC Francesca; Liberian-flagged Epaminondas) in direct retaliation for the US Touska seizure and blockade. Third ship (Euphoria) attacked while stranded on Iranian coast. Brent crude crossed $100/barrel (+35% above prewar). EU Energy Commissioner Dan Jørgensen: disruption costing Europe ~€500M/day. Vortexa tracked 34 sanctioned/Iranian-linked tanker movements in the week after the April 13 blockade. [[Iran Fires on 3 Ships in Strait of Hormuz — AP]]
 
 ## Newsletter Relevance
 
@@ -46,6 +47,7 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — Iran announces Strait "completely open" April 17; Trump says U.S. naval blockade of Iran remains "in full force"; Brent drops to $89
 - [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — Trump cites "Strait of Hormuz WILL BE OPEN & SAFE" as absolute red line during ceasefire
 - [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — Touska seized April 19 near the Strait; IRGC ended temporary reopening; traffic at standstill; two tankers forced to retreat by Iranian forces
+- [[Iran Fires on 3 Ships in Strait of Hormuz — AP]] — April 22 tit-for-tat; MSC Francesca and Epaminondas seized; Brent $100+; €500M/day EU cost; Islamabad talks stalled pending blockade lift
 
 ## Open Questions
 
