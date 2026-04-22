@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [power, depin, politics, ai, technology]
 created: 2026-04-06
-updated: 2026-04-16
-sources: 17
+updated: 2026-04-22
+sources: 18
 ---
 
 ## Overview
@@ -30,6 +30,7 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 - Politically opposed to Trump: opposed 10-year state AI regulation moratorium in "Big Beautiful Bill"; endorsed California SB 53 (AI transparency); hired senior Biden-era officials for government relations
 - [[Dario Amodei]] compared Trump to a "feudal warlord" during 2024 election; publicly supported Kamala Harris; excluded from White House dinners attended by OpenAI, Meta, and Nvidia leaders
 - Co-founder [[Jack Clark]]'s essay "Technological Optimism and Appropriate Fear" (October 2025) triggered David Sacks's "regulatory capture through fear-mongering" accusation
+- **April 21, 2026 — Claude Mythos breach investigation**: Anthropic confirmed it is investigating a Bloomberg report that users in a private forum gained unauthorised access to Claude Mythos (its gated cyber-security model) "through one of our third-party vendor environments" — most likely vendor-permission misuse rather than an external hack. No evidence Anthropic's own systems affected; no confirmation the model is in malicious hands. Parallels with OpenAI's GPT 5.4 Cyber. [[Claude Mythos Unauthorised Access — BBC]]
 
 ## Newsletter Relevance
 
@@ -61,6 +62,7 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 - [[Jack Clark on AI Fear — Anthropic Co-Founder Speech]] — Yahoo Finance Australia; Clark's Berkeley speech; "creature not machine" framing; 50-50 fear
 - [[Statement from Dario Amodei on our discussions with the Department of War]] — Amodei's official statement; two red lines (mass surveillance, autonomous weapons); DPA and supply chain risk threats; first frontier AI company on classified networks
 - [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — American Progress legal analysis; supply chain risk designation likely illegal; commercial "death penalty"; Claude used for Iran strikes while designated a risk
+- [[Claude Mythos Unauthorised Access — BBC]] — April 21 2026 Bloomberg report of third-party vendor access to Mythos; Anthropic investigating; stress test of gated-frontier-model posture
 
 ## Open Questions
 

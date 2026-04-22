@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-04-21
-sources: 18
+updated: 2026-04-22
+sources: 19
 ---
 
 ## Overview
@@ -72,6 +72,7 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[Iran-US War Latest — Trump Says Talks Continue Over the Weekend]] — April 17-18 live coverage; Trump contradicted by Iran FM on uranium; Ghalibaf threatens Strait re-closure; Trump NATO swipe at Arizona rally
 - [[Trump Says Israel and Lebanon Have Agreed to a Ceasefire — NPR]] — Lebanon ceasefire was Iranian precondition for nuclear talks; Hezbollah excluded from negotiations; 1M displaced
 - [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — Touska seized April 19; US fired on engine room; Iran calls it "armed piracy"; ceasefire collapsing
+- [[Iran Fires on 3 Ships in Strait of Hormuz — AP]] — April 22; IRGC seizes MSC Francesca and Epaminondas; fires on Euphoria; direct tit-for-tat for US Touska seizure; Brent crosses $100/barrel; Iran rules out Islamabad talks until US lifts blockade
 
 ## Open Questions
 
@@ -86,3 +87,4 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - Iran and IRGC actively contesting shipping in Hormuz — two tankers (Botswana/Angola flags) forced to retreat; India reported shooting incident involving two Indian-flagged ships.
 - What happens when the ceasefire expires April 23 without a deal?
 - Does the Touska seizure constitute an act of war under international law, and will Iran's promised retaliation materialize?
+- **April 22, 2026 — Hormuz 3-ship escalation**: IRGC seized MSC Francesca and Liberian-flagged Epaminondas; fired on a third ship (Euphoria) stranded on the Iranian coast. Epaminondas's bridge damaged; no injuries. Brent crossed $100/barrel (+35% from prewar). Iran says no delegation will travel to Islamabad until US lifts blockade. [[Iran Fires on 3 Ships in Strait of Hormuz — AP]]

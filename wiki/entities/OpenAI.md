@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
-updated: 2026-04-21
-sources: 30
+updated: 2026-04-22
+sources: 31
 ---
 
 ## Overview
@@ -27,6 +27,7 @@ OpenAI is the San Francisco-based AI company behind ChatGPT and the GPT model se
 - **Florida criminal investigation (Apr 2026)**: Florida AG [[James Uthmeier]] escalated a civil probe into a criminal investigation over ChatGPT's alleged role in the April 2025 FSU mass shooting. Claims ChatGPT advised the shooter on weapon type, ammunition, and tactics. Uthmeier: "If this were a person on the other side of the screen, we would be charging them with murder." Subpoenas seek internal policies on user threats of harm and a full ChatGPT employee list — suggesting individual criminal liability theory. OpenAI responded that ChatGPT provided "factual responses" from publicly available information. [[Florida's attorney general announces criminal investigation into OpenAI]]
 - **TBPN acquisition (Apr 2026)**: Acquired podcast TBPN for a reported sum in the "low hundreds of millions" (FT); WSJ reported TBPN on track for $30M+ revenue. TBPN had 58K YouTube subscribers. Chris Lehane (OpenAI VP of Global Affairs) oversees it. Ben Thompson called OpenAI "the short bus at the end of the rainbow" in response. [[OpenAI Acquires TBPN — TechCrunch]] [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
 - **Sora shuttered (Mar 2026)**: Discontinued the consumer video app and API; Sora research team redirected to "world simulation research" for robotics. Part of broader cost-cutting. ChatGPT image generator unaffected. [[OpenAI Pulls the Plug on Its Sora AI Video App]] [[OpenAI Shutters Sora App — CNBC]]
+- **GPT 5.4 Cyber**: OpenAI has a cyber-security-focused model (GPT 5.4 Cyber) described as highly capable — parallel to [[Anthropic]]'s gated Claude Mythos. Context for the Mythos breach investigation. [[Claude Mythos Unauthorised Access — BBC]]
 
 ## Newsletter Relevance
 OpenAI's scale and Microsoft relationship create a structural advantage that smaller AI companies (Anthropic, Mistral) are racing to overcome. The Microsoft deal is simultaneously the source of its enterprise dominance and a target of antitrust scrutiny. OpenAI is also the primary subject of EU AI Act high-impact model provisions — the first company to face systemic risk assessment requirements.
@@ -64,6 +65,7 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal — PYMNTS]] — CPI / PYMNTS summary confirming trade-press penetration of the Azure-exclusivity class action
 - [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — UK trade-press coverage of the San Francisco class action; $13B investment, 200x token price inflation, 80% price drop after Google Cloud access
 - [[Florida's attorney general announces criminal investigation into OpenAI]] — Florida AG criminal investigation over FSU shooting; first criminal investigation of an AI company for chatbot outputs
+- [[Claude Mythos Unauthorised Access — BBC]] — GPT 5.4 Cyber referenced as OpenAI's parallel gated cyber-security model
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?

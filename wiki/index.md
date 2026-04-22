@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-21
-total_pages: 1004
-total_sources: 556
-total_entities: 216
-total_concepts: 131
+updated: 2026-04-22
+total_pages: 1012
+total_sources: 559
+total_entities: 218
+total_concepts: 134
 total_syntheses: 14
 total_articles: 87
 ---
@@ -95,8 +95,11 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Pew Poll — Israel Favorability Hits New Low, 60 Percent Unfavorable]] — USA Today, Apr 8 2026; 60% unfavorable (up from 42% in 2022); 80% Democrats; 77% say Iran conflict personally important
 - [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]] — India Today, Apr 5 2026; Iran strikes Gulf energy sites; Iranian military defiance; limited amnesty for negotiators
 - [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — BBC, Apr 19 2026; US Navy seizes Touska; fires on engine room; Iran calls it "armed piracy"; ceasefire collapsing; Strait closed; Vance delegation to Islamabad uncertain
+- [[Iran Fires on 3 Ships in Strait of Hormuz — AP]] — AP, Apr 22 2026; IRGC seizes MSC Francesca and Epaminondas; fires on Euphoria; direct tit-for-tat for Touska seizure; Brent crosses $100/barrel; EU cost ~€500M/day; Islamabad talks stalled
 
 ### AI / Technology
+- [[Sony Ace Table Tennis Robot Beats Human Pros — AP]] — AP, Apr 22 2026; Sony's reinforcement-learning table tennis robot defeats pro players (*Nature*); "ChatGPT moment for robotics"; Spranger flags military application
+- [[Claude Mythos Unauthorised Access — BBC]] — BBC, Apr 21 2026; Bloomberg report of third-party vendor access to Anthropic's gated Mythos cyber-security model; NCSC chief Horne on frontier AI scale; OpenAI's GPT 5.4 Cyber referenced
 - [[Florida's attorney general announces criminal investigation into OpenAI]] — NBC News, Apr 21 2026; first criminal investigation of AI company for chatbot outputs; FSU shooting; AG Uthmeier: "we would be charging them with murder"; employee-level liability theory
 - [[Best Local LLMs for Every Apple Silicon Mac — 2025 Guide]] — apxml.com, Jul 2025; unified memory architecture; Q4 quantization explainer; Ollama setup; per-RAM-tier model recommendations
 - [[Best Local LLMs for Every Apple Silicon Mac — 2026 Guide]] — apxml.com, Feb 2026; Phi-4 Mini, Qwen3, DeepSeek R1 671B on 512GB Mac; 60% RAM rule; Flash Attention; frontier on consumer hardware
@@ -976,6 +979,8 @@ New article:
 - [[SEC]] — U.S. Securities and Exchange Commission; crypto jurisdiction pivot in CLARITY Act
 - [[Twitter]] — Social network (X under Musk); echo-chamber and political-polarization research
 - [[University of Connecticut]] — US research university; Nature light pollution study contributor
+- [[Sony]] — Japanese electronics conglomerate; Sony AI division built Ace reinforcement-learning table tennis robot; "ChatGPT moment for robotics"; military-application dual-use flagged by Spranger
+- [[Google DeepMind]] — Google's AI research division; third US frontier-AI lab; prior table tennis robotics work referenced in Sony Ace coverage
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
@@ -1106,6 +1111,9 @@ New article:
 - [[CISA Jawboning]] — Government pressure on platforms to remove speech; censorship-by-proxy; Murthy v. Missouri
 - [[Corporate Personhood]] — Legal doctrine treating corporations as persons; background for AI rights and DABUS discussions
 - [[Stylometric Analysis]] — Computational authorship attribution; applied to Satoshi Nakamoto investigation
+- [[Reinforcement Learning]] — ML paradigm behind Sony Ace robot + RLHF; "ChatGPT moment for robotics"; sim-to-real transfer
+- [[Embodied AI]] — AI agents in physical environments; robotics; Sony Ace milestone; compressed deployment timeline
+- [[Frontier AI]] — Leading-edge general-purpose AI; gated release; US/China concentration; governance focus; Mythos breach stress test
 - [[Bitcoin Origin Mystery]] — Who created Bitcoin; NYT investigation; candidate analysis; Back/Finney/Szabo/Todd
 
 ### Mental Health & Culture

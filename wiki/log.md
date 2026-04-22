@@ -5,6 +5,27 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-22] ingest | Sony Ace robot + Claude Mythos breach + Iran Hormuz 3-ship attack (3 sources, automated daily ingest)
+
+Three raw sources ingested covering AI/robotics, AI security, and geopolitics.
+
+**Sources:**
+- [[Sony Ace Table Tennis Robot Beats Human Pros — AP]] — Sony AI's reinforcement-learning table tennis robot beats expert-level human pros (*Nature* paper). Sony AI president Michael Spranger explicitly flags military-application implication: "not hard to imagine how such high-speed and highly perceptive hardware could be used in war." Framed as "a ChatGPT moment for robotics."
+- [[Claude Mythos Unauthorised Access — BBC]] — Anthropic confirms investigation into a Bloomberg report that users in a private forum gained access to the gated Claude Mythos cyber-security model "through one of our third-party vendor environments" — most likely vendor-permission misuse rather than an external hack. UK NCSC chief Richard Horne at CyberUK on frontier AI enabling "discovery and exploitation of existing vulnerabilities at scale." OpenAI's GPT 5.4 Cyber referenced as parallel.
+- [[Iran Fires on 3 Ships in Strait of Hormuz — AP]] — IRGC seizes MSC Francesca and Liberian-flagged Epaminondas; attacks a third ship (Euphoria) stranded on the Iranian coast. Direct tit-for-tat for US Touska seizure (April 19) and blockade. Brent crude crosses $100/barrel (+35% from prewar). EU Energy Commissioner Dan Jørgensen estimates €500M/day European cost. Iran rules out Islamabad talks until US lifts blockade.
+
+**2 new entity pages:** [[Sony]], [[Google DeepMind]].
+
+**3 new concept pages:** [[Reinforcement Learning]], [[Embodied AI]], [[Frontier AI]].
+
+**Updated entities:** [[Anthropic]] (Mythos breach bullet + source link), [[Iran]] (Hormuz 3-ship escalation + source), [[Strait of Hormuz]] (Hormuz 3-ship escalation + source), [[Iran Revolutionary Guards Corps]] (ship-seizure key fact + source), [[OpenAI]] (GPT 5.4 Cyber context + source).
+
+**Editorial significance:** The Sony/Mythos pair extends the wiki's AI-frontier thread in two directions — embodied robotics and gated-model security — at a moment when both are becoming state-relevant. Spranger's unprompted military-application line is the kind of industry self-description that the existing [[Tech-State Conflict]] concept was built to track. The Mythos vendor-permission breach is the first documented stress test of Anthropic's "gated frontier model" posture, directly relevant to its DoD-refusal defense (per [[Statement from Dario Amodei on our discussions with the Department of War]]). The Hormuz 3-ship escalation closes the loop on the Touska tit-for-tat and keeps the war-driven inflation thread live through Warsh's confirmation cycle — Brent at $100 while the Fed is cutting.
+
+Index updated: 559 sources (+3), 218 entities (+2), 134 concepts (+3), 1012 total pages (+8).
+
+---
+
 ## [2026-04-21] ingest | Warsh hearing + OpenAI criminal probe + Iran ship seizure + published article (3 sources, 1 article, automated daily ingest)
 
 Three raw sources ingested and one published article filed.
