@@ -6,6 +6,7 @@ created: 2026-04-22
 updated: 2026-04-22
 sources: 8
 raw: "raw/Iran fires on 3 ships in the Strait of Hormuz as US maintains blockade and diplomacy stalls.md"
+raw_alt: "raw/Iran says it has seized two ships in Strait of Hormuz after vessels attacked.md"
 source_url: "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7"
 author: "Jon Gambrell, David Rising"
 published: 2026-04-22

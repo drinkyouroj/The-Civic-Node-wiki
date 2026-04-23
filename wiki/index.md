@@ -1,10 +1,10 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-22
-total_pages: 1012
-total_sources: 559
-total_entities: 218
+updated: 2026-04-23
+total_pages: 1016
+total_sources: 562
+total_entities: 219
 total_concepts: 134
 total_syntheses: 14
 total_articles: 87
@@ -788,6 +788,11 @@ New article:
 - [[Flock Safety Surveillance Network]] — connected ALPR infrastructure as sanctuary-policy circumvention
 - [[LLM Political Bias]] — cross-provider conversational AI political tilt
 
+### Daily Ingest 2026-04-23
+- [[Trump Orders Shoot-Kill Iranian Small Boats in Hormuz — Chicago Tribune]] — Apr 23 Truth Social ROE order; four-step Hormuz escalation ladder since Apr 13 blockade
+- [[DOJ Reschedules FDA-Approved and State-Medical Marijuana to Schedule III — CBS]] — Apr 23 Blanche order; Biden-direction completion; late-June broader hearing scheduled
+- [[Lebanon-Israel Direct Talks Resume in Washington — AP]] — Apr 23 second direct session; first bilateral since 1993; Hezbollah explicit non-recognition
+
 ---
 
 ## Entities
@@ -990,6 +995,9 @@ New article:
 - [[Hungary]] — Orban's illiberal democracy model; April 2026 election as democratic backsliding test case
 - [[France]] — Light pollution reduction policy; one of few countries to achieve measurable decrease
 - [[Ukraine]] — Invaded by Russia Feb 2022; reshaped European energy policy, NATO dynamics
+
+### Daily Ingest 2026-04-23
+- [[Todd Blanche]] — Acting U.S. Attorney General; signed Apr 23 marijuana rescheduling order; former Trump personal defense attorney
 
 ### Infrastructure
 - [[Strait of Hormuz]] — World's critical oil chokepoint; closed by Iran Apr 2026; center of current conflict
@@ -1281,9 +1289,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 553 |
-| Published articles tracked | 86 (75 standalone + 11 episodes) |
-| Entity pages | 214 |
-| Concept pages | 130 |
+| Total sources ingested | 562 |
+| Published articles tracked | 87 (76 standalone + 11 episodes) |
+| Entity pages | 219 |
+| Concept pages | 134 |
 | Synthesis pages | 14 (5 audits + 7 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-19 |
+| Last updated | 2026-04-23 |
