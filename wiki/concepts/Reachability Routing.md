@@ -3,8 +3,8 @@ title: "Reachability Routing"
 type: concept
 tags: [legal, jurisdictional-asymmetry, civil-litigation, power]
 created: 2026-04-17
-updated: 2026-04-18
-sources: 13
+updated: 2026-04-19
+sources: 14
 ---
 
 ## Definition
@@ -30,7 +30,7 @@ This concept anchors the [[You Can't Sue the Catfish]] article and generalizes t
 
 - **"Someone has to pay."** The plaintiff's injury is real. If the reachable party is even partially culpable, why not route liability to them? This is a legitimate response. The counter is that *partial* culpability does not map cleanly to *full* liability, and the current routing treats the two as interchangeable.
 - **Deterrent theory.** Even if the reachable defendant was not the proximate cause, holding them liable deters the broader pattern (platforms tighten controls, public figures treat intimate media with more care). This is coherent. It is also an admission that the civil system is doing deterrence work on the wrong actor.
-- **Reachability is a gradient, not a binary.** Civil process *can* reach foreign witnesses via the Hague Convention and letters rogatory; in [[Doe v. Bonnell (1-25-cv-20757)]], plaintiff has in fact filed a letter rogatory attempt directed at Solo in the UK (see [[Doe v Bonnell continuance motion (ECF 227)]]). The more precise claim is that the mechanism is slow, expensive, jurisdictionally fragile, and evidentially thin — such that the reachable defendant absorbs practical liability before the unreachable mechanism completes. Reachability routing is about *practical* reachability, not legal impossibility.
+- **Reachability is a gradient, not a binary.** Civil process *can* reach foreign witnesses via the Hague Convention and letters rogatory. But the sharper version of this counterargument, surfaced by close reading of [[Doe v. Bonnell (1-25-cv-20757)]], is that even when those tools are available, the party with standing to use them has no incentive to aim them at the proximate cause of the harm. Plaintiff's single Hague-mechanism filing in this case — [[Doe v Bonnell Hague motion (ECF 145)]], October 7, 2025 — targets Bonnell's ex-wife in Sweden, a peripheral witness favorable to plaintiff's case theory, not [[Solo (Ben Conway)]] in the UK. No letter rogatory against Solo has ever been filed. The tools exist; the incentive to aim them at the catfisher does not, because plaintiff's legal theory routes around him, and the reachable defendant absorbs practical liability before any slow foreign mechanism could complete anyway. Reachability routing is therefore about *incentive-weighted* reachability, not legal impossibility.
 - **The reachable defendant may actually be liable.** The Doe v. Bonnell complaint alleges a written admission ("fairly close to me"), pattern evidence with 15+ women, and evidence destruction. Reachability routing does not require the reachable party to be innocent — only that the unreachable party generates no liability in proportion to their actual causal contribution, regardless of the reachable party's own culpability.
 
 ## Related Concepts
@@ -43,11 +43,12 @@ This concept anchors the [[You Can't Sue the Catfish]] article and generalizes t
 ## Key Sources
 
 - [[Doe v Bonnell complaint (ECF 1)]]
+- [[Doe v Bonnell Hague motion (ECF 145)]] — the actual foreign-discovery filing in the case; targets Göransson in Sweden, not Solo in the UK. Direct evidence of how plaintiff's reachability tools get aimed when the proximate actor is unreachable: not at him.
 - [[Doe v Bonnell continuance motion (ECF 227)]]
 - [[Rose deposition — Doe v Bonnell]]
 - [[Doe v. Bonnell (1-25-cv-20757)]]
 - [[Doe v Bonnell ECF132 — Motion to Dismiss (Abby Subpoena History)]] — fullest articulation of the jurisdictional asymmetry in the case; Bonnell is reachable, Solo is not
 - [[Doe v Bonnell ECF139 — Plaintiff Opposition to MTD (False Minor Footnote)]] — Discord CDN reachability theory; Plaintiff's attempt to bridge the April 2022 pre-statute gap via continuous disclosure
 - [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — most complete legal synthesis; shows how reachability routing and catfishing interact in the post-discovery record
-- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — Hague Convention request to depose Göransson in Sweden; practical example of how expensive and slow it is to reach unreachable witnesses even via legitimate process
+- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — cites the pending Göransson deposition (ECF 145) among the reasons plaintiff seeks deferral
 - [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — system's practical verdict as of April 2026: the reachable defendant proceeds to trial while the proximate cause is unserved and undeposed

@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-23
-total_pages: 1016
-total_sources: 562
-total_entities: 219
+total_pages: 1018
+total_sources: 563
+total_entities: 220
 total_concepts: 134
 total_syntheses: 14
 total_articles: 87
@@ -509,7 +509,7 @@ Seven sources ingested to fill cross-partisan and consumer-scale evidence gaps i
 Primary sworn evidence ingested for "You Can't Sue the Catfish" — the first piece in the [[Reachability Routing]] series. Core finding: the Rose the lawsuit treats as a direct participant in Destiny's messages never existed. Under oath, the real teenager whose identity was stolen confirms she never messaged Destiny, never controlled the Discord account, and never consented to the leak. Defendant's own counsel on cross: "Defendant Bonnell was catfished by your boyfriend; correct?" "Yes."
 
 - [[Doe v Bonnell complaint (ECF 1)]] — operative complaint filed Feb 18, 2025; four counts (federal NCII, FL cyberharassment, IIED, public disclosure); contains the Nov 29, 2024 "fairly close to me" written admission, the "young girl" pre-announcement allegation, pattern evidence with 15+ women, and alleged evidence destruction
-- [[Doe v Bonnell continuance motion (ECF 227)]] — plaintiff's April 8, 2026 motion to continue trial; Bonnell not yet deposed; letter-rogatory foreign deposition pending (Solo in UK); spoliation investigation ongoing; hearing April 21, 2026
+- [[Doe v Bonnell continuance motion (ECF 227)]] — plaintiff's April 8, 2026 motion to continue trial; Bonnell not yet deposed; letter-rogatory foreign deposition pending (Göransson in Sweden, per ECF 145 — *not* Solo in UK; corrected 2026-04-19); spoliation investigation ongoing; hearing April 21, 2026
 - [[Rose deposition — Doe v Bonnell]] — ECF 204-1 filed Jan 7, 2026; 91 pp. deposition of Oct 23, 2025; sworn testimony by the real "Rose" (pseudonym AH) dissolving the factual predicate of the complaint *as to her* — not as to Bonnell's conduct generally
 
 New entities:
@@ -644,12 +644,19 @@ Bulk ingest of ~80 raw sources accumulated across the Apr 7 substack-research sy
 - [[Doe v Bonnell ECF163 — Motion for Protective Order (Deposition Scheduling)]] — Bonnell seeks protective order on deposition timing and scope; Nov 2025
 - [[Doe v Bonnell ECF183 — Rule 11 Sanctions Motion (False Minor Allegation)]] — Plaintiff moves for Rule 11 sanctions over false minor footnote; Dec 2025
 - [[Doe v Bonnell ECF210 — Motion for Summary Judgment]] — Bonnell's MSJ arguing no genuine dispute of material fact; Feb 2026
-- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — Plaintiff seeks deferral pending Bonnell deposition and foreign discovery (Solo); Mar 2026
+- [[Doe v Bonnell ECF216 — Plaintiff Rule 56(d) Motion to Defer MSJ]] — Plaintiff seeks deferral pending Bonnell deposition and foreign discovery (Göransson, Sweden, per ECF 145); Mar 2026
 - [[Doe v Bonnell ECF218 — Bonnell Opposition to Rule 56(d) Motion]] — Bonnell argues plaintiff has had adequate time for discovery; Mar 2026
 - [[Doe v Bonnell ECF222 — Bonnell Omnibus Motion in Limine]] — Bonnell's omnibus MIL; seeks to exclude multiple categories of evidence at trial; Mar 2026
 - [[Doe v Bonnell ECF230 — Bonnell Opposition to Plaintiff MIL]] — Bonnell opposes plaintiff's motions in limine; Apr 2026
 - [[Doe v Bonnell ECF231 — Plaintiff Opposition to Omnibus MIL]] — Plaintiff argues Bonnell's MIL overreaches; Novel argument: catfish intermediary creates new liability layers; Apr 2026
 - [[Doe v Bonnell ECF235 — Bonnell Opposition to Trial Continuance]] — Bonnell opposes plaintiff's request for continuance; argues case is ready for trial; Apr 2026
+
+### Recent Ingests (2026-04-19) — Doe v. Bonnell correction pass
+
+Reader fact-check (r/Destiny) surfaced a factual error that had propagated across Piece 1 drafts (v1–v5), the ECF 227 source page, the Reachability Routing concept page, and the Piece 1 article summary. The wiki had consistently described plaintiff's letter rogatory as "almost certainly targeting Solo in the UK." The record contains no such filing. The only foreign-discovery motion in the docket targets Bonnell's Swedish ex-wife. Correction pass applied across all affected pages; new ECF 145 source page created; new Göransson entity page created. Piece 1 v6 drafted with the correction; Piece 2 draft unaffected. See [[insight-correction-sweep-2026-04-19]] (not yet written) for the post-mortem on how the misreading survived multiple revisions.
+
+- [[Doe v Bonnell Hague motion (ECF 145)]] — plaintiff's unopposed motion for Letter of Request under the Hague Convention (Oct 7, 2025); targets Melina Göransson in Sweden, not Solo in the UK; the only foreign-discovery motion in the docket
+- [[Melina Göransson]] — Bonnell's former spouse; Swedish resident; named pattern witness; target of ECF 145; communicated extensively with plaintiff months before suit was filed
 
 ### Recent Ingests (2026-04-19) — Child Safety Bills / Age Verification / LGBTQ+ Censorship / Surveillance Infrastructure
 
@@ -1271,6 +1278,12 @@ New article:
 - [[NFL Cluster Audit — 2026-04-07 (Sports Nut)]] — Super Bowl LX unsourced, "zero holdovers" contradiction, Macdonald "25→2 in one season" wrong, 3-Buzz misdescribed, coaching-tree "control group" caveat
 
 ### Insight Sweeps
+- [[Insight Sweep — 2026-04-23]] — Master briefing; 3-agent sweep; 7 patterns, 7 contradictions, 7 underexplored angles; top 5 hooks filed
+- [[No Ceasefire in Hormuz — The Four-Step Escalation Ladder]] — Apr 13 blockade → Apr 19 Touska → Apr 22 IRGC 3-ship → Apr 23 shoot-on-sight ROE; "ceasefire" is doing active concealment
+- [[Democrats as Architects of the Anti-LGBTQ+ Censorship Stack]] — Blumenthal/Durbin/Klobuchar/Schumer co-authoring the legal architecture Heritage explicitly designed as anti-LGBTQ+ infrastructure
+- [[Kevin Warsh and the Respectability Capture of the Fed]] — April 21 hearing as the most advanced form of independence theater; narrating the principle while carving the exceptions; silence on the Powell probe
+- [[Atlanta's Flock Contradiction — Sanctuary Policy in a Vendor State]] — 15 APD immigration searches + 3,383 external hits in one week; vendor-state governance beats local sanctuary policy
+- [[Operation Metro Surge — First Fully Documented Federal Immigration Campaign]] — 33-source full-dossier treatment; May 1 court-ordered Ross disclosures as news peg
 - [[Insight Sweep — 2026-04-08]] — Master briefing; 3-agent sweep; 7 patterns, 8 contradictions, 7 underexplored angles; top 5 hooks filed
 - [[Institutional Gaslighting as Operational Pattern]] — Federal evidence custody as accountability-destruction mechanism; Minneapolis, Epstein, Trump investigations; ready to draft
 - [[Institutional Gaslighting — Research Brief for Substack Draft]] — Writer's brief: Touhy/Reynolds/Richman legal spine; Arendt/Sweet/Rauch theoretical scaffolding; quote bank for all three pillars; gap list
@@ -1293,5 +1306,5 @@ New article:
 | Published articles tracked | 87 (76 standalone + 11 episodes) |
 | Entity pages | 219 |
 | Concept pages | 134 |
-| Synthesis pages | 14 (5 audits + 7 insight sweep + 2 DRAM crisis) |
+| Synthesis pages | 20 (5 audits + 13 insight sweep + 2 DRAM crisis) |
 | Last updated | 2026-04-23 |

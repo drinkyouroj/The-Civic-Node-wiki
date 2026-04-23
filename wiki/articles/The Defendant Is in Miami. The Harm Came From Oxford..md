@@ -12,6 +12,7 @@ tags:
 published: 2026-04-17
 created: 2026-04-19
 updated: 2026-04-19
+correction_note: "2026-04-19 update fixes the letter-rogatory claim (Piece 1 v6): the only foreign-discovery motion in this docket is ECF 145, which targets Göransson in Sweden, not Solo in the UK. See [[Doe v Bonnell Hague motion (ECF 145)]]."
 source: "published/The Defendant Is in Miami. The Harm Came From Oxford..md"
 source_url: "https://drinkyouroj.substack.com/p/the-defendant-is-in-miami-the-harm"
 ---
@@ -33,7 +34,7 @@ Four movements: (1) The Drop — three-layer factual setup: Pxie, the catfished 
 - Destiny's written admission on the night of the leak: "I'd had phone convos and stuff with this person they were fairly close to me"
 - Complaint alleges ~15 women contacted Pxie reporting receipt of non-consensual images from Destiny; three report post-demand evidence deletion
 - Destiny organized Discord group to find and doxx the real Rose (a teenager in Illinois)
-- Pxie's letter rogatory (ECF 227) almost certainly targeting Solo in the UK; mechanism exists but won't produce evidence before trial
+- Pxie's one foreign-discovery filing ([[Doe v Bonnell Hague motion (ECF 145)]], Oct 7, 2025) targets Bonnell's ex-wife [[Melina Göransson]] in Sweden, not Solo in the UK; no letter rogatory against Solo has ever been filed. *(Note: earlier wiki and draft versions of this article mischaracterized the Hague motion as targeting Solo. Piece 1 v6 [2026-04-19] corrects this. The structural argument is preserved and arguably strengthened — no filed mechanism in this case attempts to reach the proximate cause at all.)*
 - KiwiFarms thread running since March 2017; subforum called "Lolcows"; distribution infrastructure pre-built
 
 ## Connections
@@ -49,7 +50,7 @@ Four movements: (1) The Drop — three-layer factual setup: Pxie, the catfished 
 
 ## What It Leaves Open
 
-- Whether the letter rogatory will produce anything before the May 18 trial
+- Whether the Göransson letter rogatory (ECF 145) will produce deposition testimony before the May 18 trial
 - Whether the continuance motion (heard April 21) will push the trial date
 - The litigation-as-instrument angle teased for piece two: "A lawsuit that can't reach the person who caused the harm, and also keeps not ending"
 - How platform design liability (Fix 3) would interact with Section 230 precedent

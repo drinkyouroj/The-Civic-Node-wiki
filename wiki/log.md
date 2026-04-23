@@ -1654,3 +1654,42 @@ Re-ran the raw/ vs wiki/sources/ diff after yesterday's bulk ingest. The naive d
 **Index hygiene:** Deleted two duplicate article pages from yesterday's bulk pass — straight-quote variants of `[[13-3 The Box Score That Ended the Can Seattle's Defense Travel? Debate]]` and `[[Beyond "Crypto Week"]]` that the parallel agents created without checking for the pre-existing smart-quote originals. Wiki totals adjusted: 505 sources / 206 entities / 128 concepts / 86 articles / 936 pages.
 
 **Followup recommendation:** The diff-based "uningested" check overcounts when source pages list secondary raws in Notes rather than frontmatter. A more accurate audit would grep for raw filename basenames across all of wiki/sources/, not just the `raw:` field. Worth doing before the next bulk pass.
+
+## [2026-04-23] insight-sweep | 5 hooks surfaced
+
+Three-agent sweep complete against the full wiki (562 sources, 219 entities, 134 concepts, 87 articles). User explicitly excluded Doe v. Bonnell / The Wrong Defendant angles. Agents returned: 7 patterns (Pattern Mapper), 7 contradictions (Contradiction Hunter), 7 underexplored angles (Angle Finder). Synthesis pass scored each on evidence-density × editorial-novelty (out of 6) and selected the 5 highest-leverage hooks:
+
+1. **No Ceasefire in Hormuz** — contradiction. The "ceasefire" framing vs. the Apr 13–23 four-step escalation ladder (blockade → Touska seizure → IRGC three-ship attack → Trump shoot-on-sight ROE). Time-sensitive; 2–3 week half-life.
+2. **Democrats as Architects of the Anti-LGBTQ+ Censorship Stack** — contradiction. Blumenthal/Durbin/Klobuchar/Schumer co-authoring what Heritage explicitly calls anti-LGBTQ+ censorship infrastructure. Roll-call piece.
+3. **Kevin Warsh and the Respectability Capture of the Fed** — folded contradiction (T1/T7) + underexplored angle (A3). Apr 21 hearing as most advanced form of independence theater; his silence on the Powell probe is the signature data point.
+4. **Atlanta's Flock Contradiction** — contradiction. Welcoming City policy vs. APD's own audit showing 15 immigration searches + 3,383 external hits in one week. Vendor-state governance beats local sanctuary policy.
+5. **Operation Metro Surge — Full Dossier** — underexplored angle. 33 sources, command chain + body count + polling collapse + state-vs-federal litigation all documented; May 1 court-ordered Ross disclosures as organic news peg.
+
+Strong alternates not filed (ready for future use): Vendor-Intermediary State pattern (filed wedge into #4), Concealment-as-Product pattern, Florida OpenAI vs. Mechanical Turk Pattern contradiction, Coercive Diplomacy doctrine angle, AI DRAM consumer-affordability angle, Toothless-by-Design pattern.
+
+All 5 synthesis pages filed at `wiki/syntheses/` with full Newsletter Application sections. Master briefing at [[Insight Sweep — 2026-04-23]]. Index updated (new subsection entries + stats: 14 → 20 syntheses).
+
+Source acquisition targets surfaced: Warsh Apr 21 hearing transcript, Warsh Hoover Institution papers, current KOSA text, Atlanta Welcoming City ordinance, Flock Safety ICE-integration contract terms, DOJ memo declining to prosecute Ross, May 1 Ross disclosure outcome.
+
+## [2026-04-19] update | Doe v. Bonnell letter rogatory correction — UK/Solo was wrong; actual target is Göransson/Sweden
+
+Reader fact-check via r/Destiny surfaced a factual error that had propagated across Piece 1 drafts v1–v5, [[Doe v Bonnell continuance motion (ECF 227)]], [[Reachability Routing]], and [[The Defendant Is in Miami. The Harm Came From Oxford.]]. Every affected page had described plaintiff's letter rogatory as "almost certainly targeting Solo in the UK." The record contains no such filing. The only foreign-discovery motion in the *Doe v. Bonnell* docket is ECF 145, filed October 7, 2025, targeting Bonnell's former spouse Melina Göransson in Sweden. Bonnell did not oppose the motion.
+
+**How the error propagated:** [[Doe v Bonnell continuance motion (ECF 227)]] contains the phrase "a foreign deposition (via letter rogatory) remains pending" in one paragraph and separately names Melina Göransson in a later paragraph. The original ingest of ECF 227 treated these as two separate referents — the letter rogatory was read as the *Solo-reachability* tool (fitting the [[Reachability Routing]] narrative) while Göransson was noted as a peripheral deposition target. They are the same witness. Reading the actual ECF 145 caption resolves the ambiguity in one step — but ECF 145 hadn't been ingested, because ECF 227's summary treated its reference as already-understood.
+
+**Scope of the correction (4 corrected pages + 2 new):**
+- [[Doe v Bonnell continuance motion (ECF 227)]] — added correction note at top; rewrote Key Points, Newsletter Angles, Entities, and Quotes sections; removed [[Solo (Ben Conway)]] from entities (he was never the rogatory target)
+- [[Reachability Routing]] — rewrote the "reachability is a gradient, not a binary" counterargument to use the corrected Göransson fact as *stronger* evidence for the concept (the party with standing to invoke foreign-discovery tools has no incentive to aim them at the proximate actor); added ECF 145 to Key Sources
+- [[The Defendant Is in Miami. The Harm Came From Oxford.]] — corrected the letter rogatory line in Key Examples; added correction_note to frontmatter; updated What It Leaves Open
+- [[index|Wiki Index]] — corrected the ECF 227 and ECF 216 entries; added new section documenting the correction pass; added [[Doe v Bonnell Hague motion (ECF 145)]] and [[Melina Göransson]] entries; bumped totals (+1 source, +1 entity)
+- **New:** [[Doe v Bonnell Hague motion (ECF 145)]] — full source page for the actual Hague motion, with Aerospatiale factor analysis, timeline, and correction-context note
+- **New:** [[Melina Göransson]] — entity stub with her role in the case, Hague timeline, and reachability-routing relevance
+
+**Article corrections:**
+- **Piece 1 v6** drafted at `workspace/drafts/the-defendant-is-in-miami-v6.md` with two body edits (letter rogatory paragraph + Fix 2 opener) and full reconciliation block documenting the change
+- **Piece 2** draft unaffected — never mentioned letter rogatory
+
+**Raw ingest:**
+- `raw/Doe_v_Bonnell-ECF145-Hague-motion-Goransson-Sweden.pdf` + `.txt` — the actual Hague motion, 7 pp., pulled directly from CourtListener RECAP
+
+**Lesson (for future ingest passes):** When a motion's summary references another motion by concept ("letter rogatory pending") rather than by ECF number, ingest the referenced motion directly before writing Newsletter Angles. The narrative-driven misreading here survived five drafts because no one cross-checked the actual Hague motion — it was assumed the referenced filing matched the surrounding narrative. The audit rule: every new ECF referenced in another ECF's summary gets pulled and verified before interpretive claims get added to the wiki.
