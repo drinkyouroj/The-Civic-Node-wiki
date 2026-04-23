@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, fed, fed-independence]
 created: 2026-04-07
 updated: 2026-04-08
-sources: 21
+sources: 22
 ---
 
 ## Overview
@@ -115,6 +115,7 @@ The **DOJ criminal probe of Powell** is the quietly important subplot. It's the 
 - [[Janus Henderson — Quick View — Warsh's nomination and the next era of monetary policy]] — Asset-manager reading of balance-sheet-plus-rates framework; documents specific yield curve reaction
 - [[Commonfund — Fed Watching under Warsh]] — Institutional investor consensus framing; Cohn quote; "hawk-turned-dove" shorthand
 - [[Fed keeps rates steady, despite historic contrary votes and Trump pressure]] — Earlier reference to Warsh as potential future Fed chair alongside Waller
+- [[Warsh Endorses Fed Independence at Senate Hearing — Axios]] — Apr 21 2026 confirmation hearing; explicit "strictly independent" commitment; "staying in its lane" framing; Trump refuses Powell-probe off-ramp same morning; Tillis continues hold
 
 ## Open Questions
 - Will Warsh actually cut rates aggressively if confirmed, or will his hawkish track record reassert itself once he's responsible for institutional credibility?

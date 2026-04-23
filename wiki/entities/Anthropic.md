@@ -5,7 +5,7 @@ entity_type: organization
 tags: [power, depin, politics, ai, technology]
 created: 2026-04-06
 updated: 2026-04-16
-sources: 17
+sources: 18
 ---
 
 ## Overview
@@ -61,6 +61,7 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 - [[Jack Clark on AI Fear — Anthropic Co-Founder Speech]] — Yahoo Finance Australia; Clark's Berkeley speech; "creature not machine" framing; 50-50 fear
 - [[Statement from Dario Amodei on our discussions with the Department of War]] — Amodei's official statement; two red lines (mass surveillance, autonomous weapons); DPA and supply chain risk threats; first frontier AI company on classified networks
 - [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — American Progress legal analysis; supply chain risk designation likely illegal; commercial "death penalty"; Claude used for Iran strikes while designated a risk
+- [[Anthropic Mythos Unauthorized Access — Bloomberg + BBC]] — Apr 21 2026; Discord group gained unauthorized access to Claude Mythos via third-party contractor + Mercor breach OSINT; Project Glasswing partner-testing governance failure
 
 ## Open Questions
 

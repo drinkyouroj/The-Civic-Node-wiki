@@ -5,6 +5,29 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-23] ingest | Daily sweep — 12 raw files + 1 published article
+
+Automated daily ingest. Found 12 new raw files and 1 new published piece sitting uncommitted in the main working copy (not yet visible via git log since they had not been added). Initial diff-audit against the worktree-as-merged branch was a no-op false positive (documented in earlier draft of this log entry); actual new content lived outside the worktree.
+
+**Thematic clusters:**
+1. **Iran / Hormuz escalation** (4 sources, 5 raw files): tit-for-tat across Apr 19–23 — US seizes Iranian Touska (Apr 19) → Iran fires on 3 ships, seizes 2 (Apr 22) → Trump orders Navy shoot-on-sight (Apr 23). Brent crude >$100. Vortexa documents 10.7M barrels of Iranian crude still flowing outbound — contradicts Trump's "collapsing financially" claim. Lebanon-Israel direct talks (first since 1993) resumed same week.
+2. **AI accountability / governance** (3 sources): Florida AG criminal investigation of OpenAI (first state-level AI criminal case); Anthropic Mythos unauthorized access breach (Project Glasswing partner-testing governance model's first documented failure); Sony Ace robot reinforcement-learning table-tennis milestone in Nature with explicit dual-use framing from Sony's own AI president.
+3. **Fed independence** (1 source): Warsh Senate confirmation hearing Apr 21 — explicitly endorsed monetary policy independence, contradicting the "family fight" framing from earlier wiki sources. Tillis (R-N.C.) blocking nomination over Powell DOJ investigation.
+4. **Drug policy** (1 source): DOJ/Blanche order moves FDA-approved and state-licensed medical marijuana to Schedule III; broader Schedule I→III administrative hearing scheduled late June.
+5. **Published** (1 article): "The Process Is the Punishment" — Doe v. Bonnell case study; article page cross-links to the six existing ECF source pages.
+
+**Counts:** 9 new source pages (2 combined-source pages cover the 5 Iran/Hormuz raws + 2 Mythos raws), 2 new entity pages ([[James Uthmeier]], [[Todd Blanche]]), 1 new article page. Wiki totals: 553→562 sources, 214→216 entities, 86→87 articles, 997→1009 pages. No new concept pages (all themes fit existing [[Chokepoint Control]], [[Fed Independence]], [[AI Safety]], [[Frontier AI]] pages).
+
+**Deferred / followups:**
+- Entity pages for [[Anthropic]], [[OpenAI]], [[Kevin Warsh]], [[Iran]], [[Donald Trump]] should have their Source Appearances sections updated with the new source links. Skipped in this sweep for time; worth a short update pass next run.
+- Concept pages [[Chokepoint Control]] and [[Fed Independence]] should be updated with the latest tit-for-tat timeline and the Warsh hearing testimony respectively.
+- "Process as Punishment" could graduate to its own concept page — the [[The Process Is the Punishment]] article names a pattern that recurs across the wiki (SLAPP-adjacent cases, prosecutorial attrition in [[Institutional Gaslighting as Operational Pattern]], etc.).
+- The [[Iran Fires on 3 Ships Seizes 2 in Strait of Hormuz — AP + BBC]] AIS-transponder-blackout detail is worth a dedicated concept page tracking commercial shipping adaptation to weaponized chokepoints.
+
+**Junk / skipped:** None. All 12 raw files and 1 published file were substantive.
+
+---
+
 ## [2026-04-19] ingest | Bad Internet Bills cluster + Flock Safety + LLM political bias (17 sources, automated daily ingest)
 
 Largest single-day ingest in recent history: 17 raw sources — 13 on the federal "child safety" internet legislation cluster (KOSA, Section 230 sunset, EARN IT, age verification, SCREEN Act), 2 on Flock Safety surveillance network expansion, 1 PLOS ONE peer-reviewed study on LLM political bias, and 1 EFF age-verification one-pager (PDF).

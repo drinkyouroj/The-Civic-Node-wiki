@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-19
-total_pages: 997
-total_sources: 553
-total_entities: 214
+updated: 2026-04-23
+total_pages: 1009
+total_sources: 562
+total_entities: 216
 total_concepts: 130
 total_syntheses: 14
-total_articles: 86
+total_articles: 87
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -782,6 +782,17 @@ New article:
 - [[Flock Safety Surveillance Network]] — connected ALPR infrastructure as sanctuary-policy circumvention
 - [[LLM Political Bias]] — cross-provider conversational AI political tilt
 
+### Daily Ingest 2026-04-23
+- [[Sony Ace Robot Defeats Human Pros at Table Tennis — AP]] — Nature-published Sony robotics milestone; reinforcement learning in physical world; dual-use candor
+- [[Anthropic Mythos Unauthorized Access — Bloomberg + BBC]] — Discord group accessed Mythos via third-party contractor + Mercor breach OSINT; Project Glasswing governance model first failure
+- [[Warsh Endorses Fed Independence at Senate Hearing — Axios]] — Apr 21 confirmation hearing; "strictly independent" commitment; Tillis blocks nomination pending Powell DOJ investigation
+- [[Florida AG Criminal Investigation into OpenAI — NBC News]] — Uthmeier criminal probe escalation; FSU shooting; first state-level AI criminal investigation
+- [[Iran Fires on 3 Ships Seizes 2 in Strait of Hormuz — AP + BBC]] — Apr 22 IRGC attacks on Epaminondas, MSC Francesca, Euphoria; Brent $100+; Vortexa 10.7M barrels outbound
+- [[Trump Orders Shoot-Kill Iranian Small Boats in Hormuz — Chicago Tribune]] — Apr 23 Truth Social ROE order; "any boat" shoot-on-sight; mine-clearing intensification
+- [[US Seizes Iranian Cargo Ship Touska — BBC]] — Apr 19 first US seizure of Iranian-flagged vessel; engine-room strike; "armed piracy" framing from Tehran
+- [[DOJ Reschedules FDA-Approved and State-Medical Marijuana to Schedule III — CBS]] — Apr 23 Blanche order; Biden-direction completion; late-June broader hearing scheduled
+- [[Lebanon-Israel Direct Talks Resume in Washington — AP]] — Apr 23 second direct session; first bilateral since 1993; Hezbollah explicit non-recognition
+
 ---
 
 ## Entities
@@ -981,6 +992,10 @@ New article:
 - [[France]] — Light pollution reduction policy; one of few countries to achieve measurable decrease
 - [[Ukraine]] — Invaded by Russia Feb 2022; reshaped European energy policy, NATO dynamics
 
+### Daily Ingest 2026-04-23
+- [[James Uthmeier]] — Florida AG; opened first U.S. state-level criminal investigation of a frontier AI lab (OpenAI)
+- [[Todd Blanche]] — Acting U.S. Attorney General; signed Apr 23 marijuana rescheduling order; former Trump personal defense attorney
+
 ### Infrastructure
 - [[Strait of Hormuz]] — World's critical oil chokepoint; closed by Iran Apr 2026; center of current conflict
 
@@ -1128,6 +1143,9 @@ New article:
 
 ## Published Articles
 
+### Daily Ingest 2026-04-23
+- [[The Process Is the Punishment]] — Apr 20 2026; Doe v. Bonnell as case study in process-as-punishment; three docket exhibits; GiveSendGo-admission structure
+
 ### Help Desk for the Singularity (Fiction Series)
 - [[Help Desk for the Singularity — Series]] — Series overview; characters; recurring motifs; themes
 - [[HDftS E01 — Ticket Zero]] — Rocky's first day; 340 open tickets; OWEN's introduction
@@ -1266,9 +1284,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 553 |
-| Published articles tracked | 86 (75 standalone + 11 episodes) |
-| Entity pages | 214 |
+| Total sources ingested | 562 |
+| Published articles tracked | 87 (76 standalone + 11 episodes) |
+| Entity pages | 216 |
 | Concept pages | 130 |
 | Synthesis pages | 14 (5 audits + 7 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-19 |
+| Last updated | 2026-04-23 |

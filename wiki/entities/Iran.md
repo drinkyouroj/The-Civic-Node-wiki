@@ -5,7 +5,7 @@ entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
 updated: 2026-04-11
-sources: 17
+sources: 21
 ---
 
 ## Overview
@@ -71,6 +71,10 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[Iran Hormuz Strait Reopens — Trump Blockade Remains in Full Force]] — April 17: Iran FM declares Strait "completely open" for ceasefire duration; Trump maintains naval blockade; uranium transfer dispute; oil -13%
 - [[Iran-US War Latest — Trump Says Talks Continue Over the Weekend]] — April 17-18 live coverage; Trump contradicted by Iran FM on uranium; Ghalibaf threatens Strait re-closure; Trump NATO swipe at Arizona rally
 - [[Trump Says Israel and Lebanon Have Agreed to a Ceasefire — NPR]] — Lebanon ceasefire was Iranian precondition for nuclear talks; Hezbollah excluded from negotiations; 1M displaced
+- [[US Seizes Iranian Cargo Ship Touska — BBC]] — Apr 19 2026; first US seizure of Iranian-flagged vessel; engine-room strike; Tehran calls it "armed piracy"; triggers retaliation cascade
+- [[Iran Fires on 3 Ships Seizes 2 in Strait of Hormuz — AP + BBC]] — Apr 22 2026; IRGC attacks Epaminondas, MSC Francesca, Euphoria; Brent $100+; Vortexa 10.7M bbl still flowing despite blockade
+- [[Trump Orders Shoot-Kill Iranian Small Boats in Hormuz — Chicago Tribune]] — Apr 23 2026; Truth Social shoot-on-sight ROE order for Iranian small boats suspected of mine-laying
+- [[Lebanon-Israel Direct Talks Resume in Washington — AP]] — Apr 23 2026; Iran's "region-wide war end" condition decoupled as Lebanon represents itself
 
 ## Open Questions
 
