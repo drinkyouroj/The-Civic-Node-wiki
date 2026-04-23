@@ -5,6 +5,28 @@ Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-04-23] ingest | Daily sweep — 5 raws (3 new source pages + 2 raw_alt adds)
+
+Automated daily ingest. Prior PRs #33 (ingest/2026-04-21) and #34 (ingest/2026-04-22) already processed the majority of material sitting uncommitted in the main working copy (Mythos, Sony Ace, Iran Hormuz, Warsh, OpenAI FL probe, Touska, The Process Is the Punishment). Reconciliation pass today covers the residual items not yet filed.
+
+**New source pages (3):**
+- [[Trump Orders Shoot-Kill Iranian Small Boats in Hormuz — Chicago Tribune]] — Apr 23 Truth Social ROE order extending the four-step Hormuz escalation ladder
+- [[DOJ Reschedules FDA-Approved and State-Medical Marijuana to Schedule III — CBS]] — Apr 23 Blanche order; Biden-direction completion; June DEA hearing for broader Schedule I→III
+- [[Lebanon-Israel Direct Talks Resume in Washington — AP]] — Apr 23 second bilateral session (first direct Lebanon-Israel diplomacy since 1993); Hezbollah explicit non-recognition
+
+**New entity (1):** [[Todd Blanche]] — Acting Attorney General
+
+**raw_alt additions (2):** Added Bloomberg Mythos raw as `raw_alt` on existing [[Claude Mythos Unauthorised Access — BBC]]; added BBC "seized two ships" raw as `raw_alt` on existing [[Iran Fires on 3 Ships in Strait of Hormuz — AP]]. Both are independent corroboration of filed stories.
+
+**Totals:** 559→562 sources, 218→219 entities, 1012→1016 pages.
+
+**Lessons / hook for future runs:**
+- Scheduled-task daily ingest should run `git fetch origin main` and check `git log HEAD..origin/main` before starting work, to avoid recreating sources already filed in merged PRs. Today's sweep initially duplicated PR #33 and #34 content before catching the divergence.
+- Main working copy's untracked files (visible only via `git status` in `/Users/justin/Documents/substack-research/Substack Research`, not the worktree) are the authoritative source of new content.
+- Pre-commit hook `recount_sources` populates frontmatter `sources:` count automatically — writers can leave it at 1.
+
+---
+
 ## [2026-04-22] ingest | Sony Ace robot + Claude Mythos breach + Iran Hormuz 3-ship attack (3 sources, automated daily ingest)
 
 Three raw sources ingested covering AI/robotics, AI security, and geopolitics.
