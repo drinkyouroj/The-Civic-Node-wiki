@@ -1725,3 +1725,22 @@ Reader fact-check via r/Destiny surfaced a factual error that had propagated acr
 - `raw/Doe_v_Bonnell-ECF145-Hague-motion-Goransson-Sweden.pdf` + `.txt` — the actual Hague motion, 7 pp., pulled directly from CourtListener RECAP
 
 **Lesson (for future ingest passes):** When a motion's summary references another motion by concept ("letter rogatory pending") rather than by ECF number, ingest the referenced motion directly before writing Newsletter Angles. The narrative-driven misreading here survived five drafts because no one cross-checked the actual Hague motion — it was assumed the referenced filing matched the surrounding narrative. The audit rule: every new ECF referenced in another ECF's summary gets pulled and verified before interpretive claims get added to the wiki.
+
+## [2026-04-25] ingest | NPR Flock Safety cancellations — 30+ cities, CEO admission, Renée Good connection
+
+Ingested NPR / Jude Joffe-Block (Feb 17/19, 2026): "Why some cities are ditching their Flock license plate readers."
+
+Key additions to the wiki:
+- Updates Flock agency count from ~4,500 to 5,000+
+- Documents at least 30 cancellations since early 2025, accelerating through Feb 2026 (vs. 8+ previously noted)
+- CEO Garrett Langley admitted CBP and Homeland Security Investigations pilot programs after previously denying federal contracts; "some of our public statements inadvertently provided inaccurate information. We clearly communicated poorly."
+- ICE proxy-search workaround documented: local police listing "ICE" or "immigration" as search reason in audit logs
+- Direct [[Killing of Renée Good]] connection: Santa Cruz council member Susie O'Hara cited Good's January 7 killing as the turning point; Santa Cruz voted to end contract January 13 — six days after Good's death
+- Staunton VA police chief ended contract after CEO called critics "defund the police" activists
+
+Pages updated:
+- [[Flock Safety]] — sources 12→13; added 30+ cancellations, CEO admission, proxy-search workaround, Renée Good ripple
+- [[Flock Safety Surveillance Network]] — sources 8→9; added NPR source
+- [[Killing of Renée Good]] — sources 28→29; added Santa Cruz/Flock cancellation connection
+- [[Operation Metro Surge]] — sources 41→42; added Flock surveillance infrastructure ripple note
+- [[wiki/index.md]] — added NPR source under surveillance infrastructure cluster

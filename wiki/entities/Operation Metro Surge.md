@@ -6,6 +6,7 @@ tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
 updated: 2026-04-18
 sources: 41
+updated: 2026-04-25
 ---
 
 ## Overview
@@ -113,6 +114,7 @@ Metro Surge is the clearest recent example of [[Sanctuary Infrastructure]] under
 - Moriarty has opened **14 additional criminal investigations** into federal conduct during the surge, including high school force incident and investigation of [[Gregory Bovino]] (Border Patrol commander, chemical agents). [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
 - New doctrinal dispute: Trump administration asserting immunity from *investigation* (not just prosecution) — no historical precedent at this scale. See [[Supremacy Clause Immunity]].
 - **Pardon firewall**: State convictions are beyond presidential pardon authority — the structural reason federal evidence-withholding is so aggressive.
+- **Surveillance infrastructure ripple**: The killing of [[Renée Good]] on January 7 triggered a wave of [[Flock Safety]] ALPR contract cancellations. Santa Cruz CA council member Susie O'Hara cited Good's death as the turning point; Santa Cruz ended its Flock contract January 13 — six days after the shooting. At least 30 localities have cancelled or deactivated Flock contracts since early 2025, with the rate accelerating sharply after the surge. ([[Why some cities are canceling Flock license plate reader contracts]])
 
 ## Open Questions
 - What happened to the Feeding Our Future fraud prosecutions after the lead prosecutors resigned?

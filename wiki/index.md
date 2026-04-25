@@ -681,6 +681,7 @@ Reader fact-check (r/Destiny) surfaced a factual error that had propagated acros
 **Surveillance infrastructure:**
 - [[Atlanta PD used Flock cameras to track migrants, records show]] — ALPR data shared with ICE; records obtained via FOIA
 - [[Community members unite to protest Flock Safety cameras on campus]] — campus protest; campus surveillance
+- [[Why some cities are canceling Flock license plate reader contracts]] — NPR Feb 2026; 30+ cancellations; CEO CBP/HSI pilot admission; Santa Cruz cited Renée Good killing as tipping point
 
 **Foundational:**
 - [[Section 230 Legislative History]] — 47 U.S.C. § 230 origin; Cox/Wyden 1996; carve-out trajectory

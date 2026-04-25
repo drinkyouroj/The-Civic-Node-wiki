@@ -4,7 +4,8 @@ type: concept
 tags: [surveillance, infrastructure, power, immigration, politics]
 created: 2026-04-19
 updated: 2026-04-19
-sources: 8
+sources: 9
+updated: 2026-04-25
 ---
 
 ## Definition
@@ -40,3 +41,4 @@ Flock is the textbook **chokepoint-control story for the surveillance era** — 
 ## Key Sources
 - [[Atlanta PD used Flock cameras to track migrants]] — primary investigative document
 - [[Community members protest Flock Safety cameras at Emory]] — campus expansion
+- [[Why some cities are canceling Flock license plate reader contracts]] — NPR Feb 2026; 30+ cancellations, CEO admission of CBP/HSI pilots, Renée Good connection
