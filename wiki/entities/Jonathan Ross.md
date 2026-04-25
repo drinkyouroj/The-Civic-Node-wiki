@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, immigration, police-violence, minnesota]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 10
+sources: 11
 ---
 
 ## Overview
@@ -37,6 +37,7 @@ Ross is the specific human instrument of a systemic failure. His June 2025 traum
 - [[Minneapolis ICE Shooting Woman Fatally Shot by Agent Identified Live Updates Fox News]] — Marcos Charles's defense of Ross; Noem's defense
 - [[Whats Behind the Highly Unusual Move to Block Minnesota Officials from Investigating ICE Shooting CNN]] — the investigation blocked to protect him
 - [[ICE agent cellphone video undercuts Trump administration account]] — expert analysis of what the video does and doesn't show
+- [[Justice department not investigating Renee Good killing in contrast to 2020 inquiry on George Floyd death]] — The Guardian; Deputy AG [[Todd Blanche]] confirms DOJ "not investigating" Ross; Floyd/Good asymmetry directly documented; Blanche claims DOJ "never" responds to public outrage over killings (factually contradicted by his own department's documented Floyd response in 2020)
 
 ## Open Questions
 - Has Ross faced any state-level charges following the federal refusal to prosecute?

@@ -5,7 +5,8 @@ entity_type: event
 tags: [politics, power, immigration, police-violence, minnesota]
 created: 2026-04-07
 updated: 2026-04-17
-sources: 27
+sources: 29
+updated: 2026-04-25
 ---
 
 ## Overview
@@ -58,9 +59,13 @@ This is a defining civil liberties event: a U.S. citizen killed by federal agent
 - [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — PBS NewsHour; documents DOJ's declination to open a civil rights investigation in Good's case while opening one in Pretti's — a "departure from past administrations' standard procedure"
 - [[When the Federal Government Blocks State Murder Investigations]] — GovFacts; Good case as central example of "defensive immunity"; Good family's retention of Romanucci & Blandin (George Floyd family firm)
 - [[When Can States Prosecute Federal Agents]] — legal analysis placing Good case within *In re Neagle* framework
+- [[Justice department not investigating Renee Good killing in contrast to 2020 inquiry on George Floyd death]] — The Guardian; Deputy AG Blanche's "we are not investigating" Fox News quote; Floyd/Good asymmetry; Bondi Jan 8 protester-warning statement (no mention of Good's death); Harmeet Dhillon shared Trump's false "ran over" claim on X; Blanche/Patel pressure visit to Minneapolis; DOJ investigation of Becca Good
+- [[Why some cities are canceling Flock license plate reader contracts]] — NPR Feb 2026; Santa Cruz council member Susie O'Hara cited Good's January 7 killing as the tipping point for Santa Cruz canceling its [[Flock Safety]] contract; Santa Cruz voted to end contract January 13 — six days after Good's death; quote: "It was totally clear to me that we should in no way consciously be in this system at all."
 
 ## Open Questions
 - Has Jonathan Ross faced any state-level charges following the federal refusal to prosecute?
-- What happened to the DOJ's investigation of Good's widow Becca?
+- What is the current status of the DOJ's investigation of Good's widow [[Becca Good]] for "impeding" Ross?
 - Did any of the resigning prosecutors file formal whistleblower complaints?
 - How did the body camera footage discrepancy get resolved — were cameras on or not?
+- Did Harmeet Dhillon ever delete or correct her X post sharing Trump's false "ran over" claim?
+- Will the May 1, 2026 Judge Bryan order (production of Ross's personnel file, body-cam footage, fitness records — Muñoz-Guatemala defense motion) actually be complied with by DHS, or will the agency seek a protective order?

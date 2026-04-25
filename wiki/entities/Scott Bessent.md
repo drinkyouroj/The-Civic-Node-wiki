@@ -8,6 +8,8 @@ updated: 2026-04-11
 sources: 3
 ---
 
+> [!note] **Apr 24, 2026 update — Operation Metro Surge ingest**: New source [[Data of thousands of taxpayers wrongly shared with DHS court filing says]] documents Bessent's April 2025 IRS-DHS data-sharing agreement, co-signed with [[Kristi Noem]]. ICE submitted 1.28M names → IRS verified ~47K → IRS provided additional address info on <5%, potentially violating taxpayer-data privacy rules. MA federal court has ordered the IRS to stop sharing residential addresses with ICE; an earlier November 2025 federal court ruling found the summer 2025 disclosure was illegal. The agreement is a structural bridge between the wiki's monetary-policy cluster (Bessent at Treasury) and the immigration-enforcement cluster — Bessent's name now appears on a federal accountability question that goes beyond Treasury.
+
 ## Overview
 Scott Bessent is the U.S. Secretary of the Treasury under President Trump. A former hedge fund manager and macro investor, he oversees fiscal policy, sanctions enforcement, and stablecoin regulation under the [[GENIUS Act]].
 
