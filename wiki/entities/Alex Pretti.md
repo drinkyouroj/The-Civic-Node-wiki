@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, immigration, minnesota, police-violence]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 9
+sources: 11
 ---
 
 ## Overview
@@ -34,6 +34,8 @@ Pretti's case is the second data point in the emerging Operation Metro Surge pat
 - [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — one of three named victims in the March 24 lawsuit
 - [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — DOJ opened civil rights investigation in this case but declined Good's
 - [[When Can States Prosecute Federal Agents]] — video analysis cited; "disarmed and restrained on the ground"
+- [[Former officials say DHS tactics undermine public trust after series of contradictory statements]] — ABC/GMA; documents Noem's day-of "attacked"/"wishing to inflict harm" claims walked back to "chaotic" within 6 days; investigative authority shift from DHS to FBI; the cleanest documented retcon in the operation
+- [[Border Patrol's Gregory Bovino to retire, sources say]] — Pretti named alongside Good as the deaths that preceded Bovino's removal from CBP commander-at-large role in January
 
 ## Open Questions
 - Who are the federal agents who fired?

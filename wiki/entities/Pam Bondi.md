@@ -8,6 +8,8 @@ updated: 2026-04-17
 sources: 6
 ---
 
+> [!note] **Apr 24, 2026 update — Operation Metro Surge ingest**: New source [[Justice department not investigating Renee Good killing in contrast to 2020 inquiry on George Floyd death]] documents Bondi's January 8, 2026 X post warning Minnesota protesters that "obstructing, impeding, or attacking federal law enforcement is a federal crime" — issued one day after Renée Good's killing, with no mention of Good's death. The contrast with the first-Trump-administration AG William Barr's 2020 statement on George Floyd ("video images... harrowing to watch and deeply disturbing") is documented in the same source.
+
 ## Overview
 Pam Bondi is the U.S. Attorney General in Trump's second term. Former Florida Attorney General. She is a central federal antagonist in the Minnesota [[Operation Metro Surge]] litigation: her January 2026 letter to Governor [[Tim Walz]] demanded access to state records and repeal of Minneapolis/St. Paul sanctuary ordinances, and she publicly framed Judge Menendez's PI denial as "another HUGE" legal victory.
 

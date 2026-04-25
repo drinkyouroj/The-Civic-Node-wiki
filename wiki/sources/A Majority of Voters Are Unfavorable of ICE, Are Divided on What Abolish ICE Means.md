@@ -5,7 +5,8 @@ tags: [politics, immigration, polling]
 created: 2026-04-07
 updated: 2026-04-07
 sources: 4
-raw: "raw/A Majority of Voters Are Unfavorable of ICE, Are Divided on What \"Abolish ICE\" Means.md"
+raw: "raw/A Majority of Voters Are Unfavorable of ICE, Are Divided on What “Abolish ICE” Means.md"
+raw_alt: "raw/dfp_ice_favorability.pdf"
 source_url: "https://www.dataforprogress.org/blog/2026/1/22/a-majority-of-voters-are-unfavorable-of-ice-are-divided-on-what-abolish-ice-means"
 author: "Lew Blank"
 published: 2026-01-22

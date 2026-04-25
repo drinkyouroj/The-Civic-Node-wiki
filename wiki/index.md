@@ -800,14 +800,28 @@ New article:
 - [[DOJ Reschedules FDA-Approved and State-Medical Marijuana to Schedule III — CBS]] — Apr 23 Blanche order; Biden-direction completion; late-June broader hearing scheduled
 - [[Lebanon-Israel Direct Talks Resume in Washington — AP]] — Apr 23 second direct session; first bilateral since 1993; Hezbollah explicit non-recognition
 
+### Recent Ingests (2026-04-24) — Operation Metro Surge dossier ingest
+Article-branch ingest staged on `article/operation-metro-surge`. Eight new sources directly anchor the [[Operation Metro Surge — First Fully Documented Federal Immigration Campaign]] synthesis and the [[operation-metro-surge-dossier|outline]]. Plus DFP polling source page corrected (raw-quote mismatch + PDF attached as `raw_alt`).
+
+- [[Border Patrol's Gregory Bovino to retire, sources say]] — NBC News Mar 16; Bovino removed from CBP commander-at-large role Jan 2026 after Good and Pretti deaths; retiring end of March; Chicago federal judge previously found he "repeatedly lied" about threats — including walking back a gas-canister/rock-throw claim after video contradicted it; reported directly to Noem AND senior adviser [[Corey Lewandowski]]
+- [[Justice department not investigating Renee Good killing in contrast to 2020 inquiry on George Floyd death]] — The Guardian Jan 18; Deputy AG [[Todd Blanche]]'s "we are not investigating" Fox News quote; Floyd/Good asymmetry directly documented; Bondi Jan 8 protester-warning statement (no mention of Good's death); [[Harmeet Dhillon]] shared Trump's false "ran over" claim on X day-of; Blanche/Patel pressure visit to Minneapolis; DOJ investigation of [[Becca Good]]
+- [[Former officials say DHS tactics undermine public trust after series of contradictory statements]] — ABC/GMA Jan 31; Noem's Pretti retcon ("attacked"→"chaotic" within 6 days); investigative-authority shift from DHS to FBI; "five major cases" pattern of DHS contradictory statements
+- [[Court records reveal gutting of DHS oversight Incredibly dangerous]] — The Guardian Mar 8; *RFK Human Rights v. DHS* (D.D.C. 69938653) filings; CRCL 147→<40, OIDO 118→5; 1 of ~10 in-custody death investigations; OIDO acting ombudsman never seen detention standards manual; English-only complaint policy
+- [[DHS Admits It Provided Erroneous Information on Texts of Noem and DHS Brass]] — American Oversight Nov 5; DHS court admission that "no longer maintained" claim was "erroneous"; April 2025 text-archive disablement; NARA Sept 3 directive ignored; named officials with unconfirmed compliance: Noem, [[Troy Edgar]], [[Corey Lewandowski]], Rob Law
+- [[DHS Says Recording or Following Law Enforcement Sure Sounds Like Obstruction of Justice]] — Reason Dec 22; DHS Office of Public Affairs quote vs. seven federal circuits; Cato Institute report by [[David Bier]]; ACLU Scarlet Kim quoted; *Houston v. Hill* (1987) Brennan precedent
+- [[Data of thousands of taxpayers wrongly shared with DHS court filing says]] — PBS/AP Feb 12; April 2025 [[Scott Bessent]]/Noem agreement; 1.28M names → 47K verified → <5% additional address info; MA federal court orders IRS to stop residential-address sharing; Public Citizen lawsuit
+- [[I Mapped Every Confirmed ICE Arrest in Minnesota Heres What I Found]] — Northern News Now Feb 9; Davidson maps DHS's own arrest claims: only 335 named of 3,000+ claimed (~11% disclosure); rural arrests concentrate at federal prisons (Sandstone, Rochester, Waseca women's facility — transfer-as-arrest accounting); Twin Cities 71% violent-offense rate
+
+Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Divided on What Abolish ICE Means]] — `raw:` field updated to use actual on-disk filename (curly quotes); `raw_alt:` added for `dfp_ice_favorability.pdf` polling slide deck.
+
 ---
 
 ## Entities
 
 ### Events
 - [[Charlie Kirk Assassination]] — Sep 10 2025; Turning Point USA CEO killed at UVU; shooter Tyler Robinson (charged); massive political fallout; shutdown delayed
-- [[Killing of Renée Good]] — Jan 7 2026; ICE agent Jonathan Ross fatally shoots U.S. citizen Renée Good; DOJ investigated victim not shooter; mass prosecutor resignations
-- [[Operation Metro Surge]] — Dec 2025–Feb 2026; ICE/CBP mass enforcement in Minneapolis; 3,789+ arrests; 35% collateral; 96+ court order violations; $203.1M total one-month impact ($81M business revenue + $47M lost wages per City of Minneapolis preliminary assessment)
+- [[Killing of Renée Good]] — Jan 7 2026; ICE agent Jonathan Ross fatally shoots U.S. citizen Renée Good; DOJ investigated victim not shooter; mass prosecutor resignations; **Apr 24 update**: Deputy AG Blanche's "we are not investigating" Fox News quote and Floyd/Good asymmetry now documented in [[Justice department not investigating Renee Good killing in contrast to 2020 inquiry on George Floyd death]]
+- [[Operation Metro Surge]] — Dec 2025–Feb 2026; ICE/CBP mass enforcement in Minneapolis; 3,789+ arrests; 35% collateral; 96+ court order violations; $203.1M total one-month impact ($81M business revenue + $47M lost wages per City of Minneapolis preliminary assessment); **Apr 24 update**: 8 new sources added — Bovino retirement, DOJ "not investigating" quote, Noem Pretti retcon, DHS oversight gutting, records-preservation cover-up, right-to-record posture, IRS-DHS data sharing, Davidson 11% disclosure map
 - [[2025 United States Government Shutdown]] — Oct 1–Nov 12 2025; 43-day record; Kirk assassination delayed CR; Timothy Mellon private $130M military pay donation
 - [[2025 Elections]] — Nov 4 2025; Mamdani (NYC), Sherrill (NJ), Spanberger (VA), Prop 50 (CA); thermostatic Democratic wave on Day 35 of shutdown
 
@@ -862,6 +876,8 @@ New article:
 - [[Ben Bernanke]] — Fed Chair 2006-2014; managed 2008 financial crisis; preceded Yellen
 - [[Elizabeth Warren]] — U.S. Senator (D-MA); prominent Fed critic and financial regulation advocate
 - [[Tom Homan]] — Acting ICE Director under Trump; overseeing Operation Metro Surge enforcement
+- [[Harmeet Dhillon]] — DOJ Civil Rights Division head; shared Trump's false "ran over" claim about Renée Good on X day-of killing; division has declined civil rights investigation of Good in contrast to 2020 Floyd response
+- [[Corey Lewandowski]] — Senior adviser to DHS Secretary Noem; Bovino reported directly to Noem AND Lewandowski; among officials whose text-message preservation DHS cannot confirm
 - [[Jacob Frey]] — Mayor of Minneapolis; led city opposition to Operation Metro Surge
 - [[Abigail Spanberger]] — Virginia governor (D); first female; moderate Democrat; 2025 elections centerpiece; suburban coalition model
 - [[Tulsi Gabbard]] — Director of National Intelligence; declassifying Obama-era files; "cabal" framing; MAGA intelligence arm
@@ -917,6 +933,7 @@ New article:
 - [[Tom Brady]] — Retired NFL QB; seven-time Super Bowl champion; NFL Dynasty reference point
 
 ### Organizations
+- [[American Oversight]] — Nonpartisan transparency-and-ethics nonprofit; FOIA + litigation focus; lead plaintiff in DHS records-preservation lawsuit; secured Nov 5 court admission that DHS's "no longer maintained" claim about Noem texts was "erroneous"
 - [[Cigna]] — major health insurer; PxDx algorithmic denial system; 300K claims denied at 1.2 sec each; potential state insurance law violations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
 - [[Federal Reserve]] — US central bank; under intense political pressure 2025; dual mandate; board composition shifting via Trump appointments
@@ -1019,7 +1036,8 @@ New article:
 - [[Infrastructure Warfare]] — Targeting physical infrastructure as primary instrument of conflict or coercion
 - [[Oil Seizure as Coercion]] — Trump's threat to "take" Iranian oil; physical commodity as coercive weapon
 - [[Institutional Gaslighting]] — Flooding narrative zones with competing claims; evidence control preventing accountability; four structural components: custody + substitution + exhaustion + toothless legal instruments
-- [[Toothless Transparency Laws]] — Fourth structural component of institutional gaslighting: statutes mandating disclosure that omit enforcement mechanisms; Epstein Files Transparency Act as paradigmatic case
+- [[Toothless Transparency Laws]] — Fourth structural component of institutional gaslighting: statutes mandating disclosure that omit enforcement mechanisms; Epstein Files Transparency Act as paradigmatic case; **Apr 24 update**: DHS records-preservation cover-up adds the Federal Records Act + manual-preservation regime as second paradigmatic case
+- [[Right to Record Police]] — First Amendment doctrine; 7 federal circuits affirm; *Houston v. Hill* (1987) Brennan precedent; DHS Dec 2025 position that recording federal LE "sure sounds like obstruction of justice" actively contests doctrine; Cato/Bier nationwide-policy report
 - [[Too Big to Jail]] — Obama DOJ doctrine articulated by Holder in March 2013 Senate testimony; financial-sector instance of institutional gaslighting; zero senior Wall Street prosecutions for 2008 crisis conduct
 - [[Leverage Erasure Through Automation]] — Automation eliminates bargaining power before eliminating jobs
 - [[Retroactive Executive Protection]] — Pattern of Trump erasing consequences for allies through pardons, conviction vacation, prosecution abandonment
@@ -1302,9 +1320,9 @@ New article:
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 562 |
+| Total sources ingested | 570 |
 | Published articles tracked | 87 (76 standalone + 11 episodes) |
-| Entity pages | 219 |
-| Concept pages | 134 |
+| Entity pages | 222 |
+| Concept pages | 135 |
 | Synthesis pages | 20 (5 audits + 13 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-23 |
+| Last updated | 2026-04-24 |
