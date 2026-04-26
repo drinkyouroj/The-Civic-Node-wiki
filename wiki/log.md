@@ -30,6 +30,17 @@ Independent search located authoritative sources for the two LOW-priority unsour
 - [[wiki/index.md]] — two new sources added under surveillance infrastructure cluster
 
 **Article impact:** These resolve the two carry-over LOW unsourced claims in the Atlanta sanctuary article. Ready to apply via fact-reconcile pass to produce v4.
+
+## [2026-04-25] ingest | Tier 1 source for HB 1105 — Gov. Kemp official press release
+
+Independent search located a Tier 1 primary source for the Georgia HB 1105 signing claim, upgrading from Tier 3 (GBPI policy commentary) to Tier 1 (state-government primary).
+
+**Source added:**
+- [[Gov Kemp — Signs HB 1105 press release]] — official press release from the Office of the Governor of Georgia, May 1, 2024; confirms HB 1105 signed by Kemp on that date; identifies bill sponsors (Petrea/Albers); describes documentation/reporting provisions; signing ceremony in Forsyth, GA
+
+**2017 Atlanta resolution:** Searched for Tier 1 (Atlanta City Council legislative archive direct link) and Tier 2 (AJC, AP, Reuters) sources without success. Resolution number not retrievable from public archives without direct access. ThinkProgress remains the best accessible source.
+
+**Article impact:** v4 → v5 swap GBPI URL → Kemp press release URL on "Georgia HB 1105". Same claim, stronger source authority.
 Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
