@@ -6,7 +6,7 @@ status: review
 
 # 3,000 Arrests, 335 Names, One Court Order
 
-## DHS's own "Worst of the Worst" registry lists 11% of the people Operation Metro Surge claims to have arrested. There is no public roster of the agents who arrested them. On May 1, a federal judge is forcing one piece of the record into the open.
+## DHS claims 3,000+ Metro Surge arrests. Its own registry names 11% of them. No public record of the agents. A federal judge changes that May 1.
 
 The Department of Homeland Security says Operation Metro Surge made [more than 3,000 arrests](https://www.northernnewsnow.com/2026/02/09/i-mapped-every-confirmed-ice-arrest-minnesota-heres-what-i-found/) in the Minneapolis-St. Paul metro area between December 4, 2025 and February 2026. Its own ["Worst of the Worst" registry](https://www.northernnewsnow.com/2026/02/09/i-mapped-every-confirmed-ice-arrest-minnesota-heres-what-i-found/) lists 335 of them. There is no public roster of the agents who carried out any of those arrests.
 
