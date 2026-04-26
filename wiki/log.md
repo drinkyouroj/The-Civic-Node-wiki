@@ -1,6 +1,22 @@
 # Wiki Log
 
 Append-only chronological record of all wiki activity.
+
+## [2026-04-25] ingest | Four Flock/Atlanta sources — article branch ingestion pass
+
+Four sources ingested to support the Atlanta sanctuary resolution article (`workspace/drafts/atlanta-passed-a-sanctuary-resolution-v2.md`). Raw stubs created during fact-reconciliation, now fully ingested.
+
+**Sources added:**
+- [[Flock Safety — Does Flock Share Data With ICE]] — Flock's official blog (updated Apr 8, 2026); confirms contractual prohibition language; documents full federal pilot program history (FBI 2021–2023 through CBP/HSI 2025); detailed technical safeguards timeline June 2024–January 2026
+- [[SFist — Flock lawsuit SFPD 1.6 million accesses]] — Leanne Maxwell, Feb 28, 2026; class action by Gibbs Mura (Oakland); 1.6M accesses in seven months; **alleged violation is California state law, not Flock's contractual prohibition** — important sourcing distinction for the article
+- [[Atlanta Magazine — Atlanta sanctuary city welcoming city]] — Scott Henry, Feb 9, 2017; Georgia 2009 law prohibiting sanctuary cities; Kasim Reed's welcoming city workaround; Mayor's Office of Immigrant Affairs (late 2014)
+- [[Atlanta News First — Atlanta council anti-ICE resolutions April 2026]] — Alani Letang, Apr 20, 2026; vote date confirmed April 20 (URL /04/21/ is artifact); two resolutions; neither mentions Flock Safety
+
+**Pages updated:**
+- [[Flock Safety]] — sources 13→14; added contractual prohibition confirmation, complete federal pilot history, technical safeguards timeline; added two new Source Appearances
+- [[wiki/index.md]] — four new sources added under surveillance infrastructure cluster
+
+**⚠️ Sourcing flag for article v2:** The class action (SFist) alleges violation of California state law, not Flock's contractual prohibition. The v2 draft says "Flock's contractual prohibition was violated 1.6 million times" — this needs correction in v3. The correct framing: "California's law prohibiting data sharing with out-of-state agencies was violated 1.6 million times."
 Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---

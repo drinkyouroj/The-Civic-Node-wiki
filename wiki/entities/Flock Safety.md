@@ -4,9 +4,8 @@ type: entity
 entity_type: organization
 tags: [surveillance, infrastructure, technology, immigration, power]
 created: 2026-04-19
-updated: 2026-04-19
-sources: 13
 updated: 2026-04-25
+sources: 15
 ---
 
 ## Overview
@@ -23,7 +22,10 @@ Flock Safety is an Atlanta-based private surveillance technology company providi
 - **At least 30 localities cancelled or deactivated** contracts since early 2025, accelerating sharply in late 2025 through Feb 2026 ([[Why some cities are canceling Flock license plate reader contracts]]); includes Flagstaff AZ, Cambridge MA, Eugene OR, Santa Cruz CA, Hillsborough NC, Staunton VA
 - **Austin City Council** declined to renew (June 2025); **Denver City Council** unanimously rejected extension but Mayor [[Mike Johnston]] unilaterally signed a smaller contract under cost threshold
 - **Campus expansion:** [[Emory University]] deployed 7+ Flock cameras since 2024; April 2026 student/faculty walkout demanded contract termination
-- **Stated position (Jan 6, 2026 statement):** No partnership with ICE; access requires explicit customer grant + applicable law
+- **Contractual prohibition confirmed:** Flock's terms of service explicitly prohibit agencies from using Flock data for immigration enforcement — this prohibition predates the June 2025 technical safeguards ([[Flock Safety — Does Flock Share Data With ICE]])
+- **Complete federal pilot program history (from Flock's own blog):** FBI (2021–2023), National Park Service (2021–2024), ATF Louisville (2022–2025), ATF Nashville (2023–2025), NCIS (2025), HSI (2025), CBP (2025). "In August of 2025, Flock publicly announced it would no longer conduct pilot projects with federal agencies."
+- **Technical safeguards timeline (from Flock's own blog):** June 2024 — Illinois attestation; March 2025 — California national lookup disabled; June 2025 — automatic immigration/reproductive-health keyword blocks; July 2025 — Virginia restrictions + case number requirements; August 2025 — federal agencies separated into restricted org type; January 2026 — toggle to disable all federal sharing
+- **Stated position (Jan 6 / Apr 8, 2026 blog):** No partnership with ICE; access requires explicit customer grant + applicable law
 - **CEO rhetoric:** Langley called DeFlock.me (crowdsourced ALPR mapping site) "terroristic" in September Forbes interview; October email to customers characterized critics as "defund the police" activists — prompted Staunton VA police chief Jim Williams to cancel contract, calling the citizens' concerns "democracy in action" ([[Why some cities are canceling Flock license plate reader contracts]])
 - **Renée Good connection:** Santa Cruz council member Susie O'Hara cited the January 7, 2026 killing of [[Renée Good]] in Minneapolis as a turning point; Santa Cruz voted to end contract January 13 — six days after Good's death ([[Why some cities are canceling Flock license plate reader contracts]])
 
@@ -48,6 +50,8 @@ The contradiction between Flock's stated non-cooperation policy and the document
 - [[Atlanta PD used Flock cameras to track migrants]] — primary investigative document
 - [[Community members protest Flock Safety cameras at Emory]] — campus expansion under protest
 - [[Why some cities are canceling Flock license plate reader contracts]] — NPR Feb 2026; 30+ cancellations, CEO admission, Santa Cruz/Renée Good connection
+- [[Flock Safety — Does Flock Share Data With ICE]] — Flock's own blog; confirms contractual prohibition + complete federal pilot history + technical safeguards timeline
+- [[SFist — Flock lawsuit SFPD 1.6 million accesses]] — Feb 2026 class action; 1.6M accesses by federal/out-of-state agencies in seven months; California state law violation alleged
 
 ## Open Questions
 - Funding and ownership structure — Flock has raised significant venture capital; understanding the investor pressure to expand the agency network is key to predicting how seriously they'll enforce non-cooperation pledges.
