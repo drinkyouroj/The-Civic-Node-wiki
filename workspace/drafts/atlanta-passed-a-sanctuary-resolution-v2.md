@@ -1,0 +1,99 @@
+# Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.
+
+*APD's own open-records audit documents 15 immigration-tagged searches in 2025. The city passed two new anti-ICE resolutions last week. Neither one mentions Flock.*
+
+---
+
+Atlanta is a welcoming city. It said so in 2013, said it again when it [joined the SAFE Cities Network in 2017](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/), said it again in 2025 when the city council approved [$4 million in migrant case-management funding](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/) and accepted a [$156,000 deportation defense grant](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/). The Atlanta Police Department has a standing policy: officers do not request immigration documents; they do not honor civil ICE detainers without a judicial warrant. The department [stated, explicitly](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/), that it had not assisted any federal law enforcement agencies with immigration enforcement activities in 2025.
+
+The same open-records response that contained that statement also contained the audit. [Fifteen immigration-tagged searches](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/) in a four-day window in March 2025. Reasons logged: "locate alien" and "ERO assist" — ERO being Enforcement and Removal Operations, ICE's operational arm. In the same year, U.S. Border Patrol ran 3,254 searches against APD's camera network; external agencies flagging immigration keywords ran 3,383 more. The cameras were not briefed on the welcoming city resolution. They don't attend those meetings. That's not hypocrisy. It's something more durable: a policy that governs officers inside an infrastructure that doesn't.
+
+---
+
+## The Glitch: The Department That Didn't Help ICE (Except When It Did)
+
+Two people appear by name in the audit. [David Stribling](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/), an APD investigator, ran twelve of those searches, all tagged "locate alien." APD states he was assigned at the time to an FBI task force on transnational fraud. [Keya Chavies](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/) ran the other three, tagged "ERO assist." Chavies is identified on LinkedIn as an ATF Intelligence Specialist based in Atlanta. She was not an APD employee; she was using APD-issued Flock credentials.
+
+Those fifteen searches are the portion of the picture with names on them. The rest: [APD ran 323,292 Flock searches in 2025](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/). APD's cameras were [queried 10.6 million times by approximately 4,500 agencies](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/). [U.S. Border Patrol accounted for 3,254 of those searches; external agencies flagging immigration keywords accounted for 3,383](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/). Flock's system doesn't just capture plates — it builds a vehicle "fingerprint": plate, make and model, bumper stickers, body damage. Each search doesn't return a plate. It returns a profile.
+
+APD's denial is technically defensible in the way that most institutional statements are technically defensible. Stribling was on a fraud task force, not an immigration task force; the department's position is that the search reason he logged reflects the subject matter of an FBI investigation, not an APD immigration mission. Chavies wasn't an APD employee, so APD could argue it never authorized her access. No body was handed to ICE. No joint raid occurred. "Has not assisted," in this reading, means something considerably narrower than "the infrastructure produced no immigration enforcement results." (These are, in institutional communication, typically presented as equivalent.)
+
+Which raises the question the audit actually poses: if the policy governs the officers and the vendor contract governs the cameras, and those two documents were signed by different people in different rooms for different stated purposes — which one is the actual policy?
+
+---
+
+## The Source Code: How the Camera Mesh Overrides the Welcoming Sign
+
+Start here: [Georgia law passed in 2009](https://www.atlantamagazine.com/news-culture-articles/atlanta-sanctuary-city-welcoming-city/) explicitly prohibits sanctuary cities. This is why every Atlanta mayor has used "welcoming city" rather than "sanctuary city" — the legal distinction is not rhetorical. Atlanta's Welcoming City framework is an administrative program. It has no enforcement mechanism beyond mayoral will and can be modified by any administration without a council vote. In 2024, Georgia HB 1105 required the Atlanta City Jail to honor ICE detainer requests, partially overriding the local detention policy at the state level. The architecture had a state preemption layer before the cameras arrived.
+
+Atlanta's 2017 City Council resolution is more specific: APD will not honor civil ICE detainers unless ICE presents a judicially-issued warrant. Officers cannot arrest, detain, or extend detention based solely on an immigration detainer. This is meaningful language. It is also narrower than "sanctuary" implies. A judicial warrant — which federal criminal investigations produce — satisfies the requirement. Stribling's FBI task-force assignment and Chavies's ATF role both survive this standard. The policy prohibits civil immigration holds; it does not prohibit cooperation with federal criminal investigations. Naming that accurately matters, because the contradiction is real enough without overstating it.
+
+Flock Safety's [official position](https://www.flocksafety.com/blog/does-flock-share-data-with-ice): "No. Flock does not work with U.S. Immigration and Customs Enforcement (ICE) or any other sub-agency of the Department of Homeland Security." ICE has no direct access to Flock cameras. Customers own and control their data. Agencies are contractually prohibited from using Flock data for immigration enforcement. This is technically accurate. The direct-access model is not the one being used.
+
+In August 2025, CEO Garrett Langley [acknowledged](https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns) that Flock had run pilot programs with U.S. Customs and Border Protection and Homeland Security Investigations, writing that "[t]here have been conflicting reports in the media about Flock's relationship with federal agencies, and some of our public statements inadvertently provided inaccurate information. We clearly communicated poorly." The admission arrived five months after the March 2025 window in the APD audit — meaning the official denial and the operational reality were running simultaneously. The mechanism wasn't direct access. It was local agencies running searches on behalf of federal agencies using local credentials. ICE never touched Flock's system; it had cooperative local agencies that did. Flock's denial and APD's denial have the same shape: technically accurate, operationally incomplete. Two institutions, same rhetorical move, same receipts.
+
+Flock's terms of service [prohibited agencies from using the platform for immigration enforcement](https://www.flocksafety.com/blog/does-flock-share-data-with-ice). What didn't exist was technical enforcement. In June 2025, under public pressure, Flock deployed an immigration keyword filter — automatic in states where state law required it; opt-in everywhere else; circumventable by entering a different search reason. In January 2026, Flock added an administrative toggle to disable all federal data sharing. A [class action filed in February 2026](https://sfist.com/2026/02/28/lawsuit-says-flock-allowed-out-of-state-agencies-access-to-sfpd-database-1-6-million-times/) alleges Flock's contractual prohibition was violated 1.6 million times in seven months via SFPD cameras. Contractual is not technical. The machine runs in the infrastructure layer; the resolution lives in the policy layer; when those two layers are governed by different documents, the machine doesn't blink.
+
+---
+
+## The Upgrade: Sanctuary Is a Procurement Question
+
+More than thirty localities have [canceled or deactivated Flock contracts](https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns) since early 2025. Cambridge, MA. Eugene, OR. Santa Cruz, CA, which voted to terminate on January 13, 2026 — six days after [Renée Good was killed in Minneapolis](https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good). Staunton, VA, where Police Chief Jim Williams canceled after CEO Langley characterized local critics as "defund the police" activists; Williams called their concerns "democracy in action." Austin declined to renew in June 2025. Denver's City Council voted unanimously to reject renewal; the mayor signed a smaller contract below the threshold requiring council approval. None of these cities passed a better sanctuary resolution. They pulled the contract.
+
+[Atlanta City Council passed two resolutions on April 20, 2026](https://www.atlantanewsfirst.com/2026/04/21/atlanta-council-passes-resolutions-opposing-ice-detention-facilities-setting-police-guidelines/). The first requires APD to develop new policies regarding its role with federal immigration officials, with body-camera preservation requirements during ICE interactions. The second opposes the construction of ICE detention facilities in Atlanta. Both are on Mayor Andre Dickens's desk. Neither resolution mentions Flock Safety. Neither governs the procurement contract. The cameras operate exactly as they did before the vote.
+
+Governing the vendor relationship is mechanical, not aspirational. Flock's immigration keyword filter already exists; APD's activation status is unknown. Flock's federal data-sharing toggle — added in January 2026 — already exists; APD's activation status is unknown. Both are tools Flock built under public pressure. Neither requires a council vote to activate. They require an administrative decision in a platform settings menu. A resolution that required APD to activate them would function as a sanctuary resolution. The current ones don't reach that far.
+
+Minnesota's [Operation Metro Surge](https://en.wikipedia.org/wiki/Operation_Metro_Surge) put federal agents physically inside Minneapolis and St. Paul — visible, protestable, constrained by the number of available bodies. The Flock network requires no one to be anywhere. It returns data regardless of local policy, scales across 5,000 agencies without adding a single person to any street, and remains invisible until someone files the open-records request. Operation Metro Surge generated news coverage from day one. The camera network generates audit logs — available on request, if you know to ask.
+
+---
+
+## My Debug: The Contract Nobody Read
+
+There are two governance layers in any city that takes its stated values seriously. The first is the policy layer: the resolutions, the executive orders, the documents that require a public vote and generate a press release. The second is the infrastructure layer: the vendor contracts, the procurement agreements, the platform configurations that govern what the city's systems do when no one is in the room. The people who vote on documents in the first layer have often not read the ones in the second.
+
+The people who voted for Atlanta's Welcoming City resolution and the people who logged "locate alien" in an APD Flock audit were almost certainly not the same people. The infrastructure doesn't require them to be. Vendor-state governance doesn't require bad faith; it requires only that nobody reads the procurement contract. (This is, admittedly, not a high bar. Most procurement contracts clear it without trying.) Bad faith can be corrected by replacing people. This doesn't get corrected that way — because the people who passed the resolution didn't write the contract, and the contract doesn't know what they intended.
+
+[Flock operates in more than 5,000 agencies](https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns). Any city with a sanctuary resolution and a Flock contract has a version of Atlanta's gap. The [Atlanta Community Press Collective](https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/) made Atlanta's visible through an open-records request. Most versions aren't visible yet — not because nothing is happening, but because nobody filed the request. The audit is the exception. The architecture is the rule.
+
+---
+
+The "Welcoming City" sign means what it says. The people who put it up meant it. The resolution is real; it governs what APD officers do when a federal agent walks into a precinct. What it doesn't govern is the camera. The camera is governed by the vendor contract — a document that has never read the resolution, wasn't present at the vote, and doesn't adjust its output based on what the council intended. A city that wants its sanctuary policy to survive the infrastructure layer has to do what the canceling cities did: put the resolution in the contract. Until then, Atlanta has two policies. The one that governs the people says welcoming. The one that governs the cameras says nothing about it.
+
+---
+
+**Draft notes:**
+- Word count: ~1,620
+- Template: System Audit
+- Trigger: Named Hypocrisy
+- Marcus tests:
+  - Signal: Pass — "vendor contract is the actual policy" framing is not available elsewhere on this story
+  - Patience: Pass — argument advances every section; Source Code ¶2 (the ordinance carve-out) is the patience risk; kept to one paragraph
+  - Depth: Pass — Chavies's ATF affiliation and the specific search-tag language signal primary-document sourcing
+  - Save/Forward: Forward — "vendor contract is the actual policy" is what Marcus texts to his policy-minded contact
+  - Accumulation: Pass — investigative framing + structural argument in one piece raises the signal floor
+- Inline source links: 17
+
+**Reconciliation (v1 → v2):**
+- Corrections applied: 13
+- Date corrected: "April 21, 2026" → "April 20, 2026" (body text)
+- CEO quote fixed: link swapped from Atlanta News First to NPR; full quote restored with [t] opening — "[t]here have been conflicting reports in the media about Flock's relationship with federal agencies, and some of our public statements inadvertently provided inaccurate information. We clearly communicated poorly."
+- Source rewrite — "contractual prohibition": rephrased to "Flock's terms of service prohibited agencies from using the platform for immigration enforcement"; link swapped from Flock Search Safeguards blog (which did not support the claim) to Flock "Does Flock Share Data With ICE" blog (which does)
+- Court removed: "San Francisco Superior Court" → "February 2026" (court unconfirmed in linked SFist source)
+- Illinois/Colorado softened: "automatic in Illinois and Colorado, where state law required it" → "automatic in states where state law required it" (Flock blog doesn't name the states)
+- Links added: ACPC inline on "joined the SAFE Cities Network in 2017"; ACPC inline on "$156,000 deportation defense grant"; ACPC inline on "10.6 million times by approximately 4,500 agencies"; ACPC inline on "3,254 / 3,383" figures; ACPC inline on "Keya Chavies"; Wikipedia inline on "Renée Good was killed in Minneapolis"; Wikipedia inline on "Operation Metro Surge"
+- Removed: "has since retired" (re: Stribling) — detail not confirmed in wiki summary of ACPC source; non-essential, removed rather than left unverified
+- Skipped / still open:
+  - Georgia HB 1105 (2024) — no source URL available; claim is accurate but unsourced [LOW]
+  - Atlanta 2017 City Council resolution — no source URL available; claim is accurate but unsourced [LOW]
+  - APD activation status on Flock filters — stated as "unknown" throughout; accurate and intentional [N/A]
+
+**Wiki audit — sources linked in v2:**
+- `https://atlpresscollective.com/2025/11/13/atlanta-police-flock-immigration-searches/` — ingested ✓ (wiki/sources/Atlanta PD used Flock cameras to track migrants.md)
+- `https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns` — ingested ✓ (wiki/sources/Why some cities are canceling Flock license plate reader contracts NPR.md)
+- `https://en.wikipedia.org/wiki/Operation_Metro_Surge` — ingested ✓ (wiki/sources/Operation Metro Surge - Wikipedia.md)
+- `https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good` — ingested ✓ (wiki/sources/Killing of Renée Good - Wikipedia.md)
+- `https://www.flocksafety.com/blog/does-flock-share-data-with-ice` — raw stub created ⚠️ (raw/Flock Safety — Does Flock Share Data With ICE.md — needs full ingestion)
+- `https://www.atlantamagazine.com/news-culture-articles/atlanta-sanctuary-city-welcoming-city/` — raw stub created ⚠️ (raw/Atlanta Magazine — Atlanta sanctuary city welcoming city.md — needs full ingestion)
+- `https://sfist.com/2026/02/28/lawsuit-says-flock-allowed-out-of-state-agencies-access-to-sfpd-database-1-6-million-times/` — raw stub created ⚠️ (raw/SFist — Flock class action SFPD 1.6 million accesses.md — needs full ingestion)
+- `https://www.atlantanewsfirst.com/2026/04/21/atlanta-council-passes-resolutions-opposing-ice-detention-facilities-setting-police-guidelines/` — raw stub created ⚠️ (raw/Atlanta News First — Atlanta council passes anti-ICE resolutions April 2026.md — needs full ingestion)

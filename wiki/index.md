@@ -682,6 +682,13 @@ Reader fact-check (r/Destiny) surfaced a factual error that had propagated acros
 - [[Atlanta PD used Flock cameras to track migrants, records show]] — ALPR data shared with ICE; records obtained via FOIA
 - [[Community members unite to protest Flock Safety cameras on campus]] — campus protest; campus surveillance
 - [[Why some cities are canceling Flock license plate reader contracts]] — NPR Feb 2026; 30+ cancellations; CEO CBP/HSI pilot admission; Santa Cruz cited Renée Good killing as tipping point
+- [[Flock Safety — Does Flock Share Data With ICE]] — Flock's official denial blog; confirms contractual prohibition; full federal pilot history; technical safeguards timeline 2024–2026
+- [[SFist — Flock lawsuit SFPD 1.6 million accesses]] — Feb 2026 class action; 1.6M accesses by federal agencies; California state law violation (not contractual)
+- [[Atlanta Magazine — Atlanta sanctuary city welcoming city]] — Feb 2017; Georgia 2009 law prohibiting sanctuary cities; Kasim Reed's welcoming city framework
+- [[Atlanta News First — Atlanta council anti-ICE resolutions April 2026]] — Apr 20 2026; two resolutions passed; neither mentions Flock Safety
+- [[GBPI — Statement on signing of Georgia HB 1105]] — May 1 2024; Kemp signed; "287(g) jurisdiction" framing; sheriff/jail ICE cooperation mandate
+- [[Gov Kemp — Signs HB 1105 press release]] — May 1 2024; Tier 1 official state-government primary source for HB 1105 signing; bill sponsors and ceremony details
+- [[ThinkProgress — Atlanta city council 2017 resolution ICE]] — Sept 6 2017; resolution language: judicial warrant required for detainers; Atlanta = 6th GA locality with non-detainer policy
 
 **Foundational:**
 - [[Section 230 Legislative History]] — 47 U.S.C. § 230 origin; Cox/Wyden 1996; carve-out trajectory

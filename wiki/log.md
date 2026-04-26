@@ -1,6 +1,46 @@
 # Wiki Log
 
 Append-only chronological record of all wiki activity.
+
+## [2026-04-25] ingest | Four Flock/Atlanta sources — article branch ingestion pass
+
+Four sources ingested to support the Atlanta sanctuary resolution article (`workspace/drafts/atlanta-passed-a-sanctuary-resolution-v2.md`). Raw stubs created during fact-reconciliation, now fully ingested.
+
+**Sources added:**
+- [[Flock Safety — Does Flock Share Data With ICE]] — Flock's official blog (updated Apr 8, 2026); confirms contractual prohibition language; documents full federal pilot program history (FBI 2021–2023 through CBP/HSI 2025); detailed technical safeguards timeline June 2024–January 2026
+- [[SFist — Flock lawsuit SFPD 1.6 million accesses]] — Leanne Maxwell, Feb 28, 2026; class action by Gibbs Mura (Oakland); 1.6M accesses in seven months; **alleged violation is California state law, not Flock's contractual prohibition** — important sourcing distinction for the article
+- [[Atlanta Magazine — Atlanta sanctuary city welcoming city]] — Scott Henry, Feb 9, 2017; Georgia 2009 law prohibiting sanctuary cities; Kasim Reed's welcoming city workaround; Mayor's Office of Immigrant Affairs (late 2014)
+- [[Atlanta News First — Atlanta council anti-ICE resolutions April 2026]] — Alani Letang, Apr 20, 2026; vote date confirmed April 20 (URL /04/21/ is artifact); two resolutions; neither mentions Flock Safety
+
+**Pages updated:**
+- [[Flock Safety]] — sources 13→14; added contractual prohibition confirmation, complete federal pilot history, technical safeguards timeline; added two new Source Appearances
+- [[wiki/index.md]] — four new sources added under surveillance infrastructure cluster
+
+**⚠️ Sourcing flag for article v2:** The class action (SFist) alleges violation of California state law, not Flock's contractual prohibition. The v2 draft says "Flock's contractual prohibition was violated 1.6 million times" — this needs correction in v3. The correct framing: "California's law prohibiting data sharing with out-of-state agencies was violated 1.6 million times."
+
+## [2026-04-25] ingest | Two more sources for Atlanta sanctuary article — HB 1105 + 2017 resolution
+
+Independent search located authoritative sources for the two LOW-priority unsourced claims carried over from v3 fact-check.
+
+**Sources added:**
+- [[GBPI — Statement on signing of Georgia HB 1105]] — Georgia Budget and Policy Institute statement, May 1, 2024; confirms Kemp signed HB 1105 (Georgia Criminal Alien Track and Report Act of 2024); requires sheriff/jail ICE cooperation; "287(g) jurisdiction" framing. Tier 3 credible secondary source. (Georgia Recorder primary source returned 403 during fetch.)
+- [[ThinkProgress — Atlanta city council 2017 resolution ICE]] — Esther Yu Hsi Lee, September 6, 2017; documents Atlanta's 2017 resolution language: Fulton County Sheriff's Office won't detain for ICE without judicially-issued warrant; police cannot arrest/detain/transport based on detainers; Atlanta = 6th Georgia locality with non-detainer policy. ThinkProgress is defunct but archives accessible.
+
+**Pages updated:**
+- [[wiki/index.md]] — two new sources added under surveillance infrastructure cluster
+
+**Article impact:** These resolve the two carry-over LOW unsourced claims in the Atlanta sanctuary article. Ready to apply via fact-reconcile pass to produce v4.
+
+## [2026-04-25] ingest | Tier 1 source for HB 1105 — Gov. Kemp official press release
+
+Independent search located a Tier 1 primary source for the Georgia HB 1105 signing claim, upgrading from Tier 3 (GBPI policy commentary) to Tier 1 (state-government primary).
+
+**Source added:**
+- [[Gov Kemp — Signs HB 1105 press release]] — official press release from the Office of the Governor of Georgia, May 1, 2024; confirms HB 1105 signed by Kemp on that date; identifies bill sponsors (Petrea/Albers); describes documentation/reporting provisions; signing ceremony in Forsyth, GA
+
+**2017 Atlanta resolution:** Searched for Tier 1 (Atlanta City Council legislative archive direct link) and Tier 2 (AJC, AP, Reuters) sources without success. Resolution number not retrievable from public archives without direct access. ThinkProgress remains the best accessible source.
+
+**Article impact:** v4 → v5 swap GBPI URL → Kemp press release URL on "Georgia HB 1105". Same claim, stronger source authority.
 Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
