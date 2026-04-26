@@ -686,6 +686,8 @@ Reader fact-check (r/Destiny) surfaced a factual error that had propagated acros
 - [[SFist — Flock lawsuit SFPD 1.6 million accesses]] — Feb 2026 class action; 1.6M accesses by federal agencies; California state law violation (not contractual)
 - [[Atlanta Magazine — Atlanta sanctuary city welcoming city]] — Feb 2017; Georgia 2009 law prohibiting sanctuary cities; Kasim Reed's welcoming city framework
 - [[Atlanta News First — Atlanta council anti-ICE resolutions April 2026]] — Apr 20 2026; two resolutions passed; neither mentions Flock Safety
+- [[GBPI — Statement on signing of Georgia HB 1105]] — May 1 2024; Kemp signed; "287(g) jurisdiction" framing; sheriff/jail ICE cooperation mandate
+- [[ThinkProgress — Atlanta city council 2017 resolution ICE]] — Sept 6 2017; resolution language: judicial warrant required for detainers; Atlanta = 6th GA locality with non-detainer policy
 
 **Foundational:**
 - [[Section 230 Legislative History]] — 47 U.S.C. § 230 origin; Cox/Wyden 1996; carve-out trajectory

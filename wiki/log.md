@@ -17,6 +17,19 @@ Four sources ingested to support the Atlanta sanctuary resolution article (`work
 - [[wiki/index.md]] — four new sources added under surveillance infrastructure cluster
 
 **⚠️ Sourcing flag for article v2:** The class action (SFist) alleges violation of California state law, not Flock's contractual prohibition. The v2 draft says "Flock's contractual prohibition was violated 1.6 million times" — this needs correction in v3. The correct framing: "California's law prohibiting data sharing with out-of-state agencies was violated 1.6 million times."
+
+## [2026-04-25] ingest | Two more sources for Atlanta sanctuary article — HB 1105 + 2017 resolution
+
+Independent search located authoritative sources for the two LOW-priority unsourced claims carried over from v3 fact-check.
+
+**Sources added:**
+- [[GBPI — Statement on signing of Georgia HB 1105]] — Georgia Budget and Policy Institute statement, May 1, 2024; confirms Kemp signed HB 1105 (Georgia Criminal Alien Track and Report Act of 2024); requires sheriff/jail ICE cooperation; "287(g) jurisdiction" framing. Tier 3 credible secondary source. (Georgia Recorder primary source returned 403 during fetch.)
+- [[ThinkProgress — Atlanta city council 2017 resolution ICE]] — Esther Yu Hsi Lee, September 6, 2017; documents Atlanta's 2017 resolution language: Fulton County Sheriff's Office won't detain for ICE without judicially-issued warrant; police cannot arrest/detain/transport based on detainers; Atlanta = 6th Georgia locality with non-detainer policy. ThinkProgress is defunct but archives accessible.
+
+**Pages updated:**
+- [[wiki/index.md]] — two new sources added under surveillance infrastructure cluster
+
+**Article impact:** These resolve the two carry-over LOW unsourced claims in the Atlanta sanctuary article. Ready to apply via fact-reconcile pass to produce v4.
 Parse recent entries with: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
