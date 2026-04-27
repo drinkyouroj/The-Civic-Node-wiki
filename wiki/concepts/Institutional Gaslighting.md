@@ -3,8 +3,8 @@ title: "Institutional Gaslighting"
 type: concept
 tags: [power, politics, truth-control, federal-immunity, accountability]
 created: 2026-04-06
-updated: 2026-04-18
-sources: 39
+updated: 2026-04-27
+sources: 40
 ---
 
 ## Definition
@@ -189,3 +189,6 @@ The grand jury explicitly stated the outcome — 2 prosecutions from 301 identif
 - [[Former CNN Anchor Don Lemon Appears in Court After Arrest Over Church Protest]] — DOJ bypassing judicial review
 - [[Trump administration uses taxpayer dollars to blame Democrats for government shutdown]] — Hatch Act functionally nullified
 - [[The False Balance Trap]] — how false equivalence obscures institutional gaslighting
+
+**Published synthesis:**
+- [[the-system-is-functioning-correctly]] — *The System Is Functioning Correctly* (Substack, Apr 25 2026): the popular-form distillation of this concept page. Introduces the four-component architecture (evidence custody / procedural substitution / exhaustion / toothless laws) and the cross-scale claim that Cigna PxDx and the Epstein Act are the same machine.

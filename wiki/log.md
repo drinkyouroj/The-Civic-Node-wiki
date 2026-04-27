@@ -2,6 +2,168 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-04-27] lint+ingest | Batch-3 audit + 3 raw sources + 1 published article
+
+Lint-and-ingest pass after the batch-2 commits. Audit of batch-2 work first, then 4 new files from `raw/` and `published/` ingested. Same `ingest/2026-04-27` branch.
+
+### Lint findings
+
+**Fixed:**
+- **Index frontmatter drift.** [[index]] frontmatter still claimed `total_sources: 563`, `total_entities: 220`, `total_concepts: 134`, `updated: 2026-04-23` — despite the batch-2 ingest body updates and the batch-2 lint claiming the index was updated. The body had the new 04-27 sources at the top, but the YAML frontmatter and the Stats table at the bottom were never rolled forward. Corrected to `623 / 243 / 149 / 89 articles / 20 syntheses` after batch-3 pages added.
+- **Stats table inconsistency.** Pre-fix Stats table said "Entities (8 new)" but listed 11. Post-fix: itemized entities (12 new across batches 2 + 3) plus split sources by batch.
+
+**Audited, no action:**
+- `sources: N` field on the 12 batch-2 source pages (values 8–20) is consistent with longstanding wiki convention — source pages use this field for cross-link / source-density count, not for "1." Distribution across all source pages is bell-shaped around 3–6, confirming convention. The CLAUDE.md description ("number of source documents that inform this page") is ambiguous; the convention prevails.
+- Spot-check of [[Trump Calls WHCD Suspect 'Pretty Sick Guy' — Reuters]] frontmatter and body: facts match the raw clipping; manifesto details properly hedged as paraphrase-with-quotes pending document release; Patel exclusion correctly flagged as load-bearing. No corrections needed.
+- Spot-check of [[Cole Tomas Allen]] entity: facts align with sources; Caltech 2017 + CSU Dominguez Hills 2025 + C2 Education match the Reuters profile.
+- 12 deferred stubs ([[Caltech]], [[C2 Education]], [[Washington Hilton]], [[East Wing]], [[Christina Paxson]], [[Greg Craig]], [[Operation Absolute Resolve]], [[No Kings Protests]], [[Apophenia in Political Discourse]], [[Fed Independence Theater]], plus from batch 3: [[Mia Bonta]], [[Carl DeMaio]], [[Bill Gertz]], [[Citizen Journalism Privacy Conflict]], [[Unrestricted Spectrum Warfare]]) remain deferred. Policy holds: expand when a source motivates it.
+
+### Sources ingested (3)
+
+- [[Henry Martinez Cole Allen NASA Conspiracy — Sunday Guardian]] — Sunday Guardian (India), Apr 26 2026; viral name-overlap conspiracy thread tying [[Cole Tomas Allen]] to a 2014 NASA-published "Henry Martinez" via a single 2023 social-media post; only verified factual addition is Allen's reported NASA JPL summer research program participation
+- [[Stop Nick Shirley Act — CalMatters via KPBS]] — CalMatters/KPBS, Apr 24 2026; AB 2624 (Mia Bonta) extends Safe at Home program to immigration-services workers; DeMaio names bill after [[Nick Shirley]]; influencer-driven federal-enforcement loop (Minnesota 2025 + San Diego 2026 Somali day-care videos); privacy-vs.-press-freedom fight
+- [[Space Force Future Operating Environment 2040 — Washington Times]] — Washington Times (Bill Gertz), Apr 16 2026; "Future Operating Environment 2040" report; "unrestricted spectrum warfare" doctrine; PLA BCI / Supermind / metamaterial satellite invisibility forecast; civilian + military space infrastructure as joint targets; CCP centenary 2049 as parity horizon
+
+### Published article ingested (1)
+
+- [[the-system-is-functioning-correctly]] — drinkYourOJ, Apr 25 2026; Justin Hearn nonfiction; institutional gaslighting as architecture; Cigna PxDx + Epstein Act + Renée Good + Holder testimony + Pennsylvania Grand Jury as the same four-component machine. Popular-form distillation of the existing [[Institutional Gaslighting]] concept page (already 39 sources before this article was filed; now 40).
+
+### Pages updated
+
+- [[Cole Tomas Allen]] — added NASA JPL biographical detail (single-sourced; caveat noted) and source appearance for Sunday Guardian
+- [[Space-Based Computing]] — added Space Force source as military doctrinal counterpart; partial resolution of the "Western counterpart absent" tension noted on the concept page
+- [[Institutional Gaslighting]] — added [[the-system-is-functioning-correctly]] under "Published synthesis"; bumped sources count
+- [[index]] — frontmatter, Stats table, and "2026-04-27 New Pages" subsection all corrected; new batch-3 ingest subsection at top of Sources; Nick Shirley added to People; article added to Nonfiction Essays — Politics & Power
+- [[overview]] — new "Update 2026-04-27 (batch 3)" entry above the batch-2 entry; sources count → 623
+
+### Pages created (5)
+
+**Sources (3)**: listed above
+**Entities (1)**: [[Nick Shirley]]
+**Articles (1)**: [[the-system-is-functioning-correctly]]
+
+### Newsletter angles surfaced
+
+- **The "citizen journalist" frame is up for legal grabs.** AB 2624 forces the question whether influencer-style accusatory video content qualifies as journalism for First Amendment / press-shield purposes — and the bill's "imminent great bodily harm + reasonable fear" qualifying language will be the constitutional pressure point. Worth tracking through any First Amendment challenge.
+- **Single-creator-as-enforcement-trigger.** [[Nick Shirley]] is the cleanest example yet of a single content producer driving federal immigration enforcement at named locations. That's a structural extension of the wiki's [[Surveillance State Coordination]] thread — private-citizen-as-input-to-state-action, parallel to OSINT and prediction-market figures.
+- **Doctrine vs. infrastructure asymmetry on space compute.** The U.S. has Space Force's "FOE 2040" forecast; China has Qwen3 already running in orbit. Doctrinal awareness without the civilian deployment is the U.S. position. Newsletter angle: track whether DARPA / NRO / Air Force Research Laboratory show signs of catching up on the civilian-compute side.
+- **Conspiracy formation as a beat.** The Sunday Guardian / "Henry Martinez" thread is documentation of how name-overlap apophenia generates conspiracy structure in <48 hours. Pairs with the batch-2 [['STAGED' Conspiracy Theories — WIRED]] piece for a two-source mini-cluster on the conspiracy ecology of the WHCD shooting.
+
+### Source gaps and follow-ups added
+
+- AB 2624 final text and any First Amendment challenge filings
+- [[Nick Shirley]] reach / following metrics; outcome of any defamation suits
+- Whether Minnesota and San Diego ICE actions Shirley's videos triggered led to actual prosecutions
+- Space Force "FOE 2040" primary-source PDF (Gertz quotes a published report; the report itself should be ingested when located)
+- Western civilian space-compute deployments — DARPA / NRO / private (SpaceX, Voyager Space) — to balance the China-only [[Space-Based Computing]] sourcing
+
+---
+
+## [2026-04-27] ingest | 12 raw sources from `ingest/2026-04-27` branch — WHCD shooting cluster + misc
+
+Ingest pass for the 12 raw files committed on the `ingest/2026-04-27` branch (also pushed to remote). Five thematic clusters:
+
+**WHCD shooting cluster (5 sources)** — the dominant news event of the ingest period:
+- [[Who is Cole Tomas Allen — Reuters]] — biographical profile (Caltech 2017, CSU Dominguez Hills MS 2025, [[C2 Education]] tutor, game developer); low online footprint; "Causes" listed only as "Science and Technology"
+- [[Trump Calls WHCD Suspect 'Pretty Sick Guy' — Reuters]] — manifesto contents per single law-enforcement source: self-titled "Friendly Federal Assassin"; ranked targets by administration seniority; **explicitly excluded [[Kash Patel]]** (load-bearing detail); cited Christian theology to justify violence against officials harming "the oppressed"; [[Donald Trump]] linked attack to [[No Kings Protests|"No Kings" protests]]
+- [[Fact-Checking WHCD Shooting Falsehoods — PolitiFact]] — same-day debunk of four falsehoods: [[Karoline Leavitt]]'s "shots fired" line was a roast metaphor; suspect was *not* shot (tackled); Aishah Hasnie's clipped Fox call dropped from bad cell service; [[Oz Pearlman]] mentalist-card moment was performance climax
+- ['STAGED' Conspiracy Theories — WIRED](sources/'STAGED'%20Conspiracy%20Theories%20—%20WIRED.md) — cross-partisan map: right-wing version (false flag for [[White House Ballroom Project|ballroom]]) and left-wing version (distraction from approval/Iran). MAGA influencers ([[Jack Posobiec]], [[Chaya Raichik]], [[Tom Fitton]]) pushing ballroom within minutes; *The Daily Beast* amplified Leavitt-conspiracy framing ("eerie," "bizarre"); Alex Jones cycled positions in 2 hours
+- [[Trump Upcoming Events Security Challenges — PBS AP]] — [[Susie Wiles]] convening WH operations + [[Secret Service]] + [[DHS]]; bulletproof glass under consideration; upcoming exposures: 250th anniversary, World Cup co-host, midterm rallies, **UFC on White House lawn for Trump's 80th birthday in June**, IndyCar past WH; [[Michael McCaul]] suggests separating Trump and Vance at events
+
+**Politics / power (3 sources)**:
+- [[National Trust Refuses to Drop Ballroom Suit — AP]] — DOJ asked the [[National Trust for Historic Preservation]] to drop the ballroom suit hours after the shooting "in light of last night's extraordinary events"; Trust counsel [[Gregory Craig]] (former Obama WH Counsel) refused, citing unchanged constitutional issues. Cleanest live example of [[Crisis-As-Pretext]]. Construction continues pending June 5 D.C. Circuit hearing. **Public money pays for the bunker** (under "private donation" framing).
+- [[SCOTUS Reinstates Texas Voting Map — Reuters]] — 6-3 ruling formalizes the December 2025 interim decision; up to **5 Democratic-held U.S. House seats** could flip; reverses lower court's racial-discrimination finding; pairs with the symmetric California Feb 2026 ruling. [[Redistricting Arms Race]] is now jurisprudentially settled, not a forecast.
+- [[Tillis Backs Warsh as Powell Probe Ends — USA Today]] — DOJ closed the [[Jerome Powell]] criminal probe April 24 (cost-overrun question routed to Fed IG; criminal-IG-referral remains residual leverage); [[Thom Tillis]] announces yes vote on [[Kevin Warsh]]; **FOMC meets April 29**. Closes the wiki's Fed-independence assault arc — but on Warsh's terms.
+
+**Tech / AI (3 sources)**:
+- [[Musk v Altman Trial Preview — CNBC]] — *Musk v. Altman* begins April 28 in Oakland; Judge [[Yvonne Gonzalez Rogers]] (Epic v. Apple) presides; **jury verdict advisory only**; 4 of 26 claims survive (unjust enrichment, fraud, constructive fraud, breach of charitable trust); $134B sought; Musk's requested remedies are *governance* (Altman/Brockman removal, for-profit unwinding) — coincides with SpaceX and OpenAI IPO timing
+- [[AI-Proof Majors Anxiety — AP]] — 70% of college students see AI as job threat (Harvard IOP); 48% of Gen Z workers think AI risks outweigh benefits (Gallup); [[Christina Paxson]] (Brown) admits "we don't know"; case studies of CS / data-science students switching to marketing / studio art
+- [[China Space Computing Constellation — SCIO]] — [[ADAspace]] 2,800-satellite "star compute" plan; [[Alibaba]]'s Qwen3 LLM deployed in orbit (Nov 2025; first ever); [[Zhejiang Lab]] "Three-Body Computing Constellation" (12 satellites May 2025, 100 by 2027); [[CAICT]] industry projection ¥250B by 2030. The architectural workaround to [[AI DRAM Crisis]] terrestrial chokepoints. **State-media source — corroboration gap with Western reporting flagged.**
+
+**Crypto / regulation (1 source)**:
+- [[Special Forces Soldier Polymarket Insider Trading — CNN]] — Master Sgt. [[Gannon Ken Van Dyke]] indicted in SDNY for placing $32K on [[Polymarket]] knowing he was on [[Operation Absolute Resolve]] (Maduro capture); profited $400K+; routed through foreign crypto vault. CFTC parallel civil complaint. **First high-profile criminal prosecution of national-security insider trading on a prediction market.** New concept: [[Insider Trading on Prediction Markets]]. Also exposes Polymarket's offshore-vs.-onshore site arbitrage as structural feature.
+
+### Pages created (24 total)
+
+**Sources (12)** — listed above.
+
+**Entities (11)**: [[Cole Tomas Allen]], [[Elon Musk]], [[Greg Brockman]], [[Greg Abbott]], [[Karoline Leavitt]], [[Susie Wiles]], [[Yvonne Gonzalez Rogers]], [[National Trust for Historic Preservation]], [[Polymarket]], [[Gannon Ken Van Dyke]], [[ADAspace]]
+
+**Concepts (5)**: [[White House Correspondents' Dinner Shooting 2026]], [[White House Ballroom Project]], [[Crisis-As-Pretext]], [[Insider Trading on Prediction Markets]], [[Space-Based Computing]]
+
+### Pages updated
+- [[index.md]] — new "2026-04-27 Ingest" subsection at top of Sources; Stats table refreshed (sources 570→620, entities 222→242, concepts 135→149, articles 87→88)
+- [[overview.md]] — see "Update 2026-04-27 (batch 2)" entry
+
+### Newsletter angles surfaced
+- **The Patel exclusion** in the WHCD manifesto. A self-described leftist-coded manifesto sparing the most aggressive Trump enforcement officer is the kind of internal contradiction the conspiracy ecosystem pounces on. Track for confirmation when manifesto becomes public.
+- **Crisis-as-pretext, real-time.** DOJ → National Trust drop-suit demand within hours of WHCD shooting is the cleanest live example yet. New concept page filed.
+- **Fed independence arc closes.** Powell probe done; Tillis backs Warsh; FOMC Apr 29. The wiki's [[Fed Independence Theater]] piece's predictions hold; Warsh-style "split independence" is the institutional outcome.
+- **Polymarket case is precedent-setting.** First criminal prosecution of national-security insider trading on a prediction market opens a new sub-cluster within crypto regulation coverage.
+- **Space-based computing is the architectural answer to U.S. compute chokepoints.** China is building it at scale; no Western counterpart in the wiki yet — Source Gap flagged.
+
+### Source gaps and follow-up
+- Full text of the "Friendly Federal Assassin" manifesto (paraphrase only as of this filing)
+- Western corroboration of the ADAspace / Zhejiang Lab milestones (no non-Chinese source yet)
+- Whether other military / intelligence personnel on Operation Absolute Resolve placed parallel Polymarket bets
+- Cole Tomas Allen arraignment outcome (April 27)
+- Texas redistricting follow-on: which other GOP-trifecta states copy the mid-decade redraw playbook?
+- FOMC April 29 outcome (immediate effect of Warsh confirmation path being clear)
+
+### Stubs not created (deferred)
+Per CLAUDE.md "expand when a source motivates it" policy, did not create stubs for: [[Caltech]], [[C2 Education]], [[Washington Hilton]], [[East Wing]], [[Christina Paxson]], [[Greg Craig]], [[Operation Absolute Resolve]], [[No Kings Protests]], [[Apophenia in Political Discourse]], [[Fed Independence Theater]] (likely exists). These have wikilinks in the new source pages but will resolve as broken until next ingest motivates a stub. Add to next lint pass.
+
+---
+
+## [2026-04-27] lint | Health check — count drift, stub repair, contradiction audit
+
+Lint pass run on `ingest/2026-04-27` branch after committing 12 untracked raw sources + 3 workspace drafts.
+
+### Count drift (fixed)
+Overview frontmatter and lede claimed `sources: 570` (last touched 2026-04-24). Actual file counts:
+
+| Metric | Stated | Actual |
+|---|---|---|
+| Sources | 570 | **608** |
+| Entities | 222 | **234** |
+| Concepts | 135 | **144** |
+| Syntheses | — | 20 |
+| Articles | 87 | 88 (77 standalone + 11 episodes) |
+
+Updated [[overview]] frontmatter (`updated: 2026-04-27`, `sources: 608`) and lede line. Drift accumulated from 2026-04-25 ingests (Atlanta/Flock cluster, 7 sources) which logged ingest entries but did not roll forward overview stats.
+
+### sources:0 drift on stub entities (fixed)
+Five entity pages had `sources: 0` in frontmatter despite multiple inbound `[[wikilink]]` mentions across source pages. Frontmatter corrected:
+
+- [[IMF]] — 0 → 9
+- [[American Psychological Association]] — 0 → 7
+- [[John Mayer]] — 0 → 4
+- [[Jerry Garcia]] — 0 → 3
+- [[Tom Brady]] — 0 → 3
+
+These are still stubs body-wise; only the metadata is now accurate. Expansion remains pending until a source motivates it. [[Twitter]] was previously flagged at 0 but now correctly shows `sources: 5` (mentioned in 6 — within tolerance).
+
+### Contradiction markers (audited, no action)
+`grep "⚠️ Contradiction"` returns 7 hits across the wiki. All reviewed; all are legitimately flagged or already resolved-in-place:
+
+- [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — Trump/Vance vs. Iran on Lebanon-ceasefire linkage; flagged correctly with reconciliation context in body.
+- [[2026-Global-Helium-Supply-Crisis-DigiTimes]] / [[Helium]] — "6 weeks" (NYT, physical storage limit) vs. "6 months" (DigiTimes, contracted supply pipeline). Both pages explicitly mark this as **apparent, resolved**: not a real contradiction, different units of measure. No action.
+- Three synthesis-audit pages quote the markers as part of their audit content (`Audit 2026-04-07 — Millennial Contrarian`, `Historian's Audit — 2026-04-07`, `NFL Cluster Audit — 2026-04-07 (Sports Nut)`). Quote artifacts, not active flags.
+- `log.md` self-references its own contradiction-history entries.
+
+The 2026-04-11 "all 9 markers resolved" claim still holds for the canonical-claim contradictions; the post-Apr-11 markers are new, properly-flagged ones from subsequent ingests, not regressions.
+
+### NFC Divisional Round 41-6 game (verified, no action)
+Past audit ([[NFL Cluster Audit — 2026-04-07 (Sports Nut)]]) flagged a possible bracket inconsistency: the [[2025-26 NFL Playoffs Wikipedia]] partial extraction listed only 5 NFC seeds, making the 49ers' presence in the Divisional Round look unsourced. The Wikipedia source page (line 23) now carries an explicit note that the 5-seed list was an incomplete extraction, the NFC field is 7 teams, and the 49ers were one of the unextracted wild cards. The 41-6 result is sourced via [[Seahawks 41-6 Divisional Win Over 49ers]] (ESPN box score). Resolved-in-place.
+
+### Stubs not fixed this pass (deferred)
+Stub-likely files (< 800 bytes) found across `entities/` and `concepts/`. Not expanded — "expand when a source motivates it" remains the policy. Notable ones still worth filling when sources arrive: [[SEC]], [[CFTC]], [[Keir Starmer]], [[Hal Finney]], [[Nick Szabo]], [[Peter Todd]], [[Len Sassaman]] (all major entities the wiki references frequently but covers thinly).
+
+### Pending (next workflow turn)
+The 12 raw files committed today on `ingest/2026-04-27` (Trump/WHCD shooting cluster, Musk v. Altman trial, Texas voting map, Powell probe end / Warsh confirmation push, AI-proof majors, China space computing, etc.) are **committed but not yet ingested into wiki/sources/**. Run INGEST workflow to file them.
+
+---
+
 ## [2026-04-25] ingest | Four Flock/Atlanta sources — article branch ingestion pass
 
 Four sources ingested to support the Atlanta sanctuary resolution article (`workspace/drafts/atlanta-passed-a-sanctuary-resolution-v2.md`). Raw stubs created during fact-reconciliation, now fully ingested.
