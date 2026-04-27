@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " — The Civic Node",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: "google", tagId: "G-2ZPM4MDJRT" },
     locale: "en-US",
     baseUrl: "wiki.hearn.me",
     ignorePatterns: [
