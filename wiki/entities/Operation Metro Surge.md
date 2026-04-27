@@ -4,9 +4,8 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
-updated: 2026-04-18
-sources: 41
 updated: 2026-04-25
+sources: 41
 ---
 
 ## Overview
