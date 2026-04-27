@@ -24,6 +24,28 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ## Sources
 
+### 2026-04-27 Ingest — WHCD Shooting + Misc
+
+**WHCD Shooting cluster (5)**
+- [[Who is Cole Tomas Allen — Reuters]] — Reuters, Apr 26 2026; biographical profile of suspect (Caltech 2017, CSU Dominguez Hills MS 2025, C2 Education tutor)
+- [[Trump Calls WHCD Suspect 'Pretty Sick Guy' — Reuters]] — Reuters, Apr 26 2026; "Friendly Federal Assassin" manifesto; **Patel exclusion**; "No Kings" framing
+- [[Fact-Checking WHCD Shooting Falsehoods — PolitiFact]] — PolitiFact via WAPT, Apr 26 2026; same-day debunk of 4 main "STAGED" falsehoods
+- ['STAGED' Conspiracy Theories — WIRED](sources/'STAGED'%20Conspiracy%20Theories%20—%20WIRED.md) — WIRED, Apr 26 2026; cross-partisan map of conspiracy reflex
+- [[Trump Upcoming Events Security Challenges — PBS AP]] — AP/PBS, Apr 27 2026; Susie Wiles security review; bulletproof glass; calendar of exposed events
+
+**Politics / Power (3)**
+- [[National Trust Refuses to Drop Ballroom Suit — AP]] — AP, Apr 27 2026; Trust counsel Greg Craig refuses DOJ's "in light of last night's events" pressure
+- [[SCOTUS Reinstates Texas Voting Map — Reuters]] — Reuters, Apr 27 2026; 6-3 formalization; up to 5 D seats flipped; pairs with CA Feb 2026 ruling
+- [[Tillis Backs Warsh as Powell Probe Ends — USA Today]] — USA Today, Apr 26 2026; DOJ closes Powell probe Apr 24; Tillis announces yes vote on Warsh; FOMC meets Apr 29
+
+**Tech / AI (3)**
+- [[Musk v Altman Trial Preview — CNBC]] — CNBC, Apr 24 2026; trial begins Apr 28; Judge Gonzalez Rogers; 4 of 26 claims; advisory jury; $134B
+- [[AI-Proof Majors Anxiety — AP]] — AP, Apr 27 2026; 70% Gen Z see AI as job threat; Brown's Paxson "we don't know"; data science → studio art
+- [[China Space Computing Constellation — SCIO]] — SCIO, Apr 27 2026; ADAspace 2,800-satellite "star compute"; Qwen3 in orbit; ¥250B by 2030
+
+**Crypto (1)**
+- [[Special Forces Soldier Polymarket Insider Trading — CNN]] — CNN, Apr 23 2026; Master Sgt. Van Dyke indicted for $32K → $400K bet on Maduro raid; first NS-insider-trading-on-prediction-market prosecution
+
 ### Federal Reserve / Monetary Policy
 - [[Trump calls Powell 'too stupid' after fifth rate hold]] — TOI, Jul 31 2025; Truth Social attacks; dual governor dissent; tariff-driven inflation
 - [[Trump's tariffs kept Fed from cutting rates, Jerome Powell says]] — NBC News, Jul 1 2025; Powell confirms tariff-rate link; ECB forum; "moron" response; board succession timeline
@@ -1328,9 +1350,15 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 570 |
-| Published articles tracked | 87 (76 standalone + 11 episodes) |
-| Entity pages | 222 |
-| Concept pages | 135 |
+| Total sources ingested | 620 |
+| Published articles tracked | 88 (77 standalone + 11 episodes) |
+| Entity pages | 242 |
+| Concept pages | 149 |
 | Synthesis pages | 20 (5 audits + 13 insight sweep + 2 DRAM crisis) |
-| Last updated | 2026-04-24 |
+| Last updated | 2026-04-27 |
+
+### 2026-04-27 New Pages
+
+**Entities (8 new)**: [[Cole Tomas Allen]], [[Elon Musk]], [[Greg Brockman]], [[Greg Abbott]], [[Karoline Leavitt]], [[Susie Wiles]], [[Yvonne Gonzalez Rogers]], [[National Trust for Historic Preservation]], [[Polymarket]], [[Gannon Ken Van Dyke]], [[ADAspace]]
+
+**Concepts (5 new)**: [[White House Correspondents' Dinner Shooting 2026]], [[White House Ballroom Project]], [[Crisis-As-Pretext]], [[Insider Trading on Prediction Markets]], [[Space-Based Computing]]
