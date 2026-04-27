@@ -3,9 +3,8 @@ title: "Flock Safety Surveillance Network"
 type: concept
 tags: [surveillance, infrastructure, power, immigration, politics]
 created: 2026-04-19
-updated: 2026-04-19
-sources: 9
 updated: 2026-04-25
+sources: 9
 ---
 
 ## Definition

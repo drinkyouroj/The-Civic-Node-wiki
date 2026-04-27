@@ -4,9 +4,8 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, police-violence, minnesota]
 created: 2026-04-07
-updated: 2026-04-17
-sources: 29
 updated: 2026-04-25
+sources: 29
 ---
 
 ## Overview
