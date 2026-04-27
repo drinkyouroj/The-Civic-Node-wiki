@@ -4,7 +4,7 @@ type: concept
 tags: [technology, ai, infrastructure, space, china]
 created: 2026-04-27
 updated: 2026-04-27
-sources: 5
+sources: 6
 ---
 
 ## Definition
@@ -22,7 +22,7 @@ The architectural workaround to the wiki's [[AI DRAM Crisis]] and [[Helium]] ter
 ## Tensions & Counterarguments
 - **The maintenance constraint is structural.** Yan Zhiyong (China Telecom Cloud): "Post-launch maintenance of satellites is, notably, prohibitively expensive or even impossible." Once on orbit, hardware can't be patched, repaired, or upgraded. Failure modes are different from "data center power outage" — and the failure cost (replacement satellite launch) is higher.
 - **State-media optimism bias.** Source ([[China Space Computing Constellation — SCIO]]) is the China State Council Information Office — promotional by design. Treat 2030 / 2035 timelines as aspirational. Treat technical milestones already achieved (Qwen3-in-orbit, Prometheus, robot control) as more reliable.
-- **Western counterpart absent.** No non-Chinese source in the wiki yet documents comparable Western efforts. Either (a) U.S./European labs are pursuing this quietly, (b) they've assessed the maintenance constraint as disqualifying, or (c) Chinese state-media is overstating the gap. All three remain live.
+- **Western counterpart absent — partial answer.** The wiki now includes a U.S. *doctrinal* counterpart: the Space Force's "Future Operating Environment 2040" report ([[Space Force Future Operating Environment 2040 — Washington Times]]) frames the same orbital domain as a battlefield and forecasts Chinese in-orbit AI, brain-computer interfaces, and metamaterial satellite "invisibility" as 2040 capabilities. **Doctrinal awareness is U.S.; civilian compute-in-orbit infrastructure is Chinese.** Whether U.S. or European labs are pursuing comparable civilian deployments quietly remains unconfirmed.
 - **Latency and bandwidth.** Inter-satellite laser links are claimed but unproven at constellation scale. The published "<2 minutes" Qwen3 inference figure in November 2025 isn't competitive with terrestrial data center inference (sub-second); the value proposition lives in coverage, not in raw speed.
 
 ## Related Concepts
@@ -32,4 +32,5 @@ The architectural workaround to the wiki's [[AI DRAM Crisis]] and [[Helium]] ter
 - [[Tech-State Conflict]] — China's response to U.S. export controls
 
 ## Key Sources
-- [[China Space Computing Constellation — SCIO]]
+- [[China Space Computing Constellation — SCIO]] — civilian architecture; ADAspace, Zhejiang Lab, Qwen3-in-orbit
+- [[Space Force Future Operating Environment 2040 — Washington Times]] — U.S. military doctrinal counterpart; "unrestricted spectrum warfare" framing; forecast of PLA in-orbit AI, BCI, metamaterials

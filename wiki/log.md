@@ -2,6 +2,63 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-04-27] lint+ingest | Batch-3 audit + 3 raw sources + 1 published article
+
+Lint-and-ingest pass after the batch-2 commits. Audit of batch-2 work first, then 4 new files from `raw/` and `published/` ingested. Same `ingest/2026-04-27` branch.
+
+### Lint findings
+
+**Fixed:**
+- **Index frontmatter drift.** [[index]] frontmatter still claimed `total_sources: 563`, `total_entities: 220`, `total_concepts: 134`, `updated: 2026-04-23` — despite the batch-2 ingest body updates and the batch-2 lint claiming the index was updated. The body had the new 04-27 sources at the top, but the YAML frontmatter and the Stats table at the bottom were never rolled forward. Corrected to `623 / 243 / 149 / 89 articles / 20 syntheses` after batch-3 pages added.
+- **Stats table inconsistency.** Pre-fix Stats table said "Entities (8 new)" but listed 11. Post-fix: itemized entities (12 new across batches 2 + 3) plus split sources by batch.
+
+**Audited, no action:**
+- `sources: N` field on the 12 batch-2 source pages (values 8–20) is consistent with longstanding wiki convention — source pages use this field for cross-link / source-density count, not for "1." Distribution across all source pages is bell-shaped around 3–6, confirming convention. The CLAUDE.md description ("number of source documents that inform this page") is ambiguous; the convention prevails.
+- Spot-check of [[Trump Calls WHCD Suspect 'Pretty Sick Guy' — Reuters]] frontmatter and body: facts match the raw clipping; manifesto details properly hedged as paraphrase-with-quotes pending document release; Patel exclusion correctly flagged as load-bearing. No corrections needed.
+- Spot-check of [[Cole Tomas Allen]] entity: facts align with sources; Caltech 2017 + CSU Dominguez Hills 2025 + C2 Education match the Reuters profile.
+- 12 deferred stubs ([[Caltech]], [[C2 Education]], [[Washington Hilton]], [[East Wing]], [[Christina Paxson]], [[Greg Craig]], [[Operation Absolute Resolve]], [[No Kings Protests]], [[Apophenia in Political Discourse]], [[Fed Independence Theater]], plus from batch 3: [[Mia Bonta]], [[Carl DeMaio]], [[Bill Gertz]], [[Citizen Journalism Privacy Conflict]], [[Unrestricted Spectrum Warfare]]) remain deferred. Policy holds: expand when a source motivates it.
+
+### Sources ingested (3)
+
+- [[Henry Martinez Cole Allen NASA Conspiracy — Sunday Guardian]] — Sunday Guardian (India), Apr 26 2026; viral name-overlap conspiracy thread tying [[Cole Tomas Allen]] to a 2014 NASA-published "Henry Martinez" via a single 2023 social-media post; only verified factual addition is Allen's reported NASA JPL summer research program participation
+- [[Stop Nick Shirley Act — CalMatters via KPBS]] — CalMatters/KPBS, Apr 24 2026; AB 2624 (Mia Bonta) extends Safe at Home program to immigration-services workers; DeMaio names bill after [[Nick Shirley]]; influencer-driven federal-enforcement loop (Minnesota 2025 + San Diego 2026 Somali day-care videos); privacy-vs.-press-freedom fight
+- [[Space Force Future Operating Environment 2040 — Washington Times]] — Washington Times (Bill Gertz), Apr 16 2026; "Future Operating Environment 2040" report; "unrestricted spectrum warfare" doctrine; PLA BCI / Supermind / metamaterial satellite invisibility forecast; civilian + military space infrastructure as joint targets; CCP centenary 2049 as parity horizon
+
+### Published article ingested (1)
+
+- [[the-system-is-functioning-correctly]] — drinkYourOJ, Apr 25 2026; Justin Hearn nonfiction; institutional gaslighting as architecture; Cigna PxDx + Epstein Act + Renée Good + Holder testimony + Pennsylvania Grand Jury as the same four-component machine. Popular-form distillation of the existing [[Institutional Gaslighting]] concept page (already 39 sources before this article was filed; now 40).
+
+### Pages updated
+
+- [[Cole Tomas Allen]] — added NASA JPL biographical detail (single-sourced; caveat noted) and source appearance for Sunday Guardian
+- [[Space-Based Computing]] — added Space Force source as military doctrinal counterpart; partial resolution of the "Western counterpart absent" tension noted on the concept page
+- [[Institutional Gaslighting]] — added [[the-system-is-functioning-correctly]] under "Published synthesis"; bumped sources count
+- [[index]] — frontmatter, Stats table, and "2026-04-27 New Pages" subsection all corrected; new batch-3 ingest subsection at top of Sources; Nick Shirley added to People; article added to Nonfiction Essays — Politics & Power
+- [[overview]] — new "Update 2026-04-27 (batch 3)" entry above the batch-2 entry; sources count → 623
+
+### Pages created (5)
+
+**Sources (3)**: listed above
+**Entities (1)**: [[Nick Shirley]]
+**Articles (1)**: [[the-system-is-functioning-correctly]]
+
+### Newsletter angles surfaced
+
+- **The "citizen journalist" frame is up for legal grabs.** AB 2624 forces the question whether influencer-style accusatory video content qualifies as journalism for First Amendment / press-shield purposes — and the bill's "imminent great bodily harm + reasonable fear" qualifying language will be the constitutional pressure point. Worth tracking through any First Amendment challenge.
+- **Single-creator-as-enforcement-trigger.** [[Nick Shirley]] is the cleanest example yet of a single content producer driving federal immigration enforcement at named locations. That's a structural extension of the wiki's [[Surveillance State Coordination]] thread — private-citizen-as-input-to-state-action, parallel to OSINT and prediction-market figures.
+- **Doctrine vs. infrastructure asymmetry on space compute.** The U.S. has Space Force's "FOE 2040" forecast; China has Qwen3 already running in orbit. Doctrinal awareness without the civilian deployment is the U.S. position. Newsletter angle: track whether DARPA / NRO / Air Force Research Laboratory show signs of catching up on the civilian-compute side.
+- **Conspiracy formation as a beat.** The Sunday Guardian / "Henry Martinez" thread is documentation of how name-overlap apophenia generates conspiracy structure in <48 hours. Pairs with the batch-2 [['STAGED' Conspiracy Theories — WIRED]] piece for a two-source mini-cluster on the conspiracy ecology of the WHCD shooting.
+
+### Source gaps and follow-ups added
+
+- AB 2624 final text and any First Amendment challenge filings
+- [[Nick Shirley]] reach / following metrics; outcome of any defamation suits
+- Whether Minnesota and San Diego ICE actions Shirley's videos triggered led to actual prosecutions
+- Space Force "FOE 2040" primary-source PDF (Gertz quotes a published report; the report itself should be ingested when located)
+- Western civilian space-compute deployments — DARPA / NRO / private (SpaceX, Voyager Space) — to balance the China-only [[Space-Based Computing]] sourcing
+
+---
+
 ## [2026-04-27] ingest | 12 raw sources from `ingest/2026-04-27` branch — WHCD shooting cluster + misc
 
 Ingest pass for the 12 raw files committed on the `ingest/2026-04-27` branch (also pushed to remote). Five thematic clusters:

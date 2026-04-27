@@ -5,7 +5,7 @@ entity_type: person
 tags: [politics, security, political-violence, whcd-shooting]
 created: 2026-04-27
 updated: 2026-04-27
-sources: 9
+sources: 10
 ---
 
 ## Overview
@@ -16,6 +16,7 @@ sources: 9
 - Worked part-time for [[C2 Education]] in Torrance; named "Teacher of the Month" December 2024
 - Previously a mechanical engineer at IJK Controls (South Pasadena) and a Caltech TA; won a 2016 Caltech robotics competition
 - LinkedIn self-description: "mechanical engineer and computer scientist by degree, independent game developer by experience, teacher by birth"
+- Reportedly participated in a summer research program at NASA's Jet Propulsion Laboratory during his Caltech years — per [[Henry Martinez Cole Allen NASA Conspiracy — Sunday Guardian]] (single-source; sourcing thin)
 - "Causes" listed only as "Science and Technology"
 - Lived with parents in a two-story house in Torrance's historic district
 - Traveled by Amtrak from LA → Chicago → DC; checked into the Hilton on Friday, April 24
@@ -40,6 +41,7 @@ The biographical profile (Caltech graduate, tutor at college-prep service, low o
 - [[Trump Calls WHCD Suspect 'Pretty Sick Guy' — Reuters]] — Trump commentary, manifesto details
 - [[Fact-Checking WHCD Shooting Falsehoods — PolitiFact]] — same-day fact-check context
 - ['STAGED' Conspiracy Theories — WIRED](sources/'STAGED'%20Conspiracy%20Theories%20—%20WIRED.md) — conspiracy-discourse object
+- [[Henry Martinez Cole Allen NASA Conspiracy — Sunday Guardian]] — viral name-overlap conspiracy thread; only source for the JPL biographical detail
 
 ## Open Questions
 - Full text of the "Friendly Federal Assassin" manifesto (only paraphrased through one law-enforcement official as of this filing)

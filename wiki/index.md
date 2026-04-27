@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-23
-total_pages: 1018
-total_sources: 563
-total_entities: 220
-total_concepts: 134
-total_syntheses: 14
-total_articles: 87
+updated: 2026-04-27
+total_pages: 1043
+total_sources: 623
+total_entities: 243
+total_concepts: 149
+total_syntheses: 20
+total_articles: 89
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -24,7 +24,13 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ## Sources
 
-### 2026-04-27 Ingest — WHCD Shooting + Misc
+### 2026-04-27 Ingest (batch 3) — WHCD conspiracy thread, CA AB 2624, Space Force 2040
+
+- [[Henry Martinez Cole Allen NASA Conspiracy — Sunday Guardian]] — Sunday Guardian, Apr 26 2026; viral name-overlap conspiracy; new biographical detail (Allen's NASA JPL summer program)
+- [[Stop Nick Shirley Act — CalMatters via KPBS]] — CalMatters/KPBS, Apr 24 2026; AB 2624 (Bonta) extends Safe at Home to immigration-services workers; DeMaio framing; "citizen journalist" privacy-vs.-press-freedom fight
+- [[Space Force Future Operating Environment 2040 — Washington Times]] — Washington Times (Bill Gertz), Apr 16 2026; Space Force "FOE 2040" report; "unrestricted spectrum warfare"; PLA BCI / Supermind / metamaterials; doctrinal counterpart to [[Space-Based Computing]]
+
+### 2026-04-27 Ingest (batch 2) — WHCD Shooting + Misc
 
 **WHCD Shooting cluster (5)**
 - [[Who is Cole Tomas Allen — Reuters]] — Reuters, Apr 26 2026; biographical profile of suspect (Caltech 2017, CSU Dominguez Hills MS 2025, C2 Education tutor)
@@ -875,6 +881,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Steve Bannon]] — Trump political strategist; conviction vacated Apr 6 2026; MAGA podcast host
 - [[Andrej Karpathy]] — Former Tesla AI Director, early OpenAI researcher; originated LLM wiki agent architecture
 - [[Vannevar Bush]] — 1945 "As We May Think" / Memex concept; intellectual ancestor of associative knowledge retrieval
+- [[Nick Shirley]] — conservative social-media influencer; "citizen journalist" framing; 2025 Minnesota + 2026 San Diego Somali day-care videos; namesake of CA AB 2624 opposition framing
 - [[John Schneider]] — Seahawks GM since 2010; Super Bowl LX architect; first GM with zero holdovers to reach Super Bowl
 - [[Mike Macdonald]] — Seahawks HC; Ravens DC background; defensive scheme architect; "Macdonald Method"
 - [[Sam Darnold]] — Seahawks QB; $100.5M/3yr; career renaissance (Jets failure → Vikings → Seahawks Super Bowl)
@@ -1241,6 +1248,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[The Pastor Runs the Gestapo]] — Don Lemon arrested covering Minneapolis ICE church protests; federal immunity above state law
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Institutional gaslighting through evidence control and narrative flooding
 - [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
+- [[the-system-is-functioning-correctly]] — *The System Is Functioning Correctly* (Apr 25 2026); institutional gaslighting as architecture; Cigna PxDx + Epstein Act + Renée Good + Holder + Pennsylvania Grand Jury as the same machine
 
 ### Nonfiction Essays — Legal & Systems
 - [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026; first piece in the [[Reachability Routing]] series; civil liability routes to the reachable defendant (Destiny), not the person who caused the harm (Solo in Oxford); three structural fixes proposed; Doe v. Bonnell as live case study
@@ -1350,15 +1358,21 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 620 |
-| Published articles tracked | 88 (77 standalone + 11 episodes) |
-| Entity pages | 242 |
+| Total sources ingested | 623 |
+| Published articles tracked | 89 (78 standalone + 11 episodes) |
+| Entity pages | 243 |
 | Concept pages | 149 |
 | Synthesis pages | 20 (5 audits + 13 insight sweep + 2 DRAM crisis) |
 | Last updated | 2026-04-27 |
 
 ### 2026-04-27 New Pages
 
-**Entities (8 new)**: [[Cole Tomas Allen]], [[Elon Musk]], [[Greg Brockman]], [[Greg Abbott]], [[Karoline Leavitt]], [[Susie Wiles]], [[Yvonne Gonzalez Rogers]], [[National Trust for Historic Preservation]], [[Polymarket]], [[Gannon Ken Van Dyke]], [[ADAspace]]
+**Sources (15 across batches 2 + 3)**:
+- *Batch 2 (12)*: WHCD shooting cluster (5), Politics/Power (3), Tech/AI (3), Crypto (1) — see log
+- *Batch 3 (3)*: [[Henry Martinez Cole Allen NASA Conspiracy — Sunday Guardian]], [[Stop Nick Shirley Act — CalMatters via KPBS]], [[Space Force Future Operating Environment 2040 — Washington Times]]
+
+**Articles (1 new)**: [[the-system-is-functioning-correctly]]
+
+**Entities (12 new across batches)**: [[Cole Tomas Allen]], [[Elon Musk]], [[Greg Brockman]], [[Greg Abbott]], [[Karoline Leavitt]], [[Susie Wiles]], [[Yvonne Gonzalez Rogers]], [[National Trust for Historic Preservation]], [[Polymarket]], [[Gannon Ken Van Dyke]], [[ADAspace]], [[Nick Shirley]]
 
 **Concepts (5 new)**: [[White House Correspondents' Dinner Shooting 2026]], [[White House Ballroom Project]], [[Crisis-As-Pretext]], [[Insider Trading on Prediction Markets]], [[Space-Based Computing]]
