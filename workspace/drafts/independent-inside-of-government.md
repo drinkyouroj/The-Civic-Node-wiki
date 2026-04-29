@@ -6,7 +6,7 @@ tags: [monetary-policy, fed-independence, politics, warsh, powell]
 created: 2026-04-27
 updated: 2026-04-27
 outline: "workspace/outlines/warsh-respectability-capture-of-the-fed-detailed.md"
-status: draft-v3
+status: draft-v3.4
 ---
 
 # Independent Inside of Government
@@ -21,13 +21,13 @@ The trick is not to attack Fed independence. The trick is to redefine the word. 
 
 ---
 
-## The Problem: A Capture That Doesn't Need to Look Like One
+## The problem: a capture that doesn't need to look like one
 
 Here is what happened, in the order it happened.
 
 On [April 21](https://www.axios.com/2026/04/21/fed-trump-warsh-senate), two hours before Warsh's confirmation hearing began, Trump appeared on CNBC and declined to wind down the DOJ criminal investigation of Jerome Powell, joking that "Kevin will have to have an office next to me in the White House, because that building's not going to be done." Warsh testified for hours. He did not mention the investigation.
 
-On April 24, the Justice Department [formally closed](https://www.investing.com/news/economy-news/justice-dept-drops-investigation-into-fed-chair-powell-removing-obstacle-to-warsh-4637576) the criminal probe of Powell and redirected the question of renovation cost overruns to the Fed's Inspector General. On April 26, Sen. Thom Tillis — the Republican holdout who had been blocking the Senate Banking Committee from advancing Warsh's nomination — [announced he would vote yes](https://www.usatoday.com/story/money/2026/04/26/tillis-warsh-powell-fed-chair-confirmation/89808874007/). On April 29 at 10am ET, the committee is scheduled to vote. At 2pm the same afternoon, the FOMC will issue its rate decision; [CME FedWatch](https://growbeansprout.com/tools/fedwatch) puts the probability of a hold at roughly 98%. Powell will chair that meeting.
+On April 24, the Justice Department [formally closed](https://www.investing.com/news/economy-news/justice-dept-drops-investigation-into-fed-chair-powell-removing-obstacle-to-warsh-4637576) the criminal probe of Powell and redirected the question of renovation cost overruns to the Fed's Inspector General. On April 26, Sen. Thom Tillis — the Republican holdout who had been blocking the Senate Banking Committee from advancing Warsh's nomination — [announced he would vote yes](https://www.usatoday.com/story/money/2026/04/26/tillis-warsh-powell-fed-chair-confirmation/89808874007/). On April 29 at 10am ET, the committee is scheduled to vote. At 2pm the same afternoon, the FOMC will issue its rate decision; [CME FedWatch](https://growbeansprout.com/tools/fedwatch) is pricing a hold at 100%. Powell will chair that meeting.
 
 The committee vote and the FOMC statement happen in the same building complex, four hours apart. One of those events will not attract significant news coverage.
 
@@ -41,7 +41,7 @@ A federal judge called the probe a tool of harassment; the Senate Banking Commit
 
 ---
 
-## Analysis: The Mechanism Is the Respectability
+## Analysis: the mechanism is the respectability
 
 **The version that works is the version you don't see coming**
 
@@ -49,7 +49,7 @@ Both prior attempts to bring the Fed to heel were obvious enough to attract resi
 
 Warsh offers something different. He is a [Morgan Stanley M&A veteran turned youngest-ever Fed governor](https://www.commonfund.org/blog/fed-watching-how-will-policy-evolve-under-kevin-warsh-as-chair/) — appointed at 35 by George W. Bush in 2006, Ben Bernanke's primary intermediary with Wall Street during the 2008 crisis, and a Visiting Fellow at the Hoover Institution at Stanford since 2011. When Trump announced the nomination on January 30, he said Warsh would go down as "one of the great Fed chairmen, maybe the best. On top of everything else, he is [central casting](https://www.pbs.org/newshour/show/what-trumps-nomination-of-inflation-hawk-kevin-warsh-means-for-the-federal-reserve) and will never let you down."
 
-"Central casting" is not a throwaway. It is the selection criterion stated accurately.
+"Central casting" is doing real work in that sentence. It is the selection criterion stated accurately.
 
 **From hawk to dove, on schedule**
 
@@ -77,7 +77,7 @@ But the argument over which 1970s-era Fed chair Powell would become assumed ther
 
 ---
 
-## Implications: What Gets Ratified at Ten O'Clock
+## Implications: what gets ratified at ten o'clock
 
 **The probe, the IG, and the leverage that stays live**
 
@@ -87,7 +87,7 @@ This is not exoneration. The probe was opened without the standard predicate and
 
 The Republican majority's due-diligence record on all of this is Tillis instructing DOJ from the dais and then flipping three days after DOJ obliged. (That is, on the institutional record, the complete oversight exercise.)
 
-Sen. Elizabeth Warren's case was more substantive. She raised Warsh's [significant undisclosed financial holdings](https://www.banking.senate.gov/newsroom/minority/at-hearing-warren-delivers-remarks-on-kevin-warshs-nomination-for-fed-chair), his refusal at the hearing to confirm that Trump lost the 2020 election, and gaps in his FBI background process. She called the DOJ closure an attempt to clear the path for the nomination. She called Warsh "uniquely ill-suited." The committee is [13R-11D](https://www.notus.org/senate/senate-thom-tillis-kevin-warsh-trump-fed-chair-jerome-powell-criminal-investigation-drop). All Democrats are expected to vote no. Warren's case is on the public record; it is also losing.
+Sen. Elizabeth Warren's case was more substantive. She raised Warsh's [significant undisclosed financial holdings](https://www.banking.senate.gov/newsroom/minority/at-hearing-warren-delivers-remarks-on-kevin-warshs-nomination-for-fed-chair), his refusal at the hearing to confirm that Trump lost the 2020 election, and gaps in his FBI background process. She called the DOJ closure an attempt to clear the path for the nomination. She called Warsh "uniquely ill-suited." The committee is 13R-11D. All Democrats are expected to vote no. Warren's case is on the public record; it is also losing.
 
 And then there is the silence. Across the entire three-month life of the criminal probe of a sitting Fed chair, the man who would benefit most from Powell's removal said nothing about it publicly — no Hoover Institution paper, no op-ed, no interview. On the day DOJ dropped the probe, Reuters called Warsh for comment. He [did not respond](https://www.investing.com/news/economy-news/justice-dept-drops-investigation-into-fed-chair-powell-removing-obstacle-to-warsh-4637576). At his hearing, asked about the related Lisa Cook firing case, he said: "It's pending before the United States Supreme Court. It's inappropriate for me to weigh in on that." The "pending matter" dodge applied to a case where his own nomination existed in the same political ecosystem that generated the firing. He answered the smaller question. The committee accepted it.
 
@@ -97,9 +97,9 @@ Fed independence, as a norm, is not a law. It is a practice contingent on nomine
 
 ---
 
-## The April 29 Tell
+## The April 29 tell
 
-The market is not pricing accommodation yet. [CME FedWatch](https://growbeansprout.com/tools/fedwatch) has the April 29 FOMC at roughly 98% hold. The rate path beyond that is what Warsh's first FOMC — whenever his floor confirmation vote clears and before Powell's pro-tempore term runs — will begin to clarify.
+[CME FedWatch](https://growbeansprout.com/tools/fedwatch) has the April 29 FOMC at a 100% hold. The probability distribution that matters is on what comes after. The rate path beyond that is what Warsh's first FOMC — whenever his floor confirmation vote clears and before Powell's pro-tempore term runs — will begin to clarify.
 
 The question is not simply whether Warsh will cut rates. It is whether his documented record from 2006 to 2011 reasserts itself once he is accountable to an institution rather than to a nomination, or whether the 2025 posture is the real one. The carve-outs have already answered which version was promised to the White House. The rate-decision record will answer which version showed up.
 
