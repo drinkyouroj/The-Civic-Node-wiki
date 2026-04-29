@@ -1,0 +1,2 @@
+I want to post main articles on Substack and try to get additional views by strategically posting links to X / Twitter, Instagram/Facebook, Bluesky, and (where I find the most traffic, but it's also the most time-consuming): Reddit.
+I want to write content that appeals to the audience I've already defined. I also want to be able to write about my own experiences and have some "gonzo" style to my writing. I've struggled with addiction/substance abuse and have a lot of stories I could tell about that, where they fit into the broader content.
