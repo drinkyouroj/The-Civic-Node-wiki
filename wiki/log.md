@@ -2,6 +2,48 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-04-29] query+synthesis | Audience research — Marcus K. 8-dimension deep research
+
+Three-agent parallel research pass against the Marcus K. ideal-reader profile. Audience-profiles skill loaded, full marcus-profile.md read first. User requested deep research with real quotes, real pricing, real competitive data — not generic personas. Output filed to syntheses.
+
+### Research streams
+
+- **Agent 1 (Reddit/forum):** 22 web searches; Reddit access partially blocked, so signal pulled from HackerNews + secondary sources + r/HeliumNetwork-adjacent reporting. ~28 quotes/observations; HIGH confidence on newsletter complaints, node-economics collapse, language patterns; LOW confidence on direct Reddit thread quotes.
+- **Agent 2 (X/Twitter + LinkedIn):** 31 tool uses; pulled real handles + quotes from Lyn Alden, Balaji, Preston Pysh, Alex Pruden, CryptoMichNL, Nick Szabo, Sahil Bloom, btc_jacksparrow. Master vocabulary table of 30+ recurring memes/shorthand. HIGH confidence on memes, language, exit-liquidity discourse.
+- **Agent 3 (Newsletter/podcast ecosystem):** 28 tool uses; concrete pricing + sub counts for 13 competitors (Bankless 200-250K/$12, Stratechery 40K paid/$12, Taibbi 455K/$7, Tooze 181K, Greenwald 328K, Lyn Alden 100K+, Bitcoin Layer 24-26K, Pomp 270K, Not Boring 263K). 5-gap analysis. The "trusted few" cluster (Stratechery, Lyn Alden, Taibbi, Tooze, Bitcoin Optech) named with the common-thread pattern: credible independence + depth-over-breadth + documented accuracy + distinct voice.
+
+### Synthesis filed
+
+- [[Audience Research — Marcus K. 2026-04-29]] — 8-dimension deep audience research; key findings: lane is genuinely unoccupied (no writer fluent in crypto + macro + politics simultaneously); $8/mo $80/yr $150-200 founding-tier pricing rec; weekly cadence not daily; conversion happens at issue 4 not issue 1; "no token positions" disclosure as competitive moat post-Bankless AICC scandal; vocabulary use/avoid table; 5-cohort adjacent audience map with editorial-rotation recommendation (2 monetary / 1 DePIN / 1 political / 1 cross-cutting per 5 issues).
+
+### Pages updated
+
+- [[index]] — frontmatter (`updated: 2026-04-29`, `total_syntheses: 21`, `total_pages: 1044`); new "Audience & Editorial Strategy" subsection under Syntheses; Stats table.
+- This log.
+
+### Most actionable insights
+
+1. **Pricing**: $8/$80 with $150-200 founding tier; below Stratechery/Doomberg, above Taibbi-tier; annual converters churn far less than monthly.
+2. **Cadence**: Weekly synthesis, not daily aggregation. The successful trust-newsletters cluster at low-frequency-high-density.
+3. **Conversion**: Issue 4, not issue 1. Design the welcome sequence to deliver one specific framework per issue, optimized for "I would have sent this" moments.
+4. **Positioning sentence**: "for people who read both Lyn Alden and Matt Taibbi and have noticed nobody is connecting the threads" — this surfaces the genuinely unoccupied lane.
+5. **Trust commitment**: "No token positions, no advisory roles, no allocation letters" as a real product feature, not a footer disclaimer. Bankless cannot match without admitting their problem.
+
+### Confidence summary
+
+- HIGH: competitive landscape, pricing benchmarks, vocabulary, Bankless trust break, DePIN economics collapse, conversion mechanic, low-frequency-high-density preference.
+- MEDIUM: specific subscriber counts for smaller newsletters; income/geography demographics; adjacent-cohort overlap percentages.
+- LOW: direct Reddit thread quotes (Reddit access constrained); wealth-anxiety reality (the thing nobody says publicly); exact gender split.
+
+### Source gaps to close
+
+- Subscriber survey for income/geography
+- 5-10 conversion interviews with existing paid subs
+- A/B test on subject-line patterns (11:35am open vs 11:48pm convert frame)
+- Trade-out tracking: what subscriptions do new Civic Node subscribers cancel?
+
+---
+
 ## [2026-04-27] lint+ingest | Batch-3 audit + 3 raw sources + 1 published article
 
 Lint-and-ingest pass after the batch-2 commits. Audit of batch-2 work first, then 4 new files from `raw/` and `published/` ingested. Same `ingest/2026-04-27` branch.
