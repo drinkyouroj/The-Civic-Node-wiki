@@ -4,7 +4,7 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
-updated: 2026-04-25
+updated: 2026-04-30
 sources: 41
 ---
 
@@ -39,6 +39,8 @@ Earlier drafts of this wiki referenced a "$81 billion" business revenue figure �
 Primary source: [[City of Minneapolis — Operation Metro Surge results in $203 million impact]]. The city labels this a "very likely significant underestimation."
 
 **Independent econometric estimate** (Rosenthal + Sojourner, North Star Policy Action): **$106.1 million in lost wages** in the Twin Cities metro area from Jan. 3 – Feb. 17, 2026, using synthetic difference-in-differences methodology against 49 comparison metro areas. Surge reduced employees working by 2.8%, total hours worked by 1.9%, open business locations by 1.7%. Data source: Homebase timekeeping platform. See [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]].
+
+**MN AG amended complaint estimate (April 2026):** Minneapolis and Saint Paul residents lost **over $240 million in wages** and businesses lost **over $600 million in revenue** during the operation. Cited in [[Frozen Accountability How the Federal Government Handled and Buried the Killing of Renee Good]]; sourced from the April 2026 amended complaint in MN AG Keith Ellison's federal suit. Broader scope than the city estimate (metro-wide; longer period).
 - Schools shifted to remote learning; ICE arrested restaurant, airport, hotel workers, Target employees, children, Native Americans, US citizens, legal residents [[Operation Metro Surge - Wikipedia]]
 - [[Don Lemon]] and other journalists arrested while covering protests [[Operation Metro Surge - Wikipedia]]
 - Minneapolis Mayor Jacob Frey banned federal officials from using city property as staging areas [[Operation Metro Surge - Wikipedia]]

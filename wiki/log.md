@@ -1988,3 +1988,24 @@ Pages updated:
 - [[Killing of Renée Good]] — sources 28→29; added Santa Cruz/Flock cancellation connection
 - [[Operation Metro Surge]] — sources 41→42; added Flock surveillance infrastructure ripple note
 - [[wiki/index.md]] — added NPR source under surveillance infrastructure cluster
+
+## [2026-04-30] ingest | 2 new raw sources + 1 published article; v6 draft produced for weekend publication
+
+**Pre-publication ingest pass** ahead of "3,000 Arrests, 335 Names, One Court Order" going live this weekend. Three files from git status processed.
+
+**New source pages (2):**
+- [[Frozen Accountability How the Federal Government Handled and Buried the Killing of Renee Good]] — Legal Beagle / Jack Harding, Apr 28 2026. Most comprehensive single-source institutional timeline of the Good accountability failure. Key new material: 3-day admin leave documented; DHS Use of Force Directive framework explicated; Becca Ganger Honda Pilot motion (late April 2026); MN AG April amended complaint economic figures ($240M wages / $600M business revenue); Sosa-Celis named as third shooting victim in MN/Hennepin/BCA lawsuit; Lyons House hearing exchange and same-day resignation confirmed.
+- [[ICE Agent Who Shot Dead Unarmed Mom Quietly Reassigned as FBI Probe Stalls]] — Daily Beast / PunchUp (Tom Latchem), Apr 28 2026. Exclusive based on senior DHS official sources. New material: "f---ing b---h" cellphone audio confirmed; 3-day admin leave confirmed; DOJ told Fox News ICE OPR was running parallel review — senior DHS officials say this is false (OPR structurally blocked until FBI closes case); "s--t or get off the pot" senior ICE official quote; White House directed Minnesota state investigator freeze-out.
+
+**New article page (1):**
+- [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] — published Apr 29 2026; two-governance-layer thesis; 15 immigration searches + 3,383 external hits; April 20 council resolutions don't touch Flock; companion teaser to the 3,000-arrests piece.
+
+**Entity updates (3):**
+- [[Jonathan Ross]] — sources 11→13; added 3-day admin leave, "f---ing b---h" audio, OPR freeze documentation, DOJ false Fox News claim
+- [[Operation Metro Surge]] — sources 41→43; added MN AG $240M/$600M economic figures from April amended complaint
+- [[Todd Lyons]] — sources 6→8; added full Lyons House hearing quote and resignation sequence from new sources
+
+**Draft produced:**
+- `workspace/drafts/3000-arrests-335-names-one-court-order-v6.md` — 11 changes from v5: subheadline and lede shifted to past tense (May 1 now passed); "f---ing b---h" audio added to The Glitch; Noem → "then-DHS Secretary" + replacement note; MN AG economic figures added to Upgrade; Upgrade May 1 future-tense sentence removed; My Debug gained DOJ OPR false claim paragraph + Lyons refusal/resignation paragraph; close reframed from future prediction to resolved binary. Word count ~1,890.
+
+**Wiki totals:** 625 sources / 243 entities / 149 concepts / 21 syntheses / 90 articles / 1,047 pages.

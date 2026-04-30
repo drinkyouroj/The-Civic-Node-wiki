@@ -2,12 +2,12 @@
 title: "Wiki Index"
 type: index
 updated: 2026-04-29
-total_pages: 1044
-total_sources: 623
+total_pages: 1047
+total_sources: 625
 total_entities: 243
 total_concepts: 149
 total_syntheses: 21
-total_articles: 89
+total_articles: 90
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -556,6 +556,8 @@ New concepts:
 Bulk ingest of ~80 raw sources accumulated across the Apr 7 substack-research sync and prior unprocessed clippings. Six parallel agents grouped by theme: NFL/Seahawks playoff arc, Minnesota ICE state-vs-federal litigation, crypto/Fed/Warsh, AI/Anthropic/DRAM/algorithms/antitrust, Trump foreign policy (Iran/Israel/Japan/Pope), DC politics + culture/tech misc. Plus 6 published TCN pieces. Many raw files were duplicates of already-ingested sources or consolidated into existing recap pages.
 
 #### Minnesota ICE — State vs Federal Litigation
+- [[Frozen Accountability How the Federal Government Handled and Buried the Killing of Renee Good]] — Legal Beagle / Jack Harding, Apr 28 2026; most comprehensive single-source account of the institutional accountability failure in the Good case; DHS directive framework, 3-day Ross admin leave, DOJ false Fox News OPR claim, Tracee Mergen/Kash Patel allegations, Becca Ganger Honda Pilot motion, MN AG $240M wages/$600M business revenue figures
+- [[ICE Agent Who Shot Dead Unarmed Mom Quietly Reassigned as FBI Probe Stalls]] — Daily Beast / PunchUp (Tom Latchem), Apr 28 2026; senior DHS officials confirm OPR accountability freeze; "f---ing b---h" cellphone audio; 3-day admin leave; DOJ-vs-DHS officials contradiction on OPR status; Todd Lyons refused to apologize, resigned hours later
 - [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]] — ProPublica, Mar 24 2026; State + Hennepin County federal lawsuit vs DHS/DOJ for evidence in three federal-officer shootings during Operation Metro Surge
 - [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — PBS NewsHour, Mar 24 2026; same lawsuit; PBS framing of state-federal evidence-access conflict
 - [[Minnesota Prosecutors Charge an ICE Agent With Assault]] — Notus, Apr 16 2026; Hennepin County charges ICE agent Gregory Donnell Morgan with two felony counts of second-degree assault — first proof-of-concept of state prosecution bypassing federal custody
@@ -1249,6 +1251,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Trump Is Covering Up the Minneapolis ICE Shooting (Just Like He's Covering Up Epstein)]] — Institutional gaslighting through evidence control and narrative flooding
 - [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
 - [[the-system-is-functioning-correctly]] — *The System Is Functioning Correctly* (Apr 25 2026); institutional gaslighting as architecture; Cigna PxDx + Epstein Act + Renée Good + Holder + Pennsylvania Grand Jury as the same machine
+- [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] — Apr 29 2026; APD's own open-records audit shows 15 immigration-tagged searches + 3,383 external agency hits against a declared welcoming city; two governance layers (policy vs. vendor contract) governed by different documents; April 20 council resolutions don't mention Flock; teaser for the 3,000-arrests piece
 
 ### Nonfiction Essays — Legal & Systems
 - [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026; first piece in the [[Reachability Routing]] series; civil liability routes to the reachable defendant (Destiny), not the person who caused the harm (Solo in Oxford); three structural fixes proposed; Doe v. Bonnell as live case study
@@ -1362,7 +1365,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 | Metric | Count |
 |---|---|
 | Total sources ingested | 623 |
-| Published articles tracked | 89 (78 standalone + 11 episodes) |
+| Published articles tracked | 90 (79 standalone + 11 episodes) |
 | Entity pages | 243 |
 | Concept pages | 149 |
 | Synthesis pages | 21 (5 audits + 13 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
