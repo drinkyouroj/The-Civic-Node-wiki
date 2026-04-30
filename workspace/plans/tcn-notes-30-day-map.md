@@ -116,6 +116,28 @@ These are drawn from the competitive landscape in the brand research. Engage wit
 
 ---
 
+## Posting Time Guidelines
+*Source: Analysis of 6.7M Substack Notes (The Writing Edge, Aug 2025)*
+
+**Post in these windows only:**
+- Weekdays (Mon–Fri): 3 PM – 10 PM ET
+- Weekend evenings (Sat–Sun): 8 PM – 11 PM ET
+- Bonus window any day: 12 AM – 1 AM ET
+
+**Never post:**
+- Tue–Thu 8 AM – 12 PM ET (highest volume, lowest engagement per note — your Note gets buried)
+
+**TCN audience caveat:** The brand research puts the core reader's deep-read window at 10 PM – midnight. For TCN specifically, the 8–11 PM ET window on any day is likely stronger than the data's average suggests. If you're going to post two Notes in a day, space them — one at 3–5 PM, one at 8–10 PM.
+
+**Word count targets:**
+- 32–64 words: add an image (screenshot of the primary source being cited works well)
+- 64–256 words: no image required, this is the TCN default range
+- 256–512 words: save for topics where the audience has deep existing investment (DePIN economics, Fed mechanics)
+
+**For TCN Notes specifically:** Primary Source Drops should include a screenshot of the document, filing, or chart being cited whenever possible. It does double duty — signals rigor and reduces the word count needed to make the point.
+
+---
+
 ## Tracking Setup (Before Day 1)
 
 Set up a simple tracking doc with these columns. Update it every Sunday.
