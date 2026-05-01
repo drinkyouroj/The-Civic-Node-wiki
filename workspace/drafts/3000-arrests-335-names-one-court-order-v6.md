@@ -13,6 +13,8 @@ The Department of Homeland Security says Operation Metro Surge made [more than 3
 
 On May 1, 2026, an order from federal Judge Jeffrey M. Bryan required DHS to hand over one ICE agent's [personnel file, body-cam footage, witness statements, medical records, and cell phone data](https://theintercept.com/2026/04/09/renee-good-killing-minneapolis-jonathan-ross-videos/). It's the first piece of the operation's original record any part of the federal government has put on the public record. This piece is an audit of what is on the record and what is missing from it. The deadline arrived yesterday.
 
+*Operation Metro Surge will be remembered as an immigration story. The more interesting question is what it reveals about accountability infrastructure: what happens when the system designed to investigate federal misconduct stops cooperating with itself. That question doesn't resolve when the policy changes. The machinery either works or it doesn't.*
+
 ---
 
 ## The Glitch: A Federal Judge Is Doing the Investigation Nobody Else Will
@@ -68,6 +70,10 @@ Acting ICE Director Todd Lyons, asked at a House subcommittee hearing whether he
 The institutional move that gives the rest of this away is the [April 2025 disabling of the DHS auto-archive](https://americanoversight.org/dhs-admits-it-provided-erroneous-information-on-texts-of-noem-and-dhs-brass-hasnt-confirmed-it-followed-law/). That was the same month the watchdog teams were ousted. It was the same month [Treasury Secretary Bessent and Secretary Noem signed the IRS-DHS data-sharing agreement](https://www.pbs.org/newshour/politics/data-of-thousands-of-taxpayers-wrongly-shared-with-dhs-court-filing-says) that has now been found to have wrongly disclosed thousands of taxpayer records. Three federal records actions, in one month, all in the same direction. Reading these as separate stories was always going to age poorly.
 
 The constitutional question underneath all of this is broader than immigration. If a state cannot hold a federal agent accountable for what he did on duty, and the federal government refuses to investigate, nobody is in charge. That gap exists in American law right now. Today the policy filling that gap is immigration. The structural gap predates this operation and will outlast it. By the time you read this, May 1 has passed. DHS either produced Jonathan Ross's records to a federal magistrate for in camera review (the first primary document the operation has yielded, even if it enters under seal) or it refused a federal court order, which is a different and larger confrontation. The documentation already exists either way. Mary Moriarty filed [the first state assault charges against a federal ICE agent](https://www.propublica.org/article/minnesota-trump-ice-shooting-lawsuit-alex-pretti-renee-good) in the modern history of the United States. Who files the second?
+
+---
+
+*Next issue: The federal government didn't hide the evidence in this story. It produced enough competing claims that determining what was true became too expensive to bother. That's not a scandal. It's a mechanism. It runs at every scale, from your health insurance appeals to the evidence room of the DOJ. Next issue names it.*
 
 ---
 
