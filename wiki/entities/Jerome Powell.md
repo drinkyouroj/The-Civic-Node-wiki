@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 19
+updated: 2026-05-01
+sources: 25
 ---
 
 ## Overview
@@ -67,9 +67,33 @@ This is the version of the Powell-skeptic case that survives outside MAGA media.
 - [[Fed approves quarter-point rate cut September 2025 CNBC]] — Powell frames September cut as "risk management"; defends independence amid Miran dissent and Cook court battle
 - [[Government shutdown delays jobs report NBC News October 2025]] — Powell forced to make October rate decision without September jobs data due to BLS shutdown
 
+## DOJ Criminal Probe of Powell (resolved 2026-04-24)
+
+The most aggressive legal attack on a sitting Fed Chair in modern history: DOJ opened a criminal probe (Jan 2026) examining whether Powell made false statements to Congress about Eccles Building renovation costs (18 U.S.C. § 1001, max 5 years). The probe operated simultaneously with [[Kevin Warsh]]'s nomination.
+
+**Timeline:**
+- March 13, 2026: Chief Judge [[James Boasberg]] (D.D.C.) quashed DOJ grand jury subpoenas; 27-page opinion: "no evidence whatsoever that Powell committed any crime other than displeasing the President"; "dominant purpose is to harass and pressure Powell either to yield to the President or to resign"
+- April 3, 2026: Boasberg denied DOJ reconsideration motion; "do not come close to convincing the Court"
+- April 24, 2026: DOJ (U.S. Attorney [[Jeanine Pirro]]) dropped the criminal probe, redirected to Fed's Inspector General; Pirro reserved the right to restart "should the facts warrant"
+- April 26, 2026: Sen. [[Thom Tillis]] lifted his Warsh confirmation block, stating DOJ had confirmed the probe was "completely and fully ended"
+
+**Significance:** The probe was not dropped because it was meritless — Boasberg had already ruled it meritless six weeks earlier. It was dropped because [[Thom Tillis]] made his confirmation vote conditional on its closure. The mechanism is now fully documented from primary sources. The Fed IG will continue reviewing the renovation; the reopen condition is an IG criminal referral (the same IG that found no criminal conduct in a 2021 audit of the same project).
+
+- [[Boasberg Ruling Powell — Democracy Docket - 2026-03-13]] — core quashing opinion; "no evidence whatsoever"
+- [[Boasberg Ruling Powell — Al Jazeera - 2026-04-03]] — reconsideration denial
+- [[DOJ IG Referral Powell — JURIST - 2026-04-25]] — probe closure + IG referral mechanics
+- [[DOJ IG Referral Powell — Mechanism Background - 2026-04-27]] — DOJ→IG procedural framework; why the 2021 Fed IG audit forecloses the reopen path
+
+## Source Appearances (additions — 2026-05-01 ingest)
+- [[Boasberg Ruling Powell — Democracy Docket - 2026-03-13]] — subpoenas quashed; "dominant purpose is harassment"
+- [[Boasberg Ruling Powell — Al Jazeera - 2026-04-03]] — reconsideration denied; appeal posture
+- [[DOJ IG Referral Powell — JURIST - 2026-04-25]] — probe closure; IG referral mechanics
+- [[Tillis Backs Warsh as Powell Probe Ends — USA Today]] — the political pivot that resolved the confirmation block (prior source, confirmed by 2026-05-01 ingest)
+- [[Independent Inside of Government]] — published nonfiction: Powell appears as the probe's target and the FOMC chair meeting in the same building at 2pm while Senate ratifies his replacement at 10am
+
 ## Open Questions
 
-- Will Trump attempt to fire Powell before May 2026, and would courts block it?
-- Who will Trump nominate as successor — Warsh, Waller, or someone further from consensus?
-- Can Powell preserve the Fed's credibility on inflation if tariff effects persist past 2025?
-- Will Powell stay on the board after his chair term ends, or exit entirely?
+- Will Powell remain on the Board of Governors after his chair term expires May 15, 2026?
+- How does the unresolved Cook firing SCOTUS case interact with Powell's remaining board term?
+- Will the Fed IG ever issue the criminal referral that would reopen the probe — or does the 2021 audit precedent foreclose it permanently?
+- With Warsh confirmed, does Powell chair the May FOMC or transition immediately?

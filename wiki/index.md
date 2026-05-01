@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-04-29
-total_pages: 1047
-total_sources: 625
-total_entities: 243
-total_concepts: 149
-total_syntheses: 21
-total_articles: 90
+updated: 2026-05-01
+total_pages: 1073
+total_sources: 645
+total_entities: 245
+total_concepts: 150
+total_syntheses: 26
+total_articles: 92
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -23,6 +23,36 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-01 Ingest (batch 4) — Warsh Capture Arc, Boasberg Rulings, Renée Good Accountability Update
+
+**Warsh Confirmation cluster (8 sources)**:
+- [[Warsh Confirmation Hearing — Reuters via The Standard - 2026-04-20]] — Reuters/The Standard, Apr 20 2026; pre-hearing profile; financial disclosures ($135-226M disclosed, >$100M undisclosed); Warsh background as governor + Morgan Stanley board
+- [[Warsh Confirmation Hearing — Senate Banking Minority (Warren) - 2026-04-21]] — Senate Banking Committee minority analysis; Warren's "uniquely ill-suited" argument; conflict-of-interest accounting; policy objections
+- [[Warsh Confirmation Hearing — Composite Coverage CNBC CNN Deseret Fortune - 2026-04-21]] — composite coverage of Apr 21 hearing; "strictly independent" testimony; narrowed independence concept; Tillis floor statement; Warren response
+- [[Warsh on Powell Probe — Yahoo Finance Live Hearing - 2026-04-21]] — Yahoo Finance live hearing coverage; Warsh's complete silence on Powell probe; Tillis "bogus investigation" framing; rate-policy questions
+- [[Warsh on Powell Probe — DOJ Closure Reuters - 2026-04-24]] — Reuters Apr 24; DOJ formally drops Powell probe; redirected to Fed IG; Pirro "pause not abandonment" statement; Warsh path clears
+- [[Warsh Whip Count — Tillis Ends Block - CNBC - 2026-04-26]] — CNBC Apr 26; Tillis lifts block; "DOJ as weapon" statement; direct assurances claimed; committee vote path
+- [[Warsh Whip Count — Common Dreams - 2026-04-25]] — Common Dreams Apr 25; progressive perspective; structural critique of capture mechanism; coordination thesis
+- [[Warsh Whip Count — NOTUS - 2026-04-26]] — NOTUS Apr 26; Tillis reversal exact statement; IG-track condition for reopening; committee math confirmed
+
+**Bessent-Miran-Warsh Coordination cluster (6 sources)**:
+- [[Bessent Miran Warsh Coordination — Capital Flows Research - 2026-04-23]] — Capital Flows Research Apr 23; "FX endgame" analyst interpretation; dollar management coordination claim; Bessent-Warsh-Rubio triad
+- [[Bessent Miran Warsh Coordination — Bloomberg - 2026-04-22]] — Bloomberg Apr 22; "statecraft" dollar agenda; Bessent as architect, Warsh as executor; first mainstream financial press coordination headline
+- [[Bessent Miran Warsh Coordination — TradingKey - 2026-02-09]] — TradingKey Feb 9; Bessent-Warsh balance sheet alignment; 1951 Accord rollback framing; analyst community reactions
+- [[Bessent Miran Warsh Coordination — Jin Low Substack - 2026-02-24]] — Jin Low Substack Feb 24; debt-issuance coordination mechanism; proposed new Treasury-Fed accord details; Krishna Guha (Evercore ISI) "veto power" characterization
+- [[Bessent Miran Warsh Coordination — Miran Resigns CEA - CNBC - 2026-02-03]] — CNBC Feb 3; Miran resigns CEA chair; unpaid-leave structure documented; five consecutive FOMC dissent record
+- [[Bessent Miran Warsh Coordination — AP via ADN - 2026-04-25]] — AP via ADN Apr 25; "political cover" reading of Bessent Apr 25 comment; Faust critique of Warsh credibility deficit; Wall Street cuts timeline
+
+**Boasberg + DOJ IG cluster (4 sources)**:
+- [[Boasberg Ruling Powell — Democracy Docket - 2026-03-13]] — Democracy Docket Mar 13; 27-page ruling quashing DOJ grand jury subpoenas; "harassment and pressure" dominant-purpose finding; "no evidence whatsoever of fraud"; full Boasberg quote set
+- [[Boasberg Ruling Powell — Al Jazeera - 2026-04-03]] — Al Jazeera Apr 3; reconsideration denial (6-page opinion); Tillis "legal principles only" appeal framing; DOJ continued appeal posture
+- [[DOJ IG Referral Powell — JURIST - 2026-04-25]] — JURIST Apr 25; probe closure statement; Pirro "pause not abandonment" language; Fed IG referral mechanism; legal status of IG track
+- [[DOJ IG Referral Powell — Mechanism Background - 2026-04-27]] — mechanism background piece; Fed IG structure and limitations; why IG referral is a structural downgrade from criminal probe; accountability gap analysis
+
+**Renée Good accountability update (2 sources)**:
+- [[Frozen Accountability — Renée Good Investigative Report - 2026-04-28]] — Legal Beagle/Jack Harding Apr 28; most comprehensive single-source account of the institutional accountability failure; DHS directive framework, 3-day Ross admin leave, DOJ false Fox News OPR claim, Tracee Mergen/Kash Patel allegations, Becca Ganger Honda Pilot motion, MN AG $240M wages/$600M business revenue figures
+- [[ICE Agent Jonathan Ross Reassigned — Daily Beast PunchUp - 2026-04-28]] — Daily Beast/PunchUp Apr 28; senior DHS officials confirm OPR accountability freeze; "f---ing b---h" cellphone audio; 3-day admin leave; DOJ-vs-DHS officials contradiction on OPR status; Todd Lyons resigned hours after being asked to apologize
 
 ### 2026-04-27 Ingest (batch 3) — WHCD conspiracy thread, CA AB 2624, Space Force 2040
 
@@ -869,7 +899,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Arthur Burns]] — Fed Chair 1970–1978; capitulated to Nixon pressure on inflation; the cautionary archetype Powell is trying not to be
 - [[Paul Volcker]] — Fed Chair 1979–1987; defeated Great Inflation through brutal rate hikes; archetype of central bank independence under political pressure
 - [[William McChesney Martin]] — Fed Chair 1951–1970; longest-serving in history; defied LBJ's Johnson Ranch pressure; the actual benchmark for Fed independence
-- [[Kevin Warsh]] — Former Fed Governor; potential Trump replacement for Powell; more rate-cut-friendly; market-friendly profile
+- [[Kevin Warsh]] — Former Fed Governor (2006-2011); confirmed as Fed Chair April 2026; "independent inside of government, not independent of government" semantic capture; hawk-to-dove pivot; 32 sources
 - [[Merrick Garland]] — AG 2021–2025 under Biden; subject of CNN's "lost year" retrospective; froze Trump investigations before 2022 midterms; 2.5-year delay to Jan 6 indictment; cross-partisan anchor for institutional-gaslighting thesis
 - [[Eric Holder]] — AG 2009–2015 under Obama; March 2013 Senate Judiciary testimony articulating "too big to jail" reasoning; zero senior Wall Street prosecutions during tenure; foundational cross-partisan anchor for institutional gaslighting
 - [[Thomas Massie]] — Rep. R-KY; chief Republican sponsor of the Epstein Files Transparency Act; publicly stated "DOJ did break the law by making illegal redactions and by missing the deadline"; cross-partisan smoking gun for Epstein non-release
@@ -909,7 +939,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[John Perry Barlow]] — Grateful Dead lyricist; EFF co-founder; "A Declaration of the Independence of Cyberspace" author
 - [[Phil Lesh]] — Grateful Dead bassist and founding member (1940-2024); contrapuntal bass innovator
 - [[Roger Goodell]] — NFL Commissioner since 2006; oversees global expansion and entertainment partnerships
-- [[Thom Tillis]] — U.S. Senator (R-NC); Judiciary Committee ranking member; Fed confirmation politics
+- [[Thom Tillis]] — U.S. Senator (R-NC); Senate Banking Committee; held Warsh confirmation until DOJ dropped Powell probe; extracted quid pro quo; decisive 13-11 committee vote Apr 29 2026
+- [[James Boasberg]] — Chief Judge, U.S. District Court for D.C.; twice quashed DOJ grand jury subpoenas for Powell (Mar 13 + Apr 3 2026); "no evidence whatsoever of fraud" ruling; the judicial counterweight to DOJ-as-political-weapon
+- [[Jeanine Pirro]] — U.S. Attorney for D.C.; authorized Powell grand jury subpoenas; called Boasberg "activist judge"; announced probe closure Apr 24 with "pause not abandonment" language; former Fox News host
 
 - [[Alan Greenspan]] — Fed Chair 1987-2006; preceded Bernanke; Warsh served under him
 - [[Ben Bernanke]] — Fed Chair 2006-2014; managed 2008 financial crisis; preceded Yellen
@@ -929,7 +961,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[French Hill]] — House Financial Services Committee Chair (R-AR); CLARITY Act architect; 294-134 passage
 - [[David Sacks]] — "AI and Crypto Czar"; chairs President's Working Group on Digital Asset Markets; PayPal Mafia background
 - [[Jack Clark]] — Anthropic co-founder; Import AI newsletter author; "appropriate fear" vs. techno-optimism framing
-- [[Stephen Miran]] — Trump CEA chair; Fed governor (Sept 2025); dissented for 50 bps cut at first FOMC meeting; "unpaid leave" arrangement
+- [[Stephen Miran]] — Trump CEA chair (resigned Feb 2026); Fed Governor (Sept 2025–present); five consecutive FOMC dissents; unpaid-leave institutional bridge; Bessent-Miran-Warsh coordination cluster
 - [[Lisa Cook]] — Fed governor Trump tried to fire; appeals court blocked the removal; central case in for-cause removal limits
 - [[Mikie Sherrill]] — Democratic NJ governor-elect Nov 4 2025; part of the 2025 elections sweep alongside Spanberger and Mamdani
 - [[Clay Fuller]] — GA-14 Trump-endorsed special election winner Apr 7 2026; replaces MTG; House GOP majority becomes 218-214
@@ -967,7 +999,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Mary Moriarty]] — Hennepin County Attorney; first-ever criminal cases against ICE surge officers; leaves office end-of-year
 - [[Todd Lyons]] — Acting ICE director; resigned effective May 31 2026; departure timed to first surge-officer criminal charge
 - [[Rick Crawford]] — U.S. Representative (R-AR); House Intelligence Committee chair
-- [[Scott Bessent]] — U.S. Secretary of the Treasury; fiscal policy, sanctions, stablecoin regulation oversight
+- [[Scott Bessent]] — U.S. Secretary of the Treasury; fiscal policy, stablecoin regulation; Bessent-Warsh balance-sheet coordination; Bloomberg "statecraft" dollar agenda; IRS-DHS data sharing co-signatory (with Noem)
 - [[Tim Kaine]] — U.S. Senator from Virginia (D); shutdown negotiation coverage
 - [[Tom Brady]] — Retired NFL QB; seven-time Super Bowl champion; NFL Dynasty reference point
 
@@ -1086,6 +1118,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Supremacy Clause Immunity]] — *In re Neagle* doctrine and its "defensive immunity" expansion; four historical exceptions to state prosecution of federal agents; pardon firewall for state convictions; Doe v. Bonnell / Destiny case as civil analog
 - [[International Humanitarian Law]] — Geneva framework regulating armed conflict; the legal standard against which Iran-war infrastructure targeting is being evaluated
 - [[Institutional Capture]] — Slow-motion failure mode where regulators come to serve the regulated; baseline against which dramatic interventions are measured
+- [[Respectability Capture]] — Variant of institutional capture that works *because* it appears as compliance; Warsh confirmation arc as paradigm case; semantic narrowing of independence concept; hawk credentials providing dove cover
 - [[AI Liability]] — Emerging legal theories for holding AI companies/employees civilly or criminally liable for model outputs that contribute to real-world harm; Florida criminal investigation of OpenAI as first test case
 
 - [[ICE Public Opinion Shift]] — Rapid deterioration of ICE favorability during Operation Metro Surge; four major polls; video effect on opinion; "Abolish ICE" messaging
@@ -1276,6 +1309,8 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[The Bluff Is Over. The Price Isn't.]] — Nonfiction, Apr 12 2026; five independent forces (Jevons Paradox, helium/Hormuz, Samsung labor revolt, irrevocable data-center contracts, China fab timeline) holding DDR5 at $400; concentration as the common thread; May 21 and June 2026 as ticking clocks
 
 ### Nonfiction Essays — Monetary Policy & Economy
+- [[Independent Inside of Government]] — Apr 27 2026; Warsh confirmation as "respectability capture" — institutional capture that works because it looks like compliance; traces complete mechanism: DOJ probe → Boasberg rulings → probe closure → Tillis flip → committee vote (Apr 29, 10am) → FOMC same day (2pm); "independent inside of government, not independent of government" as the semantic mechanism
+- [[Cheaper AI Won't Use Less of Anything]] — Apr 22 2026; Jevons Paradox (1865 coal/steam efficiency → more consumption) explains why Google's memory breakthrough crashed chip stocks then made them rally; cheaper AI scales appetite for compute/energy/chips/labor, not reduces it
 - [[The Fed Is Trapped]] — Powell's dual-mandate admission; 80% QT reduction hidden beneath hawkish rhetoric
 - [[The Fed's Independence Theater]] — 14-point evidentiary listicle documenting political capture; CME FedWatch 99.6% certainty; Burns/Nixon parallel
 - [[The Central Bank Crack]] — July 30 FOMC vote; first governor-level dissent in 32 years; transparency paradox
@@ -1337,6 +1372,12 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[NFL Cluster Audit — 2026-04-07 (Sports Nut)]] — Super Bowl LX unsourced, "zero holdovers" contradiction, Macdonald "25→2 in one season" wrong, 3-Buzz misdescribed, coaching-tree "control group" caveat
 
 ### Insight Sweeps
+- [[insight-sweep-2026-05-01]] — Master briefing; 3-agent sweep; 7 patterns, 7 contradictions, 7 underexplored angles; top 5 hooks filed; dominant theme: institutional capture via mechanisms institutions can't name without indicting themselves
+- [[insight-metro-surge-price-tag-2026-05-01]] — $203M primary government data; fiscal argument for Operation Metro Surge that has never been a published piece's anchor
+- [[insight-endogenous-threat-loop-2026-05-01]] — Cross-domain pattern: Fed tariffs, immigration oversight dismantling, Iran ceasefire theater, KOSA child-safety framing as variants of manufactured-emergency governance
+- [[insight-blanche-false-statement-2026-05-01]] — Todd Blanche's "we never do this" claim directly falsified by the 2020 Floyd federal investigation in the same city; airtight contradiction with primary sources
+- [[insight-hormuz-monetary-policy-2026-05-01]] — Iran controls more US monetary policy than the FOMC does; Strait closure as rate decision the Fed can't counteract; Warsh inherits this on day one
+- [[insight-private-vendor-workaround-2026-05-01]] — Flock + CISA + age verification + BetterHelp as structural variants of one constitutional bypass: "every protected right now has a vendor"
 - [[Insight Sweep — 2026-04-23]] — Master briefing; 3-agent sweep; 7 patterns, 7 contradictions, 7 underexplored angles; top 5 hooks filed
 - [[No Ceasefire in Hormuz — The Four-Step Escalation Ladder]] — Apr 13 blockade → Apr 19 Touska → Apr 22 IRGC 3-ship → Apr 23 shoot-on-sight ROE; "ceasefire" is doing active concealment
 - [[Democrats as Architects of the Anti-LGBTQ+ Censorship Stack]] — Blumenthal/Durbin/Klobuchar/Schumer co-authoring the legal architecture Heritage explicitly designed as anti-LGBTQ+ infrastructure
@@ -1364,12 +1405,39 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 623 |
-| Published articles tracked | 90 (79 standalone + 11 episodes) |
-| Entity pages | 243 |
-| Concept pages | 149 |
-| Synthesis pages | 21 (5 audits + 13 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-04-29 |
+| Total sources ingested | 645 |
+| Published articles tracked | 92 (81 standalone + 11 episodes) |
+| Entity pages | 245 |
+| Concept pages | 150 |
+| Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
+| Last updated | 2026-05-01 |
+
+### 2026-05-01 New Pages (batch 4)
+
+**Sources (20)**:
+- *Warsh cluster (8)*: confirmation hearing (3 sources), Powell probe (2 sources), whip count (3 sources)
+- *Coordination cluster (6)*: Bessent-Miran-Warsh Bloomberg/Capital Flows/TradingKey/Jin Low/Miran CEA/AP
+- *Boasberg + DOJ IG (4)*: Mar 13 ruling, Apr 3 reconsideration denial, JURIST probe closure, mechanism background
+- *Renée Good update (2)*: Frozen Accountability, ICE Agent Reassigned
+
+**Entity pages (2 new)**:
+- [[James Boasberg]] — Chief Judge D.D.C.; quashed Powell subpoenas twice
+- [[Jeanine Pirro]] — U.S. Attorney for D.C.; issued Powell subpoenas; "pause not abandonment"
+
+**Article pages (2 new)**:
+- [[Independent Inside of Government]] — Apr 27 2026 nonfiction
+- [[Cheaper AI Won't Use Less of Anything]] — Apr 22 2026 nonfiction
+
+**Concept pages (1 new)**:
+- [[Respectability Capture]] — institutional capture that works because it looks like compliance
+
+**Entity pages updated**:
+- [[Kevin Warsh]] — sources: 22→32; Senate confirmation documented; "respectability capture" framing
+- [[Jerome Powell]] — sources: 19→26; DOJ probe arc fully documented
+- [[Stephen Miran]] — sources: 7→12; five consecutive FOMC dissents; CEA resignation documented
+- [[Scott Bessent]] — sources: 3→9; coordination role documented; "statecraft" Bloomberg frame
+- [[Thom Tillis]] — sources: 2→8; confirmation leverage play fully documented
+- [[Killing of Renée Good]] — sources: 29→31
 
 ### 2026-04-27 New Pages
 

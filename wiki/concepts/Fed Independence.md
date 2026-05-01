@@ -3,8 +3,8 @@ title: "Fed Independence"
 type: concept
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
-updated: 2026-04-21
-sources: 18
+updated: 2026-05-01
+sources: 28
 ---
 
 ## Definition
@@ -96,6 +96,46 @@ The Federal Reserve Act gives Fed governors "for cause" removal protection, but 
 - [[Petrodollar System]] — the macroeconomic environment the Fed manages
 - [[Tariff-Driven Inflation]] — the policy mechanism that defines the 2025 expectations channel
 
+## The 2026 Flashpoint: Warsh Confirmation and "Respectability Capture"
+
+The Warsh confirmation arc (January–April 2026) is the most significant Fed independence event since Trump II began — not because the Fed was legally overridden, but because the mechanism of capture evolved to become invisible from the outside.
+
+### The Mechanism: DOJ as Leverage
+
+The complete sequence:
+1. **DOJ opens criminal probe of Powell** — focused on Fed HQ renovation costs and Powell's Congressional testimony. [[Jeanine Pirro]], U.S. Attorney for D.C., issues grand jury subpoenas to the Federal Reserve.
+2. **March 13, 2026 — [[James Boasberg]] quashes subpoenas** — 27-page opinion: "There is abundant evidence that the subpoenas' dominant (if not sole) purpose is to harass and pressure Powell either to yield to the President or to resign." Core finding: "The Government's fundamental problem is that it has presented no evidence whatsoever of fraud."
+3. **April 3, 2026 — Boasberg denies reconsideration** — Six-page opinion: "The Government's arguments do not come close to convincing the Court that a different outcome is warranted."
+4. **April 21, 2026 — Warsh confirmation hearing** — [[Thom Tillis]], ranking member on Senate Banking, used his entire floor time to demand DOJ end the probe: "Let's get rid of this investigation so I can support your confirmation." Yielded back without asking Warsh a single substantive question.
+5. **April 24, 2026 — DOJ formally drops probe** — redirected to the Fed IG. Pirro's statement: closure "should the facts warrant" restart — treating it as a pause, not abandonment.
+6. **April 26, 2026 — Tillis lifts block** — told NBC News he needed to feel DOJ "was not using DOJ as a weapon to threaten the independence of the Fed." His statement names the exact mechanism he was waiting to have removed.
+7. **April 29, 2026 — Senate Banking Committee votes 13-11 along party lines**, advancing Warsh. FOMC rate decision followed at 2pm the same day.
+
+The probe was not dropped because it was meritless — Boasberg had said that on March 13. It was dropped to unlock Tillis's vote. Tillis's statement is simultaneously a defense of Fed independence and a confession of how the threat mechanism worked.
+
+### "Respectability Capture": The Invisible Version
+
+The Warsh case introduces a new concept the wiki needs to track: capture that works *because* it looks like compliance. Key features:
+
+- **The semantic move**: Warsh committed to "strictly independent" monetary policy but defined Fed independence narrowly — excluding bank regulation, balance-sheet decisions, and international finance from the independence concept. This creates intellectual architecture that lets a Warsh-chaired Fed accommodate Trump on fiscal coordination while claiming independence is intact.
+- **"Independent inside of government, not independent of government"**: Warsh's framing from the April 21 hearing — the phrase that draws the perimeter around what independence protects and what it doesn't.
+- **The hawk-to-dove pivot as credential**: Historical hawkishness (opposed near-zero rates 2010–2014; dissented from QE) provides the market credibility that makes his later accommodation politically viable. A dove without a hawkish history would lose bond market credibility; Warsh's history gives him the cover.
+- **The "family fight" model**: Warsh's stated communication philosophy — closed-door disagreement, public unity with the executive. The exact posture that makes capture invisible from outside the FOMC.
+
+### Bessent-Miran-Warsh Coordination Thesis
+
+The Bloomberg and analyst-community reading of the Warsh appointment situates it inside a larger Treasury-led monetary regime shift:
+- [[Scott Bessent]] and Warsh publicly aligned on balance-sheet policy: both argued post-2008 QE violated the spirit of the [[1951 Treasury-Fed Accord]]; Warsh's proposed "new accord" would link Fed balance-sheet size to Treasury debt-issuance plans — effectively granting Treasury veto power over quantitative tightening.
+- [[Stephen Miran]] served simultaneously as CEA chair and Fed Governor September 2025–February 2026 — a documented structural bridge between the White House and FOMC deliberations.
+- Bloomberg (April 22, 2026) placed Warsh inside a Bessent-led "statecraft" dollar agenda co-developed with Secretary of State Marco Rubio — the first mainstream financial press headline to describe coordination in those terms.
+- Miran dissented at every FOMC meeting he attended (five consecutive). Warsh's chairmanship replaces the visible dissent mechanism with a chair who may simply set the agenda.
+
+### Boasberg as Counterweight (Incomplete)
+
+Boasberg's rulings document the mechanism of abuse with unusual directness: "no evidence whatsoever that Powell committed any crime other than displeasing the President" is a line that strips prosecutorial neutrality from the probe without hedging. But the judicial counterweight did not stop the outcome — it established the evidentiary record that makes the April 24 closure legible as politically rather than legally driven. The probe served its purpose (pressure and delay) before Boasberg could stop it.
+
+Open doctrinal question: the D.C. Circuit appeal on whether a district court can quash a grand jury subpoena based on dominant-purpose-is-harassment remains unresolved. The doctrine extends far beyond Powell.
+
 ## Key Sources
 
 - [[Trump and Powell bicker — AP]]
@@ -109,3 +149,11 @@ The Federal Reserve Act gives Fed governors "for cause" removal protection, but 
 - [[Government shutdown could delay economic reports NPR October 2025]]
 - [[US Fed Funds Rate CME FedWatch April 2026]]
 - [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]] — Warsh confirmation hearing testimony (April 21, 2026); committed to "strictly independent" monetary policy while narrowing the independence concept to exclude regulation, bank supervision, and international finance. Trump declined off-ramp on DOJ Powell investigation same morning.
+- [[Boasberg Ruling Powell — Democracy Docket - 2026-03-13]] — 27-page ruling quashing DOJ grand jury subpoenas; "harassment and pressure" dominant-purpose finding; full quote set
+- [[Boasberg Ruling Powell — Al Jazeera - 2026-04-03]] — reconsideration denial; Tillis "legal principles only" framing; appeal posture
+- [[DOJ IG Referral Powell — JURIST - 2026-04-25]] — probe closure statement; "pause not abandonment" Pirro language; IG referral mechanism
+- [[DOJ IG Referral Powell — Mechanism Background - 2026-04-27]] — Fed IG structure and limitations; why referral is a downgrade from criminal probe
+- [[Warsh Whip Count — Tillis Ends Block - CNBC - 2026-04-26]] — Tillis lifts block; "DOJ as weapon" statement; direct assurances claimed
+- [[Warsh Whip Count — NOTUS - 2026-04-26]] — Tillis reversal statement; IG-track condition for reopening
+- [[Bessent Miran Warsh Coordination — Bloomberg - 2026-04-22]] — Bloomberg "statecraft" dollar agenda; Bessent as architect, Warsh as executor
+- [[Bessent Miran Warsh Coordination — Capital Flows Research - 2026-04-23]] — coordination claim in analyst framing; "FX endgame" interpretation

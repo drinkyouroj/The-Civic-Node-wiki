@@ -4,8 +4,8 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, police-violence, minnesota]
 created: 2026-04-07
-updated: 2026-04-25
-sources: 29
+updated: 2026-05-01
+sources: 31
 ---
 
 ## Overview
@@ -58,6 +58,8 @@ This is a defining civil liberties event: a U.S. citizen killed by federal agent
 - [[Minnesota sues to obtain evidence in shootings by federal officers during ICE surge]] — PBS NewsHour; documents DOJ's declination to open a civil rights investigation in Good's case while opening one in Pretti's — a "departure from past administrations' standard procedure"
 - [[When the Federal Government Blocks State Murder Investigations]] — GovFacts; Good case as central example of "defensive immunity"; Good family's retention of Romanucci & Blandin (George Floyd family firm)
 - [[When Can States Prosecute Federal Agents]] — legal analysis placing Good case within *In re Neagle* framework
+- [[Frozen Accountability — Renée Good Investigative Report - 2026-04-28]] — 62-endnote comprehensive investigative account (Legal Beagle); documents the complete accountability freeze mechanism: OPR blocked until FBI closes, FBI hasn't closed, Ross on active duty; mass prosecutor resignations; "investigate the widow" directive; Kash Patel whistleblower accounts; Minnesota litigation timeline
+- [[ICE Agent Jonathan Ross Reassigned — Daily Beast PunchUp - 2026-04-28]] — PunchUp investigation: Ross relocated to another state, on active duty; DOJ misrepresented OPR status to Fox News; "f---ing b---h" cellphone audio; ICE internal frustration at FBI limbo
 - [[Justice department not investigating Renee Good killing in contrast to 2020 inquiry on George Floyd death]] — The Guardian; Deputy AG Blanche's "we are not investigating" Fox News quote; Floyd/Good asymmetry; Bondi Jan 8 protester-warning statement (no mention of Good's death); Harmeet Dhillon shared Trump's false "ran over" claim on X; Blanche/Patel pressure visit to Minneapolis; DOJ investigation of Becca Good
 - [[Why some cities are canceling Flock license plate reader contracts]] — NPR Feb 2026; Santa Cruz council member Susie O'Hara cited Good's January 7 killing as the tipping point for Santa Cruz canceling its [[Flock Safety]] contract; Santa Cruz voted to end contract January 13 — six days after Good's death; quote: "It was totally clear to me that we should in no way consciously be in this system at all."
 
