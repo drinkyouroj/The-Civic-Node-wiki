@@ -24,6 +24,13 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 ## Sources
 
+### 2026-05-01 Ingest (batch 5) — Metro Surge accountability update (Mullin policy + Brasel injunction)
+
+**Metro Surge accountability update (2 sources, 1 entity)**:
+- [[Mullin DHS Policy Changes — CNN - 2026-04-02]] — CNN Apr 2 2026; new DHS Secretary Markwayne Mullin's stated policy reversals: judicial-warrant requirement, ICE as "transport more than the front line," contract and warehouse-project review; some GOP lawmakers want him to do more
+- [[Brasel Preliminary Injunction Whipple Federal Building — Democracy Forward - 2026-03-26]] — Democracy Forward Mar 26 2026; Judge Nancy E. Brasel finds ICE engaged in "pattern and practice" of denying counsel access at Bishop Henry Whipple Federal Building; orders 1-hour attorney access and 72-hour transfer restriction; pretrial conference May 18 2026
+- [[Markwayne Mullin]] — new entity page; 9th DHS Secretary; replaced Noem mid-Metro-Surge
+
 ### 2026-05-01 Ingest (batch 4) — Warsh Capture Arc, Boasberg Rulings, Renée Good Accountability Update
 
 **Warsh Confirmation cluster (8 sources)**:
