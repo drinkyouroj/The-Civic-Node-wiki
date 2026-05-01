@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics, fed, fed-independence]
 created: 2026-04-07
-updated: 2026-04-21
-sources: 22
+updated: 2026-05-01
+sources: 36
 ---
 
 ## Overview
@@ -70,13 +70,20 @@ American lawyer, former Federal Reserve Governor (2006–2011), currently a Visi
 - Not a return to pre-1951 Accord era but a more coordinated (though not subordinate) relationship
 - Could smooth balance sheet runoff while minimizing disruptions to mortgage markets
 
-### Senate Confirmation Status
+### Senate Confirmation Status (updated 2026-05-01)
+
 - **Confirmation hearing held April 21, 2026**: Warsh testified before the Senate Banking Committee. Opening statement: "I am committed to ensuring that the conduct of monetary policy remains strictly independent." Distinguished monetary policy independence (paramount) from the Fed's broader regulatory functions (less independent) — implicitly attacking recent "mission creep." [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]]
 - **Key hedge**: Stated that elected officials expressing views on rates policy does not threaten operational independence — a position that normalizes Trump's public pressure while nominally defending autonomy.
 - **"Narrow mandate" framing**: Independence "does not extend to the full range of its congressionally mandated functions" including stewardship of public money, bank regulation, and international finance. This is the intellectual architecture that would allow a Warsh-chaired Fed to accommodate Trump on regulation and fiscal coordination while claiming the independence norm is intact.
-- **Blocking hold**: Senator [[Thom Tillis]] (R-NC) continues to block. Same morning as the hearing, Trump appeared on CNBC and refused to wind down the DOJ investigation of Powell, joking "Kevin will have to have an office next to me in the White House, because that building's not going to be done." ([[CFR — Kevin Warsh Won't Revolutionize the Fed]], [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]])
-- **Democratic opposition**: Senate Democrats appear united against. Senator [[Elizabeth Warren]] (D-MA) called Warsh "uniquely ill-suited" for the chairmanship, citing Wall Street ties. [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]]
-- **Powell serving pro tempore**: Powell's term expired May 15; he stated he will continue serving as chairman pro tempore if his successor is not confirmed.
+- **Key phrase from hearing**: "independent inside of government, not independent of government" — Warsh's formulation that redefines rather than rejects independence. Senate Banking Committee did not ask him to choose between the two framings.
+- **Tillis quid pro quo resolved**: Sen. [[Thom Tillis]] (R-NC) lifted his hold on April 26 after DOJ dropped its criminal probe of Powell on April 24. Tillis: "I needed to feel like they were not using DOJ as a weapon to threaten the independence of the Fed." The probe was not dropped because it was meritless — Judge Boasberg had already ruled it meritless six weeks earlier (March 13). It was dropped because it served its purpose.
+- **Senate Banking Committee vote**: Scheduled April 29, 10am ET — same day as the FOMC rate decision (2pm). Both events occur in the same building complex.
+- **Committee math (corrected)**: 13 R, 11 D on Senate Banking; with Tillis confirmed, Warsh advances on party-line basis.
+- **Democratic opposition**: All Democrats expected to vote no. Senator [[Elizabeth Warren]] (D-MA) called Warsh "uniquely ill-suited," a "sock puppet," and the DOJ probe closure "an attempt to clear the path for Senate Republicans to install President Trump's sock puppet." [[Warsh Confirmation Hearing — Senate Banking Minority (Warren) - 2026-04-21]]
+- **Financial disclosure gaps**: Warsh disclosed $135–226M in assets but refused to detail >$100M in holdings, citing confidentiality agreements. Committed to divest ~$100M in assets within 90 days if confirmed (ethics agreement). FBI conducted no investigation into undisclosed holdings.
+- **Warsh's silence on the probe**: Across the entire period (Jan–Apr 2026), Warsh made zero public statements on the DOJ probe of Powell — no Hoover publications, no hearing comment, no post-closure response to Reuters.
+- **Confirmation path**: Committee vote April 29, floor vote expected before Powell's May 15 chair-term expiration.
+- **Published analysis**: [[Independent Inside of Government]] — nonfiction piece analyzing the respectability-capture mechanism; calls the confirmation "the most aggressive capture of the Federal Reserve in living memory."
 
 ### Structural Constraints on Warsh's Power
 Per [[CFR — Kevin Warsh Won't Revolutionize the Fed]] — even a compliant chair faces:
@@ -120,10 +127,26 @@ The **DOJ criminal probe of Powell** is the quietly important subplot. It's the 
 - [[Fed keeps rates steady, despite historic contrary votes and Trump pressure]] — Earlier reference to Warsh as potential future Fed chair alongside Waller
 - [[Fed nominee Warsh endorses monetary policy independence as Trump declines off-ramps]] — Confirmation hearing testimony; "strictly independent" commitment with narrow-mandate qualifier; Trump declines off-ramp on same morning
 
+## Source Appearances (additions — 2026-05-01 ingest)
+- [[Warsh Confirmation Hearing — Reuters via The Standard - 2026-04-20]] — prepared remarks; independence carve-out language; "strictly independent" monetary policy with regulatory exceptions
+- [[Warsh Confirmation Hearing — Senate Banking Minority (Warren) - 2026-04-21]] — Warren's opposition record; "sock puppet," "uniquely ill-suited," "illegal takeover" framing
+- [[Warsh Confirmation Hearing — Composite Coverage CNBC CNN Deseret Fortune - 2026-04-21]] — hearing substance; dot-plot abandonment; balance-sheet framework; Tillis's on-record quid-pro-quo statement
+- [[Warsh on Powell Probe — Yahoo Finance Live Hearing - 2026-04-21]] — deflection pattern; Cook/SCOTUS dodge; silence on Powell probe
+- [[Warsh on Powell Probe — DOJ Closure Reuters - 2026-04-24]] — non-response to Reuters on probe closure
+- [[Warsh Whip Count — Tillis Ends Block - CNBC - 2026-04-26]] — Tillis reversal; committee math corrected to 13-11
+- [[Warsh Whip Count — Common Dreams - 2026-04-25]] — financial disclosure gaps; Epstein-file mention
+- [[Warsh Whip Count — NOTUS - 2026-04-26]] — IG continuation track; reopen threshold
+- [[Bessent Miran Warsh Coordination — Capital Flows Research - 2026-04-23]] — "FX endgame" / managed dollar decline interpretation
+- [[Bessent Miran Warsh Coordination — Bloomberg - 2026-04-22]] — Bloomberg frames Warsh as inside Bessent-Rubio "statecraft" agenda
+- [[Bessent Miran Warsh Coordination — TradingKey - 2026-02-09]] — Deutsche Bank, Evercore ISI, SGH Macro analyst readings of balance-sheet coordination
+- [[Bessent Miran Warsh Coordination — Jin Low Substack - 2026-02-24]] — 1951 Accord contrast; coordination-as-partial-rollback framing
+- [[Bessent Miran Warsh Coordination — AP via ADN - 2026-04-25]] — Faust quote; Bessent "political cover" reading; AP skepticism of coordination claim
+- [[Independent Inside of Government]] — published nonfiction analysis: "respectability capture"; the mechanism that works because it doesn't look like a capture
+
 ## Open Questions
 - Will Warsh actually cut rates aggressively if confirmed, or will his hawkish track record reassert itself once he's responsible for institutional credibility?
 - Is the "family fight" communication-strategy thesis a genuine institutional reform proposal or intellectual cover for reduced Fed transparency and accountability?
-- How will the DOJ criminal probe of Powell resolve, and will Tillis actually block confirmation?
-- If Warsh's AI productivity thesis doesn't pan out (i.e., if tariff-driven inflation proves more persistent than he projects), what is his exit ramp?
-- Does Warsh's "Fed-Treasury coordination" framing quietly erode the 1951 Accord?
+- If Warsh holds rates to build credibility (Bessent's implied signal), does Trump's rate-cut expectation go unmet — and what happens then?
+- Does the independence carve-out for international finance signal actual coordination with the Bessent-Rubio "statecraft" dollar agenda?
+- Will SCOTUS's Cook-firing ruling retroactively validate or invalidate the quid-pro-quo architecture of this confirmation?
 - Has Warsh publicly addressed the *endogenous* nature of tariff-driven inflation — that the same actor demanding rate cuts is creating the inflation? If not, why not?

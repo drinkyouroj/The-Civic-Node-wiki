@@ -2,6 +2,65 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-01] insight-sweep | 5 hooks surfaced
+
+Three-agent sweep complete. 7 patterns, 7 contradictions, 7 underexplored angles identified. All six findings at 6/6 score. Top 5 hooks filed as synthesis pages. Master briefing at [[insight-sweep-2026-05-01]].
+
+**Top 5 hooks**:
+1. **$203M price tag** (Underexplored, 6/6) — Operation Metro Surge fiscal argument from primary government data; never been published → [[insight-metro-surge-price-tag-2026-05-01]]
+2. **Endogenous-Threat Loop** (Pattern, 6/6) — Fed/tariffs + immigration oversight + Iran ceasefire + KOSA as manufactured-emergency governance technology → [[insight-endogenous-threat-loop-2026-05-01]]
+3. **Blanche false statement** (Contradiction, 6/6) — "we never do this" directly falsified by 2020 Floyd investigation in same city → [[insight-blanche-false-statement-2026-05-01]]
+4. **Hormuz as monetary policy** (Underexplored, 6/6) — Iran has more near-term influence over US inflation than the FOMC does; Warsh inherits this → [[insight-hormuz-monetary-policy-2026-05-01]]
+5. **Private-vendor constitutional workaround** (Pattern, 6/6) — Flock + CISA + age verification + BetterHelp as variants of "every protected right now has a vendor" → [[insight-private-vendor-workaround-2026-05-01]]
+
+**Dominant theme of sweep**: Five of seven top scores involve a political actor using an institutional structure to achieve an outcome the institution nominally prohibits, through a mechanism the institution can't name without indicting itself. The individual pieces are strong; the meta-synthesis hasn't been written.
+
+## [2026-05-01] ingest | Batch 4 — Warsh Capture Arc, Bessent-Miran Coordination, Boasberg Rulings, Renée Good update
+
+20 raw sources ingested across four clusters. 2 published articles filed. 2 new entity pages created. 6 existing entity pages updated. 1 concept page updated. index/overview/log updated.
+
+### Source pages created (20)
+
+**Warsh cluster (8)**: confirmation hearing composite (Reuters/The Standard, Senate minority, CNBC/CNN/Deseret/Fortune, Yahoo Finance), Powell probe closure (Reuters), whip count (CNBC, Common Dreams, NOTUS)
+
+**Bessent-Miran-Warsh coordination (6)**: Bloomberg "statecraft" dollar agenda (Apr 22), Capital Flows Research "FX endgame" (Apr 23), TradingKey balance-sheet alignment (Feb 9), Jin Low Substack accord mechanism (Feb 24), CNBC Miran CEA resignation (Feb 3), AP via ADN political cover reading (Apr 25)
+
+**Boasberg + DOJ IG (4)**: Democracy Docket Mar 13 ruling, Al Jazeera Apr 3 reconsideration denial, JURIST Apr 25 probe closure, Apr 27 mechanism background
+
+**Renée Good update (2)**: Legal Beagle/Jack Harding "Frozen Accountability" Apr 28; Daily Beast/PunchUp ICE agent reassigned Apr 28
+
+### Article pages created (2)
+
+- [[Independent Inside of Government]] — nonfiction, Apr 27 2026; "respectability capture" framing; Warsh confirmation arc as complete mechanism
+- [[Cheaper AI Won't Use Less of Anything]] — nonfiction, Apr 22 2026; Jevons Paradox applied to AI efficiency/demand
+
+### Entity pages created (2)
+
+- [[James Boasberg]] — Chief Judge D.D.C.; 27-page Powell ruling + 6-page reconsideration denial; "no evidence whatsoever of fraud"; 3 sources
+- [[Jeanine Pirro]] — U.S. Attorney for D.C.; issued Powell subpoenas; "pause not abandonment"; 3 sources
+
+### Entity pages updated (6)
+
+- [[Kevin Warsh]] — sources: 22→32; confirmation arc documented; "respectability capture" framing; updated open questions
+- [[Jerome Powell]] — sources: 19→26; complete DOJ probe arc added (Mar 13 → Apr 3 → Apr 24 → Apr 26)
+- [[Stephen Miran]] — sources: 7→12; five consecutive FOMC dissents; CEA resignation; unpaid-leave bridge documented
+- [[Scott Bessent]] — sources: 3→9; Fed-Treasury coordination role added; Bloomberg "statecraft" headline; "political cover" reading
+- [[Thom Tillis]] — sources: 2→8; Warsh confirmation leverage play fully documented; "DOJ as weapon" confession analysis
+- [[Killing of Renée Good]] — sources: 29→31; 2 new source appearances
+
+### Concept page updated (1)
+
+- [[Fed Independence]] — sources: 18→26; added full "2026 Flashpoint: Warsh Confirmation and Respectability Capture" section; Boasberg mechanism; Bessent-Miran-Warsh coordination thesis
+
+### New concept added to index
+
+- [[Respectability Capture]] — institutional capture that works because it looks like compliance; Warsh confirmation as paradigm case
+
+### Index / overview updated
+
+- Stats: 625→645 sources, 243→245 entities, 149→150 concepts, 90→92 articles
+- Overview updated with "Update 2026-05-01 (batch 4)" section
+
 ## [2026-04-29] query+synthesis | Audience research — Marcus K. 8-dimension deep research
 
 Three-agent parallel research pass against the Marcus K. ideal-reader profile. Audience-profiles skill loaded, full marcus-profile.md read first. User requested deep research with real quotes, real pricing, real competitive data — not generic personas. Output filed to syntheses.

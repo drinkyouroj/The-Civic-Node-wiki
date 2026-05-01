@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 7
+updated: 2026-05-01
+sources: 11
 ---
 
 ## Overview
@@ -35,7 +35,22 @@ Stephen Miran is the chair of Trump's Council of Economic Advisers (CEA) and a T
 - [[Fed 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent]]
 - [[The Fed's Independence Theater]] — published article; Miran's first-meeting dissent and "flying blind" admission during shutdown data gap used as centerpiece evidence of political capture (published piece erroneously calls him "Kevin Miran")
 
+## Coordination Claim Updates (2026-05-01 ingest)
+
+The Bessent-Miran-Warsh coordination cluster documents the structural case for a coordinated monetary regime shift:
+
+- **Unpaid-leave arrangement** (Sept 2025–Feb 2026): Miran held simultaneous White House CEA and Fed Governor roles for five months — the closest thing to documented institutional coordination between the Trump economic team and the Fed. He had no White House email or badge during this period, but the structural bridge existed.
+- **CEA resignation (Feb 3, 2026)**: Miran resigned as CEA chair to focus full-time on Fed role, as committed during his September 2025 confirmation. The arrangement was unwound under political pressure but its existence is on record.
+- **FOMC dissent record**: Dissented at EVERY meeting he attended — five consecutive dissents through March 2026. First three: for 50bp cut. Last two: for 25bp cut. Sole dissenter in the 11–1 March 2026 vote. Demonstrates the gap between administration's desired rate path and actual FOMC policy.
+- **Context**: Miran's dissent record will be replaced by Warsh's chairmanship — Warsh inherits the rate-cut pressure without the transparent dissent mechanism
+
+## Source Appearances (additions — 2026-05-01 ingest)
+- [[Bessent Miran Warsh Coordination — Miran Resigns CEA - CNBC - 2026-02-03]] — CEA resignation; unpaid-leave structure documented
+- [[Bessent Miran Warsh Coordination — AP via ADN - 2026-04-25]] — Miran's dissent record; Wall Street prices cuts before Oct 2027
+- [[Bessent Miran Warsh Coordination — Capital Flows Research - 2026-04-23]] — the coordination claim in analyst framing
+- [[Bessent Miran Warsh Coordination — Bloomberg - 2026-04-22]] — Bloomberg places Miran inside Bessent-Warsh policy orbit
+
 ## Open Questions
 
-- Will Miran stay a lone dissent voice, or do other Trump-aligned governors (current or future) join him?
-- Does the unpaid-leave structure survive a legal challenge to dual-role conflicts?
+- With Warsh now taking over, does Miran's lone-dissenter role disappear entirely — or does he continue to vote for cuts with Warsh as chair?
+- Did the unpaid-leave structure constitute an actual information bridge between the White House and FOMC deliberations, or was it purely cosmetic?
