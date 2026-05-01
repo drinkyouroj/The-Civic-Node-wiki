@@ -73,7 +73,7 @@ The constitutional question underneath all of this is broader than immigration. 
 
 ---
 
-*Next issue: The federal government didn't hide the evidence in this story. It produced enough competing claims that determining what was true became too expensive to bother. That's not a scandal. It's a mechanism. It runs at every scale, from your health insurance appeals to the evidence room of the DOJ. Next issue names it.*
+*Next issue: The dual mandate has a third variable nobody at the Fed gets to vote on. One waterway controls it. Hormuz traffic is the inflation forecast now. The committee is downstream. Next Friday.*
 
 ---
 
