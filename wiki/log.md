@@ -2,6 +2,27 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-01] ingest | Batch 5 — Metro Surge accountability update (Mullin policy + Brasel injunction)
+
+Pre-publication audit on the [[3,000 Arrests, 335 Names, One Court Order]] piece (v6) surfaced two missing layers in the accountability arc:
+
+1. **Markwayne Mullin's stated policy reversals** at his Mar 23 confirmation and in CNN's Apr 2 follow-up — judicial-warrant requirement, ICE as "transport more than the front line," contract and warehouse-project review. The piece currently notes Noem was replaced by Mullin but does not name what Mullin has actually committed to. This is the first senior official in the Metro Surge story to publicly commit to course correction without invoking ongoing-investigation cover.
+
+2. **Judge Nancy E. Brasel's March 26 preliminary injunction** in *Advocates for Human Rights v. DHS* — the **fifth concurrent legal track** running on Operation Metro Surge, distinct from the four Moriarty/Ellison/Bryan/civil-rights-probe layers the v6 piece names. Brasel's "pattern and practice" finding is the legal predicate that converts isolated misconduct into a structural finding. Pretrial conference May 18.
+
+**Ingested:**
+- 2 source pages: Mullin DHS Policy Changes (CNN Apr 2), Brasel Preliminary Injunction (Democracy Forward Mar 26)
+- 1 new entity page: [[Markwayne Mullin]]
+- index updated
+- log appended
+
+**v6 → v7 implications for the upcoming piece:**
+- Update "four layers, not four incidents" → "five layers" with Brasel as the fifth
+- Update Noem-replacement paragraph to name Mullin's stated reversals; reframe close from "who files the second?" to "Mullin has said he wants this; whether he means it is the next test"
+- Add forward-calendar references: May 4 hearing in Minnesota v DOJ/DHS, May 18 Brasel pretrial conference, May 20 federal-government response deadline to amended complaint
+
+Source-acquisition gap: Both new sources hit fetch truncation/403; bullet-level claims confirmed via search summaries but verbatim direct quotes need re-acquisition before any quote in the published piece.
+
 ## [2026-05-01] insight-sweep | 5 hooks surfaced
 
 Three-agent sweep complete. 7 patterns, 7 contradictions, 7 underexplored angles identified. All six findings at 6/6 score. Top 5 hooks filed as synthesis pages. Master briefing at [[insight-sweep-2026-05-01]].
