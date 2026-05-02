@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-01
-total_pages: 1073
-total_sources: 645
+total_pages: 1078
+total_sources: 650
 total_entities: 245
 total_concepts: 150
 total_syntheses: 26
@@ -23,6 +23,19 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-01 Ingest (batch 6) — Strait + Warsh confirmation update (for "The Strait Is the Mandate")
+
+**Hormuz transit-fee primary sources (2)**:
+- [[Iran Hormuz Transit Fees — Bloomberg - 2026-03-24]] — Bloomberg Mar 24 2026; **primary source for $2M/ship transit fee** (replaces secondary CBC/NYT chain); case-by-case basis; Iranian parliament floats formalization; Brent +40% on the month; India objects on freedom-of-navigation grounds
+- [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]] — Bloomberg Apr 1 2026; structured IRGC permit regime; **payment in yuan or stablecoins (off-dollar)**; five-tier flag classification; ~$1/barrel base rate; Pakistan re-flagging proposal; "the Iranian tollbooth"
+
+**Hormuz status / human cost (2)**:
+- [[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]] — Al Jazeera Apr 28; **6-month US mine-clearance estimate**; insurance premiums 0.25% → 5% of hull (20x); 2,000 ships stranded; IEA "largest oil supply disruption in history"
+- [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]] — Euronews Apr 27; 20,000 mariners stranded; ~80 vessels for entire April 13-19 week (vs. 130+ daily pre-war); 10+ seafarers killed (UN); IMO Secretary General "no safe transit"
+
+**Warsh confirmation procedural update (1)**:
+- [[Warsh Senate Banking Committee Advances — CNBC - 2026-04-29]] — CNBC Apr 29; committee 13-11 strict party-line; **first fully partisan committee vote on a Fed Chair in committee history**; floor vote expected week of May 11; Powell agreed to remain until confirmed; Fetterman signals floor yes (potential bipartisan cover)
 
 ### 2026-05-01 Ingest (batch 5) — Metro Surge accountability update (Mullin policy + Brasel injunction)
 

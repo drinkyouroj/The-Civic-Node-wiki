@@ -5,7 +5,7 @@ entity_type: person
 tags: [monetary-policy, politics, fed, fed-independence]
 created: 2026-04-07
 updated: 2026-05-01
-sources: 36
+sources: 37
 ---
 
 ## Overview
@@ -77,12 +77,14 @@ American lawyer, former Federal Reserve Governor (2006–2011), currently a Visi
 - **"Narrow mandate" framing**: Independence "does not extend to the full range of its congressionally mandated functions" including stewardship of public money, bank regulation, and international finance. This is the intellectual architecture that would allow a Warsh-chaired Fed to accommodate Trump on regulation and fiscal coordination while claiming the independence norm is intact.
 - **Key phrase from hearing**: "independent inside of government, not independent of government" — Warsh's formulation that redefines rather than rejects independence. Senate Banking Committee did not ask him to choose between the two framings.
 - **Tillis quid pro quo resolved**: Sen. [[Thom Tillis]] (R-NC) lifted his hold on April 26 after DOJ dropped its criminal probe of Powell on April 24. Tillis: "I needed to feel like they were not using DOJ as a weapon to threaten the independence of the Fed." The probe was not dropped because it was meritless — Judge Boasberg had already ruled it meritless six weeks earlier (March 13). It was dropped because it served its purpose.
-- **Senate Banking Committee vote**: Scheduled April 29, 10am ET — same day as the FOMC rate decision (2pm). Both events occur in the same building complex.
+- **Senate Banking Committee vote (April 29, 2026)**: Vote occurred same day as FOMC rate decision. Result: **13-11, strict party line** — all Republicans yes, all Democrats no. **First fully partisan committee vote on a Fed Chair nominee in the committee's history.** [[Warsh Senate Banking Committee Advances — CNBC - 2026-04-29]]
+- **Floor vote expected week of May 11, 2026**. Powell's term expires May 15; **Powell agreed to remain until Warsh confirmed** — institutional bridge mechanism. Republicans hold 53 seats; simple majority required.
+- **Sen. John Fetterman (D-PA)** told Semafor he plans to vote yes on the floor — potential bipartisan cover that softens the partisan-vote framing despite the committee record.
 - **Committee math (corrected)**: 13 R, 11 D on Senate Banking; with Tillis confirmed, Warsh advances on party-line basis.
 - **Democratic opposition**: All Democrats expected to vote no. Senator [[Elizabeth Warren]] (D-MA) called Warsh "uniquely ill-suited," a "sock puppet," and the DOJ probe closure "an attempt to clear the path for Senate Republicans to install President Trump's sock puppet." [[Warsh Confirmation Hearing — Senate Banking Minority (Warren) - 2026-04-21]]
 - **Financial disclosure gaps**: Warsh disclosed $135–226M in assets but refused to detail >$100M in holdings, citing confidentiality agreements. Committed to divest ~$100M in assets within 90 days if confirmed (ethics agreement). FBI conducted no investigation into undisclosed holdings.
 - **Warsh's silence on the probe**: Across the entire period (Jan–Apr 2026), Warsh made zero public statements on the DOJ probe of Powell — no Hoover publications, no hearing comment, no post-closure response to Reuters.
-- **Confirmation path**: Committee vote April 29, floor vote expected before Powell's May 15 chair-term expiration.
+- **Confirmation path**: Committee approved 13-11 on April 29; floor vote expected week of May 11; Powell remains until confirmation completes. As of May 1, 2026, Warsh is **not yet confirmed** — committee path cleared but floor vote pending.
 - **Published analysis**: [[Independent Inside of Government]] — nonfiction piece analyzing the respectability-capture mechanism; calls the confirmation "the most aggressive capture of the Federal Reserve in living memory."
 
 ### Structural Constraints on Warsh's Power
@@ -141,6 +143,7 @@ The **DOJ criminal probe of Powell** is the quietly important subplot. It's the 
 - [[Bessent Miran Warsh Coordination — TradingKey - 2026-02-09]] — Deutsche Bank, Evercore ISI, SGH Macro analyst readings of balance-sheet coordination
 - [[Bessent Miran Warsh Coordination — Jin Low Substack - 2026-02-24]] — 1951 Accord contrast; coordination-as-partial-rollback framing
 - [[Bessent Miran Warsh Coordination — AP via ADN - 2026-04-25]] — Faust quote; Bessent "political cover" reading; AP skepticism of coordination claim
+- [[Warsh Senate Banking Committee Advances — CNBC - 2026-04-29]] — committee vote 13-11; first fully partisan committee vote on a Fed Chair in history; Powell agrees to remain until confirmation; Fetterman signals floor yes
 - [[Independent Inside of Government]] — published nonfiction analysis: "respectability capture"; the mechanism that works because it doesn't look like a capture
 
 ## Open Questions

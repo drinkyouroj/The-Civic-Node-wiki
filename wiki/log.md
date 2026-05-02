@@ -2,6 +2,29 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-01] ingest | Batch 6 — Strait + Warsh update for "The Strait Is the Mandate"
+
+Pre-draft research pass for the next article ([[The Strait Is the Mandate]]) surfaced five new sources resolving three live research gaps flagged by tcn-fact-reconcile on the v2 outline:
+
+1. **Strait current status (May 1)** — ONGOING at ~5% pre-war traffic; 20,000 mariners stranded; 6-month mine-clearance floor; insurance premiums 20x pre-war; IMO position "no safe transit anywhere in the Strait of Hormuz"
+2. **Warsh confirmation status** — committee approved 13-11 on April 29 (**first fully partisan committee vote on a Fed Chair in committee history**); floor vote expected week of May 11; Powell agreed to remain until confirmed; **NOT YET CONFIRMED as of May 1**
+3. **$2M transit fee primary source** — Bloomberg, not NYT (the CBC source was citing Reuters and NYT, but the original primary reporting is Bloomberg March 24, with the April 1 follow-up adding the **yuan/stablecoin denomination detail** that converts the fee from "extraction" to "dedollarization at the margin")
+
+**Ingested:**
+- 5 source pages: Bloomberg Mar 24 transit fees, Bloomberg Apr 1 yuan/stablecoin, Al Jazeera Apr 28 reopening conditions, Euronews Apr 27 stranded seafarers, CNBC Apr 29 committee vote
+- 5 raw files (Bloomberg + CNBC are paywall-recovered via syndication; Al Jazeera + Euronews fetched directly)
+- Strait of Hormuz entity updated: new timeline entries for March 24, April 1, April 21, April 28, May 1 status; Newsletter Relevance section adds dedollarization angle
+- Kevin Warsh entity updated: confirmation status corrected (not yet confirmed; committee path cleared); Fetterman/Powell-remain details added; committee vote framing as "first fully partisan in history"
+- War-Driven Inflation concept updated: persistence data (5% traffic, 6-month floor, 20x insurance) and dedollarization vector (yuan/stablecoin) added to Evidence section
+- index updated (+5 sources, batch 6 entry added)
+- log appended (this entry)
+
+**Implications for the upcoming piece:**
+- Tense throughout the piece is present, not retrospective — the Strait is closed as the reader reads
+- "Warsh confirmed April 2026" must NOT appear in draft as fact; correct framing is "committee approved April 29; floor vote expected week of May 11; Powell remains until confirmation"
+- Replace all CBC citations of the $2M fee with Bloomberg March 24 + April 1 (primary)
+- The yuan/stablecoin detail (Bloomberg Apr 1) is the piece's sleeper monetary-policy upgrade — connects to dedollarization theme that Marcus already tracks
+
 ## [2026-05-01] ingest | Batch 5 — Metro Surge accountability update (Mullin policy + Brasel injunction)
 
 Pre-publication audit on the [[3,000 Arrests, 335 Names, One Court Order]] piece (v6) surfaced two missing layers in the accountability arc:
