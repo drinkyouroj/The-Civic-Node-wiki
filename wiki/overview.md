@@ -1,10 +1,10 @@
 ---
 title: "Overview"
 type: overview
-tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health, accountability, lgbtq, censorship, surveillance]
+tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health, accountability, lgbtq, censorship, surveillance, dedollarization]
 created: 2026-04-06
 updated: 2026-05-01
-sources: 645
+sources: 650
 ---
 
 # Research Overview
@@ -14,7 +14,9 @@ sources: 645
 
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
 
-The wiki has grown from 31 source documents to **645** across over a dozen major thematic clusters.
+The wiki has grown from 31 source documents to **650** across over a dozen major thematic clusters.
+
+**Update 2026-05-01 (batch 6)**: 5 sources ingested as pre-draft research for the next article ([[The Strait Is the Mandate]]) — a monetary-policy framing of the ongoing Strait of Hormuz closure. Three live research gaps from tcn-fact-reconcile resolved: (1) Strait status as of May 1 — **ongoing at ~5% of pre-war traffic**; 20,000 mariners and 2,000 ships stranded ([[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]]); 6-month US mine-clearance floor; war-risk insurance premiums up 20x (0.25% → 5% of hull value); IEA characterization "the largest oil supply disruption in history" ([[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]]). (2) Warsh confirmation status — Senate Banking Committee approved 13-11 on April 29 along strict party lines, **the first fully partisan committee vote on a Fed Chair nominee in committee history**; full Senate floor vote expected week of May 11; Powell agreed to remain until confirmed; Fetterman (D-PA) signaled floor yes ([[Warsh Senate Banking Committee Advances — CNBC - 2026-04-29]]). (3) The $2M/ship Hormuz transit fee — primary source confirmed as Bloomberg, not NYT: Bloomberg March 24 ([[Iran Hormuz Transit Fees — Bloomberg - 2026-03-24]]) reported the case-by-case fee origin; Bloomberg April 1 follow-up ([[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]]) documented the structured IRGC permit regime with **payments denominated in Chinese yuan or stablecoins, explicitly off-dollar**. The yuan/stablecoin denomination is the upgrade that converts the Strait from "chokepoint with toll" to "active dedollarization vector for oil-linked trade" — adding a second-order monetary-policy story (currency composition) on top of the first-order one (energy prices). New tag for the wiki: `dedollarization`. Index updated: 650 sources.
 
 **Update 2026-05-01 (batch 4)**: 20 raw sources + 2 published articles ingested. The dominant story cluster is the **Warsh Fed capture arc** — the most significant Fed independence event since Trump II began, not because the Fed was legally overridden, but because the mechanism of capture evolved to become invisible from the outside.
 
@@ -149,17 +151,19 @@ The Seahawks reached Super Bowl LX (Feb 8, 2026) as NFC champion. ⚠️ **The c
 - **Dynasty framework**: Brady-Belichick benchmark (6 SBs); a defensible dynasty list must include the 1960s Packers (5 titles), the 1980s-90s 49ers (5 SBs across two HCs), and the current Reid-Mahomes Chiefs (3 SBs in 6 seasons). The Chiefs are the relevant 2026 counter-case: their continuity exists but they are personnel-first / Mahomes-centered, not architecture-first. The 2025 Seahawks fit "potential dynasty window opening," not "dynasty achieved."
 - **The 2025–26 season arc**: Dec 18 Rams OT comeback (38-37); Jan 3 Week 18 13-3 win over 49ers clinches NFC West and #1 seed; Jan 17 Divisional Round 41-6 over 49ers; Jan 26 NFC Championship 31-27 over Rams; Feb 8 Super Bowl LX appearance (game outcome unsourced in this cluster)
 
-### 8. Iran War & Geopolitical Infrastructure (~13 sources)
+### 8. Iran War & Geopolitical Infrastructure (~18 sources)
 
-Active, rapidly evolving story. [[Donald Trump]] launched US-Israeli strikes on [[Iran]] February 28, 2026. Iran responded by closing the [[Strait of Hormuz]] and expanding strikes to Gulf energy infrastructure. Trump announced a two-week ceasefire on April 8 — which collapsed within hours when Israel struck Lebanon, Iran re-closed the Strait, and oil climbed back toward $100/barrel. Peace talks are scheduled for Saturday in Islamabad; Vance leads the US delegation.
+Active, rapidly evolving story. [[Donald Trump]] launched US-Israeli strikes on [[Iran]] February 28, 2026. Iran responded by closing the [[Strait of Hormuz]] and expanding strikes to Gulf energy infrastructure. Trump announced a two-week ceasefire on April 8 — which collapsed within hours when Israel struck Lebanon, Iran re-closed the Strait, and oil climbed back toward $100/barrel. **As of May 1, the Strait remains effectively closed at ~5% of pre-war traffic; 20,000 mariners stranded; US mine-clearance estimated at 6 months even after political resolution; insurance premiums up 20x. Iran has formalized a yuan/stablecoin transit-fee regime via the IRGC.**
 
 - **[[Coercive Diplomacy]]**: ceasefire announced then immediately undermined by Israel; Trump simultaneously threatening "bigger, better, stronger" attacks while claiming deal is imminent
-- **[[Infrastructure Warfare]]**: both sides targeting physical systems; Strait closure is Iran's primary strategic leverage
-- **[[War-Driven Inflation]]**: WTI $99.44/barrel as of April 9; ceasefire optimism (+3% equities) reversed within hours
+- **[[Infrastructure Warfare]]**: both sides targeting physical systems; Strait closure is Iran's primary strategic leverage; mines now layered into the chokepoint architecture (6-month removal estimate)
+- **[[War-Driven Inflation]]**: WTI $99.44/barrel as of April 9; ceasefire optimism (+3% equities) reversed within hours; Brent crossed $100 by April 22; ~37% gasoline spike in 5 weeks
+- **Dedollarization vector**: Iran's structured IRGC permit regime (Bloomberg April 1) collects transit fees in Chinese yuan and stablecoins, explicitly off-dollar — every transit incrementally moves oil-linked trade off the dollar. The Strait is now a chokepoint *and* a currency-substitution mechanism
 - **[[Coalition Fracture]]**: Israel's Lebanon strikes are the structural problem — Trump can negotiate for the US but cannot control Netanyahu; every Israeli unilateral action forces Iranian response
 - **The enrichment impasse**: Iran's Persian peace plan states the US committed to accepting enrichment; English version omits this. No deal is possible without resolving this gap — it is the war in diplomatic form
 - **Public opinion**: Pew (March 23–29): 60% of Americans unfavorable to Israel; 80% of Democrats; 41% of Republicans. 77% say the Iran conflict is personally important — the war has broken through to American public consciousness
 - **Congressional pressure**: House Republicans blocked a war powers resolution on April 9; Senate Democrats forcing a floor vote next week
+- **Operational durability past political resolution**: Per Al Jazeera April 28, even a diplomatic breakthrough doesn't restore traffic — mine clearance is a 6-month floor; insurers require sustained normal flow before pricing responsibly. Iran retains structural leverage in the gap between political resolution and operational restoration
 
 ### 9. Foundational Texts / Theory (~10 sources)
 
@@ -203,6 +207,8 @@ Primary source documents that anchor analytical concepts elsewhere in the wiki:
 - How long can Strait closure persist before strategic reserves fail?
 - What did the DoD ask Anthropic to do? Are other AI companies complying?
 - How long can Qatar's helium production remain offline before fab inventories (weeks-to-months) are exhausted?
+- Does the Iran yuan/stablecoin transit-fee regime become a durable dedollarization mechanism even after a Hormuz reopening, or does it collapse with the war? Are other commodity chokepoints (Suez, Bab-el-Mandeb) likely to adopt the same payment architecture?
+- At what scale does an off-dollar oil-trade flow become measurable in actual reserve currency composition vs. remaining a marginal disturbance?
 
 **AI / Technology**
 - At what point does the Mechanical Turk Pattern become unsustainable?
