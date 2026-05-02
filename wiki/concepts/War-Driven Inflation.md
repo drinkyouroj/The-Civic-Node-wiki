@@ -1,9 +1,9 @@
 ---
 title: "War-Driven Inflation"
 type: concept
-tags: [monetary-policy, energy, geopolitics]
+tags: [monetary-policy, energy, geopolitics, dedollarization]
 created: 2026-04-06
-updated: 2026-04-07
+updated: 2026-05-01
 sources: 14
 ---
 
@@ -20,6 +20,8 @@ War-driven inflation is a supply-shock inflationary dynamic triggered by militar
 ## Evidence & Examples
 
 - **US gasoline, 2026**: Prices rose from below $3/gallon to $4.11/gallon (~37% increase) in approximately 5 weeks following US-Israeli strikes on Iran and subsequent Strait closure [[Trump threatens hell on Iran infrastructure if Strait remains blocked]]
+- **Persistence (May 2026)**: Strait at ~5% of pre-war traffic; 20,000 mariners stranded; 6-month mine-clearing floor before resolution; war-risk insurance premiums 20x pre-war (0.25% → 5% of hull value). The supply shock is structurally durable past any political resolution. [[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]] / [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]]
+- **Dedollarization vector**: Iran's structured permit regime collects transit fees in Chinese yuan and stablecoins, not dollars. Every transit is an increment of oil-linked trade denominated off-dollar — adding a second-order monetary policy story (currency composition) on top of the first-order one (energy prices). [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]]
 - 1973 Arab Oil Embargo: Paradigm case — OPEC embargo caused 400% oil price spike, drove 1970s stagflation
 - Russia-Ukraine war (2022): European energy price spike when Russian gas was sanctioned/disrupted
 

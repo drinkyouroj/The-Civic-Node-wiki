@@ -2,10 +2,10 @@
 title: "Strait of Hormuz"
 type: entity
 entity_type: infrastructure
-tags: [power, energy, geopolitics, infrastructure]
+tags: [power, energy, geopolitics, infrastructure, monetary-policy, dedollarization]
 created: 2026-04-06
-updated: 2026-04-22
-sources: 12
+updated: 2026-05-01
+sources: 16
 ---
 
 ## Overview
@@ -22,6 +22,11 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - **April 7, 2026 — Conditional reopening**: 90 minutes before Trump's deadline, Iran agreed to a two-week ceasefire and reopening of the Strait. Foreign Minister Abbas Araghchi specified safe passage "will be possible via coordinating with Iran's Armed Forces" — implying continued Iranian gatekeeping. NYT reports Iran intends to charge $2M per ship in transit fees, with revenue earmarked for war reconstruction. Iran's 5-week blockade triggered the global energy price spike. [[CBC — Trump Iran ceasefire what happens next]]
 - **Civilian-targeting context**: The pre-ceasefire days featured Trump's "Stone Age" rhetoric and the U.S. strike on the unfinished B1 highway bridge that killed 8 civilians at a family picnic. [[Reason — Trump is openly targeting innocent civilians]]
 - **April 22, 2026 — 3-ship escalation**: Iran's IRGC fired on three ships and seized two of them (MSC Francesca; Liberian-flagged Epaminondas) in direct retaliation for the US Touska seizure and blockade. Third ship (Euphoria) attacked while stranded on Iranian coast. Brent crude crossed $100/barrel (+35% above prewar). EU Energy Commissioner Dan Jørgensen: disruption costing Europe ~€500M/day. Vortexa tracked 34 sanctioned/Iranian-linked tanker movements in the week after the April 13 blockade. [[Iran Fires on 3 Ships in Strait of Hormuz — AP]]
+- **March 24, 2026 — Transit fees first reported (primary source)**: Bloomberg reports Iran imposing informal transit fees of up to $2M per vessel on a case-by-case basis. No official announcement; Iranian parliament member proposed legislation to formalize. Brent crude past $100/barrel, up nearly 40% on the month. Goldman Sachs revised crude forecast to $85/barrel for the year (from $77). India officially objects: "international laws guarantee freedom of navigation and that no party has the right to impose fees." [[Iran Hormuz Transit Fees — Bloomberg - 2026-03-24]]
+- **April 1, 2026 — Toll system formalizes (yuan + stablecoin)**: Bloomberg follow-up documents the structured IRGC-run protocol: ship operators contact intermediary, submit ownership/flag/cargo/crew data, pass security screen (no Israel/US links), pay in **Chinese yuan or stablecoins** at five-tier flag-based rates, base ~$1/barrel (~$2M for VLCC). IRGC issues permit code; vessels broadcast over VHF and receive naval escort through "the Iranian tollbooth" near island groups. Pakistan proposed flag-of-convenience workaround for 20 vessels. The yuan/stablecoin denomination is structurally significant — every transit fee is denominated explicitly off-dollar, making the Strait a dedollarization vector in addition to a chokepoint. FT confirmed reporting April 8. [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]]
+- **April 21, 2026 — IMO data**: ~20,000 seafarers stranded on hundreds of vessels unable to transit. Traffic for entire week April 13-19: ~80 vessels (down from 130+ daily pre-war). At least 10 seafarers killed since war began (UN). IMO Secretary General Arsenio Dominguez: "There is no safe transit anywhere in the Strait of Hormuz." [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]]
+- **April 28, 2026 — Reopening conditions**: ~2,000 ships remain stranded. **US estimates 6 months required to clear mines** believed to have been laid by Iran. War-risk insurance premiums could rise from pre-war 0.25% of hull value to 5% — a 20x increase ($250K → $5M on a $100M vessel). IEA characterizes the closure as "the largest oil supply disruption in history." Insurance underwriters require sustained normal vessel movement, not isolated transits, before pricing responsibly — meaning even a diplomatic breakthrough doesn't immediately restore traffic. [[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]]
+- **May 1, 2026 — Status**: Strait remains effectively closed at ~5% of pre-war traffic. No active ceasefire. Iran's IRGC controls what little transit occurs, demanding fees and authorization in yuan or stablecoin. US mine-clearing operations underway but estimated at 6 months. Insurers will not underwrite without durable political resolution. Iran submitted 10-point proposal April 28; Trump reviewing but reportedly wants nuclear issues addressed first.
 
 ## Newsletter Relevance
 
@@ -29,7 +34,7 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 
 **DePIN bridge**: The Strait is a physical-world analog for single-point-of-failure infrastructure. DePIN's thesis — distribute the infrastructure, remove the chokepoint — is directly relevant here. A piece connecting Strait vulnerabilities to why decentralized energy/logistics networks matter would be compelling.
 
-**Monetary Policy**: Strait closure transmits directly into oil prices → gasoline → CPI → Fed posture. A prolonged closure creates a supply-shock inflation problem the Fed cannot solve with rate policy.
+**Monetary Policy**: Strait closure transmits directly into oil prices → gasoline → CPI → Fed posture. A prolonged closure creates a supply-shock inflation problem the Fed cannot solve with rate policy. The April 1 Bloomberg follow-up adds a second-order monetary-policy story: Iran is collecting transit fees in yuan and stablecoin, making the Strait an active dedollarization vector for oil-linked trade flows. The FOMC has no instrument that addresses this either.
 
 ## Connections
 
@@ -48,6 +53,10 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — Trump cites "Strait of Hormuz WILL BE OPEN & SAFE" as absolute red line during ceasefire
 - [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — Touska seized April 19 near the Strait; IRGC ended temporary reopening; traffic at standstill; two tankers forced to retreat by Iranian forces
 - [[Iran Fires on 3 Ships in Strait of Hormuz — AP]] — April 22 tit-for-tat; MSC Francesca and Epaminondas seized; Brent $100+; €500M/day EU cost; Islamabad talks stalled pending blockade lift
+- [[Iran Hormuz Transit Fees — Bloomberg - 2026-03-24]] — primary source for $2M/ship fee; case-by-case; Iranian parliament floats formalization
+- [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]] — structured IRGC permit regime; yuan + stablecoin denomination; "Iranian tollbooth"; Pakistan re-flagging proposal
+- [[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]] — 6-month US mine-clearance estimate; insurance premiums 0.25% → 5% of hull; 2,000 ships stranded; "largest oil supply disruption in history"
+- [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]] — 20,000 mariners stranded; 80 vessels for entire April 13-19 week vs. 130+ daily pre-war; IMO Secretary General "no safe transit"
 
 ## Open Questions
 
