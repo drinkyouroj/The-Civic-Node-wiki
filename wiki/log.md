@@ -2112,3 +2112,29 @@ Pages updated:
 - `workspace/drafts/3000-arrests-335-names-one-court-order-v6.md` — 11 changes from v5: subheadline and lede shifted to past tense (May 1 now passed); "f---ing b---h" audio added to The Glitch; Noem → "then-DHS Secretary" + replacement note; MN AG economic figures added to Upgrade; Upgrade May 1 future-tense sentence removed; My Debug gained DOJ OPR false claim paragraph + Lyons refusal/resignation paragraph; close reframed from future prediction to resolved binary. Word count ~1,890.
 
 **Wiki totals:** 625 sources / 243 entities / 149 concepts / 21 syntheses / 90 articles / 1,047 pages.
+
+## [2026-05-04] lint+ingest | "3,000 Arrests, 335 Names, One Court Order" published — wiki article page added; index/overview drift fixed
+
+Pre-publication v6 draft of this piece went live on Substack on 2026-05-01. Today's pass picks it up as the only untracked file in `published/` and creates its `wiki/articles/` summary. No new raw sources to ingest.
+
+**Article page created (1):**
+- [[3,000 Arrests, 335 Names, One Court Order]] — May 1 2026 nonfiction. Argument: DHS claims 3,000+ Metro Surge arrests, names 11% in its own registry, and publishes no agent roster; Judge Bryan's May 1 order in the Muñoz-Guatemala docket is the first federally-authenticated record from the operation, surfacing only because Ross is the alleged victim in that prosecution rather than the perpetrator. Signature contribution: the **retcon vs. spin** distinction — spin shapes future reception; retcon tries to alter the past and fails when a primary document contradicts it. Three documented retcons (Noem on Pretti; Blanche's "we never do this" falsified by the same DOJ's Floyd response in the same city; DOJ's claim of active OPR review on Ross contradicted by the structural fact that ICE OPR cannot begin until FBI closes). Closing teaser → [[The Strait Is the Mandate]] (planned next).
+
+**Lint findings (fixed):**
+- **Index frontmatter drift:** prior agent updated `wiki/index.md` content with 2026-05-01 batches 4/5/6 but did not reconcile the YAML totals or the Stats table. Corrected: `total_sources` 650 → 652 (actual `ls`); `total_entities` 245 → 249; `total_concepts` 150 → 149 (one fewer than the prior agent claimed); `total_pages` 1078 → 1172 (large drift); `total_articles` 92 → 93 (with today's add); `updated` 2026-05-01 → 2026-05-04. Stats table at the bottom of `wiki/index.md` updated to match.
+- **Overview frontmatter drift:** `sources:` 650 → 652; lede line "grown from 31 to **650**" → **652**; `updated` rolled forward to 2026-05-04.
+
+**Lint findings (audited, flagged, no action):**
+- The 2026-05-01 batches 4/5/6 documented in `wiki/index.md` and `wiki/overview.md` have **no corresponding entries in `wiki/log.md`**. The most recent log entry before this one is 2026-04-30. Did not back-fill — the source pages and overview text are the authoritative record of those batches; reconstructing log entries from them would be lossy and the prior agent's framing is preserved in `overview.md`. Future agents reading `grep "^## \[" wiki/log.md` for chronology should know to also check the index's "New Pages" subsections and overview "Update YYYY-MM-DD" paragraphs.
+- The earlier 2026-04-30 log entry's "Wiki totals" line claimed 1,047 pages — by 2026-05-01 batches that grew to 1,172. The drift compounded across the unlogged batches.
+
+**Lint findings (deferred):**
+- No spot-check of source pages performed today (no new sources ingested).
+- No contradiction-marker sweep performed today.
+- Index ordering in `## Sources` is now significantly past-dated (top entry is 2026-05-01 batch 6); not reorganized.
+
+**Entity pages not modified:** [[Operation Metro Surge]], [[Jonathan Ross]], [[Killing of Renée Good]], [[Mary Moriarty]], [[Keith Ellison]], [[Markwayne Mullin]], [[Todd Lyons]], [[Gregory Bovino]] — all updated 2026-04-30/05-01 specifically for the v6 pre-publication ingest. The published piece does not add facts beyond what those pages already encode; no source-count increment warranted by an article appearance alone.
+
+**Newsletter angles surfaced (none new):** the piece itself is the synthesis of angles surfaced in prior Operation Metro Surge ingests + the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] companion. The teaser to [[The Strait Is the Mandate]] is the only forward-looking signal — the strait piece is already in pre-publication research per the 2026-05-01 batch 6 update.
+
+**Wiki totals after:** 652 sources / 249 entities / 149 concepts / 26 syntheses / 93 articles / 1,172 pages.
