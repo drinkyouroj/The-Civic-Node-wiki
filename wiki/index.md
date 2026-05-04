@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-01
-total_pages: 1078
-total_sources: 650
-total_entities: 245
-total_concepts: 150
+updated: 2026-05-04
+total_pages: 1172
+total_sources: 652
+total_entities: 249
+total_concepts: 149
 total_syntheses: 26
-total_articles: 92
+total_articles: 93
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -1305,6 +1305,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[The False Balance Trap]] — False equivalence launders authoritarianism; investigation of crime ≠ committing crime
 - [[the-system-is-functioning-correctly]] — *The System Is Functioning Correctly* (Apr 25 2026); institutional gaslighting as architecture; Cigna PxDx + Epstein Act + Renée Good + Holder + Pennsylvania Grand Jury as the same machine
 - [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] — Apr 29 2026; APD's own open-records audit shows 15 immigration-tagged searches + 3,383 external agency hits against a declared welcoming city; two governance layers (policy vs. vendor contract) governed by different documents; April 20 council resolutions don't mention Flock; teaser for the 3,000-arrests piece
+- [[3,000 Arrests, 335 Names, One Court Order]] — May 1 2026; audit of Operation Metro Surge's accountability architecture (DHS claims 3,000+, names 335, no agent roster); Judge Bryan's May 1 order in the Muñoz-Guatemala docket as the first federally-authenticated record from the operation; "retcon vs. spin" falsifiability test for political narrative; constitutional gap between state prosecution-immunity and federal refusal-to-investigate predates the operation and outlasts it
 
 ### Nonfiction Essays — Legal & Systems
 - [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026; first piece in the [[Reachability Routing]] series; civil liability routes to the reachable defendant (Destiny), not the person who caused the harm (Solo in Oxford); three structural fixes proposed; Doe v. Bonnell as live case study
@@ -1425,12 +1426,22 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 645 |
-| Published articles tracked | 92 (81 standalone + 11 episodes) |
-| Entity pages | 245 |
-| Concept pages | 150 |
+| Total sources ingested | 652 |
+| Published articles tracked | 93 (82 standalone + 11 episodes) |
+| Entity pages | 249 |
+| Concept pages | 149 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-05-01 |
+| Last updated | 2026-05-04 |
+
+### 2026-05-04 New Pages (lint + ingest)
+
+**Article (1 new)**:
+- [[3,000 Arrests, 335 Names, One Court Order]] — May 1 2026 nonfiction; audit of Operation Metro Surge accountability architecture; "retcon vs. spin" falsifiability test for political narrative
+
+**Lint findings (audited, no source files re-touched)**:
+- Index frontmatter drift corrected: total_sources 650→652, total_entities 245→249, total_concepts 150→149, total_pages 1078→1172. Stats table also corrected (sources 645→652).
+- Overview frontmatter drift corrected: sources 650→652. Lede line updated.
+- No log entries existed for the 2026-05-01 batches 4/5/6 that the prior agent added to the index — flagged in today's log entry rather than back-filled.
 
 ### 2026-05-01 New Pages (batch 4)
 
