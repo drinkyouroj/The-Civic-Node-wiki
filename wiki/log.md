@@ -2138,3 +2138,55 @@ Pre-publication v6 draft of this piece went live on Substack on 2026-05-01. Toda
 **Newsletter angles surfaced (none new):** the piece itself is the synthesis of angles surfaced in prior Operation Metro Surge ingests + the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] companion. The teaser to [[The Strait Is the Mandate]] is the only forward-looking signal — the strait piece is already in pre-publication research per the 2026-05-01 batch 6 update.
 
 **Wiki totals after:** 652 sources / 249 entities / 149 concepts / 26 syntheses / 93 articles / 1,172 pages.
+
+## [2026-05-05] lint+ingest | Project Freedom + AI EO reversal + Coinbase AI-native + Cantillon background + Obama profile (9 sources, 1 concept)
+
+Ingested 9 raw files across four story clusters with one new concept page. No new published articles to file.
+
+**Lint findings (audited, no action needed):**
+- Index frontmatter (`total_sources: 652 / total_entities: 249 / total_concepts: 149 / total_articles: 93 / total_pages: 1172`) reconciled against actual `ls` counts on entry — no drift from the prior 2026-05-04 agent's pass. Stats table at the bottom of `wiki/index.md` matched. Overview frontmatter `sources: 652` and lede line "grown from 31 to **652**" matched.
+- Spot-check on prior 2026-05-01 Hormuz-cluster source pages ([[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]], [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]]): claims align with raw files; no factual corrections.
+- No new ⚠️ Contradiction markers introduced; none cleared.
+
+**Source pages created (9):**
+- *Hormuz / Project Freedom (3)*: [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] (AP wire — Trump's Project Freedom announcement, CENTCOM force package, Iran's 14-pt peace proposal sans nuclear, Bessent toll-revenue claim); [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] (BBC — disputed Iran warship-strike claim, Adnoc tanker hit, Pakistan returns 22/26 Touska crew); [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] (Reuters via Telegraph India — IRGC publishes explicit cartographic claim of strait control area; Cooper couples escort + blockade)
+- *Macro receipts (1)*: [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] (Reuters via BWHL — April PMI 53.6, new-order drop largest since Mar 2023, prices paid matching Oct 2022 peak; Reuters explicitly attributes to Iran-war energy shock)
+- *AI policy (1)*: [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]] (Forbes summary of NYT — proposed pre-release AI review EO; reversal from July 2025 deregulatory posture; appeals court refuses stay on Pentagon supply-chain risk designation against Anthropic)
+- *Tech / labor (1)*: [[Coinbase 14 Percent Layoffs AI-Native Restructure — Brian Armstrong - 2026-05-05]] (Coinbase blog primary source — 14% layoffs as "AI-native" reorg; max 5 layers; no pure managers; one-person teams; "humans around the edge aligning it")
+- *Politics (1)*: [[Barack Obama Profile — New Yorker - 2026-05-04]] (Peter Slevin profile — Obama on strategic restraint, Texas redistricting break, AI policy work, Mamdani relationship; Trump escalating personal attacks; security threats including pardoned-J6 defendant near D.C. home)
+- *Cantillon background (2)*: [[Cantillon Effects Explained — Mises Wire - 2022-03-11]] (Thornton — Austrian-school exposition); [[Cantillon Effect SWFInstitute - 2021-10-24]] (institutional-finance application; names CARES-era beneficiaries)
+
+**Concept page created (1):** [[Cantillon Effect]] — distributional theory of monetary/fiscal injection points; cross-linked to [[War-Driven Inflation]], [[Tariff-Driven Inflation]], [[Fed Independence]], [[The Fed Is Trapped]], [[The Fed's Independence Theater]], [[Half Right About Bitcoin]], [[Strategic Bitcoin Reserve]]; framework for naming the distributional analysis already implicit in those pieces.
+
+**Entity pages updated (10):** [[Strait of Hormuz]] (sources 16→19; added May 3-4 Project Freedom, IRGC map, May 5 ISM macro receipt); [[Iran]] (19→22; added all four May 3-5 sources); [[Iran Revolutionary Guards Corps]] (6→8; added cartographic-sovereignty-claim entry, Fars warship-strike claim); [[Anthropic]] (18→19; added May 4 EO reversal context); [[Coinbase]] (2→3; added May 5 AI-native restructure); [[Donald Trump]] (48→53; added Project Freedom, AI EO reversal, Obama profile); [[Pete Hegseth]] (10→11; appeals court refuses stay on supply-chain risk designation); [[Jack Clark]] (7→8; talks with federal government about Mythos despite dispute); [[Zohran Mamdani]] (11→12; Obama relationship documented in New Yorker profile); [[Scott Bessent]] (8→9; Iran toll-revenue and oil-storage forecast). Concept pages updated: [[War-Driven Inflation]] (14→15) — added Cantillon cross-link and ISM April source; [[Chokepoint Control]] (13→16) — added all three May 3-4 Hormuz sources.
+
+**Index updates:** added 2026-05-05 ingest subsection at top of `## Sources`; added [[Cantillon Effect]] to `### Monetary Policy & Economics`; updated frontmatter (sources 652→661, concepts 149→150, pages 1172→1182, updated 2026-05-04→2026-05-05); updated Stats table to match; added 2026-05-05 New Pages subsection.
+
+**Overview updates:** frontmatter `sources: 652 → 661`, `updated: 2026-05-04 → 2026-05-05`, lede line "grown from 31 to **652** → 661"; new substantive `**Update 2026-05-05 (lint + ingest)**` paragraph above the prior 2026-05-04 entry covering all four clusters with named cross-cluster connections (April ISM as macro receipt for Hormuz; Cantillon framework as distributional naming of the war-spending channel; AI-policy reversal and Coinbase reorg as a single industrial-policy mosaic).
+
+**Newsletter angles surfaced (worth tracking):**
+- *Project Freedom + IRGC map as the documentary-record turn*: The strait is now contested via published Iranian cartographic claim + U.S. CENTCOM force overlay + simultaneous blockade. Cooper's "as we also maintain the naval blockade" line is the cleanest primary source for the dual-posture reality the U.S. domestic press tends to elide.
+- *Bessent's "Iran will shut in wells in the next week" is a checkable forecast*: ages quickly. May 12+ reporting will tell us whether the blockade is the more decisive lever or an oversold claim.
+- *AI-policy reversal as access-conditioning, not safety regulation*: The Pentagon vendor list (OpenAI / Alphabet / Nvidia / SpaceX / Microsoft / Amazon / Reflection — *not* Anthropic) + the supply-chain-risk designation against Anthropic + the proposed pre-release review EO together describe industrial policy by federal access-conditioning. Pair with [[The Jawboning Papers]].
+- *Coinbase "humans around the edge" is the cleanest CEO-level primary-source artifact for the AI labor-displacement genre*: pair with Sam Altman's public statements and the Pentagon vendor list.
+- *Cantillon framework as the missing analytical vocabulary*: pieces like [[The Fed Is Trapped]], [[The Fed's Independence Theater]], [[Half Right About Bitcoin]] have implicitly used Cantillon analysis for months. The new concept page lets future pieces cite the framework directly without importing Mises Institute politics.
+- *Obama-Mamdani relationship as the underplayed political event*: ex-DSA Mamdani who once called Obama "pretty damn evil" is now appearing with him at a Bronx pre-K center promoting universal child care — that realignment is bigger than the news pegs around the NYC mayoralty.
+- *Touska crew handover as under-covered de-escalation*: 22/26 crew returned via Pakistan as "confidence-building measure" coinciding with Project Freedom. Western coverage almost entirely missed the gesture.
+
+**Source acquisition targets surfaced:**
+- NYT direct: "White House Considers Vetting AI Models Before They Are Released" (May 4, 2026) — Forbes ingested as summary; primary needed for any piece on the AI EO
+- ISM Services Report on Business, April 2026 — full text including respondent commentary and sub-index tables (Reuters wire only ingested today)
+- The actual EO text or draft language (when published) for the AI working group / pre-release review regime
+- Coinbase Q1 2026 earnings call transcript (Thursday following May 5 announcement)
+- Original IRGC map (Farsi via Sepah News / Tasnim) — Reuters paraphrases the visual
+- Anthropic v. DoD lawsuit docket for the supply-chain designation challenge
+- Richard Cantillon, *Essai sur la Nature du Commerce en Général* (1755) primary text — for academic anchoring of the new concept page
+- Louis Rouanet's 2017 Sciences Po master's thesis on monetary policy, asset price inflation, and inequality
+
+**Deferred stubs (not created — wikilinks left in source pages):**
+- People referenced once: Brian Armstrong, Brad Cooper, Ebrahim Azizi, Ali Nikzad, Esmail Baghaei, David Axelrod, David Plouffe, Ben Rhodes, Cody Keenan, Tina Smith, Maurice Mitchell, Pramila Jayapal, Cornell Belcher, Beto O'Rourke, Yassamin Ansari, Mark Carney, David Lammy, Keir Starmer, Benjamin Netanyahu, Greg Abbott, Larry Ellison, Jensen Huang, Michael Dell, Tod Williams, Billie Tsien, Caroline Suh, Jason Goldman, Mark Thornton, Richard Cantillon, Murray Rothbard, Ludwig von Mises, F. A. Hayek, Louis Rouanet
+- Orgs referenced once: CENTCOM, Touska, Adnoc, Fars news agency, UKMTO, Mises Institute, World Economic Forum, SpaceX, Reflection AI, ISM, AAA, NDRC, Higher Ground, Obama Foundation, Federal Reserve (existing concepts cover monetary substance — entity stub deferred)
+- Concepts referenced once: Austrian Business Cycle Theory, Quantitative Easing, Asset-price inflation, Naval blockade, Federal preemption of state AI law, Pre-release AI review / AI executive order, AI-native organization, Sovereignty assertion via cartography
+- Per CLAUDE.md "expand when motivated" rule — all defer to a second source.
+
+**Wiki totals after:** 661 sources / 249 entities / 150 concepts / 26 syntheses / 93 articles / 1,182 pages.

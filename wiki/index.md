@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-04
-total_pages: 1172
-total_sources: 652
+updated: 2026-05-05
+total_pages: 1182
+total_sources: 661
 total_entities: 249
-total_concepts: 149
+total_concepts: 150
 total_syntheses: 26
 total_articles: 93
 ---
@@ -23,6 +23,32 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-05 Ingest — Project Freedom + AI EO reversal + Coinbase AI-native + Cantillon background + Obama profile (9 sources, 1 concept)
+
+**Hormuz / Project Freedom (3)**:
+- [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] — Trump announces "Project Freedom" Hormuz escort op; CENTCOM commits 15,000 personnel + 100+ aircraft + destroyers; Iran's 14-pt peace proposal (lift sanctions, end blockade, withdraw forces, cease Israel ops in Lebanon, 30-day, *no nuclear*); Bessent on Fox: tolls < $1.3M, oil storage filling
+- [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — Day 1 informational dispute: Fars claims two missiles hit U.S. Navy boat, CENTCOM denies, senior Iranian official describes "warning shot"; Adnoc tanker hit; Pakistan returns 22/26 Touska crew at Gabd-Rimdan
+- [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — IRGC publishes explicit cartographic claim of strait control area (Qeshm-to-Mobarak boundary covers entire commercial strait); Cooper couples escort + blockade
+
+**Macro receipts (1)**:
+- [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] — April PMI 53.6 (slowing); new orders -7.1pts (largest drop since Mar 2023); prices paid 70.7 (matches Oct 2022 peak); supplier deliveries 56.8 (highest since Jul 2022); Reuters explicitly attributes to Iran-war energy shock
+
+**AI policy (1)**:
+- [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]] — proposed EO for AI working group + pre-release model review; reverses Trump's July 2025 "let that baby thrive" deregulatory posture; driven by post-Feb Anthropic break and Claude Mythos cyber-exploit concerns; appeals court refuses stay on Pentagon supply-chain risk designation
+
+**Tech / labor (1)**:
+- [[Coinbase 14 Percent Layoffs AI-Native Restructure — Brian Armstrong - 2026-05-05]] — ~14% layoffs framed as "AI-native" reorg; max 5 management layers; "no pure managers"; one-person teams; "rebuilding Coinbase as an intelligence, with humans around the edge aligning it"
+
+**Politics / democracy (1)**:
+- [[Barack Obama Profile — New Yorker - 2026-05-04]] — Peter Slevin profile from the Obama Presidential Center; Obama on his strategic restraint, Texas-redistricting break, hundreds-of-hours AI policy work, Mamdani relationship; Trump's escalating personal attacks (treason charge, racist video, AI-generated arrest video); 24/7 protection, Taranto incident; foreign-policy critique of "Stone Ages" Iran rhetoric
+
+**Cantillon background (2)**:
+- [[Cantillon Effects Explained — Mises Wire - 2022-03-11]] — Mark Thornton; Austrian-school exposition of Cantillon's injection-point theory and ABCT lineage
+- [[Cantillon Effect SWFInstitute - 2021-10-24]] — institutional-finance application; names Amazon and U.S. airlines as CARES-era beneficiaries; QE-channel Cantillon
+
+**New concept**:
+- [[Cantillon Effect]] — distributional analysis tied to monetary/fiscal injection points; cross-linked with [[War-Driven Inflation]], [[Tariff-Driven Inflation]], [[Fed Independence]], [[The Fed Is Trapped]]; framework for naming what existing pieces have implied without naming
 
 ### 2026-05-01 Ingest (batch 6) — Strait + Warsh confirmation update (for "The Strait Is the Mandate")
 
@@ -1151,6 +1177,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Controlled Substances Act]] — 1970 federal drug scheduling law; DEA enforcement authority; quota system foundation
 
 ### Monetary Policy & Economics
+- [[Cantillon Effect]] — Distributional theory of monetary/fiscal injection points; first recipients (banks, defense contractors, asset holders) benefit before prices adjust; framework for naming what existing newsletter pieces have implied without naming
 - [[War-Driven Inflation]] — Supply-shock inflation from military conflict; Strait closure → gas prices → CPI; analog to tariff-driven inflation
 - [[Fed Independence]] — Central bank freedom from executive branch pressure; Burns (failure) vs. Volcker (success); 2025 Trump-Powell test case
 - [[Stagflation]] — Simultaneous inflation + stagnant growth; 1970s paradigm; 2025 tariff risk; Phillips curve breakdown
@@ -1426,12 +1453,38 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 652 |
+| Total sources ingested | 661 |
 | Published articles tracked | 93 (82 standalone + 11 episodes) |
 | Entity pages | 249 |
-| Concept pages | 149 |
+| Concept pages | 150 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-05-04 |
+| Last updated | 2026-05-05 |
+
+### 2026-05-05 New Pages (lint + ingest)
+
+**Sources (9)**:
+- Hormuz / Project Freedom (3): [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]], [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]], [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]]
+- Macro receipts (1): [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]]
+- AI policy (1): [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]]
+- Tech / labor (1): [[Coinbase 14 Percent Layoffs AI-Native Restructure — Brian Armstrong - 2026-05-05]]
+- Politics (1): [[Barack Obama Profile — New Yorker - 2026-05-04]]
+- Cantillon background (2): [[Cantillon Effects Explained — Mises Wire - 2022-03-11]], [[Cantillon Effect SWFInstitute - 2021-10-24]]
+
+**Concept pages (1 new)**:
+- [[Cantillon Effect]] — distributional theory of monetary/fiscal injection points; cross-linked to [[War-Driven Inflation]], [[Tariff-Driven Inflation]], [[Fed Independence]]; framework for naming the implicit distributional analysis in existing newsletter pieces
+
+**Entity pages updated** (no new): [[Strait of Hormuz]] (sources 16→19), [[Iran]] (19→22), [[Iran Revolutionary Guards Corps]] (6→8), [[Anthropic]] (18→19), [[Coinbase]] (2→3), [[Donald Trump]] (48→53), [[Pete Hegseth]] (10→11), [[Jack Clark]] (7→8), [[Zohran Mamdani]] (11→12), [[Scott Bessent]] (8→9). Concepts [[War-Driven Inflation]] (14→15) and [[Chokepoint Control]] (13→16) cross-linked to new sources.
+
+**Lint findings**:
+- Frontmatter and Stats table reconciled against actual `ls` counts (no drift from prior agent): sources 652, entities 249, concepts 149, articles 93, syntheses 26, pages 1172 — verified before edit; rolled forward to sources 661, concepts 150, pages 1182.
+- Spot-check on Iran-Hormuz cluster source pages from prior 2026-05-01 batch: [[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]] and [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]] are consistent with current source claims; no factual corrections.
+- No new contradiction (⚠️) markers introduced; none cleared.
+
+**Deferred stubs** (not created — wikilinks left in source pages without their own entity/concept page):
+- People: Brian Armstrong, Brad Cooper, Ebrahim Azizi, Ali Nikzad, Esmail Baghaei, Karoline Leavitt, Tulsi Gabbard, David Axelrod, David Plouffe, Ben Rhodes, Cody Keenan, Tina Smith, Maurice Mitchell, Pramila Jayapal, Cornell Belcher, Beto O'Rourke, Yassamin Ansari, Mark Carney, David Lammy, Keir Starmer, Benjamin Netanyahu, Greg Abbott, Larry Ellison, Jensen Huang, Michael Dell, Tod Williams, Billie Tsien, Caroline Suh, Jason Goldman, Mark Thornton, Richard Cantillon, Murray Rothbard, Ludwig von Mises, F. A. Hayek, Louis Rouanet
+- Orgs: CENTCOM, Touska, Adnoc, Fars news agency, UKMTO, Mises Institute, Federal Reserve (?? check), World Economic Forum, SpaceX, Reflection AI, ISM, AAA, NDRC, Higher Ground, Obama Foundation
+- Concepts: Austrian Business Cycle Theory, Quantitative Easing, Asset-price inflation, Naval blockade, Federal preemption of state AI law, Pre-release AI review / AI executive order, AI-native organization
+- Note: defer until a second source motivates the page, per CLAUDE.md "expand when a source motivates it" rule.
 
 ### 2026-05-04 New Pages (lint + ingest)
 

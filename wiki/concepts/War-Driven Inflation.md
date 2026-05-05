@@ -3,8 +3,8 @@ title: "War-Driven Inflation"
 type: concept
 tags: [monetary-policy, energy, geopolitics, dedollarization]
 created: 2026-04-06
-updated: 2026-05-01
-sources: 14
+updated: 2026-05-05
+sources: 16
 ---
 
 ## Definition
@@ -39,6 +39,7 @@ War-driven inflation is a supply-shock inflationary dynamic triggered by militar
 - [[Stagflation]] — the macro outcome when supply-shock inflation meets weakening growth; tariff-driven stagflation has the same structure
 - [[Tariff-Driven Inflation]] — trade-policy analog to war-driven inflation; same mechanism (supply-shock), different political cause; both cannot be fixed by rate hikes
 - [[Fed Independence]] — the institution under pressure to respond to supply shocks it can't control
+- [[Cantillon Effect]] — distributional analysis of who absorbs the war-driven cost shock; defense, energy, and shipping accrue first while service-sector firms and consumers absorb the price
 
 ## Key Sources
 
@@ -50,3 +51,4 @@ War-driven inflation is a supply-shock inflationary dynamic triggered by militar
 - [[US M2 Money Supply YoY Historical Data]] — comparison to COVID-era M2 spike as an extreme case of monetized spending
 - [[Rethinking Arthur Burns the Worst Fed Chair in History]] — Korean War / WWII price controls as Burns's historical models
 - [[Trump and Powell bicker — AP]] — tariff inflation as the contemporary war-adjacent supply shock keeping the Fed from cutting
+- [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] — macro receipt: April ISM data attributes service-sector cost pressures (highest since Oct 2022) and 7.1-pt new-order drop (largest since March 2023) to "the steep energy prices arising from the U.S.-led war against Iran"

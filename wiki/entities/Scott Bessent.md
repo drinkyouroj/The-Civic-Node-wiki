@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics]
 created: 2026-04-11
-updated: 2026-05-01
-sources: 8
+updated: 2026-05-05
+sources: 9
 ---
 
 > [!note] **Apr 24, 2026 update — Operation Metro Surge ingest**: New source [[Data of thousands of taxpayers wrongly shared with DHS court filing says]] documents Bessent's April 2025 IRS-DHS data-sharing agreement, co-signed with [[Kristi Noem]]. ICE submitted 1.28M names → IRS verified ~47K → IRS provided additional address info on <5%, potentially violating taxpayer-data privacy rules. MA federal court has ordered the IRS to stop sharing residential addresses with ICE; an earlier November 2025 federal court ruling found the summer 2025 disclosure was illegal. The agreement is a structural bridge between the wiki's monetary-policy cluster (Bessent at Treasury) and the immigration-enforcement cluster — Bessent's name now appears on a federal accountability question that goes beyond Treasury.
@@ -45,6 +45,7 @@ The Bessent-Miran-Warsh coordination cluster documents Bessent's role in a poten
 - [[Bessent Miran Warsh Coordination — TradingKey - 2026-02-09]] — Bessent-Warsh balance sheet alignment; analyst reactions
 - [[Bessent Miran Warsh Coordination — Jin Low Substack - 2026-02-24]] — 1951 Accord rollback framing; debt issuance coordination mechanism
 - [[Bessent Miran Warsh Coordination — AP via ADN - 2026-04-25]] — "political cover" reading; Faust critique of Warsh's credibility deficit
+- [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] — May 3 Fox News interview: claims Iran has collected <$1.3M in tolls ("a pittance"); says Iran's oil storage is "rapidly filling up" and Iran will "have to start shutting in wells, which we think could be in the next week" — checkable forecast
 
 ## Open Questions
 - Is the Bessent-Warsh alignment a documented coordination playbook (with the dollar-weakening intent Bloomberg implies) or convergent independent preferences?
