@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-04-22
-sources: 19
+updated: 2026-05-05
+sources: 23
 ---
 
 ## Overview
@@ -73,6 +73,10 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[Trump Says Israel and Lebanon Have Agreed to a Ceasefire — NPR]] — Lebanon ceasefire was Iranian precondition for nuclear talks; Hezbollah excluded from negotiations; 1M displaced
 - [[US intercepts and seizes Iranian-flagged cargo ship — BBC]] — Touska seized April 19; US fired on engine room; Iran calls it "armed piracy"; ceasefire collapsing
 - [[Iran Fires on 3 Ships in Strait of Hormuz — AP]] — April 22; IRGC seizes MSC Francesca and Epaminondas; fires on Euphoria; direct tit-for-tat for US Touska seizure; Brent crosses $100/barrel; Iran rules out Islamabad talks until US lifts blockade
+- [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] — May 3 announcement of Project Freedom; Iran 14-pt proposal (lift sanctions, end blockade, withdraw forces, cease Israel ops in Lebanon, 30-day, *no nuclear*); Bessent claims tolls < $1.3M, oil storage filling
+- [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — May 3 disputed strike on U.S. Navy boat (Fars claim, CENTCOM denial); Adnoc tanker hit; Pakistan returns 22/26 Touska crew at Gabd-Rimdan border
+- [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — May 4 IRGC publishes cartographic claim of strait control area; Cooper couples escort + blockade on the record
+- [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] — macro receipt: April ISM data attributes service-sector cost pressures (highest since Oct 2022) to Iran war energy shock
 
 ## Open Questions
 

@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [power, depin, politics, ai, technology]
 created: 2026-04-06
-updated: 2026-04-22
-sources: 18
+updated: 2026-05-05
+sources: 19
 ---
 
 ## Overview
@@ -31,6 +31,7 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 - [[Dario Amodei]] compared Trump to a "feudal warlord" during 2024 election; publicly supported Kamala Harris; excluded from White House dinners attended by OpenAI, Meta, and Nvidia leaders
 - Co-founder [[Jack Clark]]'s essay "Technological Optimism and Appropriate Fear" (October 2025) triggered David Sacks's "regulatory capture through fear-mongering" accusation
 - **April 21, 2026 — Claude Mythos breach investigation**: Anthropic confirmed it is investigating a Bloomberg report that users in a private forum gained unauthorised access to Claude Mythos (its gated cyber-security model) "through one of our third-party vendor environments" — most likely vendor-permission misuse rather than an external hack. No evidence Anthropic's own systems affected; no confirmation the model is in malicious hands. Parallels with OpenAI's GPT 5.4 Cyber. [[Claude Mythos Unauthorised Access — BBC]]
+- **May 4, 2026 — Anthropic break drives White House toward pre-release AI review**: NYT reports Trump administration considering an executive order establishing a working group on AI and a *pre-release* government review for new AI models, modeled on a UK multi-agency safety review. White House officials have met with Anthropic, Google, OpenAI executives. Reporting attributes the policy reversal (from Trump's July 2025 deregulatory posture) to the post-February Anthropic break and to White House concern over an AI-enabled cyberattack risk specifically tied to Claude Mythos. Federal appeals court (early May 2026) refused to stay the Pentagon supply-chain risk designation while Anthropic's lawsuit proceeds. Despite the dispute, [[Jack Clark]] said Anthropic is in talks with the federal government about Claude Mythos. [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]]
 
 ## Newsletter Relevance
 
@@ -63,6 +64,7 @@ Anthropic is a US AI safety company founded in 2021, creator of the Claude AI as
 - [[Statement from Dario Amodei on our discussions with the Department of War]] — Amodei's official statement; two red lines (mass surveillance, autonomous weapons); DPA and supply chain risk threats; first frontier AI company on classified networks
 - [[The Department of Defense's Conflict With Anthropic and Deal With OpenAI Are a Call for Congress To Act]] — American Progress legal analysis; supply chain risk designation likely illegal; commercial "death penalty"; Claude used for Iran strikes while designated a risk
 - [[Claude Mythos Unauthorised Access — BBC]] — April 21 2026 Bloomberg report of third-party vendor access to Mythos; Anthropic investigating; stress test of gated-frontier-model posture
+- [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]] — Anthropic break drives White House toward pre-release AI review EO; appeals court refuses stay on Pentagon supply-chain risk designation
 
 ## Open Questions
 

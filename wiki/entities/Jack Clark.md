@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [technology, ai, politics, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 7
+updated: 2026-05-05
+sources: 8
 ---
 
 ## Overview
@@ -40,6 +40,7 @@ Clark is the human embodiment of the tension at the heart of the AI safety debat
 - [[Import AI 431 — Technological Optimism and Appropriate Fear]] — primary source; full speech transcript
 - [[Anthropic vs White House — Anthropic Tries to Keep Pace with OpenAI While Taking on the US Government]] — referenced as the author whose essay triggered Sacks's attack
 - [[Jack Clark on AI Fear — Anthropic Co-Founder Speech]] — Yahoo Finance Australia coverage of his Berkeley speech; "creature not machine" framing; 50-50 fear
+- [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]] — Clark says Anthropic is in talks with the federal government about Claude Mythos despite the supply-chain risk dispute; the Mythos cyber-exploit claim is the named justification driving the proposed pre-release review EO
 
 ## Open Questions
 

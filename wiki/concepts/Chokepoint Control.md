@@ -3,8 +3,8 @@ title: "Chokepoint Control"
 type: concept
 tags: [power, infrastructure, geopolitics, energy]
 created: 2026-04-06
-updated: 2026-04-17
-sources: 13
+updated: 2026-05-05
+sources: 16
 ---
 
 ## Definition
@@ -54,3 +54,6 @@ Chokepoint control is the ability of a state, organization, or actor to regulate
 - [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — Iran explicitly conditions Strait reopening on Israel-Lebanon ceasefire; chokepoint as multi-party leverage tool
 - [[Trump Announces 10-Day Israel-Lebanon Ceasefire]] — Iran's Hormuz leverage is what generated diplomatic pressure for the Lebanon ceasefire — chokepoint control reshaping regional diplomacy
 - [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — compute infrastructure as an antitrust-relevant chokepoint; Microsoft's Azure exclusivity framed as "gatekeeper of AI compute infrastructure"
+- [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] — U.S. attempts to overlay an escort regime on a contested chokepoint; CENTCOM force package + simultaneous naval blockade
+- [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — Day 1 informational ambiguity (Fars missile-strike claim vs CENTCOM denial vs "warning shot" framing) — exactly the deniability that keeps chokepoint coercion viable
+- [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — IRGC publishes explicit cartographic claim of strait control area — sovereignty-via-cartography as a chokepoint-control move

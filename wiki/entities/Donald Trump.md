@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
-updated: 2026-04-17
-sources: 48
+updated: 2026-05-05
+sources: 53
 ---
 
 ## Overview
@@ -131,6 +131,11 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - [[Trump Nominates Erica Schwartz as CDC Director]] — April 16 nomination; filling 8-month CDC vacancy under RFK Jr.'s HHS
 - [[Trump Announces 10-Day Israel-Lebanon Ceasefire]] — brokered by separate phone calls with Netanyahu and Aoun; Iran's precondition for continued U.S. talks
 - [[Times of India — Massive Trade Deal Japan 15% Tariffs]] — July 2025 announcement; $550B Japanese investment claim with "90% of profits" to U.S.
+- [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] — May 3 announces "Project Freedom" Hormuz escort op; warns interference "dealt with forcefully"; declares Iran proposal "unacceptable" because Iran "has not yet paid a big enough price for what they have done to humanity, and the world, over the last 47 years"
+- [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — May 3 Day-1 of Project Freedom; "we're not leaving"; military strikes "a possibility" if Iran "misbehaves"
+- [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — May 4 IRGC map publication during Project Freedom escort op
+- [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]] — reversal from July 2025 "we have to grow that baby and let that baby thrive" deregulatory posture toward proposed pre-release AI review EO; driven by post-February Anthropic break and Claude Mythos cyber-exploit concerns
+- [[Barack Obama Profile — New Yorker - 2026-05-04]] — Obama's extended on-the-record critique of Trump's foreign-policy posture, "Stone Ages" Iran rhetoric, "treason" charge, racist Trump-shared video; documented Trump-pardoned January-6 defendant arrested with weapons near Obamas' D.C. home
 
 ## Open Questions
 

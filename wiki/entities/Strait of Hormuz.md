@@ -4,8 +4,8 @@ type: entity
 entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure, monetary-policy, dedollarization]
 created: 2026-04-06
-updated: 2026-05-01
-sources: 16
+updated: 2026-05-05
+sources: 20
 ---
 
 ## Overview
@@ -27,6 +27,10 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - **April 21, 2026 — IMO data**: ~20,000 seafarers stranded on hundreds of vessels unable to transit. Traffic for entire week April 13-19: ~80 vessels (down from 130+ daily pre-war). At least 10 seafarers killed since war began (UN). IMO Secretary General Arsenio Dominguez: "There is no safe transit anywhere in the Strait of Hormuz." [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]]
 - **April 28, 2026 — Reopening conditions**: ~2,000 ships remain stranded. **US estimates 6 months required to clear mines** believed to have been laid by Iran. War-risk insurance premiums could rise from pre-war 0.25% of hull value to 5% — a 20x increase ($250K → $5M on a $100M vessel). IEA characterizes the closure as "the largest oil supply disruption in history." Insurance underwriters require sustained normal vessel movement, not isolated transits, before pricing responsibly — meaning even a diplomatic breakthrough doesn't immediately restore traffic. [[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]]
 - **May 1, 2026 — Status**: Strait remains effectively closed at ~5% of pre-war traffic. No active ceasefire. Iran's IRGC controls what little transit occurs, demanding fees and authorization in yuan or stablecoin. US mine-clearing operations underway but estimated at 6 months. Insurers will not underwrite without durable political resolution. Iran submitted 10-point proposal April 28; Trump reviewing but reportedly wants nuclear issues addressed first.
+- **May 3, 2026 — Project Freedom announced**: Trump announces (Truth Social) the U.S. will begin Monday May 4 to "guide" stranded ships out of the Strait, framing it as a humanitarian gesture. CENTCOM commits guided-missile destroyers, 100+ aircraft, 15,000 service members. Iran's parliament national-security commission head Ebrahim Azizi calls any U.S. interference a ceasefire violation. Iran's deputy parliament speaker Ali Nikzad: Iran "will not back down from our position on the Strait of Hormuz, and it will not return to its prewar conditions." Treasury Secretary Bessent claims Iran has collected <$1.3M in tolls, oil storage filling, wells may shut "in the next week." Same day: cargo ship attacked near Sirik, tanker hit by "unknown projectiles" off Fujairah — first attacks in area since April 22. [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]]
+- **May 3, 2026 — Day 1 of Project Freedom; warship-strike dispute**: Iran's Fars agency claims two missiles hit a U.S. Navy boat; CENTCOM denies ("no U.S. Navy ships have been struck"); senior Iranian official tells Reuters Iran fired "a warning shot." CENTCOM claims two U.S.-flagged merchant vessels "successfully transited" (no names provided). UAE confirms Adnoc-affiliated tanker hit in strait (no injuries). Pakistan hands 22 of 26 [[Touska]] crew to Iranian authorities at Gabd-Rimdan border crossing; Pakistan frames as "a confidence-building measure by the United States of America." [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]]
+- **May 4, 2026 — IRGC publishes cartographic claim of strait control**: IRGC Navy issues a map via Iranian state media defining the area "under its control." Western boundary: westernmost tip of Iran's Qeshm island to UAE's Umm al Quwain emirate. Eastern boundary: Iran's Mount Mobarak to UAE's Emirate of Fujairah. The boundary covers the entire commercial strait. Reuters notes change extent unclear, but the *publication* of an explicit map is itself a category-shift from prior toll/permit language. CENTCOM commander Brad Cooper: "Our support for this defensive mission is essential to regional security and the global economy as we also maintain the naval blockade" — explicit confirmation that escort + blockade run in parallel. [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]]
+- **May 5, 2026 — Macro receipt for the closure**: April ISM Services PMI shows new-order growth dropped 7.1 pts (largest since March 2023); cost-input prices held at 70.7 (matching October 2022 inflation peak); supplier deliveries at 56.8 (highest since July 2022). Reuters explicitly attributes to "the steep energy prices arising from the U.S.-led war against Iran." [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]]
 
 ## Newsletter Relevance
 
@@ -57,6 +61,10 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]] — structured IRGC permit regime; yuan + stablecoin denomination; "Iranian tollbooth"; Pakistan re-flagging proposal
 - [[Strait of Hormuz Reopening Conditions — Al Jazeera - 2026-04-28]] — 6-month US mine-clearance estimate; insurance premiums 0.25% → 5% of hull; 2,000 ships stranded; "largest oil supply disruption in history"
 - [[Strait of Hormuz 20000 Seafarers Stranded — Euronews - 2026-04-27]] — 20,000 mariners stranded; 80 vessels for entire April 13-19 week vs. 130+ daily pre-war; IMO Secretary General "no safe transit"
+- [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] — Project Freedom announcement; CENTCOM force package; Iran's 14-pt peace proposal; Bessent on toll revenue
+- [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — disputed warship strike claim; Adnoc tanker hit; Touska crew handover (22/26)
+- [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — IRGC publishes explicit cartographic claim; Cooper statement coupling escort + blockade
+- [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] — macro receipt: cost pressures at late-2022 highs, new-order drop largest since March 2023
 
 ## Open Questions
 

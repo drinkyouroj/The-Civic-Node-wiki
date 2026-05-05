@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, elections, progressive, new-york]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 11
+updated: 2026-05-05
+sources: 12
 ---
 
 ## Overview
@@ -62,6 +62,7 @@ Each is a real governance test, not a slogan, and most will collide with state-l
 - [[Democrats had a big night — 5 takeaways from the 2025 elections]] — win analyzed as identity tension in Democratic Party; AOC pushed back on making him "the face of the party"
 - [[Democrats sweep the first major elections of Trump's second term]] — Trump called him "communist" at Miami forum; GOP tried to nationalize him as Democratic brand
 - [[Democrats 2025 election wins go beyond big races]] — mentioned in context of DSA municipal wins pattern
+- [[Barack Obama Profile — New Yorker - 2026-05-04]] — Obama spoke with Mamdani on the night he was about to win the mayoral race; the two later visited a Bronx pre-K center together, singing "The Wheels on the Bus" while promoting universal child care; Mamdani retracted his earlier "pretty damn evil" Obama tweet as "the stupid tweet of a college student"; Obama said he is "impressed by Mamdani's ability to get across a clear political message" and "someone like Mamdani is a far better spokesman on issues like affordability than he is"
 
 ## Open Questions
 - How has Mamdani governed in his first year — did he make progress on housing and climate?
