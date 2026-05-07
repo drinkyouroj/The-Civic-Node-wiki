@@ -2269,3 +2269,57 @@ Ingested 9 raw files across four story clusters with one new concept page. No ne
 - Per CLAUDE.md "expand when motivated" rule — all defer to a second source.
 
 **Wiki totals after**: 671 sources / 250 entities / 153 concepts / 26 syntheses / 93 articles / 1,196 pages.
+
+
+## [2026-05-07] lint+ingest | Lutnick cover-up framing + Fulton ballots ruling + Russia targeted killings + Epstein suicide note unsealed (4 sources, 2 concepts; 1 duplicate raw flagged)
+
+**Branch**: `ingest/2026-05-07` (created from up-to-date `main` at start of pass; prior `ingest/2026-04-22` confirmed merged via PR #34, no remote ingest branch had open PR).
+
+**Lint findings (separate from ingest)**:
+- Frontmatter and Stats table on `wiki/index.md` reconciled against `ls`-actual at entry: sources 671 / entities 250 / concepts 153 / syntheses 26 / articles 93 / pages 1196. **No drift from prior 2026-05-06 agent.** Overview frontmatter (`sources: 671`) and lede line ("grown from 31 to **671**") matched.
+- Spot-check on prior-day source [[Lutnick Testifies Before House Oversight Epstein Probe — CBS - 2026-05-06]]: documentary-record claims (Adfin partnership through 2014, 2012 Little St. James visit, 2018 emails) align with the raw file; no factual corrections.
+- No new ⚠️ Contradiction markers introduced this cycle; none cleared.
+- Stub-promotion check: Cabinet-Level Retcon, State Capacity Through Proxies, Hybrid Warfare, Transnational Repression, Document Authentication Crisis — all approaching the threshold for promotion but defer per "expand when a source motivates it" rule.
+
+**Sources ingested (4)**:
+- *Politics / accountability (3)*: [[Lutnick Epstein Cover-Up Allegation — The Hill - 2026-05-06]] (The Hill, Sudiksha Kochi, May 6 — Democratic recap of Lutnick's House Oversight closed-door testimony; new admission Lutnick "doesn't remember why he went" to Little St. James in 2012; not videotaped; Khanna says Trump would have fired Lutnick if he saw video; Comer defends as "very transparent"); [[Trump Admin Keeps Seized 2020 Ballots — Reuters via USA Today - 2026-05-06]] (Reuters via USA Today, Andrew Goudsward, May 6 — Judge J.P. Boulee N.D. Ga. rejects Fulton motion; DOJ keeps 600+ boxes of 2020 ballots; **no targets named, statute of limitations expired**; Olsen referral; Gabbard attended search); [[Epstein Purported Suicide Note Unsealed — BBC - 2026-05-07]] (BBC, Nardine Saad, May 7 — Judge Karas S.D.N.Y. unsealed handwritten note via Tartaglione cellmate-custody chain; **authentication unverified**; NYT petitioned; DOJ told NBC it had not previously seen the note)
+- *Geopolitics / Russia (1)*: [[Russia Targeted Killings Europe Ramping Up — AP via ABC News - 2026-05-07]] (AP via ABC News, May 7 — three Western intelligence sources confirm political authorization; doctrinal pivot post-Skripal to proxy execution; 191 sabotage/arson acts AP-mapped; targeting category-shift to dissidents abroad + foreign Ukraine supporters; named cases Osechkin/France, Gabbasov/Lithuania, Bartkevičius/Lithuania, Rheinmetall/Germany, Zelenskyy plot/Poland, Kuzminov killing/Spain; Lithuanian prosecutors charged 13 from 7+ countries)
+
+**Duplicate raw flagged (not ingested as new wiki page)**:
+- `raw/Strait of Hormuz Ships Paying Iran Yuan and Crypto Tolls For Safe Pa….md` — same Bloomberg article (Salma El Wardany et al., published April 1 2026) already ingested 2026-05-01 as [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]]. New raw is an `archive.ph/9WNla` snapshot dated 2026-04-04. Per CLAUDE.md "prefer updating existing pages" rule, no duplicate wiki source page created. Raw file committed (immutable per rule); the existing wiki page already documents the yuan/stablecoin denomination thesis. (The associated `Pasted image 20260507101447.png` at the vault root is the article photo — not committed since it sits outside `raw/`/`wiki/`/`published/`.)
+
+**New concept pages (2)**:
+- [[2020 Election Reinvestigation]] — federal-criminal-investigation pretext for retaining 2020-election-infrastructure custody; structural features (no targets named, expired statute of limitations) make custody itself the policy outcome; Boulee/Fulton ruling = first federal-court endorsement; pairs with [[The Process Is the Punishment]] and inversely with [[James Boasberg]]'s Powell-probe quash
+- [[Russia Targeted Killings Campaign]] — post-Skripal (2018) doctrinal pivot to proxy-recruited assassination; 191 hybrid-warfare incidents; targeting category-shift to dissidents/foreign-Ukraine-supporters; "state capacity through proxies" pattern as cousin to IRGC tollbooth and Wagner Group operations
+
+**Entity pages updated** (no new entities created this cycle):
+- [[Howard Lutnick]] (sources 13→14): added May 6 House Oversight testimony details — "doesn't remember why he went" admission, no-videotape decision, Subramanyam/Ansari/Khanna quotes, Comer defense
+- [[Jeffrey Epstein]] (sources 11→13): added Karas-unsealed purported suicide note (May 6 unsealing, Tartaglione chain-of-custody, authentication unverified, DOJ "had not seen the note"); cross-referenced May 6 Lutnick testimony as first Cabinet-level appearance in Oversight Epstein probe
+- [[Tulsi Gabbard]] (sources 1→2): added January 2026 in-person attendance at FBI Fulton County election center search; framed as boundary-erosion bridging foreign-intelligence and domestic-criminal apparatus around 2020 election claims
+
+**Newsletter angles surfaced**:
+- *Memory as the new retcon location*: Lutnick's "doesn't remember why he went" relocates the contradiction from where-was-he (falsifiable) to why (non-falsifiable) — refining the cabinet-level retcon mechanism.
+- *The probe is the punishment, ballot edition*: Boulee's Fulton ruling lets a probe with no targets and an expired statute of limitations retain 600+ boxes of original 2020 ballots indefinitely. Custody is the policy outcome.
+- *DNI at a domestic ballot search*: Tulsi Gabbard's January 2026 attendance at the Union City search bridges foreign-intelligence and domestic-criminal apparatus — adjacent in form to her Obama-era declassification campaign.
+- *State capacity through proxies as a structural pattern*: Russia's post-Skripal pivot mirrors IRGC's Hormuz tollbooth and Wagner's African operations. Worth a dedicated piece.
+- *Document-authentication crisis as new category*: The Karas-unsealed Epstein note is the wiki's first source where the *authenticity* of the underlying document is itself the political playing field.
+
+**Source acquisition targets / follow-ups**:
+- Lutnick House Oversight transcript (when public)
+- Bondi House Oversight testimony (scheduled later May 2026)
+- Olsen White House role memos (FOIA target)
+- AP's project page mapping the 191 Russian-linked sabotage incidents in Europe (link referenced in AP article)
+- U.S.-domestic counterpart reporting on Russian/foreign-state proxy targeting on North American soil — open question
+- Tartaglione 2024 podcast appearance for chain-of-custody primary
+
+**Deferred stubs** (wikilinks left in source/entity/concept pages; not created as standalone pages):
+- People: Vladimir Putin, Vladimir Osechkin, Ruslan Gabbasov, Valdas Bartkevičius, Maxim Kuzminov, Sergei Skripal, Dmitry Peskov, Dominic Murphy, Volodymyr Zelenskyy, J.P. Boulee, Kurt Olsen, Kenneth M. Karas, Nicholas Tartaglione, John A. Wieder, Suhas Subramanyam, Yassamin Ansari, Ro Khanna, Sudiksha Kochi, Andrew Goudsward, Nardine Saad
+- Orgs: GRU / Russian Military Intelligence, Rheinmetall, Property of the People, Fulton County Election Center
+- Concepts: Cabinet-Level Retcon (referenced 4+ times across overviews; promote when an external source explicitly names it), Hybrid Warfare, Transnational Repression, Document Authentication Crisis, Accountability Architecture, State Capacity Through Proxies (the pattern uniting IRGC/Wagner/Russia-Europe — strong candidate for promotion next cycle)
+
+**Sanity check** (Phase 1 step 1+2 re-run on new state):
+- `find wiki/sources -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **675** ✓ matches index frontmatter `total_sources: 675`
+- `find wiki/concepts -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **155** ✓ matches `total_concepts: 155`
+- Overview frontmatter `sources: 675` and lede "grown from 31 to **675**" ✓ match
+
+**Wiki totals after**: 675 sources / 250 entities / 155 concepts / 26 syntheses / 93 articles / 1,202 pages.

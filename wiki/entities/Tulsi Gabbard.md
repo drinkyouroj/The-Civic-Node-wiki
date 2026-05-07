@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, intelligence, trump-administration]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 1
+updated: 2026-05-07
+sources: 3
 ---
 
 ## Overview
@@ -18,6 +18,8 @@ Tulsi Gabbard is the Director of National Intelligence (DNI) in Trump's second t
 - Sent materials to DOJ and FBI for criminal referral against Obama-era officials
 - Rep. Jim Himes (D-CT, top Dem on House Intelligence): called claims "baseless"
 - None of the named officials responded to Fox News requests for comment
+- **January 2026**: Attended in person the FBI search of Fulton County, Georgia's election center in Union City — characterized by Reuters as "an unusual move for an official whose focus is on foreign threats to the United States." Search seized 600+ boxes of original 2020 ballots; referral source was [[Kurt Olsen]] (Trump 2020 election lawyer, White House-tasked vote re-examiner). Judge J.P. Boulee (N.D. Ga.) on May 6 2026 rejected Fulton County's motion to recover the originals; DOJ has identified no targets and not contested expired statute of limitations on both named crimes ([[Trump Admin Keeps Seized 2020 Ballots — Reuters via USA Today - 2026-05-06]]; new concept: [[2020 Election Reinvestigation]]).
+- DNI presence at a domestic ballot search bridges foreign-intelligence and domestic-criminal apparatus around 2020 election claims — adjacent in form to her July 2025 declassification campaign against Obama-era officials.
 
 ## Newsletter Relevance
 Gabbard's DNI role is the institutional mechanism for Trump's "deep state revenge" arc — using the intelligence apparatus to retroactively validate claims that Trump was targeted by a conspiracy. Whether the documents support her claims is a separate question from their political function: creating permanent narrative ammunition and, via criminal referrals, the possibility of prosecuting political opponents from the previous administration.

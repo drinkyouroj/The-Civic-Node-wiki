@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-06
-total_pages: 1196
-total_sources: 671
+updated: 2026-05-07
+total_pages: 1202
+total_sources: 675
 total_entities: 250
-total_concepts: 153
+total_concepts: 155
 total_syntheses: 26
 total_articles: 93
 ---
@@ -23,6 +23,22 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-07 Ingest — Lutnick cover-up framing + Fulton ballots ruling + Russia targeted killings + Epstein suicide note unsealed (4 sources, 2 concepts; 1 duplicate raw flagged)
+
+**Politics / accountability (3)**:
+- [[Lutnick Epstein Cover-Up Allegation — The Hill - 2026-05-06]] — Democratic recap of [[Howard Lutnick]] House Oversight closed-door interview; new admission Lutnick "doesn't remember why he went" to Little St. James in 2012; not videotaped; Khanna: "if Trump had seen the video he would have fired Lutnick"; Comer defends as "very transparent"
+- [[Trump Admin Keeps Seized 2020 Ballots — Reuters via USA Today - 2026-05-06]] — Judge J.P. Boulee (N.D. Ga.) rejects Fulton County motion; DOJ keeps 600+ boxes of 2020 ballots; **no targets named, statute of limitations expired on both crimes**; referral by [[Kurt Olsen]]; DNI [[Tulsi Gabbard]] attended the search
+- [[Epstein Purported Suicide Note Unsealed — BBC - 2026-05-07]] — Federal Judge Kenneth M. Karas (S.D.N.Y.) unseals **unauthenticated** handwritten note via Tartaglione cellmate-custody chain; NYT petitioned; DOJ told NBC it had not previously seen the note
+
+**Geopolitics / Russia (1)**:
+- [[Russia Targeted Killings Europe Ramping Up — AP via ABC News - 2026-05-07]] — AP via three Western intelligence sources: post-2022 Russian-state-authorized assassination campaign; doctrinal shift to **proxy-recruited execution** post-Skripal expulsions; **191 sabotage/arson incidents** mapped; targeting category-shift to dissidents abroad and foreign Ukraine supporters; named cases (Osechkin/France, Gabbasov/Lithuania, Bartkevičius/Lithuania, Rheinmetall plot/Germany, Zelenskyy plot/Poland, Kuzminov killing/Spain)
+
+**New concepts (2)**:
+- [[2020 Election Reinvestigation]] — federal-criminal-investigation pretext for retaining 2020-election-infrastructure custody; pretext (no targets named, expired statute of limitations) is the structural feature; Boulee ruling = first federal-court endorsement
+- [[Russia Targeted Killings Campaign]] — post-Skripal doctrinal pivot to proxy execution; 191 hybrid acts; targeting category-shift; "state capacity through proxies" pattern as cousin to IRGC tollbooth and Wagner
+
+**Duplicate raw flagged (not ingested)**: `raw/Strait of Hormuz Ships Paying Iran Yuan and Crypto Tolls For Safe Pa….md` is the same Bloomberg article already on the wiki as [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]] — different snapshot (archive.ph vs. bloomberg.com). Per "prefer updating existing pages" rule, no duplicate wiki source page created.
 
 ### 2026-05-06 Ingest — Project Freedom paused + Iran escalation rhetoric + Rare Earth backfill + ISM Mfg + Lutnick/Epstein + Apple AI settlement + Retirement anxiety (10 sources, 1 entity, 3 concepts)
 
@@ -1273,6 +1289,8 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Satellite Monitoring]] — Stub; expand when dedicated source motivates
 - [[Moon Landing Denial]] — Stub; Artemis II conspiracy target; expand when dedicated source motivates
 - [[Algorithmic Incentives]] — Stub; expand when dedicated source motivates
+- [[2020 Election Reinvestigation]] — Federal-criminal-investigation pretext for retaining 2020-election-infrastructure custody (no targets named, expired statute of limitations); Boulee/Fulton ruling = first federal-court endorsement
+- [[Russia Targeted Killings Campaign]] — Post-Skripal doctrinal pivot to proxy-recruited assassination on European soil; 191 sabotage acts mapped; "state capacity through proxies" pattern (cousin to IRGC/Wagner)
 
 ### AI & Technology
 - [[AI in Healthcare]] — Diagnostic AI; CT scan texture analysis; Oxford 86% cardiac prediction; deployment gap; NHS as population-scale testbed
@@ -1489,12 +1507,52 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 671 |
+| Total sources ingested | 675 |
 | Published articles tracked | 93 (82 standalone + 11 episodes) |
 | Entity pages | 250 |
-| Concept pages | 153 |
+| Concept pages | 155 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-05-06 |
+| Last updated | 2026-05-07 |
+
+### 2026-05-07 New Pages (lint + ingest)
+
+**Sources (4)**:
+- Politics / accountability (3): [[Lutnick Epstein Cover-Up Allegation — The Hill - 2026-05-06]], [[Trump Admin Keeps Seized 2020 Ballots — Reuters via USA Today - 2026-05-06]], [[Epstein Purported Suicide Note Unsealed — BBC - 2026-05-07]]
+- Geopolitics / Russia (1): [[Russia Targeted Killings Europe Ramping Up — AP via ABC News - 2026-05-07]]
+
+**Concept pages (2 new)**:
+- [[2020 Election Reinvestigation]] — federal-criminal-investigation pretext for retaining 2020-election-infrastructure custody; Boulee ruling = first federal-court endorsement
+- [[Russia Targeted Killings Campaign]] — post-Skripal doctrinal pivot to proxy-recruited execution; 191 sabotage acts; targeting category-shift to dissidents abroad and foreign Ukraine supporters
+
+**Entity pages updated** (no new): [[Howard Lutnick]] (sources 13→14), [[Jeffrey Epstein]] (11→13), [[Tulsi Gabbard]] (1→2)
+
+**Duplicate raw flagged**: `raw/Strait of Hormuz Ships Paying Iran Yuan and Crypto Tolls For Safe Pa….md` is a different snapshot of the same Bloomberg article already ingested as [[Iran Hormuz Yuan and Stablecoin Tolls — Bloomberg - 2026-04-01]]; no new wiki source page created.
+
+**Lint findings**:
+- Frontmatter and Stats table reconciled against actual `ls` counts at start of pass: sources 671, entities 250, concepts 153, syntheses 26, articles 93, pages 1196 — **no drift from prior 2026-05-06 agent**. Rolled forward to sources 675, concepts 155, pages 1202.
+- Spot-check on prior-day [[Lutnick Testifies Before House Oversight Epstein Probe — CBS - 2026-05-06]]: documentary-record claims (Adfin 2014, 2012 island visit, 2018 emails) align with raw file. No factual corrections.
+- No new ⚠️ Contradiction markers introduced; none cleared.
+
+**Newsletter angles surfaced**:
+- *Memory as the new retcon location*: Lutnick's "doesn't remember why he went" is structurally novel — he's not contesting the trip, he's relocating the contradiction into memory (non-falsifiable space). Cabinet-Level Retcon is approaching the threshold for a standalone concept page.
+- *The probe is the punishment, ballot edition*: Boulee's Fulton ruling lets a probe with no targets and an expired statute of limitations retain 600+ boxes of original ballots indefinitely. The custody arrangement *is* the policy outcome. Pair with [[The Process Is the Punishment]].
+- *DNI at a domestic ballot search*: Tulsi Gabbard's January 2026 attendance at the Union City FBI search is the under-emphasized structural anomaly — the same boundary-erosion that put DNI in foreign-intelligence-into-Obama-era-criminal-referrals territory now extends to domestic election infrastructure.
+- *State capacity through proxies as a structural pattern*: Russia's post-Skripal pivot to proxy-recruited assassination is the same structural form as IRGC's Hormuz tollbooth and Wagner's African operations — when sanctions/expulsions eliminate state-direct capacity, states adopt proxy-and-platform models. Worth a dedicated piece.
+- *Document-authentication crisis as new category*: The Karas-unsealed Epstein note is the wiki's first source where the *authenticity* of the underlying document is itself the political playing field. Different category from prior Epstein documents.
+
+**Source acquisition targets**:
+- Lutnick House Oversight transcript (when public)
+- Bondi House Oversight testimony (scheduled later May 2026)
+- Olsen White House role memos (FOIA target)
+- AP's project-page mapping the 191 Russian-linked sabotage incidents in Europe
+- U.S.-domestic counterpart reporting on Russian/foreign-state proxy targeting on North American soil — open question
+- Tartaglione 2024 podcast appearance (chain-of-custody primary)
+
+**Deferred stubs** (not created — wikilinks left in pages):
+- People: Vladimir Putin, Vladimir Osechkin, Ruslan Gabbasov, Valdas Bartkevičius, Maxim Kuzminov, Sergei Skripal, Dmitry Peskov, Dominic Murphy, Volodymyr Zelenskyy, J.P. Boulee, Kurt Olsen, Kenneth M. Karas, Nicholas Tartaglione, John A. Wieder, Suhas Subramanyam, Yassamin Ansari, Ro Khanna, Sudiksha Kochi, Andrew Goudsward, Nardine Saad
+- Orgs: GRU / Russian Military Intelligence, Rheinmetall, Property of the People, Fulton County Election Center
+- Concepts: Cabinet-Level Retcon (referenced 4+ times across overviews; promote when an external source explicitly names it), Hybrid Warfare, Transnational Repression, Document Authentication Crisis, Accountability Architecture, State Capacity Through Proxies (the pattern uniting IRGC/Wagner/Russia-Europe)
+- Note: defer per CLAUDE.md "expand when a source motivates it" rule.
 
 ### 2026-05-06 New Pages (lint + ingest)
 
