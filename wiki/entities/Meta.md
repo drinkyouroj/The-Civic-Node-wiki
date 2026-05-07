@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, politics, antitrust, power]
 created: 2026-04-07
-updated: 2026-04-17
-sources: 13
+updated: 2026-05-07
+sources: 16
 ---
 
 ## Overview
@@ -38,6 +38,9 @@ Meta sits at the intersection of three major themes: algorithmic power over demo
 - [[How Social Media Algorithms Are Set to Change in 2025 — TouchStone Digital]] — Facebook and Instagram 2025 algorithm shifts described for marketers
 - [[Keep Up With Social Media Algorithm Changes in 2025 — Vista Social]] — Instagram/Facebook feature inventory; Collaborative Posts, Reels Remix, Shopping Tags, Reels Integration
 - [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — Instagram intent modeling, Threads crossover influence, Facebook four-step ranking pipeline, "AI moderator assist"
+- [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — joint AEP Ohio + Meta PUCO filing (Nov 24 2025) to draw power from Green Chapel substation built for Intel's $28B fab; three-year arrangement (Jan 1 2026 - Dec 31 2028); inheritance pattern that rhymes with Microsoft/Stargate Abilene
+- [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]] — Meta's $10B El Paso data center; 366 MW gas-fired plant via 813 modular Enchanted Rock generators; explicit "bridge period" cost-shifting (Meta pays 1-5 years, then ratepayers); local opposition documented
+- [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — Meta's nuclear-partnership track (Vistra/TerraPower/Oklo for 6.6 GW by 2035) cited as parallel to Google's vertical-integration acquisition
 
 ## Open Questions
 - What is the current status of the FTC antitrust case?

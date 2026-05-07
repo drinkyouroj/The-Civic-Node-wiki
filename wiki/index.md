@@ -2,10 +2,10 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-12
-total_pages: 1210
-total_sources: 682
-total_entities: 250
-total_concepts: 155
+total_pages: 1224
+total_sources: 689
+total_entities: 255
+total_concepts: 157
 total_syntheses: 26
 total_articles: 94
 ---
@@ -44,6 +44,32 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 **No new entity pages this cycle** (all referenced entities already exist or deferred — see log).
 **No new concept pages** ([[Redistricting Arms Race]] expanded with three new sources; [[Voting Rights Act Erosion]] deferred pending *Callais* primary ingestion).
+
+### 2026-05-07 Ingest #2 — AI Buildout Grid Constraint research (7 sources, 2 concepts, 5 entities) — for May 15 article "12 Gigawatts Were Announced. 4 Are Being Built."
+
+**Power & Infrastructure / AI buildout (7)**:
+- [[Transformers in 2026 — POWER Magazine - 2026-01-02]] — POWER Magazine / Sonal C. Patel; Wood Mackenzie data: large power transformers averaging 128 weeks lead time; GSUs 144 weeks; substation transformers 140→160+ weeks (2023-2026); 30% supply deficit projection; 9,000 units/year by 2030 (vs 1,500); Patrick Tarver contrarian view ("there is not a shortage")
+- [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — WOSU / Mark Ferenchik; AEP Ohio + Meta joint PUCO filing (Nov 24 2025) for three-year arrangement (Jan 1 2026 - Dec 31 2028) to draw power from Green Chapel substation built for Intel's $28B chip fab; four temporary power lines; **inheritance pattern rhyming with Stargate Abilene**
+- [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]] — El Paso Matters / Diego Mendoza-Moyers; PUCT filings on 366 MW gas-fired plant (~$500M) via 813 modular Enchanted Rock generators for Meta's $10B data center; explicit "bridge period" cost-shifting (Meta pays 1-5 years, then ratepayers); local opposition (Canales, Rodriguez)
+- [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]] — Bricks & Bytes / Aren Deu; Sightline Climate: 5 GW of 16 GW global 2026 pipeline under construction; expects 30-50% to slip; corroborates Wood Mackenzie 128/144-week transformer lead times; Burry depreciation thesis (~$176B understated through 2028)
+- [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] — POWER Magazine / Sonal C. Patel; Microsoft's Jan 13 2026 four-point framework (first major hyperscaler comprehensive commitment); 7.9 GW MISO contracting; FERC Dec 18 2025 PJM order on co-located/behind-the-meter loads; **13 PJM-region governors' Jan 15 2026 Statement of Principles**
+- [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — Introl / Blake Crosley; Alphabet's $4.75B acquisition of Intersect Power (Dec 22 2025); 3.6 GW under development; Quantum Clean Energy Project (Texas, 640 MW solar + 1.3 GWh storage); Northern Virginia 7-year and California 9+ year interconnection delays; **vertical-integration as queue bypass** as the dominant pattern
+- [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]] — Latitude Media / Phoebe Skok + Bianca Giacobone; LBNL "Queued Up" data: 2,600 GW in queues vs 1,279 GW installed capacity; ~11,600 active projects; 70% withdrawal rate; wait times 2008 <2y → 2015 3y → 2023 5y; 14% solar / 11% battery completion (2000-2018 cohort)
+
+**New concepts (2)**:
+- [[AI Buildout Grid Constraint]] — master concept for the four interlocking sub-constraints (interconnection-queue depth, transformer/substation lead times, transmission timelines, PPA cycles); concentrated and slow-to-expand; 8 sources
+- [[Interconnection Queue]] — vocabulary for the queue sub-constraint; FERC Dec 2025 PJM order = first regulatory recognition; 4 sources
+
+**New entities (5)**:
+- [[Wood Mackenzie]] — global energy research and consulting firm; primary citable source for transformer lead times and supply-chain forecasting (sources: 2)
+- [[AEP Ohio]] — Ohio utility; subsidiary of American Electric Power; Green Chapel substation case study (sources: 1)
+- [[El Paso Electric]] — Texas utility; "bridge period" cost-shifting model contractually documented (sources: 1)
+- [[Intersect Power]] — US renewable developer (Sheldon Kimber CEO); acquired by Alphabet/Google for $4.75B; "energy park" co-located-generation model (sources: 1)
+- [[Crusoe Energy]] — energy infrastructure / on-site-power-plant operator at Stargate Abilene; Andrew Likens energy lead; Likens supply-chain quote is most-cited single line (sources: 2; backfilled — entity wikilinked from prior sources without dedicated page)
+
+**Entity pages updated**: [[Meta]] (sources 13→16), [[Microsoft]] (8→11), [[Intel]] (3→4)
+
+**Source acquisition note**: Two failed fetches not blocking — DCD coverage of Meta/AEP Ohio (403; redundant with WOSU primary); McKinsey 24/7 clean power (timeout; secondary value only). LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) cited via Latitude Media interpretation; PDF itself can be acquired separately if RTO-specific breakdowns are needed.
 
 ### 2026-05-07 Ingest — Lutnick cover-up framing + Fulton ballots ruling + Russia targeted killings + Epstein suicide note unsealed (4 sources, 2 concepts; 1 duplicate raw flagged)
 
@@ -1197,6 +1223,11 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[University of Connecticut]] — US research university; Nature light pollution study contributor
 - [[Sony]] — Japanese electronics conglomerate; Sony AI division built Ace reinforcement-learning table tennis robot; "ChatGPT moment for robotics"; military-application dual-use flagged by Spranger
 - [[Google DeepMind]] — Google's AI research division; third US frontier-AI lab; prior table tennis robotics work referenced in Sony Ace coverage
+- [[Wood Mackenzie]] — Global energy research and consulting firm; primary data source for transformer lead times (128/144 wks Q2 2025), supply-chain forecasting; 30% transformer supply deficit projection; 9,000 units/yr by 2030
+- [[AEP Ohio]] — Ohio utility; subsidiary of American Electric Power; Green Chapel substation built for Intel's $28B fab now powering Meta New Albany data center under three-year PUCO arrangement (2026-2028)
+- [[El Paso Electric]] — Texas utility; PUCT filings on 366 MW gas-fired plant for Meta's $10B data center; explicit "bridge period" cost-shifting model (Meta pays 1-5 years, then ratepayers)
+- [[Intersect Power]] — US renewable energy developer (Sheldon Kimber CEO); acquired by Alphabet/Google for $4.75B (Dec 2025); 3.6 GW under development; "energy park" co-located generation model bypassing interconnection queues
+- [[Crusoe Energy]] — Energy infrastructure / on-site-power-plant operator at Stargate Abilene; Andrew Likens (energy lead) supply-chain quote ("If one piece of your supply chain is delayed...") is the most-cited operator-class voice on AI buildout bottlenecks
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
@@ -1218,6 +1249,8 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 ## Concepts
 
 ### Power & Infrastructure
+- [[AI Buildout Grid Constraint]] — Master concept for the 2026-2030 AI buildout's binding physical bottleneck; four interlocking sub-constraints (interconnection-queue depth, transformer/substation lead times, transmission timelines, PPA cycles); chip-layer-vs-grid-layer choice as the analytical frame; primary research base for May 15 article
+- [[Interconnection Queue]] — Vocabulary for the queue sub-constraint; ~2,600 GW in queues vs ~1,279 GW installed capacity (LBNL); 70% withdrawal rate; FERC Dec 18 2025 PJM order = first major regulatory recognition
 - [[AI DRAM Crisis]] — The LOI mechanism: non-binding OpenAI demand signal → market panic → binding contracts → prices locked 2027-2028; three-company oligopoly (91.5% global revenue); synthesis concept for the DRAM cluster
 - [[Chokepoint Control]] — How geographic/infrastructure bottlenecks confer coercive power; Strait as paradigm case; rare-earth licensing as bureaucratic-chokepoint variant
 - [[Rare Earth Export Controls]] — China's permit/licensing regime; 89% global REE refining concentration; April 2025 7-element regime as operational chokepoint over Western defense; Busan pause did not suspend it
@@ -1531,8 +1564,8 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 |---|---|
 | Total sources ingested | 682 |
 | Published articles tracked | 94 (83 standalone + 11 episodes) |
-| Entity pages | 250 |
-| Concept pages | 155 |
+| Entity pages | 255 |
+| Concept pages | 157 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
 | Last updated | 2026-05-12 |
 
@@ -1582,6 +1615,41 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - Orgs: U.S. Supreme Court (referenced 6+ times across redistricting + CPI — strong candidate for promotion next cycle), Virginia Supreme Court (4+ references), Bureau of Labor Statistics, NAACP Legal Defense and Educational Fund, Texas Office of the Attorney General, Paris public prosecutor's office, xAI, X (Twitter), Netflix, NRCC, DCCC, FOMC (functionally a sub-entity of [[Federal Reserve]])
 - Concepts: Voting Rights Act Erosion (3 sources today; promote when *Callais* primary ingested), Mid-Decade Redistricting (covered by [[Redistricting Arms Race]] — no separate page), Shadow-Docket Operationalization, Documentary-Record-vs-Public-Statement Gap (the cross-cluster pattern: Lutnick/Apple/Hastings — strong candidate for promotion), Dark Patterns / Engagement-Maximizing UX
 - Per CLAUDE.md "expand when motivated" rule — all defer to a second-source threshold.
+
+### 2026-05-07 New Pages — Ingest #2 (AI Buildout Grid Constraint research for May 15 article)
+
+**Sources (7)** — Power & Infrastructure / AI buildout:
+- [[Transformers in 2026 — POWER Magazine - 2026-01-02]] — Wood Mackenzie transformer lead times
+- [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — Green Chapel substation case study
+- [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]] — Cost-shifting "bridge period" mechanism
+- [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]] — Adjacent thesis corroboration
+- [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] — First major hyperscaler four-point commitment + PJM governors' statement
+- [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — Vertical-integration / energy-park workaround
+- [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]] — LBNL queue data interpretation
+
+**Concept pages (2 new)**:
+- [[AI Buildout Grid Constraint]] — master concept; four interlocking sub-constraints
+- [[Interconnection Queue]] — vocabulary for the queue sub-constraint
+
+**Entity pages (5 new)**:
+- [[Wood Mackenzie]] — primary transformer-data source
+- [[AEP Ohio]] — Green Chapel case study utility
+- [[El Paso Electric]] — bridge-period cost-shifting case study
+- [[Intersect Power]] — Google acquisition; vertical-integration template
+- [[Crusoe Energy]] — on-site generation operator (backfilled — entity was wikilinked from prior sources without dedicated page until now)
+
+**Entity pages updated**: [[Meta]] (sources 13→16), [[Microsoft]] (8→11), [[Intel]] (3→4)
+
+**Failed fetches (not blocking)**: DCD article on Meta/AEP Ohio (403; redundant with WOSU primary); McKinsey 24/7 clean power (timeout; secondary value only). LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) cited via Latitude Media; PDF can be acquired separately if RTO-specific breakdowns needed.
+
+**Newsletter angles surfaced**:
+- *Inheritance pattern as a category, not a coincidence*: Microsoft inheriting Stargate Abilene from OpenAI + Meta inheriting Green Chapel from Intel = the same structural move at the substation level. The contracts being inherited aren't for compute — they're for grid position.
+- *Vertical integration is now the dominant hyperscaler workaround*: Google+Intersect ($4.75B), Microsoft+Brookfield ($10B / 10.5 GW), Amazon+Talen, Meta+nuclear (Vistra/TerraPower/Oklo) — four parallel vertical-integration moves indicate the queue-bypass pattern is structural, not exceptional.
+- *Cost-shifting in two registers*: Microsoft's Jan 2026 commitment to permanent full-cost recovery is the first major hyperscaler anti-cost-shifting pledge. El Paso Electric / Meta's "bridge period" model (Meta pays 1-5 years, then ratepayers) is the cost-shifting mechanism made contractually explicit. The two are inverse.
+- *PJM governors' Jan 15 2026 Statement is the regulatory turning point*: Thirteen state governors signing simultaneously is the first major coalition recognizing data-center cost-shifting as political problem. Worth tracking how state utility commissions implement.
+- *The contrarian voice is operationally important*: Patrick Tarver's "there is not a shortage" framing (bottleneck = procurement structure, not manufacturing) is honestly reported alongside Wood Mackenzie's 30% deficit projection. Both are documented, both deserve weight.
+
+---
 
 ### 2026-05-07 New Pages (lint + ingest)
 
