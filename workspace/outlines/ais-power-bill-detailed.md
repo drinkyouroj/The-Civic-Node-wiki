@@ -11,7 +11,7 @@ publish_target: 2026-05-15
 length_target: 2000
 pillar: "2 — Power & Infrastructure"
 purpose: "Authority"
-status: "detailed outline complete; needs source acquisition (Items 3 & 4) before drafting"
+status: "detailed outline complete; Item 4 reframed (PPA Lead-Time Wall → Grid Stack Has Three Calendars); fully sourced; draft-ready"
 parent: "ais-power-bill.md"
 headline: "12 Gigawatts Were Announced. 4 Are Being Built."
 subheadline: "Not chips. Transformers, batteries, circuit breakers — under 10% of the cost, 100% of the gating. The AI capex story is being told from the wrong layer."
@@ -233,58 +233,73 @@ Key sentence to land: the asymmetric-edge claim, framed so the reader can immedi
 
 ---
 
-## Section 4: The PPA Lead-Time Wall
-**Proposed subheadline:** The Contract the Trade Press Summarizes Without Reading
-**Word target:** ~275 words | **Tone:** contract-language specific — the writer who reads the document the trade press summarizes
-**Argument job:** Walk through one named hyperscaler PPA to show contract-language asymmetry. Pair with the substation lead-time data point to establish the timeline asymmetry between chip and grid layers.
-**Status: SOURCE GAP — needs acquisition by May 11. Section is structurally complete; the named PPA is load-bearing.**
+## Section 4: The Grid Stack Has Three Calendars. None of Them Are Short.
+**Proposed subheadline:** Queue, Transformer, Substation — Each on a Different Multi-Year Clock
+**Word target:** ~275 words | **Tone:** document-forward, structural — three calendars stacked, each independently multi-year
+**Argument job:** Establish that the AI buildout's lead-time problem isn't one calendar but three, stacked. Each calendar is independently multi-year; together they compound. The reframe makes the chip-vs-grid duration asymmetry quantifiable rather than gestural.
+**Status: Fully sourced. May 7 ingest pass closed all hard blockers; reframed from the original "PPA Lead-Time Wall" framing to the actual three-calendars structure the data supports.**
 
-**¶1 — The PPA as public document; lead-time trend**
-
-Facts to deploy (in order):
-- PPAs are filed publicly when they pass through PUC approval; terms are knowable
-  Source: original claim; verifiable via PUC websites
-- [SOURCE GAP — claim from plan, needs verification] Hyperscaler PPAs signed in 2024 had average lead times of ~18 months; equivalent agreements signed late-2025 / early-2026 have lead times of 5–7 years
-  Source: SOURCE GAP — plan flagged this trend; needs a citable industry analyst report (Wood Mackenzie, S&P Platts, or LevelTen Energy) confirming the lead-time progression
-- The lead-time tripling is the fact
-
-Argument move: introduces the document and the trend in one beat.
-
-Key sentence to land: must compress the lead-time progression to a single arresting line — 18 months to 5–7 years is the headline number for this section.
-
-**¶2 — One named PPA**
+**¶1 — The three calendars introduced**
 
 Facts to deploy (in order):
-- [SOURCE GAP] One specific PPA from 2025–26 PUC filings — Microsoft, Meta, or Google. Walk through:
-  - Counterparties (utility + hyperscaler)
-  - Capacity (MW) and term (years)
-  - The substation upgrade or transmission build referenced in contract language
-  - The interconnection condition in the boilerplate
-  Source: SOURCE GAP — to be acquired May 11. Likely candidates: Microsoft PPAs in Wisconsin / Virginia / Texas (high recent filing volume); Meta PPAs in Louisiana / Georgia; Google PPAs in Iowa / Nevada.
+- The grid stack has three nested calendars — interconnection queue clearance, transformer procurement, substation/transmission energization. Each multi-year independently; collectively compounding.
+- **Calendar 1 — interconnection queue clearance:** US-wide average 5 years (2023 cohort, LBNL "Queued Up"); Northern Virginia 7 years; California 9+ years. ~2,600 GW in queues vs. ~1,279 GW installed capacity. 70% of projects withdraw before completion. Wait times: 2008 <2y → 2015 3y → 2023 5y — trajectory widens.
+  Source: [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]] (LBNL data); [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (NoVa 7y / CA 9+y specifics)
+- **Calendar 2 — transformer procurement:** Large power transformers averaging 128 weeks (~2.5 yr); GSU units 144 weeks (~2.75 yr); substation transformers stretched from 140 weeks (2023) to 160+ weeks (2026). Wood Mackenzie projects 30% supply deficit; demand growth +119% (power) / +274% (GSU) since 2019.
+  Source: [[Transformers in 2026 — POWER Magazine - 2026-01-02]] (Wood Mackenzie data); [[Power Transformer Shortage]] concept page
+- **Calendar 3 — substation / transmission energization:** US transmission projects require 7-10 years for permitting and siting. >55% of US distribution transformers exceed 33 years old — aging-infrastructure load compounds the new-build calendar.
+  Source: [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] (Microsoft's own framing of 7-10 year transmission timeline)
 
-Argument move: specific case as proof. The contract language IS the bottleneck made visible.
+Argument move: introduces the three calendars in one beat. Establishes that "lead time" is shorthand for three separately-binding multi-year processes.
 
-Key sentence to land: the substation reference inside the contract — the binding constraint hidden in the fine print. This is the moment where the reader sees the constraint in a contract clause for the first time.
+Key sentence to land: must compress all three calendars to a model-sentence-grade landing matching the headline's period-period rhythm. Example shape (describe, don't draft): a three-clause numerical sentence about each calendar, then one short follow-up that names the consequence (stacking).
 
 💡 [RHETORICAL SUGGESTION — USE OR SKIP]
-Type: Borrowed frame from contract language
-Location: Throughout ¶2; could anchor the section
-Suggestion: The "subject to interconnection" clause as the load-bearing fine print — borrowing from one of the alternative headline candidates (Option A in tcn-headline). The bridging property: every PPA has the clause; the clause is theatrical-when-procurement-was-easy and dispositive-when-procurement-is-hard. Treat the clause as a piece of the document that has changed in nature without changing in language.
-Example shape: A clause that always existed and always meant the same thing, except now it does what it always could.
-Why it might work: Concrete contract language as the analytical hook is a structural credibility move — it signals Justin reads documents.
-Why it might not: Risk of the section reading as legalistic; needs to land on what the clause means in plain language for the reader who's never seen a PPA.
+Type: Compressed numerical structure
+Location: ¶1 closing
+Suggestion: A three-clause period-period landing that converts the three calendars into a rhythm. The bridging property: structural compression makes the duration asymmetry feel quantitative rather than gestural.
+Example shape: Three numbers in sequence, then one short follow-up sentence that names the compounding consequence ("stacked," "they don't sequence," "they run in parallel and the longest one wins").
+Why it might work: Echoes the headline's period-period cadence; gives Marcus a saveable structural takeaway he can quote in his own conversations.
+Why it might not: Risk of feeling formulaic if used three times across the article (already in opener, in headline). Track the cadence count.
 
-**¶3 — Substation lead time as the structural constraint**
+**¶2 — One worked case: Meta + AEP Ohio Green Chapel (the inheritance variant)**
 
 Facts to deploy (in order):
-- [SOURCE GAP] Specific substation/transformer procurement-to-energization timeline
-  Source: SOURCE GAP — Wood Mackenzie's Power & Renewables team publishes lead-time data; DOE Grid Deployment Office has procurement data; or specific PUC filing showing the lead time within contract scope
-- The structural claim: the chip layer can be unconcentrated by Chinese fab capacity by 2028; the grid layer cannot be unconcentrated by anything on a comparable timeline
-  Source: original synthesis built on existing wiki sources for the chip layer ([[CXMT]], [[YMTC]], [[The Bluff Is Over. The Price Isn't.]]) plus the substation lead-time source when acquired
+- November 24, 2025: Meta + AEP Ohio jointly file with Public Utilities Commission of Ohio (PUCO) requesting three-year arrangement (service window Jan 1, 2026 - Dec 31, 2028)
+  Source: [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]]
+- **Capacity terms:** 250 MW for three years; Meta initially receives 120 MW, ramping to full 250 MW in April 2026; **full 500 MW Intel allotment restored at start of 2029**
+  Source: [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]]
+- **Green Chapel substation history:** Built to serve Intel's $28B chip fab; completed 2025; remained unused after Intel's July 2025 slowdown announcement. Intel ground broken 2022; first buildings originally projected 2025; now slated 2030 or 2031 due to series of delays.
+- **Cost-recovery framing:** Without Meta, AEP Ohio would have recovered the substation's cost "through rates paid by all AEP customers." AEP Ohio called it a "win-win" deal.
+- **Parallel infrastructure:** Meta's separate 200 MW Socrates South gas plant (June 2025 PUCO approval) is behind-the-meter at the same New Albany site — two power-supply tracks at one site, the same dual pattern as Crusoe Energy's on-site plant + AI factories at Stargate Abilene.
 
-Argument move: lifts from one PPA to the structural claim. The chip-vs-grid timeline asymmetry is the article's central comparative claim.
+Argument move: specific case grounds the abstract calendars. The Meta/AEP Ohio arrangement is what Calendar 1 + Calendar 3 evasion looks like operationally — a hyperscaler opting to inherit instead of wait.
 
-Key sentence to land: must land the "chip layer can be unconcentrated by 2028; grid layer cannot" claim. This is the line that makes the article's Early Warning trigger fully payable — the asymmetric duration is the new information.
+Key sentence to land: must establish that the contract Meta inherited isn't for compute — it's for **already-elapsed calendar time** that Intel paid through. The inheritance is the workaround for Calendar 3, not a substitute for it.
+
+💡 [RHETORICAL SUGGESTION — USE OR SKIP]
+Type: Inheritance-as-time-arbitrage framing
+Location: ¶2 closing
+Suggestion: Meta's three-year arrangement is acquired-time, not acquired-capacity. Frame what Meta is paying AEP Ohio for as the *years of Calendar 3* that Intel's $28B fab program paid through (ground broken 2022, substation completed 2025, sat idle when Intel slowed). The bridging property: time-already-elapsed is a tradable asset when the calendar is the binding constraint.
+Example shape: A single sentence that names what Meta is actually buying when it pays AEP Ohio for the bridge — not megawatts, but the calendar Intel already cleared.
+Why it might work: Gives a structural reading of the inheritance arrangement that the press has framed only as cost-shifting. Makes the abstract "calendar" framing concrete.
+Why it might not: Risk of sounding too clever; the inheritance framing already does most of the work. Trim if it feels overworked.
+
+**¶3 — The structural duration asymmetry (chip layer vs. grid stack)**
+
+Facts to deploy (in order):
+- The chip layer can be unconcentrated by Chinese fab capacity by 2028 — [[CXMT]] Shanghai mega-fab targeting 2027 production; [[YMTC]] third Wuhan fab targeting 2027; competitive pricing pressure lands 2028 at earliest (yield qualification → customer certification → volume ramp = 12-18 months).
+  Source: [[The Bluff Is Over. The Price Isn't.]] (Force 5 of original five forces)
+- The grid stack cannot be unconcentrated by anything on a comparable timeline:
+  - Calendar 1 (queue): no near-term reform compresses 5-9 year clearance to <2 years; FERC's Dec 18 2025 PJM order is a regulatory acknowledgment but not a reform that delivers
+  - Calendar 2 (transformer): announced North American manufacturing buildout (~$1.8B through 2028 — Hitachi Energy / Siemens / Eaton / Prolec GE) is meaningful but Wood Mackenzie projects 9,000-units-by-2030 vs 1,500-today demand; supply gap widens before it narrows
+  - Calendar 3 (transmission): physical permitting + siting cannot be compressed by procurement workaround; behind-the-meter generation bypasses the calendar but doesn't shorten it
+  Sources: [[Transformers in 2026 — POWER Magazine - 2026-01-02]] (manufacturing buildout); [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] (FERC PJM order); [[AI Buildout Grid Constraint]] concept synthesis
+- The 2028 chip decongestion vs. >2030 grid decongestion is the article's structural Early Warning claim made quantitative.
+
+Argument move: lifts from worked case to structural claim. The duration asymmetry is what makes the article's Early Warning trigger fully payable — the asymmetric duration is the new information.
+
+Key sentence to land: must land that the chip layer's unbinding date (2028) and the grid stack's unbinding date (>2030, with no clear ceiling) are structurally different. This is the moment where "the gap widens" thesis becomes defensible. Period-period rhythm appropriate.
 
 ---
 
@@ -519,34 +534,31 @@ Save first. The framework (chip vs. grid layer choice; queue / PPA / substation 
 **5. Accumulation test — Does this raise or maintain the signal floor?**
 Raises. Continues the writer's evolution from chip-layer (Bluff Is Over, Apr 12) to grid-layer (this piece, May 15) — Marcus's explicit conversion criterion is intellectual growth, not fixed positions. Bridges horizontally to the Hormuz piece (May 8) — "two pieces in two weeks naming non-Fed instruments that bind monetary policy" is the kind of cross-domain pattern that earns paid conversion.
 
-**Verdict:** Structurally ready to write. **Cannot be drafted until source acquisition for Items 3 and 4 lands** (deadline May 11 per plan Open Decision #2). All other items are sourced and ready.
+**Verdict:** **Draft-ready.** Source acquisition complete (May 7 ingest pass closed all four hard blockers). Item 4 reframed from "PPA Lead-Time Wall" to "The Grid Stack Has Three Calendars. None of Them Are Short." per the actual sourced data — three nested multi-year calendars (queue clearance / transformer procurement / substation-transmission energization) with the Meta + AEP Ohio Green Chapel arrangement as the worked case study. Article is ready for tcn-draft.
 
 ---
 
-## SOURCE GAPS
+## SOURCE GAPS — RESOLVED (2026-05-07 ingest pass closed all hard blockers)
 
-**Hard blockers (must resolve before drafting begins):**
+**All four hard blockers from the original outline are now closed.** The May 7 ingest pass added 9 new sources covering the queue layer, transformer layer, hyperscaler vertical-integration layer, regulatory layer, and macro corroboration.
 
-1. **Item 3 ¶2 — interconnection queue specific datapoint.** Need: a current snapshot of PJM, ERCOT, or MISO queue depth — proposed-GW total, average wait time, queue-clearing rate.
-   - Likely sources: PJM.com queue dashboard, ERCOT GIS Reports, MISO Generator Interconnection Queue, FERC Form 715 filings, DOE Lawrence Berkeley National Lab annual interconnection queue report
-   - Status: needs ingestion by May 11
+1. ✅ **Item 3 ¶2 — interconnection queue specific datapoint.** Resolved via [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]] interpreting LBNL "Queued Up" data: 2,600 GW in queues vs 1,279 GW installed capacity; ~11,600 active projects; 70% withdrawal; 5-year US average wait (2023 cohort). Specific regional delays via [[Google Intersect Power Acquisition — Introl - 2026-01-20]]: Northern Virginia 7y, California 9+y.
 
-2. **Item 4 ¶1 — PPA lead-time progression.** Need: industry analyst report confirming the 18-month → 5–7-year lead-time trend in hyperscaler PPAs from 2024 to late 2025 / early 2026.
-   - Likely sources: Wood Mackenzie Power & Renewables, S&P Platts, LevelTen Energy reports
-   - Status: needs ingestion by May 11
+2. ✅ **Item 4 ¶1 — lead-time framing.** Reframed and resolved. The original "18-month → 5-7-year PPA lead time" framing didn't survive contact with the data. Reframed to **three nested calendars** (queue clearance / transformer procurement / substation-transmission energization), each multi-year independently. Anchored across [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]] (queue), [[Transformers in 2026 — POWER Magazine - 2026-01-02]] (Wood Mackenzie 128/144/160-week transformer data), [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] (US transmission projects 7-10 years for permitting and siting).
 
-3. **Item 4 ¶2 — one named hyperscaler PPA.** Need: a public-record PPA from 2025–26 PUC filings with substation/transmission upgrade language readable in the contract.
-   - Likely candidates: Microsoft Wisconsin (We Energies), Microsoft Virginia (Dominion), Meta Louisiana (Entergy), Google Iowa (MidAmerican), Google Nevada (NV Energy)
-   - Status: needs ingestion by May 11
+3. ✅ **Item 4 ¶2 — named utility-filing case study.** Resolved via the Meta + AEP Ohio Green Chapel substation arrangement: [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] (local public-media reporting on Nov 24 2025 PUCO filing) + [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (DCD trade-press companion adding 250/500 MW capacity figures, ramp dates, 2029 Intel restoration). The case is editorially stronger than the original "named PPA" target because it rhymes with the Microsoft/Stargate Abilene case in Item 1 — two cases of hyperscaler inheritance of already-elapsed calendar time.
 
-4. **Item 4 ¶3 — substation/transformer procurement-to-energization timeline.** Need: a citable specific lead-time figure.
-   - Likely sources: Wood Mackenzie, DOE Grid Deployment Office, or specific PUC filing showing the timeline within contract scope
-   - Status: needs ingestion by May 11
+4. ✅ **Item 4 ¶3 — substation/transformer procurement-to-energization timeline.** Resolved via Wood Mackenzie data through [[Transformers in 2026 — POWER Magazine - 2026-01-02]]: 128-week large power transformers (~2.5 yr); 144-week GSUs (~2.75 yr); 140 → 160+ week substation transformers (2023 → 2026). Supplemental from [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] (US transmission projects 7-10 years).
 
-**Soft blockers (would strengthen but not block):**
+**Bonus closures (beyond original blockers)**:
+- [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]] — adjacent thesis corroboration; positions May 15 article as part of an emerging analytical conversation rather than isolated.
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — foundational PPA-framework reference predating the recent vertical-integration cluster; useful for Item 5 macro context.
+- [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — vertical-integration / energy-park workaround; supports Item 1 ¶3 generalization (hyperscalers buying grid position, not compute).
+- [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]] — second case study at the cost-shifting layer; "bridge period" 1-5 year mechanism; counterpoint to Microsoft's permanent-cost-recovery commitment.
 
-5. A second named PPA showing the 18-month-to-5–7-year progression in the same hyperscaler's filings, year-over-year — would convert Item 4 from claim-with-example to claim-with-evidence-curve.
+**Optional follow-ups (not blocking)**:
+- LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) for RTO-specific (PJM/ERCOT/MISO) breakdowns if Item 3 ¶2 wants quarterly snapshots
+- The actual PUCO docket for the Meta/AEP Ohio Green Chapel filing for direct contract-language quotes if Item 4 ¶2 wants them
+- A specific quote from a major financial press AI capex piece that omits the grid layer entirely — would reinforce Item 3 ¶1's "absent-from-press" claim with empirical proof
 
-6. A specific quote from a major financial press AI capex piece that omits the grid layer entirely — would reinforce Item 3 ¶1's "absent-from-press" claim with empirical proof.
-
-**Status:** Detailed outline structurally complete. Drafting cannot begin until hard blockers 1–4 land. Once they do, Items 3 and 4 fill in, the close's "7 years to unbind" data point lands, and the piece is ready to draft in one pass.
+**Status:** Detailed outline structurally complete and fully sourced. Item 4 reframed from "PPA Lead-Time Wall" to "The Grid Stack Has Three Calendars. None of Them Are Short." per the actual sourced data. **Article is draft-ready.** Next step: tcn-draft.
