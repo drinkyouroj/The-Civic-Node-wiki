@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
 updated: 2026-04-22
-sources: 31
+sources: 32
 ---
 
 ## Overview
@@ -66,6 +66,7 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — UK trade-press coverage of the San Francisco class action; $13B investment, 200x token price inflation, 80% price drop after Google Cloud access
 - [[Florida's attorney general announces criminal investigation into OpenAI]] — Florida AG criminal investigation over FSU shooting; first criminal investigation of an AI company for chatbot outputs
 - [[Claude Mythos Unauthorised Access — BBC]] — GPT 5.4 Cyber referenced as OpenAI's parallel gated cyber-security model
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — McKinsey foundational AI-buildout reference; ChatGPT query cited as consuming ~10x more power than a Google search query, framing the demand-side rationale for hyperscaler 24/7 PPAs and grid-capacity buildout
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?

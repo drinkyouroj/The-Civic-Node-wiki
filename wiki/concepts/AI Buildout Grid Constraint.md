@@ -4,7 +4,7 @@ type: concept
 tags: [power, infrastructure, ai-buildout, grid, capex]
 created: 2026-05-07
 updated: 2026-05-07
-sources: 14
+sources: 15
 ---
 
 ## Definition
@@ -33,6 +33,8 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 - **Macro layer.** Hyperscaler capex ~$400B annually in 2025; $650B planned for 2026 (60% YoY increase); Sightline Climate expects 30-50% of 2026 pipeline to slip or cancel. [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]]
 - **GDP layer.** Furman calculation: H1 2025 US GDP growth was 0.1% annualized excluding AI/data-center investment. AI buildout was 4% of GDP and 92% of GDP growth. [[Without data centers, GDP growth was 0.1% in H1 2025]]
 - **Regulatory recognition.** FERC ordered PJM (Dec 18, 2025) to overhaul rules for co-located/behind-the-meter large loads. 13 PJM state governors' Statement of Principles (Jan 15, 2026) directing data centers to "cover their share of the costs." Microsoft committed Jan 13, 2026 to permanent full cost recovery (first major hyperscaler). [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]]
+- **Foundational PPA framework (predates the cluster).** McKinsey (Dec 17, 2024) named 24/7 clean PPAs as the next-level instrument hyperscalers were already pursuing — Microsoft's 2020 Vattenfall pilot, Google's 2024 478 MW Dutch offshore PPA, Microsoft+Google Granular Certificate Trading Alliance, Amazon+Meta "Emission First" alliance (2022). Establishes that the recent vertical-integration moves are operational answers to the question McKinsey raised: how do hyperscalers achieve 24/7 clean at scale when traditional PPAs can't? Storage requirement: 65-85 GW LDES for half of 2030 hyperscaler demand to be renewable — equivalent to total installed capacity of Poland or Vietnam. [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]]
+- **Substation case study refined (DCD detail).** The Meta + AEP Ohio Green Chapel arrangement carries specific capacity terms: 250 MW for three years (Meta initially 120 MW, ramping to 250 MW in April 2026); Intel's full 500 MW allotment restored at start of 2029. Meta's parallel 200 MW Socrates South gas plant (June 2025 PUCO approval, behind-the-meter) at the same site demonstrates that hyperscaler grid-position inheritance and on-site/behind-the-meter generation are a combined strategy, not alternatives. [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]]
 
 ## Tensions & Counterarguments
 
@@ -44,6 +46,7 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 
 - [[AI DRAM Crisis]] — sister bottleneck at the chip layer; resolves by 2028 via Chinese fab capacity ([[CXMT]], [[YMTC]]); grid-layer cannot resolve on a comparable timeline
 - [[Interconnection Queue]] — vocabulary for the queue sub-constraint
+- [[Power Transformer Shortage]] — the transformer-hardware sub-constraint (lead times, deficit projections, manufacturing buildout)
 - [[Chokepoint Control]] — electrical-component supply chain (transformers, switchgear, batteries) as China/South Korea/Canada/Mexico-sourced US infrastructure dependency
 - [[Infrastructure Warfare]] — adjacent concept covering deliberate disruption of critical systems
 

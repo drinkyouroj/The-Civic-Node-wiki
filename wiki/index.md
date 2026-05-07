@@ -2,10 +2,10 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-12
-total_pages: 1224
-total_sources: 689
-total_entities: 255
-total_concepts: 157
+total_pages: 1230
+total_sources: 691
+total_entities: 258
+total_concepts: 158
 total_syntheses: 26
 total_articles: 94
 ---
@@ -69,7 +69,17 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 **Entity pages updated**: [[Meta]] (sources 13→16), [[Microsoft]] (8→11), [[Intel]] (3→4)
 
-**Source acquisition note**: Two failed fetches not blocking — DCD coverage of Meta/AEP Ohio (403; redundant with WOSU primary); McKinsey 24/7 clean power (timeout; secondary value only). LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) cited via Latitude Media interpretation; PDF itself can be acquired separately if RTO-specific breakdowns are needed.
+**Follow-up sources folded in (2)**:
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — McKinsey, Lorenzo Moavero Milanesi + Tjark Freundt + Yuito Yamada, Dec 17 2024; foundational 24/7 PPA framework predating the 2025-26 vertical-integration cluster; 65-85 GW LDES required for half of 2030 hyperscaler renewable demand (= Poland or Vietnam-sized installed power capacity); ChatGPT 10x Google-search-query power consumption; **Microsoft+Google Granular Certificate Trading Alliance**; **Amazon+Meta "Emission First" alliance** (end of 2022); Microsoft 2020 Vattenfall Sweden pilot; Google 478 MW 2024 Dutch offshore PPA (90% hourly clean)
+- [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] — DCD, Zachary Skidmore, May 6 2026; trade-press companion to [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] adding capacity specifics: **250 MW for three years** (Meta 120 MW initially → 250 MW April 2026); **500 MW Intel allotment restored at start of 2029**; Intel timeline (ground 2022 → original 2025 → revised 2030/2031); Meta's separate **200 MW Socrates South gas plant** (June 2025 PUCO approval, behind-the-meter) at same site; cites Columbus Business First (Dec 2 2025) as original local trade-press
+
+**Additional new entities (3)**: [[Lawrence Berkeley National Laboratory]] (DOE national lab; "Queued Up" annual report), [[FERC]] (Federal Energy Regulatory Commission; Dec 18 2025 PJM order on co-located/behind-the-meter loads), [[Alphabet]] (corporate parent of Google; energy strategy distinct from [[Google DeepMind]] AI-research subsidiary).
+
+**Additional new concept (1)**: [[Power Transformer Shortage]] — sub-concept of [[AI Buildout Grid Constraint]] focused on the transformer-hardware layer; Wood Mackenzie 30% supply deficit projection; 128/144/160-week lead-time data; Patrick Tarver contrarian view documented.
+
+**Existing entity pages updated this batch**: [[Meta]] (sources +McKinsey + DCD), [[Microsoft]] (sources +McKinsey), [[Intel]] (sources +DCD), [[OpenAI]] (sources +McKinsey), [[Amazon]] (sources +McKinsey + Intersect), [[AEP Ohio]] (sources +DCD; capacity figures added), [[Google DeepMind]] (cross-reference to [[Alphabet]] for energy strategy).
+
+**Source acquisition note**: LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) cited via Latitude Media interpretation; PDF itself can be acquired separately if RTO-specific breakdowns are needed.
 
 ### 2026-05-07 Ingest — Lutnick cover-up framing + Fulton ballots ruling + Russia targeted killings + Epstein suicide note unsealed (4 sources, 2 concepts; 1 duplicate raw flagged)
 
@@ -1228,6 +1238,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[El Paso Electric]] — Texas utility; PUCT filings on 366 MW gas-fired plant for Meta's $10B data center; explicit "bridge period" cost-shifting model (Meta pays 1-5 years, then ratepayers)
 - [[Intersect Power]] — US renewable energy developer (Sheldon Kimber CEO); acquired by Alphabet/Google for $4.75B (Dec 2025); 3.6 GW under development; "energy park" co-located generation model bypassing interconnection queues
 - [[Crusoe Energy]] — Energy infrastructure / on-site-power-plant operator at Stargate Abilene; Andrew Likens (energy lead) supply-chain quote ("If one piece of your supply chain is delayed...") is the most-cited operator-class voice on AI buildout bottlenecks
+- [[Lawrence Berkeley National Laboratory]] — DOE national lab; "Queued Up" annual report is the authoritative primary source for US interconnection-queue data; 2,600 GW vs 1,279 GW headline; 70% withdrawal rate; 14% solar / 11% battery completion rates
+- [[FERC]] — Federal Energy Regulatory Commission; independent agency regulating interstate electricity transmission; Dec 18 2025 PJM order on co-located/behind-the-meter large loads = first major federal-regulatory recognition that interconnection-queue mechanism cannot keep pace with hyperscaler demand
+- [[Alphabet]] — Corporate parent of Google; data-center power consumption 14.4 TWh (2020) → 30.8 TWh (2024) → projected >60 TWh (2028); Intersect Power $4.75B acquisition (Dec 2025); 2030 24/7 clean energy goal; Granular Certificate Trading Alliance with Microsoft; "Transmission barriers are the number one challenge we're seeing on the grid"
 
 ### Countries
 - [[Iran]] — Target of US-Israeli strikes; closed Strait of Hormuz; expanding regional strikes; active backchannel negotiations
@@ -1251,6 +1264,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 ### Power & Infrastructure
 - [[AI Buildout Grid Constraint]] — Master concept for the 2026-2030 AI buildout's binding physical bottleneck; four interlocking sub-constraints (interconnection-queue depth, transformer/substation lead times, transmission timelines, PPA cycles); chip-layer-vs-grid-layer choice as the analytical frame; primary research base for May 15 article
 - [[Interconnection Queue]] — Vocabulary for the queue sub-constraint; ~2,600 GW in queues vs ~1,279 GW installed capacity (LBNL); 70% withdrawal rate; FERC Dec 18 2025 PJM order = first major regulatory recognition
+- [[Power Transformer Shortage]] — Sub-concept of AI Buildout Grid Constraint focused on transformer hardware; Wood Mackenzie 30% supply deficit projection; lead times 128 weeks (large) / 144 weeks (GSU) / 160+ weeks (substation, 2026); ~$1.8B announced manufacturing buildout through 2028; Patrick Tarver contrarian view documented
 - [[AI DRAM Crisis]] — The LOI mechanism: non-binding OpenAI demand signal → market panic → binding contracts → prices locked 2027-2028; three-company oligopoly (91.5% global revenue); synthesis concept for the DRAM cluster
 - [[Chokepoint Control]] — How geographic/infrastructure bottlenecks confer coercive power; Strait as paradigm case; rare-earth licensing as bureaucratic-chokepoint variant
 - [[Rare Earth Export Controls]] — China's permit/licensing regime; 89% global REE refining concentration; April 2025 7-element regime as operational chokepoint over Western defense; Busan pause did not suspend it
@@ -1562,10 +1576,10 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 682 |
+| Total sources ingested | 691 |
 | Published articles tracked | 94 (83 standalone + 11 episodes) |
-| Entity pages | 255 |
-| Concept pages | 157 |
+| Entity pages | 258 |
+| Concept pages | 158 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
 | Last updated | 2026-05-12 |
 
@@ -1638,9 +1652,15 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Intersect Power]] — Google acquisition; vertical-integration template
 - [[Crusoe Energy]] — on-site generation operator (backfilled — entity was wikilinked from prior sources without dedicated page until now)
 
-**Entity pages updated**: [[Meta]] (sources 13→16), [[Microsoft]] (8→11), [[Intel]] (3→4)
+**Entity pages updated (initial batch)**: [[Meta]] (sources 13→16), [[Microsoft]] (8→11), [[Intel]] (3→4)
 
-**Failed fetches (not blocking)**: DCD article on Meta/AEP Ohio (403; redundant with WOSU primary); McKinsey 24/7 clean power (timeout; secondary value only). LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) cited via Latitude Media; PDF can be acquired separately if RTO-specific breakdowns needed.
+**Follow-up additions (later in same session)**:
+- 2 follow-up sources: [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (foundational 24/7 PPA framework), [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (DCD trade-press companion to WOSU; adds 250/500 MW capacity figures and 2029 Intel restoration)
+- 3 follow-up entities: [[Lawrence Berkeley National Laboratory]], [[FERC]], [[Alphabet]]
+- 1 follow-up concept: [[Power Transformer Shortage]]
+- Additional entity updates from follow-up: [[OpenAI]], [[Amazon]], [[Google DeepMind]], [[AEP Ohio]] (capacity figures added)
+
+**Source acquisition note**: LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) cited via Latitude Media interpretation; PDF can be acquired separately if RTO-specific breakdowns needed.
 
 **Newsletter angles surfaced**:
 - *Inheritance pattern as a category, not a coincidence*: Microsoft inheriting Stargate Abilene from OpenAI + Meta inheriting Green Chapel from Intel = the same structural move at the substation level. The contracts being inherited aren't for compute — they're for grid position.

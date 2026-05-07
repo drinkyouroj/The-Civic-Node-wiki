@@ -2462,10 +2462,45 @@ Ingested 9 raw files across four story clusters with one new concept page. No ne
 
 **⚠️ Cross-source attribution discrepancy noted**: The quote "If one piece of your supply chain is delayed, then your whole project can't deliver" is attributed to two different speakers across [[Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed — Futurism - 2026-04-02]] (Andrew Likens, Crusoe Energy energy lead) and [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]] (unnamed Sightline Climate analyst). Futurism attribution (Likens, Crusoe Energy) is more likely the original; flagged in both source pages and noted in [[Crusoe Energy]] entity page. Article should cite Futurism version.
 
-**Sanity check** (Phase 1 step 1+2 re-run on new state):
-- `find wiki/sources -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **682** ✓ matches index frontmatter `total_sources: 682`
-- `find wiki/entities -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **255** ✓ matches `total_entities: 255`
-- `find wiki/concepts -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **157** ✓ matches `total_concepts: 157`
-- `find wiki -name "*.md" -not -name "CLAUDE.md" | wc -l` = **1216** ✓ matches `total_pages: 1216`
+---
 
 **Wiki totals after**: 689 sources / 255 entities / 157 concepts / 26 syntheses / 94 articles / 1,224 pages.
+
+### Follow-up additions (later in same 2026-05-07 session): 2 secondary sources + 3 entities + 1 concept
+
+After the initial 7-source batch above, two pre-existing raw clippings (saved by user prior to this session) were folded into the same ingest pass to close the two earlier failed fetches.
+
+**Additional sources ingested (2)**:
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (McKinsey & Company, Lorenzo Moavero Milanesi + Tjark Freundt + Yuito Yamada, Dec 17 2024 — foundational 24/7 PPA framework predating the 2025-26 vertical-integration cluster; key data: global data center power 500-600 TWh today projected 3-4x by 2030; **65-85 GW LDES required** for half of 2030 hyperscaler renewable demand (= Poland or Vietnam-sized installed power capacity); ChatGPT query consumes ~10x Google search query; **Microsoft+Google Granular Certificate Trading Alliance** for hourly cert trading; **Amazon+Meta "Emission First" alliance** end of 2022 as alternative to hourly matching; Microsoft 2020 Vattenfall Sweden pilot 24/7 PPA; Google 478 MW 2024 Dutch offshore PPA at 90% hourly clean; Statkraft 97% renewable hydropower flexibility; Mercedes-Benz Statkraft 2021 contract; Equinor + Danske Commodities €400M 2018 acquisition for trading capability)
+- [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (DataCenterDynamics, Zachary Skidmore, May 6 2026 — trade-press companion to [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]]; adds critical contract specifics WOSU lacked: **250 MW for three years** (Meta initially 120 MW, ramps to full 250 MW in April 2026); **full 500 MW Intel allotment restored at start of 2029**; Intel timeline (broke ground 2022, originally 2025, now 2030/2031); Meta's separate **200 MW Socrates South gas plant** approved June 2025 PUCO at same New Albany site (behind-the-meter parallel infrastructure); cites **Columbus Business First** Dec 2 2025 as the original local trade-press source; AEP Ohio "win-win" framing)
+
+**New entity pages from follow-up (3)**:
+- [[Lawrence Berkeley National Laboratory]] (sources: 2; DOE national lab; "Queued Up" annual interconnection-queue report is the authoritative primary source on US queue depth, withdrawal rates, completion rates; 2025 Edition published Dec 15 2025 extends dataset through end of 2024)
+- [[FERC]] (sources: 1; Federal Energy Regulatory Commission; independent agency regulating interstate electricity transmission; **December 18, 2025 PJM order on co-located/behind-the-meter large loads** = first major federal-regulatory action explicitly addressing hyperscaler vertical-integration / on-site-generation pattern)
+- [[Alphabet]] (sources: 2; corporate parent of Google; covers energy strategy distinct from [[Google DeepMind]] AI-research subsidiary — Intersect Power $4.75B acquisition, 24/7 PPA goal for 2030, Granular Certificate Trading Alliance, 478 MW Dutch offshore PPA; data-center power consumption 14.4 TWh (2020) → 30.8 TWh (2024) → projected >60 TWh (2028))
+
+**New concept page from follow-up (1)**:
+- [[Power Transformer Shortage]] (sources: 4; sub-concept of [[AI Buildout Grid Constraint]] focused on transformer-hardware layer; Wood Mackenzie 30% supply deficit projection; 128/144/160-week lead times; ~$1.8B announced manufacturing buildout through 2028; Patrick Tarver contrarian view documented; ratio of <10% cost / 100% gating central thesis)
+
+**Additional existing entity pages updated (follow-up)**:
+- [[Meta]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (Emission First alliance with Amazon, end of 2022) and [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (250/500 MW capacity figures for Green Chapel; separate 200 MW Socrates South gas plant)
+- [[Microsoft]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (2020 Vattenfall Sweden pilot 24/7 PPA; Granular Certificate Trading Alliance with Google; carbon-negative 2030 commitment)
+- [[Intel]]: added [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (2022 ground break; 2030/2031 revised production timeline; 500 MW allotment restored at start of 2029)
+- [[OpenAI]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (ChatGPT 10x Google-search-query power-consumption fact — demand-side rationale for 24/7 PPAs)
+- [[Amazon]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (Emission First alliance with Meta, end of 2022) and [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (Talen nuclear deal cited as parallel vertical-integration move)
+- [[AEP Ohio]]: added [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (250/500 MW capacity figures, ramp dates, Intel restoration timeline, "win-win" quote)
+- [[Google DeepMind]]: added cross-reference to [[Alphabet]] for corporate-level energy strategy (separation of concerns between AI-research subsidiary and corporate parent)
+
+**Updated existing source page**: [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — replaced the prior "(DCD article fetch returned 403; not separately ingested)" placeholder with full cross-reference to [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] as trade-press companion; documented that DCD is the load-bearing source for capacity figures while WOSU is supporting local public-media documentation.
+
+**Updated concept page**: [[AI Buildout Grid Constraint]] — added McKinsey foundational PPA-framework reference (24/7 PPAs as the next-level instrument hyperscalers were already pursuing pre-2025; LDES storage as fifth implicit sub-constraint); added DCD-detail substation case study refinement (Socrates South dual-track pattern showing hyperscaler grid-position inheritance + behind-the-meter generation as a combined strategy, not alternatives); added [[Power Transformer Shortage]] to Related Concepts.
+
+**Naming flag**: McKinsey raw file uses "247 clean power" in filename (no slash, to avoid path issues). Wiki source page filename uses "24-7 Clean Power Race" for the same reason. **The page title in YAML frontmatter preserves McKinsey's actual "24/7" styling** — the slash-vs-hyphen distinction is purely a filesystem-safety convention.
+
+**Sanity check** (Phase 1 step 1+2 re-run on new state, post-follow-up):
+- `find wiki/sources -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **684** ✓ matches index frontmatter `total_sources: 684`
+- `find wiki/entities -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **258** ✓ matches `total_entities: 258`
+- `find wiki/concepts -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **158** ✓ matches `total_concepts: 158`
+- `find wiki -name "*.md" -not -name "CLAUDE.md" | wc -l` = **1222** ✓ matches `total_pages: 1222`
+
+**Wiki totals after** (post-follow-up): 691 sources / 258 entities / 158 concepts / 26 syntheses / 94 articles / 1,230 pages.

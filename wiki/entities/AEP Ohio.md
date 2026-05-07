@@ -5,7 +5,7 @@ entity_type: organization
 tags: [utility, ohio, power, ai-buildout]
 created: 2026-05-07
 updated: 2026-05-07
-sources: 4
+sources: 5
 ---
 
 ## Overview
@@ -15,9 +15,10 @@ AEP Ohio is a regulated electric utility serving Ohio, a subsidiary of American 
 ## Key Facts
 
 - **November 24, 2025:** AEP Ohio and Meta filed jointly with the Public Utilities Commission of Ohio (PUCO) requesting approval for Meta's data center to draw power from the Green Chapel substation under a three-year arrangement. Service window: January 1, 2026 - December 31, 2028. [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]]
+- **Capacity terms (DCD detail):** **250 MW for three years**; Meta initially receives 120 MW, ramping to full 250 MW in April 2026. **Full 500 MW Intel allotment restored at start of 2029.** [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]]
 - **Green Chapel substation history:** Built to serve [[Intel]]'s $28B chip fab; completed in 2025; remained unused after Intel's July 2025 announcement to slow construction.
 - **Infrastructure plan:** AEP Ohio would construct four temporary power lines from Green Chapel to Meta's New Albany data center.
-- **Cost recovery framing:** Meta's electricity charges cover the full three-year cost of Green Chapel substation, offsetting AEP Ohio's losses from Intel's revised timeline. Without Meta, "the cost of Green Chapel substation would be recovered through rates paid by all AEP customers."
+- **Cost recovery framing:** Meta's electricity charges cover the full three-year cost of Green Chapel substation, offsetting AEP Ohio's losses from Intel's revised timeline. Without Meta, "the cost of Green Chapel substation would be recovered through rates paid by all AEP customers." AEP Ohio spokesperson called it a "win-win" deal ensuring "customers will not incur any additional costs related to the [substation] during the Intel delay."
 
 ## Newsletter Relevance
 
@@ -32,7 +33,8 @@ Case study for [[AI Buildout Grid Constraint]]: hyperscalers inheriting infrastr
 
 ## Source Appearances
 
-- [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — primary source on Green Chapel filing
+- [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — local public-media coverage of the Nov 24 2025 PUCO filing
+- [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] — DCD trade-press companion adding capacity figures (250 MW / 500 MW), ramp dates, Intel-restoration timeline; cites Columbus Business First as the original local trade-press
 
 ## Open Questions
 

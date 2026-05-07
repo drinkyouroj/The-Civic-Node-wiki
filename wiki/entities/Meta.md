@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, politics, antitrust, power]
 created: 2026-04-07
 updated: 2026-05-07
-sources: 16
+sources: 18
 ---
 
 ## Overview
@@ -41,6 +41,8 @@ Meta sits at the intersection of three major themes: algorithmic power over demo
 - [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — joint AEP Ohio + Meta PUCO filing (Nov 24 2025) to draw power from Green Chapel substation built for Intel's $28B fab; three-year arrangement (Jan 1 2026 - Dec 31 2028); inheritance pattern that rhymes with Microsoft/Stargate Abilene
 - [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]] — Meta's $10B El Paso data center; 366 MW gas-fired plant via 813 modular Enchanted Rock generators; explicit "bridge period" cost-shifting (Meta pays 1-5 years, then ratepayers); local opposition documented
 - [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — Meta's nuclear-partnership track (Vistra/TerraPower/Oklo for 6.6 GW by 2035) cited as parallel to Google's vertical-integration acquisition
+- [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] — DCD trade-press companion to the WOSU coverage; adds 250 MW capacity for three years (Meta initially 120 MW, ramps to 250 MW in April 2026); full 500 MW Intel allotment restored at start of 2029; also notes Meta's separate 200 MW Socrates South gas plant (June 2025 PUCO approval) at the same New Albany site
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — McKinsey foundational reference; Meta co-founded "Emission First" alliance (end of 2022) with Amazon as alternative to hourly-matching 24/7 PPAs
 
 ## Open Questions
 - What is the current status of the FTC antitrust case?
