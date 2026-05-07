@@ -97,7 +97,7 @@ When Warsh's first FOMC statement comes out, read it for what's missing. The abs
 
 ---
 
-*Next issue: Iran isn't the only actor running monetary policy from outside the FOMC. The Bessent-Warsh balance-sheet alignment, the Miran resignation, and what a "new accord" between the Treasury and the Fed would actually mean. Friday.*
+*Next issue: The AI buildout has a power bill. Cheaper AI was the headline. The substations are the footnote. The footnote takes seven years to build, and the interconnection queues are already priced against a wall. Friday.*
 
 ---
 
