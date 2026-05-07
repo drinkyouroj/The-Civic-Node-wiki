@@ -3,8 +3,8 @@ title: "Tariff-Driven Inflation"
 type: concept
 tags: [monetary-policy, economics, politics]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 16
+updated: 2026-05-06
+sources: 17
 ---
 
 ## Definition
@@ -83,3 +83,4 @@ Powell's framing: "A reasonable base case is these are one-time price effects" �
 - [[Trump announces massive trade deal with Japan Al Jazeera]]
 - [[US M2 Money Supply YoY Historical Data]]
 - [[Times of India — Massive Trade Deal Japan 15% Tariffs]] — 15% reciprocal tariff on Japanese goods as part of broader July 2025 Asia tariff cascade; Philippines and Indonesia at 19%
+- [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — primary-source manufacturing-side receipt: Prices Index 84.6 (matches April 2022 peak); Spence cites tariffs as #2 driver after steel/aluminum pass-through and ahead of Iran-war oil prices; tariffs mentioned in 18% of respondent comments

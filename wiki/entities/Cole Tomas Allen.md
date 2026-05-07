@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, security, political-violence, whcd-shooting]
 created: 2026-04-27
-updated: 2026-04-27
-sources: 10
+updated: 2026-05-06
+sources: 11
 ---
 
 ## Overview
@@ -42,6 +42,7 @@ The biographical profile (Caltech graduate, tutor at college-prep service, low o
 - [[Fact-Checking WHCD Shooting Falsehoods — PolitiFact]] — same-day fact-check context
 - ['STAGED' Conspiracy Theories — WIRED](sources/'STAGED'%20Conspiracy%20Theories%20—%20WIRED.md) — conspiracy-discourse object
 - [[Henry Martinez Cole Allen NASA Conspiracy — Sunday Guardian]] — viral name-overlap conspiracy thread; only source for the JPL biographical detail
+- [[Iran Conflict May Have Motivated WHCD Shooter — Reuters DHS Report - 2026-05-06]] — DHS Office of Intelligence and Analysis "Critical Incident Note" (April 27): Iran conflict "may have contributed" to attack motive; FBI examining Bluesky account; DOJ added assault-on-federal-officer charge May 5
 
 ## Open Questions
 - Full text of the "Friendly Federal Assassin" manifesto (only paraphrased through one law-enforcement official as of this filing)

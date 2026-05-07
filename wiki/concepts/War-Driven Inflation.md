@@ -3,8 +3,8 @@ title: "War-Driven Inflation"
 type: concept
 tags: [monetary-policy, energy, geopolitics, dedollarization]
 created: 2026-04-06
-updated: 2026-05-05
-sources: 16
+updated: 2026-05-06
+sources: 17
 ---
 
 ## Definition
@@ -52,3 +52,4 @@ War-driven inflation is a supply-shock inflationary dynamic triggered by militar
 - [[Rethinking Arthur Burns the Worst Fed Chair in History]] — Korean War / WWII price controls as Burns's historical models
 - [[Trump and Powell bicker — AP]] — tariff inflation as the contemporary war-adjacent supply shock keeping the Fed from cutting
 - [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] — macro receipt: April ISM data attributes service-sector cost pressures (highest since Oct 2022) and 7.1-pt new-order drop (largest since March 2023) to "the steep energy prices arising from the U.S.-led war against Iran"
+- [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — second macro receipt: Prices Index 84.6 (matches April 2022 peak); Iran war mentioned in 47% of respondent comments; Spence names "petroleum-based products as a result of the Middle East conflict" as a top-three price driver

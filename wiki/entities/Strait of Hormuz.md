@@ -4,8 +4,8 @@ type: entity
 entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure, monetary-policy, dedollarization]
 created: 2026-04-06
-updated: 2026-05-05
-sources: 20
+updated: 2026-05-06
+sources: 23
 ---
 
 ## Overview
@@ -65,6 +65,9 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — disputed warship strike claim; Adnoc tanker hit; Touska crew handover (22/26)
 - [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — IRGC publishes explicit cartographic claim; Cooper statement coupling escort + blockade
 - [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] — macro receipt: cost pressures at late-2022 highs, new-order drop largest since March 2023
+- [[Trump Pauses Project Freedom — BBC - 2026-05-05]] — Project Freedom paused after 48 hours by "mutual agreement" at Pakistan's request; blockade continues
+- [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — May 6 threat of "much higher level and intensity" attacks; one-page memorandum framework
+- [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — Hormuz/Suez/Red Sea rerouting cited explicitly in Transportation Equipment respondent commentary; Prices Index 84.6 (Apr 2022 peak match)
 
 ## Open Questions
 

@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [finance, crypto, bitcoin]
 created: 2026-04-09
-updated: 2026-04-14
-sources: 9
+updated: 2026-05-06
+sources: 10
 ---
 
 ## Overview
@@ -38,3 +38,4 @@ The Cantor/BSTR deal creates the legal mechanism central to the Satoshi story. A
 - [[BSTR Shareholder Approval Could Come in April 2026 — CoinDesk]] — CEPO/BSTR merger proceeding; April 2026 shareholder approval timeline
 - [[Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstreams Adam Back — Decrypt]] — deal mechanics; Brandon/Howard Lutnick connection; timeline
 - [[Howard Lutnick Senate Confirmation Roll Call Vote 57 119th Congress]] — primary source for Howard Lutnick's February 2025 confirmation as Commerce Secretary
+- [[Lutnick Testifies Before House Oversight Epstein Probe — CBS - 2026-05-06]] — context for former chairman [[Howard Lutnick]]'s House Oversight testimony in the Epstein probe

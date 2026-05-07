@@ -3,8 +3,8 @@ title: "Cantillon Effect"
 type: concept
 tags: [monetary-policy, austrian-economics, inequality, theory]
 created: 2026-05-05
-updated: 2026-05-05
-sources: 9
+updated: 2026-05-06
+sources: 12
 ---
 
 ## Definition
@@ -24,6 +24,9 @@ The framework is most powerful when applied to identifiable injection points. Th
 - **Post-2008 QE**: Both background sources frame post-2008 monetary expansion as the canonical modern Cantillon case — new money enters via Fed open-market operations and bank reserve creation, accruing first to financial institutions, primary dealers, and asset holders. Asset-price inflation precedes consumer-price inflation. ([[Cantillon Effects Explained — Mises Wire - 2022-03-11]]; [[Cantillon Effect SWFInstitute - 2021-10-24]])
 - **CARES Act distribution (2020)**: SWFI explicitly names Amazon (which lobbied the federal government) and U.S. airlines as beneficiaries of pandemic-era distribution; PPP loans and UBI-style transfers shifted the channel toward consumers without changing the underlying pattern that financial intermediaries handled the flow ([[Cantillon Effect SWFInstitute - 2021-10-24]])
 - **Iran-war fiscal channel (2026)**: ISM April 2026 data documents the energy-price + supply-chain shock from the U.S.-led war; this is a real-economy injection point favoring defense, energy, and shipping-insurance industries. ([[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]])
+- **Manufacturing-side receipt for the same channel**: April ISM Manufacturing PMI ([[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]]) shows Prices Index at 84.6 (April 2022 peak match); 70% of respondents passing through higher prices; mid-supply-chain manufacturers report being unable to fully pass through Chinese-import cost increases — the asymmetric absorption pattern Cantillon predicts.
+- **Rare-earth licensing as bureaucratic injection-control**: China's [[Rare Earth Export Controls|April 2025 licensing regime]] operates as a discretionary first-receiver allocator — Beijing chooses which industries (and which national jurisdictions) receive constrained-supply rare earths. Pair with [[China Leverages Paperwork to Ration Rare Earths — East Asia Forum - 2025-11-20]] for the empirical documentation (91-93% magnet-export drops to Korea/Japan, March-May 2025). Same Cantillon shape as monetary-injection cases — first-receivers benefit, others pay the friction premium.
+- **Household-side anxiety as the lagging receipt**: [[Americans Fear Outliving Money More Than Death — USA Today - 2026-05-04]] — 67% of Americans worry more about running out of money than death (Allianz survey, all-time high). The household-side companion to the supplier-side ISM data — both surfaces of the same first-receiver / cost-bearer asymmetry.
 
 ## Tensions & Counterarguments
 - **Mainstream rebuttal**: Mainstream economists treat injection-point effects as "first-round effects" that wash out as money diffuses. The Austrian counter is that durable structural changes (which industries expand, which capital is built) survive past the inflationary episode and appear later as malinvestment.
@@ -45,3 +48,6 @@ The framework is most powerful when applied to identifiable injection points. Th
 - [[Cantillon Effect SWFInstitute - 2021-10-24]] — institutional-finance application; names CARES Act beneficiaries
 - Original: Richard Cantillon, *Essai sur la Nature du Commerce en Général* (written ~1734, published 1755) — primary text not yet ingested
 - Adjacent academic: Louis Rouanet, "Monetary Policy, Asset Price Inflation and Inequality" (2017 master's thesis, Sciences Po) — empirical Cantillon analysis
+- [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — manufacturing-side receipt of war-channel injection
+- [[China Leverages Paperwork to Ration Rare Earths — East Asia Forum - 2025-11-20]] — rare-earth licensing as bureaucratic injection-control
+- [[Americans Fear Outliving Money More Than Death — USA Today - 2026-05-04]] — household-side anxiety as lagging Cantillon receipt

@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
-updated: 2026-05-05
-sources: 53
+updated: 2026-05-06
+sources: 58
 ---
 
 ## Overview
@@ -136,6 +136,11 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — May 4 IRGC map publication during Project Freedom escort op
 - [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]] — reversal from July 2025 "we have to grow that baby and let that baby thrive" deregulatory posture toward proposed pre-release AI review EO; driven by post-February Anthropic break and Claude Mythos cyber-exploit concerns
 - [[Barack Obama Profile — New Yorker - 2026-05-04]] — Obama's extended on-the-record critique of Trump's foreign-policy posture, "Stone Ages" Iran rhetoric, "treason" charge, racist Trump-shared video; documented Trump-pardoned January-6 defendant arrested with weapons near Obamas' D.C. home
+- [[Trump Pauses Project Freedom — BBC - 2026-05-05]] — May 5 evening pause of Project Freedom (after ~48 hrs); cited Pakistan-mediated "mutual agreement"; blockade continues
+- [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — May 6 Truth Social: "if they don't agree, the bombing starts… at a much higher level and intensity than it was before"; one-page memorandum negotiated via Witkoff/Kushner
+- [[Iran Conflict May Have Motivated WHCD Shooter — Reuters DHS Report - 2026-05-06]] — referenced as primary target; April 7 "whole civilization will die" threat cited by DHS as the triggering content for shooter motive review
+- [[China Pauses Some Rare Earth Export Curbs — FDD - 2025-11-12]] — Busan summit (Oct 30 2025) with Xi: bilateral suspension of certain rare-earth export controls
+- [[US-China Trade Agreement Export Controls — MoFo - 2025-11-13]] — bilateral principal at Busan; "the most advanced [chips] … the United States will not let anybody have them other than the United States" (Reuters Nov 3 2025 cited)
 
 ## Open Questions
 
