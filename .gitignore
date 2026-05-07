@@ -36,6 +36,7 @@ public/
 
 # Claude Code internal artifacts
 .claude/worktrees/
+.claude/skills/ai-image/
 
 # Claude context files — ignore in subdirectories, keep root CLAUDE.md
 **/CLAUDE.md
