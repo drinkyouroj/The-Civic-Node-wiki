@@ -4,7 +4,7 @@ type: entity
 entity_type: person
 tags: [politics, accountability, monetary-policy, technology, epstein]
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-07
 sources: 13
 ---
 
@@ -22,7 +22,7 @@ U.S. Secretary of Commerce in the second Trump administration; former chairman a
   - Emails with Epstein documented in DOJ Epstein file release as late as **2018** (about Adfin and an NYC museum-expansion plan near their homes)
   - Photographed with Epstein in island image included in DOJ file release
 - **Public claim** (Senate testimony, February 2026): cut contact with Epstein in **2005**; "barely had anything to do with that person" — contradicted by documentary record
-- May 6 2026: voluntary closed-door interview before House Oversight Committee
+- May 6 2026: voluntary closed-door interview before House Oversight Committee — **decision not to videotape** the session was Democratic-flagged complaint; transcript pending. New on-record admission per Democratic recap: Lutnick reportedly told the committee he does **not "remember why he went"** to Little St. James in 2012 — admitting the trip happened only because emails and photos had previously surfaced ([[Lutnick Epstein Cover-Up Allegation — The Hill - 2026-05-06]]). Rep. Suhas Subramanyam (D-Va.) called it "absolutely absurd"; Rep. Yassamin Ansari (D-Ariz.) called Lutnick a "pathological liar"; Rep. Ro Khanna (D-Calif.) said Trump would have fired Lutnick if Trump had seen video. Chair [[James Comer]] characterized Lutnick as "very transparent" and conceded only that Lutnick "wasn't 100 percent truthful on the brief visit to the island."
 - Lived next door to Epstein in NYC for years
 - Cantor Fitzgerald's role in Bitcoin / SPAC apparatus is documented in [[The Cypherpunk Who Filed an S-1]] and the [[Bitcoin Origin Mystery]] thread
 - As Commerce Secretary: institutional principal for the BIS Affiliates Rule pause (per [[US-China Trade Agreement Export Controls — MoFo - 2025-11-13]]); industrial-policy posture toward [[Anthropic]] / [[OpenAI]] vendor list and rare-earths supply chain

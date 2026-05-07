@@ -4,7 +4,7 @@ type: entity
 entity_type: person
 tags: [politics, power, criminal, legal]
 created: 2026-04-07
-updated: 2026-05-06
+updated: 2026-05-07
 sources: 11
 ---
 
@@ -13,6 +13,8 @@ Jeffrey Epstein (1953–2019) was a financier and convicted sex offender who bui
 
 ## Key Facts
 - Arrested on federal sex trafficking charges July 2019; died in Metropolitan Correctional Center August 2019 — officially ruled suicide
+- **May 6 2026**: Federal Judge Kenneth M. Karas (S.D.N.Y., White Plains) unsealed a handwritten note **purported** to be Epstein's suicide note from approximately one month before his August 2019 death; chain-of-custody is exclusively via former cellmate Nicholas Tartaglione (former police officer awaiting trial for four murders) who claims to have found it in a book; **authentication is unverified by BBC, DOJ, or court**. NYT petitioned for unsealing; federal prosecutors agreed; Tartaglione's public discussion of the note was treated as waiver. DOJ told NBC it had not previously seen the note ([[Epstein Purported Suicide Note Unsealed — BBC - 2026-05-07]]).
+- **May 6 2026 (separately)**: Commerce Secretary [[Howard Lutnick]] gave closed-door, transcribed (but not videotaped) testimony to [[House Oversight Committee]] in its Epstein probe — the **first Cabinet-level testimony**. The documentary record (Adfin partnership through 2014, 2012 Little St. James visit, 2018 emails) directly contradicts his February Senate denial of post-2005 contact ([[Lutnick Testifies Before House Oversight Epstein Probe — CBS - 2026-05-06]], [[Lutnick Epstein Cover-Up Allegation — The Hill - 2026-05-06]]). [[Pam Bondi]] is scheduled later in May.
 - Connected to Donald Trump, Bill Clinton, Prince Andrew, and numerous other elites
 - Congress passed bipartisan Epstein disclosure law; Trump signed it November 2025 with December 19 deadline [[DOJ has 5.2 million pages of Epstein files left to review]]
 - DOJ missed deadline; 5.2 million pages still under review as of Dec. 31, 2025; "uncovered" 1M+ additional documents on Christmas Eve despite July memo claiming "exhaustive review" done [[DOJ has 5.2 million pages of Epstein files left to review]]
