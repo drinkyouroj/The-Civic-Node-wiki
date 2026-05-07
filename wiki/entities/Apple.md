@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, antitrust, power]
 created: 2026-04-07
-updated: 2026-04-11
-sources: 11
+updated: 2026-05-06
+sources: 12
 ---
 
 ## Overview
@@ -50,6 +50,7 @@ Apple's App Store litigation is the clearest current example of the Platform Ant
 - [[Apple Hit with EU Antitrust Complaint Over App Store Policies]] — DMA complaint over SBLC requirement
 - [[Best Local LLMs for Every Apple Silicon Mac — 2025 Guide]] — unified memory architecture as enabling hardware for on-device AI
 - [[Best Local LLMs for Every Apple Silicon Mac — 2026 Guide]] — frontier models (DeepSeek R1 671B) now runnable on Mac Studio; the accidental AI infrastructure moat
+- [[Apple $250M Siri AI Settlement — AP - 2026-05-06]] — $250M class-action settlement (N.D. Cal.) over false advertising of "Apple Intelligence" / Siri AI capabilities at iPhone 16 launch; ~37M devices, $25-$95 per claimant
 
 ## Open Questions
 - Will the UK appeal succeed? On what legal grounds?

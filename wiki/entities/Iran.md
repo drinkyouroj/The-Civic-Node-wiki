@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-05-05
-sources: 23
+updated: 2026-05-06
+sources: 27
 ---
 
 ## Overview
@@ -77,6 +77,10 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — May 3 disputed strike on U.S. Navy boat (Fars claim, CENTCOM denial); Adnoc tanker hit; Pakistan returns 22/26 Touska crew at Gabd-Rimdan border
 - [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — May 4 IRGC publishes cartographic claim of strait control area; Cooper couples escort + blockade on the record
 - [[ISM Services PMI April 2026 — Iran War Cost Pressures - 2026-05-05]] — macro receipt: April ISM data attributes service-sector cost pressures (highest since Oct 2022) to Iran war energy shock
+- [[Trump Pauses Project Freedom — BBC - 2026-05-05]] — parliament speaker Ghalibaf: "we are just getting started"; Project Freedom paused
+- [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — Trump threatens escalation; one-page memorandum being negotiated via Witkoff/Kushner channel
+- [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — Iran war mentioned in 47% of manufacturing-respondent comments; Prices Index 84.6 (Apr 2022 peak match)
+- [[Iran Conflict May Have Motivated WHCD Shooter — Reuters DHS Report - 2026-05-06]] — DHS assesses Iran conflict "may have contributed" to Cole Allen's WHCD attack motive
 
 ## Open Questions
 

@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, military, religion, iran, war]
 created: 2026-04-11
-updated: 2026-05-05
-sources: 11
+updated: 2026-05-06
+sources: 13
 ---
 
 ## Overview
@@ -42,6 +42,8 @@ Hegseth's Pentagon prayer is the most explicit instance of faith-based war justi
 - [[Iran Hormuz Strait Reopens — Trump Blockade Remains in Full Force]] — Pulp Fiction sermon incident: Hegseth quoted what appeared to be Samuel L. Jackson's Ezekiel monologue from Pulp Fiction during a Pentagon worship service
 - [[Iran-US War Latest — Trump Says Talks Continue Over the Weekend]] — same Pulp Fiction sermon; prayer for the "Sandy 1" rescue mission; viral incident amid war coverage
 - [[Trump May Review AI Models Before Release — Forbes - 2026-05-04]] — early May 2026 federal appeals court refused to stay Hegseth's supply-chain-risk designation against Anthropic while the lawsuit proceeds; the post-February break (rooted in Hegseth's designation) is named in the reporting as the cause of the proposed pre-release AI review EO
+- [[Trump Pauses Project Freedom — BBC - 2026-05-05]] — affirmed Project Freedom Tuesday before Trump pause; "ceasefire certainly holds, but we're going to be watching very, very closely"
+- [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — re-affirmed ceasefire holding amid Trump's escalation threat
 
 ## Open Questions
 

@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-05
-total_pages: 1182
-total_sources: 661
-total_entities: 249
-total_concepts: 150
+updated: 2026-05-06
+total_pages: 1196
+total_sources: 671
+total_entities: 250
+total_concepts: 153
 total_syntheses: 26
 total_articles: 93
 ---
@@ -23,6 +23,38 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-06 Ingest — Project Freedom paused + Iran escalation rhetoric + Rare Earth backfill + ISM Mfg + Lutnick/Epstein + Apple AI settlement + Retirement anxiety (10 sources, 1 entity, 3 concepts)
+
+**Hormuz / Project Freedom (3)**:
+- [[Trump Pauses Project Freedom — BBC - 2026-05-05]] — Project Freedom paused after ~48 hours; "mutual agreement" at Pakistan's request; blockade continues; Rubio declares Epic Fury "over"; UKMTO confirms cargo vessel struck
+- [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — Trump Truth Social: "if they don't agree, the bombing starts… much higher level and intensity"; one-page memorandum framework; Witkoff/Kushner channel
+- [[Iran Conflict May Have Motivated WHCD Shooter — Reuters DHS Report - 2026-05-06]] — DHS I&A "Critical Incident Note" Apr 27: Iran conflict "may have contributed" to Cole Allen's WHCD attack motive; Property of the People FOIA; FBI Bluesky review; DOJ added assault-on-federal-officer charge May 5
+
+**Macro receipts (1)**:
+- [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — Manufacturing PMI 52.7 (same as Mar); **Prices Index 84.6 (matches April 2022 peak)**; Spence cites tariffs + Iran-war oil as price drivers; Iran war mentioned in 47% of comments; Employment in 31st consecutive contraction; respondents cite Hormuz/Suez/Red Sea rerouting
+
+**Rare Earth Export Controls (3 backfill from Nov 2025)**:
+- [[China Pauses Some Rare Earth Export Curbs — FDD - 2025-11-12]] — FDD analysis: Busan pause covers Dec 2024 (gallium/germanium/antimony) + Oct 2025 escalation, but **April 2025 7-element + magnet licensing remains active** — the operational chokepoint over Western defense manufacturing
+- [[China Leverages Paperwork to Ration Rare Earths — East Asia Forum - 2025-11-20]] — ANU Kevin Thow: "one batch, one licence" mechanism; rare-earth magnet exports to Korea -93%, Japan -91% Mar→May 2025; granular firm-data submission as state-visibility tool (Scott / Farrell-Newman)
+- [[US-China Trade Agreement Export Controls — MoFo - 2025-11-13]] — Morrison & Foerster legal analysis: White House "de facto removal of controls" language **not matched** in MOFCOM remarks; April 2025 medium/heavy REE regime status ambiguous; U.S. suspends BIS Affiliates Rule (50% ownership Entity-List extension) for one year through Nov 9 2026
+
+**Politics / accountability (1)**:
+- [[Lutnick Testifies Before House Oversight Epstein Probe — CBS - 2026-05-06]] — Commerce Secretary [[Howard Lutnick]] voluntary closed-door testimony; documentary record (Adfin partnership through 2014, 2012 Little St. James visit, 2018 emails) contradicts February Senate denial of post-2005 Epstein contact
+
+**Tech / accountability (1)**:
+- [[Apple $250M Siri AI Settlement — AP - 2026-05-06]] — $250M class-action settlement (N.D. Cal.) over false advertising of "Apple Intelligence" / Siri AI features at iPhone 16 launch; ~37M devices, $25-$95 per claimant; one of largest Apple settlements ever; first major hyperscaler AI-marketing-vs.-delivery damages template
+
+**Household-side macro (1)**:
+- [[Americans Fear Outliving Money More Than Death — USA Today - 2026-05-04]] — Allianz Center: 67% of Americans fear running out of money more than death (5-year survey high); Transamerica top retirement fears: LTC (39%), Social Security cuts (38%), outliving savings (36%); 2032 Social Security shortfall + 28% benefit cut absent action; $6,200/mo assisted living
+
+**New entity**:
+- [[Howard Lutnick]] — Commerce Secretary; former Cantor Fitzgerald chairman; 7 inbound sources at creation; Epstein documentary-record vs. public-statement gap as cabinet-level Retcon paradigm
+
+**New concepts (3)**:
+- [[Project Freedom]] — U.S. Hormuz escort op; announced May 3, paused May 5; cleanest cabinet-level operational-claim retcon (Hegseth/Rubio/Caine vs Trump same-week)
+- [[Operation Epic Fury]] — Feb 28 2026 U.S.-Israeli air campaign against Iran; declared "over" May 5 by Rubio; Trump May 6 threat to resume at "higher level and intensity"
+- [[Rare Earth Export Controls]] — China's permit-licensing regime; 89% global REE refining concentration; April 2025 7-element regime is the operational chokepoint over Western defense; Busan pause did not suspend it
 
 ### 2026-05-05 Ingest — Project Freedom + AI EO reversal + Coinbase AI-native + Cantillon background + Obama profile (9 sources, 1 concept)
 
@@ -941,6 +973,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 ### People
 - [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; tariff regime architect; aggressive Fed pressure campaign 2025; World Liberty Financial crypto conflict
+- [[Howard Lutnick]] — Commerce Secretary; former Cantor Fitzgerald chairman; Epstein contact record contradicts public denials; central to U.S.-China trade and rare-earth / BIS Affiliates Rule architecture
 - [[Jerome Powell]] — Federal Reserve Chair; resisted Trump pressure through 5 consecutive holds; "risk management" rate cuts Sep–Oct 2025; term ends May 2026
 - [[Arthur Burns]] — Fed Chair 1970–1978; capitulated to Nixon pressure on inflation; the cautionary archetype Powell is trying not to be
 - [[Paul Volcker]] — Fed Chair 1979–1987; defeated Great Inflation through brutal rate hikes; archetype of central bank independence under political pressure
@@ -1149,7 +1182,10 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 ### Power & Infrastructure
 - [[AI DRAM Crisis]] — The LOI mechanism: non-binding OpenAI demand signal → market panic → binding contracts → prices locked 2027-2028; three-company oligopoly (91.5% global revenue); synthesis concept for the DRAM cluster
-- [[Chokepoint Control]] — How geographic/infrastructure bottlenecks confer coercive power; Strait as paradigm case
+- [[Chokepoint Control]] — How geographic/infrastructure bottlenecks confer coercive power; Strait as paradigm case; rare-earth licensing as bureaucratic-chokepoint variant
+- [[Rare Earth Export Controls]] — China's permit/licensing regime; 89% global REE refining concentration; April 2025 7-element regime as operational chokepoint over Western defense; Busan pause did not suspend it
+- [[Project Freedom]] — U.S. Hormuz escort op announced May 3 2026, paused May 5; 48-hour campaign exposing the gap between operational messaging and principal-level direction
+- [[Operation Epic Fury]] — Feb 28 2026 U.S.-Israeli air campaign against Iran; declared "over" May 5; Trump threatens to resume at "higher level and intensity" if no one-page memorandum signed
 - [[Infrastructure Warfare]] — Targeting physical infrastructure as primary instrument of conflict or coercion
 - [[Oil Seizure as Coercion]] — Trump's threat to "take" Iranian oil; physical commodity as coercive weapon
 - [[Institutional Gaslighting]] — Flooding narrative zones with competing claims; evidence control preventing accountability; four structural components: custody + substitution + exhaustion + toothless legal instruments
@@ -1453,12 +1489,60 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 661 |
+| Total sources ingested | 671 |
 | Published articles tracked | 93 (82 standalone + 11 episodes) |
-| Entity pages | 249 |
-| Concept pages | 150 |
+| Entity pages | 250 |
+| Concept pages | 153 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-05-05 |
+| Last updated | 2026-05-06 |
+
+### 2026-05-06 New Pages (lint + ingest)
+
+**Sources (10)**:
+- Hormuz / Project Freedom (3): [[Trump Pauses Project Freedom — BBC - 2026-05-05]], [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]], [[Iran Conflict May Have Motivated WHCD Shooter — Reuters DHS Report - 2026-05-06]]
+- Macro receipts (1): [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]]
+- Rare earth backfill (3): [[China Pauses Some Rare Earth Export Curbs — FDD - 2025-11-12]], [[China Leverages Paperwork to Ration Rare Earths — East Asia Forum - 2025-11-20]], [[US-China Trade Agreement Export Controls — MoFo - 2025-11-13]]
+- Politics / accountability (1): [[Lutnick Testifies Before House Oversight Epstein Probe — CBS - 2026-05-06]]
+- Tech / accountability (1): [[Apple $250M Siri AI Settlement — AP - 2026-05-06]]
+- Household macro (1): [[Americans Fear Outliving Money More Than Death — USA Today - 2026-05-04]]
+
+**Entity pages (1 new)**:
+- [[Howard Lutnick]] — Commerce Secretary; documentary record vs. public-statement gap on Epstein contact; central node in BSTR/Cantor crypto pivot AND U.S.-China trade architecture
+
+**Concept pages (3 new)**:
+- [[Project Freedom]] — May 3-5 2026 escort op; cleanest cabinet-level operational-claim Retcon
+- [[Operation Epic Fury]] — Feb 28 2026 U.S.-Israeli air campaign; "over" but resumable; ambiguous status
+- [[Rare Earth Export Controls]] — Chinese permit/licensing regime; bureaucratic chokepoint variant of [[Chokepoint Control]]
+
+**Entity pages updated** (no new): [[Strait of Hormuz]] (sources 20→23), [[Iran]] (23→27), [[Pete Hegseth]] (11→13), [[Cole Tomas Allen]] (10→11), [[Apple]] (11→12), [[Jeffrey Epstein]] (10→11), [[Cantor Fitzgerald]] (9→10), [[Donald Trump]] (53→58). Concept pages updated: [[Tariff-Driven Inflation]] (16→17), [[War-Driven Inflation]] (16→17), [[Chokepoint Control]] (16→21), [[Cantillon Effect]] (9→12).
+
+**Lint findings**:
+- Frontmatter and Stats table reconciled against actual `ls` counts at start of pass: sources 661, entities 249, concepts 150, syntheses 26, articles 93, pages 1182 — no drift from prior 2026-05-05 agent. Rolled forward to sources 671, entities 250, concepts 153, pages 1196.
+- Spot-check on prior-day Cantillon-cluster source pages ([[Cantillon Effect SWFInstitute - 2021-10-24]], [[Cantillon Effect]]): claims align with raw files; no factual corrections.
+- No new ⚠️ Contradiction markers introduced; none cleared.
+
+**Newsletter angles surfaced**:
+- *The 48-hour military operation*: Project Freedom paused after ~2 days; Hegseth/Rubio/Caine cabinet messaging undercut by Trump within the same week — cabinet-level Retcon at operational scale.
+- *Pakistan as the indispensable intermediary*: Pakistan now documented as broker for both Touska crew handover (May 3) and Project Freedom pause (May 5) — under-covered in U.S. press.
+- *The April 2022 echo*: ISM Manufacturing Prices Index 84.6 = exact match for the Russia-Ukraine April 2022 peak. The Iran-war supply-side cost shock now matches the Russia-Ukraine equivalent in magnitude on the manufacturing side; pair with prior April Services PMI for completed macro-receipt set.
+- *The "thaw" that didn't move the operational chokepoint*: Three independent sources (FDD, East Asia Forum, MoFo) converge on the same finding — the Busan pause suspended speculative escalations but the April 2025 7-element regime persists, and U.S. coverage has largely treated the deal as a clean rare-earth concession that the Chinese primary documents do not actually grant.
+- *Cantillon framework now applicable to non-monetary chokepoints*: Rare-earth licensing operates as a discretionary first-receiver allocator (Beijing chooses which industries get constrained supply) — same structural shape as monetary injection control. Worth integrating into next [[Cantillon Effect]] application.
+- *The Lutnick documentary-vs-public-statement gap*: Cabinet-level Retcon has now compounded into systematic — Lutnick's "barely had anything to do" Senate testimony falsified by his own document trail in the same DOJ release.
+- *Vaporware-as-product becomes legally cognizable*: $250M Apple settlement sets damages template for AI-marketing-vs-delivery class actions; pair with Coinbase "humans around the edge" framing.
+
+**Source acquisition targets surfaced**:
+- Axios primary on the "one-page memorandum" between U.S. and Iran (May 6 reporting referenced via The Hill)
+- Bloomberg primary for the 91-93% rare-earth magnet export-collapse charts (referenced via East Asia Forum)
+- Original IRGC map (Farsi) and any follow-on cartographic claims
+- Adfin investor list (Lutnick / Epstein business partnership) — would close the 2014 financial-tie analytical gap
+- Any released text of the DHS I&A Critical Incident Note on Cole Allen — Property of the People disclosure
+- Forthcoming Bondi House Oversight testimony transcript
+
+**Deferred stubs** (not created — wikilinks left in source pages):
+- People: Bernd Debusmann Jr, Mallory Wilson, Ted Hesson, Jana Winter, Andrew Goudsward, Graham Kates, Kelvin Chan, Daniel de Visé, Jack Burnham, Duncan Lazarow, Kevin Thow, Susan Spence, Steve Witkoff, Mohammad Ghalibaf, Kelly LaVigne, Catherine Collinson, David John, Brad Cooper, Brian Armstrong (carried over from prior cycle), Tiffany Trump
+- Orgs: MOFCOM, BIS, BIS-EI, FDD, Property of the People, MP Materials, Lynas, ISM, FBI, Adfin, Allianz, Transamerica Center, AARP Public Policy Institute, NCOA, CareScout
+- Concepts: Coercive Diplomacy (referenced multiple times — promote when third source justifies), Industrial Policy by Federal Access-Conditioning (referenced multiple times — promote when third source justifies), Apple Intelligence (concept stub), AI-native organization, Long-term care financing, Property-of-the-People disclosure pattern (FOIA-as-accountability-conduit)
+- Note: defer until a second source motivates the page, per CLAUDE.md "expand when a source motivates it" rule.
 
 ### 2026-05-05 New Pages (lint + ingest)
 

@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, criminal, legal]
 created: 2026-04-07
-updated: 2026-04-18
-sources: 10
+updated: 2026-05-06
+sources: 11
 ---
 
 ## Overview
@@ -43,6 +43,7 @@ The Epstein files case is a slow-motion transparency crisis: a bipartisan law, a
 - [[With few Epstein files released, conspiracy theories flourish]] — NPR overview of file release status; 40K released, 1M+ remaining; forged documents in the released set; no FBI witness interview memos released
 - [[Sen. Whitehouse on Congress enormous step forward with Epstein probe]] — House Oversight subpoenaed Les Wexner and estate executors
 - [[DOJ Under Scrutiny for Revealing Victim Info and Concealing Epstein Enablers]] — CNN; January 30 release; inverted redaction; bipartisan condemnation
+- [[Lutnick Testifies Before House Oversight Epstein Probe — CBS - 2026-05-06]] — Commerce Secretary [[Howard Lutnick]] before House Oversight; documentary record (Adfin partnership through 2014, 2012 island visit, 2018 emails) contradicts Lutnick's February Senate denial of post-2005 contact
 
 ## Open Questions
 - What is actually in the files? Has any released content produced new revelations about named individuals?

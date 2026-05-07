@@ -3,8 +3,8 @@ title: "Chokepoint Control"
 type: concept
 tags: [power, infrastructure, geopolitics, energy]
 created: 2026-04-06
-updated: 2026-05-05
-sources: 16
+updated: 2026-05-06
+sources: 21
 ---
 
 ## Definition
@@ -57,3 +57,8 @@ Chokepoint control is the ability of a state, organization, or actor to regulate
 - [[Project Freedom Hormuz Guidance Begins — AP - 2026-05-03]] — U.S. attempts to overlay an escort regime on a contested chokepoint; CENTCOM force package + simultaneous naval blockade
 - [[US Denies Warship Strike — Project Freedom Day 1 — BBC - 2026-05-03]] — Day 1 informational ambiguity (Fars missile-strike claim vs CENTCOM denial vs "warning shot" framing) — exactly the deniability that keeps chokepoint coercion viable
 - [[IRGC Hormuz Map and Project Freedom — Reuters Telegraph - 2026-05-04]] — IRGC publishes explicit cartographic claim of strait control area — sovereignty-via-cartography as a chokepoint-control move
+- [[Trump Pauses Project Freedom — BBC - 2026-05-05]] — U.S. retracts the chokepoint-overlay attempt after 48 hours by "mutual agreement"; Iranian framing reads pause as confirmation of chokepoint durability
+- [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — Trump threatens "much higher level and intensity" attacks if no deal — chokepoint as durable bargaining substrate
+- [[China Pauses Some Rare Earth Export Curbs — FDD - 2025-11-12]] — bureaucratic chokepoint variant: rare-earth licensing as the operational chokepoint over Western military supply chains
+- [[China Leverages Paperwork to Ration Rare Earths — East Asia Forum - 2025-11-20]] — "one batch, one licence" rule + customs friction as the mechanism; 91-93% magnet-export drops to Korea/Japan in spring 2025 documented
+- [[US-China Trade Agreement Export Controls — MoFo - 2025-11-13]] — legal architecture of the bureaucratic chokepoint; Busan pause suspends speculative escalation but leaves April 2025 operational regime ambiguous
