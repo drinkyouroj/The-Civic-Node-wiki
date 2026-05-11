@@ -3,9 +3,15 @@ date: 2026-05-11
 week: 2
 day: 8
 formats: Stress Test, Primary Source Drop, Cross-Domain Connection
-status: draft
+status: revised-sourced
 live_news: Warsh floor vote expected this week. Powell term expires May 15. Iran renamed
           permit system to "Persian Gulf Strait Authority" (May 11).
+sources_verified:
+  - "191 crossings April: CONFIRMED — Kpler data, cited Wikipedia/CNN April 29"
+  - "AIS dark rate: CONFIRMED — 307/949 vessels = 32%, AXS Marine (May 2026 analysis of April data)"
+  - "Qatar LNG tanker: CONFIRMED — Al Kharaitiyat, first since Feb 28, Fortune/Bloomberg May 10"
+  - "Pre-war ~3 LNG/day from Persian Gulf: CONFIRMED — Fortune May 10"
+  - "AI grid/chip constraint (Note 1): sourced from 12 Gigawatts draft (Wood Mackenzie, Bricks & Bytes)"
 ---
 
 # Day 8 Content Plan — May 11 (Monday)
@@ -36,13 +42,16 @@ The two framings have different forecasts.
 
 ### Option B — Dark vessels angle (fresher, less covered)
 
-Hormuz transit, May 9: 7 vessels inbound. 6 of the 7 were running dark — AIS suppressed,
-detectable only by satellite.
+307 of 949 vessels tracked west of Hormuz have their AIS transponders off. Visible only
+by satellite. That's 32%. Pre-conflict baseline was 17%.
 
-That's what ships do when they don't want to be targeted. The official closure is the
-headline. The AIS suppression rate is the confirmation.
+Ships suppress transponders when they don't want to be targeted. The official crossing
+count is the headline. The AIS suppression rate is what the risk calculation looks like.
 
-*~248 chars ✓*
+Source: AXS Marine, April 2026.
+
+*~260 chars ✓*
+*Source confirmed: [[AXS Marine — Hormuz April Recovery — 2026-05]]*
 
 ---
 
@@ -57,9 +66,12 @@ April: 191 crossings. Normal: ~3,000. The shape of that gap is the inflation for
 
 ---
 
+*Option A source confirmed: Kpler data, cited in Wikipedia and CNN April 29 coverage.*
+
 **Recommendation:** Option A. The 191 vs 3,000 comparison is the most concrete single fact
-and requires no explanation. Option B if you want something that feels genuinely fresh today
-— the dark vessels detail hasn't surfaced in financial press at all.
+and requires no explanation. Option B if you want something that feels genuinely fresh —
+the 32% AIS dark rate hasn't surfaced in financial press and is analytically precise.
+Option B requires no screenshot; Option A requires none either. Both are standalone text.
 
 ---
 
@@ -73,6 +85,8 @@ User has no fresh hardware content — swapping Note 3 to Cross-Domain Connectio
 ## NOTE 1: Stress Test (3–5 PM)
 
 *Pressure-tests a belief the audience holds confidently against a primary source.*
+*No image needed. Post as text only.*
+*Sources: Wood Mackenzie (transformer lead times), Bricks & Bytes / Sightline Climate (12 GW / 4 GW ratio). Both sourced in the 12 Gigawatts draft.*
 
 ---
 
@@ -95,15 +109,26 @@ Worth keeping in mind the next time a hyperscaler reports a beat on GPU procurem
 
 *Fresh data point, let the source do the work.*
 
+*Source: Fortune / Bloomberg, May 10, 2026.*
+*Attach: screenshot of the Fortune headline + key sentence (see quote below).*
+
 ---
 
-Hormuz transit, May 9: 7 vessels inbound. 6 of the 7 were dark — AIS transponders
-suppressed, visible only via satellite imagery.
+QatarEnergy's Al Kharaitiyat crossed the Strait this weekend. First Qatari LNG carrier
+since February 28. Tehran-approved route: the northern corridor, hugging the Iranian coast.
+Destination: Pakistan.
 
-That's what shipping companies do when they don't want to be targeted. The Strait's official
-closure is the story. The AIS suppression rate is what the closure actually looks like.
+Pre-war, the Persian Gulf averaged roughly three LNG shipments a day. Qatar produces close
+to a fifth of global LNG supply.
 
-*~55 words*
+That was the before. The Al Kharaitiyat is one tanker.
+
+*~60 words*
+
+**Screenshot:** fortune.com, May 10. Key sentence to capture: "The Al Kharaitiyat is the
+first Qatari vessel carrying liquefied natural gas to cross the strait since the U.S. and
+Israel started the war on Feb. 28." The headline + that sentence is the whole post's
+primary source. No CTA.
 
 ---
 
@@ -111,6 +136,7 @@ closure is the story. The AIS suppression rate is what the closure actually look
 
 *Two news items from different beats running the same play.*
 *Swapped from Operator Observation — no fresh hardware content this week.*
+*No image needed. Post as text only. This is analytical synthesis — no external source to screenshot.*
 
 ---
 

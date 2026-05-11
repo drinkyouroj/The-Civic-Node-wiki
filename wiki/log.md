@@ -2,6 +2,18 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-11] ingest | Day 8 Notes sourcing — AXS Marine AIS data + Qatar LNG transit
+
+Sourcing pass for Day 8 (Week 2) Substack Notes. Previous session had drafted a Note 2 (Primary Source Drop) around a fabricated data point ("6 of 7 vessels running dark, May 9") with no wiki source. Scraped and ingested two new sources to replace it.
+
+**New sources (2)**:
+- [[AXS Marine — Hormuz April Recovery — 2026-05]]: April traffic data, most granular public AIS dark-rate figure (32% vs. 17% baseline). Fixes the vessel-count discrepancy between Kpler (191) and AXS Marine (301): different vessel universes, both valid.
+- [[Qatar First LNG Transit Hormuz — Fortune - 2026-05-10]]: Al Kharaitiyat, first Qatari LNG transit since Feb 28. Primary Source Drop material: named vessel, named date, Fortune/Bloomberg sourcing, published yesterday.
+
+**Entity updated**: [[Strait of Hormuz]] (sources +2; AIS dark rate and Qatar LNG data points added; LNG open question partially resolved)
+
+**Notes file updated**: `workspace/notes/2026-05-11-day8-options.md` — X Option B rewritten around real AIS data; Note 2 rewritten around Qatar LNG transit; Notes 1 and 3 confirmed clean (no sourcing issues). Source attribution added throughout.
+
 ## [2026-05-01] ingest | Batch 6 — Strait + Warsh update for "The Strait Is the Mandate"
 
 Pre-draft research pass for the next article ([[The Strait Is the Mandate]]) surfaced five new sources resolving three live research gaps flagged by tcn-fact-reconcile on the v2 outline:

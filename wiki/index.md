@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-12
-total_pages: 1230
-total_sources: 691
+total_pages: 1232
+total_sources: 693
 total_entities: 258
 total_concepts: 158
 total_syntheses: 26
@@ -44,6 +44,14 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 
 **No new entity pages this cycle** (all referenced entities already exist or deferred — see log).
 **No new concept pages** ([[Redistricting Arms Race]] expanded with three new sources; [[Voting Rights Act Erosion]] deferred pending *Callais* primary ingestion).
+
+### 2026-05-11 Ingest — Hormuz traffic data for Day 8 Notes sourcing (2 sources)
+
+**Power & Infrastructure / Hormuz conflict (2)**:
+- [[AXS Marine — Hormuz April Recovery — 2026-05]] — AXS Marine shipping analytics; 301 April crossings (4-segment scope, down 90.9% YoY); AIS dark rate 307/949 vessels = 32% (pre-conflict: 17%); peak 28 crossings April 18; TOUSKA-seizure collapse to 6/day; 108–117M barrels crude oil backlog in Gulf
+- [[Qatar First LNG Transit Hormuz — Fortune - 2026-05-10]] — Fortune/Bloomberg May 10; Al Kharaitiyat (Nakilat/QatarEnergy); first Qatari LNG transit since Feb 28; Tehran-approved northern route; Pakistan destination; pre-war baseline ~3 LNG shipments/day; Qatar = ~1/5 global LNG supply
+
+**Entity updated**: [[Strait of Hormuz]] (sources 23→25; AIS dark-rate data and Qatar LNG transit added; open question on LNG % partially answered)
 
 ### 2026-05-07 Ingest #2 — AI Buildout Grid Constraint research (7 sources, 2 concepts, 5 entities) — for May 15 article "12 Gigawatts Were Announced. 4 Are Being Built."
 
@@ -1576,7 +1584,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 691 |
+| Total sources ingested | 693 |
 | Published articles tracked | 94 (83 standalone + 11 episodes) |
 | Entity pages | 258 |
 | Concept pages | 158 |
