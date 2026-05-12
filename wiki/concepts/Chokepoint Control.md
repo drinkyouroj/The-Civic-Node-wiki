@@ -3,7 +3,7 @@ title: "Chokepoint Control"
 type: concept
 tags: [power, infrastructure, geopolitics, energy]
 created: 2026-04-06
-updated: 2026-05-06
+updated: 2026-05-12
 sources: 21
 ---
 

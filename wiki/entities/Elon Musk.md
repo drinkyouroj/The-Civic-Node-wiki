@@ -4,7 +4,7 @@ type: entity
 entity_type: person
 tags: [technology, ai, openai, xai, spacex, tesla]
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-12
 sources: 10
 ---
 

@@ -3,7 +3,7 @@ title: "Cantillon Effect"
 type: concept
 tags: [monetary-policy, austrian-economics, inequality, theory]
 created: 2026-05-05
-updated: 2026-05-06
+updated: 2026-05-12
 sources: 12
 ---
 
