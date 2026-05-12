@@ -110,11 +110,20 @@ spending its attention on the first.
 
 *~90 words*
 
+*Optional addition (post-ingest): One sentence can follow "Hormuz is a supply shock"
+to make it concrete rather than rhetorical — pull it from the AXS Marine data:*
+
+> "307 of 949 vessels in the region are running dark — AIS transponders off, visible
+> only by satellite. Ships do that when they don't want to be targeted."
+
+*Use it if the Contested Claim feels too abstract. Drop it if you want the logic clean.
+Source: [[AXS Marine — Hormuz April Recovery — 2026-05]]*
+
 ---
 
 ## NOTE 3: Primary Source Drop (8–10 PM)
 
-*Two options — use the live one if the vote has happened; use the net liquidity backup if not.*
+*Three options, ranked. Use the first one that applies.*
 
 ---
 
@@ -131,15 +140,39 @@ him as chairman. Powell's term expires May 15. Warsh's first FOMC as chair: June
 
 ---
 
-### Option B — Net liquidity backup (if board vote delayed)
+### Option B — AIS dark rate (if board vote delayed; no FRED lookup required)
 
-*Requires FRED chart verification first. Pull WALCL − TGA − RRP before posting.*
+*Source: AXS Marine, April 2026. Pre-verified in wiki.*
+*[[AXS Marine — Hormuz April Recovery — 2026-05]]*
+*Screenshot: public.axsmarine.com — capture the sentence with the 307/949 figure.*
+
+307 of 949 vessels tracked west of Hormuz are running dark. AIS transponders off,
+visible only by satellite. The regional dark rate is 32%. Pre-conflict: 17%.
+
+Ships suppress transponders when they don't want to be targeted. The official crossing
+count is the headline. The AIS suppression rate is what the risk environment actually
+looks like.
+
+Source: AXS Marine, April 2026.
+
+*~55 words. No image strictly required, but the AXS Marine screenshot earns the format.*
+
+*Note: If you used the AIS optional addition in Note 2, this becomes redundant — use
+Option C instead.*
+
+---
+
+### Option C — Net liquidity backup (requires real-time FRED verification)
+
+*Use only if Options A and B are both unavailable or already used today.*
+*Requires pulling the FRED chart before posting. Formula: WALCL − TGA − RRP.*
+*H.4.1 releases Thursdays — if today is Tuesday, the latest reading is from last week.*
 
 Fed net liquidity as of [date]: $[X]B. Six weeks prior: $[Y]B. Change: +$[Z]B.
 
-The Fed's H.4.1 publishes Thursdays. The balance-sheet communications describe
-ongoing QT. Net liquidity measures what's reaching the system through RRP drainage
-and TGA drawdowns. Both statements can be simultaneously true.
+The Fed's balance-sheet communications describe ongoing QT. Net liquidity measures
+what's reaching the system through RRP drainage and TGA drawdowns. Both can be
+simultaneously true.
 
 The chart is the document. The press release is downstream of it.
 
@@ -148,10 +181,10 @@ The chart is the document. The press release is downstream of it.
 
 ---
 
-**Recommendation:** Option A the moment the vote posts. The dry timestamp post
-pairs perfectly with the Note 1 framework (read for what's missing) and the Note 2
-Contested Claim (independence vs. instrument problem). All three notes and the X
-standalone cohere around the same day's news without repeating the same sentence.
+**Recommendation:** Option A the moment the vote posts. If the vote is delayed past
+7 PM, Option B (AIS dark rate) is the clean fallback — pre-verified, directly extends
+the day's Hormuz argument from Notes 1 and 2, no real-time lookup. Option C requires
+work; only use it if you want the net liquidity angle specifically.
 
 ---
 
@@ -175,7 +208,7 @@ Short. Dry. No commentary beyond the setup. No celebration, no alarm.
 | When vote posts | X | Option A — Warsh board confirmation |
 | 3–5 PM ET | Substack Notes | Framework Hand — how to read the first FOMC statement |
 | 6–7 PM ET | Substack Notes | Contested Claim — instrument problem > independence problem |
-| 8–10 PM ET | Substack Notes | Primary Source Drop — Warsh vote (Option A) or net liquidity (Option B) |
+| 8–10 PM ET | Substack Notes | Primary Source Drop — Warsh vote (A), AIS dark rate (B), or net liquidity (C) |
 | Anytime | X | Option B — net liquidity (if you verify the FRED figure) |
 | All day | Substack Notes | 8 comments on Tier 1 list + 2 restacks with commentary |
 
