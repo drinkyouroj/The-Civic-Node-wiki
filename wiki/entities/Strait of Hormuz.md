@@ -4,7 +4,7 @@ type: entity
 entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure, monetary-policy, dedollarization]
 created: 2026-04-06
-updated: 2026-05-06
+updated: 2026-05-12
 sources: 23
 ---
 

@@ -3,7 +3,7 @@ title: "Tariff-Driven Inflation"
 type: concept
 tags: [monetary-policy, economics, politics]
 created: 2026-04-07
-updated: 2026-05-06
+updated: 2026-05-12
 sources: 17
 ---
 

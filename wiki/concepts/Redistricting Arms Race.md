@@ -3,8 +3,8 @@ title: "Redistricting Arms Race"
 type: concept
 tags: [politics, elections, power]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 5
+updated: 2026-05-12
+sources: 7
 ---
 
 ## Definition

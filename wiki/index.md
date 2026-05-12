@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-07
-total_pages: 1202
-total_sources: 675
+updated: 2026-05-12
+total_pages: 1210
+total_sources: 682
 total_entities: 250
 total_concepts: 155
 total_syntheses: 26
-total_articles: 93
+total_articles: 94
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -23,6 +23,27 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-12 Ingest — VRA erosion / mid-decade redistricting (AL+VA×2) + Warsh confirmed + April CPI 3.8% + Musk France charges + Netflix/Texas (7 sources, 1 article, 0 new entities, 0 new concepts)
+
+**Voting rights / redistricting (3)**:
+- [[SCOTUS Clears Alabama Republicans New Voting Map — Reuters - 2026-05-11]] — May 11 shadow-docket order (6-3) lifts lower-court block; Alabama can revert to single-majority-Black-district map; Sotomayor dissent flags lower court can re-block on Fourteenth Amendment intentional-discrimination grounds; **Roberts (who authored the 2023 5-4 upholding the block) is now in the majority lifting it**
+- [[Virginia Supreme Court Strikes Down Democrats Map — AP - 2026-05-08]] — VA Supreme Court 4-3 voids voter-approved Democratic redistricting amendment (April 21 referendum) on procedural grounds; Kelsey majority: legislature passed amendment after early voting began for 2025 election (1.3M ballots already cast); Cleo Powell dissent: "infinite voting loop" framing
+- [[Virginia Democrats Ask SCOTUS Revive House Map — Reuters - 2026-05-11]] — Speaker Don Scott emergency petition invoking *Moore v. Harper* (2023) state-legislatures-regulate-federal-elections dictum to overturn state-court ruling — **doctrinal inversion (Dems citing ISLT-adjacent reasoning)**
+
+**Macro / monetary (2)**:
+- [[Senate Confirms Kevin Warsh as Fed Governor — CNBC - 2026-05-12]] — 51-45 governor confirmation; Fetterman only D crossover; chair vote May 13; Miran's term ends; Powell stays as governor pending Eccles probe; **markets pricing rate hike, not cut**, despite Warsh's "regime change" rhetoric; first fully-partisan Fed-chair confirmation arc in committee history extending through floor
+- [[US Annual Consumer Inflation Accelerates April — Reuters - 2026-05-12]] — CPI +0.6% MoM, **+3.8% YoY (largest since May 2023)**; energy +3.8% MoM (~40% of headline); core +0.4% MoM (largest since Jan 2025); Iran war + tariffs named as binding drivers; "some economists had believed pass-through was over" — Reuters editorial frame; falsifies that claim
+
+**Tech accountability (2)**:
+- [[French Prosecutors Charges Musk X Grok — AP - 2026-05-07]] — Paris prosecutor seeks charges against [[Elon Musk]] / X / xAI: CSAM, deepfakes, Holocaust-denial (Grok Auschwitz output), unlawful data collection, manipulation of automated processing as organized group; **March 2026 referral to U.S. DOJ and SEC alleging the Grok controversy was engineered to pump X/xAI valuation** (potential securities-fraud transmissible theory of liability)
+- [[Netflix Sued by Texas Privacy Dark Patterns — Reuters - 2026-05-11]] — Paxton state-court action under Texas DTPA; cites Reed Hastings 2020 "we don't collect anything" as material misrepresentation; autoplay-as-dark-pattern claim; Paxton running for U.S. Senate against Cornyn in 2026 R primary
+
+**New article (1)**:
+- [[The Strait Is the Mandate]] — May 7 nonfiction by Justin Hearn; Fed dual-mandate categorical mismatch against the Hormuz chokepoint + 19.7% effective tariff rate; falsification test for [[Kevin Warsh]] embedded in piece; corroborated five days later by [[US Annual Consumer Inflation Accelerates April — Reuters - 2026-05-12|the April CPI print]]
+
+**No new entity pages this cycle** (all referenced entities already exist or deferred — see log).
+**No new concept pages** ([[Redistricting Arms Race]] expanded with three new sources; [[Voting Rights Act Erosion]] deferred pending *Callais* primary ingestion).
 
 ### 2026-05-07 Ingest — Lutnick cover-up framing + Fulton ballots ruling + Russia targeted killings + Epstein suicide note unsealed (4 sources, 2 concepts; 1 duplicate raw flagged)
 
@@ -1411,6 +1432,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[The Bluff Is Over. The Price Isn't.]] — Nonfiction, Apr 12 2026; five independent forces (Jevons Paradox, helium/Hormuz, Samsung labor revolt, irrevocable data-center contracts, China fab timeline) holding DDR5 at $400; concentration as the common thread; May 21 and June 2026 as ticking clocks
 
 ### Nonfiction Essays — Monetary Policy & Economy
+- [[The Strait Is the Mandate]] — May 7 2026; Fed dual-mandate categorical mismatch against the Hormuz chokepoint + 19.7% effective tariff rate; Iran monetizing access via yuan/stablecoin IRGC permit regime as dedollarization vector; falsification test embedded for Warsh's first FOMC statement
 - [[Independent Inside of Government]] — Apr 27 2026; Warsh confirmation as "respectability capture" — institutional capture that works because it looks like compliance; traces complete mechanism: DOJ probe → Boasberg rulings → probe closure → Tillis flip → committee vote (Apr 29, 10am) → FOMC same day (2pm); "independent inside of government, not independent of government" as the semantic mechanism
 - [[Cheaper AI Won't Use Less of Anything]] — Apr 22 2026; Jevons Paradox (1865 coal/steam efficiency → more consumption) explains why Google's memory breakthrough crashed chip stocks then made them rally; cheaper AI scales appetite for compute/energy/chips/labor, not reduces it
 - [[The Fed Is Trapped]] — Powell's dual-mandate admission; 80% QT reduction hidden beneath hawkish rhetoric
@@ -1507,12 +1529,59 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 675 |
-| Published articles tracked | 93 (82 standalone + 11 episodes) |
+| Total sources ingested | 682 |
+| Published articles tracked | 94 (83 standalone + 11 episodes) |
 | Entity pages | 250 |
 | Concept pages | 155 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-05-07 |
+| Last updated | 2026-05-12 |
+
+### 2026-05-12 New Pages (lint + ingest)
+
+**Sources (7)**:
+- Voting rights / redistricting (3): [[SCOTUS Clears Alabama Republicans New Voting Map — Reuters - 2026-05-11]], [[Virginia Supreme Court Strikes Down Democrats Map — AP - 2026-05-08]], [[Virginia Democrats Ask SCOTUS Revive House Map — Reuters - 2026-05-11]]
+- Macro / monetary (2): [[Senate Confirms Kevin Warsh as Fed Governor — CNBC - 2026-05-12]], [[US Annual Consumer Inflation Accelerates April — Reuters - 2026-05-12]]
+- Tech accountability (2): [[French Prosecutors Charges Musk X Grok — AP - 2026-05-07]], [[Netflix Sued by Texas Privacy Dark Patterns — Reuters - 2026-05-11]]
+
+**Articles (1)**:
+- [[The Strait Is the Mandate]] — May 7 2026 nonfiction; Fed dual-mandate categorical mismatch against the Hormuz chokepoint + tariff supply shock; falsification test for Warsh's first FOMC statement
+
+**No new entity pages.** All referenced entities already exist or deferred under "expand when motivated" rule (deferred stubs below).
+
+**No new concept pages.** [[Redistricting Arms Race]] expanded (5→8 sources) with three new sources today. [[Voting Rights Act Erosion]] deferred until the *Louisiana v. Callais* April 29 primary is ingested.
+
+**Entity pages updated** (no new): [[Kevin Warsh]] (sources 37→39 — Senate governor confirmation 51-45 + article), [[Stephen Miran]] (11→12 — board term ends), [[Jerome Powell]] (25→27 — chair ends Friday + article), [[Donald Trump]] (58→63 — confirmation/CPI/redistricting cycle/Musk-France peripheral + article), [[Elon Musk]] (10→11 — France charges), [[Iran]] (27→29 — war as April CPI driver + article), [[Strait of Hormuz]] (23→25 — CPI driver + central article), [[Federal Reserve]] (26→29 — CPI + Warsh confirm + article). Concept pages updated: [[War-Driven Inflation]] (17→19), [[Tariff-Driven Inflation]] (17→19), [[Chokepoint Control]] (21→23), [[Cantillon Effect]] (12→14), [[Fed Independence]] (28→30), [[Redistricting Arms Race]] (5→8).
+
+**Lint findings**:
+- Frontmatter and Stats table on `wiki/index.md` reconciled against `ls`-actual at entry: sources 675 / entities 250 / concepts 155 / syntheses 26 / articles 93 / pages 1202. **No drift from prior 2026-05-07 agent.** Overview frontmatter (`sources: 675`) and lede line ("grown from 31 to **675**") matched.
+- Spot-check on prior-day sources [[Russia Targeted Killings Europe Ramping Up — AP via ABC News - 2026-05-07]] and [[Trump Admin Keeps Seized 2020 Ballots — Reuters via USA Today - 2026-05-06]] against their raw files: factual claims (named cases, 191 incidents number; Boulee ruling, statute-of-limitations expiration) align with raw; no corrections.
+- No new ⚠️ Contradiction markers introduced; none cleared.
+- Rolled forward to sources 682, articles 94, pages 1210, updated 2026-05-12.
+
+**Newsletter angles surfaced**:
+- *The Warsh receipt arrives the day of the chair vote*: BLS April CPI print (+3.8% YoY, energy driving 40%+ of headline, tariff pass-through persistent) lands May 12 — same day as Warsh's 51-45 Senate governor confirmation. The falsification test embedded in [[The Strait Is the Mandate]] just became operational. Warsh's first FOMC statement (June 16-17) is the next check.
+- *Markets pricing rate hike, not cut*: Despite Warsh's "regime change" rhetoric and Trump's pressure, CNBC reports markets are pricing elevated odds of a hike. Reuters reports rates unchanged into 2027. If Warsh wants to cut, the entire forward curve has to move against him first.
+- *Roberts pivot on Alabama VRA*: Roberts authored the 2023 5-4 *upholding* the lower-court block against Alabama's previous map. He's now in the majority *lifting* it. Documented reversal in three years on substantially the same map — worth a piece on the Roberts-specific pattern, not just generic VRA erosion.
+- *Doctrinal inversion in Virginia Dems' SCOTUS petition*: Speaker Don Scott invoking *Moore v. Harper* state-legislatures-regulate-federal-elections dictum — the ISLT-adjacent doctrine the left framed as a democracy threat in 2022 — to overturn a state-court ruling against them. Editorial gold: when ISLT helps you, you cite it.
+- *"What counts as an election" as the load-bearing definitional question of 2026*: Kelsey/Powell argument in Virginia (early voting vs. Election Day) and Sotomayor's "confusion as Alabamians begin to vote" framing in the AL dissent are *the same definitional dispute* in two state and one federal case in a 10-day window. Worth filing the pattern.
+- *AI-output-as-securities-fraud as a transmissible theory*: Paris prosecutor's March 2026 referral to U.S. DOJ and SEC alleging Grok controversy was engineered to pump X/xAI valuation is the wiki's first source where a foreign prosecutor frames an AI-safety controversy as market manipulation transmissible across jurisdictions. If U.S. authorities act, first federal AI-pump securities case.
+- *Texas AG as primary U.S. tech regulator*: With federal privacy law nonexistent and FTC capacity constrained, Paxton's Collin County DTPA action against Netflix is the operative pattern. Hastings 2020 "we don't collect anything" quote functioning as material misrepresentation extends the documentary-vs-public-statement gap from [[Howard Lutnick]] / [[Apple]] cases to streaming-media-marketing claims.
+
+**Source acquisition targets**:
+- *Louisiana v. Callais* April 29 2026 opinion primary — the parent ruling for the Alabama shadow-docket order; not yet ingested
+- February 2026 SCOTUS opinion striking down Trump's global tariffs — referenced in CPI piece; primary needed for the AI/tariff economic-policy cluster
+- Warsh's first FOMC statement (June 16-17 meeting) — falsification test for [[The Strait Is the Mandate]]
+- Texas v. Netflix complaint (Collin County state court) — primary docket for the dark-patterns / autoplay theory
+- Paris prosecutor's March 2026 referral text to U.S. DOJ and SEC — primary for the Grok-as-securities-fraud claim
+- Sotomayor dissent text in the Alabama shadow-docket order (Reuters paraphrases) — primary for the Fourteenth-Amendment-vs-*Callais* analytical move
+- Eccles renovation probe resolution — operational lever for Powell's full exit from the Fed board
+- CME FedWatch primary for "rates unchanged into 2027" and "elevated odds for a rate hike" market-pricing claims
+
+**Deferred stubs** (not created — wikilinks left without their own pages):
+- People: Ken Paxton, John Cornyn, Reed Hastings, Linda Yaccarino, John Fetterman, Adriana Kugler, Sonia Sotomayor, John Roberts (Chief Justice), Steve Marshall, Deuel Ross, Don Scott, D. Arthur Kelsey, Cleo Powell, Suzan DelBene, Richard Hudson, Matthew Seligman, Thomas McCarthy, Jeff Cox, Lucia Mutikani, John Kruzel, David A. Lieb, Geoff Mulvihill, Jonathan Stempel, Heather Long, Joseph Brusuelas, Brett Kavanaugh
+- Orgs: U.S. Supreme Court (referenced 6+ times across redistricting + CPI — strong candidate for promotion next cycle), Virginia Supreme Court (4+ references), Bureau of Labor Statistics, NAACP Legal Defense and Educational Fund, Texas Office of the Attorney General, Paris public prosecutor's office, xAI, X (Twitter), Netflix, NRCC, DCCC, FOMC (functionally a sub-entity of [[Federal Reserve]])
+- Concepts: Voting Rights Act Erosion (3 sources today; promote when *Callais* primary ingested), Mid-Decade Redistricting (covered by [[Redistricting Arms Race]] — no separate page), Shadow-Docket Operationalization, Documentary-Record-vs-Public-Statement Gap (the cross-cluster pattern: Lutnick/Apple/Hastings — strong candidate for promotion), Dark Patterns / Engagement-Maximizing UX
+- Per CLAUDE.md "expand when motivated" rule — all defer to a second-source threshold.
 
 ### 2026-05-07 New Pages (lint + ingest)
 
