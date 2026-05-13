@@ -3,8 +3,8 @@ title: "Interconnection Queue"
 type: concept
 tags: [power, infrastructure, grid, regulation, ferc]
 created: 2026-05-07
-updated: 2026-05-07
-sources: 7
+updated: 2026-05-13
+sources: 8
 ---
 
 ## Definition
@@ -17,11 +17,13 @@ The interconnection queue is the document class that decides which AI data cente
 
 ## Evidence & Examples
 
-- **Total queue size.** ~2,300-2,600 GW in US queues vs. ~1,279 GW installed capacity (as of 2024) — roughly twice the entire installed grid. [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]]
-- **Active projects.** ~11,600 projects total seeking interconnection.
-- **Wait time evolution.** Renewable projects completed in 2008 waited under 2 years; in 2015, 3 years; in 2023, 5 years. Northern Virginia now at 7 years; California at 9+ years. [[Google Intersect Power Acquisition — Introl - 2026-01-20]]
-- **Completion rates.** Only 20% of projects requesting interconnection between 2000-2018 were operational by end of 2023. Solar 14%; battery 11%.
-- **Withdrawal rate.** ~70% of projects ultimately withdraw during the wait. In 2023 alone, 1,250+ requests representing 200+ GW withdrew.
+- **Total queue size (2025 edition).** ~2,290 GW active queue vs. ~1,322 GW installed capacity — LBNL framing: "nearly twice" installed capacity. [[Queued Up 2025 Edition — LBNL - 2025-12-15]]
+- **Prior edition (2024).** ~2,600 GW queued vs. ~1,279 GW installed; the 12% queue decrease is attributed to FERC Order 2023 forcing withdrawal of speculative projects, not reduced demand. [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]]
+- **Active project count.** 10,303 active projects; ~1,400 GW generation + ~890 GW storage.
+- **Wait time — US average.** Median IR-to-COD for 2024 completions: 55 months (4.6 years); LBNL frames as "over 4 years" for 2018–2024 cohort. Projects completed in 2008 waited under 2 years; 2015: 3 years; 2023: 5 years. [[Queued Up 2025 Edition — LBNL - 2025-12-15]]
+- **Wait time — regional.** Northern Virginia now at 7 years; California at 9+ years. [[Google Intersect Power Acquisition — Introl - 2026-01-20]]. CAISO median ~75–94 months (~6–8 years); PJM median ~68 months (~5.7 years) for 2024 cohort. [[Queued Up 2025 Edition — LBNL - 2025-12-15]]
+- **Completion rates.** 19% of projects (13% of capacity) from 2000–2019 cohort reached commercial operation by end of 2024. Solar 14%; battery 11% (2024 edition figures). [[Queued Up 2025 Edition — LBNL - 2025-12-15]]
+- **Withdrawal rate.** ~70% of projects ultimately withdraw; 77% of capacity from 2000–2019 cohort withdrew. ~700+ GW withdrew in 2024; ~500 GW new requests submitted same year. [[Queued Up 2025 Edition — LBNL - 2025-12-15]]
 - **Project size growth (2015 → 2023).** Mean solar plants 250% larger; standalone batteries 330% larger; wind 66% larger.
 - **Cost data.** Interconnection costs in 2019-2023 were 44% greater than during the preceding 5 years.
 - **Regulatory recognition.** FERC ordered PJM (Dec 18, 2025) to overhaul rules for co-located and behind-the-meter large loads — first major regulatory acknowledgment that the queue mechanism cannot keep pace with hyperscaler demand. [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]]
@@ -40,7 +42,8 @@ The interconnection queue is the document class that decides which AI data cente
 
 ## Key Sources
 
-- [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]]
+- [[Queued Up 2025 Edition — LBNL - 2025-12-15]] ← primary; most current authoritative data
+- [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]] ← 2024 edition figures
 - [[Google Intersect Power Acquisition — Introl - 2026-01-20]]
 - [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]]
 - [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]]

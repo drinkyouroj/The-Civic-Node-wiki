@@ -2,6 +2,26 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-13] ingest | LBNL 2025 + Bezos Italian Tech Week — fact-check sourcing for May 15 article
+
+Post-fact-check sourcing pass for `workspace/outlines/ais-power-bill.md`. Two new sources ingested; five outline corrections applied.
+
+**New sources (2):**
+- [[Queued Up 2025 Edition — LBNL - 2025-12-15]]: primary LBNL interconnection queue report (Dec 15 2025). Key figures: ~2,290 GW active queue vs. ~1,322 GW installed; 10,303 projects; 55-month median IR-to-COD for 2024 completions; CAISO ~75–94 months; PJM ~68 months; 19% completion rate (2000–2019 cohort); 12% queue decrease from 2024 edition attributed to FERC Order 2023 forced withdrawals.
+- [[Bezos Italian Tech Week AI Industrial Bubble — Fortune 2025-10-04]]: Jeff Bezos at Italian Tech Week, Turin, Oct 3 2025. Exact quote (13 words): "This is a kind of industrial bubble, as opposed to financial bubbles." Raw file created at `raw/Bezos Italian Tech Week AI Industrial Bubble — Fortune 2025-10-04.md`.
+
+**Concept updated (1):**
+- [[Interconnection Queue]]: evidence section updated to 2025 LBNL figures; regional wait-time breakdowns added (CAISO, PJM); key sources list adds LBNL 2025 as primary cite. sources count 7→8.
+
+**Outline corrections applied (5):**
+1. Flag #1 (Item 1): "Twelve months later" → "Fourteen months later" (Jan 2025 → Mar 2026 = ~14 months)
+2. Flag #2 (Item 4 Calendar 1): queue figures updated to LBNL 2025 (2,290/1,322 GW; 55-month median); Northern Virginia/California regional figures re-attributed to [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (correct source); LBNL 2025 added to sources list
+3. Flag #3 (Item 5): "top 10 spenders = ~1/3 of all spending" → "the top 10 hyperscalers account for roughly one-third of that total" (referent now unambiguous)
+4. Flag #4 (Item 3): "[SOURCE GAP]" and "[X]" placeholder removed; LBNL 2025 figures inserted; sources list populated
+5. U4 (Item 5 sources): [[Bezos Italian Tech Week AI Industrial Bubble — Fortune 2025-10-04]] added; Bezos quote sourced
+
+**Outline status**: `workspace/outlines/ais-power-bill.md` — all fact-check flags resolved; LBNL 2025 figures applied throughout; draft-ready.
+
 ## [2026-05-11] ingest | Day 8 Notes sourcing — AXS Marine AIS data + Qatar LNG transit
 
 Sourcing pass for Day 8 (Week 2) Substack Notes. Previous session had drafted a Note 2 (Primary Source Drop) around a fabricated data point ("6 of 7 vessels running dark, May 9") with no wiki source. Scraped and ingested two new sources to replace it.

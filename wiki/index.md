@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-12
-total_pages: 1232
-total_sources: 693
+updated: 2026-05-13
+total_pages: 1234
+total_sources: 695
 total_entities: 258
 total_concepts: 158
 total_syntheses: 26
@@ -23,6 +23,17 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-13 Ingest — LBNL 2025 + Bezos Italian Tech Week — fact-check sourcing for May 15 article (2 sources)
+
+**Power & Infrastructure / AI buildout (1)**:
+- [[Queued Up 2025 Edition — LBNL - 2025-12-15]] — Joseph Rand et al., LBNL, Dec 15 2025; authoritative annual interconnection queue report; ~2,290 GW active queue vs. ~1,322 GW installed ("nearly twice"); 10,303 projects; median 55 months (4.6 years) IR-to-COD for 2024 completions; CAISO ~75–94 months; PJM ~68 months; 19% completion rate (2000–2019 cohort); FERC Order 2023 drove 12% queue decrease vs. 2024 edition. **Primary source; replaces Latitude Media secondary cite for interconnection-queue figures.**
+
+**Tech / Macro (1)**:
+- [[Bezos Italian Tech Week AI Industrial Bubble — Fortune 2025-10-04]] — Fortune, Oct 4 2025; Bezos at Italian Tech Week Turin Oct 3: "This is a kind of industrial bubble, as opposed to financial bubbles." (13 words); railroad-bubble analogy; Sam Altman also present; **pullquote for Item 5 of May 15 article.**
+
+**Concept updated**: [[Interconnection Queue]] (sources 7→8; LBNL 2025 figures applied; regional breakdowns added; key sources list updated)
+**Outline corrected**: `workspace/outlines/ais-power-bill.md` — 5 fact-check flags resolved (Flag #1: "fourteen months"; Flag #2: LBNL 2025 figures + Introl attribution; Flag #3: hyperscaler referent clarified; Flag #4: Item 3 source gap closed; U4: Bezos source added)
 
 ### 2026-05-12 Ingest — VRA erosion / mid-decade redistricting (AL+VA×2) + Warsh confirmed + April CPI 3.8% + Musk France charges + Netflix/Texas (7 sources, 1 article, 0 new entities, 0 new concepts)
 
