@@ -556,3 +556,9 @@ At the start of every session:
 - Open questions are genuine unknowns worth investigating, not rhetorical.
 - Contradictions are flagged honestly, not smoothed over.
 - The wiki should be useful to someone coming in cold.
+
+## Writing Voice — Prose and Narration
+
+**Prefer mechanism over shorthand.** When choosing between a compressed insider phrase and a slightly more explanatory one, take the longer version. Name the specific mechanism or system rather than the term of art that assumes the reader already lives in it. "Timeline that doesn't fit in a financial model" beats "calendar nobody is pricing" — the extra words make the *why* visible instead of leaving it implied. This applies especially to financial, technical, and infrastructure concepts where the shorthand is second nature to the writer but opaque to a smart generalist reader.
+
+**Never use dismissal labels as substitutes for explanation.** "X is a press release," "X is theater," "X is noise," "X is optics" — these hand the reader a verdict without showing them the mechanism that earns it. Name what X actually is, name what it's missing, and name why that gap matters. The reader arrives at the dismissal themselves. If you find yourself reaching for a dismissal label, it means you skipped the explanation. Go back and write the explanation.
