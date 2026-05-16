@@ -23,7 +23,7 @@ Fortune piece reporting Harvard economist Jason Furman's finding that US GDP gro
 - Furman calculation: excluding AI/data-center investment, H1 2025 GDP growth = 0.1% annualized
 - AI data center investment = 4% of US GDP but 92% of GDP growth in H1 2025
 - Renaissance Macro: by August 2025, dollar value of AI data-center buildout had surpassed US consumer spending contribution to GDP for the first time ever
-- Hyperscaler capex nearing $400 billion annually; top 10 spenders account for ~1/3 of all spending
+- Hyperscaler capex nearing $400 billion annually; top 10 spenders account for ~1/3 of all spending (where "all spending" refers specifically to **hyperscaler data-center capex** — i.e., ~1/3 of the $400B figure — *not* all US business capex; clarified via direct re-fetch of the Fortune article during fact-check of [[12-Gigawatts-Were-Announced-4-Are-Being-Built]] May 15 2026 draft)
 - Morgan Stanley: data center-linked spending adding ~100 basis points to US real GDP growth
 - Morgan Stanley Chief Economist Gapen's theory: "mystery" of 2025 economy (solid spending + weak hiring) explained by corporate sector absorbing tariff costs by cutting unit labor costs rather than raising prices — distinct from AI story
 - Jeff Bezos on Amazon's data center buildout: an "industrial bubble" rather than financial bubble

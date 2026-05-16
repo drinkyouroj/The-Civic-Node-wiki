@@ -5,7 +5,7 @@ entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure, monetary-policy, dedollarization]
 created: 2026-04-06
 updated: 2026-05-12
-sources: 23
+sources: 25
 ---
 
 ## Overview
@@ -68,10 +68,12 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - [[Trump Pauses Project Freedom — BBC - 2026-05-05]] — Project Freedom paused after 48 hours by "mutual agreement" at Pakistan's request; blockade continues
 - [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — May 6 threat of "much higher level and intensity" attacks; one-page memorandum framework
 - [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — Hormuz/Suez/Red Sea rerouting cited explicitly in Transportation Equipment respondent commentary; Prices Index 84.6 (Apr 2022 peak match)
+- **May 2026 — April traffic data (AXS Marine)**: 301 crossings in April across 4 tracked cargo sub-segments (up from 238 in March, but down 90.9% YoY vs. 3,297 in April 2025). Peak: 28 crossings on April 18. Collapse to avg 6/day after TOUSKA seizure April 19. AIS dark rate: **307 of 949 vessels west of Hormuz operating under blackout = 32%** (pre-conflict: ~17%). Oil backlog: 108–117 million barrels stored aboard vessels in Gulf. Note: Kpler's widely-cited 191 April figure uses a different (broader) vessel universe — both are correct for different scopes. [[AXS Marine — Hormuz April Recovery — 2026-05]]
+- **May 10, 2026 — First Qatari LNG transit**: QatarEnergy's Al Kharaitiyat (Nakilat) crossed the Strait and entered the Gulf of Oman — first Qatari LNG carrier since February 28. Route: Tehran-approved northern corridor hugging the Iranian coast. Destination: Pakistan (Port Qasim). Pre-war baseline: ~3 LNG shipments/day from Persian Gulf. Qatar = ~1/5 of global LNG supply. Multiple previous attempts turned around before completing transit; this crossing required Iranian route authorization. [[Qatar First LNG Transit Hormuz — Fortune - 2026-05-10]]
 
 ## Open Questions
 
-- What % of global LNG (not just oil) transits the Strait?
+- ~~What % of global LNG (not just oil) transits the Strait?~~ Partially answered: Qatar alone (close to 1/5 of global LNG) ran ~3 tankers/day through the Strait pre-war. Full LNG share requires aggregating other Persian Gulf producers.
 - Are there viable alternative routes (Suez, Cape of Good Hope) and at what cost premium?
 - Has Iran ever fully closed the Strait before, or only threatened to?
 - What would partial or contested transit look like vs. full closure?

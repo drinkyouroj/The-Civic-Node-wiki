@@ -2,6 +2,38 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-13] ingest | LBNL 2025 + Bezos Italian Tech Week — fact-check sourcing for May 15 article
+
+Post-fact-check sourcing pass for `workspace/outlines/ais-power-bill.md`. Two new sources ingested; five outline corrections applied.
+
+**New sources (2):**
+- [[Queued Up 2025 Edition — LBNL - 2025-12-15]]: primary LBNL interconnection queue report (Dec 15 2025). Key figures: ~2,290 GW active queue vs. ~1,322 GW installed; 10,303 projects; 55-month median IR-to-COD for 2024 completions; CAISO ~75–94 months; PJM ~68 months; 19% completion rate (2000–2019 cohort); 12% queue decrease from 2024 edition attributed to FERC Order 2023 forced withdrawals.
+- [[Bezos Italian Tech Week AI Industrial Bubble — Fortune 2025-10-04]]: Jeff Bezos at Italian Tech Week, Turin, Oct 3 2025. Exact quote (13 words): "This is a kind of industrial bubble, as opposed to financial bubbles." Raw file created at `raw/Bezos Italian Tech Week AI Industrial Bubble — Fortune 2025-10-04.md`.
+
+**Concept updated (1):**
+- [[Interconnection Queue]]: evidence section updated to 2025 LBNL figures; regional wait-time breakdowns added (CAISO, PJM); key sources list adds LBNL 2025 as primary cite. sources count 7→8.
+
+**Outline corrections applied (5):**
+1. Flag #1 (Item 1): "Twelve months later" → "Fourteen months later" (Jan 2025 → Mar 2026 = ~14 months)
+2. Flag #2 (Item 4 Calendar 1): queue figures updated to LBNL 2025 (2,290/1,322 GW; 55-month median); Northern Virginia/California regional figures re-attributed to [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (correct source); LBNL 2025 added to sources list
+3. Flag #3 (Item 5): "top 10 spenders = ~1/3 of all spending" → "the top 10 hyperscalers account for roughly one-third of that total" (referent now unambiguous)
+4. Flag #4 (Item 3): "[SOURCE GAP]" and "[X]" placeholder removed; LBNL 2025 figures inserted; sources list populated
+5. U4 (Item 5 sources): [[Bezos Italian Tech Week AI Industrial Bubble — Fortune 2025-10-04]] added; Bezos quote sourced
+
+**Outline status**: `workspace/outlines/ais-power-bill.md` — all fact-check flags resolved; LBNL 2025 figures applied throughout; draft-ready.
+
+## [2026-05-11] ingest | Day 8 Notes sourcing — AXS Marine AIS data + Qatar LNG transit
+
+Sourcing pass for Day 8 (Week 2) Substack Notes. Previous session had drafted a Note 2 (Primary Source Drop) around a fabricated data point ("6 of 7 vessels running dark, May 9") with no wiki source. Scraped and ingested two new sources to replace it.
+
+**New sources (2)**:
+- [[AXS Marine — Hormuz April Recovery — 2026-05]]: April traffic data, most granular public AIS dark-rate figure (32% vs. 17% baseline). Fixes the vessel-count discrepancy between Kpler (191) and AXS Marine (301): different vessel universes, both valid.
+- [[Qatar First LNG Transit Hormuz — Fortune - 2026-05-10]]: Al Kharaitiyat, first Qatari LNG transit since Feb 28. Primary Source Drop material: named vessel, named date, Fortune/Bloomberg sourcing, published yesterday.
+
+**Entity updated**: [[Strait of Hormuz]] (sources +2; AIS dark rate and Qatar LNG data points added; LNG open question partially resolved)
+
+**Notes file updated**: `workspace/notes/2026-05-11-day8-options.md` — X Option B rewritten around real AIS data; Note 2 rewritten around Qatar LNG transit; Notes 1 and 3 confirmed clean (no sourcing issues). Source attribution added throughout.
+
 ## [2026-05-01] ingest | Batch 6 — Strait + Warsh update for "The Strait Is the Mandate"
 
 Pre-draft research pass for the next article ([[The Strait Is the Mandate]]) surfaced five new sources resolving three live research gaps flagged by tcn-fact-reconcile on the v2 outline:
@@ -2404,3 +2436,103 @@ Ingested 9 raw files across four story clusters with one new concept page. No ne
 - Overview frontmatter `sources: 682` and lede "grown from 31 to **682**" ✓ match
 
 **Wiki totals after**: 682 sources / 250 entities / 155 concepts / 26 syntheses / 94 articles / 1,210 pages.
+
+## [2026-05-07] ingest | AI Buildout Grid Constraint research — 7 sources + 2 concepts + 5 entities (May 15 article unblock)
+
+**Branch**: `article/12-gigawatts` (created earlier in session from up-to-date `main` after PR #49 merge; this ingest is on the article branch since sources are scoped to a single article-in-development).
+
+**Driver**: Source acquisition for May 15 Issue #3 ("12 Gigawatts Were Announced. 4 Are Being Built." — Pillar 2 Power & Infrastructure flagship). The detailed outline at `workspace/outlines/ais-power-bill-detailed.md` flagged four hard-blocker gaps: (a) interconnection-queue snapshot, (b) named hyperscaler PPA filing, (c) substation/transformer lead-time figure, plus secondary corroboration. This ingest closes all four blockers.
+
+**Sources ingested (7)** — Power & Infrastructure / AI buildout cluster:
+
+- *Transformer & substation layer (1)*: [[Transformers in 2026 — POWER Magazine - 2026-01-02]] (POWER Magazine, Sonal C. Patel, Jan 2 2026 — Wood Mackenzie data: large power transformers averaging 128 weeks Q2 2025; GSUs 144 weeks; substation transformers stretched 140 weeks (2023) → 160+ weeks (2026); 30% supply deficit projection; 9,000 units/yr by 2030 vs. 1,500 today; data centers projected at 40% of US electrical equipment demand by 2030; **Patrick Tarver contrarian view honestly reported**: "there is not a shortage" — bottleneck = procurement structure, not manufacturing capacity)
+
+- *Substation case studies (2)*: [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] (WOSU, Mark Ferenchik, Nov 26 2025 — joint AEP Ohio + Meta PUCO filing Nov 24 2025; three-year arrangement Jan 1 2026 - Dec 31 2028; Green Chapel substation built for Intel's $28B fab, unused after Intel's July 2025 slowdown; four temporary power lines; cost recovery via Meta charges absent which "the cost of Green Chapel substation would be recovered through rates paid by all AEP customers"); [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]] (El Paso Matters, Diego Mendoza-Moyers, Mar 29 2026 — PUCT filings on 366 MW gas-fired plant ($500M) using 813 modular Enchanted Rock generators; Meta investment $1.5B → $10B; explicit "bridge period" cost-shifting (Meta pays 1-5 years, then ratepayers); 117 t/yr NOx, 400K gallons/day water; local opposition Canales/Rodriguez)
+
+- *Interconnection queue (1)*: [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]] (Latitude Media, Phoebe Skok + Bianca Giacobone, Apr 11 2024 / updated Mar 6 2025 — LBNL "Queued Up" interpretation: 2,600 GW in queues vs. 1,279 GW US installed capacity; ~11,600 active projects; 70% withdrawal rate; wait times 2008 <2y → 2015 3y → 2023 5y; completion rates 14% solar / 11% battery for 2000-2018 cohort; 44% interconnection cost increase 2019-2023 vs. preceding 5 years)
+
+- *Hyperscaler vertical-integration response (2)*: [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] (POWER Magazine, Sonal C. Patel, Jan 22 2026 — Microsoft's Jan 13 2026 four-point framework, **first major hyperscaler comprehensive commitment to ratepayer cost protection**; 7.9 GW MISO contracting (2x current consumption); Project Forge GPU efficiency 800 MW "harvested" since 2019; **FERC Dec 18 2025 PJM order on co-located/behind-the-meter loads**; **13 PJM-region governors' Jan 15 2026 Statement of Principles** that data centers must "cover their share of the costs of any new resources"; Brad Smith framing "tech companies pay their own way"); [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (Introl, Blake Crosley, Jan 20 2026 — Alphabet's $4.75B acquisition of Intersect Power Dec 22 2025; 3.6 GW under development; Quantum Clean Energy Project Texas 640 MW solar + 1.3 GWh storage; **Northern Virginia 7-year and California 9+ year interconnection delays**; Google's data center power consumption 14.4 TWh (2020) → 30.8 TWh (2024) → 60+ TWh projected (2028); parallel hyperscaler moves: Microsoft+Brookfield $10B/10.5 GW, Amazon+Talen, Meta+nuclear (Vistra/TerraPower/Oklo) for 6.6 GW by 2035)
+
+- *Adjacent thesis corroboration (1)*: [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]] (Bricks & Bytes, Aren Deu, Apr 28 2026 — $400B 2025 capex → $650B 2026 announced (60% YoY); Sightline Climate: 5 GW of 16 GW global pipeline under construction; expects 30-50% to slip; corroborates Wood Mackenzie 128/144-week transformer lead times; Burry depreciation thesis ~$176B understated through 2028 if AI hardware economic life is 2-3 years vs. 5-6 year industry standard)
+
+**Failed fetches (not blocking)**: DCD coverage of Meta/AEP Ohio (403, redundant with WOSU primary); McKinsey "How hyperscalers are fueling the race for 24/7 clean power" (timeout, secondary value only). LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) was the original target for the queue snapshot; cited via Latitude Media interpretation instead. PDF can be acquired separately if RTO-specific (PJM/ERCOT/MISO) breakdowns become needed for the article.
+
+**New concept pages (2)**:
+- [[AI Buildout Grid Constraint]] — master concept tying together four interlocking sub-constraints (interconnection-queue depth, transformer/substation lead times, transmission timelines, PPA cycles); chip-layer-vs-grid-layer choice as the analytical frame; 8 sources cross-referenced; primary research base for the May 15 article
+- [[Interconnection Queue]] — vocabulary for the queue sub-constraint; FERC Dec 18 2025 PJM order on co-located/behind-the-meter loads = first major regulatory recognition that the queue mechanism cannot keep pace with hyperscaler demand; 4 sources
+
+**New entity pages (5)**:
+- [[Wood Mackenzie]] — global energy research and consulting firm (sources: 2; primary citable source for transformer lead times, supply-chain forecasting, demand projections)
+- [[AEP Ohio]] — Ohio utility, AEP subsidiary (sources: 1; Green Chapel substation case study)
+- [[El Paso Electric]] — Texas utility (sources: 1; bridge-period cost-shifting model contractually documented)
+- [[Intersect Power]] — US renewable developer, Sheldon Kimber CEO (sources: 1; acquired by Alphabet for $4.75B; "energy park" co-located generation template)
+- [[Crusoe Energy]] — energy infrastructure / on-site-generation operator at Stargate Abilene (sources: 2; backfilled — entity wikilinked from prior sources [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]] and [[Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed — Futurism - 2026-04-02]] without dedicated page until now)
+
+**Entity pages updated**:
+- [[Meta]] (sources 13→16): added [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]], [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]], [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (cited for Meta's nuclear-partnership track Vistra/TerraPower/Oklo)
+- [[Microsoft]] (sources 8→11): added [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] (subject), [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]] (Microsoft inheritance), [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (Microsoft+Brookfield $10B/10.5 GW parallel)
+- [[Intel]] (sources 3→4): added [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] (Intel as original Green Chapel off-taker; July 2025 slowdown; Lip-Bu Tan quote)
+
+**Newsletter angles surfaced**:
+- *Inheritance pattern is becoming a category, not a coincidence.* Microsoft inheriting Stargate Abilene grid position from OpenAI + Meta inheriting Green Chapel substation from Intel = same structural move at the substation level. The contracts being inherited aren't for compute — they're for grid position. **Direct support for the article's Item 1 reframe** ("the cancellation wasn't a demand story").
+- *Vertical integration is now the dominant hyperscaler workaround.* Google+Intersect ($4.75B), Microsoft+Brookfield ($10B / 10.5 GW), Amazon+Talen, Meta+nuclear (Vistra/TerraPower/Oklo) — four parallel vertical-integration moves indicate the queue-bypass pattern is structural. The pattern has a name now and a defined start date (Dec 2025 - Jan 2026). **Article Item 1 ¶3 generalization is now empirically anchored.**
+- *Cost-shifting in two registers.* Microsoft's Jan 2026 commitment to permanent full-cost recovery is the first major hyperscaler anti-cost-shifting pledge. El Paso Electric / Meta's "bridge period" model (Meta pays 1-5 years, then ratepayers) is the cost-shifting mechanism made contractually explicit. The two are inverse — and the divergence is itself a story (which model becomes industry standard?).
+- *PJM governors' Jan 15 2026 Statement is a regulatory turning point.* Thirteen state governors signing simultaneously — the first major coalition recognizing data-center cost-shifting as political problem. Worth tracking how state utility commissions implement.
+- *The plan's PPA-lead-time framing reframes.* The "18 months → 5-7 years" framing in the original detailed outline (Item 4 ¶1) doesn't appear directly in the sourced data. **The actual story is the interconnection-queue clearance time stretching to 7-10 years (regional), plus transformer lead times of 128-160 weeks** — not "PPA lead times" specifically. The article should reframe Item 4 ¶1 to "the grid stack calendar" with three nested calendars. Detailed outline file flagged for revision before draft.
+
+**Source acquisition follow-ups (lower priority)**:
+- LBNL "Queued Up: 2025 Edition" PDF (Dec 15 2025) for RTO-specific (PJM/ERCOT/MISO) gigawatt breakdowns if Item 3 needs them
+- Wood Mackenzie August 2025 + September 2025 reports if direct primary-source citations are needed (POWER Magazine summary may suffice)
+- McKinsey 24/7 clean power piece (failed timeout) — re-fetch later if Item 5 (macro layer) needs additional Fed-bridge framing
+- DCD or Reuters trade-press version of the Meta/AEP Ohio filing for capacity figures in MW that the WOSU local report omits
+- The actual PUCO docket for the Meta/AEP Ohio Green Chapel filing (for direct contract-language quotes if Item 4 ¶2 wants them)
+
+**Deferred stubs** (wikilinks left in pages; not created as standalone pages):
+- People: Sonal C. Patel (POWER Magazine), Mark Ferenchik (WOSU), Diego Mendoza-Moyers (El Paso Matters), Aren Deu (Bricks & Bytes), Blake Crosley (Introl), Phoebe Skok + Bianca Giacobone (Latitude Media), Sheldon Kimber (Intersect Power CEO), Amanda Peterson Corio (Google), Brad Smith (Microsoft Vice Chair), Lip-Bu Tan (Intel CEO), Andrew Likens (Crusoe Energy energy lead), Patrick Tarver (Bolt Electrical LLC), James Schichtl (El Paso Electric VP), Kelly Tomblin (El Paso Electric CEO), Chris Canales (El Paso City Council), Matthew Rodriguez (Amanecer People's Project), Jon Barela (Borderplex Alliance CEO), Michael Burry (investor)
+- Orgs: Hitachi Energy, Siemens Energy, Eaton, Prolec GE, Virginia Transformer Corp., HD Hyundai Electric, ERMCO, MGM Transformer, Central Moloney, WEG, Brookfield Asset Management, Talen Energy, Vistra, TerraPower, Oklo, Enchanted Rock, Public Utilities Commission of Ohio, Public Utility Commission of Texas, FERC, PJM, ERCOT, MISO, Lawrence Berkeley National Laboratory, Sightline Climate, American Clean Power, American Electric Power (parent of AEP Ohio), Bolt Electrical LLC, We Energies, Black Hills Energy, Borderplex Alliance, Amanecer People's Project, DigDeep
+- Concepts: Hyperscaler Vertical Integration (referenced 4+ times; promote when fifth source justifies), Behind-the-Meter Generation, Hyperscaler Infrastructure Inheritance (referenced 2x — Microsoft/Stargate + Meta/Green Chapel; promote when third source justifies), Cost Shifting (Cost-Recovery Rate Design), Power Transformer Shortage, Hyperscaler Hardware Depreciation Gap (Burry thesis)
+
+**⚠️ Cross-source attribution discrepancy noted**: The quote "If one piece of your supply chain is delayed, then your whole project can't deliver" is attributed to two different speakers across [[Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed — Futurism - 2026-04-02]] (Andrew Likens, Crusoe Energy energy lead) and [[Big Tech Promised $650B Data Centers Most Not Being Built — Bricks & Bytes - 2026-04-28]] (unnamed Sightline Climate analyst). Futurism attribution (Likens, Crusoe Energy) is more likely the original; flagged in both source pages and noted in [[Crusoe Energy]] entity page. Article should cite Futurism version.
+
+---
+
+**Wiki totals after**: 689 sources / 255 entities / 157 concepts / 26 syntheses / 94 articles / 1,224 pages.
+
+### Follow-up additions (later in same 2026-05-07 session): 2 secondary sources + 3 entities + 1 concept
+
+After the initial 7-source batch above, two pre-existing raw clippings (saved by user prior to this session) were folded into the same ingest pass to close the two earlier failed fetches.
+
+**Additional sources ingested (2)**:
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (McKinsey & Company, Lorenzo Moavero Milanesi + Tjark Freundt + Yuito Yamada, Dec 17 2024 — foundational 24/7 PPA framework predating the 2025-26 vertical-integration cluster; key data: global data center power 500-600 TWh today projected 3-4x by 2030; **65-85 GW LDES required** for half of 2030 hyperscaler renewable demand (= Poland or Vietnam-sized installed power capacity); ChatGPT query consumes ~10x Google search query; **Microsoft+Google Granular Certificate Trading Alliance** for hourly cert trading; **Amazon+Meta "Emission First" alliance** end of 2022 as alternative to hourly matching; Microsoft 2020 Vattenfall Sweden pilot 24/7 PPA; Google 478 MW 2024 Dutch offshore PPA at 90% hourly clean; Statkraft 97% renewable hydropower flexibility; Mercedes-Benz Statkraft 2021 contract; Equinor + Danske Commodities €400M 2018 acquisition for trading capability)
+- [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (DataCenterDynamics, Zachary Skidmore, May 6 2026 — trade-press companion to [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]]; adds critical contract specifics WOSU lacked: **250 MW for three years** (Meta initially 120 MW, ramps to full 250 MW in April 2026); **full 500 MW Intel allotment restored at start of 2029**; Intel timeline (broke ground 2022, originally 2025, now 2030/2031); Meta's separate **200 MW Socrates South gas plant** approved June 2025 PUCO at same New Albany site (behind-the-meter parallel infrastructure); cites **Columbus Business First** Dec 2 2025 as the original local trade-press source; AEP Ohio "win-win" framing)
+
+**New entity pages from follow-up (3)**:
+- [[Lawrence Berkeley National Laboratory]] (sources: 2; DOE national lab; "Queued Up" annual interconnection-queue report is the authoritative primary source on US queue depth, withdrawal rates, completion rates; 2025 Edition published Dec 15 2025 extends dataset through end of 2024)
+- [[FERC]] (sources: 1; Federal Energy Regulatory Commission; independent agency regulating interstate electricity transmission; **December 18, 2025 PJM order on co-located/behind-the-meter large loads** = first major federal-regulatory action explicitly addressing hyperscaler vertical-integration / on-site-generation pattern)
+- [[Alphabet]] (sources: 2; corporate parent of Google; covers energy strategy distinct from [[Google DeepMind]] AI-research subsidiary — Intersect Power $4.75B acquisition, 24/7 PPA goal for 2030, Granular Certificate Trading Alliance, 478 MW Dutch offshore PPA; data-center power consumption 14.4 TWh (2020) → 30.8 TWh (2024) → projected >60 TWh (2028))
+
+**New concept page from follow-up (1)**:
+- [[Power Transformer Shortage]] (sources: 4; sub-concept of [[AI Buildout Grid Constraint]] focused on transformer-hardware layer; Wood Mackenzie 30% supply deficit projection; 128/144/160-week lead times; ~$1.8B announced manufacturing buildout through 2028; Patrick Tarver contrarian view documented; ratio of <10% cost / 100% gating central thesis)
+
+**Additional existing entity pages updated (follow-up)**:
+- [[Meta]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (Emission First alliance with Amazon, end of 2022) and [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (250/500 MW capacity figures for Green Chapel; separate 200 MW Socrates South gas plant)
+- [[Microsoft]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (2020 Vattenfall Sweden pilot 24/7 PPA; Granular Certificate Trading Alliance with Google; carbon-negative 2030 commitment)
+- [[Intel]]: added [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (2022 ground break; 2030/2031 revised production timeline; 500 MW allotment restored at start of 2029)
+- [[OpenAI]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (ChatGPT 10x Google-search-query power-consumption fact — demand-side rationale for 24/7 PPAs)
+- [[Amazon]]: added [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] (Emission First alliance with Meta, end of 2022) and [[Google Intersect Power Acquisition — Introl - 2026-01-20]] (Talen nuclear deal cited as parallel vertical-integration move)
+- [[AEP Ohio]]: added [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] (250/500 MW capacity figures, ramp dates, Intel restoration timeline, "win-win" quote)
+- [[Google DeepMind]]: added cross-reference to [[Alphabet]] for corporate-level energy strategy (separation of concerns between AI-research subsidiary and corporate parent)
+
+**Updated existing source page**: [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — replaced the prior "(DCD article fetch returned 403; not separately ingested)" placeholder with full cross-reference to [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] as trade-press companion; documented that DCD is the load-bearing source for capacity figures while WOSU is supporting local public-media documentation.
+
+**Updated concept page**: [[AI Buildout Grid Constraint]] — added McKinsey foundational PPA-framework reference (24/7 PPAs as the next-level instrument hyperscalers were already pursuing pre-2025; LDES storage as fifth implicit sub-constraint); added DCD-detail substation case study refinement (Socrates South dual-track pattern showing hyperscaler grid-position inheritance + behind-the-meter generation as a combined strategy, not alternatives); added [[Power Transformer Shortage]] to Related Concepts.
+
+**Naming flag**: McKinsey raw file uses "247 clean power" in filename (no slash, to avoid path issues). Wiki source page filename uses "24-7 Clean Power Race" for the same reason. **The page title in YAML frontmatter preserves McKinsey's actual "24/7" styling** — the slash-vs-hyphen distinction is purely a filesystem-safety convention.
+
+**Sanity check** (Phase 1 step 1+2 re-run on new state, post-follow-up):
+- `find wiki/sources -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **684** ✓ matches index frontmatter `total_sources: 684`
+- `find wiki/entities -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **258** ✓ matches `total_entities: 258`
+- `find wiki/concepts -maxdepth 1 -name "*.md" -not -name "CLAUDE.md" | wc -l` = **158** ✓ matches `total_concepts: 158`
+- `find wiki -name "*.md" -not -name "CLAUDE.md" | wc -l` = **1222** ✓ matches `total_pages: 1222`
+
+**Wiki totals after** (post-follow-up): 691 sources / 258 entities / 158 concepts / 26 syntheses / 94 articles / 1,230 pages.

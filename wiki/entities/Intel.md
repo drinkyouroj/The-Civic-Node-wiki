@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, infrastructure]
 created: 2026-04-11
-updated: 2026-04-11
-sources: 3
+updated: 2026-05-07
+sources: 5
 ---
 
 ## Overview
@@ -30,6 +30,8 @@ Intel's domestic helium buffer illustrates how geographic diversification of sup
 ## Source Appearances
 
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — cited as less exposed due to domestic helium sourcing
+- [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — Intel's $28B Ohio fab project as the original off-taker for the Green Chapel substation; July 2025 slowdown announcement (CEO Lip-Bu Tan: "invested too much, too soon — without adequate demand") created stranded substation capacity that Meta is now inheriting; original 2030/2031 plant production start dates
+- [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] — DCD trade-press details: Intel broke ground 2022; first two buildings originally projected for 2025; now slated for 2030 or 2031 due to series of delays; **full 500 MW Intel allotment restored at start of 2029** (after the three-year Meta arrangement)
 
 ## Open Questions
 

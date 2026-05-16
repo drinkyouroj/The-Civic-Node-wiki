@@ -557,19 +557,19 @@ The newsletter's stance is that understanding the machinery produces composure, 
 
 ### Brand at a Glance
 
-| Element | Definition |
-|---|---|
-| Publication name | The Civic Node |
-| Tagline | Dispatches from inside the machine. |
-| Core promise | Composure through frameworks |
-| Strategic insight | Recognition, not revelation — and less alone for it |
-| Competitive position | The three-vocabulary writer: macro / crypto-native / political-systems |
-| Voice | Dry, sardonic, deadpan, precise. No jerseys. Accessible smart. |
-| Audience | Systems analysts, 30–45, who read both Lyn Alden and Matt Taibbi |
-| Trust signal | No-conflict disclosure as product feature, not footer |
-| Pricing | $8/mo / $80/yr standard; $250/yr founding member |
-| Cadence | Weekly flagship issue; no daily content |
-| Revenue bridge | Local AI automation and web dev consulting |
+| Element                 | Definition                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| Publication name        | The Civic Node                                                                                       |
+| Tagline                 | Dispatches from inside the machine.                                                                  |
+| Core promise            | Composure through frameworks                                                                         |
+| Strategic insight       | Recognition, not revelation — and less alone for it                                                  |
+| Competitive position    | The three-vocabulary writer: macro / crypto-native / political-systems                               |
+| Voice                   | Dry, sardonic, deadpan, precise. No jerseys. Accessible smart.                                       |
+| Audience                | Systems analysts, 30–45, who read both Lyn Alden and Matt Taibbi                                     |
+| Trust signal            | No-conflict disclosure as product feature, not footer                                                |
+| Pricing                 | $8/mo / $80/yr standard; $250/yr founding member                                                     |
+| Cadence                 | Weekly flagship issue; no daily content                                                              |
+| Revenue bridge          | Local AI automation and web dev consulting                                                           |
 | Permanent anti-patterns | Partisan drift, sponsored content, community before trust, contrarianism for its own sake, doomerism |
 
 ---

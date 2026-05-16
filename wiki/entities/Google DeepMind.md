@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, ai]
 created: 2026-04-22
 updated: 2026-04-22
-sources: 3
+sources: 4
 ---
 
 ## Overview
@@ -22,6 +22,7 @@ Google's AI research division (formed by the 2023 merger of Google Brain and Dee
 
 ## Connections
 
+- [[Alphabet]] — corporate parent; Alphabet's energy strategy and infrastructure moves (Intersect Power acquisition, 24/7 PPA goals, Quantum Clean Energy Project) are tracked on the Alphabet entity page rather than here
 - [[OpenAI]] — primary commercial competitor
 - [[Anthropic]] — primary commercial competitor; former DeepMind researchers among Anthropic founders
 

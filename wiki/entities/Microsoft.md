@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power, platform-antitrust]
 created: 2026-04-07
-updated: 2026-04-17
-sources: 8
+updated: 2026-05-07
+sources: 12
 ---
 
 ## Overview
@@ -43,6 +43,10 @@ Microsoft is a US technology conglomerate (market cap ~$3T) whose AI strategy ce
 - [[Import AI 431 — Technological Optimism and Appropriate Fear]] — Microsoft Research cited as co-author of AI bioweapons paper
 - [[Microsoft Hit with Antitrust Lawsuit Over AI Pricing and OpenAI Deal — PYMNTS]] — CPI summary of the Azure-exclusivity class action
 - [[Microsoft sued over secret deal with OpenAI — Computing.co.uk]] — UK trade-press coverage; adds £2B UK parallel claim and treble-damages detail
+- [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]] — first major hyperscaler four-point commitment to ratepayer cost protection (Jan 13 2026); 7.9 GW MISO contracting; Project Forge GPU efficiency; Brad Smith framing of "tech companies pay their own way"
+- [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]] — Microsoft inherited the Stargate Abilene project after the Mar 6 2026 cancellation; the inheritance pattern is the operational signal that grid position is more valuable than the demand-failure framing suggested
+- [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — Microsoft's $10B Brookfield deal (10.5 GW capacity 2026-2030) cited as parallel hyperscaler vertical-integration move
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — McKinsey foundational reference; Microsoft contracted 2020 pilot 24/7 PPA with Vattenfall (Sweden); jointly launched Granular Certificate Trading Alliance with Google for hourly certificate trading; carbon-negative-by-2030 corporate commitment
 
 ## Open Questions
 

@@ -148,6 +148,21 @@ If you see even ONE in your output, rewrite the entire sentence.
 
 **The fix is simple:** delete everything before the positive claim. If you wrote "It's not about the prompt. It's about the context," just write "It's about the context." The negated framing adds zero information. The reader doesn't need to be told what something ISN'T before learning what it IS. Just say what it is.
 
+### 3H. Dismissal labels as substitutes for explanation
+
+**"X is a press release." "X is theater." "X is noise." "X is optics."**
+
+These phrases hand the reader a verdict without showing them the mechanism that earns it. An insider hears "press release" and knows what you mean — performative, no delivery commitment, marketing layer. A regular reader just hears "it's bad somehow" and has to take your word for it. The Civic Node is written for the second reader, not the first.
+
+**The fix:** name what X actually is — the document type, the legal mechanism, the contract structure — and name what it's missing and why that gap matters. The reader arrives at the dismissal themselves.
+
+Bad: "A project with PPAs but no queue position is a press release."
+Good: "A PPA is a purchasing contract for power that hasn't been connected yet. Queue position is the regulatory filing that reserves a spot in the interconnection line. Without it, a PPA has no delivery mechanism."
+
+This applies to any shorthand verdict: "performative," "hollow," "empty," "just optics." If you find yourself reaching for one of these, it means you skipped the explanation. Go back and write the explanation.
+
+---
+
 ### 3G. Tribal-coded crypto cringe
 
 The TCN audience reads crypto seriously. They do not perform it. Crypto-Twitter tribal markers signal "I am trying to be part of a club" and disqualify a writer instantly with this reader. The audience already knows who is in the tribe. The work is showing you understand the substance, not the secret handshake.

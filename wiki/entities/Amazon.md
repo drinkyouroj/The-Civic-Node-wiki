@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, ai, labor, power]
 created: 2026-04-07
 updated: 2026-04-07
-sources: 8
+sources: 10
 ---
 
 ## Overview
@@ -38,6 +38,8 @@ American multinational technology and e-commerce company. Founded 1994 by Jeff B
 - [[Ghost Work — The Hidden Humans Behind AI]] — AMT as foundational crowdwork platform
 - [[When Robots Leave the Lab]] — 750K warehouse robots as physical AI deployment case
 - [[Amazon Reaches 750000 Robots in Fulfillment Operations — Distribution Strategy]] — June 2025 corporate disclosure of 750K robot count; nine core systems itemized; Shreveport facility detail
+- [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — Amazon co-founded "Emission First" alliance (end of 2022) with Meta and others as alternative to hourly-matching 24/7 PPAs; emission-impact accounting framework
+- [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — Amazon's Talen nuclear agreement cited as parallel hyperscaler vertical-integration move alongside Google+Intersect, Microsoft+Brookfield, Meta+nuclear (Vistra/TerraPower/Oklo)
 
 ## Open Questions
 

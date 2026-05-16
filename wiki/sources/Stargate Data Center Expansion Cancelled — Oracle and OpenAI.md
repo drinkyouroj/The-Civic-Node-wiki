@@ -15,11 +15,11 @@ published: 2026-03-06
 
 ## Summary
 
-Oracle and OpenAI cancelled the planned expansion of their flagship Stargate data center campus in Abilene, Texas — from 1.2 GW to 2.0 GW. The 600 MW expansion failed due to unresolved financing negotiations and shifting demand forecasts from OpenAI. The existing campus continues operating, and Oracle's broader 4.5 GW commitment to OpenAI remains. Microsoft is taking over the construction project, Crusoe is building an AI factory on-site, and Meta is reportedly interested in excess capacity.
+Oracle and OpenAI cancelled the planned expansion of their flagship Stargate data center campus in Abilene, Texas — from 1.2 GW to 2.0 GW. The 800 MW expansion (2.0 GW − 1.2 GW; trade-press widely cited "600 MW," which doesn't reconcile with the GW endpoints — math discrepancy traced to original Bloomberg reporting and propagated through Tom's Hardware, DCD, Enverus, and others) failed due to unresolved financing negotiations and shifting demand forecasts from OpenAI. The existing campus continues operating, and Oracle's broader 4.5 GW commitment to OpenAI remains. Microsoft is taking over the construction project, Crusoe is building an AI factory on-site, and Meta is reportedly interested in excess capacity.
 
 ## Key Points
 
-- The Abilene, TX campus expansion was cancelled: planned scale-up from 1.2 GW to 2.0 GW (a 600 MW expansion).
+- The Abilene, TX campus expansion was cancelled: planned scale-up from 1.2 GW to 2.0 GW (a 800 MW expansion (2.0 GW − 1.2 GW; trade-press widely cited "600 MW," which doesn't reconcile with the GW endpoints — math discrepancy traced to original Bloomberg reporting and propagated through Tom's Hardware, DCD, Enverus, and others)).
 - Two factors killed the expansion: financing disputes that dragged without resolution, and OpenAI's shifting demand forecasts.
 - This is one of the largest AI infrastructure reversals on record.
 - The existing 1,000-acre campus remains operational with multiple facilities in service.
