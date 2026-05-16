@@ -4,7 +4,7 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-05-12
+updated: 2026-05-16
 sources: 27
 ---
 
@@ -23,6 +23,7 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - Iran launched strikes on energy infrastructure in **Kuwait, UAE, and Bahrain** on April 5, 2026 — expanding conflict regionally [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]]
 - General Aliabadi called Trump's ultimatum "a helpless, nervous, unbalanced and stupid action" [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]]
 - IRGC spokesperson Zolfaghari warned: "The entire region will turn into hell for you; the illusion of defeating the Islamic Republic of Iran will become a quagmire" [[Will blow up everything, take over Iran's oil — Trump says can reach deal by Monday]]
+- **May 15, 2026**: US officials suspect Iran-linked hackers behind breaches of automatic tank gauge (ATG) systems at gas stations in multiple US states ([[Iran Hackers Breached Gas Station Tank Readers — CNN - 2026-05-15]]). Display tampering confirmed; physical fuel manipulation not confirmed. Continues an Iran-linked cyber campaign since February that has hit US oil/gas and water sites, [[Stryker]] (medical devices), and the private Gmail of FBI Director [[Kash Patel]]. Israel National Cyber Directorate head Yossi Karadi described "significant increase in scale, speed, and integration" of Iranian cyber ops
 - Iranian negotiators in backchannel talks have been granted **limited amnesty** by the US — confirms active negotiations alongside public defiance
 - Trump's prior threats targeted Iran's desalination plants; legal experts flagged this as potential violation of international humanitarian law
 - **April 7, 2026 — Two-week ceasefire announced**: 90 minutes before Trump's deadline. Iran agreed to reopen Strait of Hormuz "via coordinating with Iran's Armed Forces" and reportedly will charge $2M per ship transit fee, with revenue earmarked for war reconstruction. [[CBC — Trump Iran ceasefire what happens next]]

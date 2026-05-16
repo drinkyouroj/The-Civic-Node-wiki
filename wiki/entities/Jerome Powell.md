@@ -4,7 +4,7 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
-updated: 2026-05-12
+updated: 2026-05-16
 sources: 25
 ---
 
@@ -22,6 +22,8 @@ Jerome Powell is the 16th Chair of the Federal Reserve, serving since 2018. He w
 - Trump called Powell "too stupid," "too political," "a moron," and suggested the renovation of the Fed building could be a "fireable offense" — Powell responded: "I'm very focused on just doing my job" [[Trump's tariffs kept Fed from cutting rates, Jerome Powell says]]
 - Supreme Court appeared to bolster Powell's position against firing in a June 2025 ruling [[Trump's tariffs kept Fed from cutting rates, Jerome Powell says]]
 - Could remain as a Fed board member until January 2028 even after his chair term ends
+- **May 15, 2026**: Eight-year run as chair formally expired; Fed Board named Powell **chair pro tempore** until [[Kevin Warsh]] is sworn in ([[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]]). Trump-appointed Governors [[Stephen Miran]] and Michelle Bowman issued a joint statement opposing the measure on the grounds it lacks a fixed time period
+- Powell has stated he will remain on the **Board of Governors** until satisfied the Trump administration has ended its criminal probe of him — making his continued service explicitly contingent on probe-closure status
 
 ## Newsletter Relevance
 

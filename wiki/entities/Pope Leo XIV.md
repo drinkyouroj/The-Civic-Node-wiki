@@ -4,7 +4,7 @@ type: entity
 entity_type: person
 tags: [religion, politics, power, antiwar, geopolitics, iran]
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-05-16
 sources: 5
 ---
 
@@ -19,6 +19,7 @@ American-born pope who has emerged as the world's most prominent advocate for pe
 - Expressed frustration with US and Israeli bombing hitting "schools, hospitals, and residential centers" [[Pope Leo Is Speaking Truth to Donald Trumps Power]]
 - Mid-March: called for ceasefire, described "atrocious violence of war" in the Middle East [[Pope Leo Is Speaking Truth to Donald Trumps Power]]
 - [[Bernie Sanders]] publicly praised Leo's Easter statement [[Pope Leo Is Speaking Truth to Donald Trumps Power]]
+- **May 14, 2026** (Sapienza University of Rome, ~110,000 students): rejected the framing of European rearmament as "defence" — *"Let us not call 'defence' a rearmament that increases tensions and insecurity, impoverishes investments in education and health, betrays trust in diplomacy, and enriches elites who care nothing for the common good"*. European military spending +14% in 2025 → $864B per SIPRI; NATO 2025 adopted a 5%-of-GDP target at Trump's urging; Trump's Feb 2026 EO conditions US weapons-sales priority on higher-defense-spending countries. Same address connected AI-in-war to active conflicts: Ukraine, Gaza, Lebanon, Iran show "the inhumane evolution of the relationship between war and new technologies in a spiral of annihilation" ([[Pope Leo Decries European Military Spending — Reuters - 2026-05-14]])
 
 ## Newsletter Relevance
 

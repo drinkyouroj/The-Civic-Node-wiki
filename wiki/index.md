@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-13
-total_pages: 1234
-total_sources: 695
+updated: 2026-05-16
+total_pages: 1241
+total_sources: 701
 total_entities: 258
 total_concepts: 158
 total_syntheses: 26
-total_articles: 94
+total_articles: 95
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -23,6 +23,32 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-16 Ingest — Iran ATG hack + Powell pro tempore + Pope Leo defense critique + Tech CEOs to Congress + Chud the Builder + SCOTUS rebuffs VA Dems (6 sources, 1 article, 0 new entities, 0 new concepts)
+
+**Politics / Power / Infrastructure (Iran cyber, 1)**:
+- [[Iran Hackers Breached Gas Station Tank Readers — CNN - 2026-05-15]] — Sean Lyngaas, CNN, May 15 2026; US officials suspect Iran-linked hackers breached automatic tank gauge (ATG) systems at US gas stations in multiple states; password-less devices exploited; display tampering confirmed, physical fuel manipulation not confirmed. Extends Iran-linked wartime cyber campaign (Stryker disruption, Patel Gmail leak). Chris Krebs warns Iran likely active in 2026 midterms; **US has not yet activated dedicated election-foreign-threats team** — "strategic malpractice" per former Cyber Command official.
+
+**Monetary policy / Fed (1)**:
+- [[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]] — Reuters, May 15 2026; Powell's 8-year chair term formally expired; Fed Board named him chair pro tempore until [[Kevin Warsh]] is sworn in. **Miran and Bowman issued joint statement opposing the measure** for lacking a fixed time period — first public coordinated action by the Trump-appointed governor bloc, pre-positioned before Warsh has arrived. Powell will stay on Board of Governors until satisfied the probe-closure stays closed.
+
+**Geopolitics / Antiwar / Defense spending (1)**:
+- [[Pope Leo Decries European Military Spending — Reuters - 2026-05-14]] — Joshua McElwee, Reuters, May 14 2026; Leo at Sapienza University Rome: rejected the framing of European rearmament as "defence"; named the resource trade-off (education/health) and beneficiary class ("elites"). European military spending +14% in 2025 → $864B (SIPRI), largest since end of Cold War; NATO 2025 adopted 5%-of-GDP target at Trump's urging; **Trump Feb 2026 EO conditions US weapons-sales priority on higher-defense-spending countries** — the under-flagged industrial-policy mechanism. Leo also connected AI-in-war to active conflicts (Ukraine/Gaza/Lebanon/Iran).
+
+**Tech accountability (1)**:
+- [[Tech CEOs Summoned to Congress on Child Safety — AP - 2026-05-15]] — AP, May 15 2026; Senate Judiciary chair Grassley summoned Zuckerberg, Pichai, Chew, Spiegel for June 23 hearing titled "**Examining Tech Industry Practices and the Implications for Users and Families: Is This Social Media's Big Tobacco Moment?**" — frame asserted in the title. Follows March 2026 CA jury verdict (Meta+YouTube designed platforms to hook young users) and NM jury verdict (Meta knowingly harmed children's mental health, concealed child sexual exploitation). June 23 is also Social Media Harms Victim Remembrance Day (2024 Klobuchar-Blackburn resolution).
+
+**Politics / accountability (1)**:
+- [[Tennessee Chud the Builder Courthouse Shooting — AP via Seattle Times - 2026-05-15]] — Travis Loller, AP via Seattle Times, May 15 2026; Dalton Eatherly (28, "Chud the Builder" social-media persona, posts racist-provocation videos) shot man (witness-described as Black) outside Montgomery County courthouse May 13; $1.25M bond. Had been released on bond in **two prior open cases in the seven days before the shooting**. Small but clean instance of online-radicalization-to-violence with branded-persona-as-income through-line.
+
+**Politics / Elections / Voting rights (1)**:
+- [[SCOTUS Rebuffs Virginia Democrats Voting Map — Reuters - 2026-05-15]] — John Kruzel, Reuters, May 15 2026; SCOTUS declined Don Scott's emergency petition to halt the [[Virginia Supreme Court Strikes Down Democrats Map — AP - 2026-05-08|May 8 Virginia Supreme Court ruling]] voiding the voter-approved Democratic map. Order brief, unsigned, **no public dissent**. Combined with May 11 Alabama ruling, the doctrinal inversion (Dems citing *Moore v. Harper*) is now closed-loop; Virginia's pro-Democratic map dead for 2026; ~$100M was spent by both sides on the April 21 referendum (51.7%-48.3%, 3.1M ballots) before this ruling.
+
+**New article (1)**:
+- [[12 Gigawatts Were Announced. 4 Are Being Built.]] — May 14 2026 nonfiction by Justin Hearn; AI capex story being told from the wrong layer (chip layer vs. grid layer); six-signal walk through interconnection queues, transformer lead times, transmission timelines, Furman GDP-attribution numbers, Bezos "industrial bubble"; closes with three falsifiable 2026 predictions. Popular-form distillation of the [[AI Buildout Grid Constraint]] concept page; companion to [[The Bluff Is Over. The Price Isn't.]] and [[The Strait Is the Mandate]] (the "two of three biggest binding instruments on US monetary policy in 2026 are not the Fed's to move" line connects the two).
+
+**No new entity pages** (all referenced entities already exist or deferred — see log).
+**No new concept pages**. [[Redistricting Arms Race]] expanded (7→8 sources) with the SCOTUS Virginia denial.
 
 ### 2026-05-13 Ingest — LBNL 2025 + Bezos Italian Tech Week — fact-check sourcing for May 15 article (2 sources)
 
@@ -1595,12 +1621,44 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 693 |
-| Published articles tracked | 94 (83 standalone + 11 episodes) |
+| Total sources ingested | 701 |
+| Published articles tracked | 95 (84 standalone + 11 episodes) |
 | Entity pages | 258 |
 | Concept pages | 158 |
 | Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-05-12 |
+| Last updated | 2026-05-16 |
+
+### 2026-05-16 New Pages (lint + ingest)
+
+**Sources (6)**:
+- Iran cyber: [[Iran Hackers Breached Gas Station Tank Readers — CNN - 2026-05-15]]
+- Monetary policy: [[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]]
+- Antiwar / defense spending: [[Pope Leo Decries European Military Spending — Reuters - 2026-05-14]]
+- Tech accountability: [[Tech CEOs Summoned to Congress on Child Safety — AP - 2026-05-15]]
+- Politics / online radicalization: [[Tennessee Chud the Builder Courthouse Shooting — AP via Seattle Times - 2026-05-15]]
+- Voting rights / redistricting: [[SCOTUS Rebuffs Virginia Democrats Voting Map — Reuters - 2026-05-15]]
+
+**Articles (1 new)**:
+- [[12 Gigawatts Were Announced. 4 Are Being Built.]] — May 14 2026 nonfiction; popular-form distillation of the [[AI Buildout Grid Constraint]] concept page
+
+**No new entity pages.** All referenced entities either already on wiki or deferred (see log).
+**No new concept pages.** [[Redistricting Arms Race]] expanded (7→8) with the SCOTUS Virginia denial.
+
+**Entity pages updated** (no new): [[Jerome Powell]] (sources 25→26 — pro tempore designation), [[Kevin Warsh]] (37→38 — confirmation handoff arc complete; swearing-in date TBD), [[Stephen Miran]] (11→12 — board term ended + first Miran-Bowman coordinated dissent), [[Iran]] (27→28 — ATG cyber campaign), [[Pope Leo XIV]] (5→6 — Sapienza military-spending address). Concept pages updated: [[Redistricting Arms Race]] (7→8 — SCOTUS Virginia denial).
+
+**Lint findings**:
+- **Drift caught and fixed**: index Stats table read sources=693 while frontmatter read 695. Actual `ls`-count was 695. Stats table was 2 behind. Overview frontmatter read sources=682 / "grown from 31 to 682" — 13 behind actual (the 2026-05-13 LBNL ingest never rolled overview forward). All three reconciled this pass.
+- Spot-check of 2026-05-13 source page [[Queued Up 2025 Edition — LBNL - 2025-12-15]] against raw figures cited in the published 12 Gigawatts article: queue=2,290 GW, installed=1,322 GW, median=55 months, completion=19% — all match. No discrepancies found.
+- No new ⚠️ Contradiction markers introduced; none cleared.
+- Rolled forward to sources 701 / entities 258 / concepts 158 / articles 95 / pages 1241.
+
+**Deferred stubs** (not created — wikilinks left in source pages without their own entity/concept page):
+- People: Sean Lyngaas, Allison Wikoff, Alex Orleans, Chris Krebs, Jason Kikta, Yossi Karadi, Michelle Bowman, Mark Zuckerberg, Sundar Pichai, Shou Zi Chew, Evan Spiegel, Chuck Grassley, Dick Durbin, Sacha Haworth, Carson Bride, Alexander Neville, Dalton Eatherly, Jacob Fendley, H. Reid Poland III, Don Scott, Ryan McDougle, Joshua McElwee, Travis Loller, John Kruzel
+- Orgs: Handala (Iran hacker persona), Sublime Security, PwC threat intelligence, Israel National Cyber Directorate, Stryker, Tech Oversight Project, Sapienza University of Rome, Stockholm International Peace Research Institute (SIPRI)
+- Concepts: Critical Infrastructure (referenced multiple times — promote when third source justifies), Moore v. Harper (load-bearing in two cases now — promote next ingest cycle), Online Radicalization, Big Tobacco Moment
+- Note: defer until a second source motivates the page, per CLAUDE.md "expand when a source motivates it" rule.
+
+
 
 ### 2026-05-12 New Pages (lint + ingest)
 

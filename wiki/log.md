@@ -2,6 +2,68 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-16] lint+ingest | 6 sources + 1 article — Iran ATG hack, Powell pro tempore + Miran-Bowman bloc, Pope Leo defense critique, Big Tobacco hearing, Chud the Builder, SCOTUS rebuffs VA Dems, 12 Gigawatts published
+
+Branch: `ingest/2026-05-16` (new). Six raw sources + one published article (the May 14 flagship 12 Gigawatts piece, merged via PR #51 to main) ingested across five clusters.
+
+**Lint findings**:
+- **Drift caught and fixed (index Stats vs frontmatter)**: index Stats table read `Total sources ingested | 693` while index frontmatter held `total_sources: 695`. Actual `ls wiki/sources/ | wc -l - 1 (CLAUDE.md)` = 695. Stats table was 2 behind frontmatter from the 2026-05-13 agent. Both reconciled to 701 this pass.
+- **Drift caught and fixed (overview vs index)**: overview frontmatter held `sources: 682` and the lede line read "grown from 31 to **682**" — 13 behind actual. The 2026-05-13 LBNL ingest never rolled the overview forward. Updated to 701.
+- **Spot-check on the most recent prior ingest (2026-05-13)**: read [[Queued Up 2025 Edition — LBNL - 2025-12-15]] alongside the figures cited in today's ingested 12 Gigawatts article. Queue=2,290 GW, installed=1,322 GW, median=55 months, 19% completion (2000–2019 cohort) — all consistent across the source page, the published article, and the underlying raw PDF reference. No fact discrepancies.
+- No new ⚠️ Contradiction markers introduced; none cleared.
+
+**Sources ingested (6)**:
+
+*Iran cyber / critical infrastructure (1)*:
+- [[Iran Hackers Breached Gas Station Tank Readers — CNN - 2026-05-15]] (Sean Lyngaas, CNN, May 15) — US officials suspect Iran-linked hackers breached automatic tank gauge (ATG) systems at gas stations in multiple US states; password-less devices exploited; display tampering confirmed, physical fuel manipulation not confirmed. Continues wartime homeland cyber campaign (Stryker, Patel Gmail leak, water sites). **Buried lede**: US has not activated dedicated election-foreign-threats team for 2026 — former Cyber Command's Jason Kikta called this "strategic malpractice"; Chris Krebs expects Iran active in midterm influence ops.
+
+*Monetary policy / Fed (1)*:
+- [[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]] (Reuters, May 15) — Powell's eight-year chair term formally expired; Fed Board named him chair pro tempore until [[Kevin Warsh]] sworn in (date not announced as of May 15). **Miran and Bowman issued a joint statement opposing** the pro-tempore measure on the grounds it lacks a fixed time limit — **first publicly coordinated action by the Trump-appointed governor bloc, pre-positioned before Warsh has arrived**. Powell remains on Board of Governors until satisfied the criminal probe stays closed.
+
+*Geopolitics / Antiwar / Defense spending (1)*:
+- [[Pope Leo Decries European Military Spending — Reuters - 2026-05-14]] (Joshua McElwee, Reuters, May 14) — Leo at Sapienza University Rome refused "defence" framing for European rearmament: *"Let us not call 'defence' a rearmament that increases tensions and insecurity, impoverishes investments in education and health, betrays trust in diplomacy, and enriches elites who care nothing for the common good."* European spending +14% in 2025 → $864B (SIPRI). **Under-flagged mechanism**: Trump's Feb 2026 EO conditions US weapons-sales priority on higher-defense-spending countries — converting NATO's 5%-of-GDP target into a procurement lever. Leo also connected AI-in-war to active conflicts (Ukraine/Gaza/Lebanon/Iran).
+
+*Tech accountability (1)*:
+- [[Tech CEOs Summoned to Congress on Child Safety — AP - 2026-05-15]] (AP, May 15) — Grassley summoned Zuckerberg/Pichai/Chew/Spiegel for June 23 hearing titled "**Examining Tech Industry Practices and the Implications for Users and Families: Is This Social Media's Big Tobacco Moment?**" — frame asserted in the title. March 2026 jury verdicts (CA: Meta+YouTube designed to hook young users; NM: Meta knowingly harmed mental health, concealed CSE) supply the predicate. June 23 = Social Media Harms Victim Remembrance Day — deliberate emotional staging.
+
+*Politics / online radicalization (1)*:
+- [[Tennessee Chud the Builder Courthouse Shooting — AP via Seattle Times - 2026-05-15]] (Travis Loller, AP via Seattle Times, May 15) — Dalton Eatherly, "Chud the Builder" social-media persona, shot a Black man outside Montgomery County courthouse May 13; $1.25M bond. Had been released on bond in **two prior open cases in the seven days before the shooting**. Bond decisions as the operational pivot point — extends accountability-gap thread from federal (ICE) to state criminal-justice.
+
+*Voting rights / redistricting (1)*:
+- [[SCOTUS Rebuffs Virginia Democrats Voting Map — Reuters - 2026-05-15]] (John Kruzel, Reuters, May 15) — SCOTUS denied Don Scott's emergency petition to halt the May 8 Virginia Supreme Court 4-3 ruling voiding the voter-approved Democratic map. Order brief, unsigned, **no public dissent**. Doctrinal-inversion loop now closed: the *Moore v. Harper* dictum is now neutral-precedent in the political-coalition toolkit even when used against the coalition that warned about it in 2022.
+
+**Articles ingested (1)**:
+- [[12 Gigawatts Were Announced. 4 Are Being Built.]] (drinkYourOJ, May 14 2026, Justin Hearn) — popular-form distillation of [[AI Buildout Grid Constraint]] and [[Interconnection Queue]]; six-signal walkthrough of the grid stack; closing line "two of the three biggest binding instruments on US monetary policy in 2026 are not the Fed's to move" connects to [[The Strait Is the Mandate]]; three falsifiable 2026 predictions embedded. Companion to [[The Bluff Is Over. The Price Isn't.]] — re-promotes electrical (Force 4 of the prior DRAM piece's five forces) to load-bearing.
+
+**Pages updated (no new entity/concept pages this cycle)**:
+- [[Jerome Powell]] sources 25→26 (pro tempore designation; probe-closure-contingent governor service)
+- [[Kevin Warsh]] sources 37→38 (confirmation handoff complete; swearing-in date TBD; Miran-Bowman dissent flagged)
+- [[Stephen Miran]] sources 11→12 (board term ended May 12; **first Miran-Bowman coordinated dissent** May 15)
+- [[Iran]] sources 27→28 (ATG hack added to wartime-cyber thread)
+- [[Pope Leo XIV]] sources 5→6 (Sapienza military-spending address; AI-in-war thread extended)
+- [[Redistricting Arms Race]] sources 7→8 (SCOTUS Virginia denial; 2026 cycle decisively tilted)
+
+**Newsletter angles surfaced**:
+- *Miran+Bowman as a labeled bloc*: their first public coordinated dissent landed May 15, pre-positioned before Warsh has arrived. The wiki should track them as a bloc, not two governors. The dissent is the post-confirmation opening the [[Independent Inside of Government]] piece predicted.
+- *The 12-day swearing-in gap*: Warsh confirmed May 12; no swearing-in date announced as of May 15. Unusually long. Tracking why is editorial work.
+- *"What gets passed under the Big Tobacco frame"*: the wiki's [[KOSA]] / [[Section 230]] / [[Bad Internet Bills Campaign]] cluster says the legislative wave will do more than the named harms require. The June 23 hearing is the rhetorical surface; the censorship vector is the collateral cost. The angle is the gap between asserted frame and statutory text.
+- *Industrial-policy mechanism in the defense-spending hike*: Trump's Feb 2026 EO is the procurement lever the NATO 5%-of-GDP target unlocked. Pope Leo names the beneficiary class; the newsletter should name the mechanism. [[Cantillon Effect]] frame applies to arms procurement, not just monetary injection.
+- *Moore v. Harper as neutral-precedent*: the wiki's cleanest documented case of a doctrine's political valence flipping inside three years. Standalone-piece material.
+- *Grid layer as monetary-policy variable*: the 12 Gigawatts article's Signal 5 already names this; the Pope Leo defense-spending dispatch and the April CPI print converge on the same supply-side cost regime. Three independent receipts in one week.
+
+**Source / acquisition gaps**:
+- March 2026 CA Meta/YouTube verdict and NM Meta verdict — referenced via AP but not yet ingested; pull the underlying verdict reporting next cycle.
+- SIPRI "Trends in World Military Expenditure" annual — for cross-reference on the $864B / +14% figure.
+- The full text of Miran-Bowman joint statement — Reuters paraphrases only.
+- Trump's Feb 2026 EO on weapons-sales prioritization — full text would let the wiki anchor the industrial-policy-mechanism analysis to primary documentation.
+
+**Deferred stubs** (wikilinks left in source pages but no entity/concept page created; per CLAUDE.md "expand when motivated"):
+- People: Sean Lyngaas, Allison Wikoff, Alex Orleans, Chris Krebs, Jason Kikta, Yossi Karadi, Michelle Bowman, Mark Zuckerberg, Sundar Pichai, Shou Zi Chew, Evan Spiegel, Chuck Grassley, Dick Durbin, Sacha Haworth, Carson Bride, Alexander Neville, Dalton Eatherly, Jacob Fendley, H. Reid Poland III, Don Scott, Ryan McDougle, Joshua McElwee, Travis Loller, John Kruzel
+- Orgs: Handala (Iran hacker persona), Sublime Security, PwC threat intel, Israel National Cyber Directorate, Stryker, Tech Oversight Project, Sapienza University of Rome, SIPRI
+- Concepts: Critical Infrastructure, [[Moore v. Harper]] (load-bearing twice; promote next cycle), Online Radicalization, Big Tobacco Moment
+
+**Sanity check**: counts re-verified after edits: sources 701 / entities 258 / concepts 158 / articles 95 / syntheses 26. Index frontmatter, Stats table, and overview frontmatter+lede agree.
+
 ## [2026-05-13] ingest | LBNL 2025 + Bezos Italian Tech Week — fact-check sourcing for May 15 article
 
 Post-fact-check sourcing pass for `workspace/outlines/ais-power-bill.md`. Two new sources ingested; five outline corrections applied.
