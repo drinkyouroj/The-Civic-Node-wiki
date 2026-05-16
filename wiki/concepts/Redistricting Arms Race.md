@@ -3,7 +3,7 @@ title: "Redistricting Arms Race"
 type: concept
 tags: [politics, elections, power]
 created: 2026-04-07
-updated: 2026-05-12
+updated: 2026-05-16
 sources: 7
 ---
 
@@ -19,6 +19,7 @@ The redistricting arms race is converting what was nominally a good-government r
 - Virginia: Spanberger supports constitutional amendments to redraw congressional maps — could add up to 4 more seats after her governor's win [[Virginia results map shows where Abigail Spanberger won election]]
 - Mississippi: court-ordered redistricting (2025) after 2022 maps found to discriminate against Black voters produced two Democratic state Senate flips [[Democrats 2025 election wins go beyond big races]]
 - California Republicans filed lawsuit challenging Prop 50 maps as racial gerrymander — litigation continues [[Democrats sweep the first major elections of Trump's second term]]
+- **May 15, 2026**: [[SCOTUS Rebuffs Virginia Democrats Voting Map — Reuters - 2026-05-15|SCOTUS declined to halt]] the Virginia Supreme Court's May 8 ruling voiding the voter-approved Democratic congressional map. Order was brief, unsigned, **no public dissent** (notable on a 6-3 court). The petition by Speaker Don Scott had invoked the 2023 *[[Moore v. Harper]]* dictum — a doctrinal inversion (Democratic state-house leadership citing the same state-legislatures-regulate-federal-elections framework the political left framed as a "democracy threat" in 2022). Combined with [[SCOTUS Clears Alabama Republicans New Voting Map — Reuters - 2026-05-11|the May 11 Alabama ruling]] and the April *Louisiana v. Callais* gutting of a VRA provision, the 2026-cycle redistricting arms race has tilted decisively toward Republicans. ~$100M was spent by both sides on the Virginia referendum (April 21, 51.7%-48.3%, ~3.1M ballots) before the ruling. Virginia's pro-Democratic map is dead for 2026
 
 ## Tensions & Counterarguments
 - California's dismantling of its own reform (the citizens commission) illustrates the prisoner's dilemma: the reform-minded party is a sucker if the other side defects; but reciprocal defection makes the overall system worse

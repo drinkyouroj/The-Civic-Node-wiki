@@ -4,7 +4,7 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics, fed, fed-independence]
 created: 2026-04-07
-updated: 2026-05-12
+updated: 2026-05-16
 sources: 37
 ---
 
@@ -25,6 +25,11 @@ American lawyer, former Federal Reserve Governor (2006–2011), currently a Visi
 - Trump announced on Truth Social: "He will go down as one of the great Fed chairmen, maybe the best. On top of everything else, he is central casting and will never let you down." ([[PBS NewsHour — What Trump's nomination of inflation hawk Kevin Warsh means for the Federal Reserve]])
 - Succeeds Powell whose term ends May 2026
 - Senate confirmation pending; confirmation hearing expected spring 2026
+
+### Confirmation and Handoff (May 2026)
+- **Senate confirmed Warsh 51-45 on May 12, 2026** ([[Senate Confirms Kevin Warsh as Fed Governor — CNBC - 2026-05-12]])
+- **May 15, 2026**: Powell's chair term formally expired; Fed Board named Powell chair pro tempore until Warsh is sworn in. Swearing-in date **not yet announced** as of May 15 ([[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]])
+- Miran and Bowman opposed the pro-tempore measure for lacking a fixed time period — first public coordinated dissent from the Trump-appointed governor bloc before Warsh has arrived
 
 ### Historical Hawkish Positions
 - Long-standing concern that the Fed's balance sheet grew excessively large due to post-2008 QE ([[Commonfund — Fed Watching under Warsh]])
