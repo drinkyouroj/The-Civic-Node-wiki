@@ -2,6 +2,20 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-16] ingest | 2 sources — Miran-Bowman primary statement + Pope Leo Africa tour; 1 new entity (Michelle Bowman)
+
+Two sources added in a second pass following Day 13 content planning session.
+
+**Miran-Bowman Statement (primary document)**: Fed press release at federalreserve.gov — authoritative text of what Miran and Bowman actually said on May 15. Corrects Reuters framing: they support temporary designation in concept; object to unlimited timeframe specifically; proposed 1-week-to-1-month window with renewal mechanism (new board vote or presidential action). Key phrase: "cannot support this action" = the unlimited version, not the principle. They explicitly contemplated "possible delay" in the swearing-in. Source page created; [[Stephen Miran]] updated (sources 12→13) with corrected framing and primary doc citation; [[Kevin Warsh]] updated (sources 37→38) with corrected nuance and confirmation that "possible delay" was anticipated.
+
+**Pope Leo Africa tour (Reuters, April 17)**: Earliest source documenting Leo's rhetorical escalation arc. Establishes chronology: ~10 months low profile → March 31 off-ramp call (first direct Iran war engagement) → April 13-17 Africa tour (sharpest public denunciations, Trump attacks × 2) → May 14 Sapienza speech. Peru/Shining Path biography added to [[Pope Leo XIV]] as biographical source of his speaking style. Pius XII "ghost" frame documented. [[Pope Leo XIV]] updated (sources 5→7, correcting missed frontmatter bump from morning ingest + adding new source). Source page created.
+
+**New entity**: [[Michelle Bowman]] created (Vice Chair for Supervision; Trump-appointed governor; co-author of May 15 joint statement; first named member of the Miran-Bowman bloc beyond Miran himself). Was a deferred stub from morning ingest.
+
+**Counts after this pass**: sources 703 / entities 259 / concepts 158 / articles 95 / syntheses 26.
+
+**Day 13 plan note**: Note 3 of Day 13 (Primary Source Drop on Miran-Bowman) should use the primary document language rather than Reuters paraphrase. The key correction: they support temporary designation in concept; their objection is the unlimited timeframe. Option C of Note 3 avoids this error but Option A/B should be updated before posting.
+
 ## [2026-05-16] lint+ingest | 6 sources + 1 article — Iran ATG hack, Powell pro tempore + Miran-Bowman bloc, Pope Leo defense critique, Big Tobacco hearing, Chud the Builder, SCOTUS rebuffs VA Dems, 12 Gigawatts published
 
 Branch: `ingest/2026-05-16` (new). Six raw sources + one published article (the May 14 flagship 12 Gigawatts piece, merged via PR #51 to main) ingested across five clusters.

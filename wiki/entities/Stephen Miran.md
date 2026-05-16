@@ -18,7 +18,7 @@ Stephen Miran is the chair of Trump's Council of Economic Advisers (CEA) and a T
 - Dissented at his first FOMC meeting calling for a 50 bps cut while the rest of the committee approved a quarter-point cut [[Fed 2025 Rate Plan Shaped by Trump Pressure and Miran Dissent]]
 - The Miran appointment was the centerpiece of Trump's strategy to bring the Fed inside executive influence after the failed attempt to fire Governor [[Lisa Cook]]
 - **May 12, 2026**: Miran's board term ended with [[Kevin Warsh]]'s Senate confirmation
-- **May 15, 2026**: Miran joined Governor Michelle Bowman in a **joint statement opposing the Fed Board's pro-tempore designation of Powell**, on the grounds that the measure lacks a fixed time limit ([[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]]). First public coordinated action of a Miran-Bowman Trump-appointee bloc — pre-positioned before Warsh is sworn in
+- **May 15, 2026**: Miran joined Governor [[Michelle Bowman]] in a **joint statement on the Fed Board's pro-tempore designation of Powell** ([[Miran-Bowman Statement — Fed Reserve - 2026-05-15]]). Primary document clarifies: they **support** temporary designation in principle; they object to the **unlimited timeframe** specifically. Proposed 1-week-to-1-month window with renewal mechanism. Final line: "we cannot support this action" = cannot support the unlimited version, not the transition itself. First public coordinated action of the Miran-Bowman Trump-appointee bloc — pre-positioned before Warsh is sworn in. (Reuters [[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]] paraphrased this as "opposing the designation" — primary document is the controlling source.)
 
 ## Newsletter Relevance
 

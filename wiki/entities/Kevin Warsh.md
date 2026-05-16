@@ -29,7 +29,7 @@ American lawyer, former Federal Reserve Governor (2006–2011), currently a Visi
 ### Confirmation and Handoff (May 2026)
 - **Senate confirmed Warsh 51-45 on May 12, 2026** ([[Senate Confirms Kevin Warsh as Fed Governor — CNBC - 2026-05-12]])
 - **May 15, 2026**: Powell's chair term formally expired; Fed Board named Powell chair pro tempore until Warsh is sworn in. Swearing-in date **not yet announced** as of May 15 ([[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]])
-- Miran and Bowman opposed the pro-tempore measure for lacking a fixed time period — first public coordinated dissent from the Trump-appointed governor bloc before Warsh has arrived
+- Miran and Bowman issued a joint statement on the pro-tempore measure ([[Miran-Bowman Statement — Fed Reserve - 2026-05-15]]). Primary document: they **support** temporary designation in concept; object to the unlimited timeframe. Proposed 1-week-to-1-month duration with renewal mechanism. They explicitly contemplated "possible delay" in the swearing-in — which is now occurring (confirmed May 12, no swearing-in date as of May 16). First public coordinated dissent from the Trump-appointed governor bloc before Warsh has arrived.
 
 ### Historical Hawkish Positions
 - Long-standing concern that the Fed's balance sheet grew excessively large due to post-2008 QE ([[Commonfund — Fed Watching under Warsh]])

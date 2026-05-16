@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-16
-total_pages: 1241
-total_sources: 701
-total_entities: 258
+total_pages: 1244
+total_sources: 703
+total_entities: 259
 total_concepts: 158
 total_syntheses: 26
 total_articles: 95
@@ -23,6 +23,17 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-16 Ingest (second pass) — Miran-Bowman primary statement + Pope Leo Africa tour (2 sources, 1 new entity)
+
+**Monetary policy / Fed (1)**:
+- [[Miran-Bowman Statement — Fed Reserve - 2026-05-15]] — Michelle Bowman + Stephen Miran, Federal Reserve, May 15 2026; primary document correcting Reuters paraphrase: they **support** temporary Powell designation in concept; object to unlimited timeframe; proposed 1-week-to-1-month window with renewal mechanism. "Cannot support this action" = the unlimited version. Confirms they anticipated "possible delay" in Warsh swearing-in.
+
+**Geopolitics / Religion / Power (1)**:
+- [[A New Forceful Pope Leo Steps Onto World Stage — Reuters - 2026-04-17]] — Joshua McElwee, Reuters, April 17 2026; Leo's Africa tour (Algeria + Cameroon) as rhetorical escalation point; "world ravaged by a handful of tyrants" (Cameroon, April 16); Trump attacks: "terrible" (April 13), "doesn't understand Iran" (April 16); Peru/Shining Path biography as source of directness; Pius XII "ghost" as institutional frame for speaking loudly; Thavis: more forceful than any previous pope.
+
+**New entity (1)**:
+- [[Michelle Bowman]] — Vice Chair for Supervision, Fed Board of Governors; Trump-appointed; co-author of May 15 Miran-Bowman joint statement; first named actor in the Trump-appointee governor bloc alongside Miran.
 
 ### 2026-05-16 Ingest — Iran ATG hack + Powell pro tempore + Pope Leo defense critique + Tech CEOs to Congress + Chud the Builder + SCOTUS rebuffs VA Dems (6 sources, 1 article, 0 new entities, 0 new concepts)
 
