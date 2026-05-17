@@ -2,6 +2,44 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-16] ingest | 4 additional sources — Helium HIP-143 vote, Messari Q4, AMBCrypto full, halving (gap-fill pass 2)
+
+User manually retrieved sources that couldn't be auto-scraped in the first pass (paywalls, JS-rendered, SSL errors). Four sources ingested; Helium Network entity page substantially expanded; outline strengthened with the load-bearing finding from the vote breakdown.
+
+**Critical finding from HIP-143 vote breakdown:** Nova Labs proxy (26.00%) + ferebee proxy (24.00%) = **50% of yes votes** for the proposal authorizing Nova Labs's unilateral pricing authority. Vote passed 90.53% to 9.46% on 763.5M veHNT cast (April 3, 2025). The proposing entity and one of its co-authors cast half the yes votes. This is the smoking-gun evidence for Section 2 of the article.
+
+**Other key data points:**
+- IoT half of Helium generates **$124.77/day** in real Data Credit burns (Q4 2025) — ~$45K/year across the entire IoT network
+- Helium Mobile revenue: $11M annualized ex-discretionary; $22.4M Dec run-rate
+- Discretionary burn experiment (Aug 2025 – Jan 2 2026) artificially propped HNT demand; suspended by Amir Haleem
+- August 1 2025 delegation reset forced operators to re-delegate AND assign a proxy or lose rewards — Foundation explicitly recommends proxy voting, normalizing the concentration HIP-143 documents
+- HIP-148 (Oct 2025): second governance-shifts-economics event in 18 months; mapping rewards converted to Cloud Points (gift cards)
+
+**New sources (4):**
+- [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]] — primary-source vote screenshots
+- [[State of Helium Q4 2025 — Messari]] — quarterly report
+- [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — first-party halving explainer
+- [[Helium Hotspot Earnings 2025 — AMBCrypto]] — upgraded from search-summary to full-article ingestion
+
+**Entity updated:** [[Helium Network]] — Network Revenue (2025) section rewritten with Messari data; HIP-143 vote breakdown documented; HIP-148 added; veHNT Governance Mechanics section added; Helium Mobile Plans section added; 13 source citations now.
+
+**Outline updated:** [[helium-operator-incentives]] — Section 2 anchor evidence is now the HIP-143 proxy-vote breakdown; Section 1 payback math from AMBCrypto cost table; IoT $124.77/day stat added to Section 2; all four source gaps closed.
+
+## [2026-05-16] ingest | 3 sources — Helium operator economics research for article/helium-operator
+
+Web research pass to fill source gaps for the helium-operator article outline. Three new source pages created; Helium Network entity updated with 2024–2026 operator economics data; outline corrected (HIP-99 reference → HIP-82/HIP-52).
+
+**New sources (3):**
+- [[Helium Operator Economics — Bytetree - 2024-03]] — $87/day IoT data credits; operator economics collapse
+- [[Helium Hotspot Earnings 2025 — AMBCrypto]] — $3–45/month range; Lone Wolf zero-PoC rule; halving impact
+- [[Helium Mobile Revenue and Carrier Offload — Sarson Funds - 2025]] — $18.3M annualized; carrier offload figures; T-Mobile/AT&T partners
+
+**Entity updated:** [[Helium Network]] — operator economics section, HIP mechanics section, revenue data
+
+**Outline updated:** [[helium-operator-incentives]] in workspace/outlines/; corrected HIP-99 error; updated source gap list
+
+**Manual ingestion still needed:** HIP-143 vote result (JS-rendered), Messari Q4 2025 (paywalled), AMBCrypto full article (403), Helium halving blog post (SSL cert error)
+
 ## [2026-05-16] ingest | 2 sources — Miran-Bowman primary statement + Pope Leo Africa tour; 1 new entity (Michelle Bowman)
 
 Two sources added in a second pass following Day 13 content planning session.

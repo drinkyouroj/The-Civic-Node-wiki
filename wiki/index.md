@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-16
-total_pages: 1244
-total_sources: 703
+total_pages: 1250
+total_sources: 709
 total_entities: 259
 total_concepts: 158
 total_syntheses: 26
@@ -432,6 +432,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Helium's Dirty Secret — HNT News]] — HNT News community blog; Proof of Coverage hacking; mining rings; DePIN verification failure
 - [[Helium HIP-0143 — Decoupling Service Provider Pricing from Governance]] — Helium Improvement Proposal; Nova Labs pricing authority; governance model change
 - [[Helium HNT Tokenomics — Tokenomist]] — Tokenomist; HNT supply/vesting/circulating data
+- [[Helium Operator Economics — Bytetree - 2024-03]] — Bytetree Research, March 2024; $87/day IoT data credits; operator economics collapse; primary beneficiaries not operators; daily network revenue $3,307
+- [[Helium Hotspot Earnings 2025 — AMBCrypto]] — AMBCrypto Aug 2025 (Saman Waris); $3–45/month operator range; $4–8/month common; Lone Wolf hotspots earn zero PoC; clean cost table for payback math; HIP-138 cited
+- [[Helium Mobile Revenue and Carrier Offload — Sarson Funds - 2025]] — Sarson Funds 2025; $18.3M annualized revenue; T-Mobile/AT&T/Movistar carrier partners; 541K+ subscribers
+- [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]] — primary-source vote screenshots; 90.53% for / 9.46% against on 763.5M veHNT; **Nova Labs proxy 26% + ferebee proxy 24% = 50% of yes votes for proposal authorizing Nova Labs's pricing authority**
+- [[State of Helium Q4 2025 — Messari]] — Messari Q4 2025 (Nay/Beaudry); $11M annualized revenue ($22.4M Dec run rate); $124.77/day IoT real revenue; Helium Mobile 595,800 signups; discretionary burn experiment suspended Jan 2 2026; HIP-148 eliminated mapping rewards
+- [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — first-party Helium Foundation; Aug 1 2025 third halving (15M → 7.5M HNT/year); PoC halved, data transfer unaffected; **Aug 1 2025 delegation reset**; Foundation explicitly recommends proxy voting
 - [[Render RENDER Tokenomics — Tokenomist]] — Tokenomist; RENDER supply/cliff vesting data
 - [[Gala GALA CoinMarketCap]] — CoinMarketCap; $GALA ecosystem description
 - [[GalaChain Sees 2.8 Billion GALA Migration]] — Node Staking Program launch; 2.8B GALA migration; June 2025
