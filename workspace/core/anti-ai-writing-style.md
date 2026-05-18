@@ -30,11 +30,26 @@ Write like a sharp human who happens to be typing.
 
 **Vocabulary fluency (TCN audience):**
 
-The reader is technical. Don't water down the keystone vocabulary they already know. Translating "Cantillon effect" into "the way newly created money disproportionately benefits the first recipients" reads as condescension. Use the term. Link an explainer if needed.
+The target reader is a systems analyst / operator, fluent across three registers: macro/Austrian-econ, crypto/DePIN, and political-systems analysis. They read Lyn Alden, Doomberg, Stratechery, Tooze, Taibbi, Kofinas. They USE the keystone vocabulary that signals you are in the lane.
 
-- **Use these confidently:** Cantillon effect, exit liquidity, fiscal dominance, sound money, regulatory capture, chokepoint control, soft despotism, jawboning, petrodollar recycling, tokenomics, real cash flow, the censorship-industrial complex, the administrative state, the Twitter Files, second-order effects, Lindy effect, the Fed pivot, the dot plot, defensive posture, optionality.
+**The rule: USE the keystone term AND gloss on first use.**
+
+Use the keystone vocabulary the audience already knows. Don't substitute it for longer plain-language versions — "the way newly created money disproportionately benefits the first recipients" INSTEAD OF "the Cantillon effect" strips the term that signals you're in the conversation. But DO introduce keystone terms with a 4-to-8-word inline gloss on first use in every piece. The gloss onboards adjacent readers without slowing the core reader (who skips it). Marcus reads "the Cantillon effect (the first receivers of new money win)" and keeps moving. A new reader from the macro-curious cohort reads the parenthetical and stays in the piece. Both win.
+
+Always include the gloss on first use, even when you think the reader knows the term — assume every issue may be a new reader's first. (This is the conservative default. See "Adjacency-aware calibration" below for the future-skill-work note on varying this by piece type.)
+
+- **Use these confidently (with inline gloss on first use):** Cantillon effect, exit liquidity, fiscal dominance, sound money, regulatory capture, chokepoint control, jawboning, petrodollar recycling, tokenomics, real cash flow, second-order effects, Lindy effect, the Fed pivot, the dot plot, defensive posture, optionality.
 - **The competitive moat is fluency across registers** (macro, crypto, political-systems) in the same piece. Switch between them without forcing the connection. The most powerful editorial move is using a phrase from one register to illuminate something in another.
-- **Lyn Alden's phrasing is gold standard for the macro register:** "defensive posture," "optionality," "real cash flow." The audience already trusts these words. Borrow them when they fit.
+- **Lyn Alden's phrasing is gold standard for the macro register:** "defensive posture," "optionality," "real cash flow." The audience already trusts these words. Borrow them when they fit. (Inline gloss still applies on first use.)
+
+**Avoid right-coded political vocabulary on the use-confidently list.** Terms like "the administrative state," "the censorship-industrial complex," "soft despotism," and "the Twitter Files" code partisan-right to a meaningful subset of the adjacent funnel — especially the indie-journalism cohort that has been fragmenting since the Greenwald/Taibbi rightward shift. Even when the literal meaning is operational rather than tribal, the connotation costs readers. When the concept the term describes IS load-bearing for the piece, name the mechanism directly instead:
+
+- not "the administrative state" → "the permanent federal bureaucracy" or "the agencies that outlast administrations"
+- not "the censorship-industrial complex" → "the coordination between platforms and federal agencies on content moderation"
+- not "soft despotism" → "control through convenience and regulatory creep"
+- not "the Twitter Files" (as a reference) → cite the specific document, hearing, or revelation by name
+
+**Adjacency-aware calibration (future skill work — not yet implemented):** The always-gloss-on-first-use rule above is conservative and works across all piece types. A more sophisticated calibration would vary the gloss aggressiveness by which adjacent cohort each piece targets — monetary-policy pieces gloss crypto terms more heavily; DePIN pieces gloss monetary terms; cross-cutting pieces gloss everything. That calibration belongs in per-piece skills (tcn-content-plan, tcn-draft, tcn-substack-notes, tcn-post), not in this voice DNA file. Future skill update: per-piece skills should layer adjacency-specific gloss strategy on top of this file's default rule. Until that update lands, default to always-gloss-on-first-use.
 
 ---
 
@@ -185,7 +200,7 @@ The TCN audience reads crypto seriously. They do not perform it. Crypto-Twitter 
 - "Ape in" (only as self-deprecation)
 - "DKSAF" / "don't know shit about fuck"
 
-**The distinction that matters:** the audience HAS shibboleths it uses confidently (exit liquidity, rugpull, shill, tokenomics, real cash flow, chokepoint control). Those describe how things actually work. They are operational. The banned list above is tribal. It signals affiliation, not insight. Use the operational vocabulary. Skip the tribal one.
+**The distinction that matters:** the audience HAS shibboleths it uses confidently (exit liquidity, rugpull, shill, tokenomics, real cash flow, chokepoint control — see § 1 for the full keystone list and the always-gloss-on-first-use rule). Those describe how things actually work. They are operational. The banned list above is tribal. It signals affiliation, not insight. Use the operational vocabulary (with inline gloss on first use). Skip the tribal one.
 
 ---
 
@@ -212,7 +227,7 @@ Bad example caught in real use: "Each has different elasticity. Memory is the ti
 
 Better fix: rewrite the sentence to name the actual constraint directly. "Some parts of the supply chain can be ramped up fast; others take years. Memory is the slowest right now."
 
-**The litmus test (two-part):** (1) would the audience persona — a smart generalist who reads Lyn Alden, Adam Tooze, and Matt Stoller, not a chip engineer or a utility regulator — know what this term means without Googling? (2) does the substitute preserve the analytical claim the original sentence was making? If either answer is no, swap or rewrite.
+**The litmus test (two-part):** (1) would the target audience — a systems analyst / operator fluent across macro, crypto, and political-systems registers (reads Lyn Alden, Doomberg, Stratechery, Tooze, Taibbi, Kofinas), but not a chip engineer or utility regulator — know what this term means without Googling? (2) does the substitute preserve the analytical claim the original sentence was making? If either answer is no, swap or rewrite. (For the canonical keystone vocabulary list — terms the audience uses but that still need inline gloss on first use — see § 1 "Vocabulary fluency (TCN audience)".)
 
 ---
 
