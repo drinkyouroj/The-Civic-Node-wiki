@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-16
-total_pages: 1250
-total_sources: 709
-total_entities: 259
-total_concepts: 158
+updated: 2026-05-18
+total_pages: 1267
+total_sources: 719
+total_entities: 262
+total_concepts: 162
 total_syntheses: 26
 total_articles: 95
 ---
@@ -23,6 +23,54 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-18 Ingest follow-up — PJM Q1 SOM primary document + Bloomberg/Japan Times scraped content (1 new primary source, 2 paywalled pages enriched)
+
+**Primary regulatory document (1)**:
+- [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]] — IMM (Joe Bowring's team), 2026-05-14; the load-bearing primary source for the Q1 2026 PJM data center story. Names data center load growth as the primary cause of capacity-market non-competitiveness. Total wholesale power Q1 2026 $77.78 → $136.53/MWh (+75.5%, primary-source figure; secondary outlets paraphrased as 76%); total PJM gross billing $18.69B → $36.35B (+94.5%). **Combined revenue impact from data center load across the 2025/2026 + 2026/2027 + 2027/2028 BRAs: $23,100,955,341.** Customer-bill incidence over the 2026/2027 + 2027/2028 BRAs (with "Agreement" VRR-curve cap in place): **$13,768,851,483.** Without the cap, impact would have been $26.85B. 2027/2028 BRA was short 6,516.6 MW of reliability (up from 208.7 MW in 2026/2027). New diesel energy-market net revenue +1,326%. Capacity market: NOT COMPETITIVE on every dimension. Energy market: COMPETITIVE. IMM recommends BYONG ("Bring Your Own New Generation") and rejects backstop-auction proposals as risk-shifting to other PJM customers. Next BRA: June 2026.
+
+**Paywalled sources enriched (2)** (placeholders replaced with full content from user-supplied archives):
+- [[Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12]] — Yoolim Lee (with Eunkyung Seo); originally filed as citation-chain anchor (WebFetch 403); now full content via archive.ph/Q7PVY. Adds: Bloomberg's explicit "South Korea grapples with broader questions over how the gains from the AI boom should be distributed" framing; the Korea "Citizen Dividend" companion piece; AmCham Korea warning on global memory supply-chain impacts; the Suwon District Court second injunction hearing reference (which led to the May 18 partial-injunction ruling).
+- [[Samsung Union Resume Pay Talks — Japan Times - 2026-05-18]] — Heekyong Yang, Nithin Coca, Patrick St. Michel; originally filed as citation-chain anchor (WebFetch 402); now full content via archive.ph/Dniiu. Adds: President Lee Jae Myung's X post staking out the official Korean position on windfall-sharing; PM Kim Min-seok pledging "all options including emergency arbitration"; Nvidia named as a customer that may stop accepting shipments during the walkout; Samsung accounts for ~25% of South Korean exports.
+
+**Updated existing pages**:
+- [[PJM Interconnection]] — primary-source figures replace secondary paraphrases. Capacity-market $13.77B / $23.10B / $26.85B / 6,516.6 MW figures cited directly from IMM Q1 2026 SOM. Energy-market vs. capacity-market competitiveness evaluation added.
+- [[Monitoring Analytics]] — IMM role under OATT Attachment M described; Q1 2026 SOM findings + BYONG recommendation cited directly; companion "Reliability Backstop Auction Design Proposal – V4" (May 8, 2026) noted as follow-on ingest candidate.
+- [[AI Cost Incidence]] — $13.77B / $23.10B / $26.85B primary figures replace SOFX paraphrase. IMM's BYONG-vs-backstop policy fight added as a tension.
+- [[AI Windfall Sharing]] — Bloomberg's macro framing added as the load-bearing external articulation. Korean state position via Lee Jae Myung X post (May 18) added as the official-policy layer. Korean "Citizen Dividend" proposal added as the parallel-track policy fight.
+- [[AI Buildout Grid Constraint]] — primary-source PJM figures replace secondary paraphrase; +1 key source.
+
+### 2026-05-18 Ingest — Samsung strike cluster + PJM Q1 grid reset + Oracle Project Jupiter + Gas-to-Power pivot (9 sources, 3 new entities, 4 new concepts)
+
+**Labor / AI memory supply chain (5)**:
+- [[Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12]] — Bloomberg pickup of Yonhap report; first English-language confirmation of NLRC mediation collapse. Paywalled; filed as citation-chain anchor.
+- [[Samsung Union Negotiations Break Down 21 May Strike — HR Online - 2026-05-14]] — Tracy Chan, HR Online, May 14 2026; cleanest summary of union demand structure (15% of OP, bonus cap removal, contract formalization) and management counter (10% OP, "unsustainable in the long term" framing). Cites Yonhap, Korea Herald, Korea Times.
+- [[Samsung HBM Strike Could Wrench AI Boom — Fortune - 2026-05-17]] — Catherina Gioino, Fortune, May 17 2026; primary source for HBM market share (Samsung 17% / SK Hynix 62% / Micron 21% Q1 2025), $73B Samsung 2026 capex, JPMorgan 2.1–3.5T won OP impact, Apple's 100% emergency price acceptance, ~200 worker defections to SK Hynix.
+- [[Samsung Partial Injunction Against Union — Korea Herald - 2026-05-18]] — Lee Sun-young, Korea Herald, May 18 2026; Suwon District Court order requiring union to maintain staffing at safety/security + equipment preservation + wafer-contamination-prevention lines. The injunction is the production-loss-as-leverage signal.
+- [[Samsung Union Resume Pay Talks — Japan Times - 2026-05-18]] — Japan Times, May 18 2026; second-round mediation on May 18 ahead of the May 21 strike start. Paywalled; filed as citation-chain anchor for the Day 15 TCN plan.
+
+**AI buildout / grid pricing (2)**:
+- [[AI Data Center Demand 76 Percent Surge East Coast Grid — SOFX - 2026-05-15]] — SOFX, May 15 2026; PJM Q1 2026 wholesale +76% YoY ($77.78 → $136.53/MWh), capacity costs +398%, ~$13B added to customer bills tied to data center demand projections. Monitoring Analytics quoted: "significant and irreversible." Northern Virginia named as primary strain point.
+- [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]] — Brad Reed, Common Dreams, January 2 2026; Joe Bowring (Monitoring Analytics) on the record — "PJM has never been this short." Maryland $1.6B extra-bills figure; bipartisan opposition (Sanders + DeSantis); Rob Gramlich prediction that 2026 elections will amplify affordability messaging.
+
+**AI buildout / off-grid pivot (2)**:
+- [[Oracle Project Jupiter Bloom Fuel Cells — DCK - 2026-04-29]] — Shane Snider, Data Center Knowledge, April 29 2026; Oracle's 1,400-acre, 4-building campus in Doña Ana County NM ($165B long-term investment) pivots from gas turbines + diesel to a Bloom Energy fuel-cell microgrid (up to 2.45 GW single-microgrid capacity; 2.8 GW Bloom agreement, 1.2 GW contracted). NOx -92% vs. conventional. Industry voices: Rob Gramlich (Grid Strategies), Alex Cordovil (Dell'Oro), Prithpal Khajuria (Intel) on fuel-cell overload limits.
+- [[Gas-to-Power Boom AI Drives 2026 On-Site Energy Shift — Enki - 2026]] — Erhan Eren (Enki AI CEO); midstream gas pivot to dedicated AI-data-center power. Williams Companies $5.1B "power innovation" portfolio (incl. $1.6B Project Socrates); Energy Transfer / Pembina / Kinder Morgan / Exxon all named. Speed-to-power framing: 18-month behind-the-meter vs. multi-year interconnection queue. AI-driven gas projected up to 6 Bcf/d by 2030.
+
+**New entities (3)**:
+- [[PJM Interconnection]] — Regional transmission organization across 13 states + DC, serves 65M+; the load-bearing entity for the AI-buildout-into-ratepayer-bills story.
+- [[Monitoring Analytics]] — Independent market monitor for PJM; Joe Bowring president; "significant and irreversible" framing on AI-data-center capacity impacts.
+- [[Bloom Energy]] — Solid-oxide fuel-cell manufacturer; Oracle Project Jupiter agreement (up to 2.8 GW, 1.2 GW contracted) moves Bloom into hyperscaler-primary-power category for the first time at GW scale.
+
+**New concepts (4)**:
+- [[HBM]] — High Bandwidth Memory; stacked-die DRAM for AI accelerators; the memory-layer chokepoint in the AI supply stack.
+- [[AI Windfall Sharing]] — Cluster of fights (labor, regulatory, political) over how the AI capex surplus gets distributed; bonus demands, profit-share contracts, state-level deals.
+- [[Speed to Power]] — Deployment-timeline competitive advantage that flipped hyperscaler strategy from "negotiate with utility" to "build a private grid"; 18-month behind-the-meter vs. multi-year queue.
+- [[AI Cost Incidence]] — Where AI buildout costs land on the economy's income statement; ratepayer transfers, state subsidies, household electricity bills.
+
+**Updated existing pages**:
+- [[Samsung]] — strike entry updated from stale "90,000 worker vote" placeholder to confirmed May 2026 strike specifics (45–50K workers, NLRC mediation collapse, partial injunction, JPMorgan impact estimate); 5 new source citations; Newsletter Relevance extended to include [[AI Windfall Sharing]] connection.
+- [[AI Buildout Grid Constraint]] — added PJM Q1 2026 capacity-market reset evidence, Oracle Project Jupiter off-grid pivot evidence, midstream gas pivot evidence; 4 new related concepts ([[Speed to Power]], [[AI Cost Incidence]], [[HBM]], [[AI Windfall Sharing]]); 3 new key sources.
 
 ### 2026-05-16 Ingest (second pass) — Miran-Bowman primary statement + Pope Leo Africa tour (2 sources, 1 new entity)
 

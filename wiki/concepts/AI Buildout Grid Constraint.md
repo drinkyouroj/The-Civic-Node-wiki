@@ -3,8 +3,8 @@ title: "AI Buildout Grid Constraint"
 type: concept
 tags: [power, infrastructure, ai-buildout, grid, capex]
 created: 2026-05-07
-updated: 2026-05-07
-sources: 15
+updated: 2026-05-18
+sources: 23
 ---
 
 ## Definition
@@ -35,6 +35,9 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 - **Regulatory recognition.** FERC ordered PJM (Dec 18, 2025) to overhaul rules for co-located/behind-the-meter large loads. 13 PJM state governors' Statement of Principles (Jan 15, 2026) directing data centers to "cover their share of the costs." Microsoft committed Jan 13, 2026 to permanent full cost recovery (first major hyperscaler). [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]]
 - **Foundational PPA framework (predates the cluster).** McKinsey (Dec 17, 2024) named 24/7 clean PPAs as the next-level instrument hyperscalers were already pursuing — Microsoft's 2020 Vattenfall pilot, Google's 2024 478 MW Dutch offshore PPA, Microsoft+Google Granular Certificate Trading Alliance, Amazon+Meta "Emission First" alliance (2022). Establishes that the recent vertical-integration moves are operational answers to the question McKinsey raised: how do hyperscalers achieve 24/7 clean at scale when traditional PPAs can't? Storage requirement: 65-85 GW LDES for half of 2030 hyperscaler demand to be renewable — equivalent to total installed capacity of Poland or Vietnam. [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]]
 - **Substation case study refined (DCD detail).** The Meta + AEP Ohio Green Chapel arrangement carries specific capacity terms: 250 MW for three years (Meta initially 120 MW, ramping to 250 MW in April 2026); Intel's full 500 MW allotment restored at start of 2029. Meta's parallel 200 MW Socrates South gas plant (June 2025 PUCO approval, behind-the-meter) at the same site demonstrates that hyperscaler grid-position inheritance and on-site/behind-the-meter generation are a combined strategy, not alternatives. [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]]
+- **PJM Q1 2026 capacity-market reset (primary source).** Total wholesale power $77.78 → $136.53/MWh (+75.5% YoY). Capacity component +398.1% Q1 YoY. Combined data-center-load impact across the 2025/2026 + 2026/2027 + 2027/2028 BRAs: **$23,100,955,341** in additional capacity-market revenue. Of that, **$13,768,851,483 landed on customer bills** across the 2026/2027 and 2027/2028 BRAs even with the "Agreement" VRR-curve cap in place; without the cap the impact would have been $26.85B. 2026/2027 BRA was short 208.7 MW of reliability; 2027/2028 BRA short **6,516.6 MW**. Total PJM gross billing Q1 2025 → Q1 2026: $18.69B → $36.35B (+94.5%). New-diesel energy-market net revenue up 1,326%. The Q1 2026 SOM names data center load growth as the primary cause. The IMM ([[Monitoring Analytics]]) recommends a BYONG ("Bring Your Own New Generation") market solution and rejects backstop-auction alternatives that shift risk to other PJM customers. Next BRA: June 2026. [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]]
+- **Off-grid hyperscaler pivot — explicit case.** Oracle's Project Jupiter (Doña Ana County, NM): 1,400 acres, 4 hyperscale buildings, $165B long-term investment. Original gas-turbine + diesel design pivoted to fuel-cell-based microgrid: up to 2.45 GW single-microgrid capacity via Bloom Energy (up to 2.8 GW agreement, 1.2 GW contracted). NOx reduced ~92% vs. conventional generation. The campus is designed without grid interconnect dependency — speed-to-power has crossed into exit-the-grid territory at the largest planned hyperscaler campus in New Mexico. Rob Gramlich (Grid Strategies) on the prior conventional wisdom: "Large data center operators still generally prefer grid power and use on-site generation primarily as backup." Oracle's design contradicts that framing. Operational caveat from Prithpal Khajuria (Intel): "Fuel cells have very limited capacity to handle overloading." [[Oracle Project Jupiter Bloom Fuel Cells — DCK - 2026-04-29]]
+- **Midstream gas pivot scale.** [[Williams Companies]] $5.1B "power innovation" portfolio (incl. $1.6B "Project Socrates," H2 2026 completion target). Energy Transfer (Cloud Burst Texas, Feb 2025); Pembina + Meta Alberta near-agreement; Kinder Morgan 7 landfill-gas-to-energy facilities ($135M, Oct 2025); Exxon 2.7+ GW pipeline of data-center power projects. AI-driven gas consumption projected up to 6 Bcf/d by 2030. 18-month behind-the-meter deployment vs. multi-year interconnection queue is the speed-to-power driver. [[Gas-to-Power Boom AI Drives 2026 On-Site Energy Shift — Enki - 2026]]
 
 ## Tensions & Counterarguments
 
@@ -49,6 +52,10 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 - [[Power Transformer Shortage]] — the transformer-hardware sub-constraint (lead times, deficit projections, manufacturing buildout)
 - [[Chokepoint Control]] — electrical-component supply chain (transformers, switchgear, batteries) as China/South Korea/Canada/Mexico-sourced US infrastructure dependency
 - [[Infrastructure Warfare]] — adjacent concept covering deliberate disruption of critical systems
+- [[Speed to Power]] — the operating-timeline competitive advantage driving the off-grid pivot
+- [[AI Cost Incidence]] — the question of who pays for the buildout when the bill arrives years before the chips do
+- [[HBM]] — memory-layer chokepoint adjacent to the grid chokepoint; both surfaced in the same May 2026 week (Samsung strike + PJM Q1 reset)
+- [[AI Windfall Sharing]] — the distributional-politics companion to cost incidence
 
 ## Key Sources
 
@@ -62,3 +69,7 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 - [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]]
 - [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]]
 - [[Without data centers, GDP growth was 0.1% in H1 2025]]
+- [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]]
+- [[AI Data Center Demand 76 Percent Surge East Coast Grid — SOFX - 2026-05-15]]
+- [[Oracle Project Jupiter Bloom Fuel Cells — DCK - 2026-04-29]]
+- [[Gas-to-Power Boom AI Drives 2026 On-Site Energy Shift — Enki - 2026]]

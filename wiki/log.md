@@ -2650,3 +2650,75 @@ After the initial 7-source batch above, two pre-existing raw clippings (saved by
 - `find wiki -name "*.md" -not -name "CLAUDE.md" | wc -l` = **1222** ✓ matches `total_pages: 1222`
 
 **Wiki totals after** (post-follow-up): 691 sources / 258 entities / 158 concepts / 26 syntheses / 94 articles / 1,230 pages.
+
+## [2026-05-18] ingest | 9 sources — Samsung strike cluster + PJM Q1 2026 grid reset + Oracle Project Jupiter + Gas-to-Power pivot
+
+Sources ingested in response to user request to file the live-news searches used to anchor the Day 15 TCN content plan (`workspace/notes/2026-05-18-monday-options.md`).
+
+**Sources (9)**:
+
+Samsung strike cluster (5):
+- [[Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12]] (paywalled, citation-chain anchor)
+- [[Samsung Union Negotiations Break Down 21 May Strike — HR Online - 2026-05-14]] (Tracy Chan; cleanest demand-structure summary)
+- [[Samsung HBM Strike Could Wrench AI Boom — Fortune - 2026-05-17]] (Catherina Gioino; JPMorgan 2.1–3.5T won OP impact, HBM market shares Samsung 17%/SK Hynix 62%/Micron 21%, $73B 2026 capex)
+- [[Samsung Partial Injunction Against Union — Korea Herald - 2026-05-18]] (Lee Sun-young; Suwon District Court production-line carve-out)
+- [[Samsung Union Resume Pay Talks — Japan Times - 2026-05-18]] (paywalled, May 18 mediation anchor)
+
+AI buildout / grid (2):
+- [[AI Data Center Demand 76 Percent Surge East Coast Grid — SOFX - 2026-05-15]] (PJM Q1 wholesale +76%, capacity +398%, $13B ratepayer incidence)
+- [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]] (Brad Reed; Bowring "never been this short" + Maryland $1.6B + bipartisan opposition framing)
+
+AI buildout / off-grid pivot (2):
+- [[Oracle Project Jupiter Bloom Fuel Cells — DCK - 2026-04-29]] (Shane Snider; Oracle's 1,400-acre $165B campus pivots to Bloom fuel-cell microgrid; 2.45 GW single-microgrid; 92% NOx reduction)
+- [[Gas-to-Power Boom AI Drives 2026 On-Site Energy Shift — Enki - 2026]] (Erhan Eren; Williams $5.1B power-innovation portfolio, midstream-pivot scale)
+
+**New entities (3)**: [[PJM Interconnection]], [[Monitoring Analytics]], [[Bloom Energy]].
+
+**New concepts (4)**: [[HBM]], [[AI Windfall Sharing]], [[Speed to Power]], [[AI Cost Incidence]].
+
+**Updated existing pages**: [[Samsung]] (strike entry overhauled from stale 90K-worker placeholder to confirmed May 2026 specifics; 5 new source citations; Newsletter Relevance extended to include AI Windfall Sharing); [[AI Buildout Grid Constraint]] (PJM Q1 2026 evidence + Oracle Project Jupiter + midstream gas pivot; 4 new related concepts; 3 new key sources).
+
+**Sourcing correction made during ingest**: The first draft of `workspace/notes/2026-05-18-monday-options.md` attributed the Oracle Project Jupiter / Bloom fuel-cell microgrid claim to the Enki AI gas-to-power article. The Enki article does NOT mention Project Jupiter, Bloom, or Crusoe — the Project Jupiter content came from a different page merged into the search-result snippet. The correct primary source is the DCK piece (Shane Snider, April 29 2026). Day 15 plan corrected during this ingest.
+
+**Open follow-up items** (not ingested this pass):
+- Yonhap Korean-language reports on the May 11–12 NLRC mediation (the underlying primary source for the Bloomberg pickup) — worth ingesting directly if a working URL can be obtained.
+- Full Q1 2026 Monitoring Analytics PJM State of the Market report — primary document worth ingesting directly rather than via the SOFX summary.
+- Individual entities not yet given pages despite being named in this batch: [[Williams Companies]], [[Joe Bowring]], [[Rob Gramlich]], [[Grid Strategies]], [[Choi Seung-ho]], [[Suwon District Court]], [[Ministry of Employment and Labor (Korea)]], [[National Labor Relations Commission (Korea)]], [[BorderPlex Digital Assets]], [[Dell'Oro Group]]. Flagged for future ingest if they recur.
+
+## [2026-05-18] ingest (follow-up) | 1 new primary source + 2 paywalled pages enriched — PJM Q1 SOM + Bloomberg + Japan Times
+
+User manually retrieved the paywalled Bloomberg + Japan Times scrapes via archive.ph and downloaded the Q1 2026 PJM State of the Market PDF (Monitoring Analytics, May 14 2026). The PDF is a primary regulatory document; the two paywalled pages are now full-content rather than citation-chain placeholders.
+
+**New primary source (1)**: [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]].
+
+**Key figures from the IMM SOM (load-bearing for the AI cost incidence story)**:
+- Q1 2026 wholesale power: $77.78 → $136.53/MWh (+75.5% YoY; secondary outlets paraphrased as 76%)
+- Total PJM Q1 gross billing: $18.69B → $36.35B (+94.5%)
+- Combined data-center-load capacity-market revenue impact (2025/2026 + 2026/2027 + 2027/2028 BRAs): **$23,100,955,341**
+- Customer-bill incidence (2026/2027 + 2027/2028 BRAs, with Agreement VRR cap): **$13,768,851,483**
+- Without Agreement cap: $26,852,039,314
+- 2027/2028 BRA reliability shortfall: 6,516.6 MW (up from 208.7 MW in 2026/2027)
+- New diesel energy-market net revenue: +1,326%
+- Energy market: COMPETITIVE; Capacity market: NOT COMPETITIVE on every dimension; Synchronized Reserve: flawed; Nonsynchronized Reserve: flawed
+- IMM recommendation: BYONG (Bring Your Own New Generation); explicitly opposes backstop-auction proposals as risk-shifting to other PJM customers
+
+**Direct quotes worth preserving** (from the IMM SOM):
+- "Data center load growth is the primary reason for recent and expected capacity market conditions."
+- "Large data center load additions have already had a significant and irreversible impact on PJM customers." (primary-source basis for SOFX's "significant and irreversible" paraphrase)
+- "Structural market power is endemic to the capacity market."
+- "The market solution is to require data centers to bring their own new generation."
+- "Other PJM customers, whether residential, commercial or industrial, should not be treated as a free source of insurance, or collateral, or financing for data centers."
+
+**Enriched paywalled pages (2)**:
+- [[Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12]] — Yoolim Lee + Eunkyung Seo; full content via archive.ph/Q7PVY. Now carries: Bloomberg's "South Korea grapples with broader questions over how the gains from the AI boom should be distributed" framing; the AmCham Korea warning quote; the Citizen Dividend companion piece reference.
+- [[Samsung Union Resume Pay Talks — Japan Times - 2026-05-18]] — Heekyong Yang, Nithin Coca, Patrick St. Michel; full content via archive.ph/Dniiu. Now carries: President Lee Jae Myung's X post staking out the Korean state position; PM Kim Min-seok's emergency arbitration threat; Nvidia named as a customer expected to stop accepting shipments during the walkout; Samsung = ~25% of Korean exports.
+
+**Updated existing pages**: [[PJM Interconnection]], [[Monitoring Analytics]], [[AI Cost Incidence]], [[AI Windfall Sharing]], [[AI Buildout Grid Constraint]] — primary-source figures replace secondary paraphrases throughout.
+
+**Cleanup**: Removed 2 placeholder raw files (raw/Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12.md and raw/Samsung Union Resume Pay Talks — Japan Times - 2026-05-18.md) that had been created earlier in the session as citation-chain anchors when WebFetch returned 403/402. User-supplied scrapes (raw/Samsung's Labor Talks Fail, Yonhap Says, as Strike Looms.md and raw/Samsung and its South Korean union resume pay talks as strike risks l….md) are now the sole raw artifacts. Wiki/sources/ frontmatter `raw:` paths updated to point to the scraped filenames.
+
+**Sourcing correction made**: The Day 15 TCN content plan (workspace/notes/2026-05-18-monday-options.md) cited "PJM Q1 2026 wholesale +76%" via SOFX. The IMM primary-source figure is **75.5%**. The 76% figure in the live_news block is a rounding by SOFX, not an error in the source — but worth flagging. The $13B figure SOFX cited is precisely $13,768,851,483 per the IMM report. Day 15 figures are within rounding tolerance of the primary source; no correction made to the plan to preserve the document's posting-time state, but future references should cite the IMM SOM directly.
+
+**Follow-on ingest candidate**: [[IMM Reliability Backstop Auction Design Proposal V4 — Monitoring Analytics - 2026-05-08]] — referenced in footnote 4 of the SOM. This is the formal BYONG-anchored alternative to other backstop-auction proposals. Worth ingesting separately if the BYONG-vs-backstop policy fight becomes a newsletter beat.
+
+**Other deferred entities** (mentioned in this follow-up batch but not given pages to avoid fragmentation): [[Yoolim Lee]] (Bloomberg reporter), [[Lee Jae Myung]] (Korean President), [[Kim Min-seok]] (Korean PM), [[Commonwealth of Pennsylvania]], [[National Energy Dominance Council]], [[American Chamber of Commerce in Korea]], [[KOSPI]]. Flagged for future ingest if they recur.
