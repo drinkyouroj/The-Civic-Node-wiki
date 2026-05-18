@@ -146,7 +146,11 @@ If you see even ONE in your output, rewrite the entire sentence.
 
 **Why this matters so much:** every AI model generates these dozens of times per response. ChatGPT, Claude, Gemini, Grok. All of them. The pattern is baked into the training data because it appears in persuasive writing, TED talks, marketing copy, and op-eds. When an LLM wants to sound smart, this is its first instinct. So when your reader sees it, their brain registers: machine.
 
+**Why it survives most aggressively:** the reframe FEELS structurally satisfying because it appears to correct a wrong reading. But it adds zero information — the corrected reading was the only one being asserted. That's the trap. Even careful writers leave these in because the rhythm tricks the ear into thinking analytical work happened.
+
 **The fix is simple:** delete everything before the positive claim. If you wrote "It's not about the prompt. It's about the context," just write "It's about the context." The negated framing adds zero information. The reader doesn't need to be told what something ISN'T before learning what it IS. Just say what it is.
+
+**Or split into two sentences when both concepts matter.** Bad: "JPMorgan's $700-million-a-day figure is a floor, not a ceiling." Good: "JPMorgan's $700-million-a-day figure is the floor. The ceiling depends on how long the memory plants stay down." The fix is not just rewriting the sentence — it's naming the second concept on its own terms instead of negating it.
 
 ### 3H. Dismissal labels as substitutes for explanation
 
@@ -182,6 +186,45 @@ The TCN audience reads crypto seriously. They do not perform it. Crypto-Twitter 
 - "DKSAF" / "don't know shit about fuck"
 
 **The distinction that matters:** the audience HAS shibboleths it uses confidently (exit liquidity, rugpull, shill, tokenomics, real cash flow, chokepoint control). Those describe how things actually work. They are operational. The banned list above is tribal. It signals affiliation, not insight. Use the operational vocabulary. Skip the tribal one.
+
+---
+
+### 3I. Vocabulary cliff
+
+An industry acronym or specialist term that appears without inline introduction is an AI tell in TCN-audience prose. The reader feels they're missing a prerequisite; the post reads as written-for-insiders. Acronym-heavy prose bounces educated generalists off otherwise-strong posts.
+
+The TCN audience is fluent in macro/crypto/political-systems vocabulary (Cantillon effect, exit liquidity, regulatory capture, fiscal dominance). They are not necessarily fluent in chip-engineering vocabulary, grid-industry vocabulary, or any other specialist domain you happen to be writing about today.
+
+**Common offenders observed in real drafts:**
+- Chip-industry: HBM, CoWoS, accelerator, fab, foundry, DRAM, ELCC
+- Grid-industry: interconnect, BRA, VRR, LMP, ELCC, RTO, capacity vs. transmission costs (without explanation)
+- Generic abstraction: "layer" (used as supply-chain handle), "elasticity" (used as economics jargon)
+
+**The fix has two forms:**
+
+1. **Define inline on first use.** "HBM, the fast memory every AI chip needs to work." "PJM (the East Coast grid serving 13 states)." "ELCC (the formula that decides how much each generator's capacity actually counts)." Four to eight words of plain English, dropped in as an apposition.
+
+2. **Substitute a plainer word.** "fab" → "factory." "foundry workers" → "factory workers." "accelerator" → "AI chip." "interconnect" → "hooking new plants into the power grid." "elasticity" → "bends differently when squeezed." "production layer" → "part of the supply chain."
+
+**The litmus test:** would the audience persona (a smart generalist who reads Lyn Alden, Adam Tooze, and Matt Stoller — not a chip engineer or a utility regulator) know what this term means without Googling? If no, swap or define.
+
+---
+
+### 3J. Closing-line abstraction
+
+The final sentence of any prose block — Note, paragraph, section — is the part the reader carries away. If the closer compresses the content into a single abstract noun phrase, the post leaks AI flavor even when the body is solid.
+
+**The pattern:** closers that name a structural concept ("pricing authority over the windfall," "the distributional politics of the buildout," "the structural reset of supply layers") instead of naming the people doing things.
+
+**The fix:** rewrite with named actors (workers, customers, hyperscalers, regulators, operators) and active verbs (want, paying, building, blocking, holding, losing).
+
+Bad: "Two layers of the AI supply chain are simultaneously asking who has pricing authority over the windfall." (Four abstractions: *layers*, *simultaneously*, *pricing authority*, *windfall*. Zero people doing things.)
+
+Good: "Same boom. The workers want a piece of what it brings in. The customers are paying for what it costs." (Named actors. Active verbs. Three short sentences, varied rhythm.)
+
+**The litmus question for any closer:** could I point at a specific person doing the thing this sentence describes? If not, the line is abstraction and the prose is leaking AI. Rewrite with the person and the verb.
+
+**This rule interacts with mechanism-over-shorthand.** Sometimes the only way to name actors honestly is to introduce a concept (a chokepoint, a regulatory mechanism, a contract type). Define the concept inline; don't substitute the abstraction for the people.
 
 ---
 
