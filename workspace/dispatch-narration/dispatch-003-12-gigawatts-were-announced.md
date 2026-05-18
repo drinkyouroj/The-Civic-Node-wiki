@@ -154,3 +154,103 @@ The Civic Node. Subscribe free. Weekly. No hype.
 - Slide 09 (Likens) is its own slide — read it slow, let it breathe
 - "The longest one wins" is the refrain across slides 05, 06, and 08
 - Slides 10 and 11 are the CTA — don't rush them
+
+---
+
+## YouTube Package
+
+### Title Options
+
+**Trigger:** The financial press is reading the wrong layer — AI's binding constraint is electrical and shows up in utility commission filings, not earnings calls.
+**Shareable core:** Microsoft bought Stargate Abilene not for compute but for 1.2 GW of grid queue position — the years already spent waiting for power.
+
+---
+
+**Option A — Compressed Narrative**
+
+**Title:** 12 Gigawatts Were Announced. 4 Are Being Built.
+**Sub (opening line):** The one-third delivery rate on US AI data centers — and the three calendars that decide which ones actually come online.
+
+*Signal: Pass — the delivery gap numbers are specific and absent from financial coverage. Send: Pass — "12 announced, only 4 built" is a texted headline.*
+
+---
+
+**Option B — Premise + Implication**
+
+**Title:** AI's Real Bottleneck Isn't Chips. It's a 55-Month Queue.
+**Sub (opening line):** The binding constraint on AI infrastructure shows up at the utility commission, not the earnings call — and it takes seven years to clear.
+
+*Signal: Pass — names the specific mechanism (55-month queue). Send: Weak — "AI's real bottleneck" could come from many newsletters.*
+
+---
+
+**Option C — Specific Story / Reveal**
+
+**Title:** Microsoft Didn't Buy Stargate for the Compute.
+**Sub (opening line):** They bought 1.2 gigawatts of grid queue position — the years already spent waiting for power. The AI infrastructure story the earnings call doesn't cover.
+
+*Signal: Pass — contrarian claim anchored to a named mechanism. Send: Strong pass — "Microsoft didn't buy Stargate for compute, they bought grid queue position" is highly forwardable.*
+
+---
+
+**Recommendation:** Option C. The Stargate/grid position story is the most distinctive claim in the piece and names the specific mechanism that separates this from every other "AI needs power" take. The title poses a question that the description immediately resolves — and the resolution is the insight.
+
+---
+
+### YouTube Title
+
+Microsoft Didn't Buy Stargate for the Compute.
+
+### Substack Subtitle *(not in YouTube upload — Substack post only, <160 chars)*
+
+12 gigawatts announced. 4 are being built. The binding constraint is a 55-month queue for a US grid connection. The chip supply is fine.
+
+---
+
+### YouTube Description
+
+Microsoft bought 1.2 gigawatts of grid queue position at Stargate Abilene — the years already spent waiting for power. The building came with it.
+
+Twelve gigawatts of US data center capacity were planned for 2026. Four are under construction. The binding constraint is electrical gear — transformers, batteries, circuit breakers, switching gear — less than ten percent of project cost, the only thing that decides whether a campus comes online.
+
+Three timelines run in parallel on every project, and the longest one wins. The interconnection queue: four and a half years, US median, for projects completing in 2024 — seven years in Northern Virginia, nine-plus in California. Transformer procurement: 128-week lead time as of Q2 2025, demand up 274 percent since 2019, Wood Mackenzie projecting a thirty percent supply gap. Substation permitting: seven to ten years. That last number is Microsoft's own framing, from January 2026. Transmission permitting takes the time it takes.
+
+The chip supply story loosens by 2028. The grid story reverts in seven years, if everything goes right. The interconnection queue can't be reformed to fit a five-year financing window.
+
+Crusoe built its own power plant at Abilene. Google paid $4.75 billion for Intersect Power. Both looked at the interconnection queue and decided to generate their own.
+
+DRAM was the chokepoint nobody watched in 2025. Grid capacity is the one they're not watching in 2026. The headline gets quoted on the earnings call. The footnote gets filed at the utility commission. Both are public, and only one is being read.
+
+The full piece has three predictions for the rest of 2026, plus the primary source documents — PUC filings, queue data, procurement contracts, and transformer lead-time data — all linked. You can check every number. Subscribe free at The Civic Node.
+
+---
+
+**Chapters**
+
+00:00 The wrong layer
+00:07 Earnings calls vs. the interconnection queue
+00:48 12 announced, 4 being built
+01:13 Stargate Abilene: what Microsoft actually bought
+01:53 Three nested calendars
+02:04 Calendar 1 — Interconnection queue
+02:27 Calendar 2 — Transformer procurement
+02:39 Calendar 3 — Substation and transmission
+02:56 When the chip story loosens
+03:25 The tell: Crusoe and Google/Intersect Power
+03:55 Andrew Likens quote
+04:07 Three predictions for 2026
+04:20 DRAM was 2025's chokepoint
+
+---
+
+**Tags**
+
+AI infrastructure, data centers, power grid, electrical grid, interconnection queue, transformer shortage, Stargate Abilene, Microsoft, OpenAI, hyperscalers, AI investment, grid capacity, energy bottleneck, AI build-out
+
+---
+
+### Cover Image Prompt
+
+*Note: No suitable template found in the YouMind curated library (library skews celebrity/lifestyle). Custom prompt generated for this video's visual argument.*
+
+Photorealistic wide-angle editorial photograph, no text, no people. Foreground: a large industrial power transformer on a cracked concrete pad — weathered steel housing, aluminum cooling fins, high-voltage ceramic bushings, steel hardware oxidized to a dark amber. The transformer is dominant and unglamorous, filling the lower third of the frame. Background, slightly defocused: a monumental hyperscale data center campus — white and gray rectangular buildings, rooftop HVAC arrays in precise rows, cool blue LED status lights glowing through industrial windows, scale suggesting hundreds of thousands of square feet. Overhead: high-voltage transmission lines stretching toward a horizon at deep dusk, sky transitioning from amber to steel blue to near-black. Color grading: desaturated midtones, warm highlights on the transformer hardware, cool shadows on the data center. No lens flare, no HDR. Mood: industrial, factual, quietly unsettling — the gap between announcement and delivery made visible. Shot on full-frame, 24mm, f/5.6, documentary press photography aesthetic, no vignette, no filters. 16:9 aspect ratio.

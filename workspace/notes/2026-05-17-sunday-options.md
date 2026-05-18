@@ -78,16 +78,13 @@ weekday Notes. The job is to name the pattern, not run the data.*
 
 ### Option A — Tight compression (Week 2 → Friday, no live anchor)
 
-The most useful move in Week 2 was naming a gap that keeps showing up in
-different domains.
-
 12 GW of US AI data center capacity was announced for 2026. 4 GW are being
-built. The names that matter are the operators acquiring grid position
-someone else already cleared — not the ones writing the announcement.
+built. The operators worth watching aren't the ones writing the press
+releases — they're the ones acquiring grid position someone else already
+cleared.
 
-The same gap runs through decentralized infrastructure. Token price is the
-announcement layer. Operator P&L is the operating layer. They are not the
-same signal.
+Same gap in decentralized infrastructure. Token price is the announcement.
+Operator P&L is the operation. Different numbers.
 
 Friday's issue runs five years of that gap on a network most people only
 know from the token chart.
@@ -103,20 +100,20 @@ Microsoft/Crusoe pattern without re-citing the specific deal.*
 
 ### Option B — Live anchor (Warsh/Goolsbee → Week 2 move → Friday)
 
-The Fed's two loudest voices on AI are now publicly split. Warsh: structural
-disinflation, room to cut. Goolsbee: capex front-runs the productivity boost,
-stagflation risk.
+Warsh and Goolsbee went public with their AI disagreement this week. Warsh:
+structural disinflation, room to cut. Goolsbee: capex front-runs the
+productivity boost, stagflation risk.
 
 They're modeling different layers of the same buildout. One is reading the
 chip side. The other is reading what it takes to plug the chips in.
 
-That gap — announced capacity versus what can actually be operated — is the
-move Week 2 spent five Notes on, from interconnection-queue depth to the way
-hyperscalers are now acquiring grid position someone else already cleared.
+That gap — announced capacity versus what can actually be operated — ran
+through five Notes this week, from interconnection-queue depth to how
+hyperscalers are acquiring grid position someone else already cleared.
 
-The same gap runs through decentralized infrastructure: token price is the
-announcement; operator economics are the operation. Friday's issue runs five
-years of that gap on a network most people only know from the token chart.
+Same gap in decentralized infrastructure: token price is the announcement;
+operator economics are the operation. Friday's issue runs five years of that
+gap on a network most people only know from the token chart.
 
 *~140 words. Uses today's news (Warsh/Goolsbee public split) as the live
 anchor, then identifies the structural reason for the disagreement
@@ -266,3 +263,20 @@ for the May 22 flagship.
 
 - [Mammoth Disagreement Brewing Within the Federal Reserve Over AI — Motley Fool, May 17 2026](https://www.fool.com/investing/2026/05/17/big-divergence-within-fed-over-ai-monetary-policy/)
 - [Fed officials at odds over AI's impacts on monetary policy — Scotsman Guide](https://www.scotsmanguide.com/news/fed-officials-at-odds-over-ais-impacts-on-monetary-policy/)
+
+---
+
+## Edit log — tcn-text-humanizer pass (2026-05-17)
+
+**Option A:**
+- Dropped the opening setup sentence ("The most useful move in Week 2 was naming a gap...") — it announced the content instead of leading with it.
+- "The names that matter are the operators" → "The operators worth watching" — less ceremonial.
+- Removed negative parallelism ("not the ones writing the announcement") → converted to positive; "press releases" is more specific than "announcement."
+- "The same gap runs through decentralized infrastructure" → "Same gap in decentralized infrastructure" — dropped the weak "runs through."
+- "announcement layer" / "operating layer" → "announcement" / "operation" — "layer" was jargon that the sentence didn't need.
+- "They are not the same signal." → "Different numbers." — punchier, more concrete, drops "signal" (data-science shorthand).
+
+**Option B:**
+- "The Fed's two loudest voices on AI are now publicly split." → "Warsh and Goolsbee went public with their AI disagreement this week." — names them directly; "loudest voices" is a soft cliché; "went public" is more active than "are publicly split."
+- "is the move Week 2 spent five Notes on, from... to the way hyperscalers are now acquiring" → "ran through five Notes this week, from... to how hyperscalers are acquiring" — simpler verb, dropped the ceremonial "is the move X spent Y on" framing, dropped redundant "now."
+- "The same gap runs through decentralized infrastructure" → "Same gap in decentralized infrastructure" — same fix as Option A.
