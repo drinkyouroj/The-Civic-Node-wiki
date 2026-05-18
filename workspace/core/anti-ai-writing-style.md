@@ -204,9 +204,15 @@ The TCN audience is fluent in macro/crypto/political-systems vocabulary (Cantill
 
 1. **Define inline on first use.** "HBM, the fast memory every AI chip needs to work." "PJM (the East Coast grid serving 13 states)." "ELCC (the formula that decides how much each generator's capacity actually counts)." Four to eight words of plain English, dropped in as an apposition.
 
-2. **Substitute a plainer word.** "fab" → "factory." "foundry workers" → "factory workers." "accelerator" → "AI chip." "interconnect" → "hooking new plants into the power grid." "elasticity" → "bends differently when squeezed." "production layer" → "part of the supply chain."
+2. **Substitute a plainer word.** "fab" → "factory." "foundry workers" → "factory workers." "accelerator" → "AI chip." "interconnect" → "hooking new plants into the power grid." "production layer" → "part of the supply chain."
 
-**The litmus test:** would the audience persona (a smart generalist who reads Lyn Alden, Adam Tooze, and Matt Stoller — not a chip engineer or a utility regulator) know what this term means without Googling? If no, swap or define.
+**Critical sub-principle: when the jargon term is doing analytical work, the swap must preserve the term's meaning, not invert it.** A plain-language substitute that contradicts what the original term was claiming is worse than the jargon, because it ships a broken argument under a fluent surface.
+
+Bad example caught in real use: "Each has different elasticity. Memory is the tightest right now." rewritten as "Each one bends differently when squeezed. Memory is the tightest right now." The substitute inverts the meaning. "Elasticity" describes how readily supply expands when prices rise (high elasticity = quick to scale, low/inelastic = slow to scale). "Bends when squeezed" suggests flexibility, but the next sentence ("tightest") only makes sense if the prior sentence set up rigidity. The two sentences contradict each other.
+
+Better fix: rewrite the sentence to name the actual constraint directly. "Some parts of the supply chain can be ramped up fast; others take years. Memory is the slowest right now."
+
+**The litmus test (two-part):** (1) would the audience persona — a smart generalist who reads Lyn Alden, Adam Tooze, and Matt Stoller, not a chip engineer or a utility regulator — know what this term means without Googling? (2) does the substitute preserve the analytical claim the original sentence was making? If either answer is no, swap or rewrite.
 
 ---
 

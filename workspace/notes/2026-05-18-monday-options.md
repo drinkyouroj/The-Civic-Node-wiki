@@ -230,11 +230,11 @@ Same AI boom. The workers want a piece of what it brings in. The customers are p
 
 When you see a labor story in AI hardware, stop before you read past the headline and ask: which part of the supply chain is going dark?
 
-Four parts matter: the AI chips themselves, the fast memory next to them (HBM), the packaging that wires them together, and the power grid that runs them all. Each one bends differently when squeezed. Memory is the tightest right now. HBM is what every AI chip needs to actually work.
+Four parts matter: the AI chips themselves, the fast memory next to them (HBM), the packaging that wires them together, and the power grid that runs them all. Some can be ramped up fast; others take years. Memory is the slowest right now. HBM is what every AI chip needs to actually work.
 
 Samsung's 45,000-worker vote sits on the memory part. JPMorgan's $700-million-a-day figure is the floor. How high the ceiling goes depends on how long the memory plants stay down.
 
-*~90 words (slightly over the 50-80 Framework Hand cap, but the four-item enumeration earns the extra words). "Part of the supply chain" replaces "production layer"; "bends differently when squeezed" replaces "different elasticity"; "CoWoS" dropped (was advanced-packaging jargon). The four-item lens still works as a Framework Hand the reader can apply immediately. Lines up cleanly with the May 22 piece, which adds a fifth part (the protocol layer).*
+*~90 words (slightly over the 50-80 Framework Hand cap, but the four-item enumeration earns the extra words). "Part of the supply chain" replaces "production layer"; "CoWoS" dropped (advanced-packaging jargon). The "different elasticity" line was first rewritten as "bends differently when squeezed" — which inverted the meaning (elasticity describes how readily supply expands when prices rise; "bends" suggested flexibility while the next sentence asserted rigidity). Corrected to "Some can be ramped up fast; others take years. Memory is the slowest right now." — preserves the analytical claim by naming the actual constraint directly. The four-item lens still works as a Framework Hand the reader can apply immediately. Lines up cleanly with the May 22 piece, which adds a fifth part (the protocol layer).*
 
 ---
 
