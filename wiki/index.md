@@ -2,11 +2,11 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-18
-total_pages: 1267
+total_pages: 1268
 total_sources: 719
 total_entities: 262
 total_concepts: 162
-total_syntheses: 26
+total_syntheses: 27
 total_articles: 95
 ---
 
@@ -1677,6 +1677,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[The Perfect Storm — Why RAM Prices Won't Fall (2026)]] — Five-force synthesis: LOI→panic→binding deals, Jevons Paradox, helium/Hormuz, Samsung strike, data center cancellations; timeline to 2028 glut
 - [[Newsletter Draft — The IOU That Broke the Memory Market]] — Editorial brief for newsletter piece; structure, data points, quotes, tone notes
 
+### DePIN Series Analysis
+- [[Helium HIP-143 and the DePIN Franchise Architecture]] — Article-research synthesis for May 22 flagship. Names the franchise-vs-business analytical move (operators bought a franchise, were sold a business). Documents HIP-143 voter breakdown (Nova Labs proxy 26% + ferebee co-author proxy 24% = 50% of yes votes carried by the proposing entity and one of its co-authors). Adds the auto-renewal-by-inaction detail: HIP-143's 1-year delegation provision was re-armed without further operator participation around April 2026. Includes the Datagram-rug correction. Transferable analytical moves: franchise-vs-business test, proxy-concentration audit, auto-renewal-by-inaction audit, deploy-first-find-out-later pattern.
+
 ### Audience & Editorial Strategy
 - [[Audience Research — Marcus K. 2026-04-29]] — Deep 8-dimension research; competitive landscape (Bankless 250K/$12, Stratechery 40K/$12, Taibbi 455K/$7, Tooze 181K, Lyn Alden 100K+); pricing rec $8/$80/$150 founding; "weekly synthesis not daily aggregation" gap; vocab use/avoid table; adjacent audience map (5 cohorts); conversion happens at issue 4 not issue 1
 
@@ -1690,8 +1693,8 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 | Published articles tracked | 95 (84 standalone + 11 episodes) |
 | Entity pages | 258 |
 | Concept pages | 158 |
-| Synthesis pages | 26 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial) |
-| Last updated | 2026-05-16 |
+| Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
+| Last updated | 2026-05-18 |
 
 ### 2026-05-16 New Pages (lint + ingest)
 

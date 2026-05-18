@@ -2722,3 +2722,35 @@ User manually retrieved the paywalled Bloomberg + Japan Times scrapes via archiv
 **Follow-on ingest candidate**: [[IMM Reliability Backstop Auction Design Proposal V4 — Monitoring Analytics - 2026-05-08]] — referenced in footnote 4 of the SOM. This is the formal BYONG-anchored alternative to other backstop-auction proposals. Worth ingesting separately if the BYONG-vs-backstop policy fight becomes a newsletter beat.
 
 **Other deferred entities** (mentioned in this follow-up batch but not given pages to avoid fragmentation): [[Yoolim Lee]] (Bloomberg reporter), [[Lee Jae Myung]] (Korean President), [[Kim Min-seok]] (Korean PM), [[Commonwealth of Pennsylvania]], [[National Energy Dominance Council]], [[American Chamber of Commerce in Korea]], [[KOSPI]]. Flagged for future ingest if they recur.
+
+## [2026-05-18] synthesis | Helium HIP-143 and the DePIN Franchise Architecture
+
+Research synthesis filed for the May 22 flagship article (helium-operators-built-the-network). Names the franchise-vs-business analytical move and documents the HIP-143 voter-breakdown evidence (Nova Labs proxy 26% + ferebee co-author proxy 24% = 50% of yes votes). Adds the auto-renewal-by-inaction detail surfaced from the outline: HIP-143's 1-year delegation provision re-armed without further operator participation around April 2026.
+
+The synthesis is reusable for future DePIN governance pieces. The franchise-vs-business test, the proxy-concentration audit, and the auto-renewal-by-inaction audit are transferable analytical moves that apply to other DePIN projects with similar governance structures (Render, GEODNET, io.net, Filecoin worth checking next).
+
+**Cited sources (8):**
+- [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]]
+- [[Helium HIP-0143 — Decoupling Service Provider Pricing from Governance]]
+- [[State of Helium Q4 2025 — Messari]]
+- [[Helium Hotspot Earnings 2025 — AMBCrypto]]
+- [[Helium Operator Economics — Bytetree - 2024-03]]
+- [[Helium Halving 2025 — Helium Blog - 2025-07-24]]
+- [[Helium HNT Tokenomics — Tokenomist]]
+- [[Helium Mobile Revenue and Carrier Offload — Sarson Funds - 2025]]
+
+**Cross-references:**
+- Extends [[Chokepoint Control]] to the DePIN protocol layer
+- Article draft: `workspace/drafts/helium-operators-built-the-network.md`
+- Article outline: `workspace/outlines/helium-operator-incentives.md`
+- Sits inside the existing [[DePIN]] concept
+
+**Follow-on artifacts to create** (flagged in the synthesis page):
+- Entity: [[Nova Labs]] — corporate counterparty at the center of the franchise architecture; currently referenced across wiki without its own page
+- Concept: "Franchise vs. Business" — the analytical move this synthesis names; transferable lens for future DePIN governance pieces
+- Concept: "Proxy Concentration Audit" — procedural test for DAO governance votes using proxy delegation
+- Concept: "Auto-Renewal by Inaction" — default-rule design pattern that allows governance structures to re-arm themselves without operator participation
+
+**Index updates:**
+- New subsection "DePIN Series Analysis" added to "## Syntheses"
+- Stats: synthesis pages 26 → 27; total pages 1267 → 1268; last updated 2026-05-16 → 2026-05-18
