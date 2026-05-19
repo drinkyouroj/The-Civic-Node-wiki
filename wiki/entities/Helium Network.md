@@ -5,8 +5,8 @@ type: entity
 entity_type: infrastructure
 tags: [technology, infrastructure, crypto, depin]
 created: 2026-04-07
-updated: 2026-05-16
-sources: 13
+updated: 2026-05-19
+sources: 15
 ---
 
 ## Overview
@@ -96,7 +96,7 @@ All plans earn Cloud Points redeemable for eGift cards or charity donations.
 - **HIP-129:** Further adjustments to rewardable data rules.
 - **HIP-138 (Nov 2024, implemented Jan 2025):** Single HNT token; IOT and MOBILE subDAO tokens retired.
 - **HIP-143 (vote: April 3, 2025):** Authorized Nova Labs to negotiate carrier pricing without governance approval for 1 year (auto-renews). **Vote result: 90.53% for / 9.46% against** (763.5M veHNT cast, against a 100M quorum). **The Nova Labs proxy controlled 26% of the vote; the ferebee proxy (co-author) controlled 24%. Together, the proposing entity and its co-author cast 50% of the yes votes for the proposal authorizing Nova Labs's pricing authority.** As of Q4 2025 (Messari report), no superseding HIP had been passed — auto-renewal would occur around April 2026. [[Helium HIP-0143 — Decoupling Service Provider Pricing from Governance]], [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]]
-- **HIP-148 (October 2025):** Eliminated Mobile Mapping rewards (cited gaming behavior and low utility). Redirected the 20% of HNT emissions previously earmarked for Mobile Mapping rewards to the Service Provider Pool and Data Transfer Pool. Subscribers who previously earned HNT for mapping data now earn Cloud Points (gift-card credits) instead. Second governance-changes-economics-after-deployment event in 18 months. [[State of Helium Q4 2025 — Messari]]
+- **HIP-148 (vote: October 3–10, 2025; passed 96.72% for / 3.27% against on 902.3M veHNT):** Eliminated Mobile Mapping rewards (the proposal text cites gaming behavior, <5% verification-mapping rate, and "carrier offload locations are a much higher quality signal of where to deploy than mapping data"). Redirected the 20% of HNT emissions previously earmarked for Mobile Mapping rewards: 10% to the Service Provider Pool, 10% to the Data Transfer Pool. **In a bundled change, repealed HIP-87's proportional Service Provider formula and rolled the 4% Oracle Operator allocation into the Service Provider Pool — making the Service Provider Pool 24% of Mobile emissions, emitted directly to a single named recipient: Nova Labs.** Subscribers who previously earned HNT for mapping data now earn Cloud Points (gift-card credits redeemable for eGift cards or charity donations) instead. **Proxy concentration: ferebee 31.00% + Nova Labs 26.00% = 57% of total vote** (60.5% of yes votes) — more concentrated than HIP-143's 50%. ferebee's absolute veHNT grew 55.5% between the two votes (183.85M → 285.92M) while Nova Labs grew 21% — the proposing-entity proxies are accumulating veHNT faster than the network. Single named "Against" voter: Keith Rettig at 1.00% (13.98M veHNT). Second governance-changes-economics-after-deployment event in 18 months. [[Helium HIP-0148 — Reallocate Mobile Mapping Rewards]], [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]], [[State of Helium Q4 2025 — Messari]]
 - **HIP-20 (Nov 18, 2020):** Established 223M HNT max supply and 2-year halving cadence on August 1 (genesis anniversary). The August 2025 halving was the third. [[Helium Halving 2025 — Helium Blog - 2025-07-24]]
 
 ## veHNT Governance Mechanics
@@ -124,5 +124,7 @@ All plans earn Cloud Points redeemable for eGift cards or charity donations.
 - [[Helium Hotspot Earnings 2025 — AMBCrypto]] — 2025 earnings ranges; Lone Wolf rule
 - [[Helium Mobile Revenue and Carrier Offload — Sarson Funds - 2025]] — 2025 network revenue and carrier offload data
 - [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]] — vote tally + proxy concentration; Nova Labs + ferebee = 50% of yes votes
+- [[Helium HIP-0148 — Reallocate Mobile Mapping Rewards]] — primary proposal text; eliminates mapping rewards, consolidates 24% of Mobile emissions directly to Nova Labs
+- [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]] — primary-source vote screenshots; 96.72% for / 3.27% against on 902.3M veHNT; **ferebee 31% + Nova Labs 26% = 57% of total vote**; ferebee's veHNT +55.5% absolute between HIP-143 and HIP-148
 - [[State of Helium Q4 2025 — Messari]] — Q4 2025 revenue, burns, hotspot counts, HIP-148
 - [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — Aug 2025 halving mechanics; veHNT reset and proxy recommendation

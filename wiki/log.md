@@ -2754,3 +2754,51 @@ The synthesis is reusable for future DePIN governance pieces. The franchise-vs-b
 **Index updates:**
 - New subsection "DePIN Series Analysis" added to "## Syntheses"
 - Stats: synthesis pages 26 → 27; total pages 1267 → 1268; last updated 2026-05-16 → 2026-05-18
+
+## [2026-05-19] ingest | 2 new Helium primary sources — HIP-148 proposal text + HIP-148 vote results
+
+Two primary-source pages filed to back the HIP-148 references in the May 22 flagship draft (`workspace/drafts/helium-operators-built-the-network.md`) and the May 20 paid Note ("Thinking Behind the Thinking — Datagram-rug backstage"). Until now, HIP-148 lived in the wiki only as a paraphrase inside [[State of Helium Q4 2025 — Messari]]; the franchise-architecture argument leaned on the proposal mechanism without a direct citation.
+
+**New sources (2)**:
+- [[Helium HIP-0148 — Reallocate Mobile Mapping Rewards]] — primary proposal text fetched directly from helium/HIP GitHub repo (PR #1186, merged 2025-09-23, authored by `madninja`). Full document, not a snippet.
+- [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]] — partial vote outcome. Headline figure (**96.72% for**) and voting window (Oct 3–10 2025) captured from the official @helium X account announcement (status 1978266054574166481). Full proxy breakdown pending manual screenshot capture from heliumvote.com — same constraint as HIP-143 (the vote portal is JS-rendered).
+
+**Updated existing pages**: [[Helium Network]] — HIP-148 entry expanded from a Messari-paraphrase one-liner to a full citation chain with the 96.72% vote outcome, the 24% Service Provider Pool consolidation to Nova Labs, the four repealed HIPs (HIP-79, HIP-87, HIP-114, HIP-118), and the HNT → Cloud Points substitution. Source Appearances list extended with the two new pages. Frontmatter sources count 13 → 15.
+
+**The load-bearing primary-source quote** (for the May 22 flagship and the May 20 Note):
+> "To simplify technical implementation, we propose to emit the full allocation available from Service Provider Rewards and Oracle Operator Rewards to the single Service Provider Nova Labs, allowing Nova to use the pool as needed for protocol development, operations including Oracles, and subscriber incentives." — HIP-148 proposal text
+
+This sentence is unambiguous in a way Messari's paraphrase wasn't. The proposal text itself names the substitution. HIP-148 is now the cleaner second-instance proof of the franchise-architecture pattern that [[Helium HIP-143 and the DePIN Franchise Architecture]] documents — the substitution from HNT to gift-card credits cannot be defended as commercial efficiency the way HIP-143's pricing-authority delegation could.
+
+**Open follow-up items** (not ingested this pass):
+- **Manual screenshot capture** of the heliumvote.com HIP-148 proposal page (URL: https://heliumvote.com/hnt/proposals/2PEJVC3nc2EncXMeyAzwYexRQmBSv6JyvBCJqNWHg76v). This is the same manual-capture step that was performed for HIP-143 in May 2026 and is the single unblocking action to upgrade the HIP-148 vote results page from partial-sourced to fully-sourced. Until then, the proxy concentration question for HIP-148 cannot be answered the way it was for HIP-143 (Nova Labs proxy 26% + ferebee proxy 24% = 50% of yes votes).
+- **The Helium X announcement tweet** (status 1978266054574166481, ~Oct 13 2025) was paywalled to WebFetch (HTTP 402). If captured later via authenticated session or archive.ph, the raw `Helium HIP 148 Vote Results — Helium X Announcement - 2025-10-13.md` placeholder can be upgraded with the full tweet text.
+
+**Index updates**: Two new entries under "DePIN & Crypto" sources after the HIP-143 vote results line. Stats: total sources 701 → 703; last updated 2026-05-18 → 2026-05-19.
+
+## [2026-05-19] ingest (follow-up) | HIP-148 vote results upgraded from partial to fully-sourced — proxy concentration captured
+
+User manually captured two PNG screenshots: the heliumvote.com HIP-148 portal page (showing full vote tally + voter breakdown) and the @helium X announcement tweet (Oct 14, 2025). Screenshots saved to `raw/assets/HIP-148 vote breakdown.png` and `raw/assets/HIP-148 X announcement.png`. The placeholder X-announcement raw file (`raw/Helium HIP 148 Vote Results — Helium X Announcement - 2025-10-13.md`) was removed — the tweet date is Oct 14, not Oct 13 as inferred from the search snippet.
+
+**Updated source page**: [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]] — rewritten from partial-sourced placeholder to full primary-source page. Full tally, voter breakdown table (top 12 voters), and side-by-side comparison to HIP-143 now in place.
+
+**The full vote tally** (now sourced from the portal screenshot, not a Google snippet):
+- Total veHNT cast: **902,275,496.10** (18.2% higher than HIP-143's 763.5M)
+- For: 872,704,450.74 veHNT (**96.72%**)
+- Against: 29,571,045.78 veHNT (3.27%)
+- Date occurred: Oct 10, 2025, 10:51 AM
+
+**The proxy concentration finding (more extreme than HIP-143):**
+- **ferebee proxy: 31.00%** (285.92M veHNT) — up from 24% on HIP-143
+- **Nova Labs proxy: 26.00%** (241.87M veHNT) — flat % share, +21% absolute
+- **Combined: 57% of total vote** (60.5% of yes votes) — up from 50% on HIP-143
+- ferebee's absolute veHNT grew **+55.5%** between the two votes (183.85M → 285.92M) while Nova Labs grew +21% — the proposing-entity proxies are accumulating veHNT faster than the network average
+- Single named "Against" voter: **Keith Rettig** at 1.00% (13.98M veHNT). Every other named proxy in the top 12 voted For.
+
+**Why this matters for the May 22 flagship draft**: The franchise-architecture pattern documented in [[Helium HIP-143 and the DePIN Franchise Architecture]] is now grounded in *two* primary-source vote receipts showing the same concentrated outcome — and the second instance is more concentrated than the first. The synthesis no longer needs hedging language like "if the HIP-148 breakdown looks similar." It does look similar — and worse. The veHNT-accumulation rate finding (ferebee +55.5% in 6 months) is a new analytical move: the franchise architecture is *self-reinforcing through the lock-up mechanism*, which means future HIPs will be progressively easier to pass without operator participation.
+
+**Updated existing pages**:
+- [[Helium Network]] — HIP-148 entry expanded with full tally + the ferebee veHNT-accumulation finding; Source Appearances list entry for HIP-148 vote results upgraded from "partial pending capture" to "primary-source vote screenshots"
+- `wiki/index.md` — HIP-148 vote results line rewritten to reflect full sourcing
+
+**Authorship question worth flagging for follow-up**: HIP-148 was authored by GitHub user `madninja`. HIP-143 was authored by "Inversion Capital, zer0tweets, Nova Labs, ferebee." `madninja`'s relationship to ferebee and Nova Labs is not disclosed in the HIP-148 proposal text. The vote outcome doesn't depend on resolving this (ferebee + Nova Labs proxies carried it regardless), but the authorship chain matters for accurately naming who designed the HNT → Cloud Points substitution. A follow-up entity page for [[madninja]] (or confirmation that the handle maps to one of the HIP-143 named authors) would close the loop.

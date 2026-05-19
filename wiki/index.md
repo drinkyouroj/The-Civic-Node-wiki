@@ -484,6 +484,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[Helium Hotspot Earnings 2025 — AMBCrypto]] — AMBCrypto Aug 2025 (Saman Waris); $3–45/month operator range; $4–8/month common; Lone Wolf hotspots earn zero PoC; clean cost table for payback math; HIP-138 cited
 - [[Helium Mobile Revenue and Carrier Offload — Sarson Funds - 2025]] — Sarson Funds 2025; $18.3M annualized revenue; T-Mobile/AT&T/Movistar carrier partners; 541K+ subscribers
 - [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]] — primary-source vote screenshots; 90.53% for / 9.46% against on 763.5M veHNT; **Nova Labs proxy 26% + ferebee proxy 24% = 50% of yes votes for proposal authorizing Nova Labs's pricing authority**
+- [[Helium HIP-0148 — Reallocate Mobile Mapping Rewards]] — primary proposal text (madninja, merged 2025-09-23); eliminates 20% Mobile Mapping emissions; consolidates Service Provider Pool to 24% emitted directly to Nova Labs; HIP-79, HIP-87, HIP-114, HIP-118 repealed; subscribers migrated from HNT to Cloud Points (gift-card credits)
+- [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]] — primary-source vote screenshots; **96.72% for / 3.27% against on 902.3M veHNT**; **ferebee proxy 31.00% + Nova Labs proxy 26.00% = 57% of total vote** (more concentrated than HIP-143's 50%); ferebee's absolute veHNT grew 55.5% between HIP-143 (April 2025) and HIP-148 (October 2025); named "Against" voter Keith Rettig at 1.00%
 - [[State of Helium Q4 2025 — Messari]] — Messari Q4 2025 (Nay/Beaudry); $11M annualized revenue ($22.4M Dec run rate); $124.77/day IoT real revenue; Helium Mobile 595,800 signups; discretionary burn experiment suspended Jan 2 2026; HIP-148 eliminated mapping rewards
 - [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — first-party Helium Foundation; Aug 1 2025 third halving (15M → 7.5M HNT/year); PoC halved, data transfer unaffected; **Aug 1 2025 delegation reset**; Foundation explicitly recommends proxy voting
 - [[Render RENDER Tokenomics — Tokenomist]] — Tokenomist; RENDER supply/cliff vesting data
@@ -1689,12 +1691,12 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 701 |
+| Total sources ingested | 703 |
 | Published articles tracked | 95 (84 standalone + 11 episodes) |
 | Entity pages | 258 |
 | Concept pages | 158 |
 | Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
-| Last updated | 2026-05-18 |
+| Last updated | 2026-05-19 |
 
 ### 2026-05-16 New Pages (lint + ingest)
 
