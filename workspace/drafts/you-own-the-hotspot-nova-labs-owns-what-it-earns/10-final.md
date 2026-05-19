@@ -85,22 +85,3 @@ The four-part standard would not have caught Datagram. A project can publish exi
 My own system stats would have told me nothing real was running. I didn't watch them closely enough. I knew the alpha testnet figures were off and told myself the company needed a compelling story before exchanges committed. That was the rationalization. That's the debug.
 
 The next operator who reads a DePIN whitepaper this month does the math before the hardware ships.
-
----
-
-**Fact-reconcile notes (Step 9 — 2026-05-19):**
-- Flag #1: "HIP-82" → "HIP-53"; "capped data transfer rewards at $0.50 per gigabyte" → "set the data transfer rate at $0.50 per gigabyte"; source link Tokenomist → HIP-143 GitHub (which cites HIP-53 at line 21). Direct HIP-53 URL should be verified before final publish.
-- Flag #2: $56,635/day source swapped from Sarson Funds → Messari Q4 2025 (correct source).
-- Flag #3: HIP-138 source swapped from Tokenomist → AMBCrypto (correct source; AMBCrypto explicitly names HIP-138 and the Jan 2025 consolidation).
-- Flag #4: HIP-148 quote truncation — period changed to ellipsis: `"...Nova Labs."` → `"...Nova Labs..."`.
-- Partial #1 (Option A): Added second source link on "no replacement vote filed" → `https://github.com/helium/HIP` (primary governance record; HIP-148 is last entry, filed 8 months ago, confirming no superseding HIP filed before April 2026 sunset).
-
-**Humanizer notes:**
-- One change from v2: "run out of runway" → "run dry" (Source Code ¶2). Startup-register cliché; the piece is DePIN governance, not pitch deck.
-- No §3A vocabulary survived the draft pass.
-- No §3B–§3E patterns found.
-- No §3F negative parallelisms. "The hardware they paid for is theirs. The pricing authority that determines what their hardware earns is not." passes — two separate ownership claims about two separate things, not a corrected-framing pair.
-- No §3G tribal cringe. "On-chain" and "veHNT" are operational vocabulary for this audience, both glossed on first use.
-- No §3I vocabulary cliffs for TCN audience. IoT is not glossed (widely known; not on the §3I offenders list for this audience).
-- Rhythm is good throughout. Short punches land where they should.
-- Voice: dry, specific, sardonic where it earns it. Sounds like Justin.

@@ -4,7 +4,7 @@
 **Slug:** you-own-the-hotspot-nova-labs-owns-what-it-earns
 **Status:** in-progress
 **Last touched:** 2026-05-19T14:00 ET
-**Current step:** 8 of 10 (tcn-fact-check — pending)
+**Current step:** Complete — ready for Substack
 
 **Locked headline:** You Own the Hotspot. Nova Labs Owns What It Earns.
 **Locked subheadline:** The vote that handed Nova Labs pricing authority over 385,000 hotspots had a 1-year sunset. The sunset arrived in April. Nobody replaced it.
@@ -22,15 +22,15 @@
 - [x] 5. tcn-draft → 05-draft-v1.md (2026-05-19; ~1,530 words)
 - [x] 6. tcn-readability → 06-readability.md (2026-05-19); fixes applied in 05-draft-v2.md: 12 em dashes removed (2 missed by report), §3F Upgrade ¶4 fix, Section 2 closer named, "Present them fairly" replaced, My Debug factually corrected (documents read; product not built; closed-source; rationalized cooked testnet figures)
 - [x] 7. tcn-text-humanizer → 07-humanized.md (2026-05-19); one change: "run out of runway" → "run dry" (Source Code ¶2); no other AI tells found
-- [ ] 8. tcn-fact-check → pending
-- [ ] 9. tcn-fact-reconcile → pending
-- [ ] 10. final read-through → pending
+- [x] 8. tcn-fact-check → 08-fact-check.md (2026-05-19); 3 required corrections + 1 style note + 1 partial
+- [x] 9. tcn-fact-reconcile → 09-reconcile.md (2026-05-19); 5 corrections applied to 07-humanized.md; second fact-check pass → 08-fact-check-v2.md (clean; 1 pre-publish housekeeping item)
+- [x] 10. final read-through → 10-final-passes.md (tcn-readability + tcn-text-humanizer, 2026-05-19); both clean; HIP-53 direct URL applied; 10-final.md written for Substack
 
 ## Fact-check loop history (filled in during steps 8–9)
 
 | Iteration | Flagged before | Flagged after reconcile | Outcome |
 |-----------|----------------|--------------------------|---------|
-| 1         | —              | —                        | —       |
+| 1         | 4 required + 1 partial | 0 new flags; 1 pre-publish housekeeping (HIP-53 direct URL) | Clean — proceed to Step 10 |
 
 ## Notes
 
