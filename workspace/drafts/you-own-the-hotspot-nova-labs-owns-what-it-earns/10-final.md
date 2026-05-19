@@ -76,7 +76,7 @@ The audit is the floor. It doesn't catch fraud.
 
 ## My Debug: The audit caught Helium. It missed my project.
 
-I ran more than twelve Datagram nodes for seven months. Without pay. The project collapsed.
+I ran more than twelve Datagram nodes for a few months. I moderated their community for seven. Without pay. The project collapsed.
 
 Earlier pieces I published on DePIN positioned Datagram as the legitimate counter-example, the project doing decentralized infrastructure differently. That framing was wrong, and I should have caught it earlier.
 
