@@ -2802,3 +2802,31 @@ User manually captured two PNG screenshots: the heliumvote.com HIP-148 portal pa
 - `wiki/index.md` — HIP-148 vote results line rewritten to reflect full sourcing
 
 **Authorship question worth flagging for follow-up**: HIP-148 was authored by GitHub user `madninja`. HIP-143 was authored by "Inversion Capital, zer0tweets, Nova Labs, ferebee." `madninja`'s relationship to ferebee and Nova Labs is not disclosed in the HIP-148 proposal text. The vote outcome doesn't depend on resolving this (ferebee + Nova Labs proxies carried it regardless), but the authorship chain matters for accurately naming who designed the HNT → Cloud Points substitution. A follow-up entity page for [[madninja]] (or confirmation that the handle maps to one of the HIP-143 named authors) would close the loop.
+
+## [2026-05-19] ingest | HIP-53 and HIP-138 vote results — primary-source screenshots for the pre-concentration baseline
+
+User captured two PNG screenshots from the heliumvote.com governance portal during cover-image fact-check for the "You Own the Hotspot" article: the HIP-53 vote results (closed July 25, 2022) and the HIP-138 vote results (closed November 22, 2024). Screenshots saved to `raw/assets/HIP-53 vote results.png` and `raw/assets/HIP-138 vote results.png`. Together with the previously-ingested HIP-143 and HIP-148 vote-result screenshots, the wiki now holds primary-source vote receipts for the entire Helium governance trajectory cited in the May 22 flagship.
+
+**New source pages**:
+- [[Helium HIP-53 Vote Results — Helium Vote - 2022-07-25]] — 97.22% for / 2.78% against on **2.44M veHNT total network**. Establishes the MOBILE token + subDAO and sets $0.50/GB data transfer rate. **Authors: @nrnrsdwsrk, @kjake-vmcc, @gabreyem2367, @asknsy, Joey Padden — Nova Labs is not a HIP-53 author.** This is a correction surface for any article that attributes HIP-53 to Nova Labs.
+- [[Helium HIP-138 Vote Results — Helium Vote - 2024-11-22]] — 92.54% for / 7.45% against on **476.22M veHNT**. **Top voter 15.00% (anonymous wallet `HKcAP…NgsJ`)** — no labeled proxies in the top 12. The pre-concentration snapshot of the network's governance distribution. The same `HKcAP…NgsJ` wallet later cast the largest Against vote on HIP-143 (8.00%, 63.6M veHNT) — the largest unlabeled dissent in the wiki, distinct from Keith Rettig's labeled HIP-148 dissent.
+
+**The pre/post-concentration snapshot the wiki now holds**:
+
+| Vote | Date | Total veHNT | Top voter % | Proxy labels in top 12 | Top 2 combined |
+|---|---|---:|---:|---|---:|
+| HIP-53 | Jul 25, 2022 | 2.44M | (not displayed in 2022 portal view) | none | n/a |
+| HIP-138 | Nov 22, 2024 | 476.22M | **15.00% (anonymous)** | **none in top 12** | 24% |
+| HIP-143 | Apr 3, 2025 | 763.50M | 26.00% (Nova Labs) | Nova Labs, ferebee, Jay M., others | 50% |
+| HIP-148 | Oct 10, 2025 | 902.28M | 31.00% (ferebee) | ferebee, Nova Labs, Jay M., AndrewsMD, Keith Rettig | 57% |
+
+The Nov 2024 → Apr 2025 step is the inflection: the franchise architecture becomes visible. Before that step, the top voter was an anonymous 15% wallet with no published label.
+
+**Article-level correction surfaced**: Articles dating HIP-138 to "January 2025" should specify: vote closed **November 22, 2024**; migration completed January 2025. The 2-month gap is material for any timeline-of-governance argument. Article-level correction for HIP-53: authored by Joey Padden et al., NOT Nova Labs.
+
+**Open follow-up**: HIP-138's "Proxy Name" column is uniformly blank for the top 12 voters in the captured screenshot. Either (a) no labels were set in November 2024, or (b) the labels visible on HIP-143/148 are a portal-display difference, not a presence-vs-absence difference. Worth a cross-check before any article rests load-bearing weight on "no labels existed in 2024." Possible resolution path: query the on-chain proxy registry for label-setting timestamps.
+
+**Updated existing pages**:
+- `wiki/index.md` — two new entries added under "DePIN & Crypto" sources before the HIP-143 proposal line. Total sources 719 → 721; updated date bumped to 2026-05-19.
+
+**Cover-image consequence**: The "You Own the Hotspot" article cover-image draft v1 contained factual errors that the new screenshots surfaced (HIP-53 dated May 12 2022 instead of July 25 2022; HIP-53 authored as Nova Labs; HIP-138 dated January 15 2025 instead of November 22 2024; HIP-148 dated October 27 2025 instead of October 10 2025; fabricated ferebee Proxy Holdings sub-wallet breakdown; calculated rather than actual ferebee veHNT at HIP-148). Cover prompt v2 issued at `workspace/drafts/you-own-the-hotspot-nova-labs-owns-what-it-earns/cover-prompt-v2.md` with corrections applied and a new "Top Proxy Share by Vote (rising)" panel replacing the fabricated holdings table.

@@ -1,9 +1,9 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-18
-total_pages: 1268
-total_sources: 719
+updated: 2026-05-19
+total_pages: 1270
+total_sources: 721
 total_entities: 262
 total_concepts: 162
 total_syntheses: 27
@@ -478,6 +478,8 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 - [[What is DePIN — OSL]] — OSL; introductory DePIN explainer; key protocols and use cases
 - [[Helium Crisis Tightens Grip On Global Chip Supply Chain]] — Helium shortage impacts semiconductor manufacturing; Gulf supply disruption
 - [[Helium's Dirty Secret — HNT News]] — HNT News community blog; Proof of Coverage hacking; mining rings; DePIN verification failure
+- [[Helium HIP-53 Vote Results — Helium Vote - 2022-07-25]] — primary-source vote screenshot; 97.22% for / 2.78% against on **2.44M veHNT total network** (the pre-concentration baseline); HIP-53 establishes the MOBILE token + subDAO and sets $0.50/GB data transfer rate; authored by Joey Padden et al. — **NOT Nova Labs**
+- [[Helium HIP-138 Vote Results — Helium Vote - 2024-11-22]] — primary-source vote screenshot; 92.54% for / 7.45% against on **476.22M veHNT**; **top voter 15.00% (anonymous wallet HKcAP…NgsJ)** with no labeled proxies in top 12 — the snapshot of governance distribution *before* the Nova Labs/ferebee concentration emerges in HIP-143; same `HKcAP…NgsJ` wallet later voted Against HIP-143 (8%)
 - [[Helium HIP-0143 — Decoupling Service Provider Pricing from Governance]] — Helium Improvement Proposal; Nova Labs pricing authority; governance model change
 - [[Helium HNT Tokenomics — Tokenomist]] — Tokenomist; HNT supply/vesting/circulating data
 - [[Helium Operator Economics — Bytetree - 2024-03]] — Bytetree Research, March 2024; $87/day IoT data credits; operator economics collapse; primary beneficiaries not operators; daily network revenue $3,307
