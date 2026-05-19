@@ -55,11 +55,11 @@ Role and Subject: A massive, encyclopedic 3D infographic poster, 16:9 ratio (145
 Core Lineup (Chronology): Six stylized governance documents in linear chronology across a horizontal measuring-scale base. Each is a photorealistic 3D folded protocol-improvement-proposal paper with header, signature lines, and a wax-seal-style protocol stamp. From left to right:
 
 1. "HIP-53 / July 25, 2022 / Mobile subDAO"
-   Slim foundational document on unweathered cream paper. Header: "HIP-53: MOBILE subDAO — PROTOCOL IMPROVEMENT PROPOSAL". Author line: "Joey Padden et al." (do NOT write "Nova Labs"). Status: Accepted. Category: Economic / Technical.
+   Slim foundational document on unweathered cream paper. Header: "HIP-53: MOBILE subDAO — PROTOCOL IMPROVEMENT PROPOSAL". Author line: "Joey Padden et al." (spelled J-O-E-Y, not "Jovy"; do NOT write "Nova Labs"). Status: Accepted. Category: Economic / Technical.
    Annotation: "Establishes MOBILE token and subDAO. Sets data transfer rate at $0.50/GB. 97.22% pass on 2,438,837 veHNT (2.4M total network)."
 
 2. "HIP-138 / November 22, 2024 / Return to HNT"
-   Thicker bound document. Header: "HIP-138: RETURN TO HNT — PROTOCOL IMPROVEMENT PROPOSAL". Author line: "Nova Labs". Status: Accepted. Category: Tokenomics.
+   Thicker bound document. Header: "HIP-138: RETURN TO HNT — PROTOCOL IMPROVEMENT PROPOSAL". Author line: "@ferebee, @JMF, @abhay" (the three co-authors per the HIP-138 markdown header; do NOT write "Nova Labs"). Status: Accepted. Category: Tokenomics.
    Annotation: "IoT + Mobile tokens consolidated into single HNT at 1:1 ratio. 92.54% pass on 476,224,373 veHNT. Top voter: anonymous wallet at 15.00% — no proxy yet exceeds that share."
 
 3. "HIP-143 / April 3, 2025 / Decoupling Service Provider Pricing from Governance"
@@ -71,7 +71,7 @@ Core Lineup (Chronology): Six stylized governance documents in linear chronology
    Annotation: "HNT emissions cut from 15,000,000 to 7,500,000 per year. Post-halving operator earnings: $4–$8 / month on a well-placed urban hotspot."
 
 5. "HIP-148 / October 10, 2025 / Reallocate Mobile Mapping Rewards"
-   Heavier, more authoritatively-sealed document — the seal visibly larger and more concentrated than HIP-143. Header: "HIP-148: REALLOCATE MOBILE MAPPING REWARDS". Author line: "Nova Labs". Status: Accepted. Category: Network Economics.
+   Heavier, more authoritatively-sealed document — the seal visibly larger and more concentrated than HIP-143. Header: "HIP-148: REALLOCATE MOBILE MAPPING REWARDS". Author line: "madninja" (the GitHub handle named as author in the HIP-148 markdown header; do NOT write "Nova Labs" — Nova Labs is the beneficiary, not the author). Status: Accepted. Category: Network Economics.
    Annotation: "Mobile Mapping rewards eliminated. Service Provider Pool 10% → 24%, 100% to Nova Labs. 96.72% pass on 902,275,496 veHNT. ferebee 31.00% (285.92M). Nova Labs 26.00% (241.87M). Jay M. 5.00% (52.63M). Top three: 62%. Keith Rettig was the only named dissent (1.00%, 13.98M veHNT, voted Against)."
 
 6. "April 2026 / Auto-Extension Triggered"
@@ -80,7 +80,7 @@ Core Lineup (Chronology): Six stylized governance documents in linear chronology
 
 Rendering: Ultra-realistic 3D, 8K resolution. Documents slightly aged and creased; chronological progression shows them becoming more formally sealed and authoritative as the operator's position weakens. Horizontal measuring-scale ruler runs July 2022 to April 2027, monthly tick marks, two vertical red gridlines: solid at April 3, 2026 (initial term end / auto-extension trigger), dashed at April 3, 2027 (authority expires absent further extension; label "AUTHORITY EXPIRES" in small red text). Time spacing: HIP-53 far left; HIPs 138/143/Halving/148 cluster 2024–2025; auto-extension window 2026–2027 at right.
 
-Canvas: Deep matte cream textured paper with subtle linen weave, lightly aged at edges. Low-opacity grayscale watermarks: HIP-143 markdown fragments, a HIP-148 voter-breakdown table from heliumvote.com, and a Messari Q4 2025 State of Helium report margin (typographic fragment only — no fabricated quote text). Watermarks never compete with foreground.
+Canvas: Deep matte cream textured paper with subtle linen weave, lightly aged at edges. Low-opacity grayscale watermarks: HIP-143 markdown fragments, a HIP-148 voter-breakdown table from heliumvote.com, and a Messari Q4 2025 State of Helium report margin — show ONLY the report title; do NOT generate any body text or invented sentences in this panel. Watermarks never compete with foreground.
 
 Palette: Strict monochrome industrial — warm cream paper, deep black ink linework and typography, charcoal grays for secondary annotations, soft sepia accents where documents have aged. ONE accent color only: desaturated brick red (#9B2C2C), reserved for the document 3 + 6 stamps, all proxy-concentration percentages (Nova Labs %, ferebee %, Jay M. %), and the April 2026 gridline. The red is the visual argument: it appears only where governance concentration is documented.
 
