@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [monetary-policy, politics, fed, fed-independence]
 created: 2026-04-07
-updated: 2026-05-16
-sources: 37
+updated: 2026-05-21
+sources: 38
 ---
 
 ## Overview
@@ -27,9 +27,14 @@ American lawyer, former Federal Reserve Governor (2006–2011), currently a Visi
 - Senate confirmation pending; confirmation hearing expected spring 2026
 
 ### Confirmation and Handoff (May 2026)
-- **Senate confirmed Warsh 51-45 on May 12, 2026** ([[Senate Confirms Kevin Warsh as Fed Governor — CNBC - 2026-05-12]])
-- **May 15, 2026**: Powell's chair term formally expired; Fed Board named Powell chair pro tempore until Warsh is sworn in. Swearing-in date **not yet announced** as of May 15 ([[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]])
-- Miran and Bowman opposed the pro-tempore measure for lacking a fixed time period — first public coordinated dissent from the Trump-appointed governor bloc before Warsh has arrived
+- **Senate confirmed Warsh 51-45 on May 12, 2026** ([[Senate Confirms Kevin Warsh as Fed Governor — CNBC - 2026-05-12]]); the [[Warsh Sworn In Friday — Reuters - 2026-05-18]] story frames the same vote as "almost party-line vote on May 13" — minor date discrepancy worth reconciling next pass (likely late-session vote spanning both calendar days, or one outlet reporting the publication date rather than the vote date).
+- **May 15, 2026**: Powell's chair term formally expired; Fed Board named Powell chair pro tempore. Swearing-in date **not yet announced** as of May 15 ([[Fed Names Powell Chair Pro Tempore — Reuters - 2026-05-15]])
+- Miran and Bowman issued a joint statement on the pro-tempore measure ([[Miran-Bowman Statement — Fed Reserve - 2026-05-15]]). Primary document: they **support** temporary designation in concept; object to the unlimited timeframe. Proposed 1-week-to-1-month duration with renewal mechanism. They explicitly contemplated "possible delay" in the swearing-in — which did occur (confirmed May 12, sworn in May 22, 10-day gap). First public coordinated dissent from the Trump-appointed governor bloc before Warsh has arrived.
+- **Swearing-in confirmed for Friday May 22, 2026** at the White House by Trump ([[Warsh Sworn In Friday — Reuters - 2026-05-18]]). Reuters reported the date May 18 (Monday) per White House official via Fox Business. The 7-day Powell-pro-tempore bridge (May 15 → May 22) ran across one full week.
+- **First Warsh-chaired FOMC**: June 16-17, 2026. Interest-rate futures markets assign **effectively zero probability** of a change from the current 3.50%–3.75% range — markets are betting Warsh cannot deliver the rate cut Trump nominated him to provide ([[Warsh Sworn In Friday — Reuters - 2026-05-18]]).
+- **Bond market repositioning (May 15 close)**: Yields shot higher Friday as investors began pricing for sticky inflation and possible Fed rate **hikes** as early as December 2026 — a complete inversion of the rate-cut-pressure framing Warsh's nomination was meant to deliver.
+- **Goolsbee opening shot**: Chicago Fed President Austan Goolsbee on Fox Business May 18 — "We've got an inflation problem... services inflation is high and rising and that's probably not coming from oil, it's probably not coming from tariffs. There are going to be a lot of things on the radar screen and we could use some guidance here from the chair." Powell-bloc Fed president telegraphing that the FOMC will not silently follow Warsh on the AI-productivity-thesis rate-cut rationale.
+- **Powell's continuing presence**: Powell remains on the Board of Governors "until satisfied that a Trump administration criminal probe of him is fully wound down" — quiet ongoing institutional check on Trump's freedom to escalate against the Fed.
 
 ### Historical Hawkish Positions
 - Long-standing concern that the Fed's balance sheet grew excessively large due to post-2008 QE ([[Commonfund — Fed Watching under Warsh]])
@@ -149,6 +154,7 @@ The **DOJ criminal probe of Powell** is the quietly important subplot. It's the 
 - [[Bessent Miran Warsh Coordination — Jin Low Substack - 2026-02-24]] — 1951 Accord contrast; coordination-as-partial-rollback framing
 - [[Bessent Miran Warsh Coordination — AP via ADN - 2026-04-25]] — Faust quote; Bessent "political cover" reading; AP skepticism of coordination claim
 - [[Warsh Senate Banking Committee Advances — CNBC - 2026-04-29]] — committee vote 13-11; first fully partisan committee vote on a Fed Chair in history; Powell agrees to remain until confirmation; Fetterman signals floor yes
+- [[Warsh Sworn In Friday — Reuters - 2026-05-18]] — swearing-in confirmed for Friday May 22 at White House by Trump; documents the inflation environment (tariffs + Iran-war energy shock) Warsh inherits; markets pricing zero probability of June rate move; Goolsbee opening shot signaling FOMC will not follow Warsh on rate-cut rationale silently
 - [[Independent Inside of Government]] — published nonfiction analysis: "respectability capture"; the mechanism that works because it doesn't look like a capture
 
 ## Open Questions

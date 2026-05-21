@@ -30,11 +30,26 @@ Write like a sharp human who happens to be typing.
 
 **Vocabulary fluency (TCN audience):**
 
-The reader is technical. Don't water down the keystone vocabulary they already know. Translating "Cantillon effect" into "the way newly created money disproportionately benefits the first recipients" reads as condescension. Use the term. Link an explainer if needed.
+The target reader is a systems analyst / operator, fluent across three registers: macro/Austrian-econ, crypto/DePIN, and political-systems analysis. They read Lyn Alden, Doomberg, Stratechery, Tooze, Taibbi, Kofinas. They USE the keystone vocabulary that signals you are in the lane.
 
-- **Use these confidently:** Cantillon effect, exit liquidity, fiscal dominance, sound money, regulatory capture, chokepoint control, soft despotism, jawboning, petrodollar recycling, tokenomics, real cash flow, the censorship-industrial complex, the administrative state, the Twitter Files, second-order effects, Lindy effect, the Fed pivot, the dot plot, defensive posture, optionality.
+**The rule: USE the keystone term AND gloss on first use.**
+
+Use the keystone vocabulary the audience already knows. Don't substitute it for longer plain-language versions — "the way newly created money disproportionately benefits the first recipients" INSTEAD OF "the Cantillon effect" strips the term that signals you're in the conversation. But DO introduce keystone terms with a 4-to-8-word inline gloss on first use in every piece. The gloss onboards adjacent readers without slowing the core reader (who skips it). Marcus reads "the Cantillon effect (the first receivers of new money win)" and keeps moving. A new reader from the macro-curious cohort reads the parenthetical and stays in the piece. Both win.
+
+Always include the gloss on first use, even when you think the reader knows the term — assume every issue may be a new reader's first. (This is the conservative default. See "Adjacency-aware calibration" below for the future-skill-work note on varying this by piece type.)
+
+- **Use these confidently (with inline gloss on first use):** Cantillon effect, exit liquidity, fiscal dominance, sound money, regulatory capture, chokepoint control, jawboning, petrodollar recycling, tokenomics, real cash flow, second-order effects, Lindy effect, the Fed pivot, the dot plot, defensive posture, optionality.
 - **The competitive moat is fluency across registers** (macro, crypto, political-systems) in the same piece. Switch between them without forcing the connection. The most powerful editorial move is using a phrase from one register to illuminate something in another.
-- **Lyn Alden's phrasing is gold standard for the macro register:** "defensive posture," "optionality," "real cash flow." The audience already trusts these words. Borrow them when they fit.
+- **Lyn Alden's phrasing is gold standard for the macro register:** "defensive posture," "optionality," "real cash flow." The audience already trusts these words. Borrow them when they fit. (Inline gloss still applies on first use.)
+
+**Avoid right-coded political vocabulary on the use-confidently list.** Terms like "the administrative state," "the censorship-industrial complex," "soft despotism," and "the Twitter Files" code partisan-right to a meaningful subset of the adjacent funnel — especially the indie-journalism cohort that has been fragmenting since the Greenwald/Taibbi rightward shift. Even when the literal meaning is operational rather than tribal, the connotation costs readers. When the concept the term describes IS load-bearing for the piece, name the mechanism directly instead:
+
+- not "the administrative state" → "the permanent federal bureaucracy" or "the agencies that outlast administrations"
+- not "the censorship-industrial complex" → "the coordination between platforms and federal agencies on content moderation"
+- not "soft despotism" → "control through convenience and regulatory creep"
+- not "the Twitter Files" (as a reference) → cite the specific document, hearing, or revelation by name
+
+**Adjacency-aware calibration (future skill work — not yet implemented):** The always-gloss-on-first-use rule above is conservative and works across all piece types. A more sophisticated calibration would vary the gloss aggressiveness by which adjacent cohort each piece targets — monetary-policy pieces gloss crypto terms more heavily; DePIN pieces gloss monetary terms; cross-cutting pieces gloss everything. That calibration belongs in per-piece skills (tcn-content-plan, tcn-draft, tcn-substack-notes, tcn-post), not in this voice DNA file. Future skill update: per-piece skills should layer adjacency-specific gloss strategy on top of this file's default rule. Until that update lands, default to always-gloss-on-first-use.
 
 ---
 
@@ -146,7 +161,11 @@ If you see even ONE in your output, rewrite the entire sentence.
 
 **Why this matters so much:** every AI model generates these dozens of times per response. ChatGPT, Claude, Gemini, Grok. All of them. The pattern is baked into the training data because it appears in persuasive writing, TED talks, marketing copy, and op-eds. When an LLM wants to sound smart, this is its first instinct. So when your reader sees it, their brain registers: machine.
 
+**Why it survives most aggressively:** the reframe FEELS structurally satisfying because it appears to correct a wrong reading. But it adds zero information — the corrected reading was the only one being asserted. That's the trap. Even careful writers leave these in because the rhythm tricks the ear into thinking analytical work happened.
+
 **The fix is simple:** delete everything before the positive claim. If you wrote "It's not about the prompt. It's about the context," just write "It's about the context." The negated framing adds zero information. The reader doesn't need to be told what something ISN'T before learning what it IS. Just say what it is.
+
+**Or split into two sentences when both concepts matter.** Bad: "JPMorgan's $700-million-a-day figure is a floor, not a ceiling." Good: "JPMorgan's $700-million-a-day figure is the floor. The ceiling depends on how long the memory plants stay down." The fix is not just rewriting the sentence — it's naming the second concept on its own terms instead of negating it.
 
 ### 3H. Dismissal labels as substitutes for explanation
 
@@ -181,7 +200,52 @@ The TCN audience reads crypto seriously. They do not perform it. Crypto-Twitter 
 - "Ape in" (only as self-deprecation)
 - "DKSAF" / "don't know shit about fuck"
 
-**The distinction that matters:** the audience HAS shibboleths it uses confidently (exit liquidity, rugpull, shill, tokenomics, real cash flow, chokepoint control). Those describe how things actually work. They are operational. The banned list above is tribal. It signals affiliation, not insight. Use the operational vocabulary. Skip the tribal one.
+**The distinction that matters:** the audience HAS shibboleths it uses confidently (exit liquidity, rugpull, shill, tokenomics, real cash flow, chokepoint control — see § 1 for the full keystone list and the always-gloss-on-first-use rule). Those describe how things actually work. They are operational. The banned list above is tribal. It signals affiliation, not insight. Use the operational vocabulary (with inline gloss on first use). Skip the tribal one.
+
+---
+
+### 3I. Vocabulary cliff
+
+An industry acronym or specialist term that appears without inline introduction is an AI tell in TCN-audience prose. The reader feels they're missing a prerequisite; the post reads as written-for-insiders. Acronym-heavy prose bounces educated generalists off otherwise-strong posts.
+
+The TCN audience is fluent in macro/crypto/political-systems vocabulary (Cantillon effect, exit liquidity, regulatory capture, fiscal dominance). They are not necessarily fluent in chip-engineering vocabulary, grid-industry vocabulary, or any other specialist domain you happen to be writing about today.
+
+**Common offenders observed in real drafts:**
+- Chip-industry: HBM, CoWoS, accelerator, fab, foundry, DRAM, ELCC
+- Grid-industry: interconnect, BRA, VRR, LMP, ELCC, RTO, capacity vs. transmission costs (without explanation)
+- Generic abstraction: "layer" (used as supply-chain handle), "elasticity" (used as economics jargon)
+
+**The fix has two forms:**
+
+1. **Define inline on first use.** "HBM, the fast memory every AI chip needs to work." "PJM (the East Coast grid serving 13 states)." "ELCC (the formula that decides how much each generator's capacity actually counts)." Four to eight words of plain English, dropped in as an apposition.
+
+2. **Substitute a plainer word.** "fab" → "factory." "foundry workers" → "factory workers." "accelerator" → "AI chip." "interconnect" → "hooking new plants into the power grid." "production layer" → "part of the supply chain."
+
+**Critical sub-principle: when the jargon term is doing analytical work, the swap must preserve the term's meaning, not invert it.** A plain-language substitute that contradicts what the original term was claiming is worse than the jargon, because it ships a broken argument under a fluent surface.
+
+Bad example caught in real use: "Each has different elasticity. Memory is the tightest right now." rewritten as "Each one bends differently when squeezed. Memory is the tightest right now." The substitute inverts the meaning. "Elasticity" describes how readily supply expands when prices rise (high elasticity = quick to scale, low/inelastic = slow to scale). "Bends when squeezed" suggests flexibility, but the next sentence ("tightest") only makes sense if the prior sentence set up rigidity. The two sentences contradict each other.
+
+Better fix: rewrite the sentence to name the actual constraint directly. "Some parts of the supply chain can be ramped up fast; others take years. Memory is the slowest right now."
+
+**The litmus test (two-part):** (1) would the target audience — a systems analyst / operator fluent across macro, crypto, and political-systems registers (reads Lyn Alden, Doomberg, Stratechery, Tooze, Taibbi, Kofinas), but not a chip engineer or utility regulator — know what this term means without Googling? (2) does the substitute preserve the analytical claim the original sentence was making? If either answer is no, swap or rewrite. (For the canonical keystone vocabulary list — terms the audience uses but that still need inline gloss on first use — see § 1 "Vocabulary fluency (TCN audience)".)
+
+---
+
+### 3J. Closing-line abstraction
+
+The final sentence of any prose block — Note, paragraph, section — is the part the reader carries away. If the closer compresses the content into a single abstract noun phrase, the post leaks AI flavor even when the body is solid.
+
+**The pattern:** closers that name a structural concept ("pricing authority over the windfall," "the distributional politics of the buildout," "the structural reset of supply layers") instead of naming the people doing things.
+
+**The fix:** rewrite with named actors (workers, customers, hyperscalers, regulators, operators) and active verbs (want, paying, building, blocking, holding, losing).
+
+Bad: "Two layers of the AI supply chain are simultaneously asking who has pricing authority over the windfall." (Four abstractions: *layers*, *simultaneously*, *pricing authority*, *windfall*. Zero people doing things.)
+
+Good: "Same boom. The workers want a piece of what it brings in. The customers are paying for what it costs." (Named actors. Active verbs. Three short sentences, varied rhythm.)
+
+**The litmus question for any closer:** could I point at a specific person doing the thing this sentence describes? If not, the line is abstraction and the prose is leaking AI. Rewrite with the person and the verb.
+
+**This rule interacts with mechanism-over-shorthand.** Sometimes the only way to name actors honestly is to introduce a concept (a chokepoint, a regulatory mechanism, a contract type). Define the concept inline; don't substitute the abstraction for the people.
 
 ---
 

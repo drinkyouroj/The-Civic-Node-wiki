@@ -195,6 +195,8 @@ Where this concept is contested or complicated.
 
 Outputs of queries, comparisons, or analyses. Save anything that took real synthesis to produce.
 
+Synthesis pages serve two functions: they document past analysis (so future pieces can cite back to it instead of re-deriving), and they scaffold future analysis (by flagging what the wiki should grow next). The optional `## Follow-on artifacts to create` section captures the second function — use it whenever the synthesis surfaces an entity, concept, or sub-synthesis that doesn't yet exist but should. For a worked example of this section doing real work, see `wiki/syntheses/Helium HIP-143 and the DePIN Franchise Architecture.md` (filed 2026-05-18), which flags `[[Nova Labs]]` plus three concept pages ("Franchise vs. Business," "Proxy Concentration Audit," "Auto-Renewal by Inaction") that future DePIN governance pieces will lean on.
+
 ```markdown
 ---
 title: "Synthesis Title"
@@ -220,6 +222,18 @@ How this could be used in a piece — angle, framing, what's missing.
 
 ## Follow-up Questions
 What this synthesis raises.
+
+## Follow-on artifacts to create (optional)
+If this synthesis references entity pages, concept pages, or sub-syntheses that do not yet exist in the wiki, list them here. This converts the synthesis from a leaf node into scaffolding for future wiki extension — the next writer who touches a related topic has an explicit TODO list of what should exist.
+
+Format each as a bullet under one of three subheadings:
+- **Entity:** [[Name]] — one sentence on why this entity is referenced but lacks a page, and what creating the page would anchor.
+- **Concept:** "Name" (or [[Name]]) — one sentence naming the analytical move or pattern and why it's transferable beyond this synthesis.
+- **Sub-synthesis:** "Name" — one sentence on the narrower question that would benefit from its own synthesis page.
+
+Only list artifacts where the synthesis surfaces a real gap. Do NOT use this section to brainstorm pages the wiki might want someday. The litmus test: would creating this page directly support the next 1–2 pieces or syntheses the writer is likely to produce?
+
+Skip this section entirely when the synthesis sits inside well-covered territory and all relevant supporting pages already exist.
 ```
 
 ---
@@ -250,7 +264,8 @@ When the user asks a question:
 2. **Read** those pages in full.
 3. **Synthesize** an answer with inline `[[citations]]`.
 4. **Assess**: Is this answer worth filing? If yes, save to `wiki/syntheses/` and add to index.
-5. **Suggest** follow-up questions, source gaps, and newsletter angles.
+5. **Check for follow-on artifacts**: before finalizing, scan the synthesis for `[[wikilinks]]` to entities, concepts, or sub-syntheses that do not yet exist as pages. If any surface a real gap (the litmus test: would creating the page directly support the next 1–2 pieces?), fill in the `## Follow-on artifacts to create` section. Skip if the synthesis sits inside well-covered territory.
+6. **Suggest** follow-up questions, source gaps, and newsletter angles.
 
 ### LINT
 
@@ -386,7 +401,7 @@ Read all three agents' findings. Then execute:
 
 **2. Rank and select the top 5 hooks** (highest combined score). Tiebreak: prefer underexplored angles over patterns (more immediately actionable). Flag any that require source acquisition before drafting.
 
-**3. Write synthesis pages** — for each of the top 5 hooks, create a full synthesis page at `wiki/syntheses/insight-[slug]-YYYY-MM-DD.md` using the Synthesis page format from this schema. The "Newsletter Application" section must be specific and opinionated — concrete angle, suggested structure, identified source gaps, what makes this publishable now vs. later.
+**3. Write synthesis pages** — for each of the top 5 hooks, create a full synthesis page at `wiki/syntheses/insight-[slug]-YYYY-MM-DD.md` using the Synthesis page format from this schema. The "Newsletter Application" section must be specific and opinionated — concrete angle, suggested structure, identified source gaps, what makes this publishable now vs. later. Before finalizing each hook synthesis, scan it for `[[wikilinks]]` to entity/concept/sub-synthesis pages that don't yet exist, and fill in the `## Follow-on artifacts to create` section if any surface a real gap (insight-sweep syntheses are especially likely to surface these, since they live in cross-domain territory where supporting pages often haven't been built yet).
 
 **4. Write a master briefing page** at `wiki/syntheses/insight-sweep-YYYY-MM-DD.md`:
 
@@ -562,3 +577,7 @@ At the start of every session:
 **Prefer mechanism over shorthand.** When choosing between a compressed insider phrase and a slightly more explanatory one, take the longer version. Name the specific mechanism or system rather than the term of art that assumes the reader already lives in it. "Timeline that doesn't fit in a financial model" beats "calendar nobody is pricing" — the extra words make the *why* visible instead of leaving it implied. This applies especially to financial, technical, and infrastructure concepts where the shorthand is second nature to the writer but opaque to a smart generalist reader.
 
 **Never use dismissal labels as substitutes for explanation.** "X is a press release," "X is theater," "X is noise," "X is optics" — these hand the reader a verdict without showing them the mechanism that earns it. Name what X actually is, name what it's missing, and name why that gap matters. The reader arrives at the dismissal themselves. If you find yourself reaching for a dismissal label, it means you skipped the explanation. Go back and write the explanation.
+
+**When connecting two stories from different domains, check that the underlying mechanism is genuinely shared.** Cross-domain framing is the highest-leverage analytical move available — naming that an East Coast grid story and a Korean labor story trace to the same AI buildout is the kind of synthesis the reader can't get anywhere else. But the move only works when the parallel is actually structural. If the two stories share a cause but produce asymmetric responses (one party capturing upside, another absorbing cost), the closer cannot compress them into "same money" or "same fight." Both claims read as analytical and both will be wrong on inspection. Honest framing names what IS shared (the cause — the boom, the buildout, the policy shift) AND what is different (the direction — who gains, who pays, who's blocked). The trade-off the format requires: structural compression when the parallel is symmetric, named asymmetry when it isn't. Plain language is the audit — once "same money" is on the page, you can see whether it's true.
+
+**Don't leave the reader to do work the writer should have done.** Vocabulary cliffs (an unintroduced acronym), false symmetries (a "same money" claim that doesn't survive inspection), time-fragile language (a "today's mediation" line in a Note that will outlive today), abstract closers (a final sentence with no person doing anything) — all are different forms of the same underlying issue, which is shipping prose that asks the reader to fill in something the writer skipped. The voice DNA file (`workspace/core/anti-ai-writing-style.md`) catches most of the lexical version of this; the structural version is on the writer to catch by asking: is every claim something a reader can verify by looking at a real person, a real document, or a real number?

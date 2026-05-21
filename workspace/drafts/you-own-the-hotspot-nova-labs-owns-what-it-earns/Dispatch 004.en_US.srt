@@ -1,0 +1,235 @@
+﻿1
+00:00:00,000 --> 00:00:04,833
+…If you buy a McDonald's franchise, you get a two hundred page disclosure document.
+
+2
+00:00:04,833 --> 00:00:10,399
+Federal law requires it. It has the pricing, the exit terms, what happens if McDonald's
+
+3
+00:00:10,400 --> 00:00:13,433
+changes the menu and your numbers stop working.
+
+4
+00:00:13,433 --> 00:00:17,133
+Three hundred eighty five thousand people bought a Helium hotspot.
+
+5
+00:00:17,133 --> 00:00:20,299
+For their franchise disclosure equivalent, they just got vibes
+
+6
+00:00:20,300 --> 00:00:25,433
+Helium operators bought a franchise, but they were sold a business.
+
+7
+00:00:25,433 --> 00:00:31,833
+The hardware they paid for is theirs. The pricing that determines what the hardware earns is set by Nova Labs.
+
+8
+00:00:31,833 --> 00:00:37,999
+Nova Labs is the company that runs Helium Mobile and negotiates the carrier deals with T-Mobile and AT&T.
+
+9
+00:00:38,000 --> 00:00:45,733
+That's the whole piece.
+The rest is just verification…
+ 
+A pro outdoor helium hot spot is $949.
+
+10
+00:00:45,733 --> 00:00:52,066
+After the August 2025 halving, a well placed urban unit earns four to eight dollars a month.
+
+11
+00:00:52,066 --> 00:00:55,199
+At eight dollars, the hardware pays itself off in ten years.
+
+12
+00:00:55,200 --> 00:01:00,400
+At four, twenty. Ten years is what asphalt shingles take to wear out.
+
+13
+00:01:00,400 --> 00:01:06,400
+Twenty is most of a mortgage. The whole IoT side of the network, all three hundred eighty five
+
+14
+00:01:06,400 --> 00:01:11,966
+thousand hotspots, generates $125 a day in data transfer revenue.
+
+15
+00:01:11,966 --> 00:01:15,066
+The mobile side, which is the carrier offload for T-Mobile and
+
+16
+00:01:15,066 --> 00:01:19,099
+AT&T, generates $56,000 a day.
+
+17
+00:01:19,100 --> 00:01:22,200
+The hotspot side is the hardware the project points at.
+
+18
+00:01:22,200 --> 00:01:28,900
+The mobile side is where the revenue actually lives
+ 
+In April 2025, a governance vote
+
+19
+00:01:28,900 --> 00:01:32,333
+called HIP-143 gave Nova Labs the authority to
+
+20
+00:01:32,333 --> 00:01:36,299
+negotiate carrier pricing without routing each deal through governance.
+
+21
+00:01:36,300 --> 00:01:42,400
+Now, carrier deals are confidential, and governance is slow, so the commercial case is valid.
+
+22
+00:01:42,400 --> 00:01:46,700
+The proposal was sold as a one year sunset. But read the text closer.
+
+23
+00:01:46,700 --> 00:01:51,033
+It extends for another year if no overriding HIP passes.
+
+24
+00:01:51,033 --> 00:01:56,299
+April 2026, the initial year ended. No overriding HIP passed.
+
+25
+00:01:56,300 --> 00:02:00,566
+The authority extended itself. It now runs through April 2027.
+
+26
+00:02:00,566 --> 00:02:06,166
+Nobody overrode it
+ 
+HIP-143 passed at 90%.
+
+27
+00:02:06,166 --> 00:02:09,766
+NOVA Labs voted yes with 26% of the total vote.
+
+28
+00:02:09,766 --> 00:02:16,266
+A proxy named ferebee, one of the four coauthors who wrote the proposal, voted yes with another 24%.
+
+29
+00:02:16,266 --> 00:02:22,799
+Together, half the yes votes authorizing Nova Labs pricing authority came from Nova Labs and one of its coauthors.
+
+30
+00:02:22,800 --> 00:02:28,633
+Six months later, a vote called HIP-148 consolidated more rewards to Nova Labs.
+
+31
+00:02:28,633 --> 00:02:34,599
+Subscribers who had been earning Helium tokens for sharing location data from their phones got gift cards instead.
+
+32
+00:02:34,600 --> 00:02:40,200
+That vote passed at 97%. The top three voters controlled 62% of it.
+
+33
+00:02:40,200 --> 00:02:44,400
+In those six months, ferebee's voting stake grew 55%.
+
+34
+00:02:44,400 --> 00:02:47,566
+The rest of the network grew 18%.
+
+35
+00:02:47,566 --> 00:02:54,266
+Every HIP starts from a more concentrated baseline than the last
+ 
+I ran twelve Datagram nodes.
+
+36
+00:02:54,266 --> 00:03:00,299
+I moderated their community for seven months. I did it without pay, and the project collapsed.
+
+37
+00:03:00,300 --> 00:03:03,700
+Earlier pieces I published called Datagram the legitimate counterexample
+
+38
+00:03:03,700 --> 00:03:07,366
+the decentralized infrastructure project doing it right.
+
+39
+00:03:07,366 --> 00:03:12,166
+That framing was wrong.
+The four disclosure standard this piece argues for would have caught
+
+40
+00:03:12,166 --> 00:03:15,666
+Helium in 2021 before any hotspot shipped.
+
+41
+00:03:15,666 --> 00:03:19,699
+It would have flagged that pricing authority sat outside the operator class.
+
+42
+00:03:19,700 --> 00:03:23,900
+The same standard would not have caught Datagram. Those documents passed.
+
+43
+00:03:23,900 --> 00:03:28,033
+The software wasn't running what they described.
+The audit is the floor.
+
+44
+00:03:28,033 --> 00:03:34,466
+It doesn't catch fraud
+ 
+The piece on Substack covers what this video skipped.
+
+45
+00:03:34,466 --> 00:03:38,966
+the four disclosures Helium operators never received, written out in plain language: a
+
+46
+00:03:38,966 --> 00:03:43,532
+hardware buyback floor an exit provision when the reward structure changes underneath you
+
+47
+00:03:43,533 --> 00:03:48,599
+revenue disclosure, even when individual carrier rates stay confidential a sunset clause that
+
+48
+00:03:48,600 --> 00:03:55,366
+requires an active revote instead of extending by default
+Also, the full HIP-148 vote, the
+
+49
+00:03:55,366 --> 00:03:59,966
+mobile mapping rewards that subscribers earned by sharing location data, traded for redeemable
+
+50
+00:03:59,966 --> 00:04:05,566
+gift cards, and the Helium Foundation's own guidance, pointing operators toward the same two
+
+51
+00:04:05,566 --> 00:04:08,999
+proxies that were accumulating the most voting power.
+
+52
+00:04:09,000 --> 00:04:12,400
+And finally, the rationalization that made me run twelve datagram nodes
+
+53
+00:04:12,400 --> 00:04:16,366
+without pay for a project that had no business underneath it.
+
+54
+00:04:16,366 --> 00:04:22,666
+It's all at drink your o j dot substack dot com
+This is the Civic Node.
+
+55
+00:04:22,666 --> 00:04:26,832
+Subscribe free on Substack for new issues every week
+

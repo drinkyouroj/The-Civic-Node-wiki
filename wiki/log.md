@@ -2,6 +2,97 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-05-21] ingest | Musk-OpenAI jury verdict (NYT + Ars Technica) + Warsh sworn in Friday (Reuters) — deferred-ingest pass from commit 2cabe08; plus Hivemapper Foundation stub
+
+Cleared the three raw files committed at `2cabe08` ("ingest: 2026-05-18 — Musk-OpenAI verdict (x2) + Warsh sworn in as Fed chair") with the wiki-side pass that commit explicitly deferred. Created one new entity ([[Hivemapper Foundation]]) to fill the gap surfaced during Day 18 content planning (Note 2 PSD on the May 2 10M HONEY directive needs an entity anchor for future DePIN coverage).
+
+**New sources (3)**:
+- [[Musk-OpenAI Jury Verdict — NYT - 2026-05-18]] — Cade Metz + Mike Isaac, NYT live-blog. 9-member jury, less than 2 hours of deliberation, statute-of-limitations dismissal in U.S. District Court (Oakland). Aug 5 2021 cutoff (charitable trust) / Aug 5 2022 cutoff (unjust enrichment) on the verdict form. $150B suit dismissed; Judge Yvonne Gonzalez Rogers "almost instantly" agreed; OpenAI valued $730B at trial; **IPO obstacle removed**. Musk attacks judge as "activist Oakland judge" on X; announces Ninth Circuit appeal. Antitrust claims technically alive (judge: "not very good claims"). Catherine Bracy / EyesOnOpenAI urges CA AG Bonta to revisit restructuring. NYT disclosure: paper is itself an OpenAI/Microsoft copyright litigant.
+- [[Musk-OpenAI Jury Verdict — Ars Technica - 2026-05-18]] — Ashley Belanger; tighter version of the same verdict with Musk-side emphasis. Musk attended Beijing summit with Xi/Trump during closing arguments despite court availability order; lawyers "sunken in their chairs" per NYT-attributed phrasing; OpenAI lead lawyer William Savitt = former Musk attorney, used prior personal history to "get under Musk's skin" on the stand. Microsoft statement: "untimely" framing.
+- [[Warsh Sworn In Friday — Reuters - 2026-05-18]] — Reuters Washington bureau; **Warsh swearing-in confirmed for Friday May 22 at the White House by Trump**. 7-day Powell-pro-tempore bridge (May 15 → May 22). First Warsh-chaired FOMC June 16-17. Rate-futures markets price effectively zero probability of a June rate move; bond yields shot higher Friday May 15 pricing for **sticky inflation and possible hikes** as early as December 2026 — complete inversion of the rate-cut-pressure framing. Goolsbee on Fox Business May 18: "We've got an inflation problem… services inflation is high and rising and that's probably not coming from oil, it's probably not coming from tariffs" — first named Powell-bloc Fed president signaling the FOMC won't follow Warsh silently. Minor date discrepancy with prior CNBC source flagged (Reuters: "May 13 vote"; CNBC: "May 12"). Notable structural detail: the chair seat as inheritance-of-someone-else's-problem — Trump's tariffs and Iran-war energy shock created the inflation regime Warsh now has to manage, and markets are betting against the rate-cut deliverable he was nominated to provide.
+
+**New entity (1)**:
+- [[Hivemapper Foundation]] — governance and incentive-administration arm of the [[Hivemapper]] decentralized mapping network. Documents the May 2, 2026 announcement of "at least 10 million HONEY" in extra contributor incentives through June 30 directed at "green" and "orange" roads on a new in-app coverage map. **Fact-check note embedded in the entity**: aggregator coverage (CoinMarketCap CMC AI) characterizes the program as "designed to create buy pressure on HONEY" — that framing is **editorial paraphrase, NOT a direct Foundation quote** as verified during the news-check pass on 2026-05-21. Day 18 Note 2 Option B drafted before this fact-check was completed; flag for future-self. Stub entity created without a raw file (primary source = paywalled Hivemapper X post 2050688549612384573); raw-file capture flagged as next-session priority.
+
+**Pages updated (5)**:
+- [[Kevin Warsh]] (sources 37→38, updated 2026-05-16→2026-05-21) — confirmation/handoff section rewritten to reflect May 22 swearing-in. Markets-priced rate-hike pressure framing added; Goolsbee opening-shot quote added; Powell continuing-presence as institutional check noted; minor date discrepancy with [[Senate Confirms Kevin Warsh as Fed Governor — CNBC - 2026-05-12]] (May 12 vs May 13) flagged for next-pass reconciliation.
+- [[Elon Musk]] (sources 10→12, updated 2026-04-27→2026-05-21) — overview updated to reflect verdict dismissal; new Key Facts entries documenting the verdict (jury composition, statute deadlines, 9-juror unanimity, less-than-2-hours deliberation, Beijing-summit-vs-court absence, Ninth Circuit appeal commitment); two new source citations; six new open questions including the live appeal-actually-materializes question.
+- [[OpenAI]] (sources 32→34, updated 2026-04-22→2026-05-21) — May 18 verdict bullet added documenting $730B valuation cite and IPO obstacle framing; Sam Altman trial-credibility exposure separately documented; Catherine Bracy / EyesOnOpenAI institutional vector flagged as the post-verdict AG-revisit lane; two new source citations.
+- [[Sam Altman]] (sources 11→13, updated 2026-04-17→2026-05-21) — defendant-cleared-by-jury entry added with explicit "substantive question never reached" framing; Molo closing-argument "bridge built on Sam Altman's version of the truth" attack quoted verbatim; New Yorker pre-trial "can he be trusted" piece referenced as the credibility-frame architecture; IPO road show open question added; two new source citations.
+- [[Samsung]] (updated 2026-05-18→2026-05-21; **sources count unchanged at 26** because the deal coverage has no wiki source pages yet) — May 20-21 tentative deal entry added documenting 12% operating-profit bonus pool (10.5% stock + 1.5% cash), no DS-division ceiling, 200T won (2026-2028) / 100T won (2029-2035) trigger thresholds, May 22-27 KST ratification window. Source attributions by name only (Seoul Economic Daily, TechTimes, wccftech, Japan Times, Bloomingbit, crypto briefing); source-page ingest pending raw file capture. Three new open questions: ratification outcome, structural spread to other chokepoint labor pools (SK Hynix / TSMC / ASML), hyperscaler customer pricing incidence.
+
+**Newsletter angles surfaced**:
+- *The verdict-removes-IPO-roadblock arc*: NYT framed the dismissal as removing "one of the final roadblocks" to OpenAI's expected IPO. The procedural ruling did real institutional work even as the substantive "stole a charity" question stayed unanswered. Process-as-outcome on the largest IPO of the year. Extends [[Process Is the Punishment]] concept.
+- *The Sam Altman credibility carry-forward*: trial succeeded reputationally even as it failed legally. Three weeks of Altman-trustworthiness attacks + the New Yorker pre-trial framing + Molo's "bridge built on Sam Altman's version of the truth" closing — the credibility wedge is now on the public record going into the IPO. The editorial question is whether anchor investors price it in.
+- *The Catherine Bracy / EyesOnOpenAI institutional opening*: with the Musk vector closed, the AG-revisit vector opens. Bracy's public call for CA AG Bonta to revisit OpenAI's restructuring is the live institutional thread that survives the verdict. [[Florida's attorney general announces criminal investigation into OpenAI]] already running a criminal-track lane. The "states-as-the-actual-regulators" frame extends across both vectors and pairs with the Texas xAI/X v. OpenAI/Apple suit as a third state-level vector.
+- *The Warsh-inherits-the-opposite-of-his-mandate arc*: nominated to deliver rate cuts; markets pricing for rate hikes by December. The Iran-energy-shock layer (extends [[The Strait Is the Mandate]]) is what flipped FOMC concern from look-past to lean-against. Trump's foreign policy is creating the inflation regime Warsh now has to manage. Editorial wedge: "Was the regime change Trump promised actually a rate-cut regime, or was it a regulatory-and-fiscal-coordination regime that gets called rate-cut for political purposes?"
+- *The Goolsbee opening-shot as the institutional-resistance signal*: Powell-bloc Fed presidents are not going silent under Warsh. The [[Family Fight Communication Model]] (Warsh's documented "disagreement-behind-closed-doors-then-public-unity") gets its first stress test at the June 16-17 FOMC. Goolsbee's public Fox Business statement is the early read — and it punctures Warsh's own theory before he's chaired a meeting.
+- *The chokepoint-labor structural-extraction precedent (Samsung May 20-21 deal)*: first major industrial labor action to extract a **permanent, profit-indexed share of an AI-chokepoint chokepoint's operating profit through 2035** with no division-level ceiling. The deal indexes wages to operating profit rather than negotiating COLAs — a different mechanism that compounds with chokepoint pricing power rather than just keeping up with inflation. Worth tracking whether SK Hynix / TSMC / ASML wage cycles in 2026-Q3 absorb similar structures. Pairs structurally with the [[AI Windfall Sharing]] concept and the [[Speed to Power]] concept on the buildout-cost-distribution layer.
+
+**Wiki gaps flagged / raw-file capture needed**:
+- **Samsung May 21 deal coverage** (Seoul Economic Daily, TechTimes, wccftech, Japan Times, Bloomingbit, crypto briefing) — primary screenshots / archive.ph captures should be dropped into raw/ next session for formal source-page ingest.
+- **Hivemapper Foundation May 2 X post** (post ID 2050688549612384573) — paywalled to non-logged-in fetch; requires X-authenticated capture or screenshot into raw/.
+- **Bee Maps $32M raise** (PR Newswire, 2026) — referenced via search but not yet captured.
+- **Messari Hivemapper project page + tokenomist.ai Hivemapper page** — referenced in Day 18 plan source list but not formally ingested into raw/ or wiki/sources/.
+
+**Helium Halving duplicate raw note**: Two raw files exist for the same article — the original (7,462 bytes, blog.helium.com URL, May 16 ingest) and an archive.ph fallback (8,034 bytes, May 19 ingest, archive.ph URL). The existing source page [[Helium Halving 2025 — Helium Blog - 2025-07-24]] references the first file. The second is a redundant fallback. Both retained per the raw/ immutability rule; flagged here so future-self knows it's a known redundancy not a missing ingest. No action needed.
+
+**Skill-flow note for future-self**: This ingest was triggered by the Day 18 content-planning session noticing wiki gaps (Hivemapper Foundation, Samsung May 21 deal) and the user asking to clear deferred raw files. The pattern — content planning surfacing a gap → ingest run → entity update → next-session content plan benefits from cleaner wiki — is the loop the wiki is meant to support. Worth flagging in future Day-N plans when wiki gaps appear: if the gap is in DePIN governance, Fed/monetary policy, or the AI memory supply chain, run an ingest first; if the gap is in newer reactive territory (live news from today), defer until raw files are captured.
+
+**Counts after this pass**: sources 726 / entities 263 / concepts 162 / articles 95 / syntheses 27. Index frontmatter, Stats table, and overview frontmatter+lede agree. Note: the May 19 frontmatter (721 sources) was lagging by ~2 from raw file counts; reconciled this pass after `find wiki/sources -name '*.md' -not -name 'CLAUDE.md'` audit.
+
+## [2026-05-16] ingest | 4 additional sources — Helium HIP-143 vote, Messari Q4, AMBCrypto full, halving (gap-fill pass 2)
+
+User manually retrieved sources that couldn't be auto-scraped in the first pass (paywalls, JS-rendered, SSL errors). Four sources ingested; Helium Network entity page substantially expanded; outline strengthened with the load-bearing finding from the vote breakdown.
+
+**Critical finding from HIP-143 vote breakdown:** Nova Labs proxy (26.00%) + ferebee proxy (24.00%) = **50% of yes votes** for the proposal authorizing Nova Labs's unilateral pricing authority. Vote passed 90.53% to 9.46% on 763.5M veHNT cast (April 3, 2025). The proposing entity and one of its co-authors cast half the yes votes. This is the smoking-gun evidence for Section 2 of the article.
+
+**Other key data points:**
+- IoT half of Helium generates **$124.77/day** in real Data Credit burns (Q4 2025) — ~$45K/year across the entire IoT network
+- Helium Mobile revenue: $11M annualized ex-discretionary; $22.4M Dec run-rate
+- Discretionary burn experiment (Aug 2025 – Jan 2 2026) artificially propped HNT demand; suspended by Amir Haleem
+- August 1 2025 delegation reset forced operators to re-delegate AND assign a proxy or lose rewards — Foundation explicitly recommends proxy voting, normalizing the concentration HIP-143 documents
+- HIP-148 (Oct 2025): second governance-shifts-economics event in 18 months; mapping rewards converted to Cloud Points (gift cards)
+
+**New sources (4):**
+- [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]] — primary-source vote screenshots
+- [[State of Helium Q4 2025 — Messari]] — quarterly report
+- [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — first-party halving explainer
+- [[Helium Hotspot Earnings 2025 — AMBCrypto]] — upgraded from search-summary to full-article ingestion
+
+**Entity updated:** [[Helium Network]] — Network Revenue (2025) section rewritten with Messari data; HIP-143 vote breakdown documented; HIP-148 added; veHNT Governance Mechanics section added; Helium Mobile Plans section added; 13 source citations now.
+
+**Outline updated:** [[helium-operator-incentives]] — Section 2 anchor evidence is now the HIP-143 proxy-vote breakdown; Section 1 payback math from AMBCrypto cost table; IoT $124.77/day stat added to Section 2; all four source gaps closed.
+
+## [2026-05-16] ingest | 3 sources — Helium operator economics research for article/helium-operator
+
+Web research pass to fill source gaps for the helium-operator article outline. Three new source pages created; Helium Network entity updated with 2024–2026 operator economics data; outline corrected (HIP-99 reference → HIP-82/HIP-52).
+
+**New sources (3):**
+- [[Helium Operator Economics — Bytetree - 2024-03]] — $87/day IoT data credits; operator economics collapse
+- [[Helium Hotspot Earnings 2025 — AMBCrypto]] — $3–45/month range; Lone Wolf zero-PoC rule; halving impact
+- [[Helium Mobile Revenue and Carrier Offload — Sarson Funds - 2025]] — $18.3M annualized; carrier offload figures; T-Mobile/AT&T partners
+
+**Entity updated:** [[Helium Network]] — operator economics section, HIP mechanics section, revenue data
+
+**Outline updated:** [[helium-operator-incentives]] in workspace/outlines/; corrected HIP-99 error; updated source gap list
+
+**Manual ingestion still needed:** HIP-143 vote result (JS-rendered), Messari Q4 2025 (paywalled), AMBCrypto full article (403), Helium halving blog post (SSL cert error)
+
+## [2026-05-16] ingest | 2 sources — Miran-Bowman primary statement + Pope Leo Africa tour; 1 new entity (Michelle Bowman)
+
+Two sources added in a second pass following Day 13 content planning session.
+
+**Miran-Bowman Statement (primary document)**: Fed press release at federalreserve.gov — authoritative text of what Miran and Bowman actually said on May 15. Corrects Reuters framing: they support temporary designation in concept; object to unlimited timeframe specifically; proposed 1-week-to-1-month window with renewal mechanism (new board vote or presidential action). Key phrase: "cannot support this action" = the unlimited version, not the principle. They explicitly contemplated "possible delay" in the swearing-in. Source page created; [[Stephen Miran]] updated (sources 12→13) with corrected framing and primary doc citation; [[Kevin Warsh]] updated (sources 37→38) with corrected nuance and confirmation that "possible delay" was anticipated.
+
+**Pope Leo Africa tour (Reuters, April 17)**: Earliest source documenting Leo's rhetorical escalation arc. Establishes chronology: ~10 months low profile → March 31 off-ramp call (first direct Iran war engagement) → April 13-17 Africa tour (sharpest public denunciations, Trump attacks × 2) → May 14 Sapienza speech. Peru/Shining Path biography added to [[Pope Leo XIV]] as biographical source of his speaking style. Pius XII "ghost" frame documented. [[Pope Leo XIV]] updated (sources 5→7, correcting missed frontmatter bump from morning ingest + adding new source). Source page created.
+
+**New entity**: [[Michelle Bowman]] created (Vice Chair for Supervision; Trump-appointed governor; co-author of May 15 joint statement; first named member of the Miran-Bowman bloc beyond Miran himself). Was a deferred stub from morning ingest.
+
+**Counts after this pass**: sources 703 / entities 259 / concepts 158 / articles 95 / syntheses 26.
+
+**Day 13 plan note**: Note 3 of Day 13 (Primary Source Drop on Miran-Bowman) should use the primary document language rather than Reuters paraphrase. The key correction: they support temporary designation in concept; their objection is the unlimited timeframe. Option C of Note 3 avoids this error but Option A/B should be updated before posting.
+
 ## [2026-05-16] lint+ingest | 6 sources + 1 article — Iran ATG hack, Powell pro tempore + Miran-Bowman bloc, Pope Leo defense critique, Big Tobacco hearing, Chud the Builder, SCOTUS rebuffs VA Dems, 12 Gigawatts published
 
 Branch: `ingest/2026-05-16` (new). Six raw sources + one published article (the May 14 flagship 12 Gigawatts piece, merged via PR #51 to main) ingested across five clusters.
@@ -2598,3 +2689,183 @@ After the initial 7-source batch above, two pre-existing raw clippings (saved by
 - `find wiki -name "*.md" -not -name "CLAUDE.md" | wc -l` = **1222** ✓ matches `total_pages: 1222`
 
 **Wiki totals after** (post-follow-up): 691 sources / 258 entities / 158 concepts / 26 syntheses / 94 articles / 1,230 pages.
+
+## [2026-05-18] ingest | 9 sources — Samsung strike cluster + PJM Q1 2026 grid reset + Oracle Project Jupiter + Gas-to-Power pivot
+
+Sources ingested in response to user request to file the live-news searches used to anchor the Day 15 TCN content plan (`workspace/notes/2026-05-18-monday-options.md`).
+
+**Sources (9)**:
+
+Samsung strike cluster (5):
+- [[Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12]] (paywalled, citation-chain anchor)
+- [[Samsung Union Negotiations Break Down 21 May Strike — HR Online - 2026-05-14]] (Tracy Chan; cleanest demand-structure summary)
+- [[Samsung HBM Strike Could Wrench AI Boom — Fortune - 2026-05-17]] (Catherina Gioino; JPMorgan 2.1–3.5T won OP impact, HBM market shares Samsung 17%/SK Hynix 62%/Micron 21%, $73B 2026 capex)
+- [[Samsung Partial Injunction Against Union — Korea Herald - 2026-05-18]] (Lee Sun-young; Suwon District Court production-line carve-out)
+- [[Samsung Union Resume Pay Talks — Japan Times - 2026-05-18]] (paywalled, May 18 mediation anchor)
+
+AI buildout / grid (2):
+- [[AI Data Center Demand 76 Percent Surge East Coast Grid — SOFX - 2026-05-15]] (PJM Q1 wholesale +76%, capacity +398%, $13B ratepayer incidence)
+- [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]] (Brad Reed; Bowring "never been this short" + Maryland $1.6B + bipartisan opposition framing)
+
+AI buildout / off-grid pivot (2):
+- [[Oracle Project Jupiter Bloom Fuel Cells — DCK - 2026-04-29]] (Shane Snider; Oracle's 1,400-acre $165B campus pivots to Bloom fuel-cell microgrid; 2.45 GW single-microgrid; 92% NOx reduction)
+- [[Gas-to-Power Boom AI Drives 2026 On-Site Energy Shift — Enki - 2026]] (Erhan Eren; Williams $5.1B power-innovation portfolio, midstream-pivot scale)
+
+**New entities (3)**: [[PJM Interconnection]], [[Monitoring Analytics]], [[Bloom Energy]].
+
+**New concepts (4)**: [[HBM]], [[AI Windfall Sharing]], [[Speed to Power]], [[AI Cost Incidence]].
+
+**Updated existing pages**: [[Samsung]] (strike entry overhauled from stale 90K-worker placeholder to confirmed May 2026 specifics; 5 new source citations; Newsletter Relevance extended to include AI Windfall Sharing); [[AI Buildout Grid Constraint]] (PJM Q1 2026 evidence + Oracle Project Jupiter + midstream gas pivot; 4 new related concepts; 3 new key sources).
+
+**Sourcing correction made during ingest**: The first draft of `workspace/notes/2026-05-18-monday-options.md` attributed the Oracle Project Jupiter / Bloom fuel-cell microgrid claim to the Enki AI gas-to-power article. The Enki article does NOT mention Project Jupiter, Bloom, or Crusoe — the Project Jupiter content came from a different page merged into the search-result snippet. The correct primary source is the DCK piece (Shane Snider, April 29 2026). Day 15 plan corrected during this ingest.
+
+**Open follow-up items** (not ingested this pass):
+- Yonhap Korean-language reports on the May 11–12 NLRC mediation (the underlying primary source for the Bloomberg pickup) — worth ingesting directly if a working URL can be obtained.
+- Full Q1 2026 Monitoring Analytics PJM State of the Market report — primary document worth ingesting directly rather than via the SOFX summary.
+- Individual entities not yet given pages despite being named in this batch: [[Williams Companies]], [[Joe Bowring]], [[Rob Gramlich]], [[Grid Strategies]], [[Choi Seung-ho]], [[Suwon District Court]], [[Ministry of Employment and Labor (Korea)]], [[National Labor Relations Commission (Korea)]], [[BorderPlex Digital Assets]], [[Dell'Oro Group]]. Flagged for future ingest if they recur.
+
+## [2026-05-18] ingest (follow-up) | 1 new primary source + 2 paywalled pages enriched — PJM Q1 SOM + Bloomberg + Japan Times
+
+User manually retrieved the paywalled Bloomberg + Japan Times scrapes via archive.ph and downloaded the Q1 2026 PJM State of the Market PDF (Monitoring Analytics, May 14 2026). The PDF is a primary regulatory document; the two paywalled pages are now full-content rather than citation-chain placeholders.
+
+**New primary source (1)**: [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]].
+
+**Key figures from the IMM SOM (load-bearing for the AI cost incidence story)**:
+- Q1 2026 wholesale power: $77.78 → $136.53/MWh (+75.5% YoY; secondary outlets paraphrased as 76%)
+- Total PJM Q1 gross billing: $18.69B → $36.35B (+94.5%)
+- Combined data-center-load capacity-market revenue impact (2025/2026 + 2026/2027 + 2027/2028 BRAs): **$23,100,955,341**
+- Customer-bill incidence (2026/2027 + 2027/2028 BRAs, with Agreement VRR cap): **$13,768,851,483**
+- Without Agreement cap: $26,852,039,314
+- 2027/2028 BRA reliability shortfall: 6,516.6 MW (up from 208.7 MW in 2026/2027)
+- New diesel energy-market net revenue: +1,326%
+- Energy market: COMPETITIVE; Capacity market: NOT COMPETITIVE on every dimension; Synchronized Reserve: flawed; Nonsynchronized Reserve: flawed
+- IMM recommendation: BYONG (Bring Your Own New Generation); explicitly opposes backstop-auction proposals as risk-shifting to other PJM customers
+
+**Direct quotes worth preserving** (from the IMM SOM):
+- "Data center load growth is the primary reason for recent and expected capacity market conditions."
+- "Large data center load additions have already had a significant and irreversible impact on PJM customers." (primary-source basis for SOFX's "significant and irreversible" paraphrase)
+- "Structural market power is endemic to the capacity market."
+- "The market solution is to require data centers to bring their own new generation."
+- "Other PJM customers, whether residential, commercial or industrial, should not be treated as a free source of insurance, or collateral, or financing for data centers."
+
+**Enriched paywalled pages (2)**:
+- [[Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12]] — Yoolim Lee + Eunkyung Seo; full content via archive.ph/Q7PVY. Now carries: Bloomberg's "South Korea grapples with broader questions over how the gains from the AI boom should be distributed" framing; the AmCham Korea warning quote; the Citizen Dividend companion piece reference.
+- [[Samsung Union Resume Pay Talks — Japan Times - 2026-05-18]] — Heekyong Yang, Nithin Coca, Patrick St. Michel; full content via archive.ph/Dniiu. Now carries: President Lee Jae Myung's X post staking out the Korean state position; PM Kim Min-seok's emergency arbitration threat; Nvidia named as a customer expected to stop accepting shipments during the walkout; Samsung = ~25% of Korean exports.
+
+**Updated existing pages**: [[PJM Interconnection]], [[Monitoring Analytics]], [[AI Cost Incidence]], [[AI Windfall Sharing]], [[AI Buildout Grid Constraint]] — primary-source figures replace secondary paraphrases throughout.
+
+**Cleanup**: Removed 2 placeholder raw files (raw/Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12.md and raw/Samsung Union Resume Pay Talks — Japan Times - 2026-05-18.md) that had been created earlier in the session as citation-chain anchors when WebFetch returned 403/402. User-supplied scrapes (raw/Samsung's Labor Talks Fail, Yonhap Says, as Strike Looms.md and raw/Samsung and its South Korean union resume pay talks as strike risks l….md) are now the sole raw artifacts. Wiki/sources/ frontmatter `raw:` paths updated to point to the scraped filenames.
+
+**Sourcing correction made**: The Day 15 TCN content plan (workspace/notes/2026-05-18-monday-options.md) cited "PJM Q1 2026 wholesale +76%" via SOFX. The IMM primary-source figure is **75.5%**. The 76% figure in the live_news block is a rounding by SOFX, not an error in the source — but worth flagging. The $13B figure SOFX cited is precisely $13,768,851,483 per the IMM report. Day 15 figures are within rounding tolerance of the primary source; no correction made to the plan to preserve the document's posting-time state, but future references should cite the IMM SOM directly.
+
+**Follow-on ingest candidate**: [[IMM Reliability Backstop Auction Design Proposal V4 — Monitoring Analytics - 2026-05-08]] — referenced in footnote 4 of the SOM. This is the formal BYONG-anchored alternative to other backstop-auction proposals. Worth ingesting separately if the BYONG-vs-backstop policy fight becomes a newsletter beat.
+
+**Other deferred entities** (mentioned in this follow-up batch but not given pages to avoid fragmentation): [[Yoolim Lee]] (Bloomberg reporter), [[Lee Jae Myung]] (Korean President), [[Kim Min-seok]] (Korean PM), [[Commonwealth of Pennsylvania]], [[National Energy Dominance Council]], [[American Chamber of Commerce in Korea]], [[KOSPI]]. Flagged for future ingest if they recur.
+
+## [2026-05-18] synthesis | Helium HIP-143 and the DePIN Franchise Architecture
+
+Research synthesis filed for the May 22 flagship article (helium-operators-built-the-network). Names the franchise-vs-business analytical move and documents the HIP-143 voter-breakdown evidence (Nova Labs proxy 26% + ferebee co-author proxy 24% = 50% of yes votes). Adds the auto-renewal-by-inaction detail surfaced from the outline: HIP-143's 1-year delegation provision re-armed without further operator participation around April 2026.
+
+The synthesis is reusable for future DePIN governance pieces. The franchise-vs-business test, the proxy-concentration audit, and the auto-renewal-by-inaction audit are transferable analytical moves that apply to other DePIN projects with similar governance structures (Render, GEODNET, io.net, Filecoin worth checking next).
+
+**Cited sources (8):**
+- [[Helium HIP-143 Vote Results — Helium Vote - 2025-04-03]]
+- [[Helium HIP-0143 — Decoupling Service Provider Pricing from Governance]]
+- [[State of Helium Q4 2025 — Messari]]
+- [[Helium Hotspot Earnings 2025 — AMBCrypto]]
+- [[Helium Operator Economics — Bytetree - 2024-03]]
+- [[Helium Halving 2025 — Helium Blog - 2025-07-24]]
+- [[Helium HNT Tokenomics — Tokenomist]]
+- [[Helium Mobile Revenue and Carrier Offload — Sarson Funds - 2025]]
+
+**Cross-references:**
+- Extends [[Chokepoint Control]] to the DePIN protocol layer
+- Article draft: `workspace/drafts/helium-operators-built-the-network.md`
+- Article outline: `workspace/outlines/helium-operator-incentives.md`
+- Sits inside the existing [[DePIN]] concept
+
+**Follow-on artifacts to create** (flagged in the synthesis page):
+- Entity: [[Nova Labs]] — corporate counterparty at the center of the franchise architecture; currently referenced across wiki without its own page
+- Concept: "Franchise vs. Business" — the analytical move this synthesis names; transferable lens for future DePIN governance pieces
+- Concept: "Proxy Concentration Audit" — procedural test for DAO governance votes using proxy delegation
+- Concept: "Auto-Renewal by Inaction" — default-rule design pattern that allows governance structures to re-arm themselves without operator participation
+
+**Index updates:**
+- New subsection "DePIN Series Analysis" added to "## Syntheses"
+- Stats: synthesis pages 26 → 27; total pages 1267 → 1268; last updated 2026-05-16 → 2026-05-18
+
+## [2026-05-19] ingest | 2 new Helium primary sources — HIP-148 proposal text + HIP-148 vote results
+
+Two primary-source pages filed to back the HIP-148 references in the May 22 flagship draft (`workspace/drafts/helium-operators-built-the-network.md`) and the May 20 paid Note ("Thinking Behind the Thinking — Datagram-rug backstage"). Until now, HIP-148 lived in the wiki only as a paraphrase inside [[State of Helium Q4 2025 — Messari]]; the franchise-architecture argument leaned on the proposal mechanism without a direct citation.
+
+**New sources (2)**:
+- [[Helium HIP-0148 — Reallocate Mobile Mapping Rewards]] — primary proposal text fetched directly from helium/HIP GitHub repo (PR #1186, merged 2025-09-23, authored by `madninja`). Full document, not a snippet.
+- [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]] — partial vote outcome. Headline figure (**96.72% for**) and voting window (Oct 3–10 2025) captured from the official @helium X account announcement (status 1978266054574166481). Full proxy breakdown pending manual screenshot capture from heliumvote.com — same constraint as HIP-143 (the vote portal is JS-rendered).
+
+**Updated existing pages**: [[Helium Network]] — HIP-148 entry expanded from a Messari-paraphrase one-liner to a full citation chain with the 96.72% vote outcome, the 24% Service Provider Pool consolidation to Nova Labs, the four repealed HIPs (HIP-79, HIP-87, HIP-114, HIP-118), and the HNT → Cloud Points substitution. Source Appearances list extended with the two new pages. Frontmatter sources count 13 → 15.
+
+**The load-bearing primary-source quote** (for the May 22 flagship and the May 20 Note):
+> "To simplify technical implementation, we propose to emit the full allocation available from Service Provider Rewards and Oracle Operator Rewards to the single Service Provider Nova Labs, allowing Nova to use the pool as needed for protocol development, operations including Oracles, and subscriber incentives." — HIP-148 proposal text
+
+This sentence is unambiguous in a way Messari's paraphrase wasn't. The proposal text itself names the substitution. HIP-148 is now the cleaner second-instance proof of the franchise-architecture pattern that [[Helium HIP-143 and the DePIN Franchise Architecture]] documents — the substitution from HNT to gift-card credits cannot be defended as commercial efficiency the way HIP-143's pricing-authority delegation could.
+
+**Open follow-up items** (not ingested this pass):
+- **Manual screenshot capture** of the heliumvote.com HIP-148 proposal page (URL: https://heliumvote.com/hnt/proposals/2PEJVC3nc2EncXMeyAzwYexRQmBSv6JyvBCJqNWHg76v). This is the same manual-capture step that was performed for HIP-143 in May 2026 and is the single unblocking action to upgrade the HIP-148 vote results page from partial-sourced to fully-sourced. Until then, the proxy concentration question for HIP-148 cannot be answered the way it was for HIP-143 (Nova Labs proxy 26% + ferebee proxy 24% = 50% of yes votes).
+- **The Helium X announcement tweet** (status 1978266054574166481, ~Oct 13 2025) was paywalled to WebFetch (HTTP 402). If captured later via authenticated session or archive.ph, the raw `Helium HIP 148 Vote Results — Helium X Announcement - 2025-10-13.md` placeholder can be upgraded with the full tweet text.
+
+**Index updates**: Two new entries under "DePIN & Crypto" sources after the HIP-143 vote results line. Stats: total sources 701 → 703; last updated 2026-05-18 → 2026-05-19.
+
+## [2026-05-19] ingest (follow-up) | HIP-148 vote results upgraded from partial to fully-sourced — proxy concentration captured
+
+User manually captured two PNG screenshots: the heliumvote.com HIP-148 portal page (showing full vote tally + voter breakdown) and the @helium X announcement tweet (Oct 14, 2025). Screenshots saved to `raw/assets/HIP-148 vote breakdown.png` and `raw/assets/HIP-148 X announcement.png`. The placeholder X-announcement raw file (`raw/Helium HIP 148 Vote Results — Helium X Announcement - 2025-10-13.md`) was removed — the tweet date is Oct 14, not Oct 13 as inferred from the search snippet.
+
+**Updated source page**: [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]] — rewritten from partial-sourced placeholder to full primary-source page. Full tally, voter breakdown table (top 12 voters), and side-by-side comparison to HIP-143 now in place.
+
+**The full vote tally** (now sourced from the portal screenshot, not a Google snippet):
+- Total veHNT cast: **902,275,496.10** (18.2% higher than HIP-143's 763.5M)
+- For: 872,704,450.74 veHNT (**96.72%**)
+- Against: 29,571,045.78 veHNT (3.27%)
+- Date occurred: Oct 10, 2025, 10:51 AM
+
+**The proxy concentration finding (more extreme than HIP-143):**
+- **ferebee proxy: 31.00%** (285.92M veHNT) — up from 24% on HIP-143
+- **Nova Labs proxy: 26.00%** (241.87M veHNT) — flat % share, +21% absolute
+- **Combined: 57% of total vote** (60.5% of yes votes) — up from 50% on HIP-143
+- ferebee's absolute veHNT grew **+55.5%** between the two votes (183.85M → 285.92M) while Nova Labs grew +21% — the proposing-entity proxies are accumulating veHNT faster than the network average
+- Single named "Against" voter: **Keith Rettig** at 1.00% (13.98M veHNT). Every other named proxy in the top 12 voted For.
+
+**Why this matters for the May 22 flagship draft**: The franchise-architecture pattern documented in [[Helium HIP-143 and the DePIN Franchise Architecture]] is now grounded in *two* primary-source vote receipts showing the same concentrated outcome — and the second instance is more concentrated than the first. The synthesis no longer needs hedging language like "if the HIP-148 breakdown looks similar." It does look similar — and worse. The veHNT-accumulation rate finding (ferebee +55.5% in 6 months) is a new analytical move: the franchise architecture is *self-reinforcing through the lock-up mechanism*, which means future HIPs will be progressively easier to pass without operator participation.
+
+**Updated existing pages**:
+- [[Helium Network]] — HIP-148 entry expanded with full tally + the ferebee veHNT-accumulation finding; Source Appearances list entry for HIP-148 vote results upgraded from "partial pending capture" to "primary-source vote screenshots"
+- `wiki/index.md` — HIP-148 vote results line rewritten to reflect full sourcing
+
+**Authorship question worth flagging for follow-up**: HIP-148 was authored by GitHub user `madninja`. HIP-143 was authored by "Inversion Capital, zer0tweets, Nova Labs, ferebee." `madninja`'s relationship to ferebee and Nova Labs is not disclosed in the HIP-148 proposal text. The vote outcome doesn't depend on resolving this (ferebee + Nova Labs proxies carried it regardless), but the authorship chain matters for accurately naming who designed the HNT → Cloud Points substitution. A follow-up entity page for [[madninja]] (or confirmation that the handle maps to one of the HIP-143 named authors) would close the loop.
+
+## [2026-05-19] ingest | HIP-53 and HIP-138 vote results — primary-source screenshots for the pre-concentration baseline
+
+User captured two PNG screenshots from the heliumvote.com governance portal during cover-image fact-check for the "You Own the Hotspot" article: the HIP-53 vote results (closed July 25, 2022) and the HIP-138 vote results (closed November 22, 2024). Screenshots saved to `raw/assets/HIP-53 vote results.png` and `raw/assets/HIP-138 vote results.png`. Together with the previously-ingested HIP-143 and HIP-148 vote-result screenshots, the wiki now holds primary-source vote receipts for the entire Helium governance trajectory cited in the May 22 flagship.
+
+**New source pages**:
+- [[Helium HIP-53 Vote Results — Helium Vote - 2022-07-25]] — 97.22% for / 2.78% against on **2.44M veHNT total network**. Establishes the MOBILE token + subDAO and sets $0.50/GB data transfer rate. **Authors: @nrnrsdwsrk, @kjake-vmcc, @gabreyem2367, @asknsy, Joey Padden — Nova Labs is not a HIP-53 author.** This is a correction surface for any article that attributes HIP-53 to Nova Labs.
+- [[Helium HIP-138 Vote Results — Helium Vote - 2024-11-22]] — 92.54% for / 7.45% against on **476.22M veHNT**. **Top voter 15.00% (anonymous wallet `HKcAP…NgsJ`)** — no labeled proxies in the top 12. The pre-concentration snapshot of the network's governance distribution. The same `HKcAP…NgsJ` wallet later cast the largest Against vote on HIP-143 (8.00%, 63.6M veHNT) — the largest unlabeled dissent in the wiki, distinct from Keith Rettig's labeled HIP-148 dissent.
+
+**The pre/post-concentration snapshot the wiki now holds**:
+
+| Vote | Date | Total veHNT | Top voter % | Proxy labels in top 12 | Top 2 combined |
+|---|---|---:|---:|---|---:|
+| HIP-53 | Jul 25, 2022 | 2.44M | (not displayed in 2022 portal view) | none | n/a |
+| HIP-138 | Nov 22, 2024 | 476.22M | **15.00% (anonymous)** | **none in top 12** | 24% |
+| HIP-143 | Apr 3, 2025 | 763.50M | 26.00% (Nova Labs) | Nova Labs, ferebee, Jay M., others | 50% |
+| HIP-148 | Oct 10, 2025 | 902.28M | 31.00% (ferebee) | ferebee, Nova Labs, Jay M., AndrewsMD, Keith Rettig | 57% |
+
+The Nov 2024 → Apr 2025 step is the inflection: the franchise architecture becomes visible. Before that step, the top voter was an anonymous 15% wallet with no published label.
+
+**Article-level correction surfaced**: Articles dating HIP-138 to "January 2025" should specify: vote closed **November 22, 2024**; migration completed January 2025. The 2-month gap is material for any timeline-of-governance argument. Article-level correction for HIP-53: authored by Joey Padden et al., NOT Nova Labs.
+
+**Open follow-up**: HIP-138's "Proxy Name" column is uniformly blank for the top 12 voters in the captured screenshot. Either (a) no labels were set in November 2024, or (b) the labels visible on HIP-143/148 are a portal-display difference, not a presence-vs-absence difference. Worth a cross-check before any article rests load-bearing weight on "no labels existed in 2024." Possible resolution path: query the on-chain proxy registry for label-setting timestamps.
+
+**Updated existing pages**:
+- `wiki/index.md` — two new entries added under "DePIN & Crypto" sources before the HIP-143 proposal line. Total sources 719 → 721; updated date bumped to 2026-05-19.
+
+**Cover-image consequence**: The "You Own the Hotspot" article cover-image draft v1 contained factual errors that the new screenshots surfaced (HIP-53 dated May 12 2022 instead of July 25 2022; HIP-53 authored as Nova Labs; HIP-138 dated January 15 2025 instead of November 22 2024; HIP-148 dated October 27 2025 instead of October 10 2025; fabricated ferebee Proxy Holdings sub-wallet breakdown; calculated rather than actual ferebee veHNT at HIP-148). Cover prompt v2 issued at `workspace/drafts/you-own-the-hotspot-nova-labs-owns-what-it-earns/cover-prompt-v2.md` with corrections applied and a new "Top Proxy Share by Vote (rising)" panel replacing the fabricated holdings table.
