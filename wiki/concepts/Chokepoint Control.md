@@ -4,7 +4,7 @@ type: concept
 tags: [power, infrastructure, geopolitics, energy]
 created: 2026-04-06
 updated: 2026-05-12
-sources: 21
+sources: 22
 ---
 
 ## Definition
@@ -62,3 +62,4 @@ Chokepoint control is the ability of a state, organization, or actor to regulate
 - [[China Pauses Some Rare Earth Export Curbs — FDD - 2025-11-12]] — bureaucratic chokepoint variant: rare-earth licensing as the operational chokepoint over Western military supply chains
 - [[China Leverages Paperwork to Ration Rare Earths — East Asia Forum - 2025-11-20]] — "one batch, one licence" rule + customs friction as the mechanism; 91-93% magnet-export drops to Korea/Japan in spring 2025 documented
 - [[US-China Trade Agreement Export Controls — MoFo - 2025-11-13]] — legal architecture of the bureaucratic chokepoint; Busan pause suspends speculative escalation but leaves April 2025 operational regime ambiguous
+- [[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]] — U.S. legal-rhetorical fallback after operational [[Project Freedom]] retraction; Rubio frames Iranian Hormuz toll as "completely illegal" under UNCLOS Article 38 freedom-of-transit doctrine, despite U.S. non-membership in UNCLOS — the regulatory-chokepoint variant applied to a geographic chokepoint when the physical-overlay attempt fails

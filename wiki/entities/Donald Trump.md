@@ -94,6 +94,10 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - [[Curtis Yarvin]] — Yarvin's neoreactionary ideas provided intellectual framework for "post-democratic" Trumpist rhetoric
 - [[FEMA]] — Trump pushing to downsize agency; appointed [[Gregg Phillips]] to lead disaster response
 
+## AI Policy Actions (2026)
+
+- **May 21, 2026 — AI Executive Order postponement**: Trump publicly announced the postponement of a planned AI executive order signing ceremony during an unrelated Oval Office event, after a Punchbowl reporter posted the news on X. Stated reason: "Because I didn't like certain aspects of it, I postponed it. I think it gets in the way of, you know, we're leading China, we're leading everybody, and I don't want to do anything that's going to get in the way of that lead." The draft EO (per CBS sourcing) included: securing Pentagon systems, securing federal civilian systems, promoting federal AI tool use, and a **voluntary framework with AI developers covering pre-public access to select models**. CBS does not pin Trump's objection to any specific clause. No reissue timeline announced. The voluntary-pre-public-access provision is the candidate red-flag clause given OpenAI's open IPO window post-Musk verdict and Anthropic's Pentagon-refusal track. [[Trump Postpones AI Executive Order — CBS - 2026-05-21]]
+
 ## Source Appearances
 
 - [[Democrats sweep the first major elections of Trump's second term]] — reaction to Democratic sweep; "communist" attack on Mamdani

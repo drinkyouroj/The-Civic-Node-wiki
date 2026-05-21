@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, politics, antitrust, power]
 created: 2026-04-07
 updated: 2026-05-07
-sources: 18
+sources: 19
 ---
 
 ## Overview
@@ -18,6 +18,7 @@ Meta Platforms (formerly Facebook) is the US-based company controlling Facebook,
 - Meta launching standalone AI chatbot to challenge Anthropic's Claude and OpenAI's ChatGPT [[Anthropic Raises $3.5B at $61.5B Valuation]]
 - Llama open-weight models: most popular open-source AI model family
 - FTC under Lina Khan brought major antitrust suit over Instagram/WhatsApp acquisitions; case ongoing as of 2025
+- **Breathitt School District settlement (May 21, 2026)**: Meta settled with Breathitt County School District (Kentucky) days before the mid-June 2026 trial start in federal court in Oakland (the same MDL court as the Musk-OpenAI verdict). Terms undisclosed. Snap, TikTok, and YouTube settled the same case earlier the previous week. The trial was positioned as the bellwether for **1,200+ school districts** with similar claims. Meta is the last of four major defendants to settle. **Prior precedent**: $6M Los Angeles jury verdict in early 2026 ("Kaley" plaintiff) — first jury verdict on the addictive-design product-liability theory, now on appeal to the Ninth Circuit. **Whistleblower-tracking layer**: Arturo Béjar (former Meta employee) testified against the company; Tech Transparency Project (week of May 17, 2026) documented Meta paying Instagram influencers to shape narrative around the Instagram Teen Accounts product. **Next pressure point**: state-AG bellwether trial scheduled for August 2026 in the same Oakland federal court — cannot be settled the same way. [[Meta Settles Breathitt School Social Media Addiction Case — BBC - 2026-05-21]]
 
 ## Newsletter Relevance
 Meta sits at the intersection of three major themes: algorithmic power over democratic discourse, platform antitrust, and the AI race. Its internal research on algorithmic divisiveness — and its pattern of knowing and not fixing the problem — is the foundational documented case for platform liability. Its AI pivot (open-source Llama, standalone chatbot) makes it a wildcard in the AI competition narrative.
@@ -40,6 +41,7 @@ Meta sits at the intersection of three major themes: algorithmic power over demo
 - [[Social Media Algorithm and How They Work in 2025 — Sprinklr]] — Instagram intent modeling, Threads crossover influence, Facebook four-step ranking pipeline, "AI moderator assist"
 - [[Meta New Albany Substation Inherits Intel Project — WOSU - 2025-11-26]] — joint AEP Ohio + Meta PUCO filing (Nov 24 2025) to draw power from Green Chapel substation built for Intel's $28B fab; three-year arrangement (Jan 1 2026 - Dec 31 2028); inheritance pattern that rhymes with Microsoft/Stargate Abilene
 - [[El Paso Electric Filings on Meta $10B Data Center — El Paso Matters - 2026-03-29]] — Meta's $10B El Paso data center; 366 MW gas-fired plant via 813 modular Enchanted Rock generators; explicit "bridge period" cost-shifting (Meta pays 1-5 years, then ratepayers); local opposition documented
+- [[Meta Settles Breathitt School Social Media Addiction Case — BBC - 2026-05-21]] — May 21 2026 settlement before mid-June trial; Breathitt was the bellwether for 1,200+ school districts; terms undisclosed; state-AG trial August 2026 is the next pressure point
 - [[Google Intersect Power Acquisition — Introl - 2026-01-20]] — Meta's nuclear-partnership track (Vistra/TerraPower/Oklo for 6.6 GW by 2035) cited as parallel to Google's vertical-integration acquisition
 - [[Meta AEP Ohio Power Swap for Intel Delay — DCD - 2026-05-06]] — DCD trade-press companion to the WOSU coverage; adds 250 MW capacity for three years (Meta initially 120 MW, ramps to 250 MW in April 2026); full 500 MW Intel allotment restored at start of 2029; also notes Meta's separate 200 MW Socrates South gas plant (June 2025 PUCO approval) at the same New Albany site
 - [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — McKinsey foundational reference; Meta co-founded "Emission First" alliance (end of 2022) with Amazon as alternative to hourly-matching 24/7 PPAs
