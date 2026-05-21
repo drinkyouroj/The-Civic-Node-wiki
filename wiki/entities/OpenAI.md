@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, ai, power]
 created: 2026-04-07
-updated: 2026-04-22
-sources: 32
+updated: 2026-05-21
+sources: 34
 ---
 
 ## Overview
@@ -28,6 +28,9 @@ OpenAI is the San Francisco-based AI company behind ChatGPT and the GPT model se
 - **TBPN acquisition (Apr 2026)**: Acquired podcast TBPN for a reported sum in the "low hundreds of millions" (FT); WSJ reported TBPN on track for $30M+ revenue. TBPN had 58K YouTube subscribers. Chris Lehane (OpenAI VP of Global Affairs) oversees it. Ben Thompson called OpenAI "the short bus at the end of the rainbow" in response. [[OpenAI Acquires TBPN — TechCrunch]] [[Big A — The Crisis Got Weirder (RAM Apocalypse Update)]]
 - **Sora shuttered (Mar 2026)**: Discontinued the consumer video app and API; Sora research team redirected to "world simulation research" for robotics. Part of broader cost-cutting. ChatGPT image generator unaffected. [[OpenAI Pulls the Plug on Its Sora AI Video App]] [[OpenAI Shutters Sora App — CNBC]]
 - **GPT 5.4 Cyber**: OpenAI has a cyber-security-focused model (GPT 5.4 Cyber) described as highly capable — parallel to [[Anthropic]]'s gated Claude Mythos. Context for the Mythos breach investigation. [[Claude Mythos Unauthorised Access — BBC]]
+- **Musk v. Altman verdict (May 18, 2026)**: Federal jury in U.S. District Court (Oakland) unanimously rejected [[Elon Musk]]'s $150B suit after less than 2 hours of deliberation. Jury found Musk filed after the relevant statutes of limitations expired (3-year deadline Aug 5, 2021 for breach of charitable trust; 2-year deadline Aug 5, 2022 for unjust enrichment). Judge [[Yvonne Gonzalez Rogers]] dismissed claims on the spot. **Verdict removes one of the final roadblocks to OpenAI's expected IPO this year**, which could be one of the largest in history; valuation cited at $730B during trial. Musk's antitrust claims (added November 2024) technically remain alive but judge has signaled they are "not very good claims." [[Musk-OpenAI Jury Verdict — NYT - 2026-05-18]] [[Musk-OpenAI Jury Verdict — Ars Technica - 2026-05-18]]
+- **Sam Altman credibility exposure from trial**: three weeks of testimony attacking Altman's truthfulness; New Yorker's pre-trial 16,000-word "Sam Altman May Control Our Future — Can He Be Trusted?" piece (Apr 13, 2026); Steven Molo's closing argument that no one would walk a bridge "built on Sam Altman's version of the truth." Musk lost the case but the credibility frame is now on the public record going into the IPO road show.
+- **Catherine Bracy / EyesOnOpenAI institutional vector**: post-verdict statement urged CA AG [[Rob Bonta]] to revisit OpenAI's restructuring agreement, order an independent valuation of the nonprofit's assets, and compel their transfer to a truly independent charitable entity. The verdict closed the Musk vector but opens the AG-revisit vector.
 
 ## Newsletter Relevance
 OpenAI's scale and Microsoft relationship create a structural advantage that smaller AI companies (Anthropic, Mistral) are racing to overcome. The Microsoft deal is simultaneously the source of its enterprise dominance and a target of antitrust scrutiny. OpenAI is also the primary subject of EU AI Act high-impact model provisions — the first company to face systemic risk assessment requirements.
@@ -67,6 +70,8 @@ OpenAI's scale and Microsoft relationship create a structural advantage that sma
 - [[Florida's attorney general announces criminal investigation into OpenAI]] — Florida AG criminal investigation over FSU shooting; first criminal investigation of an AI company for chatbot outputs
 - [[Claude Mythos Unauthorised Access — BBC]] — GPT 5.4 Cyber referenced as OpenAI's parallel gated cyber-security model
 - [[Hyperscaler 24-7 Clean Power Race — McKinsey - 2024-12-17]] — McKinsey foundational AI-buildout reference; ChatGPT query cited as consuming ~10x more power than a Google search query, framing the demand-side rationale for hyperscaler 24/7 PPAs and grid-capacity buildout
+- [[Musk-OpenAI Jury Verdict — NYT - 2026-05-18]] — verdict-day live blog; $730B valuation cited; IPO obstacle removed
+- [[Musk-OpenAI Jury Verdict — Ars Technica - 2026-05-18]] — verdict-day coverage; Microsoft statement confirming "untimely" dismissal framing
 
 ## Open Questions
 - What is the status of the Microsoft antitrust lawsuit?

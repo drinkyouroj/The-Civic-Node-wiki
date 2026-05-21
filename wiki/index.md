@@ -1,10 +1,10 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-19
-total_pages: 1270
-total_sources: 721
-total_entities: 262
+updated: 2026-05-21
+total_pages: 1273
+total_sources: 726
+total_entities: 263
 total_concepts: 162
 total_syntheses: 27
 total_articles: 95
@@ -23,6 +23,48 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-21 Ingest — Musk-OpenAI jury verdict + Warsh swearing-in scheduled (3 sources, 1 new entity, 5 existing entity updates)
+
+Deferred-ingest pass clearing the three raw files committed at `2cabe08` ("ingest: 2026-05-18 — Musk-OpenAI verdict (x2) + Warsh sworn in as Fed chair"). Plus opportunistic creation of one new entity ([[Hivemapper Foundation]]) to fill the gap surfaced in Day 18 content planning. Two known source-page gaps remain pending raw file capture: (1) Samsung May 21 deal terms (12% OP bonus pool, 200T/100T won triggers, May 22-27 KST vote); (2) Hivemapper Foundation May 2 10M HONEY directive (primary source is paywalled X post 2050688549612384573).
+
+**Legal / AI / IPO (2)**:
+- [[Musk-OpenAI Jury Verdict — NYT - 2026-05-18]] — Cade Metz + Mike Isaac, NYT live-blog, May 18 2026; 9-member jury, Oakland federal court, less than 2 hours of deliberation; statute-of-limitations dismissal (Aug 5 2021 charitable-trust cutoff, Aug 5 2022 unjust-enrichment cutoff); $150B suit dismissed; OpenAI valued at $730B at trial; IPO obstacle removed. Musk attacked Judge Yvonne Gonzalez Rogers as "activist Oakland judge" on X; announced appeal to Ninth Circuit; antitrust claims technically alive but judge calls them "not very good." Catherine Bracy (EyesOnOpenAI) urges CA AG Bonta to revisit restructuring agreement. NYT disclosure: NYT is itself an OpenAI/Microsoft copyright-litigation party.
+- [[Musk-OpenAI Jury Verdict — Ars Technica - 2026-05-18]] — Ashley Belanger, Ars Technica, May 18 2026; tighter coverage of same verdict with Musk-side emphasis. Musk attended Beijing summit with Xi/Trump during trial closing rather than complying with court availability order; Musk's lawyers "sunken in their chairs"; OpenAI lead lawyer William Savitt (former Musk attorney) "spent days grilling Musk on the stand, seemingly taking advantage of his prior experience" — the personal-history mechanism. Microsoft statement reproduced verbatim.
+
+**Monetary policy / Fed handoff (1)**:
+- [[Warsh Sworn In Friday — Reuters - 2026-05-18]] — Reuters Washington bureau (Burns/Holland/Ward/Psaledakis/Saphir), May 18 2026; **Kevin Warsh swearing-in confirmed for Friday May 22 at the White House by Trump**. Powell-pro-tempore bridge runs 7 days (May 15 → May 22). First Warsh-chaired FOMC June 16-17; rate-futures markets assign effectively zero probability of a change from current 3.50%–3.75% range — markets betting Warsh cannot deliver Trump's expected rate cut. Bond yields shot higher Friday May 15 pricing for sticky inflation and possible **hikes** as early as December — complete inversion of the rate-cut-pressure framing. Goolsbee (Chicago Fed) on Fox Business May 18: "We've got an inflation problem... services inflation is high and rising and that's probably not coming from oil, it's probably not coming from tariffs." First named Powell-bloc Fed president signaling FOMC will not silently follow Warsh on rate cuts. Minor date discrepancy with earlier CNBC source: Reuters says "May 13 vote" vs. CNBC's "May 12" — worth reconciling next pass.
+
+**New entity (1)**:
+- [[Hivemapper Foundation]] — stub entity for the governance arm of the Hivemapper decentralized mapping network. Created 2026-05-21 to address gap surfaced during Day 18 content planning (Note 2 PSD). Documents the May 2, 2026 announcement of 10M HONEY in extra contributor incentives through June 30 directed at "green" and "orange" roads on a new in-app coverage map. Fact-check note embedded: aggregator coverage (CoinMarketCap CMC AI) characterizes the program as "designed to create buy pressure on HONEY" — that framing is **editorial paraphrase, NOT a direct Foundation quote**. Entity flags raw-file capture as the next-session priority for the Hivemapper / Bee Maps / HONEY supporting page cluster.
+
+**Updated existing pages**:
+- [[Kevin Warsh]] (sources 37→38) — confirmation/handoff section rewritten to reflect May 22 swearing-in confirmation; markets-priced rate-hike pressure framing added; Goolsbee opening-shot quote added; minor date discrepancy with CNBC source flagged.
+- [[Elon Musk]] (sources 10→12) — overview updated to reflect verdict dismissal; new Key Facts entries for May 18 verdict (statute-of-limitations, 9-juror unanimity, less-than-2-hours deliberation, Ninth Circuit appeal commitment, Beijing-summit absence during own trial closing); two new source citations; six new open questions.
+- [[OpenAI]] (sources 32→34) — May 18 verdict bullet added with $730B valuation cite and IPO obstacle framing; Sam Altman credibility-from-trial exposure documented separately; Catherine Bracy / EyesOnOpenAI institutional vector flagged as the post-verdict AG-revisit lane; two new source citations.
+- [[Sam Altman]] (sources 11→13) — defendant-cleared-by-jury entry added with explicit "substantive question never reached" framing; Molo closing-argument quote attacking credibility documented verbatim; New Yorker pre-trial "can he be trusted" piece referenced as the credibility-frame architecture; IPO road show open question added; two new source citations.
+- [[Samsung]] (sources 26→26) — May 20-21 tentative deal entry added documenting 12% operating-profit bonus pool, 10.5% stock + 1.5% cash, no DS-division ceiling, 200T won (2026-2028) / 100T won (2029-2035) trigger thresholds, May 22-27 KST ratification window. **Source-page citations pending raw-file capture** (Seoul Economic Daily, TechTimes, wccftech, Japan Times, Bloomingbit, crypto briefing — referenced by name only). Three new open questions added on ratification outcome, chokepoint-labor structural spread, and hyperscaler customer pricing incidence. Note: sources count did NOT change because no new wiki source pages exist yet for the deal coverage; will update when raw files captured.
+
+**Newsletter angles surfaced**:
+- *The verdict-removes-IPO-roadblock arc*: NYT framed the dismissal as removing "one of the final roadblocks" to OpenAI's expected IPO. The procedural ruling did real institutional work — the substantive "stole a charity" question was never reached but the road show is now clear to launch. Process-as-outcome.
+- *The Sam Altman credibility carry-forward*: trial succeeded reputationally even as it failed legally. Three weeks of Altman-trustworthiness attacks + the New Yorker pre-trial framing + Molo's "bridge built on Sam Altman's version of the truth" closing — the credibility wedge is now on the public record going into the IPO. The editorial question is whether anchor investors price it in.
+- *The Catherine Bracy / EyesOnOpenAI institutional opening*: with the Musk vector closed, the AG-revisit vector opens. Bracy's call for CA AG Bonta to revisit the restructuring is the live institutional thread that survives the verdict. Florida AG ([[Florida's attorney general announces criminal investigation into OpenAI]]) already running a criminal-track lane. The "states-as-the-actual-regulators" frame extends across both vectors.
+- *The Warsh-inherits-the-opposite-of-his-mandate arc*: nominated to deliver rate cuts; markets pricing for rate hikes by December. The Iran-energy-shock layer (which extends [[The Strait Is the Mandate]]) is what flipped the FOMC concern from look-past to lean-against. Trump's foreign policy is creating the inflation regime Warsh now has to manage.
+- *The Goolsbee opening-shot as the institutional-resistance signal*: Powell-bloc Fed presidents are not going silent under Warsh. The Family Fight communication model (open-disagreement-behind-closed-doors-then-public-unity) gets its first stress test at the June 16-17 FOMC. Goolsbee's public Fox Business statement is the early read.
+- *The chokepoint-labor structural-extraction precedent (Samsung May 20-21 deal)*: first major industrial labor action to extract a **permanent, profit-indexed share of an AI-chokepoint chokepoint's operating profit through 2035** with no division-level ceiling. The deal indexes wages to operating profit rather than negotiating COLAs — a different mechanism that compounds with chokepoint pricing power rather than just keeping up with inflation. Worth tracking whether SK Hynix, TSMC, ASML wage cycles in 2026-Q3 absorb similar structures.
+
+**Source-page gaps flagged**:
+- Samsung May 21 deal coverage (multi-outlet: Seoul Economic Daily, TechTimes, wccftech, Japan Times, Bloomingbit, crypto briefing) — drop primary screenshots/clippings into raw/ next session for formal source-page ingest.
+- Hivemapper Foundation May 2 X post (post ID 2050688549612384573) — paywalled to non-logged-in fetch; requires X-authenticated capture or screenshot into raw/.
+- Bee Maps $32M raise (PR Newswire, 2026) — referenced via search but not yet captured.
+- Messari Hivemapper project page + tokenomist.ai Hivemapper page — referenced in Day 18 plan source list but not formally ingested.
+
+**Deferred stubs** (wikilinks left in newly-created/updated pages but no entity/concept page created):
+- People: Cade Metz, Mike Isaac, Ashley Belanger, Marc Toberoff, Steven Molo, William Savitt, Greg Brockman (referenced repeatedly), Catherine Bracy, Dorothy Lund, Tre Lovell, Tim Draper, Oren Etzioni, Ross Gerber, Austan Goolsbee (referenced; promote next cycle), Rob Bonta
+- Orgs: EyesOnOpenAI, Allen Institute for A.I., Wachtell Lipton (Savitt's firm), Ronald V. Dellums U.S. Courthouse
+- Concepts: Hivemapper, Bee Maps, HONEY (the token), Franchise vs Business (flagged by [[You Own the Hotspot]] flagship; promote when piece publishes Friday)
+
+**Helium Halving duplicate raw note**: Two raw files exist for the same Helium Halving 2025 article — `Helium Halving 2025 What It Means for Hotspot Operators, HNT Holders, and Network Governance.md` (7,462 bytes, May 16 ingest, blog.helium.com source) and `Helium Halving 2025 What It Means for Hotspot Operators, HNT Holders….md` (8,034 bytes, May 19 archive.ph fallback). The existing source page `[[Helium Halving 2025 — Helium Blog - 2025-07-24]]` references the first file. The second is a redundant archive.ph fallback. Both retained per the raw/ immutability rule; flagged here so future-self knows it's a known redundancy not a missing-ingest.
 
 ### 2026-05-18 Ingest follow-up — PJM Q1 SOM primary document + Bloomberg/Japan Times scraped content (1 new primary source, 2 paywalled pages enriched)
 
@@ -1165,7 +1207,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Arthur Burns]] — Fed Chair 1970–1978; capitulated to Nixon pressure on inflation; the cautionary archetype Powell is trying not to be
 - [[Paul Volcker]] — Fed Chair 1979–1987; defeated Great Inflation through brutal rate hikes; archetype of central bank independence under political pressure
 - [[William McChesney Martin]] — Fed Chair 1951–1970; longest-serving in history; defied LBJ's Johnson Ranch pressure; the actual benchmark for Fed independence
-- [[Kevin Warsh]] — Former Fed Governor (2006-2011); confirmed as Fed Chair April 2026; "independent inside of government, not independent of government" semantic capture; hawk-to-dove pivot; 32 sources
+- [[Kevin Warsh]] — Former Fed Governor (2006-2011); confirmed as Fed Chair May 12-13 2026 (51-45 / "almost party-line"); sworn in May 22 2026; "independent inside of government, not independent of government" semantic capture; hawk-to-dove pivot; 38 sources
 - [[Merrick Garland]] — AG 2021–2025 under Biden; subject of CNN's "lost year" retrospective; froze Trump investigations before 2022 midterms; 2.5-year delay to Jan 6 indictment; cross-partisan anchor for institutional-gaslighting thesis
 - [[Eric Holder]] — AG 2009–2015 under Obama; March 2013 Senate Judiciary testimony articulating "too big to jail" reasoning; zero senior Wall Street prosecutions during tenure; foundational cross-partisan anchor for institutional gaslighting
 - [[Thomas Massie]] — Rep. R-KY; chief Republican sponsor of the Epstein Files Transparency Act; publicly stated "DOJ did break the law by making illegal redactions and by missing the deadline"; cross-partisan smoking gun for Epstein non-release
@@ -1291,12 +1333,13 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Turning Point USA]] — Conservative youth advocacy organization; founded by Charlie Kirk 2012; major MAGA institutional actor
 - [[January 6 Capitol Riot]] — Jan 6 2021 attack on US Capitol; Trump culpability documented by Jack Smith; pardons issued
 - [[Helium Network]] — DePIN protocol; crowdsourced LoRaWAN IoT coverage; HNT tokenomics; Proof of Coverage vulnerabilities
+- [[Hivemapper Foundation]] — Governance and incentive-administration arm of the Hivemapper decentralized mapping network; May 2 2026 10M HONEY coverage-map directive (green/orange/teal road classifications); stub entity flagged for raw-file capture; structural parallel to [[Helium Foundation]] / [[Nova Labs]] split
 - [[Render Network]] — DePIN protocol; aggregates spare GPU compute; creator economy use cases; RENDER token
 - [[Gala Games]] — Web3 entertainment ecosystem; GalaChain; gaming/music/film; capital-gating controversy
 - [[Tether]] — World's largest stablecoin (USDT); registered BVI; offshore; GENIUS Act loophole beneficiary
 - [[Circle]] — US-based fintech; issuer of USDC (second-largest stablecoin); GENIUS Act primary compliance model
 
-- [[Samsung]] — World's largest memory chip maker; DRAM/HBM producer; OpenAI 40% supply deal; helium-dependent; labor strike threatened
+- [[Samsung]] — World's largest memory chip maker; DRAM/HBM producer; OpenAI 40% supply deal; helium-dependent; May 20-21 2026 tentative labor deal averted May 21 walkout (12% OP bonus pool, no DS-division ceiling, through 2035); ratification vote May 22-27 KST
 - [[SK Hynix]] — South Korean memory chip maker; global DRAM leader (33.2% Q3 2025); OpenAI dual LOI counterparty; 70% HBM operating margin
 - [[Micron]] — Third DRAM maker (~25.7% Q3 2025); exited consumer Crucial brand Dec 2025; pivoting to HBM + enterprise
 - [[TBPN]] — Silicon Valley founder podcast; acquired by OpenAI April 2026 for reported "low hundreds of millions"; Chris Lehane oversight
@@ -1693,12 +1736,12 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 703 |
+| Total sources ingested | 726 |
 | Published articles tracked | 95 (84 standalone + 11 episodes) |
-| Entity pages | 258 |
-| Concept pages | 158 |
+| Entity pages | 263 |
+| Concept pages | 162 |
 | Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
-| Last updated | 2026-05-19 |
+| Last updated | 2026-05-21 |
 
 ### 2026-05-16 New Pages (lint + ingest)
 
