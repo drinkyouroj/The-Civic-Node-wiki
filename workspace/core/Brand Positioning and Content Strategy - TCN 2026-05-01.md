@@ -332,7 +332,7 @@ Reddit and Hacker News are where the audience is, but they cannot be worked as d
 
 ### Posting Cadence
 
-**Substack:** One substantive issue per week (1,500 to 2,500 words). Consistent send day — Friday is optimal for this audience (read Friday morning, consumed Friday or Saturday night). Optionally: one shorter paid-only note (400 to 600 words) mid-week as a paid-tier benefit. Do not post daily anything. Daily kills paid conversion in this cohort.
+**Substack:** One substantive issue per week (1,500 to 2,500 words). Consistent send day and time — **Friday 6–7 PM ET**, which lands the email directly in the audience's 10 PM–midnight deep-read window without depending on a morning save-and-return. (The earlier Friday-AM convention banked on the subject line earning a "save for later" from the morning skim; the evening send removes that dependency by arriving in the inbox a few hours before the deep-read window opens.) Optionally: one shorter paid-only note (400 to 600 words) mid-week as a paid-tier benefit. Do not post daily anything. Daily kills paid conversion in this cohort.
 
 **X / Twitter:** One to two threads per week. One tied to the main Substack issue. One optional standalone observation — a quoted primary source, a data point with one sentence of analysis, a short take on a developing story. Do not post more than twice per day on average. Volume is not the signal; sharpness is.
 
@@ -380,7 +380,7 @@ The editorial standard is: "if I'm wrong, you can check." Every factual claim th
 Summary and analysis are different products. Analysis requires taking a position. If the piece's conclusion is "it is complicated," the piece has not finished the work. Hedging where evidence is thin is acceptable and must be stated explicitly ("the evidence here is thinner than I'd like"). Hedging as a default is a failure mode.
 
 **4. Would this subject line earn a save, not just an open?**
-The audience skims email at 7am and reads at 11pm. The subject line must earn the "save for later" from the morning reader — not the "open now." Does the subject line name a specific, surprising, concrete claim? Or does it describe a topic? Topic descriptions get skimmed. Specific claims get saved.
+The audience receives the email at 6–7 PM ET and reads in the 10 PM–midnight deep-read window. The subject line must earn the "open when I sit down to read tonight" decision a reader makes a few hours after the send — not the inbox-triage scroll on arrival. Does the subject line name a specific, surprising, concrete claim? Or does it describe a topic? Topic descriptions get scrolled past. Specific claims get opened.
 
 **5. Is the voice in here — or is it generic?**
 Read the first two paragraphs. Could this have been written by anyone with a passing familiarity with the subject? If yes, the voice has not done its work. The voice should be identifiable in the first paragraph: dry, precise, committed, sardonic where appropriate, never performing. If it reads like it could be anyone's newsletter, revise until it reads like it could only be this one.

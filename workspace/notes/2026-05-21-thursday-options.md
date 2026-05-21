@@ -24,20 +24,25 @@ duplication_audit:
     Day 17 pivoted free-tier Notes away from Helium so Friday's flagship has clean air. Day 18 (today) holds that pivot. Note 2 (PSD on Hivemapper Foundation) is the non-Helium DePIN comparable the Day 17 forward look pre-mapped. Note 3 (CDC) is the structural argument the Friday flagship rests on, made before the flagship lands and using non-Helium evidence so the flagship still gets to introduce its own specifics. Note 1 (Samsung deal OO) is the live-news anchor, replacing the autonomous-run-mode caveat from Day 17 with a real news anchor.
 ---
 
-## Status update — (empty until first re-check)
+## Status update — 17:04 ET, Thursday
 
 **News state since drafting:**
-- [what changed since the autonomous run earlier today — ratification vote turnout signals, Hivemapper coverage map response, any Thursday data release]
-- [what is still pending — ratification vote results, June 16-17 Warsh-chaired FOMC, any new state PUC ruling]
+- Samsung deal holding. Tentative agreement confirmed by company and union late Wednesday, planned May 21–June 7 strike suspended (not settled). No walk-back signals from either side. Ratification vote opens 2 PM KST Friday May 22 (≈1 AM ET Friday) and runs through 10 AM KST Tuesday May 27 (≈9 PM ET Monday). At posting time the vote window has not yet opened.
+- Friday flagship "You Own the Hotspot. Nova Labs Owns What It Earns." has both humanize and fact-check passes complete. Ready to publish Friday 6–7 PM ET (the standing flagship send window, confirmed 2026-05-21 — see brand strategy doc "Posting Cadence").
+- Pending: ratification outcome over the May 22–27 KST window. A rejection during the window would force a Note 1 + Note 3 redraft mid-week but does not affect tonight's posting decisions.
 
 **Safe to post today:**
 
 | Slot | Option | Why this survives any outcome |
 |------|--------|-------------------------------|
-| [HH:MM, platform] | [A/B, label] | [one sentence — names the durable claim that holds regardless of the pending trigger] |
+| Anytime, X | Option A (Samsung deal anchor, Data-forward) | Deal terms are on the public record (12% operating-profit pool, no DS-division ceiling, 2026–2035 trigger thresholds); vote hasn't opened; no walk-back signals. |
+| Anytime, X (fallback) | Option B (Warsh now chair, Frame-forward) | Swearing-in May 16, 54-45 confirmation, June 16-17 FOMC all on the record — no trigger needed. |
+| 3–5 PM ET, Notes | Note 1 Option A (Samsung OO, Data-forward) | The offer itself is on the record; pattern-named closer ("workers at the chokepoint structured a permanent profit share into the contract") holds while the vote window is open. |
+| 6–7 PM ET, Notes | Note 2 Option A (Hivemapper PSD, Frame-forward) | May 2 Foundation announcement is on the record; no trigger needed regardless of how the Samsung story breaks. |
+| 8–10 PM ET, Notes | Note 3 Option A (Samsung vs Hivemapper CDC, Data-forward) | Cross-domain parallel holds while the Samsung deal is on record; Hivemapper side is Frame-forward regardless. |
 
 **Hold (trigger has not fired):**
-- [Slot, option letter] — waiting on [specific news condition]
+- None. Vote window has not opened, deal is on the record, no walk-back signals. All slots are safe to post tonight as drafted.
 
 ---
 
@@ -63,9 +68,9 @@ Yesterday (Day 17) used Contested Claim + Primary Source Drop + Framework Hand. 
 
 ### Option A — Samsung deal anchor (Pillar 4 / Power & Labor) [Data-forward, conditional on the deal holding]
 
-Samsung settled with the union 90 minutes before the May 21 walkout. 12% of operating profit to a bonus pool, no ceiling on chip-division payouts, indexed through 2035. Five months of deadlock ended when the calendar hit the AI buildout's $700M-per-day line. Labor at the chokepoint just made itself a contract line.
+Samsung settled 90 minutes before the May 21 walkout. 12% of operating profit to a bonus pool, no chip-division ceiling, through 2035. Five months of deadlock broke when the strike calendar hit $700M per day. Labor at the chokepoint just made itself a contract line.
 
-*~280 chars (fits Twitter ≤280, Bluesky ≤300). Data-forward because the deal still needs ratification (vote runs May 21-28); if the ratification fails, the framing breaks and the strike threat returns. Frame survives any direction the news cycle takes during the vote window — the deal is on the record either way. Anchors on the news of the day and lands a structural fact (labor at the chokepoint extracted permanent profit-share terms) the macro audience will recognize as the editorial move. Trigger: deal holding through ratification. Sources: Seoul Economic Daily, TechTimes, wccftech, Yahoo Finance.*
+*264 chars (Twitter ≤280, Bluesky ≤300, comfortable margin on both). Revised from initial 315-char draft after platform-limit audit caught the overage. Data-forward because the deal still needs ratification (vote runs May 22-27 KST); if ratification fails, the framing breaks and the strike threat returns. Frame survives any direction the news cycle takes during the vote window — the deal is on the record either way. Anchors on the news of the day and lands a structural fact (labor at the chokepoint extracted permanent profit-share terms) the macro audience will recognize as the editorial move. Cuts made: dropped "with the union" (implied by "before the walkout"), "on chip-division payouts" → "chip-division ceiling," "indexed through 2035" → "through 2035," reworked the deadlock sentence to keep $700M mechanism in a tighter shape. Trigger: deal holding through ratification. Sources: Seoul Economic Daily, TechTimes, wccftech, Yahoo Finance, Japan Times.*
 
 ---
 
@@ -217,9 +222,9 @@ Samsung's bonus settlement and Hivemapper's incentive update happened two weeks 
 
 2. Stage the 10-post X thread carrying the flagship's specific data. Reserved for the thread and the flagship, not for today's free-tier Notes: HIP-143 90/9 vote and proxy concentration (26% / 24%), $249 hardware / $3-$45 monthly earnings / 2.5-5yr payback, HIP-82 reward cap mechanic, August 2025 halving, $124.77/day IoT vs $56,635/day Mobile data-credit asymmetry, the franchise-vs-business framing, the Datagram-rug admission as the close.
 
-3. Draft the LinkedIn repost (300-400 words, professional register, every figure cited, ends with article link, no CTA). Best drafted Friday morning so it goes live alongside the article publish.
+3. Draft the LinkedIn repost (300-400 words, professional register, every figure cited, ends with article link, no CTA). Best drafted Friday morning so it can go live Friday 6–7 PM ET alongside the Substack send (LinkedIn repost depends on the article URL existing, so it cannot precede publish).
 
-4. Draft the Article Tease Note for Friday 3-5 PM ET (post-publish only). Format requires one sharp claim or moment from the piece standing alone, then "Full piece: [link]." Do not summarize the argument.
+4. Draft the Article Tease Note for **Saturday morning (8–11 AM ET)**, post-publish only. Format requires one sharp claim or moment from the piece standing alone, then "Full piece: [link]." Do not summarize the argument. (The slot moved from the old Friday 3–5 PM ET window because the article now publishes Friday 6–7 PM ET — the Tease Note's job is to nudge readers who saved the email but haven't opened it yet, which works better with Saturday-morning timing than with a slot that competes against the freshly-arrived send.)
 
 ---
 
