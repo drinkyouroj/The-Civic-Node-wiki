@@ -3,7 +3,7 @@ title: "Helium HIP-143 and the DePIN Franchise Architecture"
 type: synthesis
 tags: [depin, helium, governance, operator-economics, franchise, chokepoint, dao]
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-21
 sources: 8
 query: "What's the actual structural relationship between Helium hotspot operators and Nova Labs / the Helium DAO? Did operators buy a business or a franchise, and what does HIP-143's passage reveal about how DePIN governance distributes pricing authority?"
 ---
@@ -78,18 +78,13 @@ This synthesis names a transferable analytical move that applies to multiple fut
 - **Published article:** [[Helium Operators Built the Network. Nova Labs Sets the Price.]] (Substack, May 22, 2026 — wiki article page to be filed in `wiki/articles/` after publish)
 - **Article draft:** `workspace/drafts/helium-operators-built-the-network.md`
 - **Article outline:** `workspace/outlines/helium-operator-incentives.md`
+- **Entity (created 2026-05-21):** [[Nova Labs]] — the corporate counterparty at the center of the franchise architecture
+- **Concept (created 2026-05-21):** [[Franchise vs. Business]] — the analytical move this synthesis names; canonical concept page for future DePIN governance pieces
+- **Concept (created 2026-05-21):** [[Proxy Concentration Audit]] — the procedural test for any DAO governance vote using proxy delegation
+- **Concept (created 2026-05-21):** [[Auto-Renewal by Inaction]] — the default-rule design pattern that lets governance structures re-arm without operator participation
 - **Related concept (existing):** [[Chokepoint Control]] — the framework this synthesis extends to the DePIN protocol layer
 - **Related concept (existing):** [[DePIN]] — the broader category this synthesis sits inside
 - **Related concept (existing):** [[Operator View of Crypto Regulation]] — adjacent operator-perspective material
-
-## Follow-on artifacts to create
-
-These exist as wikilinks in this synthesis but have no destination page yet. Worth creating when the next piece that touches them is written:
-
-- **Entity:** [[Nova Labs]] — the corporate counterparty at the center of the franchise architecture. Currently referenced across the wiki without its own page.
-- **Concept:** "Franchise vs. Business" — the analytical move this synthesis names. Becomes a transferable lens for future DePIN governance pieces.
-- **Concept:** "Proxy Concentration Audit" — the procedural test for any DAO governance vote that uses proxy delegation. Pairs with the franchise-vs-business concept.
-- **Concept:** "Auto-Renewal by Inaction" — the default-rule design pattern that allows governance structures to re-arm themselves without operator participation.
 
 ## Key sources
 

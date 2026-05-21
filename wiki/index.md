@@ -2,10 +2,10 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-21
-total_pages: 1273
+total_pages: 1277
 total_sources: 726
-total_entities: 263
-total_concepts: 162
+total_entities: 264
+total_concepts: 165
 total_syntheses: 27
 total_articles: 95
 ---
@@ -62,7 +62,7 @@ Deferred-ingest pass clearing the three raw files committed at `2cabe08` ("inges
 **Deferred stubs** (wikilinks left in newly-created/updated pages but no entity/concept page created):
 - People: Cade Metz, Mike Isaac, Ashley Belanger, Marc Toberoff, Steven Molo, William Savitt, Greg Brockman (referenced repeatedly), Catherine Bracy, Dorothy Lund, Tre Lovell, Tim Draper, Oren Etzioni, Ross Gerber, Austan Goolsbee (referenced; promote next cycle), Rob Bonta
 - Orgs: EyesOnOpenAI, Allen Institute for A.I., Wachtell Lipton (Savitt's firm), Ronald V. Dellums U.S. Courthouse
-- Concepts: Hivemapper, Bee Maps, HONEY (the token), Franchise vs Business (flagged by [[You Own the Hotspot]] flagship; promote when piece publishes Friday)
+- Concepts: Hivemapper, Bee Maps, HONEY (the token). **Update 2026-05-21**: [[Franchise vs. Business]], [[Proxy Concentration Audit]], [[Auto-Renewal by Inaction]] promoted from this list to concept pages (the three transferable analytical moves named by [[Helium HIP-143 and the DePIN Franchise Architecture]]). [[Nova Labs]] entity also promoted from deferred-orgs.
 
 **Helium Halving duplicate raw note**: Two raw files exist for the same Helium Halving 2025 article — `Helium Halving 2025 What It Means for Hotspot Operators, HNT Holders, and Network Governance.md` (7,462 bytes, May 16 ingest, blog.helium.com source) and `Helium Halving 2025 What It Means for Hotspot Operators, HNT Holders….md` (8,034 bytes, May 19 archive.ph fallback). The existing source page `[[Helium Halving 2025 — Helium Blog - 2025-07-24]]` references the first file. The second is a redundant archive.ph fallback. Both retained per the raw/ immutability rule; flagged here so future-self knows it's a known redundancy not a missing-ingest.
 
@@ -1333,6 +1333,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Turning Point USA]] — Conservative youth advocacy organization; founded by Charlie Kirk 2012; major MAGA institutional actor
 - [[January 6 Capitol Riot]] — Jan 6 2021 attack on US Capitol; Trump culpability documented by Jack Smith; pardons issued
 - [[Helium Network]] — DePIN protocol; crowdsourced LoRaWAN IoT coverage; HNT tokenomics; Proof of Coverage vulnerabilities
+- [[Nova Labs]] — For-profit operator of Helium Mobile + carrier-offload counterparty + 26% governance proxy; the corporate counterparty at the center of the Helium [[Franchise vs. Business]] structure; Nova Labs proxy 26% + ferebee proxy 24% = 50% of yes votes on HIP-143; same two proxies = 57% of total vote on HIP-148; named single recipient of HIP-148's consolidated 24% Service Provider Pool of Mobile emissions
 - [[Hivemapper Foundation]] — Governance and incentive-administration arm of the Hivemapper decentralized mapping network; May 2 2026 10M HONEY coverage-map directive (green/orange/teal road classifications); stub entity flagged for raw-file capture; structural parallel to [[Helium Foundation]] / [[Nova Labs]] split
 - [[Render Network]] — DePIN protocol; aggregates spare GPU compute; creator economy use cases; RENDER token
 - [[Gala Games]] — Web3 entertainment ecosystem; GalaChain; gaming/music/film; capital-gating controversy
@@ -1478,6 +1479,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Dollarization via Stablecoins]] — What Tether actually does in Argentina, Turkey, Nigeria, Lebanon, Venezuela; why Circle cannot replace it (KYC perimeter); the strongest version of the hegemony claim
 - [[Datagram Network]] — DePIN project building decentralized internet infrastructure; user's personal project
 - [[Filecoin]] — Decentralized storage network; DePIN reference case; token-incentivized infrastructure deployment
+- [[Franchise vs. Business]] — Analytical move for any operator-deploys-capital structure; who holds pricing authority over revenue operators are paid out of, and how that authority is changed; Helium HIP-143/148 = the worked example; transferable to Render, GEODNET, io.net, Filecoin
+- [[Proxy Concentration Audit]] — Procedural test for DAO governance votes using proxy delegation; sum of proposing-entity-aligned proxies as share of yes votes; HIP-143 = 50%, HIP-148 = 57% of total; veHNT-accumulation-rate sub-finding (ferebee +55.5% in six months)
+- [[Auto-Renewal by Inaction]] — Default-rule design pattern that re-arms a governance authorization unless a superseding action is taken; HIP-143's 1-year delegation auto-renewed April 2026 with no operator participation; the time-dimension companion to [[Franchise vs. Business]]
 
 - [[Crypto Week]] — July 14-18 2025 legislative sprint; GENIUS Act + CLARITY Act + Anti-CBDC Act; partisan gradient; executive-legislative coordination
 - [[Anti-CBDC Surveillance State Act]] — H.R. 1919; bans Federal Reserve retail CBDC; 219-210 House vote; codifies Trump EO; "solving a problem that doesn't exist" critique
