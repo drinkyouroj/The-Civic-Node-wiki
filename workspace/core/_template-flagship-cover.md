@@ -10,7 +10,7 @@ status: locked-dna-variable-execution
 
 # Flagship Cover Template — DNA Specification
 
-This is the locked visual identity for flagship nonfiction Substack covers (e.g., "Cheaper AI Won't Use Less of Anything," "The System Is Functioning Correctly," "Atlanta Passed a Sanctuary Resolution," "The $71 Billion Bluff"). Unlike the paid-note template ([`workspace/paid/_template-thinking-behind-the-thinking-cover.md`](paid/_template-thinking-behind-the-thinking-cover.md)) — which locks a single composition with four variable substitutions — flagship covers lock a **DNA** (five principles) and leave **execution** (four axes) open per piece.
+This is the locked visual identity for flagship nonfiction Substack covers (e.g., "Cheaper AI Won't Use Less of Anything," "The System Is Functioning Correctly," "Atlanta Passed a Sanctuary Resolution," "The $71 Billion Bluff"). Unlike the paid-note template ([`workspace/paid/_template-thinking-behind-the-thinking-cover.md`](../paid/_template-thinking-behind-the-thinking-cover.md)) — which locks a single composition with four variable substitutions — flagship covers lock a **DNA** (five principles) and leave **execution** (four axes) open per piece.
 
 The reason: paid notes are a consistent format with a consistent register, so a single composition works. Flagship pieces vary widely — a Fed-policy explainer, a surveillance-infrastructure investigation, a market-collapse analysis, and a constitutional-law breakdown all need different visual idioms but a shared editorial voice. The DNA produces that shared voice without dictating the idiom.
 
@@ -252,7 +252,7 @@ No `cover-prompt.md` saved = the cover is considered unfinished, regardless of w
 - Established 2026-05-22 during brainstorming session that codified the DNA from a rated corpus of 9 covers (5 favorites, 4 least-favorites).
 - DNA principles derived from cross-checking what favorites share and least-favorites share, not from external visual-system theory.
 - Companion skill `tcn-flagship-cover` built separately via skill-creator; this doc is its source of truth.
-- Parallel system: paid notes ([`workspace/paid/_template-thinking-behind-the-thinking-cover.md`](paid/_template-thinking-behind-the-thinking-cover.md), established 2026-05-19) — different format, different locked composition, sibling not parent.
+- Parallel system: paid notes ([`workspace/paid/_template-thinking-behind-the-thinking-cover.md`](../paid/_template-thinking-behind-the-thinking-cover.md), established 2026-05-19) — different format, different locked composition, sibling not parent.
 - Fiction-episode cover system: deferred (separate spec, future).
 
 ## Future updates

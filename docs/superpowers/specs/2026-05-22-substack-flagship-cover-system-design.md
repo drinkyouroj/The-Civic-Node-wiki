@@ -6,7 +6,7 @@ created: 2026-05-22
 authors: ["Justin Hearn", "Claude"]
 implementation_path: skill-creator
 related_artifacts:
-  - workspace/_template-flagship-cover.md
+  - workspace/core/_template-flagship-cover.md
   - workspace/paid/_template-thinking-behind-the-thinking-cover.md
 ---
 
@@ -44,7 +44,7 @@ In scope: flagship nonfiction Substack covers — the cover image attached to th
 
 ## The DNA — five locked principles
 
-These derive from cross-checking what the user's favorite covers share and what their least-favorites share. They are documented in full with explanations in [`workspace/_template-flagship-cover.md`](../../../workspace/_template-flagship-cover.md). Summary:
+These derive from cross-checking what the user's favorite covers share and what their least-favorites share. They are documented in full with explanations in [`workspace/core/_template-flagship-cover.md`](../../../workspace/core/_template-flagship-cover.md). Summary:
 
 1. **Metaphor compression, not evidence illustration.** The image carries the thesis through ONE relationship.
 2. **≤2 primary visual elements.** Never three competing zones, never a labeled diagram.
@@ -67,8 +67,8 @@ Two artifacts, two purposes:
 
 | File | Role | Updated by |
 |---|---|---|
-| [`workspace/_template-flagship-cover.md`](../../../workspace/_template-flagship-cover.md) | Authoritative DNA reference + exemplar gallery. Single source of truth. Human-readable. | Manual edits only; revisions dated and numbered. |
-| `~/.claude/skills/tcn-flagship-cover/` | Workflow logic. Loads template on invocation, applies DNA to a finished article, runs concept-generation loop, writes output file. | Skill-creator agent (built once, refined as patterns surface). |
+| [`workspace/core/_template-flagship-cover.md`](../../../workspace/core/_template-flagship-cover.md) | Authoritative DNA reference + exemplar gallery. Single source of truth. Human-readable. | Manual edits only; revisions dated and numbered. |
+| `/Users/justin/CascadeProjects/claude-skills/tcn-flagship-cover/` | Workflow logic. Loads template on invocation, applies DNA to a finished article, runs concept-generation loop, writes output file. | Skill-creator agent (built once, refined as patterns surface). |
 
 Why this split: the skill should never duplicate the DNA principles inline in its description, because that creates two copies that can drift. The skill loads the template doc on every invocation, so updates to the DNA propagate automatically.
 
@@ -79,7 +79,7 @@ The skill executes nine steps when invoked:
 | Step | Action |
 |---|---|
 | 1 | Locate the finished article draft (e.g., `workspace/drafts/{slug}/{N}-final.md`). Disambiguate if multiple candidates exist. |
-| 2 | Read the article in full; load [`workspace/_template-flagship-cover.md`](../../../workspace/_template-flagship-cover.md) for DNA principles + exemplars. |
+| 2 | Read the article in full; load [`workspace/core/_template-flagship-cover.md`](../../../workspace/core/_template-flagship-cover.md) for DNA principles + exemplars. |
 | 3 | **Identify the core compression** — reason out loud about what visual relationship would carry this piece's thesis. This is the analytical step that turns prose argument into visual metaphor. |
 | 4 | **Face-consideration gate** — if the piece has an identifiable individual, ask the user yes/no with reasoning. The skill should also volunteer when a face would weaken the cover even on pieces with named protagonists. |
 | 5 | **Propose 2–3 concept briefs.** Each follows the concept brief format (compression name, subject, secondary element, relationship, visual register, palette direction, DNA checks, one-line evocation). Each must propose a *meaningfully different compression* — not three variants of one composition. If only 2 strong compressions exist, propose 2; do not pad. |
@@ -149,7 +149,7 @@ Frontmatter spec is documented in the template doc; this spec doesn't duplicate.
 
 The skill loads the template doc on first invocation. The template doc must exist first.
 
-1. ✅ [`workspace/_template-flagship-cover.md`](../../../workspace/_template-flagship-cover.md) — committed in this brainstorming session.
+1. ✅ [`workspace/core/_template-flagship-cover.md`](../../../workspace/core/_template-flagship-cover.md) — committed in this brainstorming session.
 2. ⏳ Build the skill via skill-creator using the prompt in the next section. The skill description must be accurate enough to trigger on phrases like "make the cover," "design the cover," "build the cover," "Substack cover for [piece]," "cover prompt for [piece]" — not on YouTube-thumbnail or paid-note-cover requests.
 3. ⏳ First-use validation: invoke on a fresh piece and audit the output against the DNA. Iterate the skill body if outputs systematically miss a principle.
 
@@ -160,13 +160,13 @@ The prompt below is intended for the `anthropic-skills:skill-creator` (or `skill
 ```
 Create a skill called tcn-flagship-cover.
 
-Purpose: Generate a Substack flagship-cover image prompt for a finished Civic Node nonfiction article, following the locked DNA documented in workspace/_template-flagship-cover.md. The skill produces a saved prompt file ready for the user to run through Nano Banana Pro / Flux / Midjourney. It does NOT generate the image itself.
+Purpose: Generate a Substack flagship-cover image prompt for a finished Civic Node nonfiction article, following the locked DNA documented in workspace/core/_template-flagship-cover.md. The skill produces a saved prompt file ready for the user to run through Nano Banana Pro / Flux / Midjourney. It does NOT generate the image itself.
 
-Skill location: ~/.claude/skills/tcn-flagship-cover/
+Skill location: /Users/justin/CascadeProjects/claude-skills/tcn-flagship-cover/
 
 Skill description (for the SKILL.md frontmatter — must trigger reliably without false positives):
 
-"Generate the Substack flagship cover image prompt for a Civic Node nonfiction article. Loads the locked DNA from workspace/_template-flagship-cover.md and produces 2-3 concept briefs, then a complete model-ready prompt saved to workspace/drafts/{slug}/cover-prompt.md. Use this skill when Justin says 'make the cover', 'design the cover', 'build the cover', 'cover prompt for [piece]', 'Substack cover for [piece]', 'cover image for this article', or any variant that asks for a flagship Substack cover image prompt. Does NOT apply to: YouTube thumbnails (use tcn-youtube-thumbnail), paid-note covers (use the locked template at workspace/paid/_template-thinking-behind-the-thinking-cover.md — different system), Substack Notes images (use tcn-substack-notes), fiction episode covers (separate system, not yet built), or image generation itself (this skill writes the prompt; the user runs it through Nano Banana Pro / Flux / Midjourney)."
+"Generate the Substack flagship cover image prompt for a Civic Node nonfiction article. Loads the locked DNA from workspace/core/_template-flagship-cover.md and produces 2-3 concept briefs, then a complete model-ready prompt saved to workspace/drafts/{slug}/cover-prompt.md. Use this skill when Justin says 'make the cover', 'design the cover', 'build the cover', 'cover prompt for [piece]', 'Substack cover for [piece]', 'cover image for this article', or any variant that asks for a flagship Substack cover image prompt. Does NOT apply to: YouTube thumbnails (use tcn-youtube-thumbnail), paid-note covers (use the locked template at workspace/paid/_template-thinking-behind-the-thinking-cover.md — different system), Substack Notes images (use tcn-substack-notes), fiction episode covers (separate system, not yet built), or image generation itself (this skill writes the prompt; the user runs it through Nano Banana Pro / Flux / Midjourney)."
 
 Behavior:
 
@@ -174,7 +174,7 @@ The skill executes 8 steps (with optional v1.5 step 9 documented but not require
 
 1. LOCATE THE ARTICLE. Identify the finished draft. Look for the highest-numbered or "*-final.md" file in workspace/drafts/{slug}/. If ambiguous, ask the user which file.
 
-2. LOAD CONTEXT. Read the article in full. Load workspace/_template-flagship-cover.md for DNA principles, variable axes, exemplar gallery, concept brief format, output file frontmatter spec, and legal note.
+2. LOAD CONTEXT. Read the article in full. Load workspace/core/_template-flagship-cover.md for DNA principles, variable axes, exemplar gallery, concept brief format, output file frontmatter spec, and legal note.
 
 3. IDENTIFY THE CORE COMPRESSION. Reason out loud (visible to the user) about what visual relationship would carry this piece's thesis in one image. This is the analytical step. Reference the article's actual argument, not the topic.
 
@@ -209,7 +209,7 @@ NEVER:
 - Override the user's face decision — the skill flags considerations, the user decides.
 - Use the YouMind #4847 archival-infographic template or any documentary-scrapbook register — these are explicitly excluded by Principle 4.
 
-The DNA principles and exemplar gallery live in workspace/_template-flagship-cover.md. The skill body should reference that file rather than duplicating its content, so DNA updates propagate without skill edits.
+The DNA principles and exemplar gallery live in workspace/core/_template-flagship-cover.md. The skill body should reference that file rather than duplicating its content, so DNA updates propagate without skill edits.
 
 Worked example to include in the skill's reference materials (showing the system correcting a known failure):
 
