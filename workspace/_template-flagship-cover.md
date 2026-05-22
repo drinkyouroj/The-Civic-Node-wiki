@@ -212,7 +212,8 @@ type: image-prompt
 article: "[path to final draft]"
 model: Nano Banana Pro | Flux | Midjourney | other
 aspect_ratio: "16:9 (1456 × 816)"
-based_on: "[template id or 'flagship-dna']"
+based_on: "[template id (e.g., YouMind #8791) or 'flagship-dna']"
+prompt_source: ai-image-prompts-skill | nano-banana-pro-prompts-recommend-skill | scratch
 compression: "[compression name]"
 register: "[visual register]"
 palette: "[palette description]"
@@ -228,6 +229,8 @@ face_reasoning: "[one sentence]"
 created: YYYY-MM-DD
 ---
 ```
+
+The `prompt_source` field documents whether the prompt was scaffolded via the `ai-image-prompts-skill` library lookup (preferred path) or built from scratch (fallback). The cover skill should attempt the library path first and fall back to scratch only if no library-recommender skill is available.
 
 Body sections: the full model-ready prompt, alt text, caption, remix notes (what was varied vs. an exemplar, if relevant).
 
