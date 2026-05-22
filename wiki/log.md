@@ -2869,3 +2869,77 @@ The Nov 2024 → Apr 2025 step is the inflection: the franchise architecture bec
 - `wiki/index.md` — two new entries added under "DePIN & Crypto" sources before the HIP-143 proposal line. Total sources 719 → 721; updated date bumped to 2026-05-19.
 
 **Cover-image consequence**: The "You Own the Hotspot" article cover-image draft v1 contained factual errors that the new screenshots surfaced (HIP-53 dated May 12 2022 instead of July 25 2022; HIP-53 authored as Nova Labs; HIP-138 dated January 15 2025 instead of November 22 2024; HIP-148 dated October 27 2025 instead of October 10 2025; fabricated ferebee Proxy Holdings sub-wallet breakdown; calculated rather than actual ferebee veHNT at HIP-148). Cover prompt v2 issued at `workspace/drafts/you-own-the-hotspot-nova-labs-owns-what-it-earns/cover-prompt-v2.md` with corrections applied and a new "Top Proxy Share by Vote (rising)" panel replacing the fabricated holdings table.
+
+## [2026-05-21] update | Promoted 4 follow-on artifacts from HIP-143 synthesis — 1 entity + 3 concepts
+
+Created the four wikilink-but-no-page artifacts flagged in the "Follow-on artifacts to create" section of [[Helium HIP-143 and the DePIN Franchise Architecture]]. The synthesis named transferable analytical moves; the artifacts now exist as canonical reference targets that future DePIN governance pieces can cite directly without re-deriving from the Helium worked example.
+
+**New pages (4)**:
+
+- [[Nova Labs]] (entity) — Corporate counterparty for Helium Mobile + carrier-offload negotiations + 26% governance proxy. Documents the corporate-role / governance-proxy collapse that makes the franchise architecture passable through DAO governance without operator participation. Open questions section flags two structurally unresolved items: (1) the Nova Labs / ferebee public-private alignment vs. formal coordination question; (2) the `madninja` HIP-148 authorship handle and its relationship to the HIP-143 named authors.
+- [[Franchise vs. Business]] (concept) — The structural test: who holds pricing authority over the revenue operators are paid out of, and how is that authority changed? Documents the Helium worked example (HIP-82 → HIP-138 → HIP-143 → HIP-148 sequence + the post-Nov-2024 inflection to labeled-proxy concentration). Names the "deploy first, find out what you bought later" temporal pattern and the federal-franchise-law disclosure-regime asymmetry (FTC Franchise Rule, 16 CFR Part 436).
+- [[Proxy Concentration Audit]] (concept) — The procedural method: pull the on-chain voter breakdown, identify labels, sum proposing-entity-aligned proxies as share of yes votes, compare to baseline, track veHNT accumulation rate between votes. Reference series for Helium: HIP-53 (n/a), HIP-138 (no labels in top 12), HIP-143 (50% of yes votes), HIP-148 (57% of total vote). Documents the Foundation-policy-on-proxy-delegation mechanism as the causal input.
+- [[Auto-Renewal by Inaction]] (concept) — The default-rule design pattern that compounds franchise architecture by time. HIP-143's 1-year delegation auto-renewed around April 2026 with no operator participation. Documents the asymmetry between cost of installing the authorization (763.5M veHNT voted, 50% of yes votes carried by Nova Labs + ferebee proxies) and cost of extending it (nothing). Cross-references the consumer-protection auto-renewal disclosure regime (California Section 17602, FTC negative-option rules) that doesn't extend to DAO governance.
+
+**Updated existing pages (2)**:
+
+- [[Helium HIP-143 and the DePIN Franchise Architecture]] — "Follow-on artifacts to create" section replaced with explicit "created 2026-05-21" cross-references in the "Related material" section; updated date bumped to 2026-05-21.
+- `wiki/index.md` — [[Nova Labs]] added to Organizations subsection of Entities with proxy-concentration summary. [[Franchise vs. Business]], [[Proxy Concentration Audit]], [[Auto-Renewal by Inaction]] added to "DePIN & Crypto" subsection of Concepts. The deferred-stubs entry from the 2026-05-21 ingest section updated to note the four artifacts are now promoted. Stats: total_pages 1273 → 1277; entity_pages 263 → 264; concept_pages 162 → 165.
+
+**Why this matters for upcoming work**: The May 22 flagship piece ([[You Own the Hotspot. Nova Labs Owns What It Earns.]]) can now use these wikilinks directly without flagging them as forthcoming. More broadly, any DePIN governance piece going forward has canonical concept-page anchors for the three transferable analytical moves — the audit moves transfer to Render, GEODNET, io.net, Filecoin, Hivemapper, and any future operator-token network with proxy-delegated DAO governance. The infrastructure for the DePIN governance beat is now in place.
+
+**No deferred follow-ons from this update.** The four artifacts close the open scaffolding from the May 18 synthesis. The wiki is consistent through the HIP-143/148 worked example.
+
+## [2026-05-21] ingest follow-up | 5 raw sources + 3 backstage articles + 2 free articles — second ingest pass
+
+Second 2026-05-21 ingest pass. Cleared the five raw files captured during Day 18 content planning, plus the three published/backstage/ paid-tier pieces (introducing the wiki/articles/backstage/ pattern), plus the two genuinely-missing wiki/articles/ entries for previously-published free pieces (The System Is Functioning Correctly + Beyond Crypto Week).
+
+**New source pages (5)**:
+
+- [[N Percent Bonus Demands Surge K-Shaped Polarization — Seoul Economic Daily - 2026-05-21]] — Song Ju-Hui. Samsung deal cross-industry propagation within 24 hours: Kia, Hyundai Motor, HD Hyundai Heavy Industries, Doosan Enerbility all moving to N%-of-OP bonus demands citing Samsung explicitly. The Yellow Envelope Act extends propagation to subcontractor unions. Korea Enterprises Federation pushback. The Samsung deal is now documented as a multi-industry [[AI Windfall Sharing]] inflection, not an isolated chokepoint-labor settlement.
+- [[Meta Settles Breathitt School Social Media Addiction Case — BBC - 2026-05-21]] — Lily Jamali. Meta settles bellwether case for 1,200+ school districts in same Oakland federal court as the Musk-OpenAI verdict. Snap, TikTok, YouTube settled the prior week. Terms undisclosed. State-AG bellwether August 2026 is the next pressure point.
+- [[Newsom AI Workforce Disruption Executive Order — CBS Sacramento - 2026-05-21]] — Cecilio Padilla. California EO directs state agencies to study AI job disruption; 180-day deliverable on WARN Act updates. Worker-ownership-models in the protection list is the [[AI Windfall Sharing]] mechanism applied at the legal-status layer.
+- [[Trump Postpones AI Executive Order — CBS - 2026-05-21]] — Kathryn Watson. Federal AI EO signing postponed same-day as Newsom's California EO. Trump: "I didn't like what I was seeing." Voluntary pre-public-access framework with AI developers is the candidate red-flag provision. No reissue timeline.
+- [[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]] — Reuters Washington bureau. Marco Rubio publicly frames Iranian Hormuz tolling system as "completely illegal" under UNCLOS Article 38 (despite U.S. UNCLOS non-membership). Legal-rhetorical fallback 16 days after the operational [[Project Freedom]] retraction. Iran characterized as "a system that itself is a little fractured."
+
+**New entity (1)**:
+
+- [[Marco Rubio]] — U.S. Secretary of State; public-facing position-stater for the Iran framework. First Hispanic Secretary of State; first sitting Senator confirmed to the post since 1973. Open questions on the "completely illegal" framing's relation to formal State Department position vs. press-briefing comment.
+
+**Backstage pattern established**:
+
+The wiki/articles/backstage/ subdirectory mirrors published/backstage/. Three paid-tier "process notes" filed under a new content rubric: document existence + companion flagship + analytical category + entities/concepts engaged, **but not** an extractive summary of the specific correction (which is the paywalled reveal). Frontmatter markers `article_type: backstage`, `tier: paid`, `paywall: true` make the pages queryable. The wiki entry intentionally acts as a reference pointer rather than a paywall-defeater. Three pages created:
+
+- [[I Had the Wrong Bottom of the Stack]] (paid; 2026-05-19) — Force-stack re-ordering correction; companion to [[12 Gigawatts Were Announced. 4 Are Being Built.]]. First documented use of the [[Series Template — The Thinking Behind the Thinking (Cover Image Prompt)]] locked typographic cover.
+- [[I Had the Wrong Protagonist]] (paid; 2026-05-12) — Protagonist-swap correction; companion to [[The Strait Is the Mandate]]; prior flagship being corrected = [[Independent Inside of Government]].
+- [[Minnesota Isn't Here for the Injunction]] (paid; 2026-05-05) — Wrong-game correction (evidence-building vs. injunction outcome); companion to [[3,000 Arrests, 335 Names, One Court Order]].
+
+**New free-tier article pages (2)** — clearing genuine wiki/articles/ backlog:
+
+- [[The System Is Functioning Correctly]] (free; 2026-04-25) — case-study anchor for [[Institutional Gaslighting]] concept; five worked examples under the four-component architecture (evidence custody, procedural substitution, exhaustion-as-exit, toothless laws).
+- [[Beyond Crypto Week]] (free; 2025-07-19) — framework-level reference for GENIUS / CLARITY / Anti-CBDC legislative trio; baseline citation target for subsequent crypto-regulation pieces.
+
+**Updated existing pages (9)**:
+
+- [[Samsung]] — cross-industry propagation finding; new "Cross-industry propagation" Key Facts entry; 1 new source citation.
+- [[Meta]] — Breathitt settlement; whistleblower-tracking and TTP influencer-payment finding; state-AG August 2026 pressure point; 1 new source citation.
+- [[Iran]] — U.S. Rubio "completely illegal" red-line; four binding constraints framing.
+- [[Donald Trump]] — new "AI Policy Actions (2026)" subsection documenting the May 21 EO postponement and the China-leadership rhetorical cover for unclear policy concerns.
+- [[Gavin Newsom]] — new "AI Workforce Policy (2026)" subsection; worker-ownership-models flagged as the [[AI Windfall Sharing]] layer in U.S. state policy.
+- [[AI Windfall Sharing]] — cross-industry propagation evidence + U.S. state-policy variant via Newsom worker-ownership-models; 2 new key sources.
+- [[Chokepoint Control]] — Rubio "completely illegal" framing added as the regulatory-chokepoint variant applied to a geographic chokepoint when physical-overlay attempts fail.
+- [[Project Freedom]] — "legal-rhetorical fallback" framing for the 16-day arc from operational pause (May 5) to Rubio statement (May 21).
+- [[AI Sovereignty]] — Trump EO postponement + Newsom EO same-day federalism sequencing; 2 new examples.
+
+**Index stats**: total_pages 1277 → 1286 (+5 sources + 1 entity + 3 backstage articles); total_sources 726 → 731; total_entities 264 → 265; total_articles 95 → 98 (3 backstage + 2 free).
+
+**Deferred follow-on candidates** (flagged for next session):
+
+- [[K-Shaped Polarization]] concept page — invoked by the Seoul Economic Daily piece as the central analytical frame; deserves dedicated concept page documenting how the framing is now contested at both ends (labor was the historical user; management/academic commentators now adopting it as defensive rhetoric).
+- The actual text of Newsom's May 21 EO (PDF at gov.ca.gov) — should be ingested as primary source rather than via secondary CBS framing.
+- Iranian response to Rubio's "completely illegal" framing — to be captured when it materializes.
+- The next-draft federal AI EO when it lands — to compare against pre-postponement language and identify which clause Trump objected to.
+- Samsung May 20-21 deal coverage (Seoul Economic Daily, TechTimes, wccftech, Japan Times, Bloomingbit, crypto briefing) — referenced by name in [[Samsung]] but no source-page citations yet; raw files not captured.
+- Hivemapper Foundation May 2 X post — paywalled; requires X-authenticated capture or screenshot.
+
+**Backstage-pattern convention** (newly established, applies going forward): paid-tier articles get wiki/articles/backstage/ pages with the documented rubric. The wiki is publicly readable; the wiki page is a reference pointer, not a paywall-defeater. Future syntheses that cite a backstage piece should link to the Substack URL for the analytical content, not reproduce it from the wiki.

@@ -2,12 +2,12 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-21
-total_pages: 1273
-total_sources: 726
-total_entities: 263
-total_concepts: 162
+total_pages: 1286
+total_sources: 731
+total_entities: 265
+total_concepts: 165
 total_syntheses: 27
-total_articles: 95
+total_articles: 98
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -23,6 +23,43 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-21 Ingest follow-up — Cross-industry Korean labor + Meta school settlement + Newsom AI EO + Rubio Hormuz red-line + Trump federal AI EO postponed (5 sources, 1 new entity, 8 existing page updates)
+
+Second 2026-05-21 ingest pass clearing the five raw files captured during Day 18 content planning. The five sources collectively document four overlapping editorial threads moving on a single day: (a) Samsung deal cross-industry propagation in Korean industry; (b) Meta settling the first bellwether social-media-addiction case before trial; (c) state vs. federal AI policy sequencing (Newsom signs, Trump postpones, same day); (d) U.S. retreat to legal-rhetorical chokepoint framing on Hormuz after the operational [[Project Freedom]] failure.
+
+**Korean labor / AI windfall sharing (1)**:
+- [[N Percent Bonus Demands Surge K-Shaped Polarization — Seoul Economic Daily - 2026-05-21]] — Song Ju-Hui, Seoul Economic Daily. Within 24 hours of the Samsung 12%-of-OP tentative settlement, Kia (30% of OP, exceeding Q1 OP), Hyundai Motor (30% of net profit), HD Hyundai Heavy Industries (≥30% of OP), and Doosan Enerbility (cap abolition) all moved to "N% of operating profit as bonuses" demands citing Samsung explicitly. Korea Enterprises Federation pushback: "Samsung is an AI-supercycle exception." Yellow Envelope Act extends propagation to subcontractor unions. The Samsung deal anchors a multi-industry AI Windfall Sharing inflection — not an isolated chokepoint-labor settlement.
+
+**Tech accountability / addictive design liability (1)**:
+- [[Meta Settles Breathitt School Social Media Addiction Case — BBC - 2026-05-21]] — Lily Jamali, BBC. Meta settles with Breathitt County School District (Kentucky) days before mid-June 2026 trial in federal court in Oakland (same MDL court as Musk-OpenAI verdict). Terms undisclosed. Snap, TikTok, YouTube settled the same case the previous week. Bellwether for 1,200+ school districts. Meta is the last of four major defendants to settle. Prior precedent: $6M LA jury verdict in early 2026 ("Kaley" plaintiff) — first jury verdict on the addictive-design theory, on appeal to the Ninth Circuit. Next pressure point: state-AG bellwether trial August 2026 in the same Oakland court.
+
+**Federal–state AI policy sequencing (2)**:
+- [[Newsom AI Workforce Disruption Executive Order — CBS Sacramento - 2026-05-21]] — Cecilio Padilla, CBS Sacramento. California EO directs state agencies to study and prepare for AI job disruption. 180-day deliverable: WARN Act update recommendations. Five worker-protection areas examined; the buried lede is **worker ownership models** (ESOPs, cooperatives, equity-stake compensation) — the AI Windfall Sharing mechanism applied at the legal-status layer.
+- [[Trump Postpones AI Executive Order — CBS - 2026-05-21]] — Kathryn Watson, CBS. Federal AI EO signing postponed the day of, after Punchbowl reporter posted news on X. Trump: "I didn't like certain aspects of it." Draft EO had four components: Pentagon security, federal civilian security, federal AI tool use, **voluntary pre-public-access framework with AI developers**. The pre-public-access provision is the candidate red-flag clause given OpenAI IPO window + Anthropic Pentagon-refusal track. Same-day postponement clears federal preemption space for Newsom's signed California EO.
+
+**U.S. Hormuz position (1)**:
+- [[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]] — Reuters Washington bureau. Secretary of State Marco Rubio publicly frames Iranian Hormuz tolling system as "completely illegal" and as making a U.S.–Iran diplomatic deal "unfeasible." Invokes UNCLOS Article 38 freedom-of-transit doctrine despite U.S. non-membership in UNCLOS — legal-rhetorical fallback 16 days after the operational [[Project Freedom]] retraction failed. Iran characterized as "a system that itself is a little fractured." First explicit U.S. cabinet-level rejection of the toll, which prior NYT reporting had treated as a fait accompli within the Iran reopening framework.
+
+**New entity (1)**:
+- [[Marco Rubio]] — U.S. Secretary of State; first Hispanic Secretary of State; first sitting Senator confirmed to the post since 1973. Public-facing position-stater for the Iran framework. May 21 "completely illegal" framing and "fractured system" Iranian counterparty characterization documented.
+
+**Updated existing pages (8)**:
+- [[Samsung]] — added cross-industry propagation finding (Kia, Hyundai Motor, HD Hyundai Heavy, Doosan Enerbility moving to N%-of-OP bonus demands within 24 hours of the deal); 1 new source citation.
+- [[Meta]] — added Breathitt settlement; whistleblower-tracking layer (Arturo Béjar, Tech Transparency Project); state-AG bellwether August 2026 as next pressure point; 1 new source citation.
+- [[Iran]] — added U.S. red-line on Hormuz tolling; the four binding constraints on the framework framing.
+- [[Donald Trump]] — added new "AI Policy Actions (2026)" subsection documenting EO postponement and the China-leadership rhetorical cover for unclear policy-substantive concerns.
+- [[Gavin Newsom]] — added new "AI Workforce Policy (2026)" subsection documenting the EO; flagged worker-ownership-models as the AI Windfall Sharing layer in U.S. state policy.
+- [[AI Windfall Sharing]] — added Samsung-deal cross-industry propagation evidence and U.S. state-policy variant via Newsom; 2 new key sources.
+- [[Chokepoint Control]] — added Rubio "completely illegal" framing as the regulatory-chokepoint variant applied to a geographic chokepoint when physical overlay fails.
+- [[Project Freedom]] — added "legal-rhetorical fallback" framing for the 16-day arc from operational pause (May 5) to Rubio statement (May 21).
+- [[AI Sovereignty]] — added the Trump EO postponement + Newsom EO same-day federalism sequencing; 2 new examples.
+
+**Deferred follow-on candidates** (flagged for next session):
+- [[K-Shaped Polarization]] concept page — invoked by the Seoul Economic Daily piece as the central analytical frame; deserves dedicated concept page documenting how the framing is now contested at both ends (labor was the historical user; management/academic commentators now adopting it as defensive rhetoric).
+- The actual text of Newsom's May 21 EO (PDF available at gov.ca.gov) — should be ingested as primary source rather than via secondary CBS framing.
+- Iranian response to Rubio's "completely illegal" framing — to be captured when it materializes.
+- The next-draft federal AI EO when it lands — to compare against pre-postponement language and identify which clause Trump objected to.
 
 ### 2026-05-21 Ingest — Musk-OpenAI jury verdict + Warsh swearing-in scheduled (3 sources, 1 new entity, 5 existing entity updates)
 
@@ -62,7 +99,7 @@ Deferred-ingest pass clearing the three raw files committed at `2cabe08` ("inges
 **Deferred stubs** (wikilinks left in newly-created/updated pages but no entity/concept page created):
 - People: Cade Metz, Mike Isaac, Ashley Belanger, Marc Toberoff, Steven Molo, William Savitt, Greg Brockman (referenced repeatedly), Catherine Bracy, Dorothy Lund, Tre Lovell, Tim Draper, Oren Etzioni, Ross Gerber, Austan Goolsbee (referenced; promote next cycle), Rob Bonta
 - Orgs: EyesOnOpenAI, Allen Institute for A.I., Wachtell Lipton (Savitt's firm), Ronald V. Dellums U.S. Courthouse
-- Concepts: Hivemapper, Bee Maps, HONEY (the token), Franchise vs Business (flagged by [[You Own the Hotspot]] flagship; promote when piece publishes Friday)
+- Concepts: Hivemapper, Bee Maps, HONEY (the token). **Update 2026-05-21**: [[Franchise vs. Business]], [[Proxy Concentration Audit]], [[Auto-Renewal by Inaction]] promoted from this list to concept pages (the three transferable analytical moves named by [[Helium HIP-143 and the DePIN Franchise Architecture]]). [[Nova Labs]] entity also promoted from deferred-orgs.
 
 **Helium Halving duplicate raw note**: Two raw files exist for the same Helium Halving 2025 article — `Helium Halving 2025 What It Means for Hotspot Operators, HNT Holders, and Network Governance.md` (7,462 bytes, May 16 ingest, blog.helium.com source) and `Helium Halving 2025 What It Means for Hotspot Operators, HNT Holders….md` (8,034 bytes, May 19 archive.ph fallback). The existing source page `[[Helium Halving 2025 — Helium Blog - 2025-07-24]]` references the first file. The second is a redundant archive.ph fallback. Both retained per the raw/ immutability rule; flagged here so future-self knows it's a known redundancy not a missing-ingest.
 
@@ -1308,6 +1345,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Todd Lyons]] — Acting ICE director; resigned effective May 31 2026; departure timed to first surge-officer criminal charge
 - [[Rick Crawford]] — U.S. Representative (R-AR); House Intelligence Committee chair
 - [[Scott Bessent]] — U.S. Secretary of the Treasury; fiscal policy, stablecoin regulation; Bessent-Warsh balance-sheet coordination; Bloomberg "statecraft" dollar agenda; IRS-DHS data sharing co-signatory (with Noem)
+- [[Marco Rubio]] — U.S. Secretary of State; public-facing position-stater for the Iran framework; May 21 "completely illegal" framing of the Hormuz toll system invokes UNCLOS Article 38 doctrine despite U.S. non-membership; the legal-rhetorical fallback after Project Freedom's operational retraction
 - [[Tim Kaine]] — U.S. Senator from Virginia (D); shutdown negotiation coverage
 - [[Tom Brady]] — Retired NFL QB; seven-time Super Bowl champion; NFL Dynasty reference point
 
@@ -1333,6 +1371,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Turning Point USA]] — Conservative youth advocacy organization; founded by Charlie Kirk 2012; major MAGA institutional actor
 - [[January 6 Capitol Riot]] — Jan 6 2021 attack on US Capitol; Trump culpability documented by Jack Smith; pardons issued
 - [[Helium Network]] — DePIN protocol; crowdsourced LoRaWAN IoT coverage; HNT tokenomics; Proof of Coverage vulnerabilities
+- [[Nova Labs]] — For-profit operator of Helium Mobile + carrier-offload counterparty + 26% governance proxy; the corporate counterparty at the center of the Helium [[Franchise vs. Business]] structure; Nova Labs proxy 26% + ferebee proxy 24% = 50% of yes votes on HIP-143; same two proxies = 57% of total vote on HIP-148; named single recipient of HIP-148's consolidated 24% Service Provider Pool of Mobile emissions
 - [[Hivemapper Foundation]] — Governance and incentive-administration arm of the Hivemapper decentralized mapping network; May 2 2026 10M HONEY coverage-map directive (green/orange/teal road classifications); stub entity flagged for raw-file capture; structural parallel to [[Helium Foundation]] / [[Nova Labs]] split
 - [[Render Network]] — DePIN protocol; aggregates spare GPU compute; creator economy use cases; RENDER token
 - [[Gala Games]] — Web3 entertainment ecosystem; GalaChain; gaming/music/film; capital-gating controversy
@@ -1478,6 +1517,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Dollarization via Stablecoins]] — What Tether actually does in Argentina, Turkey, Nigeria, Lebanon, Venezuela; why Circle cannot replace it (KYC perimeter); the strongest version of the hegemony claim
 - [[Datagram Network]] — DePIN project building decentralized internet infrastructure; user's personal project
 - [[Filecoin]] — Decentralized storage network; DePIN reference case; token-incentivized infrastructure deployment
+- [[Franchise vs. Business]] — Analytical move for any operator-deploys-capital structure; who holds pricing authority over revenue operators are paid out of, and how that authority is changed; Helium HIP-143/148 = the worked example; transferable to Render, GEODNET, io.net, Filecoin
+- [[Proxy Concentration Audit]] — Procedural test for DAO governance votes using proxy delegation; sum of proposing-entity-aligned proxies as share of yes votes; HIP-143 = 50%, HIP-148 = 57% of total; veHNT-accumulation-rate sub-finding (ferebee +55.5% in six months)
+- [[Auto-Renewal by Inaction]] — Default-rule design pattern that re-arms a governance authorization unless a superseding action is taken; HIP-143's 1-year delegation auto-renewed April 2026 with no operator participation; the time-dimension companion to [[Franchise vs. Business]]
 
 - [[Crypto Week]] — July 14-18 2025 legislative sprint; GENIUS Act + CLARITY Act + Anti-CBDC Act; partisan gradient; executive-legislative coordination
 - [[Anti-CBDC Surveillance State Act]] — H.R. 1919; bans Federal Reserve retail CBDC; 219-210 House vote; codifies Trump EO; "solving a problem that doesn't exist" critique

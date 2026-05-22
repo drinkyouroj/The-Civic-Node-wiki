@@ -4,7 +4,7 @@ type: concept
 tags: [labor, monetary-policy, ai, politics]
 created: 2026-05-18
 updated: 2026-05-18
-sources: 14
+sources: 16
 ---
 
 ## Definition
@@ -25,6 +25,8 @@ This is the first concept that connects TCN's monetary-policy lane to the labor 
 - **Korean "Citizen Dividend" proposal**: contemporaneous Korean government proposal to fund a citizen dividend from AI profits, roiling the market on May 12, 2026. The same windfall-sharing fight at the national-policy layer, parallel to the labor-layer Samsung fight. [[Samsung Fails to Reach Labor Deal — Bloomberg - 2026-05-12]]
 - [[PJM Interconnection]] capacity-market incidence Q1 2026: $13.77B added to customer bills from data center load over two BRAs (households absorbing cost rather than capturing windfall) [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]]
 - Maryland residents projected to pay $1.6B more in power bills due to out-of-state data centers (state-level incidence) [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]]
+- **Samsung deal cross-industry propagation (May 21, 2026)**: Within 24 hours of the Samsung 12%-of-OP tentative settlement, [[Kia]] (30% of OP, exceeding Q1 OP), [[Hyundai Motor]] (30% of net profit), [[HD Hyundai Heavy Industries]] (≥30% of OP), and [[Doosan Enerbility]] (cap abolition) all moved to "N% of operating profit as bonuses" demands citing Samsung explicitly. Korean Yellow Envelope Act extends the propagation to subcontractor unions. Korea Enterprises Federation pushback: "Samsung is an AI-supercycle exception, should not propagate." This is the windfall-sharing concept moving from chokepoint-industry-specific to cross-industry baseline within 24 hours — the inflection from "chokepoint labor extracts surplus" to "industrial labor adopts profit-share as the new bargaining baseline" is now documented. [[N Percent Bonus Demands Surge K-Shaped Polarization — Seoul Economic Daily - 2026-05-21]]
+- **Worker ownership models in California state policy (May 21, 2026)**: Newsom's AI Workforce Disruption EO lists worker ownership models as one of five worker-protection areas state agencies must examine within 180 days. ESOPs, cooperatives, and equity-stake compensation are the windfall-sharing mechanism applied at the legal-status layer — the U.S. state-policy analog of the Korean operating-profit-share bonus structure. The same fight, translated into U.S. legal-structure register. [[Newsom AI Workforce Disruption Executive Order — CBS Sacramento - 2026-05-21]]
 
 ## Tensions & counterarguments
 
@@ -48,3 +50,5 @@ This is the first concept that connects TCN's monetary-policy lane to the labor 
 - [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]] — cost-side companion (incidence)
 - [[AI Data Center Demand 76 Percent Surge East Coast Grid — SOFX - 2026-05-15]]
 - [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]]
+- [[N Percent Bonus Demands Surge K-Shaped Polarization — Seoul Economic Daily - 2026-05-21]] — the cross-industry propagation evidence
+- [[Newsom AI Workforce Disruption Executive Order — CBS Sacramento - 2026-05-21]] — U.S. state-policy variant (worker-ownership-models layer)

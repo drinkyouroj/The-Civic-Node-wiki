@@ -40,6 +40,10 @@ Governor of California (since 2019). Democratic politician widely discussed as a
 - Responded to Trump's "revenge at the voter box" mail-in voting lie: "An outright lie by the President of the United States" [[Trump calls for revenge at the voter box after Charlie Kirk's assassination]]
 - Blue-state energy cuts: California among the 16 states targeted; Newsom called it political retribution
 
+## AI Workforce Policy (2026)
+
+- **May 21, 2026 — AI Workforce Disruption Executive Order**: Signed an EO directing California state agencies to study and prepare for AI-driven job disruption. 180-day deliverable: recommendations on possible updates to California's WARN Act (Worker Adjustment and Retraining Notification) to make it more useful as an early-warning tool for AI-driven workforce disruption. Five worker-protection areas examined: severance standards, employment insurance, transition support for displaced workers, **worker ownership models**, expanded workforce training. Also commissioned: a labor-disruption early-warning report, an AI-impact-by-sector dashboard, and business-side workforce-decision feedback. Notable buried lede: worker-ownership models in the protection list is the [[AI Windfall Sharing]] mechanism applied at the legal-status layer (ESOPs, cooperatives, equity-stake compensation). Notable timing: same-day as Trump's [[Trump Postpones AI Executive Order — CBS - 2026-05-21|postponed federal AI EO]], leaving California's order at the state-level high-water mark and forcing any eventual federal preemption to be drafted against the now-published California text. [[Newsom AI Workforce Disruption Executive Order — CBS Sacramento - 2026-05-21]]
+
 ## Source Appearances
 
 - [[News you won't see on Fox News — California revoked over 280 hospice licenses]] — framed as defender of California's independent enforcement record

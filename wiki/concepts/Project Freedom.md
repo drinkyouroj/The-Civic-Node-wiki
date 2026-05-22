@@ -23,6 +23,7 @@ Project Freedom is the shortest-named U.S. military operation of the 2026 Iran w
 - **Day 3** (May 5): Trump announces pause "for a short period of time" by "mutual agreement" at Pakistan's request; blockade continues; UKMTO confirms cargo vessel struck by unknown projectile ([[Trump Pauses Project Freedom — BBC - 2026-05-05]])
 - **Day 4** (May 6): Trump threatens "much higher level and intensity" attacks if Iran does not sign one-page memorandum; Witkoff/Kushner channel running ([[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]])
 - Macro receipt: April PMI Prices index 84.6 (April 2022 peak match), with respondents explicitly citing Iran-war energy pass-through ([[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]])
+- **The legal-rhetorical fallback (May 21, 2026)**: 16 days after the Project Freedom pause, Rubio publicly framed the Iranian Hormuz toll system as "completely illegal" and a diplomatic-deal disqualifier, invoking UNCLOS Article 38 freedom-of-transit doctrine. This is the U.S. position after the operational chokepoint-overlay attempt failed: shift from physical-overlay to legal-rhetorical-delegitimization. The pattern documents what comes after the 48-hour campaign — when the operational lever can't be re-engaged, the U.S. retreats to the rules-based-international-order framing. ([[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]])
 
 ## Tensions & Counterarguments
 
