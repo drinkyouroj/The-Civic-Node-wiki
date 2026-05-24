@@ -3,8 +3,8 @@ title: "Franchise vs. Business"
 type: concept
 tags: [depin, governance, operator-economics, franchise, dao, chokepoint, monetary-policy]
 created: 2026-05-21
-updated: 2026-05-21
-sources: 14
+updated: 2026-05-24
+sources: 15
 ---
 
 ## Definition
@@ -62,6 +62,10 @@ Two earlier newsletter pieces ([[DePIN More Than Hype]], [[Everyone's Farming De
 - [[Chokepoint Control]] — the franchise architecture is a chokepoint at the protocol layer; pricing authority is the chokepoint the franchisor holds
 - [[DePIN]] — the broader category the test lives inside
 - [[Operator View of Crypto Regulation]] — the regulatory-asymmetry framing that connects franchise architecture to franchise-disclosure law
+
+## Published Synthesis
+
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] (Substack, 2026-05-21) — first popular-form article translating the franchise-vs-business test into newsletter prose, using the Helium HIP-143 + HIP-148 sequence as the worked example. The article's four-component disclosure standard (floor + exit, aggregate revenue disclosure, geographic acknowledgment, active-re-vote sunsets) is the prescriptive complement to this concept's diagnostic test. The article also makes the FTC Franchise Rule (16 CFR Part 436) FDD analogy explicit at the popular level.
 
 ## Key Sources
 

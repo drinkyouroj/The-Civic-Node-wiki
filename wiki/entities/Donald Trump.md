@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, geopolitics, monetary-policy, crypto]
 created: 2026-04-06
-updated: 2026-05-12
-sources: 58
+updated: 2026-05-24
+sources: 65
 ---
 
 ## Overview
@@ -98,6 +98,26 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 
 - **May 21, 2026 — AI Executive Order postponement**: Trump publicly announced the postponement of a planned AI executive order signing ceremony during an unrelated Oval Office event, after a Punchbowl reporter posted the news on X. Stated reason: "Because I didn't like certain aspects of it, I postponed it. I think it gets in the way of, you know, we're leading China, we're leading everybody, and I don't want to do anything that's going to get in the way of that lead." The draft EO (per CBS sourcing) included: securing Pentagon systems, securing federal civilian systems, promoting federal AI tool use, and a **voluntary framework with AI developers covering pre-public access to select models**. CBS does not pin Trump's objection to any specific clause. No reissue timeline announced. The voluntary-pre-public-access provision is the candidate red-flag clause given OpenAI's open IPO window post-Musk verdict and Anthropic's Pentagon-refusal track. [[Trump Postpones AI Executive Order — CBS - 2026-05-21]]
 
+## Iran Deal Endgame Weekend (May 22–24, 2026)
+
+- **May 22 — Wicker bloc dissent on record**: Senate Armed Services Chair [[Roger Wicker]] (R-MS) X-post calling the framework "ill advised" and "not worth the paper it is written on." Aligned voices: Sens. [[Ted Cruz]] (R-TX) and [[Lindsey Graham]] (R-SC). The first publicly-staged intra-GOP Senate-hawk bloc dissent on the Iran framework since the April ceasefire. [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]]
+- **May 23 (Saturday evening) — "largely negotiated" announcement**: Trump announces from Truth Social/Oval Office that a U.S.–Iran peace deal is "largely negotiated, with final details still being worked out." Earlier in the day cancelled a planned Bedminster trip to remain in Oval Office "focused on international negotiations."
+- **May 23 (6 p.m. EDT) — White House shooting**: Gunman Nasire Best, 21, opened fire near 17th & Pennsylvania Ave NW; Secret Service returned fire, killing him. Bystander wounded. Trump was inside the Oval Office at the time and was not impacted. Per WH Comms Director Steven Cheung: Trump "has been working hard at the White House since early this morning." Second WH-complex incident in approximately a month (cf. [[White House Correspondents' Dinner Shooting 2026]]). [[Suspected Gunman Dead After Gunfire Exchanged with Secret Service Near White House — The Hill - 2026-05-23]] [[Alleged Gunman Killed in Shooting Near White House Identified — USA Today - 2026-05-23]]
+- **May 24 (Sunday morning) — Iranian pushback via Fars**: Iranian state-linked Fars news agency calls Trump's Saturday remarks on the Strait of Hormuz **"inconsistent with reality"** — Iran would allow strait shipping to return to "pre-war" levels but not "free passage"; management would "continue to be a monopoly"; **no commitments on Iran's nuclear program have been made**. Pair with [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]].
+- **May 24 (Sunday morning) — Competing WH-official claim via CBS**: A senior Trump administration official says Iran has agreed in principle to dispose of HEU; Iran's Supreme Leader has "approved the template for a deal"; the deal would be better than the 2015 JCPOA. Negotiating team named: [[JD Vance]], [[Steve Witkoff]], [[Jared Kushner]]. [[Marco Rubio]] is *not* on the negotiating-team list. CENTCOM coordination with Gulf countries to ensure safe passage "should not be understood as a tolling system." [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]]
+- **May 24 (Sunday) — Trump walk-back**: Truth Social post — told his representatives "not to rush into a deal" and "time is on our side." Walk-back from Saturday's "largely negotiated" framing.
+
+> ⚠️ Contradiction: Fars (May 24) says Iran has made no nuclear commitments; CBS (May 24) reports the WH official saying Iran agreed in principle to dispose of HEU. Two mutually-exclusive press-briefing-tier claims on the same weekend. Resolution pending primary-text deal language or Supreme Leader statement.
+
+## Trump-IRS Settlement Structure (Pre-May 2026)
+
+The May 22 [[Exclusive US Tax Officials Consider Adding Citizenship Question to Tax Forms — Reuters - 2026-05-22]] piece surfaces a structurally significant settlement that the wiki should track as a top-tier [[Conflict-of-Interest Gap]] example:
+
+- Trump dropped his $10B lawsuit against the [[IRS]] (filed seeking damages for contractor Charles Littlejohn's leak of Trump's tax returns to media outlets; Littlejohn is serving 5 years).
+- In exchange, DOJ created a **~$1.8B fund** to pay "supposed victims of 'government weaponization'" (operational status not documented).
+- As part of the same settlement, Acting AG [[Todd Blanche]] **signed an agreement permanently barring the IRS from pursuing tax claims against Trump, his family, or his businesses**.
+- Same-day-coincidence: the May 22 Reuters publication of this detail also coincided with the federal-court dismissal of the [[Kilmar Abrego]] indictment, in which Blanche's prior Fox News statements were used as load-bearing evidence of vindictive prosecutorial motive. Two distinct procedural pathways, same institutional actor at the center.
+
 ## Source Appearances
 
 - [[Democrats sweep the first major elections of Trump's second term]] — reaction to Democratic sweep; "communist" attack on Mamdani
@@ -145,6 +165,13 @@ Trump's assault on Federal Reserve independence during 2025 is one of the most a
 - [[Iran Conflict May Have Motivated WHCD Shooter — Reuters DHS Report - 2026-05-06]] — referenced as primary target; April 7 "whole civilization will die" threat cited by DHS as the triggering content for shooter motive review
 - [[China Pauses Some Rare Earth Export Curbs — FDD - 2025-11-12]] — Busan summit (Oct 30 2025) with Xi: bilateral suspension of certain rare-earth export controls
 - [[US-China Trade Agreement Export Controls — MoFo - 2025-11-13]] — bilateral principal at Busan; "the most advanced [chips] … the United States will not let anybody have them other than the United States" (Reuters Nov 3 2025 cited)
+- [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]] — Wicker-bloc dissent on the Iran framework; Trump's "save war by waiting" framing contrasted with Wicker's "perception of weakness" framing
+- [[US Judge Dismisses Kilmar Abrego Indictment Finding DOJ Abused Power — Reuters - 2026-05-22]] — federal court finds DOJ abused power by prosecuting Abrego in retaliation for his deportation challenge; the Trump administration's deportation-campaign symbol survives the indictment
+- [[Exclusive US Tax Officials Consider Adding Citizenship Question to Tax Forms — Reuters - 2026-05-22]] — IRS form-design + the $10B-suit settlement: $1.8B fund + permanent-bar agreement signed by Acting AG Blanche
+- [[Suspected Gunman Dead After Gunfire Exchanged with Secret Service Near White House — The Hill - 2026-05-23]] — Trump inside the Oval Office during the May 23 shooting; cancelled Bedminster trip amid Iran negotiations
+- [[Alleged Gunman Killed in Shooting Near White House Identified — USA Today - 2026-05-23]] — identification of Nasire Best; Trump confirmed inside White House at time of shooting
+- [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]] — Iranian Fars news agency contradicts Trump's Saturday "largely negotiated" framing on Hormuz
+- [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]] — competing WH-official claim that Iran agreed in principle to dispose of HEU; negotiating team Vance/Witkoff/Kushner named; Trump Sunday walk-back ("not to rush into a deal")
 
 ## Open Questions
 

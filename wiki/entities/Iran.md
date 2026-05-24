@@ -4,8 +4,8 @@ type: entity
 entity_type: country
 tags: [geopolitics, power, energy, infrastructure]
 created: 2026-04-06
-updated: 2026-05-16
-sources: 27
+updated: 2026-05-24
+sources: 30
 ---
 
 ## Overview
@@ -30,6 +30,13 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - **Iran's 10-point peace plan**: compensation for war damage, lift all sanctions, release frozen assets, withdraw US combat forces from regional bases. Trump initially called it "not good enough" but reframed as "a workable basis on which to negotiate" in his ceasefire post
 - **Civilian harm during pre-ceasefire campaign**: U.S. bombed the unfinished B1 highway bridge near Tehran, killing 8 at a family picnic; Israel bombed Sharif University of Technology, a recent site of anti-regime protests; Trump publicly bragged about destroying "the biggest bridge in Iran" and stated the goal was sending Iranians "back to the Stone Age, where they belong" [[Reason — Trump is openly targeting innocent civilians]]
 - **U.S. red-line on Hormuz tolling (May 21, 2026)**: Secretary of State [[Marco Rubio]] told reporters that the tolling system would make a U.S.–Iran diplomatic deal "unfeasible," framing it as "completely illegal" and "a threat to the world." First explicit U.S. cabinet-level rejection of the toll mechanism. Reuters captures no Iranian response. Rubio simultaneously framed the Iranian counterparty as "a system that itself is a little fractured" — public diplomatic concession that the U.S. cannot rely on monolithic interlocutors. The four binding constraints on the framework now visible: tolling veto (May 21), Israel-Lebanon ceasefire conditionality, Project Freedom retraction (May 5), IRGC cartographic claim (May 4). [[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]]
+- **May 22 — Senate-hawk bloc dissent on the framework**: Senate Armed Services Chair [[Roger Wicker]] (R-MS) X post: deal "ill advised," "not worth the paper it is written on"; demands renewed strikes to "finish the destruction of Iran's conventional military capabilities and reopen the strait." Sens. [[Ted Cruz]] and [[Lindsey Graham]] named as parallel skeptics. The first publicly-staged intra-GOP Senate-hawk-bloc dissent since the April ceasefire. [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]]
+- **May 23–24 — The deal-endgame weekend**: Saturday May 23, Trump announces from Oval Office that deal is "largely negotiated." Sunday May 24, two competing public framings emerge in parallel:
+  - **Fars news agency (Iranian state-linked)**: Trump's strait remarks "inconsistent with reality"; strait shipping returns to "pre-war" levels but **not "free passage"**; **Iranian management of strait "would continue to be a monopoly"**; **no commitments have been made on Iran's nuclear program** through the talks. [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]]
+  - **U.S. WH official via CBS**: Iran has **agreed in principle to dispose of HEU**; Iran's Supreme Leader has "approved the template for a deal"; deal would be better than 2015 JCPOA; U.S. would lift blockade as a condition; coordination with Gulf countries "should not be understood as a tolling system." Negotiating team: VP [[JD Vance]], envoy [[Steve Witkoff]], Trump son-in-law [[Jared Kushner]]. [[Marco Rubio]] not on the negotiating-team list. [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]]
+- **May 24 — Trump walk-back**: Truth Social post — told his representatives "not to rush into a deal" and "time is on our side." Re-anchors the framework as ongoing rather than imminent.
+
+> ⚠️ Contradiction: The Fars news agency (May 24) and the senior Trump administration WH official (May 24, via CBS) made mutually exclusive claims on the same morning. Fars: "no commitments on its nuclear program" through the talks. WH official: Iran "has agreed in principle to dispose of highly-enriched uranium." Both are press-briefing-tier sourcing on the same weekend. Resolution requires either a primary-text deal document or a public Iranian Supreme Leader statement. Document the gap until then.
 
 ## Newsletter Relevance
 
@@ -83,6 +90,9 @@ Islamic Republic of Iran. A major Middle Eastern power with significant oil rese
 - [[Trump Threatens Iran with More Bombing — The Hill - 2026-05-06]] — Trump threatens escalation; one-page memorandum being negotiated via Witkoff/Kushner channel
 - [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — Iran war mentioned in 47% of manufacturing-respondent comments; Prices Index 84.6 (Apr 2022 peak match)
 - [[Iran Conflict May Have Motivated WHCD Shooter — Reuters DHS Report - 2026-05-06]] — DHS assesses Iran conflict "may have contributed" to Cole Allen's WHCD attack motive
+- [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]] — Senate-hawk-bloc dissent on the framework (May 22); Wicker, Cruz, Graham
+- [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]] — Fars news agency rejection of Trump Saturday framing; "management is a monopoly"; no nuclear commitments
+- [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]] — competing WH-official claim of HEU disposal in principle; Vance/Witkoff/Kushner negotiating team; "not a tolling system" linguistic distinction
 
 ## Open Questions
 

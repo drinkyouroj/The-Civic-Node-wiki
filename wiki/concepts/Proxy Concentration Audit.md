@@ -4,7 +4,7 @@ type: concept
 tags: [depin, governance, dao, franchise, procedural-method]
 created: 2026-05-21
 updated: 2026-05-21
-sources: 10
+sources: 11
 ---
 
 ## Definition
@@ -81,3 +81,7 @@ The audit explains the concentration pattern but does not by itself explain how 
 - [[Helium HIP-138 Vote Results — Helium Vote - 2024-11-22]] — pre-concentration baseline
 - [[Helium HIP-53 Vote Results — Helium Vote - 2022-07-25]] — historical baseline before proxy-display was standard
 - [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — Foundation policy on proxy delegation; the mechanism behind the concentration
+
+## Published Synthesis
+
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] (Substack flagship, 2026-05-21) — first popular-form newsletter article to apply the audit to HIP-143 (50% of yes votes from Nova Labs proxy 26% + ferebee proxy 24%) and HIP-148 (57% of total vote from Nova Labs proxy 26% + ferebee proxy 31%), and to publish the ferebee +55.5% veHNT-accumulation finding between the two votes.

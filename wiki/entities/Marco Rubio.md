@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, geopolitics, diplomacy, iran, monetary-policy]
 created: 2026-05-21
-updated: 2026-05-21
-sources: 8
+updated: 2026-05-24
+sources: 10
 ---
 
 ## Overview
@@ -40,6 +40,12 @@ Marco Rubio is the U.S. Secretary of State in the second Trump administration (s
 ## Source Appearances
 
 - [[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]] — primary source for the "completely illegal" framing and "fractured system" Iranian-counterparty characterization
+- [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]] — implicit context: Rubio's May 21 framing is the U.S. position the Iranian Fars news agency's "monopoly" framing pushes back against
+- [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]] — **Rubio is NOT on the May 24 Iran negotiating team list (Vance, Witkoff, Kushner)**. Whether his May 21 "completely illegal" tolling framing was coordinated with the negotiating team or freelanced is now a worth-asking question.
+
+## Negotiating-Team Exclusion (May 24, 2026)
+
+The CBS reporting on Sunday May 24 names the Iran negotiating team as VP [[JD Vance]], Middle East envoy [[Steve Witkoff]], and Trump son-in-law [[Jared Kushner]]. Rubio is conspicuously absent. The negotiating-team composition is the meta-signal: the institutional architecture of the negotiation is irregular even by Trump-era standards. Whether Rubio's May 21 "completely illegal" framing represented (a) the coordinated U.S. negotiating posture, (b) a freelanced State Department position not endorsed by the negotiating team, or (c) a deliberate good-cop/bad-cop framing strategy is now an open question for the wiki to track. The next-step indicator: whether the State Department issues a formal release that aligns with or contradicts the WH-official briefing's "not a tolling system" linguistic distinction.
 
 ## Open Questions
 

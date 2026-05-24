@@ -4,7 +4,7 @@ type: concept
 tags: [depin, governance, dao, franchise, default-rule, procedural-method]
 created: 2026-05-21
 updated: 2026-05-21
-sources: 8
+sources: 9
 ---
 
 ## Definition
@@ -72,3 +72,7 @@ The auto-renewal interacts with the broader temporal pattern documented in [[Fra
 - [[Helium HIP-0143 — Decoupling Service Provider Pricing from Governance]] — the proposal text with the 1-year delegation provision
 - [[State of Helium Q4 2025 — Messari]] — primary documentation that no superseding HIP existed as of Q4 2025; the basis for the April 2026 auto-renewal finding
 - [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — Foundation policy on proxy delegation that compounds the operator-inattention input
+
+## Published Synthesis
+
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] (Substack flagship, 2026-05-21) — first popular-form newsletter article naming the auto-renewal mechanism in HIP-143's text and the April 2026 trigger. The article's fourth disclosure-standard component ("active-re-vote sunsets that require an active re-vote before the authority extends") is the prescriptive complement to this concept's diagnostic frame.

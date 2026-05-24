@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, dhs, immigration, mullin, accountability]
 created: 2026-05-01
-updated: 2026-05-01
-sources: 6
+updated: 2026-05-24
+sources: 8
 ---
 
 ## Overview
@@ -32,8 +32,17 @@ The narrative arc shifts: Noem's retcon failed against the record; Mullin's comm
 - [[Tom Homan]] — Border Czar, chain-of-command counterpart; relationship under Mullin not yet documented
 - [[Todd Lyons]] — Acting ICE Director whose May 31 resignation lands in Mullin's first month
 
+## May 23, 2026 — White House Shooting Response
+
+- X post in real-time: "I am closely monitoring the shooting incident near the White House and will update the public as we have more information. I am thankful for the bravery and swift action of the @SecretService officers involved. Thankfully, no officers were harmed."
+- Secret Service (a DHS component) shot and killed gunman Nasire Best near 17th & Pennsylvania Ave NW; bystander struck. President [[Donald Trump]] inside the Oval Office; no officers injured.
+- Second WH-complex incident in approximately a month (cf. [[White House Correspondents' Dinner Shooting 2026]]).
+- The Mullin response is the official DHS narrative for the May 23 incident; no formal post-incident report has been released as of this entry. [[Suspected Gunman Dead After Gunfire Exchanged with Secret Service Near White House — The Hill - 2026-05-23]] [[Alleged Gunman Killed in Shooting Near White House Identified — USA Today - 2026-05-23]]
+
 ## Source Appearances
 - [[Mullin DHS Policy Changes — CNN - 2026-04-02]] — primary source for stated policy commitments
+- [[Suspected Gunman Dead After Gunfire Exchanged with Secret Service Near White House — The Hill - 2026-05-23]] — X-post response to the May 23 WH shooting
+- [[Alleged Gunman Killed in Shooting Near White House Identified — USA Today - 2026-05-23]] — context for Mullin response; identification of Nasire Best
 
 ## Open Questions
 - Has Mullin publicly addressed the Renée Good or Alex Pretti shootings by name?

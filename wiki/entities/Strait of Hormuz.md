@@ -4,8 +4,8 @@ type: entity
 entity_type: infrastructure
 tags: [power, energy, geopolitics, infrastructure, monetary-policy, dedollarization]
 created: 2026-04-06
-updated: 2026-05-12
-sources: 25
+updated: 2026-05-24
+sources: 26
 ---
 
 ## Overview
@@ -70,6 +70,14 @@ The Strait of Hormuz is a narrow waterway between Iran and Oman connecting the P
 - [[ISM Manufacturing PMI April 2026 — Iran War 2nd Month - 2026-05-01]] — Hormuz/Suez/Red Sea rerouting cited explicitly in Transportation Equipment respondent commentary; Prices Index 84.6 (Apr 2022 peak match)
 - **May 2026 — April traffic data (AXS Marine)**: 301 crossings in April across 4 tracked cargo sub-segments (up from 238 in March, but down 90.9% YoY vs. 3,297 in April 2025). Peak: 28 crossings on April 18. Collapse to avg 6/day after TOUSKA seizure April 19. AIS dark rate: **307 of 949 vessels west of Hormuz operating under blackout = 32%** (pre-conflict: ~17%). Oil backlog: 108–117 million barrels stored aboard vessels in Gulf. Note: Kpler's widely-cited 191 April figure uses a different (broader) vessel universe — both are correct for different scopes. [[AXS Marine — Hormuz April Recovery — 2026-05]]
 - **May 10, 2026 — First Qatari LNG transit**: QatarEnergy's Al Kharaitiyat (Nakilat) crossed the Strait and entered the Gulf of Oman — first Qatari LNG carrier since February 28. Route: Tehran-approved northern corridor hugging the Iranian coast. Destination: Pakistan (Port Qasim). Pre-war baseline: ~3 LNG shipments/day from Persian Gulf. Qatar = ~1/5 of global LNG supply. Multiple previous attempts turned around before completing transit; this crossing required Iranian route authorization. [[Qatar First LNG Transit Hormuz — Fortune - 2026-05-10]]
+- [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]] — Wicker, Cruz, Graham bloc; strait reopening as a military objective
+- [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]] — Fars news agency: "management would continue to be a monopoly"; shipping returns to "pre-war" levels but not "free passage"
+- [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]] — WH official: U.S. would lift blockade as deal condition; CENTCOM coordination "should not be understood as a tolling system"
+
+## Key Facts (continued — May 22–24 weekend)
+
+- **May 22, 2026 — Senate-hawk-bloc demands operational re-take**: Wicker X post calls for renewed strikes to "reopen the strait" as a military objective; explicitly distinct from [[Marco Rubio]]'s May 21 legal-rhetorical framing. The wiki now documents two parallel U.S. positions on the same problem (military vs. legal-rhetorical). [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]]
+- **May 24, 2026 — The "monopoly" framing on the table**: The Iranian Fars news agency confirms (via the deal-template framing it pushes back on) that strait shipping under the tentative deal would return to "pre-war" levels but not "free passage" — **"management of the Strait would continue to be a monopoly" run by Iran**. U.S. WH official's parallel framing: U.S. would lift the blockade as a deal condition; CENTCOM coordination "should not be understood as a tolling system." The wiki now has documented evidence that both sides accept Iranian control of strait management; the contested deal term is the flow rate and the legal characterization of the access mechanism (toll vs. coordination). [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]] [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]]
 
 ## Open Questions
 

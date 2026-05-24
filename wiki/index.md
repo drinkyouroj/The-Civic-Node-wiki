@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-21
-total_pages: 1286
-total_sources: 731
-total_entities: 265
+updated: 2026-05-24
+total_pages: 1303
+total_sources: 741
+total_entities: 269
 total_concepts: 165
 total_syntheses: 27
-total_articles: 98
+total_articles: 101
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -23,6 +23,75 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-24 lint+ingest — May 22–24 Iran deal endgame + WH shooting (Nasire Best) + Kilmar Abrego dismissal + IRS citizenship form + Trump-IRS permanent bar surfacing + Redistricting structural asymmetry + DeepSeek V4-Pro 75% cut + NYC AI fiscal warning + Helium flagship published (10 sources, 1 article, 4 new entities, 0 new concepts)
+
+Tenth ingest pass clearing the 10 raw files and 1 published article that accumulated during the May 22–24 weekend. The 10 sources collectively document five overlapping editorial threads moving across a 72-hour window:
+
+**Iran deal endgame (3 sources)**:
+- [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]] — Ellen Mitchell. Senate Armed Services Chair Wicker's X-post: deal "ill advised," "would not be worth the paper it is written on"; demands renewed strikes to "finish the destruction of Iran's conventional military capabilities and reopen the strait." Sens. Cruz and Graham named as parallel skeptics. The first publicly-staged intra-GOP Senate-hawk-bloc dissent on the Iran framework since the April ceasefire. John Bolton ("waste of oxygen to negotiate") provides conservative-foreign-policy intellectual cover.
+- [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]] — Ian Swanson. Sunday May 24 Iranian Fars news agency pushback on Trump's Saturday "largely negotiated" framing: strait shipping returns to "pre-war" levels but **not "free passage"**; Iranian management "would continue to be a monopoly"; **no commitments on Iran's nuclear program have been made**.
+- [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]] — Jennifer Jacobs, Sara Cook. Competing WH-official claim Sunday May 24 that Iran has agreed in principle to dispose of HEU; Supreme Leader has "approved the template for a deal"; better than 2015 JCPOA. Negotiating team named: Vance, Witkoff, Kushner. **Rubio is NOT on the negotiating-team list.** "Coordination should not be understood as a tolling system" is the operative linguistic distinction. Trump Sunday walk-back: "time is on our side." ⚠️ Contradiction with Fars Sunday statement documented in both source pages.
+
+**White House complex shooting / political violence cycle (2 sources)**:
+- [[Suspected Gunman Dead After Gunfire Exchanged with Secret Service Near White House — The Hill - 2026-05-23]] — Sophie Brams. First-night reporting on the May 23 6 p.m. EDT shooting near 17th & Pennsylvania Ave NW. Press lockdown ~40 minutes. Trump in Oval Office; not impacted. The Hill's first-night reporting **explicitly framed the incident as the second attempt** — referencing the WHCD prior incident in the closing paragraph before identification was even public.
+- [[Alleged Gunman Killed in Shooting Near White House Identified — USA Today - 2026-05-23]] — Zac Anderson, Anthony Thompson, Bart Jansen. Identification of gunman as Nasire Best, 21, of Dundalk MD. Documented prior escalating-pattern with the WH complex: July 2025 court charge for attempting unlawful entry, June 2025 involuntary Secret Service commitment, August 2025 bench warrant for failure-to-appear. Best had told officers in July 2025 that "he was Jesus Christ and wanted to be arrested." Second WH-complex incident in roughly a month.
+
+**DOJ accountability / Trump conflict-of-interest (2 sources, same-day same-actor parallel)**:
+- [[US Judge Dismisses Kilmar Abrego Indictment Finding DOJ Abused Power — Reuters - 2026-05-22]] — Luc Cohen. U.S. District Judge Waverly Crenshaw (Nashville, TN; Obama appointee) dismisses the federal human-smuggling indictment against [[Kilmar Abrego]] as an "abuse of prosecuting power." Crenshaw's October 2025 vindictive-prosecution finding rested on Acting AG [[Todd Blanche]]'s Fox News statement that DOJ began investigating Abrego *after* Judge Xinis questioned the deportation. Blanche did not testify at Feb 26 dismissal hearing. DOJ will appeal. DOJ response: "Another activist judge has placed politics above public safety."
+- [[Exclusive US Tax Officials Consider Adding Citizenship Question to Tax Forms — Reuters - 2026-05-22]] — Jacob Bogage. IRS debating two parallel versions of Form 1040 — one with routine updates, one with "non-U.S. citizen or dual citizenship" check-box. **The buried lede**: Trump's $10B suit against IRS settlement (for the contractor leak of his tax returns) produced (a) a ~$1.8B DOJ "government weaponization" fund and (b) **an agreement signed by Acting AG [[Todd Blanche]] permanently barring the IRS from pursuing tax claims against Trump, his family, or his businesses**. Same-day same-actor parallel with the Kilmar dismissal makes the May 22 Blanche cluster a synthesis-worthy pattern.
+
+**Redistricting / voting rights (1 source)**:
+- [[Democrats Vow Redistricting Counterpunch but Face Hurdles Republicans Don't — ABC - 2026-05-24]] — ABC News via AP (Scott Bauer Wisconsin reporting). Structural-asymmetry breakdown: CO/NY/NJ/WA Democrats must overturn voter-created independent commissions before they can match Republican gerrymandering. The Virginia precedent (state Supreme Court invalidation over a ballot-placement procedural error) is the cautionary tale. The 2028 race "much harder" for Democrats; post-2030 reapportionment projects 10 seats to Republican-controlled states. Obama reversal documented (formerly the face of independent commissions; now calling for aggressive map redrawing).
+
+**AI policy / competitive dynamics (2 sources)**:
+- [[China DeepSeek to Make Permanent 75 Percent Price Cut on V4-Pro AI Model — Reuters - 2026-05-23]] — Abu Sultan, Eduardo Baptista. DeepSeek's flagship V4-Pro API cut from 0.1–24 yuan/million tokens to **0.025–6 yuan/million tokens** (~$0.0035–$0.83 USD), made permanent. Did not disclose whether driven by Huawei Ascend 950 supply gains or competitive pricing. Pair with the federal-state-municipal AI workforce trifecta this week: U.S. labs now face cleared competitive-floor pressure from Chinese alternative-stack pricing while U.S. federal AI policy hesitates.
+- [[New York Official Warns AI Could Cost City Thousands of Jobs — The Hill - 2026-05-23]] — Sarah Davis. NYC Comptroller Mark Levine releases "AI and New York City's Fiscal Future" report. Moody's Analytics scenarios: best case +1% office openings annually; most likely +52K jobs/yr; worst case -110K jobs in 2027. Recommends rainy-day fund increase to 16% of annual tax revenue. Completes the federal-state-municipal AI workforce trifecta this week (Trump federal AI EO postponed May 21 + Newsom California AI EO May 21 + Levine NYC report May 22).
+
+**Published Substack flagship (1 article)**:
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] (published 2026-05-21) — Justin Hearn's flagship Substack piece. First popular-form newsletter article to make the [[Franchise vs. Business]] / [[Proxy Concentration Audit]] / [[Auto-Renewal by Inaction]] argument legible at the public level, using the Helium HIP-143 + HIP-148 worked example. The piece names the IoT-vs-Mobile revenue split ($124.77/day vs $56,635/day) as the load-bearing finding; the four-component disclosure standard (floor + exit, aggregate revenue disclosure, geographic acknowledgment, active-re-vote sunsets) as the prescriptive frame; the FTC Franchise Rule (16 CFR Part 436) FDD as the federal-disclosure-regime analogy; and a Datagram self-correction as the demonstration of the framework's limit ("The audit is the floor. It doesn't catch fraud."). Note: published Thursday May 21, not Friday May 22 as the wiki's content-calendar working assumption.
+
+**New entity pages (4)**:
+- [[Roger Wicker]] — Senate Armed Services Chair (R-MS); the named institutional anchor of the [[Coalition Fracture]] inside the GOP on the Iran framework
+- [[Kilmar Abrego]] — Salvadoran migrant; central symbol of mass-deportation campaign; subject of the May 22 vindictive-prosecution dismissal
+- [[IRS]] — Internal Revenue Service; institutional center for the IRS-DHS data-sharing campaign + the Trump permanent-bar settlement
+- [[Department of Homeland Security]] — DHS; recipient of the 42K-taxpayer erroneous IRS disclosure + houses Secret Service that responded to May 23 shooting
+
+**Existing pages updated (10)**:
+- [[Donald Trump]] (sources 58→64) — new "Iran Deal Endgame Weekend" section; "Trump-IRS Settlement Structure" section; multiple new source citations
+- [[Iran]] (27→30) — May 22 Wicker dissent; May 24 Fars pushback; May 24 WH-official HEU claim; contradiction marker
+- [[Strait of Hormuz]] (25→28) — May 22 Senate-hawk-bloc framing; May 24 "monopoly" framing; "not a tolling system" linguistic distinction
+- [[Todd Blanche]] (5→7) — May 22 same-day cluster: Kilmar Fox-News-as-court-evidence; permanent-IRS-bar settlement signature
+- [[DeepSeek]] (3→4) — V4-Pro 75% permanent cut; Huawei Ascend 950 supply dependency
+- [[U.S. Department of the Treasury]] (3→4) — IRS form 1040 deliberation; declined-to-comment posture
+- [[Marco Rubio]] (8→10) — May 24 negotiating-team exclusion; the "freelanced vs. coordinated" open question
+- [[JD Vance]] (13→14) — May 24 Iran negotiating team confirmation (Vance + Witkoff + Kushner)
+- [[Markwayne Mullin]] (6→8) — May 23 WH shooting response
+- [[Nova Labs]] (17→17 — internal updates) — flagship article cross-reference; "forthcoming" → "published" status flip
+- [[Helium Network]] (15→15 — internal updates) — Published Synthesis section added
+
+**Concept pages updated (6)**:
+- [[Franchise vs. Business]] (14→15) — Published Synthesis section added
+- [[Proxy Concentration Audit]] (—) — Published Synthesis section added
+- [[Auto-Renewal by Inaction]] (—) — Published Synthesis section added
+- [[Redistricting Arms Race]] (7→8) — Structural-Asymmetry framing section added with post-2030 reapportionment projection and Obama reversal
+- [[Conflict-of-Interest Gap]] (1→4) — promoted from stub to fully-developed concept page (was wikilink-only); IRS permanent-bar settlement is the worked example
+- [[White House Correspondents' Dinner Shooting 2026]] (10→12) — May 23 second-incident section added; cluster pattern now documented with two incidents in ~month
+- [[Datagram Network]] (0→1) — promoted from stub-from-broken-wikilinks to documented concept (with project-memory note); May 21 article's self-correction as the editorial anchor
+
+**Lint findings**:
+- **Index frontmatter drift caught**: pre-ingest actual articles = 100; index `total_articles` = 98. Off by +2 (two articles previously added without rolling forward the count). Reconciled this pass to 101 (post-ingest).
+- **Overview frontmatter drift caught**: `sources: 726` and lede "grown from 31 to **726**" — 5 behind actual 731 (the 2026-05-21 follow-up ingest added 5 sources but did not roll overview forward). Reconciling to 741 this pass (post-ingest).
+- **Spot-check on 2026-05-21 second-ingest source [[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]]**: facts as quoted in the source page align with the raw file (UNCLOS Article 38 framing, "completely illegal" quote, "fractured system" Iranian-counterparty characterization). No corrections.
+- **Spot-check on 2026-05-21 second-ingest source [[Newsom AI Workforce Disruption Executive Order — CBS Sacramento - 2026-05-21]]**: worker-ownership-models framing aligns with raw; no corrections.
+- **Contradiction markers introduced (2)**: the May 24 Fars/CBS contradiction on Iran nuclear commitment is documented in both [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]] and [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]], plus surfaced in [[Donald Trump]] and [[Iran]] entity pages.
+- **No prior ⚠️ Contradiction markers cleared this pass.**
+
+**Deferred stubs** (wikilinks left in source pages without their own entity/concept page):
+- People: Nasire Best (single-incident subject; reassess if pattern develops), Mark Levine (NYC Comptroller; reassess if recurring voice), Steve Witkoff (recurring but not new today; promote next cycle), Jared Kushner (recurring; promote next cycle), John Bolton (recurring foreign-policy voice; promote next cycle), John Thune (Senate Majority Leader; promote next cycle), Rick Scott, Steven Cheung, Selina Wang, Judge Waverly Crenshaw, Judge Paula Xinis, Charles Littlejohn, Nina Olson, Adam Kincaid, John Bisogano, Nicholas Stephanopoulos, Devin Remiker, Joe Morelle, ferebee (Helium proxy), zer0tweets, Inversion Capital
+- Orgs: Center for Taxpayer Rights, Yale Budget Lab, Fars news agency, AT&T, T-Mobile, U.S. Central Command, Moody's Analytics, New York City (Comptroller's office, City Council)
+- Concepts: K-Shaped Polarization (from prior ingest; still deferred), Documentary-Record-vs-Public-Statement Gap (cross-cluster pattern from prior ingests; defer; promote when 4+ instances), Vindictive Prosecution (single-case so far; defer until appellate ruling expands the doctrine), Voting Rights Act Erosion (still deferred pending *Callais* primary)
+- **Promotion candidates for next cycle**: [[Huawei]] entity (recurring across DeepSeek, AI chips, U.S. export controls cluster), [[Nvidia]] entity (same cluster; surprisingly absent from current wiki), [[Internal Revenue Service]] alias check for [[IRS]]
 
 ### 2026-05-21 Ingest follow-up — Cross-industry Korean labor + Meta school settlement + Newsom AI EO + Rubio Hormuz red-line + Trump federal AI EO postponed (5 sources, 1 new entity, 8 existing page updates)
 
@@ -1238,7 +1307,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[2025 Elections]] — Nov 4 2025; Mamdani (NYC), Sherrill (NJ), Spanberger (VA), Prop 50 (CA); thermostatic Democratic wave on Day 35 of shutdown
 
 ### People
-- [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; tariff regime architect; aggressive Fed pressure campaign 2025; World Liberty Financial crypto conflict
+- [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; tariff regime architect; aggressive Fed pressure campaign 2025; World Liberty Financial crypto conflict; May 22–24 2026 Iran deal endgame weekend ("largely negotiated" Saturday → Iranian Fars pushback Sunday → "time is on our side" Sunday walk-back); permanent IRS-tax-claim bar via Blanche-signed $1.8B-fund settlement
+- [[Roger Wicker]] — U.S. Senator (R-MS); Chairman, Senate Armed Services Committee; the named institutional anchor of the [[Coalition Fracture]] inside the GOP on the Iran framework; May 22 X-post "ill advised" framing; aligned with Cruz and Graham as the publicly-staged Senate-hawk-bloc dissent
+- [[Kilmar Abrego]] — Salvadoran migrant; central symbol of [[Donald Trump]]'s mass-deportation campaign; subject of the May 22 federal-court vindictive-prosecution dismissal that found DOJ "abused its power" by prosecuting Abrego in retaliation for his deportation challenge
 - [[Howard Lutnick]] — Commerce Secretary; former Cantor Fitzgerald chairman; Epstein contact record contradicts public denials; central to U.S.-China trade and rare-earth / BIS Affiliates Rule architecture
 - [[Jerome Powell]] — Federal Reserve Chair; resisted Trump pressure through 5 consecutive holds; "risk management" rate cuts Sep–Oct 2025; term ends May 2026
 - [[Arthur Burns]] — Fed Chair 1970–1978; capitulated to Nixon pressure on inflation; the cautionary archetype Powell is trying not to be
@@ -1350,6 +1421,8 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Tom Brady]] — Retired NFL QB; seven-time Super Bowl champion; NFL Dynasty reference point
 
 ### Organizations
+- [[IRS]] — Internal Revenue Service; institutional center for the IRS-DHS data-sharing campaign (Feb 2026 court-admitted 42K-taxpayer erroneous disclosure to DHS) and the Trump-personal permanent-IRS-tax-claim bar via Blanche-signed settlement; Form 1040 citizenship-question deliberation
+- [[Department of Homeland Security]] — DHS; cabinet department for immigration enforcement, Secret Service, ICE, CISA; Markwayne Mullin Secretary; institutional partner in the IRS data-sharing campaign; houses the Secret Service that shot Nasire Best at WH complex May 23 2026
 - [[American Oversight]] — Nonpartisan transparency-and-ethics nonprofit; FOIA + litigation focus; lead plaintiff in DHS records-preservation lawsuit; secured Nov 5 court admission that DHS's "no longer maintained" claim about Noem texts was "erroneous"
 - [[Cigna]] — major health insurer; PxDx algorithmic denial system; 300K claims denied at 1.2 sec each; potential state insurance law violations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
@@ -1660,6 +1733,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[The Process Is the Punishment]] — Apr 20 2026; second piece in The Wrong Defendant series; process-as-weapon thesis in creator-economy litigation; three docket items from Doe v. Bonnell (Abbymc evasion, Rose footnote, spoliation non-motion); coordination layer analysis
 
 ### Nonfiction Essays — DePIN & Crypto
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] — May 21 2026; first popular-form newsletter article making the [[Franchise vs. Business]] / [[Proxy Concentration Audit]] / [[Auto-Renewal by Inaction]] argument legible at the public level using the Helium HIP-143 + HIP-148 worked example; four-component disclosure standard; FTC Franchise Rule (16 CFR Part 436) FDD analogy; Datagram self-correction
 - [[The Cypherpunk Who Filed an S-1]] — Apr 15 2026; Adam Back's SPAC merger as the first mechanism that may force SEC disclosure on Satoshi's $81B in BTC; 17 years of anonymity vs. a single S-4 filing
 - [[DePIN More Than Hype]] — Introductory DePIN thesis; Datagram as flagship example
 - [[The DePIN Scam]] — "DePIN mullet" concept; 32-50% insider token allocations; Helium SEC enforcement; corporate theater as community governance
@@ -1778,12 +1852,49 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 726 |
-| Published articles tracked | 95 (84 standalone + 11 episodes) |
-| Entity pages | 263 |
-| Concept pages | 162 |
+| Total sources ingested | 741 |
+| Published articles tracked | 101 (87 standalone + 11 episodes + 3 backstage) |
+| Entity pages | 269 |
+| Concept pages | 165 |
 | Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
-| Last updated | 2026-05-21 |
+| Last updated | 2026-05-24 |
+
+### 2026-05-24 New Pages (lint + ingest)
+
+**Sources (10)**:
+- Iran deal endgame (3): [[Wicker Warns Trump Against Ill Advised Iran Deal — The Hill - 2026-05-22]], [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]], [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]]
+- WH-complex shooting (2): [[Suspected Gunman Dead After Gunfire Exchanged with Secret Service Near White House — The Hill - 2026-05-23]], [[Alleged Gunman Killed in Shooting Near White House Identified — USA Today - 2026-05-23]]
+- DOJ accountability / Trump conflict (2): [[US Judge Dismisses Kilmar Abrego Indictment Finding DOJ Abused Power — Reuters - 2026-05-22]], [[Exclusive US Tax Officials Consider Adding Citizenship Question to Tax Forms — Reuters - 2026-05-22]]
+- Redistricting (1): [[Democrats Vow Redistricting Counterpunch but Face Hurdles Republicans Don't — ABC - 2026-05-24]]
+- AI policy / competitive dynamics (2): [[China DeepSeek to Make Permanent 75 Percent Price Cut on V4-Pro AI Model — Reuters - 2026-05-23]], [[New York Official Warns AI Could Cost City Thousands of Jobs — The Hill - 2026-05-23]]
+
+**Articles (1 new)**:
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] — May 21 2026 flagship; popular-form distillation of the [[Helium HIP-143 and the DePIN Franchise Architecture]] synthesis using HIP-143 + HIP-148 worked example
+
+**Entities (4 new)**:
+- [[Roger Wicker]] — Senate Armed Services Chair; Iran-framework Coalition Fracture anchor
+- [[Kilmar Abrego]] — deportation-campaign symbol; subject of May 22 vindictive-prosecution dismissal
+- [[IRS]] — Internal Revenue Service; institutional center for the data-sharing campaign + Trump permanent-bar settlement
+- [[Department of Homeland Security]] — DHS; recipient of 42K-taxpayer erroneous disclosure + Secret Service operator
+
+**Concepts updated (6)** (no new):
+- [[Franchise vs. Business]] — Published Synthesis section added
+- [[Proxy Concentration Audit]] — Published Synthesis section added
+- [[Auto-Renewal by Inaction]] — Published Synthesis section added
+- [[Redistricting Arms Race]] — Structural-Asymmetry section added (post-2030 reapportionment + Obama reversal)
+- [[Conflict-of-Interest Gap]] — promoted from stub-from-broken-wikilinks to fully-developed concept (IRS permanent-bar worked example)
+- [[White House Correspondents' Dinner Shooting 2026]] — May 23 second-incident section added (cluster pattern now documented)
+- [[Datagram Network]] — promoted from stub to documented concept (May 21 article self-correction)
+
+**Entities updated (10)** (no new beyond the 4 above):
+- [[Donald Trump]] (sources 58→64), [[Iran]] (27→30), [[Strait of Hormuz]] (25→28), [[Todd Blanche]] (5→7), [[DeepSeek]] (3→4), [[U.S. Department of the Treasury]] (3→4), [[Marco Rubio]] (8→10), [[JD Vance]] (13→14), [[Markwayne Mullin]] (6→8), [[Helium Network]] (15→15 — internal), [[Nova Labs]] (17→17 — internal)
+
+**Lint findings**:
+- **Index frontmatter article-count drift caught**: pre-ingest `total_articles: 98` vs. actual `find` count 100 (off by +2 — two prior articles never rolled into the count). Reconciled to 101 (post-ingest).
+- **Overview frontmatter drift caught**: `sources: 726` and lede "grown from 31 to **726**" — 5 behind actual 731 (the 2026-05-21 follow-up never rolled overview forward). Reconciling to 741 (post-ingest).
+- **Spot-checks** on 2026-05-21 second-ingest source pages [[Rubio Hormuz Tolling Unfeasible for Iran Deal — Reuters - 2026-05-21]] and [[Newsom AI Workforce Disruption Executive Order — CBS Sacramento - 2026-05-21]] against their raw files: facts align, no corrections.
+- **Contradiction markers introduced (1 documented in 4 places)**: the May 24 Fars vs. CBS contradiction on Iran nuclear commitment — flagged in both source pages and in [[Donald Trump]] and [[Iran]] entity pages.
+- **No prior ⚠️ Contradiction markers cleared this pass.**
 
 ### 2026-05-16 New Pages (lint + ingest)
 
