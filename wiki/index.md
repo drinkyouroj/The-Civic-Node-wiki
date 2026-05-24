@@ -2,10 +2,10 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-24
-total_pages: 1305
-total_sources: 742
-total_entities: 270
-total_concepts: 165
+total_pages: 1310
+total_sources: 745
+total_entities: 271
+total_concepts: 166
 total_syntheses: 27
 total_articles: 101
 ---
@@ -23,6 +23,37 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-24 ingest (Flock evidence triad) — Bend National Lookup default-on + Ventura silent reactivation + Gibbs Mura class action (3 sources, 1 new entity, 1 new concept)
+
+Three-source pass triggered by the [[The Bill of Rights Ends at the Contractor's Door]] fact-check reconciliation (TCN draft v3, same date). All three sources were cited as primary references in the article but existed only as raw files; this pass promotes them to full wiki source pages and creates the missing architectural concept page and the missing legal-actor entity page.
+
+**Source pages:**
+- [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] — Peter Madsen, The Source (Bend, OR), May 6, 2026. 279 federal immigration queries against four cameras in three weeks (118 directly from CBP, 161 from third-party out-of-state agencies acting for ICE/CBP/HSI). Captain Brian Beekman's canonical statement of National Lookup reciprocity ("when you turn that on... that actually turns on the ability for other agencies in the country to query information from your agency"). City Council voted Jan 7, 2026 to shut down Flock; Oregon SB 1516 (signed March 31, 2026) is the legislative response.
+- [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]] — Matthew Rodriguez, CBS Los Angeles, Feb 27, 2026. Ventura County Sheriff's Office disabled National Lookup in June 2023 for California-law compliance; deputies discovered silent reactivation Feb 2025; audit found 364,000+ out-of-state queries between Feb–March 2025, with 299 immigration-justified queries. Sheriff's Office investigation determined no staff member reactivated the feature; Flock said the cause was "impossible to determine" due to logging limitations. The largest documented single instance of National Lookup defaulting back on against express department policy.
+- [[Gibbs Mura — Flock Safety Class Action California 2026]] — Gibbs Mura case page, April 3, 2026 amended complaint (original Feb 26, 2026); San Francisco Superior Court. Grounded in California Civil Code § 1798.90.55(b), § 1798.90.51, § 1798.90.52, and SB 54 — **no federal constitutional claims asserted**. Statutory damages floor $2,500/violation; 1.6M SFPD accesses ≈ $4B exposure on one department. 200+ California departments use Flock. California AG Rob Bonta's parallel El Cajon case (Oct 2025) is the state-AG enforcement track.
+
+**New entity:**
+- [[Gibbs Mura]] — Oakland plaintiff's law firm; David Berger / Kate Walford / Jennifer Sun / Eileen Epstein Carney lead attorneys; co-counsel Milberg PLLC; the named actor for the proposition that real remedies for vendor surveillance exist at the state-statutory layer, not the federal constitutional layer
+
+**New concept:**
+- [[National Lookup]] — Flock's reciprocal cross-agency query feature; default-on; architectural mechanism behind the [[Flock Safety Surveillance Network]]'s federal-immigration throughput; **the per-installation lever that creates the nationwide-database network effect**; documented operationally in the three new sources
+
+**Existing pages updated:**
+- [[Flock Safety]] (sources 15→18) — added Bend National Lookup case, Ventura silent reactivation case, Gibbs Mura amended complaint; new connections to [[Gibbs Mura]], [[Ventura County Sheriff's Office]], [[San Francisco Police Department]], [[Rob Bonta]]
+- [[Flock Safety Surveillance Network]] (sources 9→12) — added all three new operational/legal evidence rows; added [[National Lookup]] and [[Vendor-State Governance]] to Related Concepts
+
+**Newsletter angle**: This is the **operational and legal evidence layer** beneath the bill-text layer ingested earlier today via [[SCREEN Act S737 119th Congress — Bill Text]]. The structural pattern is now sourced at three altitudes simultaneously: federal statute (SCREEN Act §4(d) authorizing vendors), operational defaults (Bend + Ventura cases on National Lookup), and legal remedy (Gibbs Mura's California-statutory framework). Together they support the [[The Bill of Rights Ends at the Contractor's Door]] argument that vendor surveillance is structurally enforceable at the state-statutory layer but not at the federal constitutional layer — and the architectural mechanism (National Lookup default-on, with silent reactivation possible against department policy) is now documented as a recurring, reproducible failure mode rather than a one-off.
+
+**Deferred** (consistent with "defer until second-source threshold"):
+- Captain Brian Beekman (Bend PD), Police Chief Mike Krantz, Mayor Melanie Kebler, Catalina Sánchez Frank (Latino Community Association), Peter Madsen (author) — all single-source mentions; defer until a second source picks them up
+- Matthew Rodriguez (CBS LA author), Oxnard PC Jason Benites — single-source mentions; defer
+- David Berger, Kate Walford, Jennifer Sun, Eileen Epstein Carney (Gibbs Mura partners) — first substantive appearance, but as a team; defer individual entities until one becomes the named single-actor face
+- Oregon SB 1516 — referenced in [[Bend Source]] and in the TCN article draft, but no source about the bill itself yet; defer until a source primarily about the bill is ingested
+- California Civil Code § 1798.90.55(b) and related sections — statute citations only; defer until a source primarily analyzes the statutory framework
+- Ventura County Sheriff's Office — first-appearance entity in the Ventura case; second source already exists (TCN draft cites it), but the deferral rule is about wiki source coverage, not article coverage; defer until a second wiki source covers them
+- Milberg PLLC — co-counsel mention; defer
+- *El Cajon* California AG case (Oct 2025) — referenced in [[Gibbs Mura — Flock Safety Class Action California 2026]] but no source page on the case yet; flag for next ingest cycle
 
 ### 2026-05-24 ingest (single-source) — SCREEN Act (S.737, 119th Congress) bill text + new entity page (1 source, 1 new entity, 0 new concepts)
 

@@ -3073,3 +3073,48 @@ Single-source ingest pass triggered by the [[The Bill of Rights Ends at the Cont
 - `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
 - `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
 - Total = 1305 ✓ matches index `total_pages: 1305`
+
+## [2026-05-24] ingest | Flock evidence triad — Bend National Lookup default-on + Ventura silent reactivation + Gibbs Mura class action
+
+Three-source ingest pass triggered by the [[The Bill of Rights Ends at the Contractor's Door]] fact-check reconciliation (TCN draft v3, same date). All three sources were cited as primary references in the article but existed only as raw files awaiting wiki ingestion. This pass closes the gap and promotes them to full wiki source pages, plus creates the missing architectural concept page ([[National Lookup]]) and the missing legal-actor entity page ([[Gibbs Mura]]).
+
+**Created (5 pages):**
+- `wiki/sources/Bend Source — Bend PD Flock 279 Federal Queries June 2025.md` — Peter Madsen, The Source (Bend, OR), May 6, 2026. Canonical operational case study of National Lookup's reciprocal-by-default architecture. 279 federal immigration queries against four cameras in three weeks (118 from CBP, 161 from third-party out-of-state agencies acting for ICE/CBP/HSI). Bend Captain Brian Beekman discovered and disabled the feature on June 25, 2025, three weeks after deployment. City Council voted Jan 7, 2026 to shut down Flock; Oregon SB 1516 (signed March 31, 2026) is the legislative response.
+- `wiki/sources/CBS LA — Ventura County Flock 364k Unauthorized Access 2026.md` — Matthew Rodriguez, CBS Los Angeles, Feb 27, 2026. Largest documented single instance of National Lookup defaulting back on against express department policy. Ventura County Sheriff's Office disabled the feature in June 2023 for California-law compliance; silent reactivation discovered Feb 2025; audit found 364,000+ out-of-state queries between Feb–March 2025 with 299 immigration-justified queries. Sheriff's Office investigation determined no staff member reactivated it; Flock said the cause was "impossible to determine" due to logging limitations.
+- `wiki/sources/Gibbs Mura — Flock Safety Class Action California 2026.md` — Gibbs Mura law firm case page; amended complaint filed April 3, 2026 (original Feb 26) in San Francisco Superior Court. Co-counsel Milberg PLLC. Grounded in California Civil Code § 1798.90.55(b), § 1798.90.51, § 1798.90.52, and SB 54 — **no federal constitutional claims asserted**. Statutory damages floor $2,500/violation under § 1798.90.54; SFPD 1.6M federal accesses alone ≈ $4B exposure. 200+ California departments use Flock. California AG [[Rob Bonta]]'s parallel El Cajon case (October 2025) is the state-AG enforcement track.
+- `wiki/concepts/National Lookup.md` — new concept page; the per-installation Flock feature whose reciprocal-by-default architecture creates the [[Flock Safety Surveillance Network]]'s federal-immigration throughput. Three new sources + four prior wiki sources (Atlanta PD, NPR cancellations, SFist class action, Flock's own blog) all converge on the same architectural mechanism. The cleanest single feature in the wiki demonstrating how vendor defaults function as policy.
+- `wiki/entities/Gibbs Mura.md` — new entity page; Oakland plaintiff's law firm (David Berger / Kate Walford / Jennifer Sun / Eileen Epstein Carney). Type=organization. The named actor for the proposition that real remedies for vendor surveillance exist at the state-statutory layer, not the federal constitutional layer. Source threshold met: 2 wiki sources reference the firm ([[SFist — Flock lawsuit SFPD 1.6 million accesses]] mentioned them; [[Gibbs Mura — Flock Safety Class Action California 2026]] is the firm's own case page).
+
+**Updated:**
+- [[Flock Safety]] (sources 15→18) — added Bend National Lookup case row, Ventura silent reactivation case row, Gibbs Mura amended complaint row; new connections to [[Gibbs Mura]], [[Ventura County Sheriff's Office]], [[San Francisco Police Department]], [[Rob Bonta]]; three new source-appearance entries
+- [[Flock Safety Surveillance Network]] (sources 9→12) — added all three new operational/legal evidence rows; added [[National Lookup]] and [[Vendor-State Governance]] to Related Concepts; three new entries in Key Sources
+- [[overview.md]] (sources 742→745) — added "Update 2026-05-24 (latest, Flock evidence triad ingest)" entry above the SCREEN Act update; same-day stacking shows the structural pattern at three altitudes (federal statute / operational defaults / legal remedy)
+- [[index.md]] — new ingest entry at top of Sources section; counters bumped (total_pages 1305→1310, total_sources 742→745, total_entities 270→271, total_concepts 165→166)
+
+**Deferred (consistent with "defer until second-source threshold"):**
+- *People — single-source only*: Captain Brian Beekman (Bend PD); Police Chief Mike Krantz (Bend PD); Mayor Melanie Kebler (Bend); Catalina Sánchez Frank (Latino Community Association); Peter Madsen (Bend Source author); Matthew Rodriguez (CBS LA author); Oxnard PC Jason Benites; David Berger, Kate Walford, Jennifer Sun, Eileen Epstein Carney (Gibbs Mura partners; first appearance as a team)
+- *Organizations — first appearance only*: [[Ventura County Sheriff's Office]] (wikilink left dangling; TCN draft cites them but the deferral rule is about wiki-source coverage, not article coverage — defer until a second wiki source primarily covers them); [[San Francisco Police Department]] (wikilink dangling; SFist source mentions them but no source page primarily about SFPD); Latino Community Association (Bend); Milberg PLLC (co-counsel only); Mountain View Police Department, Los Altos Police Department (single-source mentions in the Gibbs Mura case page)
+- *Legislation / statutes*: Oregon SB 1516 (referenced in both [[Bend Source]] and the TCN article draft but no source primarily about the bill itself); California Civil Code § 1798.90.55(b) and related sections (statute citations only; defer until a source primarily analyzes the framework)
+- *Cases*: California AG *El Cajon* state-law case (Bonta, Oct 2025) — referenced in [[Gibbs Mura — Flock Safety Class Action California 2026]] but no source page on the case yet; flag for next ingest cycle
+- *Concepts*: [[Vendor-State Governance]] — appears as a wikilink in multiple pages now but doesn't yet have its own concept page; threshold met but deferred to next pass (would require structural concept-page synthesis across Flock, BetterHelp, SCREEN Act layers). [[Class Action]] — first substantive appearance in the surveillance context; defer until second domain (e.g., BetterHelp-style data-privacy class actions) for cross-domain framing.
+
+**Newsletter angle**: The wiki now sources the [[The Bill of Rights Ends at the Contractor's Door]] vendor-workaround thesis at three altitudes simultaneously, all converging on the same structural pattern:
+- **Federal statute layer** (ingested earlier today): [[SCREEN Act S737 119th Congress — Bill Text]] §4(d) authorizes third-party vendors to perform age verification while preserving platform liability and leaving vendor liability unaddressed
+- **Operational default layer** (this pass): [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] + [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]] document [[National Lookup]] as a reciprocal-by-default architecture that produces federal-immigration query throughput against department policy, with reactivation possible against express opt-out
+- **Legal remedy layer** (this pass): [[Gibbs Mura — Flock Safety Class Action California 2026]] grounds the only currently-available enforcement track in California state law, not federal constitutional doctrine — $2,500/violation × 1.6M SFPD accesses = $4B exposure on one department alone, with no Fourth Amendment theory of the case
+
+The architectural mechanism (National Lookup default-on, silent reactivation against department policy, logging limitations preventing causal attribution) is now documented as a **recurring, reproducible failure mode** rather than a one-off — and the legal-doctrine asymmetry (state-statutory remedies are real and enforceable; federal constitutional doctrine on private-vendor surveillance does not exist) is the structural insight the article makes legible.
+
+**Source acquisition targets:**
+- A source page primarily about Oregon SB 1516 (text, sponsors, legislative history)
+- A source page on the California AG El Cajon case (Bonta, October 2025)
+- Mountain View Police Department's decision to shut down its Flock network (cited in the Gibbs Mura case page but not yet sourced)
+- The Illinois Secretary of State audit finding CBP direct access to Illinois networks in violation of state law (referenced in [[Atlanta PD used Flock cameras to track migrants]] but no dedicated source page)
+
+**Index sanity-check post-ingest:**
+- `find wiki/sources -type f -name "*.md" | wc -l` = 746 (1 CLAUDE.md) = 745 sources ✓ matches index `total_sources: 745`
+- `find wiki/entities -type f -name "*.md" | wc -l` = 272 (1 CLAUDE.md) = 271 entities ✓ matches index `total_entities: 271`
+- `find wiki/concepts -type f -name "*.md" | wc -l` = 166 (no CLAUDE.md) = 166 concepts ✓ matches index `total_concepts: 166`
+- `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
+- `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
+- Total = 1310 ✓ matches index `total_pages: 1310`

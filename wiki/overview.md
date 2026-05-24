@@ -4,7 +4,7 @@ type: overview
 tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health, accountability, lgbtq, censorship, surveillance, dedollarization, depin]
 created: 2026-04-06
 updated: 2026-05-24
-sources: 742
+sources: 745
 ---
 
 # Research Overview
@@ -14,7 +14,9 @@ sources: 742
 
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
 
-The wiki has grown from 31 source documents to **742** across over a dozen major thematic clusters.
+The wiki has grown from 31 source documents to **745** across over a dozen major thematic clusters.
+
+**Update 2026-05-24 (latest, Flock evidence triad ingest)**: Three additional sources ingested — [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]], [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]], and [[Gibbs Mura — Flock Safety Class Action California 2026]] — plus a new [[National Lookup]] concept page and a new [[Gibbs Mura]] entity page. Triggered by the [[The Bill of Rights Ends at the Contractor's Door]] fact-check reconciliation (draft v3, same date); all three sources were cited as primary references in the article but existed only as raw files. This pass is the **operational and legal evidence layer** beneath the bill-text layer ingested earlier today via [[SCREEN Act S737 119th Congress — Bill Text]]. The wiki now sources the vendor-workaround pattern at three altitudes simultaneously: federal statute (SCREEN Act §4(d)), operational defaults (Bend National Lookup default-on + Ventura silent reactivation), and legal remedy (Gibbs Mura's California-statutory damages framework, $2,500/violation × 1.6M SFPD accesses ≈ $4B exposure on one department alone, with no federal constitutional claims asserted). The architectural mechanism behind the [[Flock Safety Surveillance Network]] now has its own concept page ([[National Lookup]]) — the reciprocal-by-default cross-agency query feature is **documented as a recurring, reproducible failure mode** rather than a one-off (three weeks in Bend = 279 federal immigration queries; silent reactivation against express department policy in Ventura = 364k accesses; 1.6M federal accesses at SFPD over seven months). [[Flock Safety]] entity page updated (sources 15→18) with the three new evidence rows; [[Flock Safety Surveillance Network]] concept page updated (sources 9→12) with the operational and legal layers.
 
 **Update 2026-05-24 (later, single-source ingest)**: One additional source ingested — [[SCREEN Act S737 119th Congress — Bill Text]] (S.737, 119th Congress; Sen. Mike Lee R-UT sponsor; introduced 2026-02-26) — and a new [[SCREEN Act]] entity page. Triggered by the [[The Bill of Rights Ends at the Contractor's Door]] reconciliation, which cites the bill as the federal-level instance of the vendor workaround pattern. The bill's §4(d) — "A covered platform may contract with a third party to employ technology verification measures… but the use of such a third party shall not relieve the covered platform of its obligations under this Act or from liability" — is the cleanest legislative-text instance the wiki holds of the bypass framework: platform liability preserved, vendor liability unaddressed, biometric/ID database held by the contracted vendor. Same structural pattern previously documented at the [[Flock Safety]] (Fourth Amendment / sanctuary policies), [[CISA]] (First Amendment / switchboarding), and [[BetterHelp]] (HIPAA / behavioral interest category) layers, now also embedded at the federal-statute design level. [[Kids Online Safety Act (KOSA)]] and [[Age Verification]] pages updated to resolve the previously-dangling [[SCREEN Act]] wikilinks.
 
