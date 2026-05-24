@@ -4,7 +4,7 @@ type: concept
 tags: [surveillance, alpr, infrastructure, vendor-architecture, immigration, politics]
 created: 2026-05-24
 updated: 2026-05-24
-sources: 11
+sources: 12
 ---
 
 ## Definition
@@ -23,6 +23,7 @@ The feature is the structural reason the [[Vendor Workaround Pattern|vendor work
 - **San Francisco PD (lawsuit, Feb 2026):** Gibbs Mura's amended complaint alleges **1.6 million federal-agency accesses** to SFPD's Flock data over seven months — at $2,500/violation statutory floor, $4 billion in California-state-law exposure. [[SFist — Flock lawsuit SFPD 1.6 million accesses]] / [[Gibbs Mura — Flock Safety Class Action California 2026]]
 - **Beekman's architectural description (the canonical quote):** "What we didn't know is that National Lookup is a reciprocal sharing feature — when you turn that on, yes, you can query outside your state, but that actually turns on the ability for other agencies in the country to query information from your agency."
 - **Flock's mitigation timeline (from [[Flock Safety — Does Flock Share Data With ICE]]):** March 2025 — California national lookup disabled at the state level; June 2025 — automatic immigration/reproductive-health keyword blocks; January 2026 — toggle to disable all federal sharing. Each mitigation addresses a specific failure mode; National Lookup as a reciprocal-by-default architecture persists.
+- **Oregon's legislative response ([[Oregon SB 1516]], signed March 31, 2026):** Doesn't name "National Lookup" but addresses the architecture at three statutory layers: §5 prohibits LE agencies from sharing captured plate data with any government entity not created under the Oregon Constitution (except for narrowly-defined LE purposes with no "unrestricted or ongoing access"); §6(2) mandates quarterly vendor-provided audits of all searches conducted on the agency's system on behalf of any non-contracting government agency (the federal-pull audit, statutorily required); §9 creates a private right of civil action against any vendor that "accesses, discloses, sells, shares or otherwise uses" captured plate data — the silent-reactivation failure mode at Ventura would, in Oregon under SB 1516, generate individual civil standing against the vendor. The remedy follows the vendor architecture, not the contracting agency. [[Oregon SB 1516 — Enrolled Bill Text]]
 
 ## Tensions & Counterarguments
 - **Flock's framing**: National Lookup is opt-in per department; each agency has sole authority over what they share. The architectural critique: "opt-in" is misleading when the default is reciprocal and reactivation occurs against department policy without an identifiable cause.
@@ -43,3 +44,4 @@ The feature is the structural reason the [[Vendor Workaround Pattern|vendor work
 - [[SFist — Flock lawsuit SFPD 1.6 million accesses]] — Leanne Maxwell, Feb 28, 2026; 1.6M SFPD accesses; class-action news framing
 - [[Atlanta PD used Flock cameras to track migrants, records show]] — ACPC, Nov 13, 2025; 4,500-agency footprint; 3,254 Border Patrol searches against APD via National Lookup
 - [[Why some cities are canceling Flock license plate reader contracts]] — NPR Joffe-Block, Feb 17, 2026; cancellation wave triggered in part by National Lookup architecture awareness; 30+ cities
+- [[Oregon SB 1516 — Enrolled Bill Text]] — primary text of the Oregon statute responding to the National Lookup federal-pull architecture; §5 + §6(2) + §9 framework writes vendor-side liability directly into Oregon's ALPR regime

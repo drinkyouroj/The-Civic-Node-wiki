@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-24
-total_pages: 1310
-total_sources: 745
-total_entities: 271
+total_pages: 1312
+total_sources: 746
+total_entities: 272
 total_concepts: 166
 total_syntheses: 27
 total_articles: 101
@@ -23,6 +23,47 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-24 ingest (single-source, primary text) — Oregon SB 1516 enrolled bill text + new entity page (1 source, 1 new entity, 0 new concepts)
+
+Fourth same-day single-source pass following the Flock evidence triad ingest earlier today. The Oregon SB 1516 PDF was added to `raw/` by the user; this pass promotes it to a full wiki source page and creates the missing legislation entity page. **This closes a source acquisition target flagged at the end of the prior ingest entry** ("A source page primarily about Oregon SB 1516 (text, sponsors, legislative history)").
+
+**Source page:**
+- [[Oregon SB 1516 — Enrolled Bill Text]] — 83rd Oregon Legislative Assembly, 2026 Regular Session; sponsor: Senate Interim Committee on Judiciary; passed Senate February 20, 2026; passed House March 5, 2026; signed by Governor [[Tina Kotek]] March 31, 2026 (per [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]]; the enrolled PDF has blank governor signature fields); emergency clause makes the law effective on passage. **Omnibus public safety act with three distinct parts**: Pretrial Release (§§1–2), ALPR Systems (§§3–9, §§10–11), Justice Reinvestment Equity Program (§12). The ALPR sections are the wiki-relevant core.
+
+**New entity:**
+- [[Oregon SB 1516]] — type=legislation; the first state-level statute in the wiki to write **explicit vendor-side liability** into ALPR contracts; entity-page summary of the bill's structural significance + provisions; source threshold met (primary bill text + secondary Bend Source coverage).
+
+**The structural innovation (§§3–9, §§10–11):**
+- **§4 — Authorized uses + 30-day retention**: Narrowly enumerated LE purposes (Oregon crimes; out-of-state-equivalent crimes; federal crimes not contrary to ORS 24.500 or the Oregon sanctuary statutes ORS 181A.250/820/826; outstanding warrants; AMBER/Silver Alerts; uninsured/unregistered vehicles; parking/secured-area control). 30-day retention for non-investigative data.
+- **§5 — Data-sharing limitations**: Prohibits providing access to captured plate data to any government entity not created under the Oregon Constitution or state law, except for narrowly-defined LE purposes that **may not include unrestricted or ongoing access**. The legislative reply to the federal-pull architecture.
+- **§6 — Vendor-provided audits**: Monthly searchable audit + **quarterly third-party-search audit** (all searches conducted on the agency's system on behalf of a non-contracting government agency). LE agency must publish audit results on its website within two days.
+- **§7(2)(e) — Mandatory contract terms (the structural innovation)**: (A) captured plate data is property of the LE agency, not owned by the vendor, may not be used or licensed by the vendor; (B) **all data requests (including warrants, subpoenas) must be routed exclusively to the LE agency**; (C) **end-to-end encryption required**; (D) FBI CJIS Security Policy compliance + audit rights + security-incident notification; (E) **vendor may be held liable for misuse**.
+- **§8 — Existing-contract grandfather**: Existing contracts may continue under original terms; extensions/renewals/new contracts must comply; §4 (authorized uses) applies regardless of contract date.
+- **§9 — Private right of action against vendors**: Vendor may not "access, disclose, sell, share or otherwise use" captured plate data; individual victims of intentional or grossly-negligent violations may bring civil action with economic and noneconomic damages, equitable relief, and attorney fees; any person may bring civil action to enjoin a violation; **§9 causes of action are the exclusive remedies** in law or equity for §9(1)(a) violations.
+- **§11 — Public records carveout (ORS 192.345(44))**: Captured plate data conditionally exempt from disclosure; §6 vendor audits MUST be disclosed (PII redacted). Codifies the audit-as-accountability-tool finding into the public records framework.
+
+**Existing pages updated:**
+- [[Flock Safety]] — added SB 1516 statutory regime to Key Facts; added [[Oregon SB 1516 — Enrolled Bill Text]] to Source Appearances
+- [[Flock Safety Surveillance Network]] — added Oregon vendor-liability statute to Evidence & Examples; added the new source to Key Sources
+- [[National Lookup]] — added Oregon's legislative response (§5 + §6(2) + §9 framework) to Evidence & Examples; added the new source to Key Sources
+- [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] — refined the SB 1516 reference now that primary text exists in the wiki (Bend Source's brief description was accurate as far as it went but understated the bill's vendor-liability scope)
+
+**Newsletter angle**: This is the **legislative-template altitude** of the same vendor-workaround thread the wiki now sources at four altitudes simultaneously:
+- **Federal statute layer**: [[SCREEN Act S737 119th Congress — Bill Text]] §4(d) authorizes vendors and preserves platform liability but leaves vendor liability unaddressed
+- **Operational default layer**: [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] + [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]] document the National Lookup architecture failing operationally
+- **Legal remedy layer (private class action)**: [[Gibbs Mura — Flock Safety Class Action California 2026]] grounds the only currently-available judicial enforcement track in California state law
+- **Legal remedy layer (state statute)**: **NEW** — [[Oregon SB 1516 — Enrolled Bill Text]] codifies vendor-side liability and a private right of action directly into Oregon's ALPR regime, with §9 being the exclusive remedy and §7(2)(e) writing mandatory contract terms (end-to-end encryption; vendor data-ownership disclaimer; exclusive routing of data requests) into every Oregon ALPR contract going forward
+
+Oregon's approach goes structurally further than California's: California's Civil Code §1798.90.55(b) prohibits LE agencies from sharing data with non-state entities (user-side restriction); Oregon SB 1516 §9 prohibits the *vendor* from accessing/using/sharing the data at all (vendor-side restriction), with statutory civil standing for individual victims. The remedy follows the vendor architecture, not the contracting agency. This is the **first state-level legislative response in the wiki that targets the vendor as the structural actor** rather than treating the vendor as a neutral pipe.
+
+**Deferred** (consistent with "defer until second-source threshold"):
+- Rob Wagner (Oregon Senate President); Julie Fahey (Oregon Speaker of the House); Obadiah Rutledge (Secretary of Senate); Tobias Read (Secretary of State) — ceremonial signatories; single-source mentions; defer
+- Senate Interim Committee on Judiciary — single-source mention; defer
+- Justice Reinvestment Equity Program — §12 amends the program but the wiki has no other source on it; defer
+- Pretrial Release framework (§§1–2 of SB 1516) — tangential to the surveillance thread; no separate page; flag for next time if a second criminal-justice source picks up the topic
+- [[Vendor-State Governance]] — concept page promotion deferred again; threshold now strongly met (referenced from Flock entity, SCREEN Act entity, Oregon SB 1516 entity, multiple source pages), but creating it would be a separate analytical synthesis pass rather than the in-scope ingest of one new source
+- Tina Kotek — Oregon Governor; not yet an entity page; threshold may be met now via multiple wiki references; flag for next ingest review
 
 ### 2026-05-24 ingest (Flock evidence triad) — Bend National Lookup default-on + Ventura silent reactivation + Gibbs Mura class action (3 sources, 1 new entity, 1 new concept)
 

@@ -5,7 +5,7 @@ entity_type: organization
 tags: [surveillance, infrastructure, technology, immigration, power]
 created: 2026-04-19
 updated: 2026-05-24
-sources: 22
+sources: 23
 ---
 
 ## Overview
@@ -31,6 +31,7 @@ Flock Safety is an Atlanta-based private surveillance technology company providi
 - **National Lookup default-on architecture (Bend, OR, June 2025):** Captain Brian Beekman discovered three weeks after deployment that [[National Lookup]] is reciprocal by default; in those 3 weeks, 279 federal immigration queries had run against Bend's four cameras (118 directly from CBP; 161 from third-party agencies acting for ICE/CBP/HSI). Beekman: "What we didn't know is that National Lookup is a reciprocal sharing feature... when you turn that on, yes, you can query outside your state, but that actually turns on the ability for other agencies in the country to query information from your agency." ([[Bend Source — Bend PD Flock 279 Federal Queries June 2025]])
 - **Silent reactivation against department policy (Ventura County, CA, Feb 2025):** Ventura County Sheriff's Office had disabled National Lookup in June 2023 to comply with California law; deputies discovered in early Feb 2025 it had been silently reactivated. An audit found **364,000+ out-of-state queries** between Feb–March 2025; 299 query justifications referenced immigration enforcement. The Sheriff's Office's internal investigation determined no one from the department had reactivated the feature; Flock stated the cause was "impossible to determine" due to "limitations in technical logging." ([[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]])
 - **Gibbs Mura amended class action (April 3, 2026):** Filed in San Francisco Superior Court (co-counsel Milberg PLLC); grounded in California Civil Code § 1798.90.55(b), § 1798.90.51, § 1798.90.52, and SB 54 — no federal constitutional claims asserted. Statutory damages floor $2,500/violation under § 1798.90.54; SFPD 1.6M accesses alone implies ~$4B statutory exposure. ([[Gibbs Mura — Flock Safety Class Action California 2026]])
+- **Oregon SB 1516 statutory regime ([[Oregon SB 1516]], signed March 31, 2026):** The first state-level statute to write **explicit vendor-side liability** into ALPR contracts. Mandatory contract terms (§7(2)(e)) include end-to-end encryption, vendor data-ownership disclaimer (vendor may not own, use, or license captured plate data), exclusive routing of all data requests (including warrants and subpoenas) through the LE agency, FBI CJIS Security Policy compliance, and explicit vendor liability for misuse. Section 9 creates a private right of civil action against any vendor that improperly accesses, discloses, sells, shares, or uses captured plate data, with §9 causes of action being the **exclusive remedy** in law or equity for §9(1)(a) violations. Section 6 requires monthly vendor audits + quarterly third-party-search audits with public posting within two days. ([[Oregon SB 1516 — Enrolled Bill Text]])
 
 ## Newsletter Relevance
 Flock is the **clearest case study of "private vendor as policy-laundering vehicle"** in this wiki's surveillance coverage. The architecture is the story: local sanctuary policies become functionally meaningless when local cameras feed a nationwide network that ICE-cooperative neighboring agencies can query. Connects directly to [[Operation Metro Surge]] and [[Killing of Renée Good]] as parallel "federal-immigration-via-local-infrastructure" cases.
@@ -62,6 +63,7 @@ The contradiction between Flock's stated non-cooperation policy and the document
 - [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] — Peter Madsen, May 2026; 279 federal immigration queries in three weeks; Beekman's canonical statement of the National Lookup reciprocity architecture
 - [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]] — Matthew Rodriguez, Feb 2026; 364k accesses after silent National Lookup reactivation; Flock's "impossible to determine" admission
 - [[Gibbs Mura — Flock Safety Class Action California 2026]] — case page, April 2026 amended complaint; statutory grounds; $2,500/violation framework; 200+ California-department class scope
+- [[Oregon SB 1516 — Enrolled Bill Text]] — Oregon's enrolled ALPR statute; mandatory contract terms with end-to-end encryption + vendor data-ownership disclaimer; §9 private right of civil action against vendors; first state law to put vendor liability at the center of the remedy
 
 ## Open Questions
 - Funding and ownership structure — Flock has raised significant venture capital; understanding the investor pressure to expand the agency network is key to predicting how seriously they'll enforce non-cooperation pledges.

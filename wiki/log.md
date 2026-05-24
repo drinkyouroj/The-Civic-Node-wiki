@@ -3118,3 +3118,59 @@ The architectural mechanism (National Lookup default-on, silent reactivation aga
 - `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
 - `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
 - Total = 1310 ✓ matches index `total_pages: 1310`
+
+## [2026-05-24] ingest | Oregon SB 1516 enrolled bill text + new entity page
+
+Single-source primary-text ingest triggered by user adding the Oregon SB 1516 enrolled PDF to `raw/` after the Flock-evidence-triad ingest earlier today. This closes the "Oregon SB 1516 primary text" source acquisition target flagged at the end of the previous log entry. The bill had been referenced as a wikilink (and as a secondary-source citation in [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]]) but no primary-text page existed.
+
+**Created (2 pages):**
+- `wiki/sources/Oregon SB 1516 — Enrolled Bill Text.md` — 16-page primary-source statutory text; 83rd Oregon Legislative Assembly, 2026 Regular Session; sponsor: Senate Interim Committee on Judiciary; passed Senate Feb 20, 2026 (Wagner / Rutledge signatures); passed House March 5, 2026 (Fahey signature); signed by Governor [[Tina Kotek]] March 31, 2026 per [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] (enrolled PDF has blank governor signature fields); emergency clause makes the law effective on passage. **Omnibus public safety act with three distinct parts**: Pretlrial Release (§§1–2); ALPR Systems (§§3–9, §§10–11); Justice Reinvestment Equity Program (§12). The ALPR sections (§§3–9, §§10–11) are the wiki-relevant core.
+- `wiki/entities/Oregon SB 1516.md` — new entity page; type=legislation (matches [[SCREEN Act]] entity-type precedent from earlier ingest); summarizes the bill's structural significance and provisions; source threshold met (primary text + secondary Bend Source coverage = 2 wiki sources).
+
+**Pre-ingest understanding (from secondary source) vs. primary text (key refinements):**
+- The Bend Source described the bill as "restricts ALPR data sharing to Oregon agencies only and requires public audit reports every 30 days." The primary text shows this is *partial* — accurate but understates the bill's scope.
+- The bill's structurally novel contribution is the **mandatory contract terms (§7(2)(e))** + **private right of civil action against vendors (§9)** + **§9 as the exclusive remedy** for §9(1)(a) violations. No state law in the wiki has this combination.
+- The bill is omnibus — Pretrial Release sections and Justice Reinvestment Equity Program sections are tangential to the surveillance thread; characterizing SB 1516 as "Oregon's Flock-restriction bill" is partial.
+- The §5 prohibition runs not just on out-of-state law enforcement but on **any government entity or agency not created pursuant to the Oregon Constitution, or the laws or regulations of this state** — broader than "Flock restricted to Oregon agencies."
+- §6 requires both monthly *and quarterly* audits; the quarterly audit specifically covers searches conducted on behalf of any non-contracting government agency — directly addressing the federal-pull pattern.
+- §4 authorized-uses incorporates Oregon's sanctuary statutes (ORS 181A.250/820/826) by reference — the bill is a sanctuary statute applied to ALPR, not just a generic data-protection statute.
+
+**Updated:**
+- [[Flock Safety]] — added SB 1516 statutory regime to Key Facts (mandatory contract terms + §9 private right of action + §6 audit framework); added the new source page to Source Appearances
+- [[Flock Safety Surveillance Network]] — added Oregon vendor-liability statute to Evidence & Examples; added the new source to Key Sources
+- [[National Lookup]] — added Oregon's three-layer legislative response (§5 + §6(2) + §9) to Evidence & Examples; added the new source to Key Sources
+- [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] — refined the SB 1516 reference to flag that primary text now exists in the wiki and that the Bend Source description was structurally understated
+- [[overview.md]] (sources 745→746) — added "Update 2026-05-24 (latest-latest, Oregon SB 1516 enrolled bill text)" entry above the Flock-evidence-triad update; same-day stacking shows the wiki now sources the vendor-workaround thesis at four altitudes
+- [[index.md]] — new ingest entry at top of Sources section; counters bumped (total_pages 1310→1312, total_sources 745→746, total_entities 271→272, total_concepts unchanged at 166)
+
+**Deferred (consistent with "defer until second-source threshold"):**
+- Rob Wagner (Oregon Senate President); Julie Fahey (Oregon Speaker of the House); Obadiah Rutledge (Secretary of the Senate); Tobias Read (Secretary of State) — ceremonial signatories on the enrolled bill; single-source mentions; defer until a second source picks them up
+- Senate Interim Committee on Judiciary — single-source mention; defer
+- [[Tina Kotek]] — Oregon Governor; appears in this source via the signature reference; the wiki has prior references in unrelated political/state-economy contexts; threshold likely met but creating the entity page is a separate dedicated pass; flag for next ingest review
+- Justice Reinvestment Equity Program (§12 amends section 15, chapter 78, Oregon Laws 2022) — tangential to the surveillance thread; no entity page; defer
+- ORS sections referenced (135.230, 135.233, 137.865, 192.345, 24.500, 181A.250, 181A.820, 181A.826, 181A.300, 181A.775, etc.) — Oregon statutes referenced or amended by the bill; none have wiki pages; not a fragmentation candidate (per CLAUDE.md "prefer aggregation"); statutory text remains accessible via the source page
+- [[Vendor-State Governance]] concept page — threshold strongly met now (referenced in [[Flock Safety]], [[SCREEN Act]] entity, [[Oregon SB 1516]] entity, [[National Lookup]] concept, three Flock source pages, and one synthesis); creating this concept page would be a separate analytical-synthesis pass, not an in-scope ingest of one new source; defer one more cycle but flag prominently
+- Pretrial Release framework (§§1–2 of SB 1516) — substantive criminal-justice content but tangential to the surveillance thread; no separate page; flag for next time if a second criminal-justice source picks up the topic
+
+**Newsletter angle**: The wiki now sources the [[The Bill of Rights Ends at the Contractor's Door]] vendor-workaround thesis at **four altitudes simultaneously**, all ingested or updated within a single working day:
+- **Federal statute layer**: [[SCREEN Act S737 119th Congress — Bill Text]] §4(d) authorizes third-party vendors to perform age verification, preserves platform liability, leaves vendor liability unaddressed
+- **Operational default layer**: [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] + [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]] document [[National Lookup]] failing operationally as a reciprocal-by-default architecture that produces federal-immigration query throughput against department policy
+- **Legal remedy layer — private class action**: [[Gibbs Mura — Flock Safety Class Action California 2026]] grounds the only currently-available *judicial* enforcement track in California state law (Civil Code § 1798.90.55(b) and SB 54)
+- **Legal remedy layer — state statute**: **NEW** — [[Oregon SB 1516]] codifies vendor-side liability and a private right of action directly into Oregon's ALPR regime, with §9 being the exclusive remedy and §7(2)(e) writing mandatory contract terms into every Oregon ALPR contract going forward
+
+The Oregon approach goes structurally further than the California Gibbs Mura framework: in California, the remedy follows the *contracting agency's breach* of state-law data-sharing obligations; in Oregon under SB 1516, **the remedy follows the vendor architecture directly** — a vendor that "accesses, discloses, sells, shares or otherwise uses" captured plate data has violated §9(1)(a) regardless of what the contracting agency did or didn't do. The §9 framework is the first state-level codification in the wiki of the proposition that **the vendor is a structural actor, not a neutral pipe**.
+
+**Source acquisition targets** (carried forward from prior ingest, refined):
+- Primary-source confirmation of Governor Kotek's March 31, 2026 signature (Oregon governor's office press release, OLIS final entry, or Oregon Laws 2026 chapter assignment) — currently relying on Bend Source's secondary mention
+- A source page on the California AG El Cajon case (Bonta, October 2025) — referenced in [[Gibbs Mura — Flock Safety Class Action California 2026]] but not yet sourced
+- Mountain View Police Department's decision to shut down its Flock network — cited in the Gibbs Mura case page; not yet directly sourced
+- Companion or sibling Oregon ALPR bills in the 2026 session — possible Senate Interim Committee on Judiciary package
+- Whether any other state (especially California, Washington) has introduced legislation patterned on SB 1516's §7(2)(e) mandatory-contract-terms framework
+
+**Index sanity-check post-ingest:**
+- `find wiki/sources -type f -name "*.md" | wc -l` = 747 (1 CLAUDE.md) = 746 sources ✓ matches index `total_sources: 746`
+- `find wiki/entities -type f -name "*.md" | wc -l` = 273 (1 CLAUDE.md) = 272 entities ✓ matches index `total_entities: 272`
+- `find wiki/concepts -type f -name "*.md" | wc -l` = 166 (no CLAUDE.md) = 166 concepts ✓ matches index `total_concepts: 166`
+- `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
+- `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
+- Total = 1312 ✓ matches index `total_pages: 1312`

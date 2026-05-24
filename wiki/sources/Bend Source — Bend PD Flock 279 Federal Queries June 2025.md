@@ -24,7 +24,7 @@ Bend, Oregon's police department signed on to [[Flock Safety]]'s ALPR network in
 - **Catalina Sánchez Frank (Latino Community Association):** "The timing represents a concerning overlap, as June 2025 was an intense period of immigration law enforcement in our area"
 - **Police Chief Mike Krantz and Mayor Melanie Kebler** characterized the incident as a configuration error, not a privacy breach
 - **Bend City Council voted January 7, 2026 to immediately shut down** the Flock cameras and let the contract expire May 1, 2026
-- **Oregon SB 1516, signed March 31, 2026**, restricts ALPR data sharing to Oregon agencies only and mandates public audit reports every 30 days — Bend's incident is the documented driver
+- **Oregon SB 1516, signed March 31, 2026**, restricts ALPR data sharing to Oregon agencies only and mandates public audit reports every 30 days — Bend's incident is the documented driver. (Bill text now in wiki via [[Oregon SB 1516 — Enrolled Bill Text]]; the bill is structurally broader than Bend Source's description — includes mandatory vendor-contract terms with end-to-end encryption and an exclusive §9 private right of civil action against vendors)
 
 ## Newsletter Angles
 - **The "default-on" architecture is the entire story.** Bend deployed four cameras for a service it understood to be local; the network deployed it as a federal-immigration node before the department could audit the configuration. The vendor's default settings — not the contract, not the city's policy — determined what surveillance was actually delivered. Pair with [[Atlanta PD used Flock cameras to track migrants]] for the same architectural pattern at scale.
