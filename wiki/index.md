@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-24
-total_pages: 1303
-total_sources: 741
-total_entities: 269
+total_pages: 1305
+total_sources: 742
+total_entities: 270
 total_concepts: 165
 total_syntheses: 27
 total_articles: 101
@@ -23,6 +23,29 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-05-24 ingest (single-source) — SCREEN Act (S.737, 119th Congress) bill text + new entity page (1 source, 1 new entity, 0 new concepts)
+
+Single-source pass triggered by the [[The Bill of Rights Ends at the Contractor's Door]] reconciliation; the article cites the SCREEN Act as the federal-level instance of the vendor workaround pattern, but the wiki had only referenced the bill via wikilinks ([[KOSA]], [[Age Verification]]) without a primary text or entity page. This pass closes that gap.
+
+**Bill text source:**
+- [[SCREEN Act S737 119th Congress — Bill Text]] — Sen. Mike Lee (R-UT), introduced 2026-02-26, referred to Senate Commerce, Science, and Transportation. Mandates "technology verification measures" for any platform that creates, hosts, or makes available "harmful to minors" content as regular business; self-attestation explicitly insufficient; all U.S. IPs (including VPN IPs) subject; **third-party vendors explicitly authorized to perform verification, with platform liability preserved and vendor liability unaddressed**; FTC enforces under Section 5 unfair-or-deceptive-practices authority. The structural confirmation that the vendor workaround pattern is now embedded at the federal-statute design level.
+
+**New entity:**
+- [[SCREEN Act]] — federal age-verification mandate; cleanest legislative-text instance of the vendor workaround pattern; sibling vehicle to [[Kids Online Safety Act (KOSA)]] in the child-safety legislative cluster.
+
+**Existing pages updated:**
+- [[Kids Online Safety Act (KOSA)]] (sources 17→18) — SCREEN Act wikilink now resolves; sibling-bill list reinforced
+- [[Age Verification]] (sources 17→18) — SCREEN Act wikilink now resolves; mandate description tightened to surface the third-party vendor authorization
+
+**Newsletter angle**: This is the federal-statute-level confirmation of the bypass framework documented in the TCN article published this week. "Government can't compel children's biometric data → bill mandates vendor collects it → vendor liability framework left unaddressed by the bill text." The §2 "Findings" arguing that age verification is now the "least restrictive means" (responding to *Ashcroft v. ACLU*'s 2004 dismissal of COPA) is the bill's constitutional attack surface — the implementing record (vendor breaches, VPN IP sweeps) is what would survive *as-applied* First Amendment challenge.
+
+**Source acquisition targets**:
+- Companion House bill (if any) in the 119th Congress
+- Any drafted FTC guidance under §6(b)(1)
+- Free Speech Coalition v. Paxton SCOTUS posture (state-law age-verification ruling pending; would inherit SCREEN's "least restrictive means" framing if decided either way)
+
+---
 
 ### 2026-05-24 lint+ingest — May 22–24 Iran deal endgame + WH shooting (Nasire Best) + Kilmar Abrego dismissal + IRS citizenship form + Trump-IRS permanent bar surfacing + Redistricting structural asymmetry + DeepSeek V4-Pro 75% cut + NYC AI fiscal warning + Helium flagship published (10 sources, 1 article, 4 new entities, 0 new concepts)
 

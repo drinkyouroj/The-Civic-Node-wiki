@@ -3,7 +3,7 @@ title: "Age Verification"
 type: concept
 tags: [technology, censorship, surveillance, lgbtq, politics, ai]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-24
 sources: 17
 ---
 
@@ -14,10 +14,10 @@ sources: 17
 - **Age verification:** Government ID upload or third-party identity verification. Requires submitting personally identifiable information.
 - **Age estimation:** Biometric AI (facial scan, voiceprint, behavior pattern) inferring age without explicit ID.
 
-19 US states had passed online ID-check laws by Dec 2025; the federal **SCREEN Act** would impose nationwide requirements for sites deemed "harmful to minors." The UK [[Online Safety Act]] mandates age assurance industry-wide as of July 2025.
+19 US states had passed online ID-check laws by Dec 2025; the federal [[SCREEN Act]] (S.737, 119th Congress) would impose nationwide requirements for sites deemed "harmful to minors" and explicitly authorizes third-party verification vendors to hold the resulting biometric/ID database [[SCREEN Act S737 119th Congress — Bill Text]]. The UK [[Online Safety Act]] mandates age assurance industry-wide as of July 2025.
 
 ## Why It Matters for the Newsletter
-Age verification is the operational mechanism through which the [[KOSA]], [[EARN IT Act]], and SCREEN Act legislative cluster converts "child safety" framing into actual surveillance and censorship infrastructure. It is the place where Politics, Power, Technology, and LGBTQ+ rights themes converge. The systems are documented to be (a) biased against trans users, (b) ineffective at their stated goals, (c) breach-vulnerable in ways that uniquely endanger marginalized communities, and (d) deployed disproportionately to gate reproductive health, LGBTQ+, and political content.
+Age verification is the operational mechanism through which the [[KOSA]], [[EARN IT Act]], and [[SCREEN Act]] legislative cluster converts "child safety" framing into actual surveillance and censorship infrastructure. It is the place where Politics, Power, Technology, and LGBTQ+ rights themes converge. The systems are documented to be (a) biased against trans users, (b) ineffective at their stated goals, (c) breach-vulnerable in ways that uniquely endanger marginalized communities, and (d) deployed disproportionately to gate reproductive health, LGBTQ+, and political content.
 
 ## Evidence & Examples
 **Operational failures:**

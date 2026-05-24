@@ -3042,3 +3042,34 @@ Tenth ingest pass clearing the 10 raw files and 1 published article accumulated 
 - Total = 1303 ✓ matches index `total_pages: 1303`
 - Stats table reconciled to match frontmatter.
 - Overview frontmatter `sources: 741` and lede "grown from 31 to **741**" both reconciled.
+
+## [2026-05-24] ingest | SCREEN Act (S.737, 119th Congress) bill text + new entity page
+
+Single-source ingest pass triggered by the [[The Bill of Rights Ends at the Contractor's Door]] reconciliation (TCN draft v2, same date). The article cites the SCREEN Act as the federal-level instance of the vendor workaround pattern, but the wiki had only loose wikilink references ([[Kids Online Safety Act (KOSA)]], [[Age Verification]]) without a primary text or entity page. This pass closes that gap.
+
+**Created:**
+- `wiki/sources/SCREEN Act S737 119th Congress — Bill Text.md` — primary source page; full bill structure (§1–§9), key provisions (covered platforms, self-attestation insufficient, all U.S. IPs including VPN IPs, third-party vendors explicitly authorized, FTC enforcement under Section 5, Findings invoking *Ashcroft v. ACLU* and arguing technology now satisfies "least restrictive means")
+- `wiki/entities/SCREEN Act.md` — new entity page; type=legislation; mirrors the KOSA entity precedent; anchors the federal vendor-workaround framing
+
+**Updated:**
+- [[Kids Online Safety Act (KOSA)]] (sources 17→18) — SCREEN Act wikilink resolved; sibling-bill list and Connections section reinforced
+- [[Age Verification]] (sources 17→18) — SCREEN Act wikilink resolved; one-line description tightened to surface that the bill explicitly authorizes third-party vendors to hold the biometric/ID database
+
+**Index:**
+- New ingest entry added at top of `## Sources`
+- Counters bumped: total_pages 1303→1305, total_sources 741→742, total_entities 269→270
+
+**Deferred (consistent with "defer until second-source threshold"):**
+- [[Mike Lee]] entity — sponsor; first mention; defer until a second source references him in a substantive role
+- *Ashcroft v. ACLU*, 542 U.S. 656 (2004) entity — referenced in the bill Findings as the prior-attempt precedent; defer until a synthesis directly turns on the case rather than the legislative response
+- Companion House bill (if any) in the 119th Congress — not identified in this raw file; flag for next ingest cycle
+
+**Newsletter angle**: This is the federal-statute-level confirmation of the bypass framework documented in the TCN article published this week. The §4(d) clause — "A covered platform may contract with a third party to employ technology verification measures… but the use of such a third party shall not relieve the covered platform of its obligations under this Act or from liability" — is the cleanest legislative-text instance of *the wiki holds* for the vendor-workaround pattern. Platform liability preserved; vendor liability unaddressed. The same pattern the wiki has previously documented at the [[Flock Safety]] (Fourth Amendment / sanctuary policies), [[CISA]] (First Amendment / switchboarding), and [[BetterHelp]] (HIPAA / behavioral interest category) layers now sits in the federal age-verification text.
+
+**Index sanity-check post-ingest:**
+- `find wiki/sources -type f -name "*.md" | wc -l` = 743 (1 CLAUDE.md) = 742 sources ✓ matches index `total_sources: 742`
+- `find wiki/entities -type f -name "*.md" | wc -l` = 271 (1 CLAUDE.md) = 270 entities ✓ matches index `total_entities: 270`
+- `find wiki/concepts -type f -name "*.md" | wc -l` = 165 (no CLAUDE.md) = 165 concepts ✓ matches index `total_concepts: 165`
+- `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
+- `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
+- Total = 1305 ✓ matches index `total_pages: 1305`
