@@ -5,8 +5,8 @@ type: entity
 entity_type: infrastructure
 tags: [technology, infrastructure, crypto, depin]
 created: 2026-04-07
-updated: 2026-05-19
-sources: 15
+updated: 2026-05-24
+sources: 16
 ---
 
 ## Overview
@@ -128,3 +128,7 @@ All plans earn Cloud Points redeemable for eGift cards or charity donations.
 - [[Helium HIP-148 Vote Results — Helium Vote - 2025-10-10]] — primary-source vote screenshots; 96.72% for / 3.27% against on 902.3M veHNT; **ferebee 31% + Nova Labs 26% = 57% of total vote**; ferebee's veHNT +55.5% absolute between HIP-143 and HIP-148
 - [[State of Helium Q4 2025 — Messari]] — Q4 2025 revenue, burns, hotspot counts, HIP-148
 - [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — Aug 2025 halving mechanics; veHNT reset and proxy recommendation
+
+## Published Synthesis
+
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] (Substack flagship, published 2026-05-21) — first popular-form newsletter article making the [[Franchise vs. Business]] / [[Proxy Concentration Audit]] / [[Auto-Renewal by Inaction]] argument legible at the public level, using the Helium worked example. The piece names the IoT-vs-Mobile revenue split ($124.77/day vs $56,635/day) as the load-bearing finding; the HIP-143 + HIP-148 proxy concentration as the structural pattern; the four-component disclosure standard (floor + exit, aggregate revenue disclosure, geographic acknowledgment, active-re-vote sunsets) as the proposed audit framework; the FTC Franchise Rule / 16 CFR Part 436 FDD as the federal-disclosure-regime analogy; and a Datagram self-correction as the demonstration of the framework's limit.

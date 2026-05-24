@@ -4,8 +4,8 @@ type: entity
 entity_type: person
 tags: [politics, power, iran, diplomacy, neoreaction, silicon-valley]
 created: 2026-04-09
-updated: 2026-04-17
-sources: 13
+updated: 2026-05-24
+sources: 14
 ---
 
 ## Overview
@@ -44,6 +44,7 @@ Vice President of the United States (January 2025–present). Former Senator fro
 - [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] — led first (unsuccessful) round of Islamabad talks
 - [[Trump Threatens Bigger Stronger Attacks If Iran Doesnt Make Real Agreement]] — leading U.S. delegation to Islamabad peace talks per Leavitt announcement
 - [[When Can States Prosecute Federal Agents]] — Vance quoted as claiming federal officers possess "absolute immunity"; legal precedent contradicts the claim
+- [[Iran Agrees in Principle to Dispose of Highly-Enriched Uranium — CBS - 2026-05-24]] — named on the May 24 Iran negotiating team (Vance, [[Steve Witkoff]], [[Jared Kushner]]). Notable: [[Marco Rubio]] is not on this list, despite being Secretary of State. The institutional architecture of the negotiation is the worth-noting detail.
 
 ## Open Questions
 

@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [depin, helium, governance, franchise, crypto, technology]
 created: 2026-05-21
-updated: 2026-05-21
-sources: 17
+updated: 2026-05-24
+sources: 18
 ---
 
 ## Overview
@@ -27,7 +27,7 @@ Nova Labs is the worked example at the center of the [[Franchise vs. Business]] 
 
 Nova Labs is the cleanest documented instance of the [[Franchise vs. Business]] structure in the DePIN sector — the corporate counterparty that benefits from a governance change is also the proxy that cast the largest vote bloc to pass it. This pattern is the analytical anchor for any future DePIN piece that needs to test whether operators bought a business (where they share in upside) or a franchise (where the corporate counterparty extracts ongoing rents through governance the operators are recommended to delegate). It is also the substrate for the [[Proxy Concentration Audit]] move — the procedural test that surfaces these structures from on-chain vote receipts before they get framed as "community consensus" by the secondary press.
 
-The May 22, 2026 flagship piece *[[You Own the Hotspot. Nova Labs Owns What It Earns.]]* (forthcoming) is the first newsletter article to make the corporate counterparty + governance proxy collapse legible at the public level.
+The May 21, 2026 flagship piece *[[You Own the Hotspot. Nova Labs Owns What It Earns.]]* (published) is the first newsletter article to make the corporate counterparty + governance proxy collapse legible at the public level. The piece names the IoT-vs-Mobile revenue gap as the load-bearing finding, lays out the HIP-143 + HIP-148 proxy concentration sequence, proposes a four-component disclosure standard (floor + exit, aggregate revenue disclosure, geographic acknowledgment, active-re-vote sunsets), and closes with a Datagram self-correction. (Note: the article was published Thursday May 21, not the wiki's earlier-assumed Friday May 22 — flag for content-calendar tracking.)
 
 ## Connections
 
@@ -52,6 +52,7 @@ The May 22, 2026 flagship piece *[[You Own the Hotspot. Nova Labs Owns What It E
 - [[Helium Operator Economics — Bytetree - 2024-03]] — hardware costs ($249 indoor, $949 outdoor) and 2.5–20 year payback periods
 - [[Helium Halving 2025 — Helium Blog - 2025-07-24]] — Foundation policy recommending operators delegate votes to proxies, the mechanism that normalizes the concentration Nova Labs benefits from
 - [[Helium HIP-143 and the DePIN Franchise Architecture]] — the synthesis that names the corporate-counterparty / governance-proxy collapse as the franchise pattern
+- [[You Own the Hotspot. Nova Labs Owns What It Earns.]] — the published flagship article (Substack, 2026-05-21) translating the wiki's franchise-architecture findings into popular form
 
 ## Open Questions
 
