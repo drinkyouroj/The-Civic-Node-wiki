@@ -10,7 +10,7 @@ Atlanta passed a sanctuary policy in 2025. Police officers don't help federal im
 
 That same year, the open-records audit showed three thousand two hundred and fifty-four Border Patrol searches of Atlanta's police cameras.
 
-Both true. Same dataset.
+The same audit reported both.
 
 The pattern shows up in four places.
 
@@ -159,7 +159,7 @@ Weekly. No hype.
   - Slide 7 (climax): "In each case, the protection was written to govern one party. The work was contracted to another."
 
 **Breath / pacing cues:**
-- Slide 1: hold the silence after "Both true. Same dataset." for ~1 second before "The pattern shows up in four places."
+- Slide 1: hold the silence after "The same audit reported both." for ~1 second before "The pattern shows up in four places."
 - Slide 3: brief pause before "That's the floor. The smallest example." — this is the setup for the Slide 4 scale escalation.
 - Slide 4: brief pause before "There are roughly forty-five hundred police departments on this network." This is the scale punch.
 - Slide 5: full beat between "The rule still exists on paper." and "The function still gets performed." Two complete sentences delivered as the refrain — they need to land separately.
