@@ -188,7 +188,7 @@ Weekly. No hype.
 - Oregon SB 1516 — March 2026 state law restricting Flock data sharing to Oregon agencies and requiring 30-day public audit reports.
 - BetterHelp specifics — the FTC enforcement action that produced $7.8M in consumer refunds (Slide 10 names the dollar figure but not the FTC mechanism).
 - National security letter / subpoena distinction in detail (Slide 7 names NSLs briefly; the article's fuller treatment of bypass-of-judicial-review is cut).
-- "Look for the vendor" — the three-word working instrument named in the article's closing section. This is the answer the Tease slide opens the loop around.
+- "Follow the vendor" — the three-word working instrument named in the article's closing section. This is the answer the Tease slide opens the loop around. (Deliberate echo of "follow the money" — positions the instrument inside an existing investigative tradition.)
 - The My Debug section's framing — that the author wrote The Jawboning Papers (CISA / speech beat) and Atlanta Passed a Sanctuary Resolution (immigration beat) before noticing they were the same story from two angles. The "no journalist owns this beat" argument.
 - Pierce County, Georgia's four "Border Patrol Assist" searches one month after Flock claimed federal pilots ended.
 - Flock CEO Garrett Langley's "inadvertently provided inaccurate information" admission about federal contracts.

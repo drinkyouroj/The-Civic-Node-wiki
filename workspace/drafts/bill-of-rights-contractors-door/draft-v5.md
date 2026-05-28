@@ -63,7 +63,7 @@ You can settle with CISA. You can cancel Flock. You can challenge the age verifi
 
 Right now, the only accountability tool that works is an open-records request. APD's audit showing 3,383 external immigration searches existed before anyone published a story about it; it became visible because someone asked for it. The Ventura County audit showing 364,000 unauthorized accesses came from the department's own audit after they discovered the reactivation. Both required someone to ask for the data. Neither required a constitutional doctrine that doesn't exist yet.
 
-"Look for the vendor" is the working instrument: in any domain where a constitutional right is supposed to limit government action, ask who holds the database and what they require to share it.
+"Follow the vendor" is the working instrument: in any domain where a constitutional right is supposed to limit government action, ask who holds the database and what they require to share it.
 
 ---
 
@@ -73,13 +73,15 @@ Right now, the only accountability tool that works is an open-records request. A
 
 Turns out I was covering the same story from two different angles and didn't notice.
 
-Speech journalists cover CISA. Immigration journalists cover Flock. Child safety journalists cover age verification. Health privacy journalists cover BetterHelp. The pattern that spans all four doesn't have a beat. Nobody owns it. Each individual piece contains the structural connection to the others (one remove from government, constitutional limit intact on paper, function contracted out), but making that connection is nobody's job.
+Speech journalists cover CISA. Immigration journalists cover Flock. Child safety journalists cover age verification. Health privacy journalists cover BetterHelp. The pattern that spans all four doesn't have a beat. Nobody owns it. Each individual piece contains the structural connection to the others (a private vendor doing the work, constitutional limit intact on paper, government one contract away), but making that connection is nobody's job.
 
 Anyone who builds or contracts infrastructure knows this gap. Policies and contracts live in separate documents. A sanctuary resolution doesn't talk to the API. A terms-of-service prohibition doesn't talk to a national security letter. Passing another resolution can't reach what the contract already promises.
 
 On April 20, 2026, the Atlanta City Council passed [two resolutions opposing ICE detention and requiring new APD guidelines](https://www.atlantanewsfirst.com/2026/04/21/atlanta-council-passes-resolutions-opposing-ice-detention-facilities-setting-police-guidelines/). The city has now passed a sanctuary designation, terminated an ICE detention contract, published an open-records response confirming the audit numbers, and added two more resolutions to the stack. Neither of the April resolutions mentions Flock Safety. Neither touches the vendor contract.
 
 The cameras are still on. The next agency querying them doesn't need to read any of those documents.
+
+*Next Friday: another contract the buyers didn't read. On May 27, 78,000 Samsung workers ratified a ten-year claim on 10.5% of the chip division's operating profit. Every hyperscaler PPA priced against that division was priced before the capture went permanent.*
 
 ---
 
@@ -89,7 +91,7 @@ The cameras are still on. The next agency querying them doesn't need to read any
 - Trigger: Named Hypocrisy
 - Readability pass (2026-05-27): two surface-drag fixes applied — §4¶4 rewritten to drop §3H.2 "is architectural" label and §3I "layer" abstraction handle ("Anyone who builds or contracts infrastructure knows this gap. Policies and contracts live in separate documents… Passing another resolution can't reach what the contract already promises."); §3¶3 sentence 4 "The architectural pattern stays open." → "The architecture keeps running." for active-verb closer. Section 2 flat-length run (§2¶1–6 at 69–98 words) left intact as intentional setup for §2¶7 anaphora payoff.
 - Humanizer pass (2026-05-27): three lexical fixes applied. §2¶2 "-ing" participle split — "…within CISA's mandate, making content moderation a federal cybersecurity function." → "…within CISA's mandate. That framing made content moderation a federal cybersecurity function." (§4F). §2¶3 "-ing" participle split — "…traceable to government pressure, leaving the constitutional question unaddressed." → "…traceable to government pressure. The constitutional question went unaddressed." (§4F). §3¶3 closing line — "Each instance-level fix addresses the instance." → "Each fix stops at the case it was written for." (tautology → active-verb landing, legal-doc "case" register matched to rest of piece). ATF non-glossing in §1¶1 considered and left as-is (higher cultural recognition than CBP/HSI nearby).
-- Marcus tests: Signal ✓ (unified bypass framework; not published anywhere as a unified piece), Patience ✓ (Ventura County reactivation-without-attribution earns Section 1 ¶3's place; risk paragraph identified in pre-assessment is the tightest section), Depth ✓ (primary sources throughout: open-records audits, FTC filing, CEO admission, SCOTUS ruling, state legislation with dates), Save ✓ (passes — "look for the vendor" and the eight-pair anaphora are reference material), Accumulation ✓ (raises floor; prior TCN pieces covered single instances; this provides the durable framework)
+- Marcus tests: Signal ✓ (unified bypass framework; not published anywhere as a unified piece), Patience ✓ (Ventura County reactivation-without-attribution earns Section 1 ¶3's place; risk paragraph identified in pre-assessment is the tightest section), Depth ✓ (primary sources throughout: open-records audits, FTC filing, CEO admission, SCOTUS ruling, state legislation with dates), Save ✓ (passes — "follow the vendor" and the eight-pair anaphora are reference material), Accumulation ✓ (raises floor; prior TCN pieces covered single instances; this provides the durable framework)
 - Inline source links: 18 (was 14 in v4; +4 from fact-check reconciliation pass 4 — see Reconciliation v4→v5 below)
 - Unsourced claims (intentional, flagged as absence-of-doctrine): "No federal court has held that a government-contracted private intermediary must comply…" and "No legislation at any level currently treats vendor contracts as equivalent to government action."
 - Voice rules: Zero em dashes, zero negative parallelisms, zero AI vocabulary. Contractions throughout. Inline glosses on first use: CISA ✓, HIPAA ✓, jawboning ✓, National Lookup ✓ (explained in context), national security letters ✓, ALPR ✓, switchboarding ✓ (flagged as CISA's internal term, now linked). Section 2 ¶1 and ¶5 kept under 80 words per pre-check warning. Em dash inside the Beekman quote (§1 ¶2) is the speaker's pause, not writer's prose.
