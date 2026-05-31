@@ -3,7 +3,7 @@ title: "The Bill of Rights Ends at the Contractor's Door"
 source: "https://drinkyouroj.substack.com/p/the-bill-of-rights-ends-at-the-contractors-door"
 author:
   - "[[Justin Hearn]]"
-published: 2026-05-28
+published: 2026-05-29
 created: 2026-05-31
 description: "Surveillance, speech, biometrics, health data — four domains where the government's constitutional limits come with a vendor workaround."
 tags:

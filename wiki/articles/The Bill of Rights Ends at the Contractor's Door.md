@@ -3,7 +3,7 @@ title: "The Bill of Rights Ends at the Contractor's Door"
 type: article
 article_type: nonfiction
 tags: [politics, power, surveillance, infrastructure, flock-safety, legal, privacy, civil-liberties]
-published: 2026-05-28
+published: 2026-05-29
 created: 2026-05-31
 updated: 2026-05-31
 source: "published/The Bill of Rights Ends at the Contractor's Door.md"

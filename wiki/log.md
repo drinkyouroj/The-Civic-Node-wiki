@@ -3182,7 +3182,7 @@ The Oregon approach goes structurally further than the California Gibbs Mura fra
 Post-merge wiki finalization. PR #56 (`article/bill-of-rights-contractors-door`) was merged to `main` and the remote branch deleted; this pass files the published piece into `wiki/articles/` per the "new published piece" workflow. The research-side pages (the Flock evidence triad, [[Oregon SB 1516]], [[SCREEN Act]], [[National Lookup]]) were already ingested across the 2026-05-24 passes — this entry closes the loop by adding the *article* page that draws on them.
 
 **Created:**
-- [[The Bill of Rights Ends at the Contractor's Door]] — nonfiction article page; published 2026-05-28; generalizes the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] vendor-workaround thesis across four constitutional domains (First Amendment / [[CISA]] switchboarding; Fourth Amendment / [[Flock Safety]] [[National Lookup]]; biometric / [[SCREEN Act]]; HIPAA / [[BetterHelp]]); "Follow the vendor" as the cross-domain diagnostic; receipts include Bend 279 federal queries in three weeks, Ventura 364k unauthorized accesses, [[Gibbs Mura]] SFPD 1.6M; only working remedies are state-bounded ([[Oregon SB 1516]] + CA Civ Code §1798.90.55(b))
+- [[The Bill of Rights Ends at the Contractor's Door]] — nonfiction article page; published 2026-05-29; generalizes the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] vendor-workaround thesis across four constitutional domains (First Amendment / [[CISA]] switchboarding; Fourth Amendment / [[Flock Safety]] [[National Lookup]]; biometric / [[SCREEN Act]]; HIPAA / [[BetterHelp]]); "Follow the vendor" as the cross-domain diagnostic; receipts include Bend 279 federal queries in three weeks, Ventura 364k unauthorized accesses, [[Gibbs Mura]] SFPD 1.6M; only working remedies are state-bounded ([[Oregon SB 1516]] + CA Civ Code §1798.90.55(b))
 
 **Updated:**
 - [[index.md]] — new entry under "Nonfiction Essays — Politics & Power" (after [[3,000 Arrests, 335 Names, One Court Order]]); counters bumped (total_pages 1312→1313, total_articles 101→102); `updated` 2026-05-24→2026-05-31
@@ -3207,3 +3207,15 @@ Closes the highest-value gap flagged in the entry directly above. The deferred [
 **Resolved from the prior flag:** the [[Flock Safety Surveillance Network]] dangling link to [[Vendor-State Governance]] is now live.
 
 **Still open (carried forward):** [[Vendor-Intermediary State]] should be consolidated into the new canonical page rather than maintained as a parallel stub; the Atlanta article page still links the old name. [[Murthy v. Missouri]] and [[Surveillance Infrastructure]] remain page-less. A future pass should reconcile the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] link and create the Murthy entity page.
+
+---
+
+## [2026-05-31] update | Date correction — Bill of Rights publish date 2026-05-28 → 2026-05-29
+
+Per author: the published date was off by one day (Thursday → the actual Friday publish, consistent with the flagship Friday cadence). Corrected in all four places it had propagated, including the `published/` source file — its frontmatter is the canonical date the article page derives from via `source:`, so leaving it stale would have re-introduced 2026-05-28 on any future re-file or fact-check:
+- `published/The Bill of Rights Ends at the Contractor's Door.md` frontmatter
+- [[The Bill of Rights Ends at the Contractor's Door]] article-page frontmatter
+- [[index.md]] catalog entry ("May 28 2026" → "May 29 2026")
+- this log's 2026-05-31 publish entry (inline)
+
+Committed directly to `main` (PR #57 already merged and its branch deleted).
