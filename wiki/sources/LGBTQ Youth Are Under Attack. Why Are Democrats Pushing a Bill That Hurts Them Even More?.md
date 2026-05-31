@@ -44,7 +44,7 @@ published: 2022-12-06
 ## Concepts Mentioned
 - [[KOSA]] / Kids Online Safety Act
 - [[Duty of care]]
-- [[SESTA/FOSTA]]
+- [[SESTA-FOSTA|SESTA/FOSTA]]
 - [[End-to-end encryption]]
 - [[Age verification]] / biometric
 - [[Parental control tools]]

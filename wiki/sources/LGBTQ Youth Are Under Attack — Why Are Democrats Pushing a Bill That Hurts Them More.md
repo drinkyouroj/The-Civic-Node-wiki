@@ -14,7 +14,7 @@ published: 2022-12-06
 [Original source](https://www.vice.com/en/article/lgbtq-youth-are-under-attack-why-are-democrats-pushing-a-bill-that-hurts-them-even-more/)
 
 ## Summary
-Vice opinion piece (Dec 2022) by [[Evan Greer]], deputy director of [[Fight for the Future]], written during Senate Democrats' end-of-session push to attach [[KOSA]] to the must-pass omnibus defense package. Lays out the "duty of care" critique that became the spine of every subsequent KOSA opposition argument: the bill empowers state AGs (Paxton, Rutledge) to define what's "in the best interests" of children, which they have already declared includes banning trans healthcare and drag shows. Connects the 2018 [[SESTA/FOSTA]] failure mode (platforms over-moderate to avoid liability) directly to KOSA. Includes detailed parental-tools abuse scenarios (non-custodial parents, post-majority trans kids escaping abusive homes).
+Vice opinion piece (Dec 2022) by [[Evan Greer]], deputy director of [[Fight for the Future]], written during Senate Democrats' end-of-session push to attach [[KOSA]] to the must-pass omnibus defense package. Lays out the "duty of care" critique that became the spine of every subsequent KOSA opposition argument: the bill empowers state AGs (Paxton, Rutledge) to define what's "in the best interests" of children, which they have already declared includes banning trans healthcare and drag shows. Connects the 2018 [[SESTA-FOSTA|SESTA/FOSTA]] failure mode (platforms over-moderate to avoid liability) directly to KOSA. Includes detailed parental-tools abuse scenarios (non-custodial parents, post-majority trans kids escaping abusive homes).
 
 ## Key Points
 - **End-of-2022 omnibus push:** Senate Dem leadership trying to attach KOSA to defense spending bill; opposed in 90+ org letter (ACLU, GLAAD, GLSEN, NCTE, ALA, Access Now).
@@ -51,7 +51,7 @@ Vice opinion piece (Dec 2022) by [[Evan Greer]], deputy director of [[Fight for 
 ## Concepts Mentioned
 - [[KOSA]]
 - [[Duty of Care (Internet Bills)]] — the central legal critique
-- [[SESTA/FOSTA]] — historical precedent
+- [[SESTA-FOSTA|SESTA/FOSTA]] — historical precedent
 - [[End-to-End Encryption]]
 - [[ADPPA]] — proposed alternative
 - [[AICOA]] — proposed alternative

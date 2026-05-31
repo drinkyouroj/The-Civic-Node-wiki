@@ -21,14 +21,14 @@ Teen Vogue op-ed by [[Fight for the Future]] organizer Sarah Philips, anchored o
 - [[Ken Paxton]] (Texas AG) has called gender-affirming care child abuse; Texas legislators proposed banning abortion fund websites.
 - Surgeon General's advisory explicitly acknowledges LGBTQ+ youth have better outcomes with social media access — the most under-cited section.
 - Research citations: LGBTQ+ youth happier/healthier with supportive online groups (Taylor & Francis, Elsevier, APA).
-- [[SESTA/FOSTA]] precedent: failed to fight sex trafficking (Columbia Human Rights Law Review), decimated sex ed + LGBTQ content online.
+- [[SESTA-FOSTA|SESTA/FOSTA]] precedent: failed to fight sex trafficking (Columbia Human Rights Law Review), decimated sex ed + LGBTQ content online.
 - [[Heritage Foundation]] saying quiet part aloud — explicitly wants to use KOSA to censor LGBTQ content.
 - Author's personal stake: queer community formed through AO3 comment sections; friends married through these communities.
 
 ## Newsletter Angles
 - The AO3 anchor is editorially strong: a specific, named community, a specific attack, a personal stake. Exemplary op-ed structure.
 - The under-cited surgeon general finding: the Murthy advisory everyone cites in favor of KOSA also contains explicit language that social media helps LGBTQ+ youth. This is a contradiction worth surfacing.
-- The [[SESTA/FOSTA]] failure record: Columbia HRLR study showing the law didn't dent trafficking but did destroy harm-reduction communities. This is the reusable empirical core of the anti-KOSA case.
+- The [[SESTA-FOSTA|SESTA/FOSTA]] failure record: Columbia HRLR study showing the law didn't dent trafficking but did destroy harm-reduction communities. This is the reusable empirical core of the anti-KOSA case.
 
 ## Entities Mentioned
 - [[Archive of Our Own]] / AO3
@@ -42,7 +42,7 @@ Teen Vogue op-ed by [[Fight for the Future]] organizer Sarah Philips, anchored o
 ## Concepts Mentioned
 - [[KOSA]]
 - [[Duty of care]]
-- [[SESTA/FOSTA]]
+- [[SESTA-FOSTA|SESTA/FOSTA]]
 - [[Fan fiction communities]]
 - [[AO3]]
 - [[Abortion fund censorship]]

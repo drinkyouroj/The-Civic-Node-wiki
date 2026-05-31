@@ -3303,3 +3303,20 @@ Re-verified the active ⚠️ contradiction clusters surfaced by the lint. Findi
 - **Hormuz strait-status (Trump "open" vs "blockade in full force"):** held in [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] and [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]]; a Trump-claim-vs-reality gap, likewise pending post-May-24 confirmation.
 
 **Source-acquisition targets surfaced:** (1) any post-May-24 primary Iran deal text or Supreme Leader statement (resolves the HEU gap); (2) a June-2026 helium-pipeline status source (confirms/updates the crisis clock).
+
+---
+
+## [2026-05-31] update | Lint fix 3/3 — created ICE + Reno v. ACLU; reconciled SESTA/FOSTA slug
+
+Addressed the top "missing pages" lint tier. Grounding each candidate against the wiki *first* caught that one "missing" page already existed under a slug — avoiding a duplicate.
+
+**Created** (high-frequency dangling, threshold met, sourced from existing wiki pages):
+- [[ICE]] — entity_type=organization. U.S. Immigration and Customs Enforcement; connective entity across the immigration / surveillance-repurposing / federal-accountability clusters (17 dangling refs). Anchored in [[Operation Metro Surge]], [[Killing of Renée Good]], [[Atlanta PD used Flock cameras to track migrants]], [[The Bill of Rights Ends at the Contractor's Door]]; framed as the Fourth-Amendment node of [[Vendor-State Governance]] in practice.
+- [[Reno v. ACLU]] — entity_type=case. 521 U.S. 844 (1997); struck the CDA indecency provisions, put internet speech at the top First-Amendment tier, left [[Section 230]] intact (10 dangling refs). The constitutional baseline the age-verification wave ([[SCREEN Act]]) runs into; its "verification is impractical" premise is the technological-inversion attack vector. Pairs with [[Murthy v. Missouri]] as the two online-speech cases eroded-not-overruled. Added to the index `### Cases` subsection.
+
+**Reconciled** (NOT a missing page — slug mismatch):
+- [[SESTA/FOSTA]] (23× dangling, the #2 target) already existed as `concepts/SESTA-FOSTA.md`. Obsidian read the `/` as a path separator, so the links never resolved; a filename can't contain `/`, so the fix is an alias, not a rename. Redirected all 23 occurrences across 16 files to `[[SESTA-FOSTA|SESTA/FOSTA]]`.
+
+**Counters:** total_entities 271→273, total_pages 1314→1316 (ICE + Reno).
+
+**Deferred create-candidates** (proposed to user, not yet built): companies [[Google]] 34× / [[Nvidia]] / [[AMD]] / [[Oracle]] (peripheral as subjects); politicians [[Kash Patel]] 22× / [[Lindsey Graham]] / [[Ro Khanna]] / [[Ted Cruz]]; [[Rob Bonta]] (CA AG, Flock-relevant); [[Project 2025]] 13×. Each is a content commitment best greenlit individually.

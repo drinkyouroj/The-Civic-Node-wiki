@@ -27,7 +27,7 @@ For any newsletter piece on KOSA's grassroots opposition, AO3 is the single most
 - [[Fight for the Future]] — coalition partner mobilizing AO3 community
 - [[Sara Philips]] / [[Sarah Philips]] — FtF organizer; longtime AO3 reader
 - [[KOSA]] — primary policy threat
-- [[SESTA/FOSTA]] — historical precedent (Tumblr 2018 ban) directly affected related fandom communities
+- [[SESTA-FOSTA|SESTA/FOSTA]] — historical precedent (Tumblr 2018 ban) directly affected related fandom communities
 
 ## Source Appearances
 - [[This Bill Threatens Access to LGBTQ+ Online Communities — Philips]] — central narrative anchor; July 2023 DDoS context

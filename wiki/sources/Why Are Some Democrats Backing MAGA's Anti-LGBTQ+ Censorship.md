@@ -66,7 +66,7 @@ Teen Vogue op-ed (October 2025) — the most recent and most consolidated KOSA /
 - [[Age Verification]]
 - [[Project 2025]]
 - [[FTC Weaponization]]
-- [[SESTA/FOSTA]]
+- [[SESTA-FOSTA|SESTA/FOSTA]]
 - [[Censorship via Liability]]
 
 ## Quotes

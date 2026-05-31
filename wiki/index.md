@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-31
-total_pages: 1314
+total_pages: 1316
 total_sources: 746
-total_entities: 271
+total_entities: 273
 total_concepts: 168
 total_syntheses: 27
 total_articles: 102
@@ -1366,7 +1366,7 @@ New article:
 - [[Age Verification]] — three-tier taxonomy; surveillance-as-safety pattern
 - [[EARN IT Act]] — Section 230 conditionality as encryption-attack vehicle
 - [[Duty of Care (Internet Bills)]] — KOSA's structural censorship mechanism
-- [[SESTA/FOSTA]] — 2018 historical precedent for KOSA's failure mode
+- [[SESTA-FOSTA|SESTA/FOSTA]] — 2018 historical precedent for KOSA's failure mode
 - [[Bad Internet Bills Campaign]] — FtF-organized opposition coalition
 - [[Flock Safety Surveillance Network]] — connected ALPR infrastructure as sanctuary-policy circumvention
 - [[LLM Political Bias]] — cross-provider conversational AI political tilt
@@ -1404,6 +1404,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 ### Cases
 - [[Murthy v. Missouri]] — 603 U.S. 43 (2024); SCOTUS 6-3 (Barrett) dismissed the social-media "jawboning" challenge on Article III standing without reaching the merits; First-Amendment node of [[Vendor-State Governance]]; March 2026 settlement bars [[CISA]] / Surgeon General / CDC from platform coercion for 10 years
 - [[Doe v. Bonnell (1-25-cv-20757)]] — S.D. Fla. NCII civil suit (Destiny / Pxie); anchors [[Reachability Routing]] — liability routes to the reachable defendant, not the anonymous UK catfisher who caused the harm
+- [[Reno v. ACLU]] — 521 U.S. 844 (1997); SCOTUS struck the CDA indecency provisions and put internet speech at the highest First-Amendment tier (leaving [[Section 230]] intact); the constitutional baseline age-verification mandates ([[SCREEN Act]]) run into; its "verification is impractical" premise is now under technological-inversion attack; pairs with [[Murthy v. Missouri]]
 
 ### People
 - [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; tariff regime architect; aggressive Fed pressure campaign 2025; World Liberty Financial crypto conflict; May 22–24 2026 Iran deal endgame weekend ("largely negotiated" Saturday → Iranian Fars pushback Sunday → "time is on our side" Sunday walk-back); permanent IRS-tax-claim bar via Blanche-signed $1.8B-fund settlement
@@ -1520,6 +1521,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Tom Brady]] — Retired NFL QB; seven-time Super Bowl champion; NFL Dynasty reference point
 
 ### Organizations
+- [[ICE]] — U.S. Immigration and Customs Enforcement (DHS); enforcement arm behind [[Operation Metro Surge]] and the [[Killing of Renée Good]]; queries the [[Flock Safety Surveillance Network]] by proxy (sanctuary circumvention); the Fourth-Amendment node of [[Vendor-State Governance]] in practice
 - [[IRS]] — Internal Revenue Service; institutional center for the IRS-DHS data-sharing campaign (Feb 2026 court-admitted 42K-taxpayer erroneous disclosure to DHS) and the Trump-personal permanent-IRS-tax-claim bar via Blanche-signed settlement; Form 1040 citizenship-question deliberation
 - [[Department of Homeland Security]] — DHS; cabinet department for immigration enforcement, Secret Service, ICE, CISA; Markwayne Mullin Secretary; institutional partner in the IRS data-sharing campaign; houses the Secret Service that shot Nasire Best at WH complex May 23 2026
 - [[American Oversight]] — Nonpartisan transparency-and-ethics nonprofit; FOIA + litigation focus; lead plaintiff in DHS records-preservation lawsuit; secured Nov 5 court admission that DHS's "no longer maintained" claim about Noem texts was "erroneous"
