@@ -1,0 +1,265 @@
+﻿1
+00:00:00,000 --> 00:00:04,933
+Atlanta passed a sanctuary policy in 2025.
+
+2
+00:00:04,933 --> 00:00:07,966
+Police officers don't help federal immigration enforcement.
+
+3
+00:00:07,966 --> 00:00:13,699
+The city said so on the record. That same year, the open records audit showed three thousand
+
+4
+00:00:13,700 --> 00:00:17,966
+two hundred and fifty four border patrol searches of Atlanta's police cameras.
+
+5
+00:00:17,966 --> 00:00:24,799
+The same audit reported both. The pattern shows up in four places
+surveillance
+
+6
+00:00:24,800 --> 00:00:28,466
+speech, biometrics, and health data.
+
+7
+00:00:28,466 --> 00:00:32,466
+In each one, the constitution writes a rule about what the government can't do.
+
+8
+00:00:32,466 --> 00:00:36,866
+And in each one, the government hires a private company to do the same thing.
+
+9
+00:00:36,866 --> 00:00:43,066
+The rule applies to the government. The company holds the database
+Bend, Oregon.
+
+10
+00:00:43,066 --> 00:00:46,599
+Population, ninety nine thousand. The police department signed on to
+
+11
+00:00:46,600 --> 00:00:50,366
+Flock, a private camera network used by police agencies.
+
+12
+00:00:50,366 --> 00:00:56,266
+Three weeks later, the captain figured out the federal search feature was reciprocal, turned it on to query other cities.
+
+13
+00:00:56,266 --> 00:01:00,999
+Other cities can query yours.
+In those three weeks, federal agencies ran two hundred and
+
+14
+00:01:01,000 --> 00:01:04,166
+seventy nine immigration searches into Bend's cameras.
+
+15
+00:01:04,166 --> 00:01:07,599
+Customs and Border Protection ran one hundred eighteen.
+
+16
+00:01:07,600 --> 00:01:13,000
+That's the floor, the smallest example
+Now the scale.
+
+17
+00:01:13,000 --> 00:01:16,733
+Ventura County, California. The sheriff turned the federal search feature
+
+18
+00:01:16,733 --> 00:01:20,966
+off in 2023 in writing to comply with state law.
+
+19
+00:01:20,966 --> 00:01:24,432
+Two years later, federal and out of state agencies had queried Ventura's
+
+20
+00:01:24,433 --> 00:01:28,099
+cameras three hundred and sixty four thousand times.
+
+21
+00:01:28,100 --> 00:01:33,500
+San Francisco.
+The class action filed in February says outside agencies accessed police cameras
+
+22
+00:01:33,500 --> 00:01:37,166
+one point six million times in seven months.
+
+23
+00:01:37,166 --> 00:01:43,666
+There are roughly forty five hundred police departments on this network
+Same architecture every time.
+
+24
+00:01:43,666 --> 00:01:48,066
+The Constitution writes a rule about the government, so the government finds a private company
+
+25
+00:01:48,066 --> 00:01:51,599
+that isn't bound by the rule and contracts the work to them.
+
+26
+00:01:51,600 --> 00:01:58,366
+The rule still exists on paper the function still gets performed
+Watch it work in two directions.
+
+27
+00:01:58,366 --> 00:02:03,432
+The First Amendment prohibits the government from ordering speech taken down, so CISA, the
+
+28
+00:02:03,433 --> 00:02:06,866
+federal cybersecurity agency, called the platform.
+
+29
+00:02:06,866 --> 00:02:10,966
+The platform took the post down, under its own content policy.
+
+30
+00:02:10,966 --> 00:02:16,999
+The Fourth Amendment requires a warrant for government searches, so the search ran through Flock's private camera network.
+
+31
+00:02:17,000 --> 00:02:20,200
+No warrant needed to query a private company.
+
+32
+00:02:20,200 --> 00:02:24,433
+The First Amendment prohibits the order. CISA placed the call.
+
+33
+00:02:24,433 --> 00:02:30,799
+The Fourth Amendment requires the warrant. Flock accepted the query
+Two more.
+
+34
+00:02:30,800 --> 00:02:35,900
+Congress can't compel children to hand over biometric data, so nineteen states passed laws
+
+35
+00:02:35,900 --> 00:02:39,300
+requiring a third party vendor to collect the face scan.
+
+36
+00:02:39,300 --> 00:02:44,366
+The vendor holds the database. A national security letter reaches it without a judge.
+
+37
+00:02:44,366 --> 00:02:50,266
+HIPAA protects health records, so a therapy app relabeled its session data as a marketing category.
+
+38
+00:02:50,266 --> 00:02:54,832
+The category isn't HIPAA. The category sold to advertisers.
+
+39
+00:02:54,833 --> 00:02:58,899
+Congress can't compel the biometric. The verification vendor holds it.
+
+40
+00:02:58,900 --> 00:03:02,633
+HIPAA protects the record.
+BetterHelp sold the category.
+
+41
+00:03:02,633 --> 00:03:05,833
+In each case, the protection was written to govern one party.
+
+42
+00:03:05,833 --> 00:03:11,066
+The work was contracted to another
+Back to Ventura.
+
+43
+00:03:11,066 --> 00:03:16,966
+The sheriff turned the federal search feature off in 2023 in writing to comply with state law.
+
+44
+00:03:16,966 --> 00:03:21,899
+Something turned it back on. Flock said the cause was impossible to determine.
+
+45
+00:03:21,900 --> 00:03:25,600
+Their own logging system couldn't track which account flipped the setting.
+
+46
+00:03:25,600 --> 00:03:29,233
+The sheriff's own investigation found no one on staff did it.
+
+47
+00:03:29,233 --> 00:03:34,399
+Constitutional protection, state law, department policy, all three in alignment.
+
+48
+00:03:34,400 --> 00:03:40,966
+The setting still got flipped. By whom the company says can't be known
+In April 2026, the
+
+49
+00:03:40,966 --> 00:03:44,132
+Atlanta City Council passed two more resolutions.
+
+50
+00:03:44,133 --> 00:03:49,066
+One opposed ICE detention. The other set new guidelines for Atlanta police.
+
+51
+00:03:49,066 --> 00:03:54,932
+That makes five, a sanctuary designation, a canceled ICE contract, an open records audit.
+
+52
+00:03:54,933 --> 00:03:59,699
+Two more resolutions stacked on top.
+Neither of the new ones mentions flock.
+
+53
+00:03:59,700 --> 00:04:04,233
+Neither touches the vendor contract. The cameras are still on.
+
+54
+00:04:04,233 --> 00:04:07,833
+The next agency querying them doesn't have to read a single Atlanta document
+
+55
+00:04:07,833 --> 00:04:11,566
+The piece covers more than what's in this video.
+
+56
+00:04:11,566 --> 00:04:17,066
+It names the lawsuit putting four billion dollars of statutory damages on one city's surveillance vendor.
+
+57
+00:04:17,066 --> 00:04:22,932
+It names the federal case that pulled seven point eight million dollars back from a therapy app for selling session data.
+
+58
+00:04:22,933 --> 00:04:27,366
+It names the Supreme Court case that didn't reach the constitutional question.
+
+59
+00:04:27,366 --> 00:04:30,632
+And it names the one tool that already works, the one method of
+
+60
+00:04:30,633 --> 00:04:34,133
+accountability that surfaced every story in this video.
+
+61
+00:04:34,133 --> 00:04:38,899
+Three words. The piece tells you what they are
+That's at the Civic node.
+
+62
+00:04:38,900 --> 00:04:42,033
+Subscribe free at drink your o j dot substack dot
+
+63
+00:04:42,033 --> 00:04:45,366
+com. New issues every week
+

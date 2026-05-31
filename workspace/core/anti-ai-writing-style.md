@@ -167,7 +167,11 @@ If you see even ONE in your output, rewrite the entire sentence.
 
 **Or split into two sentences when both concepts matter.** Bad: "JPMorgan's $700-million-a-day figure is a floor, not a ceiling." Good: "JPMorgan's $700-million-a-day figure is the floor. The ceiling depends on how long the memory plants stay down." The fix is not just rewriting the sentence — it's naming the second concept on its own terms instead of negating it.
 
-### 3H. Dismissal labels as substitutes for explanation
+### 3H. Label substitutions
+
+These patterns hand the reader a label that does the analytical work the prose should have done. Both substitute a noun for the explanation of what's actually there. They appear at different points in the prose — dismissive labels often as a verdict, elevating labels as a mid-prose beat marker — but the underlying skipped step is the same: the writer didn't name the mechanism, they just named that there IS a mechanism.
+
+#### 3H.1 — Dismissive labels (HARD RULE)
 
 **"X is a press release." "X is theater." "X is noise." "X is optics."**
 
@@ -179,6 +183,40 @@ Bad: "A project with PPAs but no queue position is a press release."
 Good: "A PPA is a purchasing contract for power that hasn't been connected yet. Queue position is the regulatory filing that reserves a spot in the interconnection line. Without it, a PPA has no delivery mechanism."
 
 This applies to any shorthand verdict: "performative," "hollow," "empty," "just optics." If you find yourself reaching for one of these, it means you skipped the explanation. Go back and write the explanation.
+
+#### 3H.2 — Elevating labels: pointing-and-naming shortcuts (STRONG TENDENCY)
+
+Sentences that point and then name an abstract concept — "That sentence is the gap." "This is the mechanism." "Here's the tell." "That's the move." "This is the framework." — substitute a label for explanation. They sound analytical because they assert that something IS something. But the noun they name is itself a placeholder for the analytical work the sentence skipped.
+
+The reader is told that what they just read is THE [important thing] without being told what's in the [important thing]. The confidence-pitch is doing the analytical lifting the prose should have done. This is the elevating sibling of 3H.1 — instead of dismissing-by-labeling ("X is a press release"), it elevates-by-pointing ("X is the mechanism"). Same skipped step.
+
+**Tight noun list to watch for** (the specific labels that ride this pattern hardest):
+- gap, mechanism, tell, move, pattern, architecture, trick, framework
+
+**Common offending sentence shapes:**
+- "That sentence is the gap."
+- "This is the mechanism."
+- "Here's the move."
+- "That's the tell."
+- "That's the pattern."
+- "This is the trick."
+- "That's the framework."
+- "That's the architecture."
+
+**The fix:** name what the gap / mechanism / move / tell actually IS, in concrete terms. Use named actors and active verbs (per §3J's prescription, applied mid-paragraph rather than at closers). Or — if deleting the labeling sentence loses no information — just cut it and let the surrounding prose do the work.
+
+Bad: "That sentence is the gap."
+Good: "The vendor's promise covers what they sell. It says nothing about what their customers sell."
+
+Bad: "This is the mechanism."
+Good: "The board recommended against the proposal. The same proxy disclosed the vendor as under active congressional investigation. Both are in the same document."
+
+Bad: "Here's the move."
+Good: "Ask whether the same vendor's cameras are still running on private property in the same town."
+
+**The litmus question:** if I deleted the pointing-and-labeling sentence entirely, would the surrounding prose lose any actual information? If no, the sentence was carrying connotation rather than content — cut it or rewrite.
+
+**Strictness — STRONG TENDENCY, not HARD RULE.** A brief deictic landing IS sometimes the right move — "That's it." after a long setup is human, not AI. "Here's the thing." can earn its place when the setup actually justifies it. The litmus question separates the keepers from the lazy. Apply with judgment, not auto-flag.
 
 ---
 

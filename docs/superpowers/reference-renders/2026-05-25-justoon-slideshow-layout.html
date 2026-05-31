@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Justoon on slides — hand-test v5 (1:1 primary)</title>
+<style>
+  :root {
+    --slate-400: #557FA3;
+    --slate-600: #3A6A8F;
+    --black: #0D0D0F;
+    --twilight: #18222E;
+    --paper: #cfd7df;
+    --hero-fg: #ffffff;
+  }
+
+  body {
+    margin: 0;
+    background: #0a0f15;
+    font-family: 'Courier Prime', 'Courier New', Courier, monospace;
+    color: var(--paper);
+  }
+
+  .test-header {
+    padding: 1rem 1.5rem;
+    background: #050709;
+    color: #777;
+    font-size: 13px;
+    border-bottom: 1px solid #1a1f25;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .label-row {
+    color: #888;
+    font-size: 12px;
+    padding: 0 2rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: -0.5rem;
+  }
+
+  /* === Shared slide tokens (apply at any aspect) ===
+     Token clamps are tuned for the 1:1 safe-zone as primary canvas.
+     Min floors are gentle so portrait/thumbnail variations stay legible. */
+  .slide {
+    background: var(--twilight);
+    color: var(--paper);
+    position: relative;
+    overflow: hidden;
+    container-type: size;
+    /* tuned for 1:1 primary; clamp floors are gentle for derivative aspects */
+    --type-hero:    clamp(80px, 24cqmin, 360px);
+    --type-h1:      clamp(28px,  9cqmin, 144px);
+    --type-h2-mid:  clamp(22px,  6.5cqmin, 96px);
+    --type-body:    clamp(14px,  5cqmin,  72px);
+    --type-kicker:  clamp(10px,  2.5cqmin, 36px);
+    --safe-zone:    min(85cqw, 85cqh);
+  }
+
+  .safe-zone {
+    position: absolute;
+    width: var(--safe-zone);
+    height: var(--safe-zone);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* uncomment to visualize: outline: 1px dashed rgba(85,127,163,0.25); */
+  }
+
+  .kicker, .dispatch-mark, .foot-row {
+    font-size: var(--type-kicker);
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--slate-400);
+    position: absolute;
+  }
+  .kicker { top: 0; left: 0; }
+  .dispatch-mark { top: 0; right: 0; text-align: right; }
+  .foot-row {
+    bottom: 0; left: 0; right: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* === Slide 8 — Twist (role C, deadpan as anchor) ===
+     Layout works at 1:1: Justoon right 55%, text left 42% (3% gap).
+     Justoon dominates visually because the bust fills its column;
+     text is calm supporting matter. */
+  .slide-twist .text-col {
+    position: absolute;
+    left: 0;
+    top: calc(var(--type-kicker) + 2cqh);
+    bottom: calc(var(--type-kicker) + 2cqh);
+    width: 42%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5cqh;
+  }
+  .slide-twist .headline {
+    font-size: var(--type-h2-mid);
+    line-height: 1.05;
+    color: var(--hero-fg);
+    text-wrap: balance;
+  }
+  .slide-twist .caption {
+    font-size: var(--type-kicker);
+    color: var(--slate-400);
+    border-left: 2px solid var(--slate-400);
+    padding-left: 0.6em;
+    letter-spacing: 0.05em;
+    text-wrap: balance;
+  }
+  .slide-twist .justoon {
+    position: absolute;
+    right: 0;
+    bottom: calc(var(--type-kicker) + 1.5cqh);
+    height: 80cqh;
+    width: auto;
+    max-width: 55%;
+    object-fit: contain;
+    object-position: right bottom;
+  }
+
+  /* === Slide 3 — Receipt Bend (role A) === */
+  .slide-receipt .justoon {
+    position: absolute;
+    left: 0;
+    bottom: calc(var(--type-kicker) + 1.5cqh);
+    height: 88cqh;
+    width: auto;
+    max-width: 32%;
+    object-fit: contain;
+    object-position: left bottom;
+  }
+  .slide-receipt .stat-block {
+    position: absolute;
+    right: 0;
+    top: calc(var(--type-kicker) + 2cqh);
+    bottom: calc(var(--type-kicker) + 2cqh);
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .slide-receipt .hero-num {
+    font-size: var(--type-hero);
+    line-height: 0.9;
+    color: var(--hero-fg);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .slide-receipt .stat-label {
+    font-size: var(--type-body);
+    color: var(--paper);
+    margin-top: 0.4em;
+    max-width: 90%;
+    line-height: 1.15;
+    text-wrap: balance;
+  }
+
+  /* === Aspect frames ===
+     1:1 is the PRIMARY canvas (large).
+     16:9 and 9:16 are derivative verification renders (smaller). */
+  .primary-row {
+    display: flex;
+    gap: 2rem;
+    padding: 0 2rem 2rem 2rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .aspect-frame {
+    background: var(--twilight);
+    position: relative;
+    overflow: hidden;
+    container-type: size;
+  }
+  .aspect-frame .slide {
+    width: 100%; height: 100%;
+    background: transparent;
+  }
+
+  /* PRIMARY: 1:1 at 720px — what the user records at */
+  .aspect-frame.square-primary {
+    width: 720px;
+    aspect-ratio: 1 / 1;
+  }
+
+  /* SECONDARY: 16:9 at 720px wide, 9:16 at 405px wide
+     Same safe-zone size as 1:1 (square is the constraint at both aspects),
+     so the content layout is identical — only margin differs */
+  .aspect-frame.widescreen { width: 720px; aspect-ratio: 16 / 9; }
+  .aspect-frame.portrait { width: 405px; aspect-ratio: 9 / 16; }
+
+  .frame-caption {
+    color: #888;
+    font-size: 11px;
+    margin-top: 6px;
+    text-align: center;
+    letter-spacing: 0.05em;
+  }
+  .frame-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* SECONDARY: thumbnail check (240px @ 1:1) — what a phone YouTube card sees */
+  .thumb-frame {
+    width: 240px;
+    aspect-ratio: 1 / 1;
+    background: var(--twilight);
+    position: relative;
+    overflow: hidden;
+    container-type: size;
+  }
+  .thumb-frame .slide {
+    width: 100%; height: 100%;
+    background: transparent;
+  }
+
+  .section-divider {
+    margin: 1.5rem 2rem 0 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #1a1f25;
+  }
+</style>
+</head>
+<body>
+
+<div class="test-header">
+  <span><strong style="color:#cfd7df">Justoon on slides — hand-test v5</strong> · 1:1 is primary (recording aspect) · 16:9 + 9:16 are derivative renders of the same safe-zone</span>
+  <span>iterate by editing → reload</span>
+</div>
+
+<div class="section-divider"></div>
+<div class="label-row">PRIMARY: 1:1 (720×720) — the recording aspect</div>
+
+<div class="primary-row">
+
+  <!-- Slide 8 — Twist (1:1 primary) -->
+  <div class="frame-col">
+    <div class="aspect-frame square-primary">
+      <div class="slide slide-twist">
+        <div class="safe-zone">
+          <div class="kicker">Dispatch №005 · The Twist</div>
+          <div class="dispatch-mark">№005</div>
+          <div class="text-col">
+            <div class="headline">By whom, the company says, can&rsquo;t be known.</div>
+            <div class="caption">364,000 unauthorized queries · Ventura Co., 2025</div>
+          </div>
+          <img class="justoon" src="assets/justoon-react-deadpan.png" alt="Justoon deadpan reaction">
+          <div class="foot-row">
+            <span>The Civic Node</span>
+            <span>5 min · 2026·05·25</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 8 — Twist (role C, deadpan)</div>
+  </div>
+
+  <!-- Slide 3 — Receipt (1:1 primary) -->
+  <div class="frame-col">
+    <div class="aspect-frame square-primary">
+      <div class="slide slide-receipt">
+        <div class="safe-zone">
+          <div class="kicker">Dispatch №005 · The Receipt · Bend</div>
+          <div class="dispatch-mark">№005</div>
+          <img class="justoon" src="assets/justoon-point-right.png" alt="Justoon points right">
+          <div class="stat-block">
+            <div class="hero-num">279</div>
+            <div class="stat-label">federal immigration queries — three weeks after Bend signed on</div>
+          </div>
+          <div class="foot-row">
+            <span>The Civic Node</span>
+            <span>5 min · 2026·05·25</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 3 — Receipt (role A, point-right at 279)</div>
+  </div>
+
+</div>
+
+<div class="section-divider"></div>
+<div class="label-row">DERIVATIVE: 16:9 (same safe-zone, wider margin)</div>
+
+<div class="primary-row">
+
+  <div class="frame-col">
+    <div class="aspect-frame widescreen">
+      <div class="slide slide-twist">
+        <div class="safe-zone">
+          <div class="kicker">Dispatch №005 · The Twist</div>
+          <div class="dispatch-mark">№005</div>
+          <div class="text-col">
+            <div class="headline">By whom, the company says, can&rsquo;t be known.</div>
+            <div class="caption">364,000 unauthorized queries · Ventura Co., 2025</div>
+          </div>
+          <img class="justoon" src="assets/justoon-react-deadpan.png" alt="">
+          <div class="foot-row">
+            <span>The Civic Node</span>
+            <span>5 min · 2026·05·25</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 8 — Twist · 16:9</div>
+  </div>
+
+  <div class="frame-col">
+    <div class="aspect-frame widescreen">
+      <div class="slide slide-receipt">
+        <div class="safe-zone">
+          <div class="kicker">Dispatch №005 · The Receipt · Bend</div>
+          <div class="dispatch-mark">№005</div>
+          <img class="justoon" src="assets/justoon-point-right.png" alt="">
+          <div class="stat-block">
+            <div class="hero-num">279</div>
+            <div class="stat-label">federal immigration queries — three weeks after Bend signed on</div>
+          </div>
+          <div class="foot-row">
+            <span>The Civic Node</span>
+            <span>5 min · 2026·05·25</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 3 — Receipt · 16:9</div>
+  </div>
+
+</div>
+
+<div class="section-divider"></div>
+<div class="label-row">DERIVATIVE: 9:16 portrait (same safe-zone, taller margin)</div>
+
+<div class="primary-row">
+
+  <div class="frame-col">
+    <div class="aspect-frame portrait">
+      <div class="slide slide-twist">
+        <div class="safe-zone">
+          <div class="kicker">№005 · Twist</div>
+          <div class="dispatch-mark">№005</div>
+          <div class="text-col">
+            <div class="headline">By whom, the company says, can&rsquo;t be known.</div>
+            <div class="caption">364k queries</div>
+          </div>
+          <img class="justoon" src="assets/justoon-react-deadpan.png" alt="">
+          <div class="foot-row">
+            <span>The Civic Node</span>
+            <span>5 min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 8 — Twist · 9:16</div>
+  </div>
+
+  <div class="frame-col">
+    <div class="aspect-frame portrait">
+      <div class="slide slide-receipt">
+        <div class="safe-zone">
+          <div class="kicker">№005 · Receipt · Bend</div>
+          <div class="dispatch-mark">№005</div>
+          <img class="justoon" src="assets/justoon-point-right.png" alt="">
+          <div class="stat-block">
+            <div class="hero-num">279</div>
+            <div class="stat-label">federal immigration queries — three weeks after Bend signed on</div>
+          </div>
+          <div class="foot-row">
+            <span>The Civic Node</span>
+            <span>5 min</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 3 — Receipt · 9:16</div>
+  </div>
+
+</div>
+
+<div class="section-divider"></div>
+<div class="label-row">THUMBNAIL CHECK: 240×240 — what a phone YouTube card sees (1:1 mobile preview)</div>
+
+<div class="primary-row">
+
+  <div class="frame-col">
+    <div class="thumb-frame">
+      <div class="slide slide-twist">
+        <div class="safe-zone">
+          <div class="kicker">№005 · TWIST</div>
+          <div class="dispatch-mark">№005</div>
+          <div class="text-col">
+            <div class="headline">By whom, the company says, can&rsquo;t be known.</div>
+            <div class="caption">364k queries</div>
+          </div>
+          <img class="justoon" src="assets/justoon-react-deadpan.png" alt="">
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 8 thumbnail (1:1)</div>
+  </div>
+
+  <div class="frame-col">
+    <div class="thumb-frame">
+      <div class="slide slide-receipt">
+        <div class="safe-zone">
+          <div class="kicker">№005 · RECEIPT · BEND</div>
+          <div class="dispatch-mark">№005</div>
+          <img class="justoon" src="assets/justoon-point-right.png" alt="">
+          <div class="stat-block">
+            <div class="hero-num">279</div>
+            <div class="stat-label">federal queries</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="frame-caption">Slide 3 thumbnail (1:1)</div>
+  </div>
+
+</div>
+
+<div class="test-header" style="border-top:1px solid #1a1f25;border-bottom:none;justify-content:flex-start">
+  <span><strong>v5 reframe:</strong></span>
+  <span>· 1:1 is now the PRIMARY canvas (720×720), shown first and largest</span>
+  <span>· same safe-zone size at every aspect — only the margin differs</span>
+  <span>· text-clamp slopes gentler so the 1:1 primary stays the design target</span>
+  <span>· thumbnail check is now 1:1 (matches the user's recording aspect)</span>
+</div>
+
+</body>
+</html>

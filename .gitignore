@@ -42,3 +42,7 @@ public/
 # Claude context files — ignore in subdirectories, keep root CLAUDE.md
 **/CLAUDE.md
 !/CLAUDE.md
+
+# Graphify — knowledge graph generator (env file + generated output)
+.graphify-env
+graphify-out/

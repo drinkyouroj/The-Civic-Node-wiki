@@ -4,7 +4,7 @@ type: entity
 entity_type: legislation
 tags: [politics, power, technology, censorship, age-verification, legal, lgbtq]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-24
 sources: 17
 ---
 
@@ -18,7 +18,7 @@ The Kids Online Safety Act (KOSA) is a federal bill that would impose a "duty of
 - Operates in tandem with [[Age Verification]] mandates — platforms have strong incentive to ID-gate all users to avoid liability [[EFF Age Verification One-Pager]].
 - Opposed by [[Electronic Frontier Foundation]], [[Fight for the Future]], the [[ACLU]], [[GLAAD]], and the [[Center for Democracy & Technology]] [[Bad Internet Bills]].
 - Passed Senate 91–3 in July 2024; blocked in House during 118th Congress; reintroduced in 119th Congress under Trump II [[Congress is flooded with bills for childproofing the internet]].
-- Part of a broader legislative wave including [[EARN IT Act]], [[STOP CSAM Act]], SCREEN Act, and the Protecting Kids on Social Media Act [[Bad Internet Bills]].
+- Part of a broader legislative wave including [[EARN IT Act]], [[STOP CSAM Act]], [[SCREEN Act]] (S.737 in the 119th Congress, the federal-level age-verification mandate), and the Protecting Kids on Social Media Act [[Bad Internet Bills]] [[SCREEN Act S737 119th Congress — Bill Text]].
 
 ## Newsletter Relevance
 KOSA is the cleanest case study of how "child safety" framing builds bipartisan cover for [[Regulatory Weaponization]] of the internet. The duty-of-care mechanism hands state AGs — including actors with documented records of targeting LGBTQ+ communities — a lever to pressure platforms into removing disfavored content. It connects Politics (coalition logic behind bipartisan support), Power (state enforcement of content norms), and Technology & State (the collapse of [[Section 230]] as the scaffolding of the open internet).
@@ -29,7 +29,7 @@ KOSA is the cleanest case study of how "child safety" framing builds bipartisan 
 - [[Ken Paxton]] — archetypal state-AG enforcer
 - [[Section 230]] — KOSA is one of several bills that erode its immunity shield
 - [[Age Verification]] — practical enforcement mechanism KOSA incentivizes
-- [[EARN IT Act]], [[STOP CSAM Act]] — sibling bills in the same wave
+- [[EARN IT Act]], [[STOP CSAM Act]], [[SCREEN Act]] — sibling bills in the same wave
 - [[Electronic Frontier Foundation]], [[Fight for the Future]], [[ACLU]], [[GLAAD]] — opposition coalition
 
 ## Source Appearances

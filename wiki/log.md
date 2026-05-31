@@ -3042,3 +3042,135 @@ Tenth ingest pass clearing the 10 raw files and 1 published article accumulated 
 - Total = 1303 ✓ matches index `total_pages: 1303`
 - Stats table reconciled to match frontmatter.
 - Overview frontmatter `sources: 741` and lede "grown from 31 to **741**" both reconciled.
+
+## [2026-05-24] ingest | SCREEN Act (S.737, 119th Congress) bill text + new entity page
+
+Single-source ingest pass triggered by the [[The Bill of Rights Ends at the Contractor's Door]] reconciliation (TCN draft v2, same date). The article cites the SCREEN Act as the federal-level instance of the vendor workaround pattern, but the wiki had only loose wikilink references ([[Kids Online Safety Act (KOSA)]], [[Age Verification]]) without a primary text or entity page. This pass closes that gap.
+
+**Created:**
+- `wiki/sources/SCREEN Act S737 119th Congress — Bill Text.md` — primary source page; full bill structure (§1–§9), key provisions (covered platforms, self-attestation insufficient, all U.S. IPs including VPN IPs, third-party vendors explicitly authorized, FTC enforcement under Section 5, Findings invoking *Ashcroft v. ACLU* and arguing technology now satisfies "least restrictive means")
+- `wiki/entities/SCREEN Act.md` — new entity page; type=legislation; mirrors the KOSA entity precedent; anchors the federal vendor-workaround framing
+
+**Updated:**
+- [[Kids Online Safety Act (KOSA)]] (sources 17→18) — SCREEN Act wikilink resolved; sibling-bill list and Connections section reinforced
+- [[Age Verification]] (sources 17→18) — SCREEN Act wikilink resolved; one-line description tightened to surface that the bill explicitly authorizes third-party vendors to hold the biometric/ID database
+
+**Index:**
+- New ingest entry added at top of `## Sources`
+- Counters bumped: total_pages 1303→1305, total_sources 741→742, total_entities 269→270
+
+**Deferred (consistent with "defer until second-source threshold"):**
+- [[Mike Lee]] entity — sponsor; first mention; defer until a second source references him in a substantive role
+- *Ashcroft v. ACLU*, 542 U.S. 656 (2004) entity — referenced in the bill Findings as the prior-attempt precedent; defer until a synthesis directly turns on the case rather than the legislative response
+- Companion House bill (if any) in the 119th Congress — not identified in this raw file; flag for next ingest cycle
+
+**Newsletter angle**: This is the federal-statute-level confirmation of the bypass framework documented in the TCN article published this week. The §4(d) clause — "A covered platform may contract with a third party to employ technology verification measures… but the use of such a third party shall not relieve the covered platform of its obligations under this Act or from liability" — is the cleanest legislative-text instance of *the wiki holds* for the vendor-workaround pattern. Platform liability preserved; vendor liability unaddressed. The same pattern the wiki has previously documented at the [[Flock Safety]] (Fourth Amendment / sanctuary policies), [[CISA]] (First Amendment / switchboarding), and [[BetterHelp]] (HIPAA / behavioral interest category) layers now sits in the federal age-verification text.
+
+**Index sanity-check post-ingest:**
+- `find wiki/sources -type f -name "*.md" | wc -l` = 743 (1 CLAUDE.md) = 742 sources ✓ matches index `total_sources: 742`
+- `find wiki/entities -type f -name "*.md" | wc -l` = 271 (1 CLAUDE.md) = 270 entities ✓ matches index `total_entities: 270`
+- `find wiki/concepts -type f -name "*.md" | wc -l` = 165 (no CLAUDE.md) = 165 concepts ✓ matches index `total_concepts: 165`
+- `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
+- `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
+- Total = 1305 ✓ matches index `total_pages: 1305`
+
+## [2026-05-24] ingest | Flock evidence triad — Bend National Lookup default-on + Ventura silent reactivation + Gibbs Mura class action
+
+Three-source ingest pass triggered by the [[The Bill of Rights Ends at the Contractor's Door]] fact-check reconciliation (TCN draft v3, same date). All three sources were cited as primary references in the article but existed only as raw files awaiting wiki ingestion. This pass closes the gap and promotes them to full wiki source pages, plus creates the missing architectural concept page ([[National Lookup]]) and the missing legal-actor entity page ([[Gibbs Mura]]).
+
+**Created (5 pages):**
+- `wiki/sources/Bend Source — Bend PD Flock 279 Federal Queries June 2025.md` — Peter Madsen, The Source (Bend, OR), May 6, 2026. Canonical operational case study of National Lookup's reciprocal-by-default architecture. 279 federal immigration queries against four cameras in three weeks (118 from CBP, 161 from third-party out-of-state agencies acting for ICE/CBP/HSI). Bend Captain Brian Beekman discovered and disabled the feature on June 25, 2025, three weeks after deployment. City Council voted Jan 7, 2026 to shut down Flock; Oregon SB 1516 (signed March 31, 2026) is the legislative response.
+- `wiki/sources/CBS LA — Ventura County Flock 364k Unauthorized Access 2026.md` — Matthew Rodriguez, CBS Los Angeles, Feb 27, 2026. Largest documented single instance of National Lookup defaulting back on against express department policy. Ventura County Sheriff's Office disabled the feature in June 2023 for California-law compliance; silent reactivation discovered Feb 2025; audit found 364,000+ out-of-state queries between Feb–March 2025 with 299 immigration-justified queries. Sheriff's Office investigation determined no staff member reactivated it; Flock said the cause was "impossible to determine" due to logging limitations.
+- `wiki/sources/Gibbs Mura — Flock Safety Class Action California 2026.md` — Gibbs Mura law firm case page; amended complaint filed April 3, 2026 (original Feb 26) in San Francisco Superior Court. Co-counsel Milberg PLLC. Grounded in California Civil Code § 1798.90.55(b), § 1798.90.51, § 1798.90.52, and SB 54 — **no federal constitutional claims asserted**. Statutory damages floor $2,500/violation under § 1798.90.54; SFPD 1.6M federal accesses alone ≈ $4B exposure. 200+ California departments use Flock. California AG [[Rob Bonta]]'s parallel El Cajon case (October 2025) is the state-AG enforcement track.
+- `wiki/concepts/National Lookup.md` — new concept page; the per-installation Flock feature whose reciprocal-by-default architecture creates the [[Flock Safety Surveillance Network]]'s federal-immigration throughput. Three new sources + four prior wiki sources (Atlanta PD, NPR cancellations, SFist class action, Flock's own blog) all converge on the same architectural mechanism. The cleanest single feature in the wiki demonstrating how vendor defaults function as policy.
+- `wiki/entities/Gibbs Mura.md` — new entity page; Oakland plaintiff's law firm (David Berger / Kate Walford / Jennifer Sun / Eileen Epstein Carney). Type=organization. The named actor for the proposition that real remedies for vendor surveillance exist at the state-statutory layer, not the federal constitutional layer. Source threshold met: 2 wiki sources reference the firm ([[SFist — Flock lawsuit SFPD 1.6 million accesses]] mentioned them; [[Gibbs Mura — Flock Safety Class Action California 2026]] is the firm's own case page).
+
+**Updated:**
+- [[Flock Safety]] (sources 15→18) — added Bend National Lookup case row, Ventura silent reactivation case row, Gibbs Mura amended complaint row; new connections to [[Gibbs Mura]], [[Ventura County Sheriff's Office]], [[San Francisco Police Department]], [[Rob Bonta]]; three new source-appearance entries
+- [[Flock Safety Surveillance Network]] (sources 9→12) — added all three new operational/legal evidence rows; added [[National Lookup]] and [[Vendor-State Governance]] to Related Concepts; three new entries in Key Sources
+- [[overview.md]] (sources 742→745) — added "Update 2026-05-24 (latest, Flock evidence triad ingest)" entry above the SCREEN Act update; same-day stacking shows the structural pattern at three altitudes (federal statute / operational defaults / legal remedy)
+- [[index.md]] — new ingest entry at top of Sources section; counters bumped (total_pages 1305→1310, total_sources 742→745, total_entities 270→271, total_concepts 165→166)
+
+**Deferred (consistent with "defer until second-source threshold"):**
+- *People — single-source only*: Captain Brian Beekman (Bend PD); Police Chief Mike Krantz (Bend PD); Mayor Melanie Kebler (Bend); Catalina Sánchez Frank (Latino Community Association); Peter Madsen (Bend Source author); Matthew Rodriguez (CBS LA author); Oxnard PC Jason Benites; David Berger, Kate Walford, Jennifer Sun, Eileen Epstein Carney (Gibbs Mura partners; first appearance as a team)
+- *Organizations — first appearance only*: [[Ventura County Sheriff's Office]] (wikilink left dangling; TCN draft cites them but the deferral rule is about wiki-source coverage, not article coverage — defer until a second wiki source primarily covers them); [[San Francisco Police Department]] (wikilink dangling; SFist source mentions them but no source page primarily about SFPD); Latino Community Association (Bend); Milberg PLLC (co-counsel only); Mountain View Police Department, Los Altos Police Department (single-source mentions in the Gibbs Mura case page)
+- *Legislation / statutes*: Oregon SB 1516 (referenced in both [[Bend Source]] and the TCN article draft but no source primarily about the bill itself); California Civil Code § 1798.90.55(b) and related sections (statute citations only; defer until a source primarily analyzes the framework)
+- *Cases*: California AG *El Cajon* state-law case (Bonta, Oct 2025) — referenced in [[Gibbs Mura — Flock Safety Class Action California 2026]] but no source page on the case yet; flag for next ingest cycle
+- *Concepts*: [[Vendor-State Governance]] — appears as a wikilink in multiple pages now but doesn't yet have its own concept page; threshold met but deferred to next pass (would require structural concept-page synthesis across Flock, BetterHelp, SCREEN Act layers). [[Class Action]] — first substantive appearance in the surveillance context; defer until second domain (e.g., BetterHelp-style data-privacy class actions) for cross-domain framing.
+
+**Newsletter angle**: The wiki now sources the [[The Bill of Rights Ends at the Contractor's Door]] vendor-workaround thesis at three altitudes simultaneously, all converging on the same structural pattern:
+- **Federal statute layer** (ingested earlier today): [[SCREEN Act S737 119th Congress — Bill Text]] §4(d) authorizes third-party vendors to perform age verification while preserving platform liability and leaving vendor liability unaddressed
+- **Operational default layer** (this pass): [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] + [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]] document [[National Lookup]] as a reciprocal-by-default architecture that produces federal-immigration query throughput against department policy, with reactivation possible against express opt-out
+- **Legal remedy layer** (this pass): [[Gibbs Mura — Flock Safety Class Action California 2026]] grounds the only currently-available enforcement track in California state law, not federal constitutional doctrine — $2,500/violation × 1.6M SFPD accesses = $4B exposure on one department alone, with no Fourth Amendment theory of the case
+
+The architectural mechanism (National Lookup default-on, silent reactivation against department policy, logging limitations preventing causal attribution) is now documented as a **recurring, reproducible failure mode** rather than a one-off — and the legal-doctrine asymmetry (state-statutory remedies are real and enforceable; federal constitutional doctrine on private-vendor surveillance does not exist) is the structural insight the article makes legible.
+
+**Source acquisition targets:**
+- A source page primarily about Oregon SB 1516 (text, sponsors, legislative history)
+- A source page on the California AG El Cajon case (Bonta, October 2025)
+- Mountain View Police Department's decision to shut down its Flock network (cited in the Gibbs Mura case page but not yet sourced)
+- The Illinois Secretary of State audit finding CBP direct access to Illinois networks in violation of state law (referenced in [[Atlanta PD used Flock cameras to track migrants]] but no dedicated source page)
+
+**Index sanity-check post-ingest:**
+- `find wiki/sources -type f -name "*.md" | wc -l` = 746 (1 CLAUDE.md) = 745 sources ✓ matches index `total_sources: 745`
+- `find wiki/entities -type f -name "*.md" | wc -l` = 272 (1 CLAUDE.md) = 271 entities ✓ matches index `total_entities: 271`
+- `find wiki/concepts -type f -name "*.md" | wc -l` = 166 (no CLAUDE.md) = 166 concepts ✓ matches index `total_concepts: 166`
+- `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
+- `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
+- Total = 1310 ✓ matches index `total_pages: 1310`
+
+## [2026-05-24] ingest | Oregon SB 1516 enrolled bill text + new entity page
+
+Single-source primary-text ingest triggered by user adding the Oregon SB 1516 enrolled PDF to `raw/` after the Flock-evidence-triad ingest earlier today. This closes the "Oregon SB 1516 primary text" source acquisition target flagged at the end of the previous log entry. The bill had been referenced as a wikilink (and as a secondary-source citation in [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]]) but no primary-text page existed.
+
+**Created (2 pages):**
+- `wiki/sources/Oregon SB 1516 — Enrolled Bill Text.md` — 16-page primary-source statutory text; 83rd Oregon Legislative Assembly, 2026 Regular Session; sponsor: Senate Interim Committee on Judiciary; passed Senate Feb 20, 2026 (Wagner / Rutledge signatures); passed House March 5, 2026 (Fahey signature); signed by Governor [[Tina Kotek]] March 31, 2026 per [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] (enrolled PDF has blank governor signature fields); emergency clause makes the law effective on passage. **Omnibus public safety act with three distinct parts**: Pretlrial Release (§§1–2); ALPR Systems (§§3–9, §§10–11); Justice Reinvestment Equity Program (§12). The ALPR sections (§§3–9, §§10–11) are the wiki-relevant core.
+- `wiki/entities/Oregon SB 1516.md` — new entity page; type=legislation (matches [[SCREEN Act]] entity-type precedent from earlier ingest); summarizes the bill's structural significance and provisions; source threshold met (primary text + secondary Bend Source coverage = 2 wiki sources).
+
+**Pre-ingest understanding (from secondary source) vs. primary text (key refinements):**
+- The Bend Source described the bill as "restricts ALPR data sharing to Oregon agencies only and requires public audit reports every 30 days." The primary text shows this is *partial* — accurate but understates the bill's scope.
+- The bill's structurally novel contribution is the **mandatory contract terms (§7(2)(e))** + **private right of civil action against vendors (§9)** + **§9 as the exclusive remedy** for §9(1)(a) violations. No state law in the wiki has this combination.
+- The bill is omnibus — Pretrial Release sections and Justice Reinvestment Equity Program sections are tangential to the surveillance thread; characterizing SB 1516 as "Oregon's Flock-restriction bill" is partial.
+- The §5 prohibition runs not just on out-of-state law enforcement but on **any government entity or agency not created pursuant to the Oregon Constitution, or the laws or regulations of this state** — broader than "Flock restricted to Oregon agencies."
+- §6 requires both monthly *and quarterly* audits; the quarterly audit specifically covers searches conducted on behalf of any non-contracting government agency — directly addressing the federal-pull pattern.
+- §4 authorized-uses incorporates Oregon's sanctuary statutes (ORS 181A.250/820/826) by reference — the bill is a sanctuary statute applied to ALPR, not just a generic data-protection statute.
+
+**Updated:**
+- [[Flock Safety]] — added SB 1516 statutory regime to Key Facts (mandatory contract terms + §9 private right of action + §6 audit framework); added the new source page to Source Appearances
+- [[Flock Safety Surveillance Network]] — added Oregon vendor-liability statute to Evidence & Examples; added the new source to Key Sources
+- [[National Lookup]] — added Oregon's three-layer legislative response (§5 + §6(2) + §9) to Evidence & Examples; added the new source to Key Sources
+- [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] — refined the SB 1516 reference to flag that primary text now exists in the wiki and that the Bend Source description was structurally understated
+- [[overview.md]] (sources 745→746) — added "Update 2026-05-24 (latest-latest, Oregon SB 1516 enrolled bill text)" entry above the Flock-evidence-triad update; same-day stacking shows the wiki now sources the vendor-workaround thesis at four altitudes
+- [[index.md]] — new ingest entry at top of Sources section; counters bumped (total_pages 1310→1312, total_sources 745→746, total_entities 271→272, total_concepts unchanged at 166)
+
+**Deferred (consistent with "defer until second-source threshold"):**
+- Rob Wagner (Oregon Senate President); Julie Fahey (Oregon Speaker of the House); Obadiah Rutledge (Secretary of the Senate); Tobias Read (Secretary of State) — ceremonial signatories on the enrolled bill; single-source mentions; defer until a second source picks them up
+- Senate Interim Committee on Judiciary — single-source mention; defer
+- [[Tina Kotek]] — Oregon Governor; appears in this source via the signature reference; the wiki has prior references in unrelated political/state-economy contexts; threshold likely met but creating the entity page is a separate dedicated pass; flag for next ingest review
+- Justice Reinvestment Equity Program (§12 amends section 15, chapter 78, Oregon Laws 2022) — tangential to the surveillance thread; no entity page; defer
+- ORS sections referenced (135.230, 135.233, 137.865, 192.345, 24.500, 181A.250, 181A.820, 181A.826, 181A.300, 181A.775, etc.) — Oregon statutes referenced or amended by the bill; none have wiki pages; not a fragmentation candidate (per CLAUDE.md "prefer aggregation"); statutory text remains accessible via the source page
+- [[Vendor-State Governance]] concept page — threshold strongly met now (referenced in [[Flock Safety]], [[SCREEN Act]] entity, [[Oregon SB 1516]] entity, [[National Lookup]] concept, three Flock source pages, and one synthesis); creating this concept page would be a separate analytical-synthesis pass, not an in-scope ingest of one new source; defer one more cycle but flag prominently
+- Pretrial Release framework (§§1–2 of SB 1516) — substantive criminal-justice content but tangential to the surveillance thread; no separate page; flag for next time if a second criminal-justice source picks up the topic
+
+**Newsletter angle**: The wiki now sources the [[The Bill of Rights Ends at the Contractor's Door]] vendor-workaround thesis at **four altitudes simultaneously**, all ingested or updated within a single working day:
+- **Federal statute layer**: [[SCREEN Act S737 119th Congress — Bill Text]] §4(d) authorizes third-party vendors to perform age verification, preserves platform liability, leaves vendor liability unaddressed
+- **Operational default layer**: [[Bend Source — Bend PD Flock 279 Federal Queries June 2025]] + [[CBS LA — Ventura County Flock 364k Unauthorized Access 2026]] document [[National Lookup]] failing operationally as a reciprocal-by-default architecture that produces federal-immigration query throughput against department policy
+- **Legal remedy layer — private class action**: [[Gibbs Mura — Flock Safety Class Action California 2026]] grounds the only currently-available *judicial* enforcement track in California state law (Civil Code § 1798.90.55(b) and SB 54)
+- **Legal remedy layer — state statute**: **NEW** — [[Oregon SB 1516]] codifies vendor-side liability and a private right of action directly into Oregon's ALPR regime, with §9 being the exclusive remedy and §7(2)(e) writing mandatory contract terms into every Oregon ALPR contract going forward
+
+The Oregon approach goes structurally further than the California Gibbs Mura framework: in California, the remedy follows the *contracting agency's breach* of state-law data-sharing obligations; in Oregon under SB 1516, **the remedy follows the vendor architecture directly** — a vendor that "accesses, discloses, sells, shares or otherwise uses" captured plate data has violated §9(1)(a) regardless of what the contracting agency did or didn't do. The §9 framework is the first state-level codification in the wiki of the proposition that **the vendor is a structural actor, not a neutral pipe**.
+
+**Source acquisition targets** (carried forward from prior ingest, refined):
+- Primary-source confirmation of Governor Kotek's March 31, 2026 signature (Oregon governor's office press release, OLIS final entry, or Oregon Laws 2026 chapter assignment) — currently relying on Bend Source's secondary mention
+- A source page on the California AG El Cajon case (Bonta, October 2025) — referenced in [[Gibbs Mura — Flock Safety Class Action California 2026]] but not yet sourced
+- Mountain View Police Department's decision to shut down its Flock network — cited in the Gibbs Mura case page; not yet directly sourced
+- Companion or sibling Oregon ALPR bills in the 2026 session — possible Senate Interim Committee on Judiciary package
+- Whether any other state (especially California, Washington) has introduced legislation patterned on SB 1516's §7(2)(e) mandatory-contract-terms framework
+
+**Index sanity-check post-ingest:**
+- `find wiki/sources -type f -name "*.md" | wc -l` = 747 (1 CLAUDE.md) = 746 sources ✓ matches index `total_sources: 746`
+- `find wiki/entities -type f -name "*.md" | wc -l` = 273 (1 CLAUDE.md) = 272 entities ✓ matches index `total_entities: 272`
+- `find wiki/concepts -type f -name "*.md" | wc -l` = 166 (no CLAUDE.md) = 166 concepts ✓ matches index `total_concepts: 166`
+- `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
+- `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
+- Total = 1312 ✓ matches index `total_pages: 1312`
