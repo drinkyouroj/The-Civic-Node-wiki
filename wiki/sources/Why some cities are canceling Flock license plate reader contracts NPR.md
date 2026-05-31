@@ -14,7 +14,7 @@ published: 2026-02-17
 [Original source](https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns)
 
 ## Summary
-NPR / All Things Considered investigation documenting the accelerating wave of city contract cancellations with [[Flock Safety]] following Trump's immigration crackdown. At least 30 localities have deactivated cameras or cancelled contracts since early 2025. The piece traces a pattern of revelations: Flock's CEO denied federal contracts, then admitted CBP and HSI pilots; local police conducting immigration-related searches even after pilot programs ended; and the killing of [[Renée Good]] on January 7, 2026 as the direct catalyst for Santa Cruz's cancellation six days later.
+NPR / All Things Considered investigation documenting the accelerating wave of city contract cancellations with [[Flock Safety]] following Trump's immigration crackdown. At least 30 localities have deactivated cameras or cancelled contracts since early 2025. The piece traces a pattern of revelations: Flock's CEO denied federal contracts, then admitted CBP and HSI pilots; local police conducting immigration-related searches even after pilot programs ended; and the killing of [[Killing of Renée Good|Renée Good]] on January 7, 2026 as the direct catalyst for Santa Cruz's cancellation six days later.
 
 ## Key Points
 - **At least 30 localities** have cancelled or deactivated Flock contracts since early 2025, with most activity in the last three months before publication (Feb 2026)
@@ -37,7 +37,7 @@ NPR / All Things Considered investigation documenting the accelerating wave of c
 
 ## Entities Mentioned
 - [[Flock Safety]] — primary subject; CEO admitted federal pilots after denial; 5,000+ agencies
-- [[Renée Good]] — her January 7 killing cited as Santa Cruz's tipping point
+- [[Killing of Renée Good|Renée Good]] — her January 7 killing cited as Santa Cruz's tipping point
 - [[US Customs and Border Protection]] — had Flock pilot program; Flock claimed ended Aug 2025
 - [[Homeland Security Investigations]] — second federal pilot program acknowledged in same statement
 - [[ICE]] — central concern; no "direct access" per Flock but proxy-search workaround documented

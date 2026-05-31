@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, accountability, doj, minnesota]
 created: 2026-04-24
 updated: 2026-04-24
-sources: 15
+sources: 14
 raw: "raw/Justice department ‘not investigating’ Renee Good killing in contrast to 2020 inquiry on George Floyd death.md"
 source_url: "https://www.theguardian.com/us-news/2026/jan/18/justice-department-ice-renee-good-george-floyd-minneapolis"
 author: "Robert Mackey"
@@ -14,7 +14,7 @@ published: 2026-01-18
 [Original source](https://www.theguardian.com/us-news/2026/jan/18/justice-department-ice-renee-good-george-floyd-minneapolis)
 
 ## Summary
-Deputy Attorney General [[Todd Blanche]] confirmed on Fox News that DOJ is "not investigating" the January 7, 2026 fatal shooting of [[Renée Good]] by ICE agent [[Jonathan Ross]] — six years after the first Trump DOJ launched an immediate criminal civil rights investigation into the killing of George Floyd in the same city, which led to four officers' federal civil rights convictions. The Guardian piece directly juxtaposes the two cases and documents the cascade of federal prosecutor resignations in protest, plus DOJ's parallel investigation of Good's widow Becca for "impeding" Ross before he fired.
+Deputy Attorney General [[Todd Blanche]] confirmed on Fox News that DOJ is "not investigating" the January 7, 2026 fatal shooting of [[Killing of Renée Good|Renée Good]] by ICE agent [[Jonathan Ross]] — six years after the first Trump DOJ launched an immediate criminal civil rights investigation into the killing of George Floyd in the same city, which led to four officers' federal civil rights convictions. The Guardian piece directly juxtaposes the two cases and documents the cascade of federal prosecutor resignations in protest, plus DOJ's parallel investigation of Good's widow Becca for "impeding" Ross before he fired.
 
 ## Key Points
 - **Blanche's exact words**: "We are not going to bow to pressure from the media, bow to pressure from politicians, and do something that we never do — not under this administration, not under the last administration. So no, we are not investigating."
@@ -35,7 +35,7 @@ Deputy Attorney General [[Todd Blanche]] confirmed on Fox News that DOJ is "not 
 
 ## Entities Mentioned
 - [[Todd Blanche]] — Deputy AG who confirmed "not investigating"
-- [[Renée Good]] — Jan 7 victim
+- [[Killing of Renée Good|Renée Good]] — Jan 7 victim
 - [[Jonathan Ross]] — ICE agent who fired
 - [[Pam Bondi]] — AG; Jan 8 statement warning MN protesters
 - [[Harmeet Dhillon]] — DOJ Civil Rights Division head; shared Trump's false claim

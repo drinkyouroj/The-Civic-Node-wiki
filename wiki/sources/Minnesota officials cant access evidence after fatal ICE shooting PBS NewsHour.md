@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, minnesota, institutional-gaslighting, federal-state-cooperation]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 6
 raw: "raw/Minnesota officials say they cant access evidence after fatal ICE shooting PBS NewsHour.md"
 source_url: "https://www.pbs.org/newshour/nation/minnesota-officials-say-they-cant-access-evidence-after-fatal-ice-shooting-and-fbi-wont-work-jointly-on-investigation"
 author: "Associated Press (via PBS NewsHour)"
@@ -34,7 +34,7 @@ PBS NewsHour / Associated Press report, published January 8, 2026, documenting M
 ## Entities Mentioned
 
 - [[Bob Jacobson]] — Minnesota Public Safety Commissioner; source of key quote
-- [[Renée Good]] — victim
+- [[Killing of Renée Good|Renée Good]] — victim
 - [[Jonathan Ross]] — ICE agent
 - [[Minnesota Bureau of Criminal Apprehension]] — state investigative agency blocked from case
 

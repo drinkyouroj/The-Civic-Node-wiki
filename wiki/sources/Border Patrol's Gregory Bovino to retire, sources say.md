@@ -14,7 +14,7 @@ published: 2026-03-16
 [Original source](https://www.nbcnews.com/news/us-news/border-patrol-gregory-bovino-retire-immigration-enforcement-rcna263751)
 
 ## Summary
-NBC News reports Border Patrol commander [[Gregory Bovino]], the public face of Trump's immigration crackdown, will retire at the end of March 2026. Bovino was removed from his role as CBP commander-at-large in January 2026 after the deaths of [[Renée Good]] and [[Alex Pretti|Alex Pretti]] and returned to his original sector chief role in El Centro, California. His exit coincides with the announced last day of DHS Secretary [[Kristi Noem]]. He was eligible for retirement and one year from CBP's mandatory retirement age of 57.
+NBC News reports Border Patrol commander [[Gregory Bovino]], the public face of Trump's immigration crackdown, will retire at the end of March 2026. Bovino was removed from his role as CBP commander-at-large in January 2026 after the deaths of [[Killing of Renée Good|Renée Good]] and [[Alex Pretti|Alex Pretti]] and returned to his original sector chief role in El Centro, California. His exit coincides with the announced last day of DHS Secretary [[Kristi Noem]]. He was eligible for retirement and one year from CBP's mandatory retirement age of 57.
 
 ## Key Points
 - Bovino removed from CBP commander-at-large role in January 2026; returned to Border Patrol sector chief in El Centro, California
@@ -36,7 +36,7 @@ NBC News reports Border Patrol commander [[Gregory Bovino]], the public face of 
 - [[Gregory Bovino]] — subject; retiring CBP commander-at-large
 - [[Kristi Noem]] — DHS Secretary; Bovino reported directly to her
 - [[Corey Lewandowski]] — Noem senior adviser; second link in Bovino's reporting chain
-- [[Renée Good]] — first Metro Surge fatality (Jan 7)
+- [[Killing of Renée Good|Renée Good]] — first Metro Surge fatality (Jan 7)
 - [[Alex Pretti]] — second Metro Surge fatality (Jan 24)
 - [[Donald Trump]] — administration that promoted Bovino
 - [[Department of Homeland Security]] — parent agency

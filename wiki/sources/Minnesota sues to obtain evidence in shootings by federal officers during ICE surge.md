@@ -14,7 +14,7 @@ published: 2026-03-24
 [Original source](https://www.pbs.org/newshour/nation/minnesota-sues-to-obtain-evidence-in-shootings-by-federal-officers-during-ice-surge)
 
 ## Summary
-PBS NewsHour covers Minnesota's March 24, 2026 federal lawsuit seeking access to evidence in three shootings by federal officers during [[Operation Metro Surge]] — the killings of [[Renée Good]] and Alex Pretti and the wounding of Julio Cesar Sosa-Celis. The filing alleges the federal government has adopted "a policy of categorically withholding evidence" in violation of a prior cooperation agreement. The article flags an unusual DOJ split: the department opened a civil rights investigation into Pretti's death but declined similar review of Good's case — a departure from past administrations' standard procedure of parallel federal review of fatal agent involvements.
+PBS NewsHour covers Minnesota's March 24, 2026 federal lawsuit seeking access to evidence in three shootings by federal officers during [[Operation Metro Surge]] — the killings of [[Killing of Renée Good|Renée Good]] and Alex Pretti and the wounding of Julio Cesar Sosa-Celis. The filing alleges the federal government has adopted "a policy of categorically withholding evidence" in violation of a prior cooperation agreement. The article flags an unusual DOJ split: the department opened a civil rights investigation into Pretti's death but declined similar review of Good's case — a departure from past administrations' standard procedure of parallel federal review of fatal agent involvements.
 
 ## Key Points
 - Filing date: March 24, 2026

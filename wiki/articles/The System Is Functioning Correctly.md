@@ -48,7 +48,7 @@ The piece names "institutional gaslighting" as a structural mechanism rather tha
 - [[Eric Holder]] / Obama-DOJ — "Too Big to Jail" testimony
 - [[Merrick Garland]] / Biden-DOJ — "wasted time" on Trump prosecution
 - [[Jack Smith]] — special counsel whose indictment came two and a half years after Jan 6
-- [[Renée Good]] — Minneapolis ICE shooting victim
+- [[Killing of Renée Good|Renée Good]] — Minneapolis ICE shooting victim
 - [[Donald Trump]] — Truth Social claim contradicted by NYT
 - [[Thomas Massie]] — co-author of Epstein Files Transparency Act; on the record that DOJ "broke the law"
 

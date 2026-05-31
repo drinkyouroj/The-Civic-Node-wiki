@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, minnesota, legal, institutional-gaslighting]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 6
 raw: "raw/Government Ordered to Turn Over Files on ICE Agent Who Killed Renee Good.md"
 source_url: "https://theintercept.com/2026/04/09/renee-good-killing-minneapolis-jonathan-ross-videos/"
 author: "Noah Hurowitz and Austin Campbell"
@@ -37,7 +37,7 @@ A federal magistrate judge ordered the DOJ to hand over Ross's personnel files, 
 - [[Jonathan Ross]] — ICE agent who shot Renée Good; subject of the evidence order
 - [[Killing of Renée Good]] — the triggering event
 - [[Roberto Carlos Muñoz-Guatemala]] — defendant in the assault case whose defense motion produced this order
-- [[Renée Good]] — victim; her family has been stonewalled by federal agencies
+- [[Killing of Renée Good|Renée Good]] — victim; her family has been stonewalled by federal agencies
 - [[Rep. Becca Balint]] — quoted; "Renee Good's family has been forced to wait for answers while DHS and ICE closed ranks"
 
 ## Concepts Mentioned

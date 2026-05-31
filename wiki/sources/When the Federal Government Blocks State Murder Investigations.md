@@ -38,7 +38,7 @@ A GovFacts legal analysis that identifies the key doctrinal innovation in the Re
 
 ## Entities Mentioned
 
-- [[Renée Good]] — killed January 7; family forced into private civil litigation
+- [[Killing of Renée Good|Renée Good]] — killed January 7; family forced into private civil litigation
 - [[Mary Moriarty]] — blocked from conducting full investigation by federal evidence seizure
 - [[Department of Justice]] — declined civil rights investigation of Good; prosecutors resigned in protest
 - [[Operation Metro Surge]] — operational context

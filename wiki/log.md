@@ -3270,3 +3270,24 @@ Computed lint (dangling links, orphans, stubs, contradiction markers, counter in
 - **Orphans: 38** — 30 articles (expected; summaries are leaf nodes), 3 concepts ([[Section 702 FISA]], [[Russia Targeted Killings Campaign]], catfishing-as-legal-liability), 5 entities (4 are the catfish slug pages above + [[Strategy MicroStrategy]]).
 - **Stubs: 27** entities/concepts under a 70-word body (e.g. Rick Crawford 27w, Energy Policy 29w) — mostly single-source mentions consistent with the deferral policy.
 - **Contradiction markers: 13 files** carry ⚠️ flags (intentional). Active clusters to re-verify: Iran/Hormuz strait-status (3 sources + [[Iran]]), [[Helium]] supply-crisis, [[Donald Trump]].
+
+---
+
+## [2026-05-31] update | Lint fix 1/3 — catfish-cluster dedup + slug renames (Doe v. Bonnell)
+
+Resolved the highest-ROI lint finding: the Doe v. Bonnell entity cluster had duplicate pages and slug-vs-displayname orphans, so pages showed as both orphaned and dangling at once.
+
+**Merged + deleted duplicates** (canonical kept; unique facts folded in first):
+- `entities/solo-catfisher.md` ("Solo (Catfisher)", 4 src) → merged into canonical [[Solo (Ben Conway)]] (13 src). Folded: "George Scorer" Cash App alias + the KiwiFarms leak-staging quotes.
+- `entities/rose-catfish-victim.md` ("Rose (Catfish Victim)", 5 src) → merged into canonical [[Rose (AH)]] (8 src). Folded: [[Joan Peters]] as the deposing attorney (added to Connections).
+
+**Renamed slug files to match their wikilinks** (Obsidian resolves on basename — the rename auto-resolves all inbound links and de-orphans the page):
+- `entities/lauren-de-laguna.md` → `entities/Lauren de Laguna.md` (resolves 7 dangling [[Lauren de Laguna]])
+- `entities/joan-peters.md` → `entities/Joan Peters.md` (resolves 6 dangling [[Joan Peters]])
+
+**Redirected short-name variant links via aliases** (preserve display text, fix target) — 49 occurrences across 28 files:
+- `[[Solo]]` → `[[Solo (Ben Conway)|Solo]]`
+- `[[Rose]]` → `[[Rose (AH)|Rose]]`
+- `[[Renée Good]]` → `[[Killing of Renée Good|Renée Good]]` (the single biggest dangling target, 35×)
+
+**Counters:** total_entities 273→271, total_pages 1316→1314 (2 duplicates removed). Historical `log.md` link text left verbatim (append-only). Net dangling-link reduction this pass: ≈90 occurrences resolved.

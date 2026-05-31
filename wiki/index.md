@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-31
-total_pages: 1316
+total_pages: 1314
 total_sources: 746
-total_entities: 273
+total_entities: 271
 total_concepts: 168
 total_syntheses: 27
 total_articles: 102

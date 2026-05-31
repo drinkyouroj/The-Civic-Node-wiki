@@ -15,7 +15,7 @@ In the Trump administration's application during [[Operation Metro Surge]], the 
 
 ## Why It Matters for the Newsletter
 
-The Supremacy Clause is the central legal obstacle to state accountability for federal agents' conduct during Operation Metro Surge. Understanding it means understanding why [[Mary Moriarty]]'s prosecution of [[Gregory Donnell Morgan]] — the first criminal case against a surge officer — faces steep odds, and why the deaths of [[Renée Good]] and [[Alex Pretti]] may never produce criminal accountability even if state investigators obtain evidence.
+The Supremacy Clause is the central legal obstacle to state accountability for federal agents' conduct during Operation Metro Surge. Understanding it means understanding why [[Mary Moriarty]]'s prosecution of [[Gregory Donnell Morgan]] — the first criminal case against a surge officer — faces steep odds, and why the deaths of [[Killing of Renée Good|Renée Good]] and [[Alex Pretti]] may never produce criminal accountability even if state investigators obtain evidence.
 
 The doctrine also illuminates a structural asymmetry: state convictions for state crimes are **outside the president's pardon authority**, which is precisely why the Trump administration has been aggressive about blocking investigations before charges are filed.
 

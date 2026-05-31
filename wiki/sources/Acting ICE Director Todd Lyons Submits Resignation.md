@@ -21,7 +21,7 @@ Acting ICE Director [[Todd Lyons]] submitted his resignation to DHS Secretary [[
 
 - Lyons was appointed acting ICE director in March 2025; previously served as executive associate director of Enforcement and Removal Operations
 - Resignation effective May 31; described by Mullin as "a great leader"
-- ICE has faced scrutiny for fatal shootings of [[Renée Good]] and [[Alex Pretti]] during Operation Metro Surge
+- ICE has faced scrutiny for fatal shootings of [[Killing of Renée Good|Renée Good]] and [[Alex Pretti]] during Operation Metro Surge
 - The resignation was announced the same day Hennepin County charged ICE agent [[Gregory Donnell Morgan]] with assault—the first criminal case against a federal officer from the surge
 - Lyons is best known publicly for his congressional testimony where Rep. Swalwell asked him to apologize for Good's death and Lyons replied "NO SIR"
 
@@ -35,7 +35,7 @@ Acting ICE Director [[Todd Lyons]] submitted his resignation to DHS Secretary [[
 
 - [[Todd Lyons]] — acting ICE director, resigned effective May 31, 2026
 - [[Markwayne Mullin]] — DHS Secretary who accepted resignation
-- [[Renée Good]] — killed by ICE agent during Operation Metro Surge; cited as basis for scrutiny
+- [[Killing of Renée Good|Renée Good]] — killed by ICE agent during Operation Metro Surge; cited as basis for scrutiny
 - [[Alex Pretti]] — killed during surge; cited alongside Good
 - [[Gregory Donnell Morgan]] — ICE agent charged with assault same day as resignation announced
 - [[Operation Metro Surge]] — the operation whose fallout defines Lyons's tenure

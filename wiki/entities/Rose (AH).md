@@ -5,7 +5,7 @@ entity_type: person
 tags: [identity-theft-victim, minor, catfish-victim, destiny]
 created: 2026-04-17
 updated: 2026-04-18
-sources: 8
+sources: 9
 ---
 
 ## Overview
@@ -38,6 +38,7 @@ Her deposition is also the single most useful piece of evidence for the article'
 - [[Steven K. Bonnell II]] — catfish target, later the person who doxxed her
 - [[Doe v. Bonnell (1-25-cv-20757)]] — case in which she testified
 - [[Rose deposition — Doe v Bonnell]] — her sworn testimony
+- [[Joan Peters]] — Jane Doe (Pxie)'s attorney; subpoenaed and deposed Rose, then moved to impeach her testimony when it proved exculpatory for Bonnell
 - "Callum" — unknown party who informed her of the leak
 
 ## Source Appearances

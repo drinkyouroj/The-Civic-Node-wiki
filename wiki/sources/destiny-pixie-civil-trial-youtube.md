@@ -15,7 +15,7 @@ published: 2025-12-17
 
 ## Summary
 
-[[Destiny]] (Steven K. Bonnell II), a political debate streamer with ~866K YouTube subscribers, has been the defendant in a federal civil lawsuit filed by a streamer known as [[Pixie]] (Jane Doe) in 2025. The suit alleges Destiny non-consensually shared intimate images under a federal statute. Destiny's core defense: the alleged transmission predated the statute's effective date, stripping the court of subject matter jurisdiction. The case took a dramatic turn in October 2025 when the deposition of "[[Rose]]" — a young woman whose identity was used to catfish Destiny for 2-3 years — revealed that Destiny had never actually communicated with Rose directly; a UK-based adult male known as "[[Solo]]" had impersonated her entirely. The case is filed as Jane Doe v. Steven K. Bonnell II, case no. 25CV 20757, U.S. District Court, District of Florida.
+[[Destiny]] (Steven K. Bonnell II), a political debate streamer with ~866K YouTube subscribers, has been the defendant in a federal civil lawsuit filed by a streamer known as [[Pixie]] (Jane Doe) in 2025. The suit alleges Destiny non-consensually shared intimate images under a federal statute. Destiny's core defense: the alleged transmission predated the statute's effective date, stripping the court of subject matter jurisdiction. The case took a dramatic turn in October 2025 when the deposition of "[[Rose (AH)|Rose]]" — a young woman whose identity was used to catfish Destiny for 2-3 years — revealed that Destiny had never actually communicated with Rose directly; a UK-based adult male known as "[[Solo (Ben Conway)|Solo]]" had impersonated her entirely. The case is filed as Jane Doe v. Steven K. Bonnell II, case no. 25CV 20757, U.S. District Court, District of Florida.
 
 ## Key Points
 
@@ -44,8 +44,8 @@ published: 2025-12-17
 
 - [[Destiny]] (Steven K. Bonnell II) — defendant; political debate streamer
 - [[Pixie]] (Jane Doe) — plaintiff; suing Destiny under federal non-consensual intimate image statute
-- [[Solo]] — UK-based adult male who catfished Destiny using Rose's identity; actual originator of leaked content
-- [[Rose]] — real young woman in Illinois; identity stolen by Solo; testified at deposition she never communicated with Destiny
+- [[Solo (Ben Conway)|Solo]] — UK-based adult male who catfished Destiny using Rose's identity; actual originator of leaked content
+- [[Rose (AH)|Rose]] — real young woman in Illinois; identity stolen by Solo; testified at deposition she never communicated with Destiny
 - [[Joan Peters]] (Joan Schlump Peters) — Pixie's lead attorney; accused of bad-faith litigation practices
 - [[Lauren de Laguna]] — Florida attorney; allegedly coordinated with Pixie to destroy evidence and orchestrate media hit pieces
 
