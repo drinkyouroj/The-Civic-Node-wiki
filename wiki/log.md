@@ -3174,3 +3174,36 @@ The Oregon approach goes structurally further than the California Gibbs Mura fra
 - `find wiki/articles -type f -name "*.md" | wc -l` = 101 (no CLAUDE.md) = 101 articles ✓ matches index `total_articles: 101`
 - `find wiki/syntheses -type f -name "*.md" | wc -l` = 27 = 27 syntheses ✓ matches index `total_syntheses: 27`
 - Total = 1312 ✓ matches index `total_pages: 1312`
+
+---
+
+## [2026-05-31] update | Published article filed — The Bill of Rights Ends at the Contractor's Door
+
+Post-merge wiki finalization. PR #56 (`article/bill-of-rights-contractors-door`) was merged to `main` and the remote branch deleted; this pass files the published piece into `wiki/articles/` per the "new published piece" workflow. The research-side pages (the Flock evidence triad, [[Oregon SB 1516]], [[SCREEN Act]], [[National Lookup]]) were already ingested across the 2026-05-24 passes — this entry closes the loop by adding the *article* page that draws on them.
+
+**Created:**
+- [[The Bill of Rights Ends at the Contractor's Door]] — nonfiction article page; published 2026-05-28; generalizes the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] vendor-workaround thesis across four constitutional domains (First Amendment / [[CISA]] switchboarding; Fourth Amendment / [[Flock Safety]] [[National Lookup]]; biometric / [[SCREEN Act]]; HIPAA / [[BetterHelp]]); "Follow the vendor" as the cross-domain diagnostic; receipts include Bend 279 federal queries in three weeks, Ventura 364k unauthorized accesses, [[Gibbs Mura]] SFPD 1.6M; only working remedies are state-bounded ([[Oregon SB 1516]] + CA Civ Code §1798.90.55(b))
+
+**Updated:**
+- [[index.md]] — new entry under "Nonfiction Essays — Politics & Power" (after [[3,000 Arrests, 335 Names, One Court Order]]); counters bumped (total_pages 1312→1313, total_articles 101→102); `updated` 2026-05-24→2026-05-31
+
+**Flagged for next pass (carried forward, now stronger):**
+- [[Vendor-State Governance]] concept page — STILL not created. This article is its public-form articulation and names the pattern across all four domains. The threshold was already "strongly met" at the 2026-05-24 ingest; publishing the flagship piece that operationalizes the concept makes this the single highest-value wiki gap. The next dedicated synthesis/concept pass should create it and back-link [[The Jawboning Papers]], [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]], and this article.
+- Dangling links surfaced during this pass: [[Vendor-Intermediary State]] and [[Surveillance Infrastructure]] are linked from the Atlanta article page but have no page yet; [[Murthy v. Missouri]] is discussed across multiple sources/articles with no entity page. All three are consolidation candidates for the same Vendor-State Governance concept pass.
+
+---
+
+## [2026-05-31] update | Concept page created — Vendor-State Governance
+
+Closes the highest-value gap flagged in the entry directly above. The deferred [[Vendor-State Governance]] concept page now exists, built as a QUERY/synthesis pass over the four-domain evidence base rather than a single-source ingest.
+
+**Created:**
+- [[Vendor-State Governance]] — type=concept (Power & Infrastructure cluster, alongside [[Institutional Gaslighting]] / [[Toothless Transparency Laws]] / [[Federal Immunity Above Constitutional Law]]). Defines the pattern (government routes a constitutionally-prohibited function to a private intermediary; the limit stays intact on paper while the contract does the work) and documents it across four nodes: First Amendment / [[CISA]] switchboarding ([[The Jawboning Papers]]); Fourth Amendment / [[Flock Safety]] [[National Lookup]] ([[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]], Bend, Ventura, [[Gibbs Mura]]); biometric / [[SCREEN Act]] verification vendors; HIPAA / [[BetterHelp]]. Remedy layer: [[Oregon SB 1516]] §9 + CA Civ Code §1798.90.55(b), both state-bounded; open-records requests as the only cross-domain accountability tool. sources: 8.
+
+**Updated:**
+- [[index.md]] — new entry under Concepts → Power & Infrastructure (after [[Supremacy Clause Immunity]]); counters bumped (total_pages 1313→1314, total_concepts 166→167)
+- [[Reachability Routing]] — added reciprocal Related-Concepts link to [[Vendor-State Governance]] as a structural sibling (where-liability-lands vs. how-a-limit-is-circumvented). The [[Flock Safety Surveillance Network]] → [[Vendor-State Governance]] link already existed and now resolves.
+
+**Resolved from the prior flag:** the [[Flock Safety Surveillance Network]] dangling link to [[Vendor-State Governance]] is now live.
+
+**Still open (carried forward):** [[Vendor-Intermediary State]] should be consolidated into the new canonical page rather than maintained as a parallel stub; the Atlanta article page still links the old name. [[Murthy v. Missouri]] and [[Surveillance Infrastructure]] remain page-less. A future pass should reconcile the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] link and create the Murthy entity page.

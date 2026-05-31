@@ -1,13 +1,13 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-24
-total_pages: 1312
+updated: 2026-05-31
+total_pages: 1314
 total_sources: 746
 total_entities: 272
-total_concepts: 166
+total_concepts: 167
 total_syntheses: 27
-total_articles: 101
+total_articles: 102
 ---
 
 # Wiki Index — DePIN / Politics / Monetary Policy / Power
@@ -1646,6 +1646,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Federal Power as Political Instrument]] — Executive branch tools deployed with partisan logic
 - [[Federal Immunity Above Constitutional Law]] — Pattern of immunity doctrines defeating ordinary constitutional/statutory accountability for federal actors
 - [[Supremacy Clause Immunity]] — *In re Neagle* doctrine and its "defensive immunity" expansion; four historical exceptions to state prosecution of federal agents; pardon firewall for state convictions; Doe v. Bonnell / Destiny case as civil analog
+- [[Vendor-State Governance]] — Cross-domain pattern where government routes a constitutionally-prohibited function to a private intermediary, leaving the limit intact on paper while the contract does the work; four nodes (First Amendment / [[CISA]] switchboarding, Fourth Amendment / [[Flock Safety]] [[National Lookup]], biometric / [[SCREEN Act]] verification vendors, HIPAA / [[BetterHelp]]); "Follow the vendor" diagnostic; only working remedies are state-bounded ([[Oregon SB 1516]] §9, CA Civ Code §1798.90.55(b)) + open-records requests; parent frame for [[Flock Safety Surveillance Network]]; articulated in [[The Bill of Rights Ends at the Contractor's Door]]
 - [[International Humanitarian Law]] — Geneva framework regulating armed conflict; the legal standard against which Iran-war infrastructure targeting is being evaluated
 - [[Institutional Capture]] — Slow-motion failure mode where regulators come to serve the regulated; baseline against which dramatic interventions are measured
 - [[Respectability Capture]] — Variant of institutional capture that works *because* it appears as compliance; Warsh confirmation arc as paradigm case; semantic narrowing of independence concept; hawk credentials providing dove cover
@@ -1822,6 +1823,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[the-system-is-functioning-correctly]] — *The System Is Functioning Correctly* (Apr 25 2026); institutional gaslighting as architecture; Cigna PxDx + Epstein Act + Renée Good + Holder + Pennsylvania Grand Jury as the same machine
 - [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] — Apr 29 2026; APD's own open-records audit shows 15 immigration-tagged searches + 3,383 external agency hits against a declared welcoming city; two governance layers (policy vs. vendor contract) governed by different documents; April 20 council resolutions don't mention Flock; teaser for the 3,000-arrests piece
 - [[3,000 Arrests, 335 Names, One Court Order]] — May 1 2026; audit of Operation Metro Surge's accountability architecture (DHS claims 3,000+, names 335, no agent roster); Judge Bryan's May 1 order in the Muñoz-Guatemala docket as the first federally-authenticated record from the operation; "retcon vs. spin" falsifiability test for political narrative; constitutional gap between state prosecution-immunity and federal refusal-to-investigate predates the operation and outlasts it
+- [[The Bill of Rights Ends at the Contractor's Door]] — May 28 2026; generalizes the [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] vendor-workaround thesis across four constitutional domains (First Amendment / [[CISA]] switchboarding, Fourth Amendment / Flock [[National Lookup]], biometric / [[SCREEN Act]], HIPAA / [[BetterHelp]]); "Follow the vendor" diagnostic; receipts — Bend 279 federal queries in 3 weeks, Ventura 364k unauthorized, [[Gibbs Mura]] SFPD 1.6M; [[Oregon SB 1516]] + CA Civ Code §1798.90.55(b) as the only working remedies (both state-bounded); retroactively unifies [[The Jawboning Papers]] + Atlanta under one architecture; public-form articulation of the deferred [[Vendor-State Governance]] concept
 
 ### Nonfiction Essays — Legal & Systems
 - [[The Defendant Is in Miami. The Harm Came From Oxford.]] — Apr 17 2026; first piece in the [[Reachability Routing]] series; civil liability routes to the reachable defendant (Destiny), not the person who caused the harm (Solo in Oxford); three structural fixes proposed; Doe v. Bonnell as live case study
