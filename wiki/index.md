@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-31
-total_pages: 1314
+total_pages: 1315
 total_sources: 746
-total_entities: 272
+total_entities: 273
 total_concepts: 167
 total_syntheses: 27
 total_articles: 102
@@ -1400,6 +1400,10 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Operation Metro Surge]] — Dec 2025–Feb 2026; ICE/CBP mass enforcement in Minneapolis; 3,789+ arrests; 35% collateral; 96+ court order violations; $203.1M total one-month impact ($81M business revenue + $47M lost wages per City of Minneapolis preliminary assessment); **Apr 24 update**: 8 new sources added — Bovino retirement, DOJ "not investigating" quote, Noem Pretti retcon, DHS oversight gutting, records-preservation cover-up, right-to-record posture, IRS-DHS data sharing, Davidson 11% disclosure map
 - [[2025 United States Government Shutdown]] — Oct 1–Nov 12 2025; 43-day record; Kirk assassination delayed CR; Timothy Mellon private $130M military pay donation
 - [[2025 Elections]] — Nov 4 2025; Mamdani (NYC), Sherrill (NJ), Spanberger (VA), Prop 50 (CA); thermostatic Democratic wave on Day 35 of shutdown
+
+### Cases
+- [[Murthy v. Missouri]] — 603 U.S. 43 (2024); SCOTUS 6-3 (Barrett) dismissed the social-media "jawboning" challenge on Article III standing without reaching the merits; First-Amendment node of [[Vendor-State Governance]]; March 2026 settlement bars [[CISA]] / Surgeon General / CDC from platform coercion for 10 years
+- [[Doe v. Bonnell (1-25-cv-20757)]] — S.D. Fla. NCII civil suit (Destiny / Pxie); anchors [[Reachability Routing]] — liability routes to the reachable defendant, not the anonymous UK catfisher who caused the harm
 
 ### People
 - [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; tariff regime architect; aggressive Fed pressure campaign 2025; World Liberty Financial crypto conflict; May 22–24 2026 Iran deal endgame weekend ("largely negotiated" Saturday → Iranian Fars pushback Sunday → "time is on our side" Sunday walk-back); permanent IRS-tax-claim bar via Blanche-signed $1.8B-fund settlement

@@ -3219,3 +3219,22 @@ Per author: the published date was off by one day (Thursday → the actual Frida
 - this log's 2026-05-31 publish entry (inline)
 
 Committed directly to `main` (PR #57 already merged and its branch deleted).
+
+---
+
+## [2026-05-31] update | Follow-ups resolved — Vendor-Intermediary State consolidation + Murthy v. Missouri entity page
+
+Closes both items left open in the two entries above.
+
+**Created:**
+- [[Murthy v. Missouri]] — type=entity, entity_type=case (the wiki's second `case` entity, after [[Doe v. Bonnell (1-25-cv-20757)]]). Built from the existing vetted source [[Murthy v Missouri — Wikipedia]] (not from memory): 603 U.S. 43 (2024); 6-3 Barrett majority; dismissed on Article III standing without reaching the merits; originally *Missouri v. Biden*; March 2026 settlement bars Surgeon General / CDC / [[CISA]] from platform coercion for ten years. Framed as the First-Amendment node of [[Vendor-State Governance]].
+
+**Consolidated (Vendor-Intermediary State → Vendor-State Governance):**
+- [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] — the one live `[[Vendor-Intermediary State]]` wikilink now points to the canonical [[Vendor-State Governance]] page (old name preserved inline as a note). The other "Vendor-Intermediary State" mentions are historical log prose and were left untouched.
+- [[Vendor-State Governance]] — the Related-Concepts bullet for the old name converted into a naming note (no separate stub exists or should be created); first *Murthy* mention linkified to [[Murthy v. Missouri]].
+
+**Updated:**
+- [[index.md]] — new `### Cases` subsection under Entities (homing [[Murthy v. Missouri]] + [[Doe v. Bonnell (1-25-cv-20757)]], which previously had no catalog home); counters bumped (total_pages 1314→1315, total_entities 272→273)
+- [[The Bill of Rights Ends at the Contractor's Door]] — first *Murthy* mention linkified to [[Murthy v. Missouri]]
+
+**Now fully resolved from the carried-forward flags:** Vendor-Intermediary State consolidation ✓, Murthy entity page ✓. Verified live during this pass: [[CISA Jawboning]] and [[Regulatory Weaponization]] (both linked from the new Murthy page). Still open (lower priority): [[Surveillance Infrastructure]] remains page-less — linked from the Atlanta article and now also a known dangling link; candidate for the next lint pass.
