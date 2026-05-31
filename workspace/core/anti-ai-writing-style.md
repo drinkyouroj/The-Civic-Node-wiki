@@ -16,7 +16,7 @@ Write like a sharp human who happens to be typing.
 - If you've made your point, stop. Don't summarize what someone just read 2 paragraphs ago.
 
 **Voice & tone:**
-- Use contractions naturally (don't, can't, won't, it's).
+- Use contractions naturally (don't, can't, won't, it's). Watch the formal-but-correct misses that slip past an AI-tells pass because they never read as *wrong*, only as stiff: "cannot" should be "can't," "will not" should be "won't," "do not" should be "don't," "it is" should be "it's," "what is" should be "what's." "cannot" is the single most common miss — it looks formal and correct, so the banned-word scan (which hunts for errors) glides right over it. The contraction check is a separate detector: read for stiffness, not for errors. Exception: leave the uncontracted form only when it's doing deliberate emphasis ("I did not say that"), which is rare and the bar is high.
 - Use "I" and "you." Direct address. Active voice. AI defaults to passive and third person. Talk to people.
 - Be specific. Numbers, names, concrete details. Specific writing is sharp writing.
 - When uncertain, say so plainly ("I think," "probably," "maybe," "kinda"). AI never hedges. Humans do. That uncertainty is what makes writing feel real.
@@ -284,6 +284,38 @@ Good: "Same boom. The workers want a piece of what it brings in. The customers a
 **The litmus question for any closer:** could I point at a specific person doing the thing this sentence describes? If not, the line is abstraction and the prose is leaking AI. Rewrite with the person and the verb.
 
 **This rule interacts with mechanism-over-shorthand.** Sometimes the only way to name actors honestly is to introduce a concept (a chokepoint, a regulatory mechanism, a contract type). Define the concept inline; don't substitute the abstraction for the people.
+
+---
+
+### 3K. Cold-read failure (closers that elide their antecedent)
+
+A closer can pass §3J's "named actor + active verb + concrete object" check AND still fail by depending on antecedents the sentence does not carry. The subject, verb, and object are all named — but the analytical relationship between them assumes context from earlier prose. The sentence reads concrete on the surface and lands as opaque cold.
+
+This is a different failure from §3J and §3H.2. §3J catches purely abstract closers — "pricing authority over the windfall," "the distributional politics of the buildout." §3H.2 catches deictic landings — "That's the gap," "This is the mechanism." §3K catches sentences that name three concrete things but assume the reader knows what each one refers to and how they relate.
+
+**The litmus test (cold-read test):** Cover everything in the post except the closing sentence. Show only the closer to someone who has not read the piece. Can they identify what is being CLAIMED, not just what the words refer to? If they need to know "what inventory does the writer mean," "what question is 'the answer' answering," or "what does 'treating as' mean operationally" before the sentence parses as a claim, the closer is antecedent-dependent and needs rewriting.
+
+**The fast tell (the article diagnostic):** Before running the full cold-read test, scan the closer for "**the** [abstract noun]" where the noun is carrying analytical weight — "the inventory," "the answer," "the gap," "the move," "the pattern," "the tradeoff," "the dynamic." The definite article on an abstract noun is a flag that the sentence is pointing back to analytical work it didn't do on the surface. Then confirm with the cold-read test. Clean closers do the opposite: they either introduce their objects with an **indefinite** article ("runs on **a** vendor it didn't audit" — "a vendor" is fresh information, not a pointer) or name them by **self-evident role** ("**the federal cybersecurity coordinator** runs on..." — a cold reader resolves the role without rewinding). So the quick heuristic: definite-article-plus-abstract-noun at a closer → run the cold-read test; indefinite or self-naming objects → almost always clean. This is faster to apply than the full test and catches most §3K closers on a first scan.
+
+The distinction that matters: every closer has SOME referent dependencies — pronouns, proper-noun antecedents, repeated noun phrases. That is normal prose function and §3K does NOT fire on it. §3K fires when the dependency is on the ANALYTICAL MOVE ITSELF — when "the inventory" stands in for an unstated question, when "treating as" stands in for an unstated operational reframe, when "the answer" stands in for the writer's implicit claim about what the documents prove.
+
+**Bad:** "Congress is treating the inventory as the answer."
+(Cold-read failure: three antecedent dependencies on the analytical move, none stated. Reader has to import that "the inventory" = the 844 MB credential dump named two sentences earlier, that "the answer" = the answer to the implicit question of whether the incident is serious, and that "treating as" = the operational move of demanding briefings rather than accepting the official denial. All three are in the writer's head; none are in the sentence.)
+
+**Good:** "The letters ask which systems those credentials can reach."
+(Cold-read pass: a reader who saw only this sentence understands that there are letters, that the letters ask a specific operational question, and that the question is about credential access scope. "The letters" and "those credentials" carry referent-dependencies a cold reader cannot fully resolve — that is fine, those are normal prose function, not analytical-move dependencies. The analytical claim is on the surface: someone is asking a specific operational question. The implicit contrast with the prior CISA-denial sentence — CISA answered about COMPROMISE; the letters ask about ACCESS SCOPE — is visible without being required for parsing. Note also the active voice: "those credentials can reach," not the passive "which systems can be reached by those credentials." The active form keeps the named actor doing the verb, per §3J and §1.)
+
+**The fix has two forms:**
+
+1. **Name the analytical move inside the closer.** Replace the labeled abstraction with the operational specifics. "Congress is treating the inventory as the answer" → "The letters ask which systems the credentials in the repository can reach." The question Congress is actually asking goes into the sentence directly instead of being labeled as "the answer."
+
+2. **Move the closer's claim into a structurally complete sentence that contains its own subject, verb, object, and the relationship between them.** The reader should not need to mentally rewind to parse what is being asserted.
+
+**Why this matters:** Compression that feels writerly to the writer reads as opacity to the reader. The closer is the part the reader carries away; if it requires rewinding to parse, the reader either does the work (and resents it) or skips it (and misses the claim). Antecedent-dependent closers are insidious because they pass the surface checks at first read; the failure is only visible cold.
+
+**This rule sits in the same family as:** §3I (vocabulary cliff — the writer assumed the reader knows a term), §3J (closing-line abstraction — the writer compressed people into abstract noun phrases), §3H.2 (pointing-and-naming shortcuts — the writer labeled an analytical move instead of making it), and the wiki agent's "mechanism over shorthand" rule from CLAUDE.md. All instantiate the same underlying principle: the writer skipped work and shipped a sentence that asks the reader to fill in what the writer left out.
+
+**Strictness — STRONG TENDENCY, not HARD RULE.** Some antecedent dependencies are normal prose function ("This is what the founding tier funds" is fine when the next sentence names what). The rule fires when the antecedent dependency is on the analytical move itself, not on referents the surrounding prose has already named. Apply with judgment; the cold-read test is the litmus.
 
 ---
 
