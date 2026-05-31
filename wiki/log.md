@@ -3238,3 +3238,35 @@ Closes both items left open in the two entries above.
 - [[The Bill of Rights Ends at the Contractor's Door]] — first *Murthy* mention linkified to [[Murthy v. Missouri]]
 
 **Now fully resolved from the carried-forward flags:** Vendor-Intermediary State consolidation ✓, Murthy entity page ✓. Verified live during this pass: [[CISA Jawboning]] and [[Regulatory Weaponization]] (both linked from the new Murthy page). Still open (lower priority): [[Surveillance Infrastructure]] remains page-less — linked from the Atlanta article and now also a known dangling link; candidate for the next lint pass.
+
+---
+
+## [2026-05-31] update | Concept page created — Surveillance Infrastructure (umbrella; 3 variant links consolidated)
+
+Creates the [[Surveillance Infrastructure]] umbrella concept — the last carried-forward dangling-link flag — and consolidates three near-synonym links into it, per the wiki's anti-fragmentation rule.
+
+**Created:**
+- [[Surveillance Infrastructure]] — type=concept (Power & Infrastructure). Umbrella for standing, queryable physical/digital surveillance systems; facets = police ALPR ([[Flock Safety Surveillance Network]]), campus (Emory), federal "cognitive infrastructure" ([[CISA]] / [[Murthy v. Missouri]]), biometric ([[SCREEN Act]]). Operates under [[Vendor-State Governance]]; funded by [[Surveillance Capitalism]].
+
+**Consolidated (3 variant links redirected to the umbrella):**
+- [[Atlanta PD used Flock cameras to track migrants]] — "Police Surveillance Infrastructure" → [[Surveillance Infrastructure]]
+- [[Community members protest Flock Safety cameras at Emory]] — "Surveillance Infrastructure on Campuses" → [[Surveillance Infrastructure]]
+- [[Flock Safety Surveillance Network]] — "Police Surveillance Infrastructure" → [[Surveillance Infrastructure]]
+- The existing [[Surveillance Infrastructure]] link in [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] now resolves.
+
+**Updated:**
+- [[index.md]] — new Concepts → Power & Infrastructure entry; counters total_pages 1315→1316, total_concepts 167→168.
+
+---
+
+## [2026-05-31] lint | Full wiki health check — 1316 pages
+
+Computed lint (dangling links, orphans, stubs, contradiction markers, counter integrity) over all 1316 pages. **Findings reported to the user for fix selection; no auto-fixes applied beyond the Surveillance Infrastructure consolidation above.**
+
+- **Counters ✓ consistent:** 746 sources + 273 entities + 168 concepts + 27 syntheses + 102 articles = 1316 = index `total_pages`.
+- **Dangling links: 1,107 unique / 2,395 occurrences — but 967 (≈87%) are 1–3× mentions**, overwhelmingly the intentional "defer until second-source threshold" placeholders the schema blesses. Not bugs.
+- **High-frequency dangling (threshold met, page-worthy):** [[Google]] 34×, [[SESTA/FOSTA]] 23×, [[Kash Patel]] 22×, [[ICE]] 17×, [[Project 2025]] 13×, [[Ro Khanna]] 13×, [[Lindsey Graham]] 13×, [[Nvidia]] / [[AMD]] 12×, [[Rob Bonta]] 12×, [[Oracle]] 11×, [[Ted Cruz]] 10×, [[Reno v. ACLU]] 10× (~47 targets ≥8×).
+- **Naming-mismatch / duplicate cluster (highest-ROI fix — Doe v. Bonnell case):** duplicate entity pages `entities/solo-catfisher.md` ⟷ `entities/Solo (Ben Conway).md` and `entities/rose-catfish-victim.md` ⟷ `entities/Rose (AH).md`; slug-vs-displayname orphans `entities/lauren-de-laguna.md` (13 dangling [[Lauren de Laguna]]) and `entities/joan-peters.md`; short-name variants [[Solo]] 12×, [[Rose]] 9×, [[Renée Good]] 35× (page exists as [[Killing of Renée Good]]); trailing-period article links e.g. [[12 Gigawatts ... Built.]] 8× (file lacks the period → dangles + orphans the article).
+- **Orphans: 38** — 30 articles (expected; summaries are leaf nodes), 3 concepts ([[Section 702 FISA]], [[Russia Targeted Killings Campaign]], catfishing-as-legal-liability), 5 entities (4 are the catfish slug pages above + [[Strategy MicroStrategy]]).
+- **Stubs: 27** entities/concepts under a 70-word body (e.g. Rick Crawford 27w, Energy Policy 29w) — mostly single-source mentions consistent with the deferral policy.
+- **Contradiction markers: 13 files** carry ⚠️ flags (intentional). Active clusters to re-verify: Iran/Hormuz strait-status (3 sources + [[Iran]]), [[Helium]] supply-crisis, [[Donald Trump]].

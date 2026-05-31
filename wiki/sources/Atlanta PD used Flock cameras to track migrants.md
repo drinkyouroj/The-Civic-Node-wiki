@@ -55,7 +55,7 @@ Atlanta Community Press Collective investigation, sourced via Georgia Open Recor
 - [[Sanctuary City Policy]] — formal policy vs operational practice
 - [[Welcoming City Initiative]] — Atlanta's 2013 commitment
 - [[Open Records as Accountability Tool]] — how this story exists
-- [[Police Surveillance Infrastructure]] — the broader category
+- [[Surveillance Infrastructure]] — the broader category (canonical; formerly linked here as "Police Surveillance Infrastructure")
 
 ## Quotes
 > "had not assisted any federal law enforcement agencies with immigration enforcement activities this year." — APD spokesperson (contradicted by audit)

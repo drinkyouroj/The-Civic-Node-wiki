@@ -2,10 +2,10 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-31
-total_pages: 1315
+total_pages: 1316
 total_sources: 746
 total_entities: 273
-total_concepts: 167
+total_concepts: 168
 total_syntheses: 27
 total_articles: 102
 ---
@@ -1651,6 +1651,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Federal Immunity Above Constitutional Law]] — Pattern of immunity doctrines defeating ordinary constitutional/statutory accountability for federal actors
 - [[Supremacy Clause Immunity]] — *In re Neagle* doctrine and its "defensive immunity" expansion; four historical exceptions to state prosecution of federal agents; pardon firewall for state convictions; Doe v. Bonnell / Destiny case as civil analog
 - [[Vendor-State Governance]] — Cross-domain pattern where government routes a constitutionally-prohibited function to a private intermediary, leaving the limit intact on paper while the contract does the work; four nodes (First Amendment / [[CISA]] switchboarding, Fourth Amendment / [[Flock Safety]] [[National Lookup]], biometric / [[SCREEN Act]] verification vendors, HIPAA / [[BetterHelp]]); "Follow the vendor" diagnostic; only working remedies are state-bounded ([[Oregon SB 1516]] §9, CA Civ Code §1798.90.55(b)) + open-records requests; parent frame for [[Flock Safety Surveillance Network]]; articulated in [[The Bill of Rights Ends at the Contractor's Door]]
+- [[Surveillance Infrastructure]] — Umbrella category for the standing, queryable physical/digital systems (ALPR networks, biometric-verification DBs, content-flagging pipelines, campus/municipal sensors) that collect-by-default and answer queries later; facets: [[Flock Safety Surveillance Network]] (police ALPR), Emory (campus), [[CISA]] cognitive infrastructure, [[SCREEN Act]] biometric; consolidates the former "Police Surveillance Infrastructure" + "Surveillance Infrastructure on Campuses" stubs; operates under [[Vendor-State Governance]], funded by [[Surveillance Capitalism]]
 - [[International Humanitarian Law]] — Geneva framework regulating armed conflict; the legal standard against which Iran-war infrastructure targeting is being evaluated
 - [[Institutional Capture]] — Slow-motion failure mode where regulators come to serve the regulated; baseline against which dramatic interventions are measured
 - [[Respectability Capture]] — Variant of institutional capture that works *because* it appears as compliance; Warsh confirmation arc as paradigm case; semantic narrowing of independence concept; hawk credentials providing dove cover
