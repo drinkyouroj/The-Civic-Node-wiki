@@ -3291,3 +3291,15 @@ Resolved the highest-ROI lint finding: the Doe v. Bonnell entity cluster had dup
 - `[[Renée Good]]` → `[[Killing of Renée Good|Renée Good]]` (the single biggest dangling target, 35×)
 
 **Counters:** total_entities 273→271, total_pages 1316→1314 (2 duplicates removed). Historical `log.md` link text left verbatim (append-only). Net dangling-link reduction this pass: ≈90 occurrences resolved.
+
+---
+
+## [2026-05-31] lint | Lint fix 2/3 — contradiction-flag verification (Iran HEU, Helium, Hormuz)
+
+Re-verified the active ⚠️ contradiction clusters surfaced by the lint. Finding: no wiki defects — the flags are correctly placed; one is resolved, the others are open pending source acquisition (not analysis).
+
+- **Helium "6 weeks vs 6 months" ([[Helium]]):** already tagged `(apparent, resolved)` — reconciled as different measures (per-batch storage limit vs forward-contract pipeline). **Status: resolved, healthy.** Forward note: the "~June 2026" pipeline-dry clock is now imminent (today is 2026-05-31); acquire a June-2026 primary source to confirm whether the contracted supply actually ran dry.
+- **Iran HEU "agreed in principle" vs "no commitments" ([[Iran]] + [[Donald Trump]], same May 24 gap):** Fars (no nuclear commitments) vs WH-official-via-CBS (agreed to dispose of HEU), both press-briefing-tier on May 24. **Status: still live, correctly documented.** The wiki's newest Iran sources are dated May 24 — the same day as the contradiction — so no adjudicating source exists yet. Resolution still requires a primary-text deal document or a public Supreme Leader statement. A *source gap*, not a wiki defect.
+- **Hormuz strait-status (Trump "open" vs "blockade in full force"):** held in [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] and [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]]; a Trump-claim-vs-reality gap, likewise pending post-May-24 confirmation.
+
+**Source-acquisition targets surfaced:** (1) any post-May-24 primary Iran deal text or Supreme Leader statement (resolves the HEU gap); (2) a June-2026 helium-pipeline status source (confirms/updates the crisis clock).
