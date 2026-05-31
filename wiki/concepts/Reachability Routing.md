@@ -4,7 +4,7 @@ type: concept
 tags: [legal, jurisdictional-asymmetry, civil-litigation, power]
 created: 2026-04-17
 updated: 2026-04-19
-sources: 14
+sources: 15
 ---
 
 ## Definition
@@ -39,6 +39,7 @@ This concept anchors the [[You Can't Sue the Catfish]] article and generalizes t
 - [[Catfishing as Legal Gap]] — the statutory-design failure that makes reachability routing particularly brutal in NCII cases
 - [[Toothless Transparency Laws]] — adjacent pattern in which accountability mechanisms exist but cannot reach the actors they nominally target
 - [[Institutional Gaslighting]] — pattern where system failure is reframed as system success
+- [[Vendor-State Governance]] — sibling pattern; where Reachability Routing is about *where liability lands* when the proximate actor is unreachable, Vendor-State Governance is about *how a constitutional limit is circumvented* by interposing a reachable private intermediary
 
 ## Key Sources
 
