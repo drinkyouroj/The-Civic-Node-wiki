@@ -3320,3 +3320,23 @@ Addressed the top "missing pages" lint tier. Grounding each candidate against th
 **Counters:** total_entities 271→273, total_pages 1314→1316 (ICE + Reno).
 
 **Deferred create-candidates** (proposed to user, not yet built): companies [[Google]] 34× / [[Nvidia]] / [[AMD]] / [[Oracle]] (peripheral as subjects); politicians [[Kash Patel]] 22× / [[Lindsey Graham]] / [[Ro Khanna]] / [[Ted Cruz]]; [[Rob Bonta]] (CA AG, Flock-relevant); [[Project 2025]] 13×. Each is a content commitment best greenlit individually.
+
+---
+
+## [2026-05-31] update | Built 4 deferred entity pages (web-researched) — Bonta, Cruz, Nvidia, Kash Patel
+
+Acted on the deferred create-candidates, selecting one anchor per major cluster and web-researching current (2026) facts (full-document fetches where a fact is cited prominently, per the no-snippet rule).
+
+**Created:**
+- [[Rob Bonta]] — person. CA Attorney General; state-AG enforcement track against [[Flock Safety]] ALPR sharing (El Cajon suit, Oct 3 2025 → Jan 21 2026 motion; 100+ out-of-state agencies; the CA "public agencies" bulletin). The state-law remedy vector against [[Vendor-State Governance]], companion to [[Gibbs Mura]]. Web: oag.ca.gov, eff.org.
+- [[Ted Cruz]] — person. R-TX, Senate Commerce Chair; jawboning/CISA cluster (CISA-weaponization report; TERMS Act + forthcoming JAWBONE Act; March 18 2026 "Section 230 Turns 30" hearing) — the legislative attempt to close the [[Murthy v. Missouri]] standing gap. Also the Iran Senate-hawk bloc with [[Roger Wicker]] / [[Lindsey Graham]]. Web: commerce.senate.gov. (Note: the wiki's Oct 2025 [[The Jawboning Papers]] recorded older bill names — COLLUDE / Censorship Accountability Act — the framing has evolved.)
+- [[Nvidia]] — organization. Dominant AI-GPU designer; upstream demand node of the [[AI DRAM Crisis]] / [[AI Buildout Grid Constraint]] cluster (~$216B rev, 55.6% margins, FY2026 10-K); foreclosed from China's data-center market; May 31 2026 Commerce export restrictions (Blackwell/Rubin), ByteDance routing via Malaysia — export-control-as-[[Chokepoint Control]]. Web: SEC 10-K, Built In, GuruFocus.
+- [[Kash Patel]] — person. FBI Director (confirmed Feb 21 2025, 51-49); Minneapolis pressure visit ([[Killing of Renée Good]] / [[Operation Metro Surge]]); 2026 conduct controversies (Atlantic report → $250M defamation suit; FBI-jet personal use + SWAT bodyguards; staff purges incl. CIRG head Steven Palmer; journalist retaliation) — an accountability-asymmetry case. Web: Wikipedia, CNN, NPR, Campaign Legal Center.
+
+**Updated:**
+- [[index.md]] — 3 People + 1 Organizations entries; counters total_entities 273→277, total_pages 1316→1320.
+- [[overview.md]] — new "Vendor-State Governance" cross-cutting pattern (Bonta/ICE/Cruz/Reno); [[Nvidia]] woven into "Infrastructure control as the master variable"; [[Kash Patel]] into "State power without accountability"; updated 2026-05-24→2026-05-31.
+
+**Sourcing note:** these entity pages blend web-researched current facts (cited inline by URL + a "Web Sources" section) with wiki-internal appearances (cited by `[[page]]`). They are NOT new `wiki/sources/` pages — a future ingest could promote the cited URLs (especially the Bonta El Cajon release and the Cruz JAWBONE Act release) to full source pages.
+
+**Still deferred:** companies [[Google]] 36× / [[AMD]] / [[Oracle]]; politicians [[Lindsey Graham]] / [[Ro Khanna]] / [[Project 2025]] — available on request.

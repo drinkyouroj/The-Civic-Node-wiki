@@ -3,7 +3,7 @@ title: "Overview"
 type: overview
 tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health, accountability, lgbtq, censorship, surveillance, dedollarization, depin]
 created: 2026-04-06
-updated: 2026-05-24
+updated: 2026-05-31
 sources: 746
 ---
 
@@ -204,11 +204,13 @@ Primary source documents that anchor analytical concepts elsewhere in the wiki:
 
 ## Cross-Cutting Patterns
 
-**Infrastructure control as the master variable.** The Strait of Hormuz, the DEA quota, the FOMC, the App Store, the stablecoin reserve requirement, and the NFL salary cap are all the same kind of object: a chokepoint whose controller has asymmetric leverage. Newsletter pieces consistently identify who controls the chokepoint and what leverage that confers.
+**Infrastructure control as the master variable.** The Strait of Hormuz, the DEA quota, the FOMC, the App Store, the stablecoin reserve requirement, and the NFL salary cap are all the same kind of object: a chokepoint whose controller has asymmetric leverage. Newsletter pieces consistently identify who controls the chokepoint and what leverage that confers. The 2026 AI-chip export regime is the newest instance: the US Commerce Department's ability to deny China [[Nvidia]]'s advanced GPUs (mirrored by China's [[Rare Earth Export Controls|rare-earth leverage]] over the West), with the May 31 2026 restrictions a live test of whether the control binds or leaks (ByteDance routing Blackwell purchases through Malaysia).
 
 **Concealment as operating mode.** The Mechanical Turk Pattern (hiding human labor inside AI products), CISA jawboning (achieving censorship through private intermediaries), and Trump's dual-track Iran messaging (negotiation + maximalist threat) are structurally identical. They all work by making the actual operating reality invisible.
 
-**State power without accountability.** Retroactive Executive Protection (Bannon vacatur), Federal Immunity Above Constitutional Law, Regulatory Weaponization, and Enforcement Displacement (the California hospice pattern) are four forms of the same dynamic — executive tools used to eliminate or impose legal consequences with no meaningful check.
+**Vendor-State Governance — the constitutional limit that stops at the contractor's door.** The generalization of the CISA-jawboning observation above into a reusable pattern: government reaches an outcome its own constitutional limits forbid by routing the function through a private intermediary, so the limit stays intact on paper while the contract does the work. The architecture recurs across four domains — First Amendment / [[CISA]] switchboarding ([[Murthy v. Missouri]]), Fourth Amendment / [[Flock Safety]] [[National Lookup]], biometric compulsion / [[SCREEN Act]] + [[Reno v. ACLU]], and HIPAA / BetterHelp — and now has a dedicated concept page ([[Vendor-State Governance]]), an umbrella for the systems it runs on ([[Surveillance Infrastructure]]), and its actors mapped: [[ICE]] (the federal queryer), [[Rob Bonta]] (the California state-law enforcement counter), and [[Ted Cruz]] (the legislative attempt to close the speech-side gap left by Murthy's standing dodge).
+
+**State power without accountability.** Retroactive Executive Protection (Bannon vacatur), Federal Immunity Above Constitutional Law, Regulatory Weaponization, and Enforcement Displacement (the California hospice pattern) are four forms of the same dynamic — executive tools used to eliminate or impose legal consequences with no meaningful check. [[Kash Patel]]'s FBI — declining to investigate the [[Killing of Renée Good]] while answering its own conduct scrutiny with a $250M libel suit and staff purges — is the 2026 exemplar.
 
 **The conflict-of-interest gap.** Trump's $57M+ World Liberty Financial stake while signing crypto legislation; FCC Chair Carr threatening ABC's broadcast license over a Jimmy Kimmel monologue; the GENIUS Act's silence on issuer ethics. The mechanisms exist; the enforcement architecture does not.
 
