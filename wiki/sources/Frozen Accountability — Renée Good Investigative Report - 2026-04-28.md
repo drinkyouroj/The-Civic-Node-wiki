@@ -14,7 +14,7 @@ published: 2026-04-28
 [Original source](https://legalbeaglejackharding.substack.com/p/frozen-accountability-how-the-federal)
 
 ## Summary
-A comprehensive 62-endnote investigative account of the federal government's systematic suppression of accountability for the January 7, 2026 killing of [[Renée Good]] by ICE agent [[Jonathan Ross]]. The piece traces how each institutional mechanism that should have produced accountability was individually disabled — state investigators locked out, civil-rights probe redirected, the widow investigated, prosecutors resigned, and the shooter reassigned to active duty — documenting not a malfunction but a system functioning as redesigned.
+A comprehensive 62-endnote investigative account of the federal government's systematic suppression of accountability for the January 7, 2026 killing of [[Killing of Renée Good|Renée Good]] by ICE agent [[Jonathan Ross]]. The piece traces how each institutional mechanism that should have produced accountability was individually disabled — state investigators locked out, civil-rights probe redirected, the widow investigated, prosecutors resigned, and the shooter reassigned to active duty — documenting not a malfunction but a system functioning as redesigned.
 
 ## Key Points
 - Good (37, US citizen, mother of three) was shot three times through her car windshield by Ross; the head wound was fatal. She was unarmed, had no violent criminal record, and had just dropped her child at school.
@@ -38,7 +38,7 @@ A comprehensive 62-endnote investigative account of the federal government's sys
 - The Kash Patel "victim in the warrant" detail is the most specific documented evidence of top-level involvement in the accountability suppression, and it comes from whistleblower accounts that are separately corroborated.
 
 ## Entities Mentioned
-- [[Renée Good]] — victim; US citizen, mother of three, 37 years old; shot through windshield January 7, 2026
+- [[Killing of Renée Good|Renée Good]] — victim; US citizen, mother of three, 37 years old; shot through windshield January 7, 2026
 - [[Jonathan Ross]] — ICE agent who fired the shots; reassigned to active enforcement; faces no formal accountability
 - [[Tracee Mergen]] — FBI supervisor who resigned after being pressured to reframe the investigation; key whistleblower-adjacent figure
 - [[Kash Patel]] — FBI Director; per whistleblower accounts, directed agents to exclude Good as a "victim" in warrant language

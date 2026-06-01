@@ -37,7 +37,7 @@ Flock is the textbook **chokepoint-control story for the surveillance era** — 
 - [[National Lookup]] — the per-installation feature that creates the network effect; the architectural lever
 - [[Sanctuary City Policy]] — undermined by network architecture
 - [[Surveillance Capitalism]]
-- [[Police Surveillance Infrastructure]]
+- [[Surveillance Infrastructure]] — the umbrella category this network instantiates (consolidates the former "Police Surveillance Infrastructure")
 - [[Open Records as Accountability Tool]] — how this story can be told
 - [[Chokepoint Control]] — analogous concept (energy infrastructure)
 - [[Operation Metro Surge]] — parallel federal-immigration-via-local-infrastructure pattern

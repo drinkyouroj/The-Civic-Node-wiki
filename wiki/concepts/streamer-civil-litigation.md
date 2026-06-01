@@ -17,7 +17,7 @@ Civil litigation against creators is becoming a tool of power — both to seek l
 
 ## Evidence & Examples
 
-- **Jane Doe v. Steven K. Bonnell II (2025-2026)**: [[Pixie]] sued [[Destiny]] under a federal non-consensual intimate image statute. The case revealed a catfishing operation by UK-based [[Solo]] that neither party was initially aware of. [[Destiny vs. Pixie Civil Trial — YouTube Coverage]].
+- **Jane Doe v. Steven K. Bonnell II (2025-2026)**: [[Pixie]] sued [[Destiny]] under a federal non-consensual intimate image statute. The case revealed a catfishing operation by UK-based [[Solo (Ben Conway)|Solo]] that neither party was initially aware of. [[Destiny vs. Pixie Civil Trial — YouTube Coverage]].
 - Destiny notes: the first two attorneys Pixie consulted told her she had no viable case against Destiny — the correct target was Solo. She filed anyway, with different counsel.
 - Destiny's framing of the case's purpose: "The last thing Pixie wants is the case to end. The longer they can keep it going, the more motion practice they can do."
 

@@ -3219,3 +3219,160 @@ Per author: the published date was off by one day (Thursday → the actual Frida
 - this log's 2026-05-31 publish entry (inline)
 
 Committed directly to `main` (PR #57 already merged and its branch deleted).
+
+---
+
+## [2026-05-31] update | Follow-ups resolved — Vendor-Intermediary State consolidation + Murthy v. Missouri entity page
+
+Closes both items left open in the two entries above.
+
+**Created:**
+- [[Murthy v. Missouri]] — type=entity, entity_type=case (the wiki's second `case` entity, after [[Doe v. Bonnell (1-25-cv-20757)]]). Built from the existing vetted source [[Murthy v Missouri — Wikipedia]] (not from memory): 603 U.S. 43 (2024); 6-3 Barrett majority; dismissed on Article III standing without reaching the merits; originally *Missouri v. Biden*; March 2026 settlement bars Surgeon General / CDC / [[CISA]] from platform coercion for ten years. Framed as the First-Amendment node of [[Vendor-State Governance]].
+
+**Consolidated (Vendor-Intermediary State → Vendor-State Governance):**
+- [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] — the one live `[[Vendor-Intermediary State]]` wikilink now points to the canonical [[Vendor-State Governance]] page (old name preserved inline as a note). The other "Vendor-Intermediary State" mentions are historical log prose and were left untouched.
+- [[Vendor-State Governance]] — the Related-Concepts bullet for the old name converted into a naming note (no separate stub exists or should be created); first *Murthy* mention linkified to [[Murthy v. Missouri]].
+
+**Updated:**
+- [[index.md]] — new `### Cases` subsection under Entities (homing [[Murthy v. Missouri]] + [[Doe v. Bonnell (1-25-cv-20757)]], which previously had no catalog home); counters bumped (total_pages 1314→1315, total_entities 272→273)
+- [[The Bill of Rights Ends at the Contractor's Door]] — first *Murthy* mention linkified to [[Murthy v. Missouri]]
+
+**Now fully resolved from the carried-forward flags:** Vendor-Intermediary State consolidation ✓, Murthy entity page ✓. Verified live during this pass: [[CISA Jawboning]] and [[Regulatory Weaponization]] (both linked from the new Murthy page). Still open (lower priority): [[Surveillance Infrastructure]] remains page-less — linked from the Atlanta article and now also a known dangling link; candidate for the next lint pass.
+
+---
+
+## [2026-05-31] update | Concept page created — Surveillance Infrastructure (umbrella; 3 variant links consolidated)
+
+Creates the [[Surveillance Infrastructure]] umbrella concept — the last carried-forward dangling-link flag — and consolidates three near-synonym links into it, per the wiki's anti-fragmentation rule.
+
+**Created:**
+- [[Surveillance Infrastructure]] — type=concept (Power & Infrastructure). Umbrella for standing, queryable physical/digital surveillance systems; facets = police ALPR ([[Flock Safety Surveillance Network]]), campus (Emory), federal "cognitive infrastructure" ([[CISA]] / [[Murthy v. Missouri]]), biometric ([[SCREEN Act]]). Operates under [[Vendor-State Governance]]; funded by [[Surveillance Capitalism]].
+
+**Consolidated (3 variant links redirected to the umbrella):**
+- [[Atlanta PD used Flock cameras to track migrants]] — "Police Surveillance Infrastructure" → [[Surveillance Infrastructure]]
+- [[Community members protest Flock Safety cameras at Emory]] — "Surveillance Infrastructure on Campuses" → [[Surveillance Infrastructure]]
+- [[Flock Safety Surveillance Network]] — "Police Surveillance Infrastructure" → [[Surveillance Infrastructure]]
+- The existing [[Surveillance Infrastructure]] link in [[Atlanta Passed a Sanctuary Resolution. The Vendor Contract Didn't.]] now resolves.
+
+**Updated:**
+- [[index.md]] — new Concepts → Power & Infrastructure entry; counters total_pages 1315→1316, total_concepts 167→168.
+
+---
+
+## [2026-05-31] lint | Full wiki health check — 1316 pages
+
+Computed lint (dangling links, orphans, stubs, contradiction markers, counter integrity) over all 1316 pages. **Findings reported to the user for fix selection; no auto-fixes applied beyond the Surveillance Infrastructure consolidation above.**
+
+- **Counters ✓ consistent:** 746 sources + 273 entities + 168 concepts + 27 syntheses + 102 articles = 1316 = index `total_pages`.
+- **Dangling links: 1,107 unique / 2,395 occurrences — but 967 (≈87%) are 1–3× mentions**, overwhelmingly the intentional "defer until second-source threshold" placeholders the schema blesses. Not bugs.
+- **High-frequency dangling (threshold met, page-worthy):** [[Google]] 34×, [[SESTA/FOSTA]] 23×, [[Kash Patel]] 22×, [[ICE]] 17×, [[Project 2025]] 13×, [[Ro Khanna]] 13×, [[Lindsey Graham]] 13×, [[Nvidia]] / [[AMD]] 12×, [[Rob Bonta]] 12×, [[Oracle]] 11×, [[Ted Cruz]] 10×, [[Reno v. ACLU]] 10× (~47 targets ≥8×).
+- **Naming-mismatch / duplicate cluster (highest-ROI fix — Doe v. Bonnell case):** duplicate entity pages `entities/solo-catfisher.md` ⟷ `entities/Solo (Ben Conway).md` and `entities/rose-catfish-victim.md` ⟷ `entities/Rose (AH).md`; slug-vs-displayname orphans `entities/lauren-de-laguna.md` (13 dangling [[Lauren de Laguna]]) and `entities/joan-peters.md`; short-name variants [[Solo]] 12×, [[Rose]] 9×, [[Renée Good]] 35× (page exists as [[Killing of Renée Good]]); trailing-period article links e.g. [[12 Gigawatts ... Built.]] 8× (file lacks the period → dangles + orphans the article).
+- **Orphans: 38** — 30 articles (expected; summaries are leaf nodes), 3 concepts ([[Section 702 FISA]], [[Russia Targeted Killings Campaign]], catfishing-as-legal-liability), 5 entities (4 are the catfish slug pages above + [[Strategy MicroStrategy]]).
+- **Stubs: 27** entities/concepts under a 70-word body (e.g. Rick Crawford 27w, Energy Policy 29w) — mostly single-source mentions consistent with the deferral policy.
+- **Contradiction markers: 13 files** carry ⚠️ flags (intentional). Active clusters to re-verify: Iran/Hormuz strait-status (3 sources + [[Iran]]), [[Helium]] supply-crisis, [[Donald Trump]].
+
+---
+
+## [2026-05-31] update | Lint fix 1/3 — catfish-cluster dedup + slug renames (Doe v. Bonnell)
+
+Resolved the highest-ROI lint finding: the Doe v. Bonnell entity cluster had duplicate pages and slug-vs-displayname orphans, so pages showed as both orphaned and dangling at once.
+
+**Merged + deleted duplicates** (canonical kept; unique facts folded in first):
+- `entities/solo-catfisher.md` ("Solo (Catfisher)", 4 src) → merged into canonical [[Solo (Ben Conway)]] (13 src). Folded: "George Scorer" Cash App alias + the KiwiFarms leak-staging quotes.
+- `entities/rose-catfish-victim.md` ("Rose (Catfish Victim)", 5 src) → merged into canonical [[Rose (AH)]] (8 src). Folded: [[Joan Peters]] as the deposing attorney (added to Connections).
+
+**Renamed slug files to match their wikilinks** (Obsidian resolves on basename — the rename auto-resolves all inbound links and de-orphans the page):
+- `entities/lauren-de-laguna.md` → `entities/Lauren de Laguna.md` (resolves 7 dangling [[Lauren de Laguna]])
+- `entities/joan-peters.md` → `entities/Joan Peters.md` (resolves 6 dangling [[Joan Peters]])
+
+**Redirected short-name variant links via aliases** (preserve display text, fix target) — 49 occurrences across 28 files:
+- `[[Solo]]` → `[[Solo (Ben Conway)|Solo]]`
+- `[[Rose]]` → `[[Rose (AH)|Rose]]`
+- `[[Renée Good]]` → `[[Killing of Renée Good|Renée Good]]` (the single biggest dangling target, 35×)
+
+**Counters:** total_entities 273→271, total_pages 1316→1314 (2 duplicates removed). Historical `log.md` link text left verbatim (append-only). Net dangling-link reduction this pass: ≈90 occurrences resolved.
+
+---
+
+## [2026-05-31] lint | Lint fix 2/3 — contradiction-flag verification (Iran HEU, Helium, Hormuz)
+
+Re-verified the active ⚠️ contradiction clusters surfaced by the lint. Finding: no wiki defects — the flags are correctly placed; one is resolved, the others are open pending source acquisition (not analysis).
+
+- **Helium "6 weeks vs 6 months" ([[Helium]]):** already tagged `(apparent, resolved)` — reconciled as different measures (per-batch storage limit vs forward-contract pipeline). **Status: resolved, healthy.** Forward note: the "~June 2026" pipeline-dry clock is now imminent (today is 2026-05-31); acquire a June-2026 primary source to confirm whether the contracted supply actually ran dry.
+- **Iran HEU "agreed in principle" vs "no commitments" ([[Iran]] + [[Donald Trump]], same May 24 gap):** Fars (no nuclear commitments) vs WH-official-via-CBS (agreed to dispose of HEU), both press-briefing-tier on May 24. **Status: still live, correctly documented.** The wiki's newest Iran sources are dated May 24 — the same day as the contradiction — so no adjudicating source exists yet. Resolution still requires a primary-text deal document or a public Supreme Leader statement. A *source gap*, not a wiki defect.
+- **Hormuz strait-status (Trump "open" vs "blockade in full force"):** held in [[Hormuz Open, Blockade in Full Force — Iran vs Trump on Strait Status]] and [[Iran Trump Remarks on Strait of Hormuz Inconsistent with Reality — The Hill - 2026-05-24]]; a Trump-claim-vs-reality gap, likewise pending post-May-24 confirmation.
+
+**Source-acquisition targets surfaced:** (1) any post-May-24 primary Iran deal text or Supreme Leader statement (resolves the HEU gap); (2) a June-2026 helium-pipeline status source (confirms/updates the crisis clock).
+
+---
+
+## [2026-05-31] update | Lint fix 3/3 — created ICE + Reno v. ACLU; reconciled SESTA/FOSTA slug
+
+Addressed the top "missing pages" lint tier. Grounding each candidate against the wiki *first* caught that one "missing" page already existed under a slug — avoiding a duplicate.
+
+**Created** (high-frequency dangling, threshold met, sourced from existing wiki pages):
+- [[ICE]] — entity_type=organization. U.S. Immigration and Customs Enforcement; connective entity across the immigration / surveillance-repurposing / federal-accountability clusters (17 dangling refs). Anchored in [[Operation Metro Surge]], [[Killing of Renée Good]], [[Atlanta PD used Flock cameras to track migrants]], [[The Bill of Rights Ends at the Contractor's Door]]; framed as the Fourth-Amendment node of [[Vendor-State Governance]] in practice.
+- [[Reno v. ACLU]] — entity_type=case. 521 U.S. 844 (1997); struck the CDA indecency provisions, put internet speech at the top First-Amendment tier, left [[Section 230]] intact (10 dangling refs). The constitutional baseline the age-verification wave ([[SCREEN Act]]) runs into; its "verification is impractical" premise is the technological-inversion attack vector. Pairs with [[Murthy v. Missouri]] as the two online-speech cases eroded-not-overruled. Added to the index `### Cases` subsection.
+
+**Reconciled** (NOT a missing page — slug mismatch):
+- [[SESTA/FOSTA]] (23× dangling, the #2 target) already existed as `concepts/SESTA-FOSTA.md`. Obsidian read the `/` as a path separator, so the links never resolved; a filename can't contain `/`, so the fix is an alias, not a rename. Redirected all 23 occurrences across 16 files to `[[SESTA-FOSTA|SESTA/FOSTA]]`.
+
+**Counters:** total_entities 271→273, total_pages 1314→1316 (ICE + Reno).
+
+**Deferred create-candidates** (proposed to user, not yet built): companies [[Google]] 34× / [[Nvidia]] / [[AMD]] / [[Oracle]] (peripheral as subjects); politicians [[Kash Patel]] 22× / [[Lindsey Graham]] / [[Ro Khanna]] / [[Ted Cruz]]; [[Rob Bonta]] (CA AG, Flock-relevant); [[Project 2025]] 13×. Each is a content commitment best greenlit individually.
+
+---
+
+## [2026-05-31] update | Built 4 deferred entity pages (web-researched) — Bonta, Cruz, Nvidia, Kash Patel
+
+Acted on the deferred create-candidates, selecting one anchor per major cluster and web-researching current (2026) facts (full-document fetches where a fact is cited prominently, per the no-snippet rule).
+
+**Created:**
+- [[Rob Bonta]] — person. CA Attorney General; state-AG enforcement track against [[Flock Safety]] ALPR sharing (El Cajon suit, Oct 3 2025 → Jan 21 2026 motion; 100+ out-of-state agencies; the CA "public agencies" bulletin). The state-law remedy vector against [[Vendor-State Governance]], companion to [[Gibbs Mura]]. Web: oag.ca.gov, eff.org.
+- [[Ted Cruz]] — person. R-TX, Senate Commerce Chair; jawboning/CISA cluster (CISA-weaponization report; TERMS Act + forthcoming JAWBONE Act; March 18 2026 "Section 230 Turns 30" hearing) — the legislative attempt to close the [[Murthy v. Missouri]] standing gap. Also the Iran Senate-hawk bloc with [[Roger Wicker]] / [[Lindsey Graham]]. Web: commerce.senate.gov. (Note: the wiki's Oct 2025 [[The Jawboning Papers]] recorded older bill names — COLLUDE / Censorship Accountability Act — the framing has evolved.)
+- [[Nvidia]] — organization. Dominant AI-GPU designer; upstream demand node of the [[AI DRAM Crisis]] / [[AI Buildout Grid Constraint]] cluster (~$216B rev, 55.6% margins, FY2026 10-K); foreclosed from China's data-center market; May 31 2026 Commerce export restrictions (Blackwell/Rubin), ByteDance routing via Malaysia — export-control-as-[[Chokepoint Control]]. Web: SEC 10-K, Built In, GuruFocus.
+- [[Kash Patel]] — person. FBI Director (confirmed Feb 21 2025, 51-49); Minneapolis pressure visit ([[Killing of Renée Good]] / [[Operation Metro Surge]]); 2026 conduct controversies (Atlantic report → $250M defamation suit; FBI-jet personal use + SWAT bodyguards; staff purges incl. CIRG head Steven Palmer; journalist retaliation) — an accountability-asymmetry case. Web: Wikipedia, CNN, NPR, Campaign Legal Center.
+
+**Updated:**
+- [[index.md]] — 3 People + 1 Organizations entries; counters total_entities 273→277, total_pages 1316→1320.
+- [[overview.md]] — new "Vendor-State Governance" cross-cutting pattern (Bonta/ICE/Cruz/Reno); [[Nvidia]] woven into "Infrastructure control as the master variable"; [[Kash Patel]] into "State power without accountability"; updated 2026-05-24→2026-05-31.
+
+**Sourcing note:** these entity pages blend web-researched current facts (cited inline by URL + a "Web Sources" section) with wiki-internal appearances (cited by `[[page]]`). They are NOT new `wiki/sources/` pages — a future ingest could promote the cited URLs (especially the Bonta El Cajon release and the Cruz JAWBONE Act release) to full source pages.
+
+**Still deferred:** companies [[Google]] 36× / [[AMD]] / [[Oracle]]; politicians [[Lindsey Graham]] / [[Ro Khanna]] / [[Project 2025]] — available on request.
+
+---
+
+## [2026-05-31] update | Built 5 more deferred entity pages (web-researched) — Google, AMD, Oracle, Lindsey Graham, Project 2025
+
+Second batch of deferred create-candidates; web-researched current 2026 facts for each. Held back [[Ro Khanna]] (same frequency but more peripheral to current clusters).
+
+**Created:**
+- [[Google]] — organization. Alphabet; antitrust/AI/buildout triple node — Sept 2025 Mehta search-monopoly remedy (data-sharing, no Chrome breakup), Gemini 750M+ MAU / Gemini 3, ~$180B 2026 capex, $400B+ revenue; the [[Jevons Paradox]] case in [[Cheaper AI Won't Use Less of Anything]]. Web: DOJ, Phemex, Brookings.
+- [[AMD]] — organization. #2 US AI-chip designer; MI400/MI450 + Helios (H2 2026); same dual constraint as [[Nvidia]] — China export controls (MI308 ban ~$1.5B / $800M one quarter) + HBM/DRAM ([[Samsung]] HBM4 MOU Mar 18 2026). Confirms the chip chokepoint binds both designers. Web: SEC 8-K, S&P Global, Data Center Dynamics.
+- [[Oracle]] — organization. Stargate financing partner + Project Jupiter anchor; 450k+ GB200 GPUs at the 1.2 GW Abilene campus (15-yr lease); OCI +77% to $18B FY2026 → $144B by 2030; ~$300B OpenAI compute backlog. Demand-becomes-grid-load input to [[AI Buildout Grid Constraint]]. Web: OpenAI, Data Center Frontier.
+- [[Lindsey Graham]] — person. R-SC; third member of the Iran Senate-hawk bloc ([[Roger Wicker]] / [[Ted Cruz]]) — "I'm in the camp of bigger," "unleashing holy hell"; "poison pill" MAGA-revolt framing; longtime [[EARN IT Act]] sponsor. Web: C-SPAN, Fox News, Raw Story, Salon.
+- [[Project 2025]] — organization (Heritage blueprint). ~920-page "Mandate for Leadership"; ~53% (283/532) of its domestic agenda implemented by Feb 2026 (CPR/Governing for Impact tracker); "Project 2026" successor. The quantitative handle on the authoritarian-playbook thesis. Web: Wikipedia, ACLU, CPR tracker, 19th News, Axios.
+
+**Updated:**
+- [[index.md]] — Google/AMD/Oracle/Project 2025 under Organizations, [[Lindsey Graham]] under People; counters total_entities 277→282, total_pages 1320→1325.
+- [[overview.md]] — extended the "Infrastructure control" pattern with the full chip-to-grid chain ([[Nvidia]]+[[AMD]]→memory→[[Oracle]] grid load→[[Google]] capex→[[AI Buildout Grid Constraint]]); added [[Project 2025]] to "State power without accountability" as the quantitative blueprint spine.
+
+**New follow-up flagged:** [[Stargate]] (the $500B / 10-GW OpenAI+SoftBank+Oracle program) and Project Jupiter are referenced across the AI-buildout cluster but have no page yet; [[Stargate]] is now linked from [[Oracle]] and is a strong next create-candidate. Also still deferred: [[Ro Khanna]]; and the [[12 Gigawatts Were Announced. 4 Are Being Built.]] trailing-period link mismatch remains a known lint item.
+
+---
+
+## [2026-05-31] update | Built entity page — Stargate (web-researched; the apex AI-buildout JV)
+
+Built the [[Stargate]] page flagged above. Web-researched the program-level facts (JV structure, partners, funding, skepticism) that the [[Oracle]] page — one participant's view — didn't carry, and reconciled them with the wiki's existing internal narrative.
+
+**Created:**
+- [[Stargate]] — entity_type=organization. Stargate LLC (Delaware JV), announced Jan 21 2025 by [[Donald Trump]]; $500B / ~10 GW by 2029; equity funders [[OpenAI]] + [[SoftBank]] + [[Oracle]] + [[MGX]] (SoftBank financial / OpenAI operational lead; ~$19B each for ~40% each; Oracle+MGX ~$7B each; rest LP+debt); tech partners Arm/[[Microsoft]]/[[Nvidia]]/Oracle/OpenAI. Framed as the wiki's apex **"announced ≠ built"** case.
+
+**Reconciled web vs. internal narrative (the key move):** web reports the Abilene flagship operational/on-schedule; the wiki documents that the **800 MW expansion** collapsed March 6 2026 on Oracle-OpenAI financing and was handed to [[Microsoft]] ([[Crusoe Energy]] building on-site generation, Meta in talks). Both true at different altitudes — the page carries both, citing [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]] and [[12 Gigawatts Were Announced. 4 Are Being Built.]]. Added skepticism (Musk financing doubt; Bloomberg "no funds raised"; JV reportedly has no employees / built nothing itself; partner impasse) and OpenAI's 2026 retreat (Norway→Microsoft; spend target $1.4T→$600B).
+
+**Updated:**
+- [[index.md]] — [[Stargate]] under Organizations (after [[Oracle]]); counters total_entities 282→283, total_pages 1325→1326.
+- [[overview.md]] — added [[Stargate]] as the apex of the chip-to-grid chain in "Infrastructure control as the master variable" (the cleanest announced-≠-built case; scarce asset = the substation/interconnection slot).
+
+**Note:** linked the [[12 Gigawatts Were Announced. 4 Are Being Built.]] article by its TRUE basename (no trailing period) — the existing 8× dangling [[…Built.]] links add a spurious period; that near-miss remains a lint item. New danglers introduced (flagged as future create-candidates): [[SoftBank]] and [[MGX]] (both core Stargate equity funders, page-worthy).

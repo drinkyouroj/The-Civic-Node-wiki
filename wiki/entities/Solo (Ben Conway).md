@@ -22,6 +22,7 @@ Anonymous UK-based actor (claims Oxford, England, claims name "Ben Conway" — r
 - **Operation scale:** Over roughly 7 months (April-November 2022), exchanged ~300 pages of Discord messages plus videos with Destiny. Rose had no access to the account; Solo occasionally screenshotted messages to her "to brag."
 - **Threats against Rose:** When Rose tried to end the relationship in August 2022, Solo threatened to kill her family and to "kidnap her and use her as a sex slave." He continued contact attempts through new accounts for years.
 - **The leak:** November 29, 2024 — posted 26 videos plus ~300 pages of Discord logs to KiwiFarms under the handle SoloTinyLeaks.
+- **Additional alias & leak staging:** Cash App alias "George Scorer"; before the drop, posted on KiwiFarms asking "What exactly can I leak here?" then "It's about to be a very white Christmas." (merged from the former duplicate "Solo (Catfisher)" page)
 - **Manufactured consent:** In December 2024 KiwiFarms posts, claimed Rose had "given me the account a while ago" and that she "doesn't really care about stuff being leaked." Under sworn deposition, Rose contradicted both claims.
 - **Motivation:** Rose's deposition speculation (cross-examination by defense counsel): Ben "liked his content, like his streams" and as a bisexual man "may have derived sexual pleasure from it."
 - **Post-leak contact:** February 2025 — reached Rose again via a Snapchat account labeled "Ben Conway." She blocked him.

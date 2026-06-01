@@ -53,7 +53,7 @@ Campaign hub maintained by [[Fight for the Future]] cataloging the slate of US f
 - [[Age Verification]] — surveillance + censorship combined
 - [[EARN IT Act]] — E2EE-breaking vehicle
 - [[End-to-End Encryption]] — under threat from STOP CSAM, EARN IT, Cooper Davis, TAKE IT DOWN
-- [[SESTA/FOSTA]] — historical analog cited as warning
+- [[SESTA-FOSTA|SESTA/FOSTA]] — historical analog cited as warning
 - [[Bad Internet Bills Campaign]] — umbrella opposition coalition
 
 ## Quotes

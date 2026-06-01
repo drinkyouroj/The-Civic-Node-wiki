@@ -46,7 +46,7 @@ Emory Wheel student newspaper coverage of the April 10, 2026 walkout by ~80 stud
 ## Concepts Mentioned
 - [[Flock Safety Surveillance Network]]
 - [[Sanctuary Campus Politics]]
-- [[Surveillance Infrastructure on Campuses]]
+- [[Surveillance Infrastructure]] — the campus deployment facet (canonical; formerly linked here as "Surveillance Infrastructure on Campuses")
 - [[Police-University Data Sharing]]
 
 ## Quotes

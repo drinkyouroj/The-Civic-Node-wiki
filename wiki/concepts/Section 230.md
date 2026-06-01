@@ -32,7 +32,7 @@ Section 230 is the legal foundation that makes nearly every form of user-generat
 - [[Reno v. ACLU]] — the 1997 SCOTUS decision
 - [[KOSA]] — duty-of-care approach effectively erodes 230
 - [[EARN IT Act]] — explicitly conditions 230 immunity on encryption-breaking behavior
-- [[SESTA/FOSTA]] — the 2018 230 carve-out, cited as warning
+- [[SESTA-FOSTA|SESTA/FOSTA]] — the 2018 230 carve-out, cited as warning
 - [[Content Moderation]]
 - [[CISA Jawboning]] — adjacent first-amendment/platform speech concept
 

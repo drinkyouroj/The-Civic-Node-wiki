@@ -22,7 +22,7 @@ published:
 - Online ID check laws passed in 19 states; [[SCREEN Act]] would nationalize this.
 - [[KOSA]] framed as dangerous censorship that would block youth from LGBTQ resources.
 - [[Take It Down Act]] would require platforms to abandon [[end-to-end encryption]] to scan DMs; no false-report safeguards.
-- [[EARN IT Act]] (2023, third introduction) undermines encryption, repeats [[SESTA/FOSTA]] harms.
+- [[EARN IT Act]] (2023, third introduction) undermines encryption, repeats [[SESTA-FOSTA|SESTA/FOSTA]] harms.
 - [[Cooper Davis Act]] expands messaging surveillance under fentanyl-crisis framing.
 - [[Utah Social Media Regulation Acts]] create mandated "bedtime," give parents full account access — Arkansas/Louisiana/Texas following.
 - [[STOP CSAM]] would weaken E2EE in ways that harm LGBTQ youth, DV survivors, abortion seekers, activists.
@@ -47,7 +47,7 @@ published:
 - [[End-to-end encryption]]
 - [[Age-gating]]
 - [[Mandated reporting]]
-- [[SESTA/FOSTA]] — precedent cited repeatedly
+- [[SESTA-FOSTA|SESTA/FOSTA]] — precedent cited repeatedly
 - [[Duty of care]]
 
 ## Quotes

@@ -42,7 +42,7 @@ Teen Vogue op-ed (July 2023) by Sarah Philips, [[Fight for the Future]] digital 
 ## Concepts Mentioned
 - [[KOSA]]
 - [[Duty of Care (Internet Bills)]]
-- [[SESTA/FOSTA]]
+- [[SESTA-FOSTA|SESTA/FOSTA]]
 - [[Fan Communities as Refuge]]
 - [[Algorithmic Influence and Media Legitimacy]] (related)
 

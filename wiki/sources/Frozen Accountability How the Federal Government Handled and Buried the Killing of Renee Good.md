@@ -14,7 +14,7 @@ published: 2026-04-28
 [Original source](https://legalbeaglejackharding.substack.com/p/frozen-accountability-how-the-federal)
 
 ## Summary
-An investigative report published April 28, 2026 — three days before the May 1 federal court deadline — consolidating the full institutional timeline of how the federal government responded to the January 7, 2026 killing of [[Renée Good]] by ICE agent [[Jonathan Ross]]. Covers the chain of command, use-of-force legal framework, the FBI evidence lockout, DOJ's pressure to investigate the widow instead, the Tracee Mergen/Kash Patel whistleblower allegations, and Minnesota's escalating counter-litigation. The most comprehensive single-document account of the accountability failure to date, with 62 endnotes citing primary documents.
+An investigative report published April 28, 2026 — three days before the May 1 federal court deadline — consolidating the full institutional timeline of how the federal government responded to the January 7, 2026 killing of [[Killing of Renée Good|Renée Good]] by ICE agent [[Jonathan Ross]]. Covers the chain of command, use-of-force legal framework, the FBI evidence lockout, DOJ's pressure to investigate the widow instead, the Tracee Mergen/Kash Patel whistleblower allegations, and Minnesota's escalating counter-litigation. The most comprehensive single-document account of the accountability failure to date, with 62 endnotes citing primary documents.
 
 ## Key Points
 - Ross's profile: Army National Guard Iraq veteran 2004–05; Border Patrol 2007; ICE 2015; team leader for fugitive operations; SWAT; FBI Joint Terrorism Task Force; firearms instructor; active-shooter instructor
@@ -41,7 +41,7 @@ An investigative report published April 28, 2026 — three days before the May 1
 
 ## Entities Mentioned
 - [[Jonathan Ross]] — full biographical and career profile; the DHS directive's admin-leave and OPR rules directly implicate his current status
-- [[Renée Good]] — the killing; independent autopsy details; Honda Pilot still withheld
+- [[Killing of Renée Good|Renée Good]] — the killing; independent autopsy details; Honda Pilot still withheld
 - [[Becca Ganger]] — Good's widow; filed motion late April 2026 to recover the Honda Pilot
 - [[Operation Metro Surge]] — the broader operation context
 - [[Tracee Mergen]] — FBI supervisor who resigned after being pressured to reclassify the inquiry

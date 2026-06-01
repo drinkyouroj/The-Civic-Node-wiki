@@ -15,7 +15,7 @@ Mary Moriarty is the Hennepin County Attorney who launched the first state crimi
 ## Key Facts
 
 - Hennepin County Attorney; not seeking reelection; leaves office end of 2026
-- Filed federal lawsuit March 24, 2026 against DHS and DOJ seeking evidence in three shootings: [[Renée Good]], [[Alex Pretti]], and Julio Cesar Sosa-Celis [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
+- Filed federal lawsuit March 24, 2026 against DHS and DOJ seeking evidence in three shootings: [[Killing of Renée Good|Renée Good]], [[Alex Pretti]], and Julio Cesar Sosa-Celis [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
 - April 16, 2026: charged ICE agent [[Gregory Donnell Morgan]] with two felony counts of second-degree assault — "the first criminal case against a federal immigration officer involved in President Donald Trump's immigration campaign in the Twin Cities" [[Minnesota Prosecutors Charge ICE Agent With Assault]]
 - Described the evidence lawsuit as "unprecedented in American history" [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
 - Opened **14 additional criminal investigations** into federal conduct during the surge, including force at a high school and an investigation of [[Gregory Bovino]] [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
@@ -30,7 +30,7 @@ Moriarty is the institutional embodiment of the state-federal accountability bat
 
 - [[Keith Ellison]] — Minnesota AG; parallel legal actions at state level
 - [[Operation Metro Surge]] — the operation generating her investigation docket
-- [[Renée Good]] — one of three shooting victims whose cases she's pursuing
+- [[Killing of Renée Good|Renée Good]] — one of three shooting victims whose cases she's pursuing
 - [[Alex Pretti]] — second killing under investigation
 - [[Gregory Donnell Morgan]] — the first federal agent she successfully charged
 - [[Supremacy Clause Immunity]] — the primary legal obstacle to state prosecution

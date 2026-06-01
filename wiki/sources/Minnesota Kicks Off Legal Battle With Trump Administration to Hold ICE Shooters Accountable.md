@@ -15,7 +15,7 @@ published: 2026-03-24
 
 ## Summary
 
-Hennepin County and the state of Minnesota filed a federal lawsuit against DHS and DOJ on March 24, 2026, seeking access to evidence from three shootings during [[Operation Metro Surge]]. Hennepin County Attorney [[Mary Moriarty]] called the action "unprecedented in American history." The suit covers the deaths of [[Renée Good]] and [[Alex Pretti]], and the wounding of Julio Cesar Sosa-Celis — and documents a 14-investigation docket of additional unlawful-conduct probes.
+Hennepin County and the state of Minnesota filed a federal lawsuit against DHS and DOJ on March 24, 2026, seeking access to evidence from three shootings during [[Operation Metro Surge]]. Hennepin County Attorney [[Mary Moriarty]] called the action "unprecedented in American history." The suit covers the deaths of [[Killing of Renée Good|Renée Good]] and [[Alex Pretti]], and the wounding of Julio Cesar Sosa-Celis — and documents a 14-investigation docket of additional unlawful-conduct probes.
 
 ## Key Points
 
@@ -39,7 +39,7 @@ Hennepin County and the state of Minnesota filed a federal lawsuit against DHS a
 
 - [[Mary Moriarty]] — Hennepin County Attorney; characterized federal evidence-withholding as "unprecedented and alarming"; not seeking reelection
 - [[Keith Ellison]] — Minnesota AG; called cooperation refusal "unique, rare and simply cannot be tolerated"
-- [[Renée Good]] — 37-year-old mother of three, killed January 7, 2026
+- [[Killing of Renée Good|Renée Good]] — 37-year-old mother of three, killed January 7, 2026
 - [[Alex Pretti]] — killed January 24, 2026; videos allegedly show him "disarmed and restrained on the ground when he was shot"
 - [[Julio Cesar Sosa-Celis]] — Venezuelan immigrant wounded January 14
 - [[Gregory Bovino]] — Border Patrol commander videotaped dispersing chemical agents at protests; under investigation

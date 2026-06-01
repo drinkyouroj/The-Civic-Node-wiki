@@ -10,7 +10,7 @@ sources: 8
 
 ## Overview
 
-Todd Lyons was the acting director of ICE from March 2025 until his resignation, effective May 31, 2026. He led the agency through [[Operation Metro Surge]] and the resulting accountability crisis, including the deaths of [[Renée Good]] and [[Alex Pretti]] and the subsequent state-federal legal conflict. He is best known publicly for refusing to apologize for Good's death when asked directly by Rep. Eric Swalwell in congressional testimony.
+Todd Lyons was the acting director of ICE from March 2025 until his resignation, effective May 31, 2026. He led the agency through [[Operation Metro Surge]] and the resulting accountability crisis, including the deaths of [[Killing of Renée Good|Renée Good]] and [[Alex Pretti]] and the subsequent state-federal legal conflict. He is best known publicly for refusing to apologize for Good's death when asked directly by Rep. Eric Swalwell in congressional testimony.
 
 ## Key Facts
 
@@ -30,7 +30,7 @@ Lyons exits as the accountability machinery begins producing results — a depar
 
 - [[Operation Metro Surge]] — the operation he directed
 - [[Markwayne Mullin]] — DHS Secretary who accepted his resignation
-- [[Renée Good]] — killed during the operation he led
+- [[Killing of Renée Good|Renée Good]] — killed during the operation he led
 - [[Gregory Donnell Morgan]] — charged on the day of his resignation
 - [[Stephen Miller]] — reported to have pressured Lyons during the surge
 

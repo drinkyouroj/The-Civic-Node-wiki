@@ -19,7 +19,7 @@ Steven Kenneth Bonnell II, known online as "Destiny," is an American political d
 - Subscriber base: ~866K YouTube (April 2026), average ~160K views per video
 - Political orientation: Left-leaning, frequently debates across the political spectrum
 - Legal status: Defendant in Pixie's civil lawsuit; represented by Jay Chimera and Joel Sitchell (Burke Bettler LLP) — [[Destiny vs. Pixie Civil Trial — YouTube Coverage]]
-- Catfishing victim: Was catfished for 2-3 years by UK-based adult male [[Solo]], who impersonated a young woman named [[Rose]] across Discord, Twitter, and Cash App accounts
+- Catfishing victim: Was catfished for 2-3 years by UK-based adult male [[Solo (Ben Conway)|Solo]], who impersonated a young woman named [[Rose (AH)|Rose]] across Discord, Twitter, and Cash App accounts
 - Content sharing: In April 2022, Destiny shared an intimate video with the person he believed was Rose — via Discord and, per secondary sources, also via a Google Drive link. Solo controlled the fake "Rose" account and thus had access to all shared content. When Solo leaked publicly in November 2024, both directly-sent videos and Google Drive content were included in the 26 clips posted to KiwiFarms.
 
 ## Key Events in the Lawsuit
@@ -41,8 +41,8 @@ Destiny's case sits at the intersection of platform power, digital identity, and
 ## Connections
 
 - [[Pixie]] — plaintiff suing him
-- [[Solo]] — the UK-based catfisher who impersonated Rose and leaked Destiny's content
-- [[Rose]] — real person whose identity Solo stole
+- [[Solo (Ben Conway)|Solo]] — the UK-based catfisher who impersonated Rose and leaked Destiny's content
+- [[Rose (AH)|Rose]] — real person whose identity Solo stole
 - [[Joan Peters]] — Pixie's lead attorney
 - [[Lauren de Laguna]] — Florida attorney Destiny alleges coordinated against him externally
 

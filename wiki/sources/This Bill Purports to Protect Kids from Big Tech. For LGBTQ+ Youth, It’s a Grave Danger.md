@@ -14,7 +14,7 @@ published: 2024-07-12
 [Original source](https://www.them.us/story/kids-online-safety-act-kosa-youth-lgbtq-content)
 
 ## Summary
-Them magazine op-ed from [[Fight for the Future]] (Anna Bonesteel) targeting the 38 Democratic senators co-sponsoring [[KOSA]] during Pride Month 2024. Centers direct quotes from LGBTQ+ youth (Jay 17, Atticus 16, Felix 15, Anonymous 16) about the role online communities played in their survival. Argues KOSA replays [[SESTA/FOSTA]]'s harm pattern and catalogs the [[Heritage Foundation]] / [[Project 2025]] / Blackburn explicit statements of intent to use KOSA against trans content.
+Them magazine op-ed from [[Fight for the Future]] (Anna Bonesteel) targeting the 38 Democratic senators co-sponsoring [[KOSA]] during Pride Month 2024. Centers direct quotes from LGBTQ+ youth (Jay 17, Atticus 16, Felix 15, Anonymous 16) about the role online communities played in their survival. Argues KOSA replays [[SESTA-FOSTA|SESTA/FOSTA]]'s harm pattern and catalogs the [[Heritage Foundation]] / [[Project 2025]] / Blackburn explicit statements of intent to use KOSA against trans content.
 
 ## Key Points
 - 38 Democratic senators on KOSA cosponsor list (2024).
@@ -43,7 +43,7 @@ Them magazine op-ed from [[Fight for the Future]] (Anna Bonesteel) targeting the
 ## Concepts Mentioned
 - [[KOSA]]
 - [[Duty of care]]
-- [[SESTA/FOSTA]]
+- [[SESTA-FOSTA|SESTA/FOSTA]]
 - [[Age verification]]
 - [[Fan fiction communities]] / [[AO3]]
 - [[LGBTQ+ youth online communities]]

@@ -34,7 +34,7 @@ PBS NewsHour's coverage of Minnesota's March 24, 2026 lawsuit against the Trump 
 ## Entities Mentioned
 
 - [[Mary Moriarty]] — Hennepin County Attorney; primary quotes
-- [[Renée Good]] — killed January 7; DOJ declined civil rights review
+- [[Killing of Renée Good|Renée Good]] — killed January 7; DOJ declined civil rights review
 - [[Alex Pretti]] — killed January 24; DOJ opened civil rights investigation
 - [[Julio Cesar Sosa-Celis]] — wounded; Venezuelan immigrant
 

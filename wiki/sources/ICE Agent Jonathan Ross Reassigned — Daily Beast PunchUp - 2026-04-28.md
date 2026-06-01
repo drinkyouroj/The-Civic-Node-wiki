@@ -21,7 +21,7 @@ PunchUp (Daily Beast's investigative offshoot), via Tom Latchem, confirms [[Jona
 - Senior DHS officials told PunchUp: Ross's accountability is frozen because ICE's Office of Professional Responsibility (OPR) cannot begin administrative review until FBI investigation concludes — and FBI has not formally closed it
 - DOJ told Fox News that DOJ's OIG was running a parallel internal review; senior DHS officials directly contradicted this — ICE OPR is blocked, no parallel review is running
 - Senior ICE official: FBI needs to "s--t or get off the pot" — the limbo prevents ICE from speaking publicly about the killing or rebuilding public confidence
-- Cell phone video: Ross can be heard saying "f---ing b---h" as [[Renée Good]]'s Honda Pilot crashed into a parked car with her dying inside
+- Cell phone video: Ross can be heard saying "f---ing b---h" as [[Killing of Renée Good|Renée Good]]'s Honda Pilot crashed into a parked car with her dying inside
 - [[Tracee Mergen]] resigned after being pressured to reclassify civil-rights probe into Ross as investigation of Good allegedly assaulting a federal officer; [[Kash Patel]] directed agents to reframe warrant language to portray Good as suspect, not victim
 - [[Alex Pretti]] (Virginia ICU nurse, 37) shot dead by Border Patrol 17 days after Good during the same Minneapolis operation — a second death in the same context
 - [[Kristi Noem]] was replaced by [[Markwayne Mullin]] as DHS Secretary after the killings triggered mass protests and a political crisis
@@ -35,7 +35,7 @@ PunchUp (Daily Beast's investigative offshoot), via Tom Latchem, confirms [[Jona
 
 ## Entities Mentioned
 - [[Jonathan Ross]] — ICE agent; confirmed relocated to another state; on active duty; facing zero formal accountability
-- [[Renée Good]] — victim; identified in cell phone audio sequence as dying in her Honda Pilot
+- [[Killing of Renée Good|Renée Good]] — victim; identified in cell phone audio sequence as dying in her Honda Pilot
 - [[Kash Patel]] — FBI Director; per whistleblower accounts, directed warrant reframing to portray Good as suspect
 - [[Todd Lyons]] — outgoing ICE Director; refused to apologize to Good's family; resigned hours after that refusal
 - [[Tracee Mergen]] — FBI supervisor; resigned after being pressured to reframe investigation

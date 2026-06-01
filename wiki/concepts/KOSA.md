@@ -27,14 +27,14 @@ KOSA is the keystone bill of the contemporary "child online safety" legislative 
 - KOSA's authors and many supporters argue it doesn't *mandate* age verification, only requires knowing user ages — but critics across this wiki's sources agree that meaningful compliance is impossible without de facto verification.
 - **APA's own position is internally contradictory:** Their May 2023 report [[Officials say social media is hurting teens — Scientists say it's complicated]] found social media effects on teens are "dependent" and may *benefit* marginalized youth — but the APA also endorsed a key kids' online safety bill the prior year.
 - **Some LGBTQ+ groups withdrew opposition** after the "grooming" language was removed and content-design (rather than content-itself) was emphasized in amendments; many — and ACLU, GLSEN, GLAAD, Fight for the Future, Trevor Project (varies) — held firm.
-- KOSA's defenders argue [[SESTA/FOSTA]] is not a fair analog because the duty-of-care framework targets design features, not content; opponents argue this is a distinction without operational difference.
+- KOSA's defenders argue [[SESTA-FOSTA|SESTA/FOSTA]] is not a fair analog because the duty-of-care framework targets design features, not content; opponents argue this is a distinction without operational difference.
 
 ## Related Concepts
 - [[Duty of Care (Internet Bills)]] — the legal mechanism at KOSA's core
 - [[Age Verification]] — the de facto requirement
 - [[Section 230]] — the protection KOSA's duty of care effectively erodes
 - [[EARN IT Act]] — companion bill in the same campaign
-- [[SESTA/FOSTA]] — historical analog
+- [[SESTA-FOSTA|SESTA/FOSTA]] — historical analog
 - [[Project 2025]] — the broader political project KOSA fits into
 - [[Bad Internet Bills Campaign]] — the umbrella opposition campaign
 

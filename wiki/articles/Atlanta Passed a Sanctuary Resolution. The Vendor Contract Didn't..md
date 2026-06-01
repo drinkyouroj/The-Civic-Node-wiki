@@ -35,7 +35,7 @@ The Atlanta piece identified the structural pattern the 3,000-arrests piece oper
 - [[Flock Safety Surveillance Network]] — structural surveillance context
 - [[Operation Metro Surge]] — cited directly; the "visible" enforcement vs. invisible camera network contrast
 - [[Killing of Renée Good]] — Santa Cruz canceled Flock six days after Good's killing; cited as turning point
-- [[Vendor-Intermediary State]] — the pattern: cities contract surveillance infrastructure that enables federal enforcement the city's official policy opposes
+- [[Vendor-State Governance]] — the pattern (recorded here earlier as "Vendor-Intermediary State," now consolidated into the canonical concept page): cities contract surveillance infrastructure that enables federal enforcement the city's official policy opposes
 - [[Surveillance Infrastructure]] — broader pattern
 
 ## Series Note

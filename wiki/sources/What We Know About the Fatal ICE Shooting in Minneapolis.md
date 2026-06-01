@@ -4,7 +4,7 @@ type: source
 tags: [politics, immigration, minnesota, police-violence, power, institutional-gaslighting]
 created: 2026-04-17
 updated: 2026-04-17
-sources: 1
+sources: 8
 raw: "raw/What We Know About the Fatal ICE Shooting in Minneapolis.md"
 source_url: "https://www.nytimes.com/2026/01/07/us/ice-shooting-minneapolis-renee-good.html"
 author: "Hannah Ziegler; Alexandra E. Petri; Christina Morales"
@@ -38,7 +38,7 @@ New York Times news explainer published January 7, 2026, one day after the shoot
 
 ## Entities Mentioned
 
-- [[Renée Good]] / [[Killing of Renée Good - Wikipedia]] — victim; biographical details; final words
+- [[Killing of Renée Good|Renée Good]] / [[Killing of Renée Good - Wikipedia]] — victim; biographical details; final words
 - [[Jonathan Ross]] — ICE agent; filmed Good before shooting; prior incident in 2025
 - [[Donald Trump]] — made false claim on Truth Social; overseeing ICE operation
 - [[Kristi Noem]] — Homeland Security Secretary; called Good a "domestic terrorist"

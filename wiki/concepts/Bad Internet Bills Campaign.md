@@ -33,7 +33,7 @@ This is the organizing infrastructure that names and frames the entire contempor
 - [[Age Verification]]
 - [[EARN IT Act]]
 - [[Duty of Care (Internet Bills)]]
-- [[SESTA/FOSTA]]
+- [[SESTA-FOSTA|SESTA/FOSTA]]
 
 ## Key Sources
 - [[Bad Internet Bills — Fight for the Future Campaign Hub]] — campaign hub

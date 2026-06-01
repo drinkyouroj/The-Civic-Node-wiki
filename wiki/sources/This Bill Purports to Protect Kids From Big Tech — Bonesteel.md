@@ -49,7 +49,7 @@ published: 2024-07-12
 - [[Project 2025]]
 - [[Duty of Care (Internet Bills)]]
 - [[Age Verification]]
-- [[SESTA/FOSTA]]
+- [[SESTA-FOSTA|SESTA/FOSTA]]
 
 ## Quotes
 > "I am a transgender person, and when I was a preteen, looking down the barrel of the gun of puberty, I was miserable. I didn't know what was wrong I just knew I'd rather do anything else but go through puberty. The internet taught me what that was. They told me it was okay…" — Jay, 17

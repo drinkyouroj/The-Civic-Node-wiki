@@ -22,9 +22,9 @@ sources: 5
 
 ## Key Facts (from Destiny's Perspective — one-sided source)
 
-- Destiny alleges the lawsuit is "spite-driven" and that the first two attorneys she consulted told her she had no case against him, only against [[Solo]]
+- Destiny alleges the lawsuit is "spite-driven" and that the first two attorneys she consulted told her she had no case against him, only against [[Solo (Ben Conway)|Solo]]
 - Destiny alleges she collaborated with [[Lauren de Laguna]] to destroy/hide discoverable evidence
-- Pixie's team filed a false footnote claiming [[Rose]] was a minor during exchanges — retracted after deposition
+- Pixie's team filed a false footnote claiming [[Rose (AH)|Rose]] was a minor during exchanges — retracted after deposition
 - Pixie's team attempted to block multiple defense depositions by having Joan Peters represent at least 4 subpoenaed witnesses
 - Pixie filed a motion to extend discovery from Dec 16, 2025 to Feb 2026
 
@@ -35,7 +35,7 @@ Pixie represents one side of a rapidly emerging legal dynamic: online figures us
 ## Connections
 
 - [[Destiny]] — defendant she is suing
-- [[Solo]] — the UK man who actually leaked Destiny's content; Destiny alleges Pixie should have sued him instead
+- [[Solo (Ben Conway)|Solo]] — the UK man who actually leaked Destiny's content; Destiny alleges Pixie should have sued him instead
 - [[Joan Peters]] — her lead attorney
 - [[Lauren de Laguna]] — Florida attorney Destiny alleges was coordinating externally on Pixie's behalf
 

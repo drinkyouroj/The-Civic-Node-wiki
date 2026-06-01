@@ -31,7 +31,7 @@ EARN IT is the encryption-attack vehicle of the [[Bad Internet Bills Campaign]] 
 - [[STOP CSAM]] — parallel encryption-attack vehicle
 - [[Cooper Davis Act]] — fentanyl-pretext encryption attack
 - [[TAKE IT DOWN Act]] — NCII-pretext encryption attack
-- [[SESTA/FOSTA]] — historical precedent
+- [[SESTA-FOSTA|SESTA/FOSTA]] — historical precedent
 - [[Bad Internet Bills Campaign]]
 
 ## Key Sources

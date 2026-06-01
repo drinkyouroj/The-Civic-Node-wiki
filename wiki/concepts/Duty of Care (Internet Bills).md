@@ -17,7 +17,7 @@ The duty-of-care construction is the **structural innovation** at the heart of t
 - **Original critique (Greer, Vice, Dec 2022):** [[LGBTQ Youth Are Under Attack — Why Are Democrats Pushing a Bill That Hurts Them More]] — first major articulation: "a duty of care is nebulous and is rarely certain until applied to specific facts and decided in court. That uncertainty allows right wing AGs to back into any definition that suits their political goals."
 - **State AG abuse vectors:** Texas AG Ken Paxton has called gender-affirming care "child abuse"; Arkansas AG Leslie Rutledge similar — these are the people who would define what platforms must "prevent" under KOSA's duty of care. ([[LGBTQ Youth Are Under Attack — Why Are Democrats Pushing a Bill That Hurts Them More]])
 - **Trump FTC weaponization (Oct 2025):** [[Why Are Some Democrats Backing MAGA's Anti-LGBTQ+ Censorship?]] — FTC under Trump hosted anti-trans "workshop" exploring how to use agency authority against gender-affirming-care providers; the agency that would enforce KOSA's duty of care.
-- **SESTA/FOSTA precedent:** Same liability-incentive logic; platforms over-moderated to the point of decimating sex-worker and sex-ed communities. See [[SESTA/FOSTA]].
+- **SESTA/FOSTA precedent:** Same liability-incentive logic; platforms over-moderated to the point of decimating sex-worker and sex-ed communities. See [[SESTA-FOSTA|SESTA/FOSTA]].
 - **EFF / India McKinney:** "We generally don't like it when the government is trying to tell parents the correct way to parent their children." ([[President Biden's executive action on children and the internet]])
 
 ## Tensions & Counterarguments
@@ -28,7 +28,7 @@ The duty-of-care construction is the **structural innovation** at the heart of t
 ## Related Concepts
 - [[KOSA]] — primary contemporary deployment
 - [[EARN IT Act]] — uses similar liability-incentive logic for encryption
-- [[SESTA/FOSTA]] — historical precedent showing duty-of-care-style liability decimating marginalized communities
+- [[SESTA-FOSTA|SESTA/FOSTA]] — historical precedent showing duty-of-care-style liability decimating marginalized communities
 - [[Section 230]] — the protection duty-of-care effectively erodes
 - [[Censorship via Liability]] — broader pattern category
 - [[FTC Weaponization]] — enforcement mechanism

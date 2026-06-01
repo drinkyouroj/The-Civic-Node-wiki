@@ -16,7 +16,7 @@ Gregory Bovino is a U.S. Border Patrol commander whose conduct during [[Operatio
 - Videotaped dispersing chemical agents at Minneapolis protests [[Minnesota Kicks Off Legal Battle With Trump Administration to Hold ICE Shooters Accountable]]
 - DHS defense: agents responded to a "hostile crowd"
 - Subject of one of Moriarty's 14 open criminal investigations into federal-agent conduct
-- **Removed from CBP commander-at-large role in January 2026** after the deaths of [[Renée Good]] and [[Alex Pretti]]; returned to original sector chief role in El Centro, California [[Border Patrol's Gregory Bovino to retire, sources say]]
+- **Removed from CBP commander-at-large role in January 2026** after the deaths of [[Killing of Renée Good|Renée Good]] and [[Alex Pretti]]; returned to original sector chief role in El Centro, California [[Border Patrol's Gregory Bovino to retire, sources say]]
 - **Retiring end of March 2026** — coincides with Noem's announced last day at DHS; Bovino was eligible for retirement and one year from CBP's mandatory retirement age of 57 [[Border Patrol's Gregory Bovino to retire, sources say]]
 - Reported directly to Noem AND her senior adviser [[Corey Lewandowski]] — political-operations reporting line, not standard chain of command [[Border Patrol's Gregory Bovino to retire, sources say]]
 - **Federal judge in Chicago found Bovino "repeatedly lied"** about threats from immigrants and protesters; in one specific incident he claimed he threw a gas canister after being hit by a rock — had to walk back the claim after video evidence contradicted him [[Border Patrol's Gregory Bovino to retire, sources say]]

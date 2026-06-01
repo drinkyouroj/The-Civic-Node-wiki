@@ -41,7 +41,7 @@ Daily Beast reporting citing its sister investigation outlet PunchUp (Tom Latche
 - [[Kristi Noem]] — replaced by [[Markwayne Mullin]] after killings
 - [[Tracee Mergen]] — pressured to reclassify civil rights inquiry; resigned
 - [[Kash Patel]] — directed reframing of Ross investigation via whistleblower accounts
-- [[Renée Good]] — the killing; cellphone audio detail
+- [[Killing of Renée Good|Renée Good]] — the killing; cellphone audio detail
 - [[Alex Pretti]] — killed January 24 by Border Patrol during the same operation
 - [[Operation Metro Surge]] — operational context
 
