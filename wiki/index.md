@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-31
-total_pages: 1320
+total_pages: 1325
 total_sources: 746
-total_entities: 277
+total_entities: 282
 total_concepts: 168
 total_syntheses: 27
 total_articles: 102
@@ -1409,6 +1409,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 ### People
 - [[Rob Bonta]] — California Attorney General; the state-AG enforcement track against [[Flock Safety]] ALPR data-sharing (El Cajon suit, Oct 2025 → Jan 2026 motion; 100+ out-of-state agencies); companion to the [[Gibbs Mura]] private class action; the state-law remedy vector against [[Vendor-State Governance]]
 - [[Ted Cruz]] — U.S. Senator (R-TX), Senate Commerce Chair; jawboning/CISA speech cluster (TERMS Act, forthcoming JAWBONE Act, March 2026 Section 230 hearing) — the legislative attempt to close the [[Murthy v. Missouri]] standing gap; also a named Iran Senate-hawk-bloc skeptic with [[Roger Wicker]] / [[Lindsey Graham]]
+- [[Lindsey Graham]] — U.S. Senator (R-SC); third member of the Iran Senate-hawk bloc ([[Roger Wicker]] / [[Ted Cruz]]) pushing renewed strikes ("I'm in the camp of bigger"); longtime [[EARN IT Act]] sponsor in the internet-bills cluster
 - [[Kash Patel]] — FBI Director (confirmed Feb 21 2025, 51-49); Minneapolis pressure visit during the [[Killing of Renée Good]] fallout; 2026 conduct controversies (Atlantic report → $250M defamation suit; FBI-jet personal use; staff purges) as an accountability-asymmetry case
 - [[Donald Trump]] — 47th US President; launched US-Iran war Feb 28 2026; tariff regime architect; aggressive Fed pressure campaign 2025; World Liberty Financial crypto conflict; May 22–24 2026 Iran deal endgame weekend ("largely negotiated" Saturday → Iranian Fars pushback Sunday → "time is on our side" Sunday walk-back); permanent IRS-tax-claim bar via Blanche-signed $1.8B-fund settlement
 - [[Roger Wicker]] — U.S. Senator (R-MS); Chairman, Senate Armed Services Committee; the named institutional anchor of the [[Coalition Fracture]] inside the GOP on the Iran framework; May 22 X-post "ill advised" framing; aligned with Cruz and Graham as the publicly-staged Senate-hawk-bloc dissent
@@ -1526,6 +1527,10 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 ### Organizations
 - [[ICE]] — U.S. Immigration and Customs Enforcement (DHS); enforcement arm behind [[Operation Metro Surge]] and the [[Killing of Renée Good]]; queries the [[Flock Safety Surveillance Network]] by proxy (sanctuary circumvention); the Fourth-Amendment node of [[Vendor-State Governance]] in practice
 - [[Nvidia]] — dominant AI-accelerator (GPU) designer; upstream demand node of the AI-buildout / [[AI DRAM Crisis]] / [[AI Buildout Grid Constraint]] cluster; ~$216B revenue; foreclosed from China's data-center market by FY2026; May 31 2026 Commerce export restrictions — export-control-as-[[Chokepoint Control]]
+- [[Google]] — Alphabet; AI/antitrust/buildout triple node: Sept 2025 Mehta search-monopoly remedy (data-sharing, no Chrome breakup), Gemini 750M+ MAU, ~$180B 2026 capex; the [[Jevons Paradox]] case in [[Cheaper AI Won't Use Less of Anything]]
+- [[AMD]] — #2 US AI-chip designer; Instinct MI400/MI450 (H2 2026); same dual constraint as [[Nvidia]] — China export controls (MI308 ban ~$1.5B) + HBM/DRAM ([[Samsung]] HBM4 MOU Mar 2026); confirms the chip chokepoint binds both designers
+- [[Oracle]] — Stargate financing partner + Project Jupiter anchor; deploys 450k+ GB200 GPUs at the 1.2 GW Abilene campus; OCI +77% to $18B FY2026; the demand-becomes-grid-load input to [[AI Buildout Grid Constraint]]
+- [[Project 2025]] — Heritage Foundation ~920-page blueprint for the 2nd Trump administration; ~53% (283/532) of its domestic agenda implemented by Feb 2026 — the quantitative handle on the authoritarian-playbook thesis; encloses [[KOSA]] / [[Bad Internet Bills Campaign]]
 - [[IRS]] — Internal Revenue Service; institutional center for the IRS-DHS data-sharing campaign (Feb 2026 court-admitted 42K-taxpayer erroneous disclosure to DHS) and the Trump-personal permanent-IRS-tax-claim bar via Blanche-signed settlement; Form 1040 citizenship-question deliberation
 - [[Department of Homeland Security]] — DHS; cabinet department for immigration enforcement, Secret Service, ICE, CISA; Markwayne Mullin Secretary; institutional partner in the IRS data-sharing campaign; houses the Secret Service that shot Nasire Best at WH complex May 23 2026
 - [[American Oversight]] — Nonpartisan transparency-and-ethics nonprofit; FOIA + litigation focus; lead plaintiff in DHS records-preservation lawsuit; secured Nov 5 court admission that DHS's "no longer maintained" claim about Noem texts was "erroneous"

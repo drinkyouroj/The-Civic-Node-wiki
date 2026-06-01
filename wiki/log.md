@@ -3340,3 +3340,22 @@ Acted on the deferred create-candidates, selecting one anchor per major cluster 
 **Sourcing note:** these entity pages blend web-researched current facts (cited inline by URL + a "Web Sources" section) with wiki-internal appearances (cited by `[[page]]`). They are NOT new `wiki/sources/` pages — a future ingest could promote the cited URLs (especially the Bonta El Cajon release and the Cruz JAWBONE Act release) to full source pages.
 
 **Still deferred:** companies [[Google]] 36× / [[AMD]] / [[Oracle]]; politicians [[Lindsey Graham]] / [[Ro Khanna]] / [[Project 2025]] — available on request.
+
+---
+
+## [2026-05-31] update | Built 5 more deferred entity pages (web-researched) — Google, AMD, Oracle, Lindsey Graham, Project 2025
+
+Second batch of deferred create-candidates; web-researched current 2026 facts for each. Held back [[Ro Khanna]] (same frequency but more peripheral to current clusters).
+
+**Created:**
+- [[Google]] — organization. Alphabet; antitrust/AI/buildout triple node — Sept 2025 Mehta search-monopoly remedy (data-sharing, no Chrome breakup), Gemini 750M+ MAU / Gemini 3, ~$180B 2026 capex, $400B+ revenue; the [[Jevons Paradox]] case in [[Cheaper AI Won't Use Less of Anything]]. Web: DOJ, Phemex, Brookings.
+- [[AMD]] — organization. #2 US AI-chip designer; MI400/MI450 + Helios (H2 2026); same dual constraint as [[Nvidia]] — China export controls (MI308 ban ~$1.5B / $800M one quarter) + HBM/DRAM ([[Samsung]] HBM4 MOU Mar 18 2026). Confirms the chip chokepoint binds both designers. Web: SEC 8-K, S&P Global, Data Center Dynamics.
+- [[Oracle]] — organization. Stargate financing partner + Project Jupiter anchor; 450k+ GB200 GPUs at the 1.2 GW Abilene campus (15-yr lease); OCI +77% to $18B FY2026 → $144B by 2030; ~$300B OpenAI compute backlog. Demand-becomes-grid-load input to [[AI Buildout Grid Constraint]]. Web: OpenAI, Data Center Frontier.
+- [[Lindsey Graham]] — person. R-SC; third member of the Iran Senate-hawk bloc ([[Roger Wicker]] / [[Ted Cruz]]) — "I'm in the camp of bigger," "unleashing holy hell"; "poison pill" MAGA-revolt framing; longtime [[EARN IT Act]] sponsor. Web: C-SPAN, Fox News, Raw Story, Salon.
+- [[Project 2025]] — organization (Heritage blueprint). ~920-page "Mandate for Leadership"; ~53% (283/532) of its domestic agenda implemented by Feb 2026 (CPR/Governing for Impact tracker); "Project 2026" successor. The quantitative handle on the authoritarian-playbook thesis. Web: Wikipedia, ACLU, CPR tracker, 19th News, Axios.
+
+**Updated:**
+- [[index.md]] — Google/AMD/Oracle/Project 2025 under Organizations, [[Lindsey Graham]] under People; counters total_entities 277→282, total_pages 1320→1325.
+- [[overview.md]] — extended the "Infrastructure control" pattern with the full chip-to-grid chain ([[Nvidia]]+[[AMD]]→memory→[[Oracle]] grid load→[[Google]] capex→[[AI Buildout Grid Constraint]]); added [[Project 2025]] to "State power without accountability" as the quantitative blueprint spine.
+
+**New follow-up flagged:** [[Stargate]] (the $500B / 10-GW OpenAI+SoftBank+Oracle program) and Project Jupiter are referenced across the AI-buildout cluster but have no page yet; [[Stargate]] is now linked from [[Oracle]] and is a strong next create-candidate. Also still deferred: [[Ro Khanna]]; and the [[12 Gigawatts Were Announced. 4 Are Being Built.]] trailing-period link mismatch remains a known lint item.
