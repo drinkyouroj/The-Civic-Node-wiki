@@ -3359,3 +3359,20 @@ Second batch of deferred create-candidates; web-researched current 2026 facts fo
 - [[overview.md]] — extended the "Infrastructure control" pattern with the full chip-to-grid chain ([[Nvidia]]+[[AMD]]→memory→[[Oracle]] grid load→[[Google]] capex→[[AI Buildout Grid Constraint]]); added [[Project 2025]] to "State power without accountability" as the quantitative blueprint spine.
 
 **New follow-up flagged:** [[Stargate]] (the $500B / 10-GW OpenAI+SoftBank+Oracle program) and Project Jupiter are referenced across the AI-buildout cluster but have no page yet; [[Stargate]] is now linked from [[Oracle]] and is a strong next create-candidate. Also still deferred: [[Ro Khanna]]; and the [[12 Gigawatts Were Announced. 4 Are Being Built.]] trailing-period link mismatch remains a known lint item.
+
+---
+
+## [2026-05-31] update | Built entity page — Stargate (web-researched; the apex AI-buildout JV)
+
+Built the [[Stargate]] page flagged above. Web-researched the program-level facts (JV structure, partners, funding, skepticism) that the [[Oracle]] page — one participant's view — didn't carry, and reconciled them with the wiki's existing internal narrative.
+
+**Created:**
+- [[Stargate]] — entity_type=organization. Stargate LLC (Delaware JV), announced Jan 21 2025 by [[Donald Trump]]; $500B / ~10 GW by 2029; equity funders [[OpenAI]] + [[SoftBank]] + [[Oracle]] + [[MGX]] (SoftBank financial / OpenAI operational lead; ~$19B each for ~40% each; Oracle+MGX ~$7B each; rest LP+debt); tech partners Arm/[[Microsoft]]/[[Nvidia]]/Oracle/OpenAI. Framed as the wiki's apex **"announced ≠ built"** case.
+
+**Reconciled web vs. internal narrative (the key move):** web reports the Abilene flagship operational/on-schedule; the wiki documents that the **800 MW expansion** collapsed March 6 2026 on Oracle-OpenAI financing and was handed to [[Microsoft]] ([[Crusoe Energy]] building on-site generation, Meta in talks). Both true at different altitudes — the page carries both, citing [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]] and [[12 Gigawatts Were Announced. 4 Are Being Built.]]. Added skepticism (Musk financing doubt; Bloomberg "no funds raised"; JV reportedly has no employees / built nothing itself; partner impasse) and OpenAI's 2026 retreat (Norway→Microsoft; spend target $1.4T→$600B).
+
+**Updated:**
+- [[index.md]] — [[Stargate]] under Organizations (after [[Oracle]]); counters total_entities 282→283, total_pages 1325→1326.
+- [[overview.md]] — added [[Stargate]] as the apex of the chip-to-grid chain in "Infrastructure control as the master variable" (the cleanest announced-≠-built case; scarce asset = the substation/interconnection slot).
+
+**Note:** linked the [[12 Gigawatts Were Announced. 4 Are Being Built.]] article by its TRUE basename (no trailing period) — the existing 8× dangling [[…Built.]] links add a spurious period; that near-miss remains a lint item. New danglers introduced (flagged as future create-candidates): [[SoftBank]] and [[MGX]] (both core Stargate equity funders, page-worthy).

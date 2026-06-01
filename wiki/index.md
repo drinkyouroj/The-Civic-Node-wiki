@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-05-31
-total_pages: 1325
+total_pages: 1326
 total_sources: 746
-total_entities: 282
+total_entities: 283
 total_concepts: 168
 total_syntheses: 27
 total_articles: 102
@@ -1530,6 +1530,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Google]] — Alphabet; AI/antitrust/buildout triple node: Sept 2025 Mehta search-monopoly remedy (data-sharing, no Chrome breakup), Gemini 750M+ MAU, ~$180B 2026 capex; the [[Jevons Paradox]] case in [[Cheaper AI Won't Use Less of Anything]]
 - [[AMD]] — #2 US AI-chip designer; Instinct MI400/MI450 (H2 2026); same dual constraint as [[Nvidia]] — China export controls (MI308 ban ~$1.5B) + HBM/DRAM ([[Samsung]] HBM4 MOU Mar 2026); confirms the chip chokepoint binds both designers
 - [[Oracle]] — Stargate financing partner + Project Jupiter anchor; deploys 450k+ GB200 GPUs at the 1.2 GW Abilene campus; OCI +77% to $18B FY2026; the demand-becomes-grid-load input to [[AI Buildout Grid Constraint]]
+- [[Stargate]] — the $500B / 10-GW AI-infrastructure JV ([[OpenAI]] + [[SoftBank]] + [[Oracle]] + [[MGX]], announced Jan 21 2025 by Trump); the wiki's apex "announced ≠ built" case — Abilene's 800 MW expansion collapsed Mar 6 2026 (→ [[Microsoft]] / [[Crusoe Energy]]), the JV has no employees, OpenAI cut its spend target $1.4T→$600B
 - [[Project 2025]] — Heritage Foundation ~920-page blueprint for the 2nd Trump administration; ~53% (283/532) of its domestic agenda implemented by Feb 2026 — the quantitative handle on the authoritarian-playbook thesis; encloses [[KOSA]] / [[Bad Internet Bills Campaign]]
 - [[IRS]] — Internal Revenue Service; institutional center for the IRS-DHS data-sharing campaign (Feb 2026 court-admitted 42K-taxpayer erroneous disclosure to DHS) and the Trump-personal permanent-IRS-tax-claim bar via Blanche-signed settlement; Form 1040 citizenship-question deliberation
 - [[Department of Homeland Security]] — DHS; cabinet department for immigration enforcement, Secret Service, ICE, CISA; Markwayne Mullin Secretary; institutional partner in the IRS data-sharing campaign; houses the Secret Service that shot Nasire Best at WH complex May 23 2026
