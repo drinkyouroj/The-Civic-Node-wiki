@@ -2,6 +2,10 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-06-02] query | Synthesis filed — "The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs" (seed for the June 5 flagship)
+
+Filed [[The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs]] as the seed synthesis for the June 5 flagship article-builder run (the flagship had no dedicated synthesis page — it was prepped as source ingestion). Welds the week's two layers into one argument: the **Samsung labor chokepoint** (10.5%-of-OP profit-share, the first permanent profit-indexed labor claim on an AI chokepoint) and the **transformer/GOES grid chokepoint** (four-year lead times, single-mill steel), with the load-bearing discipline being the **asymmetry** — same cause (the boom), opposite directions (labor captures upside; ratepayers/grid absorb cost), so no "same money" compression. Bounds the [[1951 Treasury-Fed Accord]] parallel to the thin-written-instrument-won-by-refusal axis (not "independence" — that's the June 19 piece). Folds in the GAP 4 resolution (profit-share incidence on shareholders/reinvestment; pass-through as named inference). Includes a Newsletter Application with a concrete opener→close structure. Follow-on artifact surfaced: an **"AI Aristocrats"** concept page (the intra-firm class divide, currently only a bullet in [[AI Windfall Sharing]]). **Counts:** syntheses 27→28; total_pages 1339→1340 (sources unchanged at 757). This synthesis seeds the `tcn-article-builder` workflow run started the same day.
+
 ## [2026-06-02] ingest | GAP 4 cost-incidence fill — chip-layer incidence of the AI labor windfall (2 sources)
 
 Independent follow-up (user asked me to find a source for GAP 4 — the hyperscaler chip-cost pass-through left open by the flagship-gap-fill pass). **Outcome: GAP 4 is refined, not naively filled.** A web sweep (Samsung post-ratification analyst coverage; SK Hynix cost-structure reporting; TSMC profit-share reaction; memory-pricing trackers) found **no source supporting a clean "labor cost → chip price → hyperscaler bill" pass-through** — because the deal is structurally a profit-*share*, not a per-unit cost. Two sources ingested that establish the honest framing:
@@ -3442,3 +3446,21 @@ Single-source ingest. The April 2026 JOLTS release was added to `raw/` by the us
 **Concept deferral:** "low-hire, low-fire labor market" is a genuine nameable dynamic but lives in the source page + BLS entity for now (anti-fragmentation); promote to `wiki/concepts/` if a second labor-data source lands (May JOLTS June 30, or the June 5 nonfarm payrolls).
 
 **Impact on today's social posts (the user's question):** NONE on the planned posts. The June 2 daily plan (`workspace/notes/2026-06-02-tuesday-options.md`) is anchored on the grid/transformer layer (Pillar 2) and correctly treated JOLTS as ambient feed context. JOLTS is a Pillar 1 (Monetary Mechanics) release and does not touch the transformer/Cleveland-Cliffs/aging-grid content. The actual print (openings beat + frozen churn) is better seeded into the June 15–19 FOMC/Accord week. Plan file's live_news + status block updated to reflect the actual numbers; one optional JOLTS-aware engagement comment added for a Fed/macro account if one posts on it.
+
+## [2026-06-02] ingest | SK Hynix Sept-2025 profit-share primary (the "previous fall" precedent)
+
+Single-source ingest, surfaced during the June 5 flagship's iteration-3 fact-check. The SK Hynix 10%-of-operating-profit precedent — the template the Samsung deal built on — had no dated primary in the wiki, only secondary references (Seoul Economic Daily, Tom's Hardware). The user scraped the Bloomberg original (archive.ph snapshot) to `raw/`; promoted to a full source page here. The flagship's "the previous fall" inline link was swapped from the hard-paywalled bloomberg.com URL to the archive.ph snapshot for reader access.
+
+**The deal (dated):** SK Hynix's union voted **Sept 4, 2025** to accept a landmark agreement routing **10% of annual operating profit** into a bonus pool for **33,625 employees** (~3.8T won / ~$2.7B; ~$80K/employee average for 2025; 80% paid early 2026, 20% over the next two years), plus a **6% wage increase**, on a **10-year** term, **abolishing the prior 1,000%-of-base-salary cap**. Bloomberg flagged it as a precedent that "could influence labor practices at other Korean companies, including rival Samsung" — five Samsung affiliate unions then petitioned Jay Y. Lee. This is the first instance of the [[AI Windfall Sharing]] profit-share structure at a memory chokepoint; Samsung's May 27 ratification is the second and larger.
+
+**Created:**
+- [[SK Hynix 2.7 Billion Bonus Deal Ratified — Bloomberg - 2025-09-04]] — source page (type=source; ingest_method=manual; archive.ph/mfxoX).
+
+**Updated:**
+- [[SK Hynix]] — dated-origin primary added to the AI-windfall-precedent fact + a Source Appearance row (recount hook owns the per-page sources count).
+- [[overview.md]] — new dated note at the top of the update stack; running total 757→758.
+- [[index.md]] — new 2026-06-02 ingest sub-section under Sources; counters total_pages 1340→1341, total_sources 757→758.
+
+**Housekeeping:** deleted the earlier paywalled bloomberg.com raw stub (superseded by the user's archive.ph scrape). The [[Cleveland-Cliffs]] Butler Works company page — now the article's link for the sole-US-GOES-mill claim — remains a `raw/` stub pending full ingestion.
+
+**Article context:** this ingest closed the last two sourcing items from the flagship's iteration-3 fact-check (08-fact-check-v3.md). Canonical draft advanced v5→v6 (reader-access link swap). The fact-check loop is clean; the piece is at the Step 10 final read-through.

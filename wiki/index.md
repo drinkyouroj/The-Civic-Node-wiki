@@ -2,11 +2,11 @@
 title: "Wiki Index"
 type: index
 updated: 2026-06-02
-total_pages: 1339
-total_sources: 757
+total_pages: 1341
+total_sources: 758
 total_entities: 285
 total_concepts: 168
-total_syntheses: 27
+total_syntheses: 28
 total_articles: 102
 ---
 
@@ -23,6 +23,14 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-02 ingest (flagship fact-reconcile — SK Hynix precedent primary) — the "previous fall" template, dated and sourced (1 source, 0 new entities, 0 new concepts)
+
+Surfaced during the June 5 flagship's fact-check loop: the SK Hynix 10%-of-operating-profit precedent (the template Samsung's deal built on) had no dated primary — only secondary references. The user scraped the Bloomberg original to `raw/`; ingested here. The article's "the previous fall" link was swapped from the paywalled bloomberg.com URL to the archive.ph snapshot for reader access.
+
+- [[SK Hynix 2.7 Billion Bonus Deal Ratified — Bloomberg - 2025-09-04]] — **Bloomberg primary** (Yoolim Lee): Sept-4-2025 union vote; 10% of annual operating profit → bonus pool for 33,625 employees; ~$2.7B / ~$80K-avg for 2025; 6% wage hike; 10-year term; abolished the 1,000%-of-base cap; flagged at the time as a precedent that would pressure [[Samsung]]
+
+**Updates:** [[SK Hynix]] (dated-origin primary added to the AI-windfall-precedent fact + a Source Appearance row), [[overview.md]] (running total 757→758). Superseded the earlier paywalled bloomberg.com raw stub (deleted). Note: the [[Cleveland-Cliffs]] Butler Works company page (now linked in the article for the sole-US-GOES-mill claim) remains a `raw/` stub pending full ingestion.
 
 ### 2026-06-02 ingest (later — GAP 4 cost-incidence fill) — chip-layer incidence of the AI labor windfall (2 sources, 0 new entities, 0 new concepts)
 
@@ -1989,6 +1997,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Chokepoint Control as Power's Architecture]] — Strait of Hormuz, GENIUS Act reserves, DEA quotas, App Store, Fed rate-setting as the same mechanism; DePIN as structural response
 - [[El Salvador Bitcoin — Policy Failure as Profit Model]] — 92% non-adoption, $333M government gain, IMF forced removal; failed as currency, succeeded as insider enrichment
 
+### AI Capex Distribution Analysis
+- [[The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs]] — Article-research synthesis for the June 5 flagship ("AI Windfall Sharing"). Welds the Samsung labor chokepoint (10.5%-of-OP profit-share, the first permanent profit-indexed labor claim on an AI chokepoint) to the transformer/GOES grid chokepoint (four-year lead times, single-mill steel), naming the **asymmetry** (labor captures upside; ratepayers/grid absorb cost — same cause, opposite directions). Bounds the 1951-Accord parallel to the thin-written-instrument-won-by-refusal axis, and resolves GAP 4 (the windfall is a profit-share whose incidence lands on shareholders/reinvestment; hyperscaler pass-through is a named inference, not a cost flow). Surfaces the "AI Aristocrats" follow-on concept.
+
 ### DRAM Crisis Analysis
 - [[The Perfect Storm — Why RAM Prices Won't Fall (2026)]] — Five-force synthesis: LOI→panic→binding deals, Jevons Paradox, helium/Hormuz, Samsung strike, data center cancellations; timeline to 2028 glut
 - [[Newsletter Draft — The IOU That Broke the Memory Market]] — Editorial brief for newsletter piece; structure, data points, quotes, tone notes
@@ -2009,7 +2020,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 | Published articles tracked | 102 (per frontmatter; breakdown pending lint re-verification) |
 | Entity pages | 285 |
 | Concept pages | 168 |
-| Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
+| Synthesis pages | 28 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series + 1 AI capex distribution) |
 | Last updated | 2026-06-02 |
 
 *(Stats table reconciled 2026-06-02 to match frontmatter — it had been lagging since the 2026-05-24 update: sources 741→757, entities 269→285, concepts 165→168. The 2026-05-21 and 2026-06-02 JOLTS + June-5-flagship ingests had rolled the frontmatter forward but not this table.)*
