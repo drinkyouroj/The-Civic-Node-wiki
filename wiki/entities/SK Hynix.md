@@ -5,7 +5,7 @@ entity_type: organization
 tags: [technology, infrastructure, supply-chain]
 created: 2026-04-11
 updated: 2026-06-02
-sources: 17
+sources: 18
 ---
 
 ## Overview
@@ -23,6 +23,7 @@ SK Hynix is a South Korean semiconductor company and one of the world's largest 
 - **Fab expansion plans**: Cheongju M15X fab completion end of 2025; Yongin Semiconductor Cluster Phase 1 May 2027 [[OpenAI Stargate 900K DRAM Wafers — TrendForce]]
 - Q4 2025 DRAM contract price outlook: +45-50% QoQ (conventional); +50-55% QoQ total (including HBM) [[TrendForce DRAM Market Share Q3 2025]]
 - **AI-windfall labor precedent (the model Samsung's deal built on)**: under union pressure, SK Hynix abolished its performance-bonus caps and allocated **10% of operating profit** to employee bonuses — the precedent Samsung workers cited in 2026. Reported per-worker figures: ~$460K–$477K in 2026, with a next-year projection near ~$900K. This makes SK Hynix the **first** instance of the [[AI Windfall Sharing]] profit-share structure at a memory chokepoint; Samsung's May 27 ratification is the second and larger one. [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]] [[Samsung Chip Workers Accept $340K Average Bonus — Tom's Hardware - 2026-05-27]]
+- **Reward burden vs. reinvestment (the cost-incidence data point)**: combined 2026 shareholder returns + employee bonuses ≈**100 trillion won** — up ~**+450% YoY** (shareholder returns 45–90T won, up to 7× last year; employee bonuses ~23T won at 10% of OP, ~5× last year) — while CAPEX + R&D grows only **+20–30%** (36.6T → ~50T won). Industry observers warn the reward pace "far exceeds the growth in CAPEX and R&D, which are directly tied to future competitiveness," and question large bonus payouts during the pursuit of a U.S. ADR listing. This is the chip-layer [[AI Cost Incidence]] evidence: the windfall is a profit-share absorbed by shareholders/reinvestment headroom, not (mechanically) passed to memory buyers. [[SK Hynix 100 Trillion Won Reward Burden — Seoul Economic Daily - 2026-05-05]]
 
 ## Newsletter Relevance
 
@@ -50,6 +51,7 @@ Same exposure as [[Samsung]] to helium supply disruption. SK Hynix's HBM market 
 - [[Samsung SK Hynix Surge 10 Percent as Tech Rebounds — Investing.com]] — rallied 9.5% on Apr 1, 2026, rebounding from 20%+ March losses driven by TurboQuant panic
 - [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]] — SK Hynix's 10%-of-OP, bonus-cap-abolition precedent named as the model Samsung workers cited
 - [[Samsung Chip Workers Accept $340K Average Bonus — Tom's Hardware - 2026-05-27]] — SK Hynix precedent referenced in the context of the Samsung ratification
+- [[SK Hynix 100 Trillion Won Reward Burden — Seoul Economic Daily - 2026-05-05]] — ~100T won shareholder+employee rewards (+450%) vs. CAPEX/R&D (+20–30%); competitiveness crowd-out
 
 ## Open Questions
 

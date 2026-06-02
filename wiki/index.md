@@ -2,8 +2,8 @@
 title: "Wiki Index"
 type: index
 updated: 2026-06-02
-total_pages: 1337
-total_sources: 755
+total_pages: 1339
+total_sources: 757
 total_entities: 285
 total_concepts: 168
 total_syntheses: 27
@@ -23,6 +23,15 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-02 ingest (later — GAP 4 cost-incidence fill) — chip-layer incidence of the AI labor windfall (2 sources, 0 new entities, 0 new concepts)
+
+Independent search to fill **GAP 4** (the hyperscaler chip-cost pass-through left open by the flagship-gap-fill pass below). Outcome: the gap is **refined, not just filled** — the clean "labor cost → chip price → hyperscaler bill" pass-through is **not supported**, because the bonus is a profit-*share* (10.5% of realized OP), "a distribution of earnings, not an upfront cost burden." Incidence falls on shareholders and reinvestment headroom; pass-through would be a strategic use of chokepoint pricing power, not an automatic cost flow.
+
+- [[SK Hynix 100 Trillion Won Reward Burden — Seoul Economic Daily - 2026-05-05]] — chip-layer [[AI Cost Incidence]]: combined shareholder+employee rewards ~100T won (+450% YoY) vs. CAPEX/R&D (+20–30%); competitiveness crowd-out
+- [[Samsung Strike Risk Gone Now the Real Test Is HBM — Investing.com - 2026-05-27]] — the profit-contingent-distribution (not per-unit-cost) structural correction; contributor analysis (flagged), sound on the structural point
+
+**Updates:** [[AI Cost Incidence]] (new chip-layer-incidence evidence + the pass-through-is-a-choice tension), [[SK Hynix]] (reward-burden vs. reinvestment data), [[Samsung]] (GAP 4 open question refined — pass-through named as a strategic choice, not a mechanism; JPMorgan analyst attributed as Jay Kwon). **GAP 4 status:** resolved into honest, sourced framing; no clean pass-through source exists because the deal is structurally a profit-share.
 
 ### 2026-06-02 ingest (June 5 flagship gap-fill) — Samsung ratification + transformer/GOES grid layer + 1951 Accord anchor (8 sources, 1 new entity, 0 new concepts)
 
@@ -1996,14 +2005,14 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 755 |
+| Total sources ingested | 757 |
 | Published articles tracked | 102 (per frontmatter; breakdown pending lint re-verification) |
 | Entity pages | 285 |
 | Concept pages | 168 |
 | Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
 | Last updated | 2026-06-02 |
 
-*(Stats table reconciled 2026-06-02 to match frontmatter — it had been lagging since the 2026-05-24 update: sources 741→755, entities 269→285, concepts 165→168. The 2026-05-21 and 2026-06-02 JOLTS + June-5-flagship ingests had rolled the frontmatter forward but not this table.)*
+*(Stats table reconciled 2026-06-02 to match frontmatter — it had been lagging since the 2026-05-24 update: sources 741→757, entities 269→285, concepts 165→168. The 2026-05-21 and 2026-06-02 JOLTS + June-5-flagship ingests had rolled the frontmatter forward but not this table.)*
 
 ### 2026-05-24 New Pages (lint + ingest)
 

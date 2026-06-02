@@ -3,8 +3,8 @@ title: "AI Cost Incidence"
 type: concept
 tags: [infrastructure, power, ai, politics, monetary-policy]
 created: 2026-05-18
-updated: 2026-05-18
-sources: 8
+updated: 2026-06-02
+sources: 10
 ---
 
 ## Definition
@@ -23,6 +23,7 @@ Incidence is the structural complement to the [[AI Windfall Sharing]] concept. W
 - New York: 1.6 GW grid shortage projected by 2030, largely due to data centers [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]]
 - Bipartisan affordability framing (Sanders and DeSantis) signals that the incidence question crosses partisan lines [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]]
 - Rob Gramlich (Grid Strategies) prediction: 2026 elections will amplify affordability messaging [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]]
+- **Chip-layer incidence — where the labor windfall actually lands (NOT on customers).** The Samsung/[[SK Hynix]] profit-share deals are structured as a percentage *of* operating profit (10.5% / 10%), paid partly in stock and contingent on hitting OP targets — "a distribution of earnings, not an upfront cost burden" [[Samsung Strike Risk Gone Now the Real Test Is HBM — Investing.com - 2026-05-27]]. Because it is a profit-share, not a per-unit cost, it does **not** mechanically inflate marginal cost or flow through to chip prices. Its incidence falls on **shareholders and reinvestment headroom**: SK Hynix's combined shareholder + employee rewards rose ~**+450% YoY to ~100T won** in 2026 while CAPEX + R&D grew only +20–30% — the rewards crowd out the spending "directly tied to future competitiveness" [[SK Hynix 100 Trillion Won Reward Burden — Seoul Economic Daily - 2026-05-05]]. The margin-compression estimate: JPMorgan's Jay Kwon put full union demands at a **7–12% downside to Samsung's 2026 OP** [[Samsung HBM Strike Could Wrench AI Boom — Fortune - 2026-05-17]].
 
 ## Tensions & counterarguments
 
@@ -31,6 +32,7 @@ Incidence is the structural complement to the [[AI Windfall Sharing]] concept. W
 - The IMM's preferred remedy (BYONG — "Bring Your Own New Generation") explicitly addresses incidence: data centers must bring their own generation OR commit to curtailability prior to current demand-side customers. The IMM frames any backstop-auction alternative as risk-shifting from data centers onto residential / commercial / industrial ratepayers. [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]]
 - A second counter: hyperscaler corporate taxes paid to the same states partly offset the ratepayer transfer. Empirical question of whether the offset is meaningful at the household level (vs. flowing to state general funds). This is an open research question for the wiki.
 - Off-grid hyperscaler campuses (see [[Speed to Power]] and Oracle Project Jupiter) bypass the ratepayer-incidence mechanism entirely but raise different incidence questions (local water, air quality, local permitting subsidies).
+- **The chip-cost pass-through is a strategic choice, not an accounting flow.** It is tempting to argue the Samsung labor claim is "passed through" to hyperscalers in memory prices — but because the bonus is profit-contingent, nothing forces that. Samsung *could* use its chokepoint pricing power (70% DRAM, HBM sold out) to rebuild the shared margin, and memory contract prices are rising sharply in 2026 (HBM3E +~20%; conventional DRAM +58–63% QoQ) — but those increases are demand-driven (Nvidia/ASIC), not attributable to the labor deal. So any claim that hyperscalers "pay for" the worker bonuses is the writer's inference about pricing-power behavior, and must be named as such — not asserted as a cost flow. This is the chip-layer analog of the electricity-side timing asymmetry above.
 
 ## Related concepts
 
@@ -44,3 +46,5 @@ Incidence is the structural complement to the [[AI Windfall Sharing]] concept. W
 - [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]] — primary source for all $13.77B / $23.10B / $26.85B figures
 - [[AI Data Center Demand 76 Percent Surge East Coast Grid — SOFX - 2026-05-15]]
 - [[US Electric Grid Heading Toward Crisis Data Centers — Common Dreams - 2026-01-02]]
+- [[SK Hynix 100 Trillion Won Reward Burden — Seoul Economic Daily - 2026-05-05]] — chip-layer incidence: rewards (+450%) crowding out CAPEX/R&D (+20–30%)
+- [[Samsung Strike Risk Gone Now the Real Test Is HBM — Investing.com - 2026-05-27]] — the profit-contingent-distribution (not per-unit-cost) structural point

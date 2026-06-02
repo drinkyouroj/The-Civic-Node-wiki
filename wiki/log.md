@@ -2,6 +2,21 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-06-02] ingest | GAP 4 cost-incidence fill — chip-layer incidence of the AI labor windfall (2 sources)
+
+Independent follow-up (user asked me to find a source for GAP 4 — the hyperscaler chip-cost pass-through left open by the flagship-gap-fill pass). **Outcome: GAP 4 is refined, not naively filled.** A web sweep (Samsung post-ratification analyst coverage; SK Hynix cost-structure reporting; TSMC profit-share reaction; memory-pricing trackers) found **no source supporting a clean "labor cost → chip price → hyperscaler bill" pass-through** — because the deal is structurally a profit-*share*, not a per-unit cost. Two sources ingested that establish the honest framing:
+
+**New sources (2):**
+- [[SK Hynix 100 Trillion Won Reward Burden — Seoul Economic Daily - 2026-05-05]] (Kim Yoon-soo) — the chip-layer [[AI Cost Incidence]] evidence: SK Hynix's combined 2026 shareholder + employee rewards ≈100T won (+~450% YoY) vs. CAPEX + R&D +20–30%; observers warn rewards crowd out the spending "directly tied to future competitiveness"; U.S. ADR-listing tension. Incidence lands on **shareholders + reinvestment**, not customers.
+- [[Samsung Strike Risk Gone Now the Real Test Is HBM — Investing.com - 2026-05-27]] (Khasay Hashimov; contributor analysis, credibility caveat flagged) — the structural correction: the 10.5%-of-OP bonus is "a distribution of earnings, not an upfront cost burden," profit-contingent and stock-deferred, so it does not mechanically inflate per-unit cost or flow through to memory prices; DS ran a 66% operating margin in Q1; earnings attributed to AI demand, not labor.
+
+**Pages updated (3):**
+- [[AI Cost Incidence]] (updated 2026-05-18→2026-06-02) — new "chip-layer incidence" evidence bullet (profit-share lands on shareholders/reinvestment; JPMorgan **Jay Kwon** 7–12% OP-downside attributed) + a tension bullet establishing that chip-cost pass-through is a *strategic choice* (use chokepoint pricing power to rebuild margin), not an accounting flow; 2 new key sources.
+- [[SK Hynix]] (updated 2026-06-02) — reward-burden-vs-reinvestment Key Fact + source appearance.
+- [[Samsung]] (updated 2026-06-02) — the GAP 4 open question refined: pass-through to hyperscalers named as a strategic choice, not a mechanism; JPMorgan analyst attributed (Jay Kwon).
+
+**GAP 4 status:** RESOLVED into honest, sourced framing. The flagship can now state plainly that the labor windfall's incidence falls on shareholders/reinvestment, and that any hyperscaler pass-through is Samsung *choosing* to use its chokepoint pricing power — named as inference, not asserted as a cost flow. (Aligns with the CLAUDE.md cross-domain/false-symmetry voice rule.) **Counts:** sources 755→757; total_pages 1337→1339; index frontmatter + Stats table agree at 757/285/168.
+
 ## [2026-06-02] ingest | June 5 flagship gap-fill — Samsung ratification (6) + transformer/GOES grid layer (2) + 1951 Accord anchor (1); new entity Cleveland-Cliffs
 
 Source-gap fill ahead of the **June 5 flagship "AI Windfall Sharing — Samsung's $370K Deal and the Labor Layer of the AI Capex Story"** (Issue #6). The pre-write audit found the flagship's title fact unsourced: the Samsung deal existed only as a *tentative*-deal note on [[Samsung]] (the superseded "12% pool" estimate), with no source page for the May 27 ratification — the standing gap flagged since the 2026-05-21 log entry. This pass ingests the ratification + its framing layers, the two June-2-daily-plan grid claims not yet in the wiki, and a citable anchor for the [[1951 Treasury-Fed Accord]] (Key Sources had been empty).
