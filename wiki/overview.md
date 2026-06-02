@@ -3,8 +3,8 @@ title: "Overview"
 type: overview
 tags: [politics, power, monetary-policy, geopolitics, crypto, technology, ai, sports, mental-health, accountability, lgbtq, censorship, surveillance, dedollarization, depin]
 created: 2026-04-06
-updated: 2026-05-31
-sources: 746
+updated: 2026-06-02
+sources: 747
 ---
 
 # Research Overview
@@ -13,6 +13,8 @@ sources: 746
 > Subscribe at [drinkyouroj.substack.com](https://drinkyouroj.substack.com) →
 
 *High-level synthesis updated after each significant ingest. Reflects the current state of the wiki's raw sources.*
+
+**Update 2026-06-02 (JOLTS April — labor-market input to the June 19 Accord thread)**: One BLS primary release ingested — [[JOLTS April 2026 — BLS Release - 2026-06-02]] — plus a new [[Bureau of Labor Statistics]] entity page (the wiki's first BLS aggregator, covering JOLTS, CPI, and the monthly jobs report). April job openings jumped to 7.6 million (+731,000, 4.6% rate), well above the ~6.95M consensus and the upwardly-revised 6.9M March level — but hires fell to 5.1 million (−419,000) and quits held flat at a low 1.9% rate. The picture is a **"low-hire, low-fire" labor market**: postings rise while worker movement freezes. The read matters for the [[Federal Reserve]] thread heading into Kevin Warsh's first FOMC (June 16–17) and the June 19 flagship "The Accord That Wasn't Signed" — labor demand strong enough that the employment half of the dual mandate does not force the Fed's hand, which keeps the balance-sheet / Treasury-coordination question the Accord piece argues is the real 2026 decision at center stage. This is a **Pillar 1 (Monetary Mechanics)** data point; it does not bear on the Pillar 2 grid/transformer coverage running this week (the June 2 daily plan correctly treated JOLTS as ambient feed context with the transformer layer as the anchor).
 
 The wiki has grown from 31 source documents to **746** across over a dozen major thematic clusters.
 

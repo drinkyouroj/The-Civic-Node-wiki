@@ -4,7 +4,7 @@ type: entity
 entity_type: organization
 tags: [monetary-policy, politics, power]
 created: 2026-04-07
-updated: 2026-05-12
+updated: 2026-06-02
 sources: 26
 ---
 
@@ -27,6 +27,7 @@ The Federal Reserve (the Fed) is the central bank of the United States, created 
 - June 2025: unanimous 12-0 hold; statement noted "swings in net exports" — code for tariff front-running distorting GDP [[Federal Reserve issues FOMC statement June 18 2025]]
 - October 2025 shutdown: BLS furloughed, denying Fed September jobs data and potentially October CPI ahead of its rate decision [[Government shutdown could delay economic reports NPR October 2025]]
 - By March 2026: rate settled at 3.5%–3.75% after 75 bps of cuts; dot plot revised to show fewer 2026 cuts; core PCE projected at 2.7% in 2026 [[US Fed Funds Rate CME FedWatch April 2026]]
+- Labor-market input ahead of Warsh's first FOMC (June 16–17): JOLTS April 2026 (released June 2) showed job openings jumping to 7.6 million (+731,000) but hires falling to 5.1 million and quits flat at a low 1.9% rate — a "low-hire, low-fire" read that keeps the employment half of the mandate from forcing the Fed's hand [[JOLTS April 2026 — BLS Release - 2026-06-02]] [[Bureau of Labor Statistics]]
 
 ## Newsletter Relevance
 

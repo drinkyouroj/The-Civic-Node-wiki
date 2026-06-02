@@ -1,10 +1,10 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-05-31
-total_pages: 1326
-total_sources: 746
-total_entities: 283
+updated: 2026-06-02
+total_pages: 1328
+total_sources: 747
+total_entities: 284
 total_concepts: 168
 total_syntheses: 27
 total_articles: 102
@@ -23,6 +23,12 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-02 ingest (single-source, BLS primary release) — JOLTS April 2026 + new Bureau of Labor Statistics entity (1 source, 1 new entity, 0 new concepts)
+
+The April 2026 JOLTS release was added to `raw/` by the user (released by BLS at 10am ET, June 2). This pass promotes it to a full source page and creates the wiki's first [[Bureau of Labor Statistics]] entity (the aggregator for JOLTS, CPI, and the monthly jobs report — recurring Monetary Mechanics primary documents that previously had no home page). Headline: job openings jumped to 7.6M (+731,000) but hires fell to 5.1M and quits held flat at 1.9% — a "low-hire, low-fire" read. Filed as a Pillar 1 input to the June 16–17 FOMC / June 19 Accord thread; [[Federal Reserve]] updated with the data point. Confirmed it does **not** affect the June 2 daily plan's grid/transformer (Pillar 2) posts, which correctly treated JOLTS as ambient feed context.
+
+- [[JOLTS April 2026 — BLS Release - 2026-06-02]] — April job openings 7.6M (+731k, 4.6%); hires 5.1M (−419k); quits 3.0M (1.9%, flat); layoffs 1.7M (1.1%); March openings revised to 6.9M; next release June 30
 
 ### 2026-05-24 ingest (single-source, primary text) — Oregon SB 1516 enrolled bill text + new entity page (1 source, 1 new entity, 0 new concepts)
 
@@ -1538,6 +1544,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Cigna]] — major health insurer; PxDx algorithmic denial system; 300K claims denied at 1.2 sec each; potential state insurance law violations
 - [[Wisconsin Supreme Court]] — Liberal majority expanded to 5-2 after Chris Taylor's Apr 7 2026 win; differential-engagement bellwether
 - [[Federal Reserve]] — US central bank; under intense political pressure 2025; dual mandate; board composition shifting via Trump appointments
+- [[Bureau of Labor Statistics]] — BLS; publisher of JOLTS, CPI, and the monthly jobs report; the primary-document source under the Fed's dual mandate; first BLS entity page (JOLTS April 2026 ingest)
 - [[FOMC]] — Federal Open Market Committee; the Fed's rate-setting body; site of Miran dissent and dual governor revolt
 - [[Iran Revolutionary Guards Corps]] — Iran's elite paramilitary; conducting Gulf energy infrastructure strikes
 - [[Anthropic]] — AI company; refused DoD military AI demands; blacklisted; being recruited by UK

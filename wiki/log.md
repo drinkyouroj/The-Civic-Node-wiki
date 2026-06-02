@@ -3376,3 +3376,22 @@ Built the [[Stargate]] page flagged above. Web-researched the program-level fact
 - [[overview.md]] — added [[Stargate]] as the apex of the chip-to-grid chain in "Infrastructure control as the master variable" (the cleanest announced-≠-built case; scarce asset = the substation/interconnection slot).
 
 **Note:** linked the [[12 Gigawatts Were Announced. 4 Are Being Built.]] article by its TRUE basename (no trailing period) — the existing 8× dangling [[…Built.]] links add a spurious period; that near-miss remains a lint item. New danglers introduced (flagged as future create-candidates): [[SoftBank]] and [[MGX]] (both core Stargate equity funders, page-worthy).
+
+## [2026-06-02] ingest | JOLTS April 2026 (BLS) + new Bureau of Labor Statistics entity
+
+Single-source ingest. The April 2026 JOLTS release was added to `raw/` by the user (BLS, released 10am ET June 2, 2026; April reference month). Promoted to a full source page and created the wiki's first [[Bureau of Labor Statistics]] entity — the aggregator for JOLTS, CPI, and the monthly Employment Situation report, which previously had no home page despite prior BLS-data ingests. (This fulfills the BLS "promotion candidate" flagged in the 2026-05-12 ingest's leftovers.)
+
+**Headline (April 2026, seasonally adjusted):** job openings 7.6M (+731,000 over the month, 4.6% rate, +520k y/y) — well above the ~6.95M consensus and the upwardly-revised 6.9M March level. But hires fell to 5.1M (−419k), total separations fell to 5.0M (−399k), quits held flat at 3.0M (1.9% rate), and layoffs were flat at 1.7M (1.1%). The openings increase concentrated in professional & business services (+668k); finance & insurance fell (−135k). A **"low-hire, low-fire"** read: postings rise, churn frozen. Next release (May data): June 30, 2026.
+
+**Created:**
+- [[JOLTS April 2026 — BLS Release - 2026-06-02]] — source page (type=source).
+- [[Bureau of Labor Statistics]] — entity (entity_type=organization); aggregator for JOLTS/CPI/jobs report under the Monetary Mechanics pillar.
+
+**Updated:**
+- [[Federal Reserve]] — added the JOLTS April data point as a labor-market (dual-mandate) input ahead of Warsh's first FOMC (June 16–17); updated date (recount hook owns the per-page sources count).
+- [[overview.md]] — added a dated 2026-06-02 note on the Pillar 1 (Monetary Mechanics) thread; bumped running total 746→747.
+- [[index.md]] — new 2026-06-02 ingest section under Sources; [[Bureau of Labor Statistics]] added under Organizations (after [[Federal Reserve]]); counters total_pages 1326→1328, total_sources 746→747, total_entities 283→284.
+
+**Concept deferral:** "low-hire, low-fire labor market" is a genuine nameable dynamic but lives in the source page + BLS entity for now (anti-fragmentation); promote to `wiki/concepts/` if a second labor-data source lands (May JOLTS June 30, or the June 5 nonfarm payrolls).
+
+**Impact on today's social posts (the user's question):** NONE on the planned posts. The June 2 daily plan (`workspace/notes/2026-06-02-tuesday-options.md`) is anchored on the grid/transformer layer (Pillar 2) and correctly treated JOLTS as ambient feed context. JOLTS is a Pillar 1 (Monetary Mechanics) release and does not touch the transformer/Cleveland-Cliffs/aging-grid content. The actual print (openings beat + frozen churn) is better seeded into the June 15–19 FOMC/Accord week. Plan file's live_news + status block updated to reflect the actual numbers; one optional JOLTS-aware engagement comment added for a Fed/macro account if one posts on it.
