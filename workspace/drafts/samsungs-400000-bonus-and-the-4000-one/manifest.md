@@ -2,9 +2,9 @@
 
 **Synthesis source:** wiki/syntheses/The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs.md
 **Slug:** samsungs-400000-bonus-and-the-4000-one
-**Status:** in-progress
+**Status:** ready-to-publish
 **Last touched:** 2026-06-02 ET
-**Current step:** 10 of 10 (final read-through) — canonical draft = 05-draft-v6.md
+**Current step:** COMPLETE (10 of 10) — final draft = 05-draft-v6.md; approved at final read-through 2026-06-02
 **Publish target:** Friday, 2026-06-05 (6–7 PM ET)
 **Branch:** article/issue6-ai-windfall-sharing
 
@@ -22,7 +22,7 @@
 - [x] 7. tcn-text-humanizer → 05-draft-v3.md (approved 2026-06-02; one contraction fix, near-clean pass)
 - [x] 8. tcn-fact-check → 08-fact-check-v1.md (2 flagged) + v2 (clean) + v3 (iteration-3 deep re-run, user-requested: 1 precision flag + 2 sourcing upgrades) + v4 (clean exit on v5)
 - [x] 9. tcn-fact-reconcile → 05-draft-v4.md (2 fixes + Bloomberg→archive swap) → 05-draft-v5.md (3 iteration-3 fixes: 755% attribution + 2 sourcing upgrades) → 05-draft-v6.md (reader-access swap: SK Hynix "previous fall" link → archive.ph/mfxoX after user scraped the Bloomberg primary; that primary ingested to wiki)
-- [ ] 10. final read-through → manifest ready-to-publish (pending on 05-draft-v6.md)
+- [x] 10. final read-through → approved 2026-06-02; status set to ready-to-publish. Final draft = 05-draft-v6.md. Publish Friday 2026-06-05, 6–7 PM ET.
 
 ## Fact-check loop history (filled in during steps 8–9)
 
