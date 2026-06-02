@@ -3,8 +3,8 @@ title: "AI Buildout Grid Constraint"
 type: concept
 tags: [power, infrastructure, ai-buildout, grid, capex]
 created: 2026-05-07
-updated: 2026-05-18
-sources: 23
+updated: 2026-06-02
+sources: 25
 ---
 
 ## Definition
@@ -23,7 +23,8 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 
 - **Capacity delivery gap.** Of 12 GW of US data center capacity planned for 2026, only 4 GW is under construction (~33%); 2027 trajectory worsens (6.3 GW under construction vs. 21.5 GW announced); 2028-2032 has 4.5 GW broken ground vs. 37 GW planned. [[Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed — Futurism - 2026-04-02]]
 - **Component bottleneck.** Batteries, transformers, circuit breakers — sourced from Canada, Mexico, South Korea, China — represent <10% of construction cost but 100% of project gating. [[Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed — Futurism - 2026-04-02]]
-- **Transformer lead times.** Large power transformers averaging 128 weeks (Q2 2025); generator step-up units at 144 weeks; substation transformers stretched from 140 weeks (2023) to 160+ weeks (2026). [[Transformers in 2026 — POWER Magazine - 2026-01-02]]
+- **Transformer lead times.** Large power transformers averaging 128 weeks (Q2 2025); generator step-up units at 144 weeks; substation transformers stretched from 140 weeks (2023) to 160+ weeks (2026). [[Transformers in 2026 — POWER Magazine - 2026-01-02]] **Updated (May 2026):** PwC analysts now put lead times for high-capacity units at **as long as four years** — transformer availability is "dictating power project schedules across the country." [[US Transformer Lead Times Extend to Four Years — pv magazine USA - 2026-05-11]]
+- **The chokepoint inside the chokepoint — grain-oriented electrical steel (GOES).** The transformer core's specialized silicon steel is produced *domestically* by exactly one company — [[Cleveland-Cliffs]], at its Butler, PA mill. Constrained domestic GOES (plus copper) is named by pv magazine as a binding raw-material driver of the four-year lead times, which keeps U.S. transformer makers import-dependent. Cliffs is vertically integrating (a $150M Weirton, WV transformer plant, online H1 2026). CEO Goncalves: "there will be no AI without electricity, and there will be no electricity without transformers." *(Precision: sole **U.S.** producer, not sole global producer.)* [[Cleveland-Cliffs Weirton Transformer Plant — Utility Dive - 2024-08-06]] [[US Transformer Lead Times Extend to Four Years — pv magazine USA - 2026-05-11]]
 - **Interconnection queue depth.** ~2,300-2,600 GW total in US queues (vs. ~1,279 GW installed capacity); ~11,600 active projects; only 20% of 2000-2018 requests operational by end of 2023; 70% withdrawal rate. [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]]
 - **Specific regional delays.** Northern Virginia 7-year interconnection delays; California 9+ years. [[Google Intersect Power Acquisition — Introl - 2026-01-20]]
 - **Cancellation case study.** Stargate Abilene 1.2GW→2.0GW expansion killed (Mar 6, 2026). The financing/demand reading is insufficient — Microsoft inherited the site, Crusoe building on-site power plant. The inheritance is the tell. [[Stargate Data Center Expansion Cancelled — Oracle and OpenAI]]
@@ -61,6 +62,8 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 
 - [[Almost Half of US Data Centers That Were Supposed to Open This Year Slated to Be Canceled or Delayed — Futurism - 2026-04-02]]
 - [[Transformers in 2026 — POWER Magazine - 2026-01-02]]
+- [[US Transformer Lead Times Extend to Four Years — pv magazine USA - 2026-05-11]]
+- [[Cleveland-Cliffs Weirton Transformer Plant — Utility Dive - 2024-08-06]]
 - [[US Interconnection Queue Twice Installed Capacity — Latitude Media - 2024-04-11]]
 - [[Microsoft Electricity Cost Recovery Commitment — POWER Magazine - 2026-01-22]]
 - [[Google Intersect Power Acquisition — Introl - 2026-01-20]]

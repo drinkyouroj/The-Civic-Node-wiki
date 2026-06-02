@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, infrastructure, supply-chain]
 created: 2026-04-11
-updated: 2026-04-12
-sources: 15
+updated: 2026-06-02
+sources: 17
 ---
 
 ## Overview
@@ -22,6 +22,7 @@ SK Hynix is a South Korean semiconductor company and one of the world's largest 
 - Signed non-binding LOI with [[OpenAI]] (Oct 1, 2025) for massive DRAM wafer supply — simultaneously with [[Samsung]], neither knowing about the other's deal. Combined LOIs: ~900K wafers/month, ~40% of global output, $71.3B over 4 years (analyst estimate) [[OpenAI Stargate 900K DRAM Wafers — TrendForce]] [[OpenAI Orders 71B in Korean Memory Chips — Light Reading]]
 - **Fab expansion plans**: Cheongju M15X fab completion end of 2025; Yongin Semiconductor Cluster Phase 1 May 2027 [[OpenAI Stargate 900K DRAM Wafers — TrendForce]]
 - Q4 2025 DRAM contract price outlook: +45-50% QoQ (conventional); +50-55% QoQ total (including HBM) [[TrendForce DRAM Market Share Q3 2025]]
+- **AI-windfall labor precedent (the model Samsung's deal built on)**: under union pressure, SK Hynix abolished its performance-bonus caps and allocated **10% of operating profit** to employee bonuses — the precedent Samsung workers cited in 2026. Reported per-worker figures: ~$460K–$477K in 2026, with a next-year projection near ~$900K. This makes SK Hynix the **first** instance of the [[AI Windfall Sharing]] profit-share structure at a memory chokepoint; Samsung's May 27 ratification is the second and larger one. [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]] [[Samsung Chip Workers Accept $340K Average Bonus — Tom's Hardware - 2026-05-27]]
 
 ## Newsletter Relevance
 
@@ -47,6 +48,8 @@ Same exposure as [[Samsung]] to helium supply disruption. SK Hynix's HBM market 
 - [[The Letter That Moved a Market — Medium]] — LOI mechanism and price cascade
 - [[IDC Global Memory Shortage Crisis Market Analysis 2026]] — named as one of the three oligopoly members deliberately shifting capacity from consumer to AI
 - [[Samsung SK Hynix Surge 10 Percent as Tech Rebounds — Investing.com]] — rallied 9.5% on Apr 1, 2026, rebounding from 20%+ March losses driven by TurboQuant panic
+- [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]] — SK Hynix's 10%-of-OP, bonus-cap-abolition precedent named as the model Samsung workers cited
+- [[Samsung Chip Workers Accept $340K Average Bonus — Tom's Hardware - 2026-05-27]] — SK Hynix precedent referenced in the context of the Samsung ratification
 
 ## Open Questions
 

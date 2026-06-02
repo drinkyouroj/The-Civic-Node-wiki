@@ -2,9 +2,9 @@
 title: "Wiki Index"
 type: index
 updated: 2026-06-02
-total_pages: 1328
-total_sources: 747
-total_entities: 284
+total_pages: 1337
+total_sources: 755
+total_entities: 285
 total_concepts: 168
 total_syntheses: 27
 total_articles: 102
@@ -23,6 +23,29 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-02 ingest (June 5 flagship gap-fill) — Samsung ratification + transformer/GOES grid layer + 1951 Accord anchor (8 sources, 1 new entity, 0 new concepts)
+
+Source-gap fill ahead of the **June 5 flagship "AI Windfall Sharing — Samsung's $370K Deal and the Labor Layer of the AI Capex Story."** Closes the standing gap flagged since 2026-05-21: the Samsung deal that the flagship is named after existed only as a *tentative*-deal note on the [[Samsung]] entity (the "12% pool" estimate) with **no source page for the May 27 ratification**. This pass ingests the ratification and its framing layers, plus the two grid-layer claims the June 2 daily plan used that were not yet in the wiki (four-year transformer lead times; the Cleveland-Cliffs single-source GOES chokepoint), plus a citable secondary anchor for the [[1951 Treasury-Fed Accord]] (whose Key Sources were previously empty).
+
+**Samsung labor layer (6 sources):**
+- [[Samsung Wage Deal Ratified — Korea Herald - 2026-05-27]] — primary ratification: 73.7% of 62,616 ballots (95.5% turnout of 65,593); 10.5%-of-OP share bonus; the K-shaped "bonus backlash" (memory ~600M won vs. DX "several million"); Donghaeng-union split; Commercial Act shareholder lawsuit
+- [[Samsung Chip Workers Accept $340K Average Bonus — Tom's Hardware - 2026-05-27]] — deal structure (10.5% stock + 1.5% cash + 6.2% wage), 10-year term, 200T/100T-won OP targets, $26.6B pool, 78,000 employees
+- [[The Coming AI Profit Revolt — Axios - 2026-05-25]] — U.S. transmission: "AI productivity dividend" as a 2026 proxy-season demand; UAW/CWA; Newsom universal basic capital; Bannon cross-ideological note
+- [[Samsung AI Labor Showdown Haves Versus Have-Mores — Bloomberg - 2026-05-21]] — **Bloomberg primary** (Catherine Thorbecke) for the "haves vs. have-mores" framing; the 755% Q-profit jump; Samsung = 22.8% of Korean exports / 26% of the stock market (the chokepoint-leverage stat); "wait until its losers do, too"
+- [[Samsung AI Bonuses Prompt Korea Debate — Bloomberg - 2026-05-30]] — **Bloomberg primary** (Choi/Eom/Lee): national-policy layer (Kim Yong-beom "citizen dividend," social solidarity wage, Korean SWF); "AI aristocrats" intra-company divide; Samsung+SK Hynix tax bill >100T won potentially exceeding the government's whole corporate-tax take; TSMC 30% bump; the equities/housing/inflation knock-on
+- [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]] — Korean-reception companion to the Thorbecke primary: 70% public disapproval; SK Hynix precedent
+
+**Grid layer (2 sources):**
+- [[US Transformer Lead Times Extend to Four Years — pv magazine USA - 2026-05-11]] — PwC four-year lead time (fresher than the spent 128–160-week figures); GOES + copper as the binding raw-material constraint; Hitachi South Boston 2028 / Siemens $421M Charlotte
+- [[Cleveland-Cliffs Weirton Transformer Plant — Utility Dive - 2024-08-06]] — Cleveland-Cliffs as the **sole U.S. GOES producer** (Butler, PA); $150M Weirton transformer plant; Goncalves "no AI without electricity, no electricity without transformers"
+
+**Accord anchor (1 source):**
+- [[Treasury-Fed Accord — Federal Reserve History]] — Jessie Romero's Fed History essay; fills the previously-empty Key Sources on [[1951 Treasury-Fed Accord]] and supplies the load-bearing facts for the flagship's "Samsung Accord" parallel
+
+**New entity (1):** [[Cleveland-Cliffs]] — sole U.S. producer of grain-oriented electrical steel; the chokepoint inside the transformer chokepoint.
+
+**Entity/concept updates:** [[Samsung]] (tentative→ratified reconciliation + backlash + national-policy/US-transmission), [[SK Hynix]] (added the 10%-of-OP labor precedent, previously absent from its page), [[AI Windfall Sharing]] (ratified case + 4 framing threads), [[AI Buildout Grid Constraint]] (four-year lead time + GOES chokepoint), [[1951 Treasury-Fed Accord]] (Key Sources + "Samsung Accord" parallel note). **Update (same day, Bloomberg primaries ingested):** the user scraped both Bloomberg originals to `raw/`; they are now ingested as primary source pages ([[Samsung AI Labor Showdown Haves Versus Have-Mores — Bloomberg - 2026-05-21]] and [[Samsung AI Bonuses Prompt Korea Debate — Bloomberg - 2026-05-30]]), replacing the earlier Investing.com-mirror stand-in (retired) and superseding the Seoul Economic Daily stand-in (kept as the Korean-reception companion). **Still-open (flagged, not filled):** the hyperscaler-PPA chain — incidence flowing from the 10.5%-of-OP labor claim into chip prices into hyperscaler memory contracts — remains analytical inference, not sourced.
 
 ### 2026-06-02 ingest (single-source, BLS primary release) — JOLTS April 2026 + new Bureau of Labor Statistics entity (1 source, 1 new entity, 0 new concepts)
 
@@ -1973,12 +1996,14 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 741 |
-| Published articles tracked | 101 (87 standalone + 11 episodes + 3 backstage) |
-| Entity pages | 269 |
-| Concept pages | 165 |
+| Total sources ingested | 755 |
+| Published articles tracked | 102 (per frontmatter; breakdown pending lint re-verification) |
+| Entity pages | 285 |
+| Concept pages | 168 |
 | Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
-| Last updated | 2026-05-24 |
+| Last updated | 2026-06-02 |
+
+*(Stats table reconciled 2026-06-02 to match frontmatter — it had been lagging since the 2026-05-24 update: sources 741→755, entities 269→285, concepts 165→168. The 2026-05-21 and 2026-06-02 JOLTS + June-5-flagship ingests had rolled the frontmatter forward but not this table.)*
 
 ### 2026-05-24 New Pages (lint + ingest)
 

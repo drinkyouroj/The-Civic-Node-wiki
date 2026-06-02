@@ -3,8 +3,8 @@ title: "1951 Treasury-Fed Accord"
 type: concept
 tags: [monetary-policy, politics, power, history]
 created: 2026-04-07
-updated: 2026-04-07
-sources: 3
+updated: 2026-06-02
+sources: 4
 ---
 
 ## Definition
@@ -64,8 +64,13 @@ The honest reading: Fed independence began as a refusal. Every subsequent test o
 
 ## Key Sources
 
-*No raw sources currently in wiki cite the Accord directly. Recommended ingestion targets:*
-- Allan Meltzer, *A History of the Federal Reserve, Volume 1: 1913–1951* (the canonical Accord chapter)
-- Robert L. Hetzel and Ralph F. Leach, "The Treasury-Fed Accord: A New Narrative Account," Federal Reserve Bank of Richmond Economic Quarterly, Winter 2001
-- Edwin Dickens, "The Federal Reserve's Tightening Action in 1951," Eastern Economic Journal, 1995
-- Federal Reserve Bank of St. Louis FRASER digitized FOMC minutes, Jan–March 1951
+- [[Treasury-Fed Accord — Federal Reserve History]] — Jessie Romero's Federal Reserve History essay (the citable secondary anchor; ingested 2026-06-02 via Chrome, raw saved). Supplies the load-bearing facts: the April 1942 0.375%-bill / 2.5%-bond peg; postwar CPI (17.6% Jun 1946–47); the 21% annualized CPI by Feb 1951; Truman's White House FOMC meeting and the disputed "pledge"; Eccles releasing the FOMC's own account ("the fat was in the fire"); the Feb 19, 1951 "no longer maintain the existing situation" notice; Martin negotiating with Snyder hospitalized; the March 4, 1951 one-paragraph joint statement.
+
+*Deeper academic sources (recommended for direct quotation; not yet ingested):*
+- Robert L. Hetzel and Ralph F. Leach, "The Treasury-Federal Reserve Accord: A New Narrative Account," Federal Reserve Bank of Richmond *Economic Quarterly* 87, no. 1 (Winter 2001): 33–55 — the canonical narrative account (free PDF on richmondfed.org; cited as the primary source in the Fed History essay above).
+- Allan Meltzer, *A History of the Federal Reserve, Volume 1: 1913–1951* (the canonical Accord chapter).
+- Federal Reserve Bank of St. Louis FRASER — digitized joint statement + FOMC minutes, Jan–March 1951.
+
+## Note for the June 5 "Samsung Accord" parallel
+
+The June 5 flagship ([[AI Windfall Sharing]]) uses the Accord as a labor parallel ("Samsung Accord"). The transferable mechanism is **not** "independence" (that axis belongs to the June 19 [[The Accord That Wasn't Signed]] Fed piece) but rather **a famously thin written instrument doing massive structural work** — a one-paragraph statement that permanently reallocated who controlled a surplus, won because the weaker party (the Fed in 1951; chip labor in 2026) refused to keep accommodating the dominant party and forced the issue. The honest parallel names what is shared (a thin contract as a structural pivot, won by refusal) and what differs (the Accord rebalanced *authority*; the Samsung deal rebalances *distribution*). See the CLAUDE.md voice rule on cross-domain framing before drawing the analogy.
