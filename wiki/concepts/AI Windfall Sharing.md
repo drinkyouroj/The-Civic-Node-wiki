@@ -4,7 +4,7 @@ type: concept
 tags: [labor, monetary-policy, ai, politics]
 created: 2026-05-18
 updated: 2026-06-02
-sources: 22
+sources: 24
 ---
 
 ## Definition
@@ -32,6 +32,8 @@ This is the first concept that connects TCN's monetary-policy lane to the labor 
 - **The windfall-sharing fight climbs to national policy (Korea, May 30, 2026)**: the Samsung payouts triggered a state-level debate — a tax-funded **"citizen dividend"** (presidential policy chief Kim Yong-beom: "the first country to return the excess profits of the AI era to human life"), a **"social solidarity wage"** (Labor Minister Kim Young-hoon, who conceded the government has "no precedent to follow"), and a possible Korean **sovereign wealth fund**. The forcing fact: Samsung + SK Hynix together could pay **>100 trillion won in corporate taxes annually — potentially exceeding what the government expected from *all* companies.** The same distributional question moves from the bargaining table to fiscal policy; Bloomberg Economics expects the windfall to land in equities and housing first, intensifying services inflation (the bridge to the Monetary-Mechanics lane and the June 19 Accord piece). [[Samsung AI Bonuses Prompt Korea Debate — Bloomberg - 2026-05-30]]
 - **U.S. transmission — "AI productivity dividend" (May 25, 2026)**: Axios predicts the term becomes a **2026 proxy-season demand** from labor *and* activist investors; UAW and CWA "presumably studying the Samsung playbook"; non-union workers wielding Glassdoor/Blind/AI comp-benchmarks; framing predicted to cut across left and MAGA (Bannon). The mechanism by which the Korean precedent becomes an American boardroom fight. [[The Coming AI Profit Revolt — Axios - 2026-05-25]]
 - **The framing — "haves vs. have-mores"**: Bloomberg's Catherine Thorbecke: the clash "isn't pitting workers displaced by the technology against the companies deploying it. **It's a fight between the haves and the have-mores**" — closing "if this is what happens when AI's winners rise up, wait until its losers do, too." The honest version of the win: chokepoint labor extracting *more*, distinct from (and ahead of) the more volatile fight over the genuinely displaced. [[Samsung AI Labor Showdown Haves Versus Have-Mores — Bloomberg - 2026-05-21]] (Korean-reception companion: [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]])
+
+- **The capital side mobilizes — the shareholder counter-suit (May 21–30, 2026)**: windfall sharing produces a counter-claimant. The [[Korea Shareholders' Movement Headquarters]] declared [[Samsung]]'s profit-share deal "illegal" and is pursuing four remedies under the Commercial Act — an invalidity suit, a payout injunction, a derivative suit against directors for breach of fiduciary duty, and damages against strike participants — arguing that indexing bonuses to a percentage of pre-tax operating profit hands over the dividend pool without a shareholder vote. This is the third corner of the fight: labor won the share, management signed it, capital is suing to void it. A permanent, profit-indexed labor claim cannot be settled at the bargaining table alone, because it collides with the corporate-law procedures that protect the shareholder claim on the same profit. [[Samsung Shareholders Threaten Lawsuit Over Wage Deal — Seoul Economic Daily - 2026-05-21]] [[Samsung Bonus Deal Labor-Management-Shareholder Clash — Seoul Economic Daily - 2026-05-30]]
 
 ## Tensions & counterarguments
 
@@ -63,3 +65,5 @@ This is the first concept that connects TCN's monetary-policy lane to the labor 
 - [[Samsung AI Labor Showdown Haves Versus Have-Mores — Bloomberg - 2026-05-21]] — Bloomberg primary (Thorbecke) for the "haves vs. have-mores" framing + the chokepoint-leverage stats
 - [[Samsung AI Bonuses Prompt Korea Debate — Bloomberg - 2026-05-30]] — Bloomberg primary for the national-policy layer (citizen dividend, SWF, the tax-exceeds-government fact)
 - [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]] — Korean-reception companion (70% public disapproval)
+- [[Samsung Shareholders Threaten Lawsuit Over Wage Deal — Seoul Economic Daily - 2026-05-21]] — the capital-side counter-claim (Commercial Act null-and-void theory)
+- [[Samsung Bonus Deal Labor-Management-Shareholder Clash — Seoul Economic Daily - 2026-05-30]] — the three-cornered "heading to court" escalation; the four remedies
