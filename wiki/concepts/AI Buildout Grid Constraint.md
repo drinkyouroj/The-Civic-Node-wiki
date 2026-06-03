@@ -3,8 +3,8 @@ title: "AI Buildout Grid Constraint"
 type: concept
 tags: [power, infrastructure, ai-buildout, grid, capex]
 created: 2026-05-07
-updated: 2026-06-02
-sources: 25
+updated: 2026-06-03
+sources: 27
 ---
 
 ## Definition
@@ -39,6 +39,7 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 - **PJM Q1 2026 capacity-market reset (primary source).** Total wholesale power $77.78 → $136.53/MWh (+75.5% YoY). Capacity component +398.1% Q1 YoY. Combined data-center-load impact across the 2025/2026 + 2026/2027 + 2027/2028 BRAs: **$23,100,955,341** in additional capacity-market revenue. Of that, **$13,768,851,483 landed on customer bills** across the 2026/2027 and 2027/2028 BRAs even with the "Agreement" VRR-curve cap in place; without the cap the impact would have been $26.85B. 2026/2027 BRA was short 208.7 MW of reliability; 2027/2028 BRA short **6,516.6 MW**. Total PJM gross billing Q1 2025 → Q1 2026: $18.69B → $36.35B (+94.5%). New-diesel energy-market net revenue up 1,326%. The Q1 2026 SOM names data center load growth as the primary cause. The IMM ([[Monitoring Analytics]]) recommends a BYONG ("Bring Your Own New Generation") market solution and rejects backstop-auction alternatives that shift risk to other PJM customers. Next BRA: June 2026. [[Quarterly State of the Market Report for PJM Q1 2026 — Monitoring Analytics - 2026-05-14]]
 - **Off-grid hyperscaler pivot — explicit case.** Oracle's Project Jupiter (Doña Ana County, NM): 1,400 acres, 4 hyperscale buildings, $165B long-term investment. Original gas-turbine + diesel design pivoted to fuel-cell-based microgrid: up to 2.45 GW single-microgrid capacity via Bloom Energy (up to 2.8 GW agreement, 1.2 GW contracted). NOx reduced ~92% vs. conventional generation. The campus is designed without grid interconnect dependency — speed-to-power has crossed into exit-the-grid territory at the largest planned hyperscaler campus in New Mexico. Rob Gramlich (Grid Strategies) on the prior conventional wisdom: "Large data center operators still generally prefer grid power and use on-site generation primarily as backup." Oracle's design contradicts that framing. Operational caveat from Prithpal Khajuria (Intel): "Fuel cells have very limited capacity to handle overloading." [[Oracle Project Jupiter Bloom Fuel Cells — DCK - 2026-04-29]]
 - **Midstream gas pivot scale.** [[Williams Companies]] $5.1B "power innovation" portfolio (incl. $1.6B "Project Socrates," H2 2026 completion target). Energy Transfer (Cloud Burst Texas, Feb 2025); Pembina + Meta Alberta near-agreement; Kinder Morgan 7 landfill-gas-to-energy facilities ($135M, Oct 2025); Exxon 2.7+ GW pipeline of data-center power projects. AI-driven gas consumption projected up to 6 Bcf/d by 2030. 18-month behind-the-meter deployment vs. multi-year interconnection queue is the speed-to-power driver. [[Gas-to-Power Boom AI Drives 2026 On-Site Energy Shift — Enki - 2026]]
+- **Single-load concentration (Michigan/MISO).** The demand side at its most concentrated: one campus worth a quarter of a utility's peak. The Oracle/[[Stargate]] [[Saline Township Data Center (The Barn)]] draws **>1 GW (~25% of [[DTE Energy]]'s current peak)**; DTE's data-center pipeline is ~7 GW and [[Consumers Energy]] is weighing ~15 GW — against 2022 peaks of 10.2 GW (DTE) and 7.5 GW (Consumers). The binding constraint here is less transformer lead time than the rate-base and reliability math of absorbing a 25%-of-peak single customer (which is what routes the cost into [[AI Cost Incidence]]). [[Saline Township Data Center Construction Underway — Michigan Public - 2026-04-25]] [[Michigan Data Centers Could Hike Your Power Bill — Planet Detroit - 2025-10-16]]
 
 ## Tensions & Counterarguments
 
@@ -76,3 +77,5 @@ Connects upward to monetary policy (the variable the Fed gamed the dual mandate 
 - [[AI Data Center Demand 76 Percent Surge East Coast Grid — SOFX - 2026-05-15]]
 - [[Oracle Project Jupiter Bloom Fuel Cells — DCK - 2026-04-29]]
 - [[Gas-to-Power Boom AI Drives 2026 On-Site Energy Shift — Enki - 2026]]
+- [[Saline Township Data Center Construction Underway — Michigan Public - 2026-04-25]]
+- [[Michigan Data Centers Could Hike Your Power Bill — Planet Detroit - 2025-10-16]]

@@ -2,6 +2,44 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-06-03] ingest | Michigan AI cost-incidence localization — DTE rate fight + Saline Stargate campus (4 sources, 4 new entities)
+
+Surfaced while fact-checking the June 5 flagship's Personal Code line. The author lives in **St. Clair County, MI** ([[DTE Energy]] territory); the draft's "a data center two counties over" was checkable and **false** — the data center actually reshaping DTE's rates is the $16B Oracle/[[Stargate]] [[Saline Township Data Center (The Barn)]] in Saline Township (**Washtenaw County**), >1 GW (~25% of DTE's peak), ~3 counties / 90+ mi away on the opposite end of DTE's footprint. The flagship line was corrected to make proximity-irrelevance the point ("you don't have to live near one for the boom to reach the bill"); the 6/10 paid note's parallel Ohio "two counties over" was generalized to "somewhere out on the same grid." This pass files the Michigan/MISO sources used in the verification — the **retail-rate-case** face of [[AI Cost Incidence]], previously held only at the PJM/wholesale layer.
+
+**Created — sources (4):**
+- [[DTE Ties Future Rate Freeze to Data Centers — Planet Detroit - 2026-04-24]] — DTE's 2026 $474.3M (~7.6%) filing; ≥2-yr freeze promise conditioned on Oracle + Google data-center revenue; MPSC ruling within ~10 months.
+- [[Michigan Data Centers Could Hike Your Power Bill — Planet Detroit - 2025-10-16]] — the canonical retail-mechanism source: proportional cost-socialization; Jester 5–10%/1 GW; DTE 7 GW / Consumers 15 GW; Consumers' MPSC tariff (15-yr, exit fees, 80% min-demand).
+- [[Saline Township Data Center Construction Underway — Michigan Public - 2026-04-25]] — the $16B Oracle/Related Digital/Blackstone campus (>1 GW ≈ 25% of DTE peak); Nessel's appeal of the MPSC's conditional power-contract approval.
+- [[DTE Data Center Customer Rate Protection Claims — DTE Energy - 2026]] — DTE's official "data centers will not increase customer rates" denial + ~$9B-through-2045 / $300M-a-year-grid claims (the contested counterpoint).
+
+**Created — entities (4):** [[DTE Energy]] (org), [[Saline Township Data Center (The Barn)]] (infrastructure), [[Consumers Energy]] (org), [[Dana Nessel]] (person).
+
+**Updated:**
+- [[AI Cost Incidence]] — Michigan retail-rate localization (3 evidence bullets), the proximity-irrelevance mechanism behind the corrected flagship line, the [[Consumers Energy]] re-assignment tariff, and a contested-causation tension with a ⚠️ DTE-denial-vs-critics contradiction; 4 new Key Sources. (recount hook owns per-page sources count.)
+- [[AI Buildout Grid Constraint]] — single-load-concentration evidence (Saline >1 GW ≈ 25% of DTE peak; DTE 7 GW / Consumers 15 GW pipeline) + 2 Key Sources.
+- [[overview.md]] — new dated note at the top of the update stack; running total 760→764 sources, 286→290 entities.
+- [[index.md]] — new 2026-06-03 Michigan ingest sub-section under Sources; counters total_pages 1344→1352, total_sources 760→764, total_entities 286→290.
+
+**⚠️ Contradiction filed:** [[DTE Energy]]'s "data centers will not increase customer rates" vs. the proportional cost-socialization documented by Planet Detroit / [[Dana Nessel]] / Jester. Flagged in both source pages and [[AI Cost Incidence]] — the editorial center of gravity for any Michigan companion piece.
+
+**Flagged for a later pass:** (1) cross-source % discrepancy — Planet Detroit **7.6%** vs. Detroit News **"nearly 10%"/~9.96%** on identical $474.3M / $9.39-mo figures (base unreconciled; both recorded, neither canonical); (2) Detroit News originals bot-walled (302 → usatoday.com/bot-detection), so Planet Detroit was used as the citable equivalent — no user scrape needed; (3) [[Michigan Public Service Commission]] is linked across the cluster but still a page-gap (Related Digital / Blackstone mentioned inline only); (4) Michigan is MISO not PJM — kept out of the all-PJM flagship body; the personal line and paid note stay general.
+
+**Article context:** drove two prose fixes that are NOT yet committed — flagship `05-draft-v7.md` Personal Code first line + 6/10 paid note `2026-06-10-...-windfall-thread.md` "two counties over" → "somewhere out on the same grid."
+
+## [2026-06-03] ingest | Samsung shareholder counter-suit — the capital-side corner of AI Windfall Sharing (2 sources, 1 new entity)
+
+WebFetch ingest of the shareholder challenge to the Samsung profit-share deal. Surfaced during the June 3 daily-content-plan run (the fresh FB Awareness anchor: "shareholders are suing to block the workers' bonus") and ingested per user request. The existing [[Samsung]] page mentioned the suit in one clause but had no sourced detail; this pass adds the dedicated capital-side corner of the [[AI Windfall Sharing]] fight.
+
+**New sources (2):**
+- [[Samsung Shareholders Threaten Lawsuit Over Wage Deal — Seoul Economic Daily - 2026-05-21]] (Lee Seok-jin) — the May 21 rally outside Chairman Jay Y. Lee's Hannam-dong residence; the [[Korea Shareholders' Movement Headquarters]] (head **Min Kyung-kwon**) Commercial Act null-and-void theory: allocating a fixed % of *pre-tax* operating profit to bonuses requires a shareholder-meeting resolution; the "Act" platform 1%-stake derivative-suit drive; letters to domestic and foreign institutional investors. Verbatim full-document read; raw persisted.
+- [[Samsung Bonus Deal Labor-Management-Shareholder Clash — Seoul Economic Daily - 2026-05-30]] (Ahn Hyun-deok, commentary) — the post-ratification escalation "heading to court": four remedies (invalidity suit, payout injunction, directors' fiduciary-duty derivative suit, strike-participant damages); the "cascade of civil and criminal suits" forecast extending to subcontractors via the Yellow Envelope Act. Structured WebFetch digest (not verbatim); raw flagged for re-fetch.
+
+**New entity (1):** [[Korea Shareholders' Movement Headquarters]] — the minority-shareholder activist group suing to void the profit-share deal; the capital-side claimant.
+
+**Pages updated (3):** [[Samsung]] (corrected org name from the search-snippet "Korea Shareholder Action Headquarters"; dedicated capital-side-challenge Key Fact; 2 source appearances; refined the lawsuit open question with the directors' fiduciary-duty edge), [[AI Cost Incidence]] (the shareholders litigating the cost = the affected party confirming the incidence lands on capital, the cleanest GAP-4 evidence yet, + 2 key sources), [[AI Windfall Sharing]] (the three-cornered fight: labor won the share, management signed it, capital is suing to void it, + 2 key sources).
+
+**Status precision:** both sources confirm *declared / pursued* legal action, not a docketed complaint with a filing date — downstream prose (the June 3 daily plan) corrected from "filed a suit May 27" to "declared / pursuing." **Counts:** sources 758→760; entities 285→286; total_pages 1341→1344 (concepts unchanged at 168).
+
 ## [2026-06-02] query | Synthesis filed — "The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs" (seed for the June 5 flagship)
 
 Filed [[The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs]] as the seed synthesis for the June 5 flagship article-builder run (the flagship had no dedicated synthesis page — it was prepped as source ingestion). Welds the week's two layers into one argument: the **Samsung labor chokepoint** (10.5%-of-OP profit-share, the first permanent profit-indexed labor claim on an AI chokepoint) and the **transformer/GOES grid chokepoint** (four-year lead times, single-mill steel), with the load-bearing discipline being the **asymmetry** — same cause (the boom), opposite directions (labor captures upside; ratepayers/grid absorb cost), so no "same money" compression. Bounds the [[1951 Treasury-Fed Accord]] parallel to the thin-written-instrument-won-by-refusal axis (not "independence" — that's the June 19 piece). Folds in the GAP 4 resolution (profit-share incidence on shareholders/reinvestment; pass-through as named inference). Includes a Newsletter Application with a concrete opener→close structure. Follow-on artifact surfaced: an **"AI Aristocrats"** concept page (the intra-firm class divide, currently only a bullet in [[AI Windfall Sharing]]). **Counts:** syntheses 27→28; total_pages 1339→1340 (sources unchanged at 757). This synthesis seeds the `tcn-article-builder` workflow run started the same day.

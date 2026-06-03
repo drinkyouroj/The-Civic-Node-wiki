@@ -1,10 +1,10 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-06-02
-total_pages: 1341
-total_sources: 758
-total_entities: 285
+updated: 2026-06-03
+total_pages: 1352
+total_sources: 764
+total_entities: 290
 total_concepts: 168
 total_syntheses: 28
 total_articles: 102
@@ -23,6 +23,34 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-03 ingest (Michigan AI cost-incidence localization — DTE rate fight + Saline Stargate campus) (4 sources, 4 new entities, 0 new concepts; [[AI Cost Incidence]] + [[AI Buildout Grid Constraint]] updated)
+
+Surfaced while verifying the June 5 flagship's Personal Code line. The author lives in St. Clair County, MI ([[DTE Energy]] territory); the draft's "a data center two counties over" was checkable and false — the data center actually reshaping DTE's rates is the Oracle/[[Stargate]] [[Saline Township Data Center (The Barn)]] in Saline Township (Washtenaw County), ~3 counties / 90+ mi away on the opposite end of DTE's footprint. The flagship line was corrected to make proximity-irrelevance the point ("you don't have to live near one for the boom to reach the bill") and the 6/10 paid note's parallel "two counties over" (an Ohio illustration) was generalized to "somewhere out on the same grid." This ingest files the Michigan/MISO sources used in that verification — the **retail-rate-case** face of [[AI Cost Incidence]], which the wiki previously held only at the PJM/wholesale layer.
+
+- [[DTE Ties Future Rate Freeze to Data Centers — Planet Detroit - 2026-04-24]] — Dustin Blitchok, Planet Detroit. DTE's 2026 $474.3M (~7.6%) rate filing, ~$9.39/mo, with a ≥2-year freeze promise conditioned on Oracle + Google data-center revenue; MPSC ruling expected within 10 months.
+- [[Michigan Data Centers Could Hike Your Power Bill — Planet Detroit - 2025-10-16]] — Brian Allnutt, Planet Detroit. The canonical retail-mechanism source: proportional cost-socialization of new-generation premiums; Douglas Jester's 5–10%-per-1 GW estimate; DTE 7 GW / Consumers 15 GW pipeline; Consumers' MPSC tariff (15-yr term, exit fees, 80% min demand).
+- [[Saline Township Data Center Construction Underway — Michigan Public - 2026-04-25]] — Brett Dahlberg, Michigan Public. The $16B Oracle/Related Digital/Blackstone campus (>1 GW ≈ 25% of DTE peak) under construction; Nessel's appeal of the MPSC's conditional power-contract approval.
+- [[DTE Data Center Customer Rate Protection Claims — DTE Energy - 2026]] — DTE corporate page. The utility's "data centers will not increase customer rates" denial + the ~$9B-through-2045 / $300M-a-year-grid claims; the contested counterpoint to the cost-shift critique.
+
+**New entities (4):** [[DTE Energy]] — the utility on the author's bill (~2.3M SE-Michigan customers incl. St. Clair Co.; $474.3M 2026 filing; $242.2M approved Feb 2026); [[Saline Township Data Center (The Barn)]] — the >1 GW Oracle/Stargate campus reshaping DTE's rate base; [[Consumers Energy]] — Michigan's other big IOU, first mover on data-center rate-protection tariffs; [[Dana Nessel]] — Michigan AG fighting the DTE hike and appealing the redacted power contracts.
+
+**Concept updates:** [[AI Cost Incidence]] (Michigan retail-rate localization; the proximity-irrelevance mechanism behind the corrected flagship line; Consumers' re-assignment tariff; contested-causation tension with a ⚠️ DTE-denial-vs-critics contradiction); [[AI Buildout Grid Constraint]] (single-load concentration — Saline >1 GW ≈ 25% of DTE peak; DTE 7 GW / Consumers 15 GW vs. 10.2/7.5 GW 2022 peaks).
+
+**Flagged:** (1) Cross-source % discrepancy on the DTE hike — Planet Detroit **7.6%** vs. Detroit News **"nearly 10%"/~9.96%** on identical $474.3M / $9.39-mo figures; base (system vs. residential vs. total-revenue) unreconciled, both recorded, neither asserted canonical. (2) Detroit News originals bot-walled (302 → usatoday.com/bot-detection); Planet Detroit used as the citable equivalent (no user scrape needed). (3) [[Michigan Public Service Commission]] linked across the cluster but not yet a page (entity gap for a future pass); Related Digital / Blackstone mentioned inline only. (4) Michigan is MISO, not PJM — kept out of the flagship body (all-PJM) to avoid a grid-region mismatch; the personal line and paid note stay general.
+
+### 2026-06-03 ingest (Samsung shareholder counter-suit) — the capital-side corner of AI Windfall Sharing (2 sources, 1 new entity, 0 new concepts)
+
+WebFetch ingest of the shareholder challenge to the Samsung profit-share deal — the capital-side claimant that existing Samsung coverage mentioned but never sourced in detail. Surfaced during the June 3 daily-content-plan run (the fresh FB Awareness anchor) and ingested per user request. Corrects the org name (a US search snippet had rendered it "Korea Shareholder Action Headquarters").
+
+- [[Samsung Shareholders Threaten Lawsuit Over Wage Deal — Seoul Economic Daily - 2026-05-21]] — Lee Seok-jin, Seoul Economic Daily. The May 21 rally outside Jay Y. Lee's residence; the [[Korea Shareholders' Movement Headquarters]] (head Min Kyung-kwon) Commercial Act null-and-void theory (allocating pre-tax OP % bypasses the shareholder-resolution procedure); the "Act" platform 1%-derivative-suit drive; institutional-investor letters. (Verbatim full-document read.)
+- [[Samsung Bonus Deal Labor-Management-Shareholder Clash — Seoul Economic Daily - 2026-05-30]] — Ahn Hyun-deok commentary. The post-ratification escalation "heading to court": four remedies (invalidity suit, payout injunction, directors' fiduciary-duty derivative suit, strike-participant damages); the Yellow Envelope "cascade of civil and criminal suits" forecast. (Structured WebFetch digest, not verbatim — re-fetch for full text.)
+
+**New entity (1):** [[Korea Shareholders' Movement Headquarters]] — the minority-shareholder activist group (head Min Kyung-kwon) suing to void the profit-share deal under the Commercial Act; the capital-side claimant in [[AI Windfall Sharing]].
+
+**Entity/concept updates:** [[Samsung]] (dedicated capital-side-challenge fact + corrected org name + 2 source appearances + refined open question), [[AI Cost Incidence]] (the shareholders litigating the cost = the affected party confirming the incidence lands on capital — the cleanest GAP-4 evidence yet), [[AI Windfall Sharing]] (the three-cornered fight: labor won the share, management signed it, capital is suing to void it).
+
+**Status precision (flagged):** both sources confirm *declared / pursued* legal action, not a docketed complaint with a filing date. Daily-plan and downstream prose corrected from "filed a suit May 27" to "declared / pursuing." Raw files persisted (webfetch method; Korean-outlet URL may change or region-lock).
 
 ### 2026-06-02 ingest (flagship fact-reconcile — SK Hynix precedent primary) — the "previous fall" template, dated and sourced (1 source, 0 new entities, 0 new concepts)
 
