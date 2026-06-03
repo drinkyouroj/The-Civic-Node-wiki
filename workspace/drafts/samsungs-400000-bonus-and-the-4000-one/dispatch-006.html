@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Civic Node — Dispatch №006 · Samsung's $400,000 Bonus, and the $4,000 One</title>
+<!--
+  Dispatch №006 — beat-segmented motion deck (16:9 native, 1920×1080).
+  112 slides: 10 scene-headers + 102 beats.
+  Images: 006-01 (S01 backdrop B1–B7), 006-02 (S03 chip standalone),
+          006-03 (S04 collective backdrop B5–B6), 006-04 (S06 bill backdrop B6–B10),
+          006-05 (S09 lone ratepayer standalone).
+  Advance: → / Space / ↓ / click.  Retreat: ← / ↑.
+  Palette harmonized to tcn-design-system (canvas #0D0D0F, slate-400 #557FA3, strong #B4C8DC).
+-->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --canvas:    #0D0D0F;   /* TCN warm-black */
+  --accent:    #557FA3;   /* slate-400 — kickers, marks, labels */
+  --strong:    #B4C8DC;   /* fg-strong — primary display text/numbers */
+  --twilight:  #485070;   /* meta / sublabels */
+  --hairline:  #2A3A4E;   /* dividers, dim strokes */
+  --mid:       #486986;   /* slate-500 mid strokes */
+  --paper:     #F6F6F8;   /* refrain inverted bg */
+}
+
+body {
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  font-family: 'Courier Prime', 'Courier New', monospace;
+}
+
+/* 16:9 native deck — fills viewport on the constraining axis */
+.deck {
+  position: relative;
+  width: min(100vw, calc(100vh * 16 / 9));
+  height: min(100vh, calc(100vw * 9 / 16));
+  aspect-ratio: 16 / 9;
+  background: var(--canvas);
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  container-type: size;
+  background: var(--canvas);
+  opacity: 0;
+  transition: opacity 200ms cubic-bezier(0.2, 0, 0, 1);
+  pointer-events: none;
+
+  /* type scale — cqmin tracks the 16:9 short side (height) */
+  --type-hero:   clamp(64px, 22cqmin, 360px);
+  --type-h1:     clamp(28px,  9cqmin, 150px);
+  --type-h2-mid: clamp(22px,  6cqmin, 104px);
+  --type-body:   clamp(13px,  4cqmin,  64px);
+  --type-kicker: clamp(10px,  2.4cqmin, 34px);
+}
+.slide.active { opacity: 1; pointer-events: auto; }
+
+/* ── scene-header ─────────────────────────────────────────── */
+.slide.scene-header { display: flex; align-items: center; justify-content: center; padding: 6cqmin; }
+.slide.scene-header .kicker {
+  font-size: var(--type-kicker);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  text-align: center;
+  text-wrap: balance;
+  line-height: 1.5;
+}
+
+/* ── stamp ────────────────────────────────────────────────── */
+.slide.stamp { display: flex; align-items: center; justify-content: center; padding: 7cqmin; }
+.slide.stamp .text {
+  font-size: var(--type-h1);
+  color: var(--strong);
+  text-align: center;
+  text-wrap: balance;
+  line-height: 1.1;
+}
+.slide.stamp.long .text { font-size: var(--type-h2-mid); }
+.slide.stamp .sub {
+  display: block;
+  margin-top: 2.5cqmin;
+  font-size: var(--type-body);
+  color: var(--twilight);
+  letter-spacing: 0.06em;
+  line-height: 1.3;
+}
+
+/* ── hero-number ──────────────────────────────────────────── */
+.slide.hero-number { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1.5cqmin; }
+.slide.hero-number .number {
+  font-size: var(--type-hero);
+  color: var(--strong);
+  text-align: center;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.slide.hero-number .label {
+  font-size: var(--type-body);
+  color: var(--accent);
+  text-align: center;
+  text-wrap: balance;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ── refrain (inverted) ───────────────────────────────────── */
+.slide.refrain { background: var(--paper); display: flex; align-items: center; justify-content: center; padding: 7cqmin; }
+.slide.refrain .text {
+  font-size: var(--type-h1);
+  color: var(--canvas);
+  text-align: center;
+  text-wrap: balance;
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+/* ── abstract visual (inline SVG) ─────────────────────────── */
+.slide.visual { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4cqmin; padding: 7cqmin; }
+.slide.visual svg { width: auto; height: 52cqmin; max-width: 82cqw; overflow: visible; }
+.slide.visual .caption {
+  font-size: var(--type-body);
+  color: var(--accent);
+  text-align: center;
+  text-wrap: balance;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  line-height: 1.3;
+}
+.slide.visual .caption.dim { color: var(--twilight); }
+
+/* ── image moment (standalone, full-bleed) ────────────────── */
+.slide.image-moment { background: var(--canvas); }
+.slide.image-moment .bg-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+
+/* ── image backdrop (image + typography overlay) ──────────── */
+/* NOTE: do NOT set position:relative here — .slide is position:absolute
+   with inset:0, and that absolute box is the containing block the bg-image
+   and overlay anchor to. Overriding to relative collapses the slide to 0px. */
+.slide.image-backdrop { background: var(--canvas); }
+.slide.image-backdrop .bg-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+/* darken top + bottom edges (where text lands), leave the mid band — the
+   image subject — clear */
+.slide.image-backdrop .scrim {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg,
+    rgba(13,13,15,0.82) 0%,
+    rgba(13,13,15,0.32) 26%,
+    rgba(13,13,15,0) 48%,
+    rgba(13,13,15,0) 70%,
+    rgba(13,13,15,0.42) 100%);
+}
+/* default overlay sits in the TOP negative space (006-01/02/03/04) */
+.slide.image-backdrop .overlay {
+  position: absolute;
+  left: 50%;
+  top: 9cqh;
+  transform: translateX(-50%);
+  width: 86cqw;
+  text-align: center;
+}
+/* left-anchored overlay for images whose subject is right-of-centre (006-05) */
+.slide.image-backdrop .overlay.left {
+  left: 7cqw;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 48cqw;
+  text-align: left;
+}
+.slide.image-backdrop .overlay .big {
+  font-size: var(--type-hero);
+  color: var(--strong);
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  text-shadow: 0 0 40px rgba(13,13,15,0.9), 0 0 14px rgba(13,13,15,0.9);
+}
+.slide.image-backdrop .overlay .stamp-t {
+  font-size: var(--type-h1);
+  color: var(--strong);
+  line-height: 1.05;
+  text-wrap: balance;
+  text-shadow: 0 0 40px rgba(13,13,15,0.9), 0 0 14px rgba(13,13,15,0.9);
+}
+.slide.image-backdrop .overlay .lbl {
+  display: block;
+  margin-top: 2cqmin;
+  font-size: var(--type-body);
+  color: var(--accent);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-shadow: 0 0 30px rgba(13,13,15,0.95);
+}
+
+/* ── end-card mark ────────────────────────────────────────── */
+.slide.endcard { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4cqmin; }
+.slide.endcard svg { height: 30cqmin; width: auto; }
+.slide.endcard .wordmark {
+  font-size: var(--type-kicker);
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+/* missing-image placeholder */
+.slide .missing {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  flex-direction: column; gap: 2cqmin; color: var(--twilight);
+  font-size: var(--type-body); text-align: center; padding: 8cqmin; border: 1px dashed var(--hairline);
+}
+
+/* dim recording counter (advance aid — remove if undesired) */
+#counter {
+  position: absolute; bottom: 1.4cqh; right: 1.6cqw;
+  font-size: clamp(9px, 1.5cqmin, 20px);
+  letter-spacing: 0.12em; color: var(--twilight); opacity: 0.55;
+  pointer-events: none; z-index: 50;
+}
+</style>
+</head>
+<body>
+
+<!-- shared SVG arrowhead markers -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+  <marker id="ah"  viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B4C8DC"/></marker>
+  <marker id="ahs" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#557FA3"/></marker>
+  <marker id="ahd" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#485070"/></marker>
+</defs></svg>
+
+<div class="deck" id="deck">
+
+<!-- ════════════════ SCENE 01 — HOOK ════════════════ -->
+<div class="slide scene-header active"><div class="kicker">DISPATCH №006 · HOOK</div></div>
+
+<!-- S01·B1 "Two workers walk out of the same Samsung plant in Korea." -->
+<div class="slide image-moment"><img class="bg-image" src="006-01.png" alt="Two workers leaving the Samsung plant"></div>
+
+<!-- S01·B2 "Same shift." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">SAME SHIFT</div></div></div>
+
+<!-- S01·B3 "They worked it a hundred yards apart." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">100 YARDS APART</div></div></div>
+
+<!-- S01·B4 "One of them builds memory chips." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">MEMORY CHIPS</div><span class="lbl">the left worker</span></div></div>
+
+<!-- S01·B5 "This year, his bonus runs toward four hundred thousand dollars." [hold] -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="big">$400,000</div></div></div>
+
+<!-- S01·B6 "The other builds phones and televisions." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">PHONES &amp; TVs</div><span class="lbl">the right worker</span></div></div>
+
+<!-- S01·B7 "His bonus comes to about four thousand." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t" style="font-size:var(--type-h2-mid)">$4,000</div></div></div>
+
+<!-- S01·B8 "Same company." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">SAME COMPANY</div></div></div>
+
+<!-- S01·B9 "Same shift." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">SAME SHIFT</div></div></div>
+
+<!-- S01·B10 "A hundred to one." [hold ~1.5s] -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-01.png" alt=""><div class="scrim"></div><div class="overlay"><div class="big">100 : 1</div></div></div>
+
+<!-- ════════════════ SCENE 02 — THESIS ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · THESIS</div></div>
+
+<!-- S02·B1 "That gap is the whole AI boom in one picture." -->
+<div class="slide stamp"><div class="text">THE AI BOOM</div></div>
+
+<!-- S02·B2 "One boom hit two different bottlenecks." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <polyline points="20,80 120,80" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <polyline points="120,80 230,34" stroke="#486986" stroke-width="3" marker-end="url(#ahs)"/>
+  <polyline points="120,80 230,126" stroke="#486986" stroke-width="3" marker-end="url(#ahs)"/>
+  <circle cx="120" cy="80" r="4" fill="#B4C8DC"/>
+</svg>
+<div class="caption">one boom, two bottlenecks</div>
+</div>
+
+<!-- S02·B3 "Two places where everything backs up because one thing is in short supply." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <polyline points="20,80 110,80" stroke="#485070" stroke-width="3"/>
+  <polyline points="110,80 200,34" stroke="#485070" stroke-width="3"/>
+  <polyline points="110,80 200,126" stroke="#485070" stroke-width="3"/>
+  <path d="M196,18 L236,34 L196,50 L210,34 Z" fill="none" stroke="#B4C8DC" stroke-width="3"/>
+  <path d="M196,110 L236,126 L196,142 L210,126 Z" fill="none" stroke="#B4C8DC" stroke-width="3"/>
+</svg>
+<div class="caption">two chokepoints</div>
+</div>
+
+<!-- S02·B4 "At the first one, the workers walked off with a fortune." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <polyline points="20,90 110,90" stroke="#485070" stroke-width="3"/>
+  <polyline points="110,90 220,40" stroke="#B4C8DC" stroke-width="3.5" marker-end="url(#ah)"/>
+  <polyline points="110,90 210,128" stroke="#2A3A4E" stroke-width="3"/>
+  <polyline points="150,72 150,46" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+</svg>
+<div class="caption">a fortune</div>
+</div>
+
+<!-- S02·B5 "At the second one, the cost landed on people who never got a vote." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <polyline points="20,70 110,70" stroke="#485070" stroke-width="3"/>
+  <polyline points="110,70 210,32" stroke="#2A3A4E" stroke-width="3"/>
+  <polyline points="110,70 220,120" stroke="#B4C8DC" stroke-width="3.5" marker-end="url(#ah)"/>
+  <polyline points="150,88 150,114" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+</svg>
+<div class="caption">the cost · no vote</div>
+</div>
+
+<!-- S02·B6 "Same boom." -->
+<div class="slide stamp"><div class="text">SAME BOOM</div></div>
+
+<!-- S02·B7 "Opposite endings." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <polyline points="40,80 170,26" stroke="#B4C8DC" stroke-width="3.5" marker-end="url(#ah)"/>
+  <polyline points="40,80 170,134" stroke="#B4C8DC" stroke-width="3.5" marker-end="url(#ah)"/>
+  <circle cx="40" cy="80" r="4" fill="#B4C8DC"/>
+</svg>
+<div class="caption">opposite endings</div>
+</div>
+
+<!-- S02·B8 "And one question decides which end you land on." -->
+<div class="slide stamp"><div class="text" style="font-size:var(--type-hero);color:var(--accent)">?</div></div>
+
+<!-- S02·B9 [REFRAIN] "Who gets to say no?" -->
+<div class="slide refrain"><div class="text">WHO GETS TO SAY NO?</div></div>
+
+<!-- ════════════════ SCENE 03 — THE RECEIPT · THE CHOKEPOINT ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · THE RECEIPT · THE CHOKEPOINT</div></div>
+
+<!-- S03·B1 "So why did the chip worker win?" -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="86" stroke="#2A3A4E" stroke-width="2"/>
+  <circle cx="100" cy="76" r="26" fill="#B4C8DC"/>
+  <path d="M58,170 Q100,108 142,170" fill="#B4C8DC"/>
+</svg>
+<div class="caption">why did the chip worker win?</div>
+</div>
+
+<!-- S03·B2 "Because he was sitting on the one part the whole boom can't run without." -->
+<div class="slide image-moment"><img class="bg-image" src="006-02.png" alt="HBM memory chip — the chokepoint"></div>
+
+<!-- S03·B3 "The fast memory that stacks inside every AI chip." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-02.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t" style="font-size:var(--type-h2-mid)">THE FAST MEMORY<br>IN EVERY AI CHIP</div></div></div>
+
+<!-- S03·B4 "Right now, it's sold out." -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-02.png" alt=""><div class="scrim"></div><div class="overlay"><div class="big" style="font-size:var(--type-h1)">SOLD OUT</div></div></div>
+
+<!-- S03·B5 "And Samsung is not a normal company." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 120" fill="none">
+  <line x1="20" y1="92" x2="240" y2="92" stroke="#2A3A4E" stroke-width="2"/>
+  <rect x="20" y="44" width="220" height="48" fill="#B4C8DC"/>
+</svg>
+<div class="caption">samsung</div>
+</div>
+
+<!-- S03·B6 "It's almost a quarter of South Korea's entire exports." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="80" stroke="#2A3A4E" stroke-width="2" fill="#13131A"/>
+  <path d="M100,100 L100,20 A80,80 0 0,1 175,73 Z" fill="#B4C8DC"/>
+</svg>
+<div class="caption">~23% of Korea's exports</div>
+</div>
+
+<!-- S03·B7 "So one walkout in that plant doesn't dent a single company's quarter." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 160" fill="none">
+  <rect x="50" y="44" width="100" height="72" stroke="#485070" stroke-width="3"/>
+  <path d="M150,44 q-22,36 0,72" fill="#0D0D0F" stroke="#485070" stroke-width="3"/>
+  <line x1="44" y1="30" x2="156" y2="130" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="156" y1="30" x2="44" y2="130" stroke="#B4C8DC" stroke-width="4"/>
+</svg>
+<div class="caption dim">not one company's quarter</div>
+</div>
+
+<!-- S03·B8 "It stalls the AI buildout for the whole planet." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="60" stroke="#485070" stroke-width="2"/>
+  <ellipse cx="100" cy="100" rx="24" ry="60" stroke="#485070" stroke-width="2"/>
+  <line x1="40" y1="100" x2="160" y2="100" stroke="#485070" stroke-width="2"/>
+  <circle cx="118" cy="64" r="14" stroke="#B4C8DC" stroke-width="2.5"/>
+  <circle cx="118" cy="64" r="28" stroke="#B4C8DC" stroke-width="2" opacity="0.6"/>
+  <circle cx="118" cy="64" r="42" stroke="#B4C8DC" stroke-width="1.5" opacity="0.3"/>
+</svg>
+<div class="caption">worldwide buildout — stalled</div>
+</div>
+
+<!-- S03·B9 "Their profit had jumped seven hundred and fifty-five percent in a year." -->
+<div class="slide hero-number"><div class="number">+755%</div><div class="label">division profit · one year</div></div>
+
+<!-- S03·B10 "So the workers asked for a cut." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="46" stroke="#485070" stroke-width="3"/>
+  <line x1="100" y1="54" x2="100" y2="38" stroke="#485070" stroke-width="3"/>
+  <line x1="100" y1="146" x2="100" y2="162" stroke="#485070" stroke-width="3"/>
+  <line x1="54" y1="100" x2="38" y2="100" stroke="#485070" stroke-width="3"/>
+  <line x1="146" y1="100" x2="162" y2="100" stroke="#485070" stroke-width="3"/>
+  <circle cx="100" cy="100" r="10" fill="#485070"/>
+  <path d="M150,150 q-18,-6 -30,-22" stroke="#B4C8DC" stroke-width="4" fill="none"/>
+  <circle cx="150" cy="150" r="6" fill="#B4C8DC"/>
+</svg>
+<div class="caption">asked</div>
+</div>
+
+<!-- S03·B11 "And they got it." -->
+<div class="slide stamp"><div class="text">GRANTED&nbsp;<span style="color:var(--accent)">✓</span></div></div>
+
+<!-- S03·B12 "Ten and a half percent of the division's profit." -->
+<div class="slide hero-number"><div class="number">10.5%</div><div class="label">of the division's profit</div></div>
+
+<!-- S03·B13 "Every year. For ten years." [hold] -->
+<div class="slide visual">
+<svg viewBox="0 0 280 80" fill="none">
+  <line x1="20"  y1="20" x2="20"  y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="48"  y1="20" x2="48"  y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="76"  y1="20" x2="76"  y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="104" y1="20" x2="104" y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="132" y1="20" x2="132" y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="160" y1="20" x2="160" y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="188" y1="20" x2="188" y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="216" y1="20" x2="216" y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="244" y1="20" x2="244" y2="60" stroke="#B4C8DC" stroke-width="4"/>
+  <line x1="272" y1="20" x2="272" y2="60" stroke="#B4C8DC" stroke-width="4"/>
+</svg>
+<div class="caption">every year · for ten years</div>
+</div>
+
+<!-- ════════════════ SCENE 04 — THE FRAME · WHO CAN SAY NO ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · THE FRAME · WHO CAN SAY NO</div></div>
+
+<!-- S04·B1 "And this is the part that shows up in every other story like it." -->
+<div class="slide stamp long"><div class="text">THE PATTERN</div></div>
+
+<!-- S04·B2 "The chip workers had two things." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 140" fill="none">
+  <rect x="24"  y="40" width="92" height="60" stroke="#B4C8DC" stroke-width="3"/>
+  <rect x="144" y="40" width="92" height="60" stroke="#B4C8DC" stroke-width="3"/>
+</svg>
+<div class="caption">two things</div>
+</div>
+
+<!-- S04·B3 "A union." (backdrop 006-03) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-03.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">A UNION</div></div></div>
+
+<!-- S04·B4 "And a product nobody could buy anywhere else." (backdrop 006-03) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-03.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t" style="font-size:var(--type-h2-mid)">THE ONLY SUPPLY</div></div></div>
+
+<!-- S04·B5 "Put those together, and they could shut the whole line down." (backdrop 006-03) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-03.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">STOP THE LINE</div></div></div>
+
+<!-- S04·B6 "So when they asked for a cut, the answer had to be yes." (backdrop 006-03) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-03.png" alt=""><div class="scrim"></div><div class="overlay"><div class="big">YES</div></div></div>
+
+<!-- S04·B7 "That's what this comes down to." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <rect x="20"  y="20"  width="160" height="160" stroke="#2A3A4E" stroke-width="2"/>
+  <rect x="44"  y="44"  width="112" height="112" stroke="#485070" stroke-width="2.5"/>
+  <rect x="70"  y="70"  width="60"  height="60"  stroke="#486986" stroke-width="3"/>
+  <rect x="90"  y="90"  width="20"  height="20"  fill="#B4C8DC"/>
+</svg>
+</div>
+
+<!-- S04·B8 "The power to say no, and make it stick." -->
+<div class="slide stamp long"><div class="text">THE POWER TO SAY NO</div></div>
+
+<!-- S04·B9 "The bonus is just the receipt." -->
+<div class="slide visual">
+<svg viewBox="0 0 140 200" fill="none">
+  <path d="M34,24 H106 V168 l-12,-8 l-12,8 l-12,-8 l-12,8 l-12,-8 l-12,8 Z" stroke="#485070" stroke-width="3" fill="#13131A"/>
+  <text x="70" y="108" text-anchor="middle" fill="#B4C8DC" font-family="Courier Prime, monospace" font-size="56" font-weight="700">$</text>
+</svg>
+<div class="caption dim">just the receipt</div>
+</div>
+
+<!-- S04·B10 "So hold onto the question." -->
+<div class="slide stamp"><div class="text" style="font-size:var(--type-hero);color:var(--accent)">?</div></div>
+
+<!-- S04·B11 [REFRAIN] "Who gets to say no?" -->
+<div class="slide refrain"><div class="text">WHO GETS TO SAY NO?</div></div>
+
+<!-- S04·B12 "Because the rest of this boom is full of people who can't." [hold] -->
+<div class="slide visual">
+<svg viewBox="0 0 300 160" fill="none">
+  <g fill="#2A3A4E">
+    <circle cx="40" cy="60" r="12"/><rect x="28" y="76" width="24" height="40"/>
+    <circle cx="90" cy="56" r="12"/><rect x="78" y="72" width="24" height="44"/>
+    <circle cx="140" cy="62" r="12"/><rect x="128" y="78" width="24" height="40"/>
+    <circle cx="190" cy="56" r="12"/><rect x="178" y="72" width="24" height="44"/>
+    <circle cx="240" cy="62" r="12"/><rect x="228" y="78" width="24" height="40"/>
+  </g>
+  <g fill="#485070">
+    <circle cx="65" cy="92" r="12"/><rect x="53" y="108" width="24" height="40"/>
+    <circle cx="115" cy="96" r="12"/><rect x="103" y="112" width="24" height="40"/>
+    <circle cx="165" cy="92" r="12"/><rect x="153" y="108" width="24" height="40"/>
+    <circle cx="215" cy="96" r="12"/><rect x="203" y="112" width="24" height="40"/>
+  </g>
+</svg>
+<div class="caption dim">people who can't</div>
+</div>
+
+<!-- ════════════════ SCENE 05 — THE RECEIPT · THE OTHER CHOKEPOINT ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · THE RECEIPT · THE OTHER CHOKEPOINT</div></div>
+
+<!-- S05·B1 "Now follow the electricity instead of the chips." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 140" fill="none">
+  <path d="M30,30 L30,110 M16,110 L44,110" stroke="#485070" stroke-width="3"/>
+  <path d="M250,30 L250,110 M236,110 L264,110" stroke="#485070" stroke-width="3"/>
+  <path d="M30,40 L250,40" stroke="#B4C8DC" stroke-width="3"/>
+  <path d="M30,52 Q140,72 250,52" stroke="#B4C8DC" stroke-width="2" opacity="0.6"/>
+</svg>
+<div class="caption">follow the electricity</div>
+</div>
+
+<!-- S05·B2 "It leads straight to the second bottleneck." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 140" fill="none">
+  <path d="M20,60 L180,60" stroke="#485070" stroke-width="3" marker-end="url(#ahd)"/>
+  <path d="M196,30 L250,60 L196,90 L214,60 Z" stroke="#B4C8DC" stroke-width="3" fill="none"/>
+</svg>
+<div class="caption">the second bottleneck</div>
+</div>
+
+<!-- S05·B3 "Every data center needs a giant transformer before it can switch on." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 160" fill="none">
+  <rect x="30" y="44" width="74" height="72" stroke="#485070" stroke-width="3"/>
+  <line x1="30" y1="68" x2="104" y2="68" stroke="#485070" stroke-width="2"/>
+  <line x1="30" y1="92" x2="104" y2="92" stroke="#485070" stroke-width="2"/>
+  <line x1="104" y1="80" x2="160" y2="80" stroke="#486986" stroke-width="3"/>
+  <rect x="164" y="50" width="86" height="60" rx="30" stroke="#B4C8DC" stroke-width="3"/>
+  <line x1="186" y1="50" x2="186" y2="110" stroke="#B4C8DC" stroke-width="2"/>
+  <line x1="228" y1="50" x2="228" y2="110" stroke="#B4C8DC" stroke-width="2"/>
+</svg>
+<div class="caption">data center · transformer</div>
+</div>
+
+<!-- S05·B4 "That's the equipment that moves power across the grid." -->
+<div class="slide visual">
+<svg viewBox="0 0 220 160" fill="none">
+  <rect x="56" y="40" width="108" height="80" rx="40" stroke="#B4C8DC" stroke-width="3"/>
+  <line x1="86" y1="40" x2="86" y2="120" stroke="#B4C8DC" stroke-width="2"/>
+  <line x1="110" y1="40" x2="110" y2="120" stroke="#B4C8DC" stroke-width="2"/>
+  <line x1="134" y1="40" x2="134" y2="120" stroke="#B4C8DC" stroke-width="2"/>
+</svg>
+<div class="caption">moves power across the grid</div>
+</div>
+
+<!-- S05·B5 "The wait for a big one has stretched to four years." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 100" fill="none">
+  <rect x="20" y="40" width="240" height="22" stroke="#2A3A4E" stroke-width="2"/>
+  <rect x="20" y="40" width="204" height="22" fill="#B4C8DC"/>
+  <line x1="20" y1="74" x2="260" y2="74" stroke="#485070" stroke-width="2"/>
+</svg>
+<div class="caption">2.5 yrs → 4 yrs</div>
+</div>
+
+<!-- S05·B6 "And it gets stranger." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <path d="M30,30 L170,30 L120,110 L120,180 L80,180 L80,110 Z" stroke="#B4C8DC" stroke-width="3" fill="none"/>
+</svg>
+</div>
+
+<!-- S05·B7 "The special steel inside that transformer's core comes from exactly one factory in the entire United States." -->
+<div class="slide visual">
+<svg viewBox="0 0 300 180" fill="none">
+  <path d="M40,70 L70,58 L120,64 L170,54 L230,58 L262,70 L256,96 L264,112 L240,128 L210,124 L150,134 L96,128 L60,132 L46,108 L52,90 Z" stroke="#485070" stroke-width="2.5" fill="#13131A"/>
+  <circle cx="214" cy="92" r="5" fill="#B4C8DC"/>
+  <circle cx="214" cy="92" r="13" stroke="#B4C8DC" stroke-width="1.5" opacity="0.5"/>
+</svg>
+<div class="caption dim">one factory · in the entire U.S.</div>
+</div>
+
+<!-- S05·B8 "One mill, in Butler, Pennsylvania." -->
+<div class="slide visual">
+<svg viewBox="0 0 300 180" fill="none">
+  <path d="M40,70 L70,58 L120,64 L170,54 L230,58 L262,70 L256,96 L264,112 L240,128 L210,124 L150,134 L96,128 L60,132 L46,108 L52,90 Z" stroke="#485070" stroke-width="2.5" fill="#13131A"/>
+  <path d="M214,92 m0,-26 a13,13 0 1,1 -0.1,0 Z" stroke="#B4C8DC" stroke-width="2.5" fill="none"/>
+  <line x1="214" y1="79" x2="214" y2="100" stroke="#B4C8DC" stroke-width="2.5"/>
+  <circle cx="214" cy="74" r="6" fill="#B4C8DC"/>
+</svg>
+<div class="caption">Butler, PA · 1 mill</div>
+</div>
+
+<!-- S05·B9 "The CEO of that company says it plainly." -->
+<div class="slide visual">
+<svg viewBox="0 0 240 160" fill="none">
+  <rect x="30" y="30" width="180" height="100" stroke="#485070" stroke-width="2.5"/>
+  <path d="M58,58 q-10,0 -10,12 q0,12 12,12 M58,58 l-6,24" stroke="#B4C8DC" stroke-width="3" fill="none"/>
+  <path d="M86,58 q-10,0 -10,12 q0,12 12,12 M86,58 l-6,24" stroke="#B4C8DC" stroke-width="3" fill="none"/>
+</svg>
+<div class="caption dim">the CEO says it plainly</div>
+</div>
+
+<!-- S05·B10 "No AI without electricity." -->
+<div class="slide stamp long"><div class="text">"No AI without electricity."</div></div>
+
+<!-- S05·B11 "And no electricity without transformers." -->
+<div class="slide stamp long"><div class="text">"And no electricity without transformers."<span class="sub">— Cleveland-Cliffs CEO</span></div></div>
+
+<!-- S05·B12 "The grid is a chokepoint, exactly like the memory plant." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 160" fill="none">
+  <rect x="44" y="58" width="44" height="44" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="40" y1="68" x2="44" y2="68" stroke="#B4C8DC" stroke-width="2.5"/><line x1="40" y1="92" x2="44" y2="92" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="88" y1="68" x2="92" y2="68" stroke="#B4C8DC" stroke-width="2.5"/><line x1="88" y1="92" x2="92" y2="92" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="120" y1="80" x2="160" y2="80" stroke="#485070" stroke-width="2"/>
+  <rect x="172" y="56" width="64" height="48" rx="24" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="192" y1="56" x2="192" y2="104" stroke="#B4C8DC" stroke-width="2"/>
+  <line x1="216" y1="56" x2="216" y2="104" stroke="#B4C8DC" stroke-width="2"/>
+</svg>
+<div class="caption">same chokepoint</div>
+</div>
+
+<!-- S05·B13 "With one difference." [hold] -->
+<div class="slide visual">
+<svg viewBox="0 0 280 160" fill="none">
+  <rect x="44" y="58" width="44" height="44" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="40" y1="68" x2="44" y2="68" stroke="#B4C8DC" stroke-width="2.5"/><line x1="40" y1="92" x2="44" y2="92" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="88" y1="68" x2="92" y2="68" stroke="#B4C8DC" stroke-width="2.5"/><line x1="88" y1="92" x2="92" y2="92" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="120" y1="80" x2="160" y2="80" stroke="#2A3A4E" stroke-width="2"/>
+  <rect x="172" y="56" width="64" height="48" rx="24" stroke="#485070" stroke-width="2.5" transform="rotate(8 204 80)"/>
+</svg>
+<div class="caption dim">with one difference</div>
+</div>
+
+<!-- ════════════════ SCENE 06 — THE RECEIPT · THE BILL ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · THE RECEIPT · THE BILL</div></div>
+
+<!-- S06·B1 "The difference is that nobody here has a hand on the valve." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="46" stroke="#485070" stroke-width="3"/>
+  <line x1="100" y1="54" x2="100" y2="38" stroke="#485070" stroke-width="3"/>
+  <line x1="100" y1="146" x2="100" y2="162" stroke="#485070" stroke-width="3"/>
+  <line x1="54" y1="100" x2="38" y2="100" stroke="#485070" stroke-width="3"/>
+  <line x1="146" y1="100" x2="162" y2="100" stroke="#485070" stroke-width="3"/>
+  <circle cx="100" cy="100" r="10" fill="#485070"/>
+</svg>
+<div class="caption dim">no hand on the valve</div>
+</div>
+
+<!-- S06·B2 "The grid operator for thirteen eastern states ran its auctions for future power." -->
+<div class="slide stamp long"><div class="text">PJM · 13 EASTERN STATES<span class="sub">the grid operator · auctions for future power</span></div></div>
+
+<!-- S06·B3 "The math came back ugly." -->
+<div class="slide visual">
+<svg viewBox="0 0 220 160" fill="none">
+  <rect x="34" y="30" width="152" height="100" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="110" y1="30" x2="110" y2="130" stroke="#485070" stroke-width="2"/>
+  <line x1="46" y1="52" x2="98" y2="52" stroke="#485070" stroke-width="2"/>
+  <line x1="122" y1="52" x2="174" y2="52" stroke="#485070" stroke-width="2"/>
+  <line x1="46" y1="74" x2="98" y2="74" stroke="#485070" stroke-width="2"/>
+  <line x1="122" y1="74" x2="174" y2="74" stroke="#485070" stroke-width="2"/>
+  <line x1="46" y1="96" x2="98" y2="96" stroke="#485070" stroke-width="2"/>
+  <line x1="122" y1="96" x2="174" y2="96" stroke="#485070" stroke-width="2"/>
+</svg>
+<div class="caption dim">the math came back ugly</div>
+</div>
+
+<!-- S06·B4 "Data-center demand added almost fourteen billion dollars to customer bills." [hold] -->
+<div class="slide hero-number"><div class="number">$13.77B</div><div class="label">added to customer bills</div></div>
+
+<!-- S06·B5 "Wholesale power, up more than seventy-five percent in a single year." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <line x1="30" y1="180" x2="180" y2="180" stroke="#485070" stroke-width="2"/>
+  <rect x="56" y="120" width="34" height="60" fill="#485070"/>
+  <rect x="120" y="40" width="34" height="140" fill="#B4C8DC"/>
+  <polyline points="137,36 137,18" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+</svg>
+<div class="caption">+75.5% · one year</div>
+</div>
+
+<!-- S06·B6 "That lands on families in Ohio and Virginia." (backdrop 006-04) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-04.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">OHIO · VIRGINIA</div></div></div>
+
+<!-- S06·B7 "They never voted on the data centers driving the number." (backdrop 006-04) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-04.png" alt=""><div class="scrim"></div><div class="overlay"><div class="big">NO VOTE</div></div></div>
+
+<!-- S06·B8 "They just pay more for the same electricity." (backdrop 006-04) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-04.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">PAY MORE</div><span class="lbl">for the same electricity</span></div></div>
+
+<!-- S06·B9 "The chip workers had a union." (backdrop 006-04) -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-04.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">A UNION</div><span class="lbl">the chip workers had</span></div></div>
+
+<!-- S06·B10 "The person opening that power bill has a billing address." [hold ~1.5s] -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-04.png" alt=""><div class="scrim"></div><div class="overlay"><div class="stamp-t">A BILLING ADDRESS</div><span class="lbl">the ratepayer has</span></div></div>
+
+<!-- ════════════════ SCENE 07 — THE TWIST · IT DOESN'T ROLL DOWNHILL ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · THE TWIST · IT DOESN'T ROLL DOWNHILL</div></div>
+
+<!-- S07·B1 "Here's where the easy version of this story falls apart." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 100" fill="none">
+  <line x1="30" y1="50" x2="240" y2="50" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+</svg>
+<div class="caption dim">the easy version</div>
+</div>
+
+<!-- S07·B2 "You'd think the chip workers' bonus just gets passed down to you." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 120" fill="none">
+  <line x1="70" y1="60" x2="210" y2="60" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <text x="40" y="66" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="15">BONUS</text>
+  <text x="244" y="66" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="15">YOU</text>
+</svg>
+</div>
+
+<!-- S07·B3 "Higher chip prices, higher everything, your bill goes up." -->
+<div class="slide visual">
+<svg viewBox="0 0 240 200" fill="none">
+  <polyline points="120,176 120,150" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <polyline points="120,140 120,114" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <polyline points="120,104 120,40" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <text x="150" y="176" fill="#557FA3" font-family="Courier Prime, monospace" font-size="13">CHIP PRICE</text>
+  <text x="150" y="138" fill="#557FA3" font-family="Courier Prime, monospace" font-size="13">EVERYTHING</text>
+  <text x="150" y="92" fill="#557FA3" font-family="Courier Prime, monospace" font-size="13">YOUR BILL</text>
+</svg>
+</div>
+
+<!-- S07·B4 "Clean and simple." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 120" fill="none">
+  <rect x="24" y="44" width="44" height="32" stroke="#485070" stroke-width="2.5"/>
+  <line x1="68" y1="60" x2="104" y2="60" stroke="#B4C8DC" stroke-width="2.5" marker-end="url(#ah)"/>
+  <rect x="112" y="44" width="44" height="32" stroke="#485070" stroke-width="2.5"/>
+  <line x1="156" y1="60" x2="192" y2="60" stroke="#B4C8DC" stroke-width="2.5" marker-end="url(#ah)"/>
+  <rect x="200" y="44" width="44" height="32" stroke="#485070" stroke-width="2.5"/>
+</svg>
+<div class="caption dim">clean &amp; simple</div>
+</div>
+
+<!-- S07·B5 "It doesn't work that way." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 120" fill="none">
+  <line x1="30" y1="60" x2="120" y2="60" stroke="#2A3A4E" stroke-width="3"/>
+  <line x1="160" y1="64" x2="250" y2="64" stroke="#2A3A4E" stroke-width="3"/>
+  <line x1="112" y1="34" x2="168" y2="90" stroke="#B4C8DC" stroke-width="5"/>
+  <line x1="168" y1="34" x2="112" y2="90" stroke="#B4C8DC" stroke-width="5"/>
+</svg>
+<div class="caption dim">it doesn't work that way</div>
+</div>
+
+<!-- S07·B6 "The bonus is a slice of profit." -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="80" stroke="#2A3A4E" stroke-width="2" fill="#13131A"/>
+  <path d="M100,100 L100,20 A80,80 0 0,1 168,60 Z" fill="#B4C8DC"/>
+</svg>
+<div class="caption">profit</div>
+</div>
+
+<!-- S07·B7 "It comes out of what's left after the chips sell, not out of the price stamped on each one." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 140" fill="none">
+  <rect x="40" y="28" width="200" height="40" fill="#B4C8DC"/>
+  <path d="M70,96 l40,0 l0,18 l-12,10 l-28,0 Z" stroke="#2A3A4E" stroke-width="2.5" fill="none"/>
+  <circle cx="80" cy="106" r="3" fill="#2A3A4E"/>
+</svg>
+<div class="caption">after the chips sell</div>
+</div>
+
+<!-- S07·B8 "So his raise did not pay for your bill." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 120" fill="none">
+  <line x1="60" y1="60" x2="220" y2="60" stroke="#485070" stroke-width="3"/>
+  <line x1="118" y1="34" x2="162" y2="86" stroke="#B4C8DC" stroke-width="5"/>
+  <line x1="162" y1="34" x2="118" y2="86" stroke="#B4C8DC" stroke-width="5"/>
+  <text x="40" y="66" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="12">HIS RAISE</text>
+  <text x="244" y="66" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="12">YOUR BILL</text>
+</svg>
+</div>
+
+<!-- S07·B9 "And your bill did not fund his raise." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 120" fill="none">
+  <line x1="60" y1="60" x2="220" y2="60" stroke="#485070" stroke-width="3"/>
+  <line x1="118" y1="34" x2="162" y2="86" stroke="#B4C8DC" stroke-width="5"/>
+  <line x1="162" y1="34" x2="118" y2="86" stroke="#B4C8DC" stroke-width="5"/>
+  <text x="40" y="66" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="12">YOUR BILL</text>
+  <text x="244" y="66" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="12">HIS RAISE</text>
+</svg>
+</div>
+
+<!-- S07·B10 "They come out of the same boom." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <polyline points="30,40 124,80" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <polyline points="30,120 124,80" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <circle cx="130" cy="80" r="7" fill="#B4C8DC"/>
+</svg>
+<div class="caption">the same boom</div>
+</div>
+
+<!-- S07·B11 "They are not the same money." [hold ~1.5s — the line that earns the click] -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <g stroke="#B4C8DC" stroke-width="2.5" fill="none">
+    <rect x="44" y="56" width="64" height="14"/><rect x="44" y="74" width="64" height="14"/><rect x="44" y="92" width="64" height="14"/>
+  </g>
+  <g stroke="#B4C8DC" stroke-width="2.5" fill="none">
+    <rect x="152" y="56" width="64" height="14"/><rect x="152" y="74" width="64" height="14"/><rect x="152" y="92" width="64" height="14"/>
+  </g>
+</svg>
+<div class="caption">not the same money</div>
+</div>
+
+<!-- ════════════════ SCENE 08 — THE STAKES · THE PLAYBOOK TRAVELS ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · THE STAKES · THE PLAYBOOK TRAVELS</div></div>
+
+<!-- S08·B1 "And this is already spreading." -->
+<div class="slide visual">
+<svg viewBox="0 0 280 160" fill="none">
+  <path d="M30,80 q30,-30 60,0 t60,0 t60,0 t40,0" stroke="#485070" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="120" cy="80" r="6" fill="#B4C8DC"/>
+  <circle cx="120" cy="80" r="20" stroke="#B4C8DC" stroke-width="2" opacity="0.6"/>
+  <circle cx="120" cy="80" r="36" stroke="#B4C8DC" stroke-width="1.5" opacity="0.35"/>
+  <circle cx="120" cy="80" r="52" stroke="#B4C8DC" stroke-width="1" opacity="0.2"/>
+</svg>
+<div class="caption">already spreading</div>
+</div>
+
+<!-- S08·B2 "Within days of the Samsung vote," -->
+<div class="slide stamp"><div class="text">DAYS LATER</div></div>
+
+<!-- S08·B3 "TSMC, the one other chipmaker with the same kind of pull," -->
+<div class="slide stamp long"><div class="text">TSMC<span class="sub">the one with the same kind of pull</span></div></div>
+
+<!-- S08·B4 "told its own staff their profit-sharing would jump more than thirty percent." -->
+<div class="slide hero-number"><div class="number">+30%</div><div class="label">profit-sharing</div></div>
+
+<!-- S08·B5 "In the US, two of the biggest unions are studying exactly what Samsung's workers just pulled off." -->
+<div class="slide visual">
+<svg viewBox="0 0 300 180" fill="none">
+  <path d="M40,70 L70,58 L120,64 L170,54 L230,58 L262,70 L256,96 L264,112 L240,128 L210,124 L150,134 L96,128 L60,132 L46,108 L52,90 Z" stroke="#485070" stroke-width="2.5" fill="#13131A"/>
+  <circle cx="120" cy="96" r="4" fill="#B4C8DC"/>
+  <circle cx="200" cy="90" r="4" fill="#B4C8DC"/>
+</svg>
+<div class="caption">UAW + CWA — studying it</div>
+</div>
+
+<!-- S08·B6 "There's talk of an AI dividend showing up at company shareholder meetings next year." -->
+<div class="slide stamp long"><div class="text">AN AI DIVIDEND<span class="sub">next proxy season?</span></div></div>
+
+<!-- S08·B7 "So the same split travels with it." -->
+<div class="slide visual">
+<svg viewBox="0 0 260 160" fill="none">
+  <polyline points="30,80 124,80" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <polyline points="124,80 224,36" stroke="#486986" stroke-width="3" marker-end="url(#ahs)"/>
+  <polyline points="124,80 224,124" stroke="#486986" stroke-width="3" marker-end="url(#ahs)"/>
+  <circle cx="124" cy="80" r="4" fill="#B4C8DC"/>
+</svg>
+<div class="caption">the same split</div>
+</div>
+
+<!-- S08·B8 "Where workers can organize, they write themselves a claim on the boom." -->
+<div class="slide stamp long"><div class="text">ORGANIZE<span class="sub">→ a claim on the boom</span></div></div>
+
+<!-- S08·B9 "Where they can't, the bill just shows up in the mailbox." [hold] -->
+<div class="slide visual">
+<svg viewBox="0 0 200 200" fill="none">
+  <path d="M50,90 h70 a18,18 0 0,1 0,36 h-70 Z" stroke="#485070" stroke-width="3" fill="#13131A"/>
+  <line x1="50" y1="126" x2="50" y2="180" stroke="#485070" stroke-width="3"/>
+  <line x1="120" y1="100" x2="120" y2="116" stroke="#485070" stroke-width="2"/>
+  <rect x="128" y="78" width="40" height="26" stroke="#B4C8DC" stroke-width="2.5" fill="#0D0D0F"/>
+  <polyline points="128,78 148,94 168,78" stroke="#B4C8DC" stroke-width="2"/>
+</svg>
+<div class="caption dim">it shows up in the mailbox</div>
+</div>
+
+<!-- ════════════════ SCENE 09 — TEASE ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · TEASE</div></div>
+
+<!-- S09·B1 "I left the biggest parts of this out of the video." -->
+<div class="slide stamp long"><div class="text">NOT IN THIS VIDEO</div></div>
+
+<!-- S09·B2 "I didn't tell you about the one-paragraph contract from nineteen fifty-one that this deal quietly rhymes with." -->
+<div class="slide visual">
+<svg viewBox="0 0 180 200" fill="none">
+  <path d="M40,24 H120 L140,44 V176 H40 Z" stroke="#485070" stroke-width="2.5" fill="#13131A"/>
+  <path d="M120,24 V44 H140" stroke="#485070" stroke-width="2.5" fill="none"/>
+  <line x1="56" y1="92" x2="124" y2="92" stroke="#2A3A4E" stroke-width="2"/>
+  <line x1="56" y1="104" x2="124" y2="104" stroke="#2A3A4E" stroke-width="2"/>
+  <line x1="56" y1="116" x2="104" y2="116" stroke="#2A3A4E" stroke-width="2"/>
+</svg>
+<div class="caption">1951</div>
+</div>
+
+<!-- S09·B3 "Or the plan in Korea to mail every citizen a check funded by AI tax money." -->
+<div class="slide visual">
+<svg viewBox="0 0 240 160" fill="none">
+  <rect x="34" y="44" width="172" height="72" stroke="#485070" stroke-width="2.5" fill="#13131A"/>
+  <line x1="34" y1="44" x2="60" y2="44" stroke="#B4C8DC" stroke-width="2.5"/>
+  <line x1="48" y1="78" x2="120" y2="78" stroke="#2A3A4E" stroke-width="2"/>
+  <rect x="150" y="58" width="42" height="22" stroke="#B4C8DC" stroke-width="2"/>
+  <circle cx="120" cy="80" r="22" stroke="#485070" stroke-width="1.5" opacity="0.5" fill="none"/>
+</svg>
+<div class="caption">the citizen dividend</div>
+</div>
+
+<!-- S09·B4 "Or the part where I called this whole thing wrong, in print, back in April," -->
+<div class="slide visual">
+<svg viewBox="0 0 240 160" fill="none">
+  <rect x="30" y="26" width="180" height="108" stroke="#2A3A4E" stroke-width="2" fill="#13131A"/>
+  <rect x="42" y="38" width="156" height="16" fill="#1A1A24"/>
+  <line x1="42" y1="68" x2="198" y2="68" stroke="#1A1A24" stroke-width="3"/>
+  <line x1="42" y1="82" x2="198" y2="82" stroke="#1A1A24" stroke-width="3"/>
+  <line x1="42" y1="96" x2="150" y2="96" stroke="#1A1A24" stroke-width="3"/>
+</svg>
+<div class="caption">I called it wrong · April</div>
+</div>
+
+<!-- S09·B5 "and then watched the workers do the exact opposite of what I predicted." -->
+<div class="slide visual">
+<svg viewBox="0 0 240 160" fill="none">
+  <path d="M60,110 a52,52 0 1,1 104,0" stroke="#485070" stroke-width="3" fill="none"/>
+  <polyline points="60,110 60,128" stroke="#B4C8DC" stroke-width="3" marker-end="url(#ah)"/>
+  <polyline points="164,110 164,92" stroke="#2A3A4E" stroke-width="3"/>
+</svg>
+<div class="caption dim">the exact opposite</div>
+</div>
+
+<!-- S09·B6 "That's all in the piece." -->
+<div class="slide visual">
+<svg viewBox="0 0 220 180" fill="none">
+  <rect x="46" y="26" width="128" height="128" stroke="#485070" stroke-width="2.5" fill="#13131A"/>
+  <rect x="46" y="26" width="128" height="24" fill="#1A1A24"/>
+  <circle cx="60" cy="38" r="4" fill="#557FA3"/>
+</svg>
+<div class="caption">read the piece</div>
+</div>
+
+<!-- S09·B7 "Along with the question I can't shake." -->
+<div class="slide stamp"><div class="text" style="font-size:var(--type-hero);color:var(--accent)">?</div></div>
+
+<!-- S09·B8 "Somebody organized the chip workers." -->
+<div class="slide visual">
+<svg viewBox="0 0 240 180" fill="none">
+  <circle cx="90" cy="70" r="32" stroke="#485070" stroke-width="2" opacity="0.7"/>
+  <circle cx="120" cy="60" r="32" stroke="#485070" stroke-width="2" opacity="0.7"/>
+  <circle cx="150" cy="70" r="32" stroke="#485070" stroke-width="2" opacity="0.7"/>
+  <circle cx="100" cy="78" r="18" fill="#B4C8DC"/>
+  <path d="M70,160 Q100,108 130,160" fill="#B4C8DC"/>
+</svg>
+<div class="caption">organized · backed</div>
+</div>
+
+<!-- S09·B9 "Nobody has organized the people opening the power bill." (standalone 006-05) -->
+<div class="slide image-moment"><img class="bg-image" src="006-05.png" alt="A lone ratepayer, no union behind them"></div>
+
+<!-- S09·B10 "Not yet." [hold ~1.5s] — overlay in the empty left space beside the lone ratepayer -->
+<div class="slide image-backdrop"><img class="bg-image" src="006-05.png" alt=""><div class="scrim"></div><div class="overlay left"><div class="big">NOT YET.</div></div></div>
+
+<!-- ════════════════ SCENE 10 — END ════════════════ -->
+<div class="slide scene-header"><div class="kicker">DISPATCH №006 · END</div></div>
+
+<!-- S10·B1 "The full piece is on Substack." -->
+<div class="slide visual">
+<svg viewBox="0 0 220 180" fill="none">
+  <rect x="46" y="26" width="128" height="128" stroke="#557FA3" stroke-width="2.5" fill="#13131A"/>
+  <rect x="46" y="26" width="128" height="26" fill="#1A1A24"/>
+  <text x="110" y="44" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="14" font-weight="700">S</text>
+</svg>
+<div class="caption">the full piece is on Substack</div>
+</div>
+
+<!-- S10·B2 "The two workers, the power bill, and the one question that decides who wins this boom." -->
+<div class="slide visual">
+<svg viewBox="0 0 300 140" fill="none">
+  <!-- two figures -->
+  <g transform="translate(30,30)"><circle cx="14" cy="14" r="12" fill="#B4C8DC"/><circle cx="40" cy="14" r="12" fill="#485070"/><path d="M0,80 Q14,40 28,80" fill="#B4C8DC"/><path d="M26,80 Q40,40 54,80" fill="#485070"/></g>
+  <!-- bill -->
+  <g transform="translate(130,34)"><rect x="0" y="6" width="56" height="68" stroke="#485070" stroke-width="2.5" fill="#13131A"/><polyline points="8,28 48,44" stroke="#B4C8DC" stroke-width="2.5" marker-end="url(#ah)"/></g>
+  <!-- question -->
+  <text x="252" y="84" text-anchor="middle" fill="#557FA3" font-family="Courier Prime, monospace" font-size="64" font-weight="700">?</text>
+</svg>
+</div>
+
+<!-- S10·B3 "The Civic Node." -->
+<div class="slide endcard">
+<svg viewBox="-200 -200 400 460" fill="none" stroke="#557FA3" stroke-width="14" stroke-linecap="round">
+  <line x1="-72" y1="-130" x2="72" y2="-130"/>
+  <line x1="0" y1="-130" x2="0" y2="100"/>
+  <line x1="0" y1="100" x2="-170" y2="200"/>
+  <line x1="0" y1="100" x2="170" y2="200"/>
+  <circle cx="0" cy="100" r="28" fill="#557FA3" stroke="none"/>
+</svg>
+<div class="wordmark">THE CIVIC NODE</div>
+</div>
+
+<!-- S10·B4 "Subscribe free at drinkyouroj.substack.com." -->
+<div class="slide stamp long"><div class="text" style="color:var(--accent)">drinkyouroj.substack.com<span class="sub" style="color:var(--strong)">[ SUBSCRIBE — FREE ]</span></div></div>
+
+<!-- S10·B5 "Weekly. No hype." [hold] -->
+<div class="slide stamp"><div class="text">Weekly. No hype.</div></div>
+
+</div>
+
+<div id="counter"></div>
+
+<script>
+  const slides = Array.from(document.querySelectorAll('.slide'));
+  const counter = document.getElementById('counter');
+  let current = 0;
+
+  function render() {
+    counter.textContent = String(current + 1).padStart(3, '0') + ' / ' + String(slides.length).padStart(3, '0');
+  }
+  function advance() {
+    slides[current].classList.remove('active');
+    current = Math.min(current + 1, slides.length - 1);
+    slides[current].classList.add('active');
+    render();
+  }
+  function retreat() {
+    slides[current].classList.remove('active');
+    current = Math.max(current - 1, 0);
+    slides[current].classList.add('active');
+    render();
+  }
+  document.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'ArrowDown') { e.preventDefault(); advance(); }
+    if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); retreat(); }
+    if (e.key === 'Home') { slides[current].classList.remove('active'); current = 0; slides[0].classList.add('active'); render(); }
+  });
+  document.addEventListener('click', advance);
+  render();
+</script>
+</body>
+</html>
