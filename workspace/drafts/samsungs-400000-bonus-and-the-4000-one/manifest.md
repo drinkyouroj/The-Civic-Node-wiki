@@ -2,9 +2,9 @@
 
 **Synthesis source:** wiki/syntheses/The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs.md
 **Slug:** samsungs-400000-bonus-and-the-4000-one
-**Status:** ready-to-publish
-**Last touched:** 2026-06-02 ET
-**Current step:** COMPLETE (10 of 10) — final draft = 05-draft-v6.md; approved at final read-through 2026-06-02
+**Status:** ready-to-publish (v7 is a post-approval editorial revision — see step 10; recommend a quick re-read of the reworked Personal Code section before publish)
+**Last touched:** 2026-06-03 ET
+**Current step:** COMPLETE (10 of 10) — final draft = 05-draft-v7.md; v6 preserved unchanged as the approved 2026-06-02 snapshot
 **Publish target:** Friday, 2026-06-05 (6–7 PM ET)
 **Branch:** article/issue6-ai-windfall-sharing
 
@@ -23,6 +23,7 @@
 - [x] 8. tcn-fact-check → 08-fact-check-v1.md (2 flagged) + v2 (clean) + v3 (iteration-3 deep re-run, user-requested: 1 precision flag + 2 sourcing upgrades) + v4 (clean exit on v5)
 - [x] 9. tcn-fact-reconcile → 05-draft-v4.md (2 fixes + Bloomberg→archive swap) → 05-draft-v5.md (3 iteration-3 fixes: 755% attribution + 2 sourcing upgrades) → 05-draft-v6.md (reader-access swap: SK Hynix "previous fall" link → archive.ph/mfxoX after user scraped the Bloomberg primary; that primary ingested to wiki)
 - [x] 10. final read-through → approved 2026-06-02; status set to ready-to-publish. Final draft = 05-draft-v6.md. Publish Friday 2026-06-05, 6–7 PM ET.
+- [→] 10b. post-approval editorial revision (2026-06-03) → 05-draft-v7.md. Split the "Personal Code" section: the process-confession half (April "wrong variable" miss) was cut from the flagship and folded into the 6/10 paid note ("I Had the Wrong Thread"), which now runs two errors (wrong variable + wrong thread). Flagship keeps the emotional landing only. Re-subtitled "Personal Code: The bill I never voted on" (echoes the dek). Voice fixes: §3F de-reframed opener, dropped banned "nobody" closer (§3B/§3K) for an opener-bookending valve close, sharpened the ratepayer "inside the deal / never inside it" beat. No new facts — body §1–Protocol byte-identical to v6, fact-check stays clean. Body inline links 22 → 21 (April self-link moved to the paid note). See v7 reconciliation note for the full diff.
 
 ## Fact-check loop history (filled in during steps 8–9)
 
