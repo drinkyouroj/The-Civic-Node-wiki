@@ -1,19 +1,27 @@
 # PASS 1 — Dispatch №006 · Samsung's $400,000 Bonus, and the $4,000 One
 ## tcn-youtube-slideshow · narrative image placement + prompts
 
+> **Synced to narration v7 (2026-06-03).** Outro rebuilt: the old Scene 09 TEASE
+> (April "called it wrong" + "Not yet.") became Scene 09 "No valve to grab" (the
+> personal landing) + Scene 10 TEASE; Scene 11 is END. Body Scenes 01–08 unchanged.
+> Same 5 images — 006-05 moved from the deleted "Not yet." beat to the closing
+> personal scene; 006-01 picks up a callback in Scene 09. Deck: `dispatch-006.html`.
+
 ---
 
 ## Beat inventory
 
 ```
-Beat inventory — Dispatch №006 (102 beats across 10 scenes):
-  scene-header:                    10  (generated, no image needed)
-  stamp:                           32
-  hero-number:                      7
+Beat inventory — Dispatch №006 (109 beats across 11 scenes):
+  scene-header:                    11  (generated, no image needed)
+  stamp:                           18
+  hero-number:                      5
   refrain:                          2
-  abstract visual (HTML/CSS/SVG):  61
+  abstract visual (HTML/CSS/SVG):  57
+  endcard (logo):                   1
+  image (standalone + backdrop):   26
   ─────────────────────────────────
-  Total slides:                   112
+  Total slides:                   120
 ```
 
 ### Scene-by-scene type breakdown
@@ -34,9 +42,11 @@ Beat inventory — Dispatch №006 (102 beats across 10 scenes):
 
 **S08 THE STAKES · THE PLAYBOOK TRAVELS (9):** B1 abstract · B2 stamp · B3 stamp · B4 hero-number · B5 stamp · B6 stamp · B7 abstract · B8 stamp · B9 abstract
 
-**S09 TEASE (10):** B1 stamp · B2 abstract · B3 abstract · B4 abstract · B5 abstract · B6 abstract · B7 stamp · B8 abstract · B9 abstract · B10 stamp
+**S09 THE STAKES · NO VALVE TO GRAB (10):** B1 hero-number ($400,000) · B2 abstract (power bill) · B3 abstract (proximity map) · B4 stamp · B5 abstract (dim worker) · B6 image (006-01 callback, standalone) · B7 image (006-01 backdrop) · B8 image (006-05 standalone) · B9 abstract (turned valve) · B10 image (006-05 backdrop · NO VALVE TO GRAB)
 
-**S10 END (5):** B1 abstract · B2 abstract · B3 stamp · B4 stamp · B5 stamp
+**S10 TEASE (7):** B1 stamp · B2 abstract (1951) · B3 abstract (citizen dividend) · B4 abstract (21% fracture) · B5 abstract (gavel) · B6 abstract (who pays) · B7 abstract (read the piece)
+
+**S11 END (5):** B1 abstract · B2 abstract · B3 endcard · B4 stamp · B5 stamp
 
 ---
 
@@ -45,12 +55,13 @@ Beat inventory — Dispatch №006 (102 beats across 10 scenes):
 ```
 IMAGE PLACEMENT — Dispatch №006 (5 images)
 
-[IMAGE 006-01] Scene 01 · Backdrop · 16:9
+[IMAGE 006-01] Scenes 01 + 09 · Backdrop / standalone · 16:9
 Narrative: Two workers leaving the same Samsung plant — the cold open, the whole
            dispatch's visual anchor. The 100:1 gap lives in this picture.
-Covers: S01 B1–B7 (image persists across 7 beats; abstract HTML/CSS silhouettes
-        and hero-numbers $400,000 / $4,000 overlay on the image background)
-Usage: backdrop — all S01 visual beats render over this image
+Covers: S01 B1–B7 (image persists; silhouettes + $400,000 / $4,000 overlay) AND
+        S09 B6–B7 (closing-scene callback: "picture those two workers again",
+        standalone, then "$4,000 · UNION · VOTE / still inside the deal" overlay)
+Usage: backdrop + standalone — reused in the closing personal scene
 
 [IMAGE 006-02] Scene 03 · Standalone · 16:9
 Narrative: The HBM memory chip — the one part the whole boom can't run without.
@@ -72,11 +83,13 @@ Covers: S06 B6–B10 (Ohio + Virginia, NO VOTE, they just pay, A UNION / A BILLI
         ADDRESS — the closing receipt beats of Scene 06)
 Usage: backdrop — stamps and the matched-pair overlay on this image
 
-[IMAGE 006-05] Scene 09 · Standalone · 16:9
-Narrative: The lone ratepayer — nobody behind them, not yet.
-           The emotional gut-punch before "Not yet." lands.
-Covers: S09 B9 (one beat, full frame, isolation is the subject)
-Usage: standalone — no overlay, the emptiness IS the image
+[IMAGE 006-05] Scene 09 · Standalone + Backdrop · 16:9
+Narrative: The lone ratepayer — no union behind them, never inside the deal.
+           The emotional gut-punch of the closing personal scene.
+Covers: S09 B8 (standalone — "the person opening that power bill was never inside
+        it") and S09 B10 (backdrop — "NO VALVE TO GRAB" overlaid in the empty left
+        space; the valve-bookend close echoing the cold open)
+Usage: standalone + backdrop — the v7 close replaced the old "Not yet." beat
 ```
 
 ---
@@ -184,7 +197,7 @@ on top. Leave compositional breathing room around the central document.
 
 ---
 
-### IMAGE 006-05 — The lone ratepayer (not yet)
+### IMAGE 006-05 — The lone ratepayer (never inside it)
 
 **Base template:** #15832 — Retro Anime Silhouette Prompt
 `"A silhouetted figure in [pose] against [background] in [style]."`
@@ -216,7 +229,7 @@ Generate each image using fal.ai or your preferred image tool. Name files:
 - `006-02.png` — HBM memory chip (16:9 standalone)
 - `006-03.png` — workers collective / STOP THE LINE (16:9 standalone)
 - `006-04.png` — power bill landing (16:9 backdrop)
-- `006-05.png` — lone ratepayer (16:9 standalone)
+- `006-05.png` — lone ratepayer (16:9 standalone + backdrop; closing personal scene)
 
 Upload to the project directory, then say **"continue"** to build the full HTML deck.
 

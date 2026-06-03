@@ -1,6 +1,19 @@
 # IMAGE BATCH — Dispatch №006 (64 images)
 ## Pass 1 · tcn-youtube-slideshow · Samsung's $400,000 Bonus, and the $4,000 One
 
+> **⚠️ SUPERSEDED — alternative approach, not shipped.** This batch specs one
+> generated illustration per beat (64 images, filenames `006-NN-BNN.png`). The deck
+> that shipped (`dispatch-006.html`) instead uses the **5-image scarce model** —
+> only `006-01.png`–`006-05.png` were ever generated — with every other beat drawn
+> as inline HTML/CSS/SVG. The canonical image plan is `youtube-slideshow-pass1.md`.
+>
+> Kept for reference only. It reflects the **pre-v7, 10-scene outro** (the April
+> "called it wrong" tease + "Not yet." close). It has NOT been re-synced to
+> narration v7 — see `youtube-slideshow-pass1.md` and `dispatch-006.html` for the
+> current 11-scene structure (Scene 09 "No valve to grab" + Scene 10 TEASE + Scene
+> 11 END). Re-syncing this file is only worth doing if the per-beat-illustration
+> approach is ever revived.
+
 ---
 
 ## Beat inventory
@@ -506,6 +519,12 @@ Filename: 006-08-B09.png
 ---
 
 ### Scene 09 — TEASE
+
+> **Stale (pre-v7).** In narration v7 this scene is split: Scene 09 became "The
+> Stakes · No valve to grab" (the personal landing) and Scene 10 became the TEASE.
+> The "I called it wrong · April" beat (B04 below) was cut from the flagship. The
+> prompts below were not re-synced — see `youtube-slideshow-pass1.md` /
+> `dispatch-006.html`.
 
 ---
 
