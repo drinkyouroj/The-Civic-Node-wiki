@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<style>
+  html, body { margin: 0; }
+  body { background: #0d0d0f; color: #557fa3; font-family: 'Courier Prime', monospace; padding: 18px 22px; box-sizing: border-box; }
+  .meta { font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase; color: #485070; margin-bottom: 18px; }
+  .row { display: grid; grid-template-columns: 80px 1fr; gap: 18px; align-items: center; padding: 6px 0; }
+  .tok { font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #485070; }
+  .bar { height: 10px; background: #2A3A4E; }
+  .lab { font-size: 9px; letter-spacing: 0.05em; color: #485070; padding-left: 8px; }
+</style>
+</head>
+<body>
+  <div class="meta">Spacing scale · 4 / 8 / 12 / 16 / 20 / 24 / 32 / 40 / 48 / 64 / 80 / 120</div>
+  <div class="row"><div class="tok">s-1 · 4</div><div style="display:flex;align-items:center;"><div class="bar" style="width:4px;"></div><div class="lab">4</div></div></div>
+  <div class="row"><div class="tok">s-2 · 8</div><div style="display:flex;align-items:center;"><div class="bar" style="width:8px;"></div><div class="lab">8</div></div></div>
+  <div class="row"><div class="tok">s-4 · 16</div><div style="display:flex;align-items:center;"><div class="bar" style="width:16px;"></div><div class="lab">16 — control padding</div></div></div>
+  <div class="row"><div class="tok">s-6 · 24</div><div style="display:flex;align-items:center;"><div class="bar" style="width:24px;"></div><div class="lab">24 — card padding</div></div></div>
+  <div class="row"><div class="tok">s-7 · 32</div><div style="display:flex;align-items:center;"><div class="bar" style="width:32px;"></div><div class="lab">32 — section gap</div></div></div>
+  <div class="row"><div class="tok">s-9 · 48</div><div style="display:flex;align-items:center;"><div class="bar" style="width:48px;"></div><div class="lab">48 — masthead margin</div></div></div>
+  <div class="row"><div class="tok">s-11 · 80</div><div style="display:flex;align-items:center;"><div class="bar" style="width:80px;"></div><div class="lab">80 — banner inset</div></div></div>
+</body></html>

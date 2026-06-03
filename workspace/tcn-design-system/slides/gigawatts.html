@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>The Civic Node · 12 Gigawatts Were Announced. 4 Are Being Built.</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<link rel="stylesheet" href="../colors_and_type.css"/>
+<link rel="stylesheet" href="slides.css"/>
+<script src="deck-stage.js"></script>
+<style>
+  html, body { margin: 0; background: #050507; }
+
+  .ms-numgrid {
+    display: grid;
+    grid-template-columns: 1fr 1px 1fr 1px 1fr;
+    gap: 64px;
+    align-items: stretch;
+  }
+  .ms-numgrid .vrule {
+    background: linear-gradient(rgba(42,58,78,0) 0%,
+      var(--tcn-slate-800) 30%, var(--tcn-slate-800) 70%, rgba(42,58,78,0) 100%);
+  }
+  .ms-numgrid .col {
+    display: grid; grid-template-rows: auto auto auto; gap: 24px; align-content: center;
+  }
+  .ms-numgrid .col .lab {
+    font-family: var(--font-mono); font-size: 22px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--tcn-twilight); margin: 0;
+  }
+  .ms-numgrid .col .big {
+    font-family: var(--font-display); font-size: 200px; line-height: 0.95;
+    letter-spacing: -0.03em; color: var(--tcn-slate-400); margin: 0;
+  }
+  .ms-numgrid .col .big.dim { color: var(--tcn-twilight); }
+  .ms-numgrid .col .sub {
+    font-size: 26px; line-height: 1.45; color: var(--tcn-twilight); margin: 0; max-width: 22ch;
+  }
+  .ms-numgrid .col .sub strong { color: var(--tcn-slate-400); font-weight: 400; }
+
+  /* ── Calendars table — local to this dispatch ─────────────── */
+  .gw-cal {
+    display: grid; grid-template-columns: auto 1fr auto; gap: 28px 48px;
+    align-items: baseline;
+  }
+  .gw-cal .row {
+    display: contents;
+  }
+  .gw-cal .lab {
+    font-family: var(--font-mono); font-size: 22px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--tcn-twilight);
+  }
+  .gw-cal .what {
+    font-family: var(--font-display); font-size: 44px; line-height: 1.1;
+    letter-spacing: -0.02em; color: var(--tcn-slate-400);
+  }
+  .gw-cal .dur {
+    font-family: var(--font-display); font-size: 56px; line-height: 1;
+    letter-spacing: -0.02em; color: var(--tcn-slate-400); white-space: nowrap;
+  }
+  .gw-cal .rule {
+    grid-column: 1 / -1;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(42,58,78,0) 0%,
+      var(--tcn-slate-800) 10%, var(--tcn-slate-800) 90%, rgba(42,58,78,0) 100%);
+  }
+  .gw-cal .footnote {
+    grid-column: 1 / -1;
+    font-family: var(--font-mono); font-size: 22px; line-height: 1.45;
+    color: var(--tcn-slate-400); letter-spacing: 0.04em; margin-top: 16px;
+    max-width: 60ch;
+  }
+</style>
+</head>
+<body class="tcn">
+
+<deck-stage>
+
+  <!-- 01 — Title ─────────────────────────────────────────────── -->
+  <section data-screen-label="01 Title" class="sl-title">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand">
+        <span class="word">EST. 2025</span>
+      </div>
+      <div class="sl-kicker">DISPATCH №003</div>
+    </div>
+
+    <div class="sl-glow" style="left: 50%; top: 50%; width: 1400px; height: 1400px; transform: translate(-50%,-50%);"></div>
+
+    <div class="sl-mark-pulse sl-reveal">
+      <svg class="sl-title-mark" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="3.5" stroke-linecap="round">
+        <line x1="33" y1="0" x2="81" y2="0"/>
+        <line x1="57" y1="0" x2="57" y2="77"/>
+        <line x1="57" y1="77" x2="0" y2="110"/>
+        <line x1="57" y1="77" x2="114" y2="110"/>
+        <circle class="node" cx="57" cy="77" r="10" fill="#557fa3" stroke="none"/>
+      </svg>
+    </div>
+
+    <h1 class="sl-reveal sl-reveal-2" style="font-size: 116px; line-height: 1.04; max-width: none;">12 gigawatts<br/>were announced.<br/>4 are being built.</h1>
+    <div class="sl-tag sl-reveal sl-reveal-3">AI CAPEX · GRID · NO HYPE</div>
+
+    <div class="sl-foot-row">
+      <span>The Civic Node</span>
+      <span>2026·05·15 · 16 MIN</span>
+    </div>
+  </section>
+
+  <!-- 02 — Section [01] CONTEXT ─────────────────────────────── -->
+  <section data-screen-label="02 Context divider" class="sl-section">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">PART ONE OF THREE</div>
+    </div>
+
+    <div class="num sl-reveal">[01]</div>
+    <h2 class="sl-reveal sl-reveal-2">Context.<span class="sl-caret"></span></h2>
+    <div class="sl-hairline" style="max-width: 720px; margin: 8px 0 32px 0;"></div>
+    <p class="desc sl-reveal sl-reveal-3">
+      The AI capex story is being told from the chip layer.
+      The constraint binds two layers lower, in a document class
+      the financial press doesn't read.
+    </p>
+
+    <div class="sl-foot-row"><span>SECTION</span><span>01 / 03</span></div>
+  </section>
+
+  <!-- 03 — The numbers ──────────────────────────────────────── -->
+  <section data-screen-label="03 The numbers" class="sl-data">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">[01] CONTEXT · DELIVERY VS. ANNOUNCEMENT</div>
+    </div>
+
+    <h3 class="sl-reveal">The ratio that is the article.</h3>
+
+    <div class="ms-numgrid">
+      <div class="col sl-reveal sl-reveal-2">
+        <p class="lab">US DATA CENTERS · 2026</p>
+        <p class="big">4 / 12</p>
+        <p class="sub"><strong>GW under construction</strong> against GW announced. One-third delivery rate. 2027 is worse.</p>
+      </div>
+      <div class="vrule"></div>
+      <div class="col sl-reveal sl-reveal-3">
+        <p class="lab">ELECTRICAL GEAR</p>
+        <p class="big">&lt;10%</p>
+        <p class="sub">Of construction cost. <strong>100% of the gating.</strong> Transformers, batteries, breakers.</p>
+      </div>
+      <div class="vrule"></div>
+      <div class="col sl-reveal sl-reveal-4">
+        <p class="lab">QUEUE WAIT · US MEDIAN</p>
+        <p class="big dim">55<span style="font-size: 80px; letter-spacing: 0;">mo</span></p>
+        <p class="sub">Interconnection wait for 2024 completions. <strong>~9 yrs</strong> in California. Nearly triple 2008.</p>
+      </div>
+    </div>
+
+    <div class="caption">FIG. 01 — Futurism (2026); LBNL "Queued Up" 2025 ed.; Latitude Media.</div>
+  </section>
+
+  <!-- 04 — Lead: Stargate Abilene ────────────────────────────── -->
+  <section data-screen-label="04 Stargate" class="sl-lead">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">[01] CONTEXT · STARGATE ABILENE</div>
+    </div>
+
+    <h3 class="sl-reveal" style="max-width: 36ch;">A demand failure leaves the site sitting. This site didn't sit.</h3>
+
+    <div>
+      <div class="sl-hairline"></div>
+      <p class="sl-reveal sl-reveal-2" style="margin-top: 36px; max-width: 56ch;">
+        March 6, 2026: the 800 MW expansion died when Oracle and OpenAI walked. In ninety days the site was handed off three times — Microsoft in, Crusoe building on-site generation, Meta in talks for excess capacity, NVIDIA brokering. Each handoff an upgrade, not a write-down. The asset Microsoft inherited wasn't compute. It was 1.2 GW of existing grid position.
+      </p>
+    </div>
+
+    <div class="sl-foot-row"><span>SECTION 01 / 03</span><span>SLIDE 04 / 11</span></div>
+  </section>
+
+  <!-- 05 — Section [02] FRAME ────────────────────────────────── -->
+  <section data-screen-label="05 Frame divider" class="sl-section">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">PART TWO OF THREE</div>
+    </div>
+
+    <div class="num sl-reveal">[02]</div>
+    <h2 class="sl-reveal sl-reveal-2">Frame.<span class="sl-caret"></span></h2>
+    <div class="sl-hairline" style="max-width: 720px; margin: 8px 0 32px 0;"></div>
+    <p class="desc sl-reveal sl-reveal-3">
+      Three nested calendars stand between the announcement and
+      the megawatt. They don't sequence. They run in parallel and
+      the longest one wins.
+    </p>
+
+    <div class="sl-foot-row"><span>SECTION</span><span>02 / 03</span></div>
+  </section>
+
+  <!-- 06 — Three frames: the three calendars ─────────────────── -->
+  <section data-screen-label="06 Three calendars" class="sl-frames">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">[02] FRAME · THE GRID STACK</div>
+    </div>
+
+    <div>
+      <div class="sl-kicker sl-reveal" style="color: var(--tcn-slate-400); margin-bottom: 18px;">THREE CALENDARS · ONE PROJECT</div>
+      <h3 style="font-family: var(--font-display); font-size: 64px; line-height: 1.05; letter-spacing: -0.02em; color: var(--tcn-slate-400); margin: 0; max-width: 26ch;" class="sl-reveal sl-reveal-2">
+        Different units. Different timelines. Only one of them gates anything.
+      </h3>
+    </div>
+
+    <div class="sl-frames-grid">
+      <div class="sl-frame sl-reveal sl-reveal-2">
+        <span class="n">[01] QUEUE</span>
+        <h4>4.5 years.</h4>
+        <p>US median wait for interconnection — 2024 completions. Seven in Northern Virginia, nine-plus in California. 77% of the 2000–2019 cohort withdrew before energization.</p>
+      </div>
+      <div class="sl-frame sl-reveal sl-reveal-3">
+        <span class="n">[02] TRANSFORMERS</span>
+        <h4>128 weeks.</h4>
+        <p>Average lead time on large power transformers, Q2 2025. Generator step-up units: 144 weeks. Demand up 274% since 2019. Wood Mackenzie projects a 30% supply deficit.</p>
+      </div>
+      <div class="sl-frame sl-reveal sl-reveal-4" style="border-left-color: var(--tcn-slate-400);">
+        <span class="n" style="color: var(--tcn-slate-400);">[03] SUBSTATION</span>
+        <h4>7–10 years.</h4>
+        <p>Permitting and siting on new transmission, per Microsoft's own January 2026 framing. Transmission permitting takes the time it takes. The longest calendar wins.</p>
+      </div>
+    </div>
+
+    <div class="sl-foot-row"><span>SECTION 02 / 03</span><span>SLIDE 06 / 11</span></div>
+  </section>
+
+  <!-- 07 — Compare: chip layer vs. grid layer ────────────────── -->
+  <section data-screen-label="07 Compare" class="sl-compare">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">[02] FRAME · DECONGESTION DATES</div>
+    </div>
+
+    <div>
+      <h3 style="font-family: var(--font-display); font-size: 72px; line-height: 1.05; letter-spacing: -0.02em; color: var(--tcn-slate-400); margin: 0; max-width: 30ch;" class="sl-reveal">
+        The chip layer reverts in 18 months. The grid layer reverts in 7 years.
+      </h3>
+    </div>
+
+    <div class="sl-compare-cols">
+      <div class="sl-compare-col sl-reveal sl-reveal-2">
+        <h5>CHIP LAYER · UNCONCENTRATES BY 2028</h5>
+        <h6>"What fits in an earnings call."</h6>
+        <p>CXMT's Shanghai mega-fab and YMTC's third Wuhan facility both target 2027. Competitive pricing pressure lands 2028 at earliest. The press release is denominated in dollars. This is the layer the market reads.</p>
+      </div>
+      <div class="vrule"></div>
+      <div class="sl-compare-col sl-reveal sl-reveal-3">
+        <h5>GRID LAYER · IF EVERYTHING BREAKS RIGHT</h5>
+        <h6>"What fits in a PUC filing."</h6>
+        <p>Transformer manufacturers don't reach 9,000 units/year by 2030 from 1,500 today without the gap widening first. The queue can't be reformed into compliance with five-year financing horizons. Different document class.</p>
+      </div>
+    </div>
+
+    <div class="sl-foot-row"><span>SECTION 02 / 03</span><span>07 / 11</span></div>
+  </section>
+
+  <!-- 08 — Calendars table (data slide) ──────────────────────── -->
+  <section data-screen-label="08 Calendars" class="sl-data">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">FIG. 02 · THE THREE CALENDARS</div>
+    </div>
+
+    <h3 class="sl-reveal">They run in parallel. The longest one wins.</h3>
+
+    <div class="gw-cal" style="margin-top: 24px;">
+      <div class="row sl-reveal sl-reveal-2">
+        <div class="lab">[01] QUEUE</div>
+        <div class="what">Interconnection wait · 2024 US median completions</div>
+        <div class="dur">4.5 yrs</div>
+      </div>
+      <div class="rule"></div>
+      <div class="row sl-reveal sl-reveal-3">
+        <div class="lab">[02] TRANSFORMERS</div>
+        <div class="what">Large power transformer lead time · Q2 2025</div>
+        <div class="dur">2.5 yrs</div>
+      </div>
+      <div class="rule"></div>
+      <div class="row sl-reveal sl-reveal-4">
+        <div class="lab">[03] SUBSTATION</div>
+        <div class="what">Transmission permitting and siting · per Microsoft</div>
+        <div class="dur">7–10 yrs</div>
+      </div>
+      <div class="rule"></div>
+      <div class="footnote sl-reveal sl-reveal-4">
+        Calendars don't sequence — they run concurrently. A project clears when the longest one clears.
+        On-site generation deals (Crusoe, Intersect Power) are hyperscalers pricing the queue as
+        longer than the asset's economic life.
+      </div>
+    </div>
+
+    <div class="caption">FIG. 02 — LBNL "Queued Up" 2025; Power Magazine Q2 2025 survey; Microsoft (Jan 2026).</div>
+  </section>
+
+  <!-- 09 — Quote pull ─────────────────────────────────────────── -->
+  <section data-screen-label="09 Quote" class="sl-quote">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">ANDREW LIKENS · CRUSOE ENERGY</div>
+    </div>
+
+    <blockquote class="sl-reveal">
+      <div class="body">If one piece of your supply chain is delayed, then your whole project can't deliver.</div>
+      <div class="src sl-reveal sl-reveal-2">— Energy and infrastructure lead, on the bottleneck named in the data</div>
+    </blockquote>
+
+    <div class="sl-foot-row"><span>SECTION 02 / 03</span><span>09 / 11</span></div>
+  </section>
+
+  <!-- 10 — [03] CALL ─────────────────────────────────────────── -->
+  <section data-screen-label="10 Call" class="sl-section">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №003</span></div>
+      <div class="sl-kicker">[03] CALL · THREE PREDICTIONS</div>
+    </div>
+
+    <div class="num sl-reveal">[03]</div>
+    <h2 class="sl-reveal sl-reveal-2" style="font-size: 80px;">Read the PUC filings, not the press releases.</h2>
+    <div class="sl-hairline" style="max-width: 720px; margin: 8px 0 32px 0;"></div>
+    <p class="desc sl-reveal sl-reveal-3" style="max-width: 44ch;">
+      [1] 2026 delivery closes at or below 4-of-12 — reported as a
+      financing story; the constraint is electrical. [2] A major
+      hyperscaler discloses a multi-year delay in grid-layer
+      language. [3] On-site generation deals accelerate.
+    </p>
+
+    <div class="sl-foot-row"><span>SECTION 03 / 03</span><span>10 / 11</span></div>
+  </section>
+
+  <!-- 11 — End-card / disclosure ─────────────────────────────── -->
+  <section data-screen-label="11 End" class="sl-end">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand sl-mark-pulse">
+        <svg width="44" height="48" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="6" stroke-linecap="round">
+          <line x1="33" y1="0" x2="81" y2="0"/>
+          <line x1="57" y1="0" x2="57" y2="77"/>
+          <line x1="57" y1="77" x2="0" y2="110"/>
+          <line x1="57" y1="77" x2="114" y2="110"/>
+          <circle class="node" cx="57" cy="77" r="14" fill="#557fa3" stroke="none"/>
+        </svg>
+        <span class="word" style="color:#557fa3;">The Civic Node</span>
+      </div>
+      <div class="sl-kicker">DISPATCH №003 · END</div>
+    </div>
+
+    <h2 class="sl-reveal">If I'm wrong, the primary sources are linked — you can check.</h2>
+
+    <div class="sl-disclosure sl-reveal sl-reveal-2">
+      <b>Standard disclosure</b>
+      No token positions, advisory roles, allocation letters, or sponsored content. If I have an
+      operational relationship with a project or infrastructure mentioned in this piece, it is
+      disclosed in the body before the relevant analysis. If I'm wrong, the primary sources are
+      linked — you can check.
+    </div>
+
+    <div class="sl-end-cta sl-reveal sl-reveal-3">
+      <span class="arr">→</span>
+      <span class="url">drinkyouroj.substack.com</span>
+      <span style="flex:1"></span>
+      <span style="color: var(--tcn-twilight);">SUBSCRIBE · WEEKLY · NO HYPE</span>
+    </div>
+  </section>
+
+</deck-stage>
+
+<script type="application/json" id="speaker-notes">
+[
+  "Title slide. Hold the mark for a beat. Then read the title slowly — twelve gigawatts were announced, four are being built. That one-third ratio is the whole dispatch. Everything else explains why the gap exists and why it widens.",
+  "Section divider, [01] CONTEXT. Breath beat. The framing to land before any data: the AI capex story is being told from the wrong layer. The chip layer is where the press release lives. The constraint binds two layers lower — and in a document class the financial press has not bookmarked. Three seconds.",
+  "The numbers slide. Walk left to right. Four of twelve gigawatts under construction in 2026 — one-third delivery rate, and 2027 is worse. Electrical gear — transformers, batteries, circuit breakers — is less than ten percent of construction cost and one hundred percent of the gating. That ratio is the article. And the interconnection queue: fifty-five-month US median for 2024 completions, nearly triple the 2008 baseline, about nine years in California.",
+  "Stargate Abilene. Read the headline. Pause. The cancellation got read in March two ways — financing failure, demand failure. Both were true on their face, both were wrong by one layer. A demand failure leaves the site sitting. This site did not sit. Three handoffs in ninety days, each an upgrade. What Microsoft inherited was not compute. It was one-point-two gigawatts of existing grid position. Crusoe building its own power plant is the second tell — hyperscalers don't usually finance their own generation. When they start writing those checks, it's a workaround for a queue that doesn't move.",
+  "Section divider, [02] FRAME. Pause. The frame: three nested calendars stand between the announcement and the megawatt. They do not run in sequence. They run in parallel. The longest one wins.",
+  "Three calendars. Queue — four and a half years, US median for 2024 completions, seven in Northern Virginia, nine-plus in California. Of the 2000-to-2019 cohort, seventy-seven percent withdrew before energization. Transformers — one-hundred-twenty-eight weeks on large power units, demand up two-hundred-seventy-four percent since 2019, projected thirty-percent supply deficit. Substation — seven-to-ten years on permitting and siting, per Microsoft's own framing. Different units, different timelines. Only one of them gates anything: the longest.",
+  "Compare. The chip layer can be unconcentrated by Chinese fab capacity by 2028 — CXMT and YMTC both target 2027 production. The grid layer cannot be unconcentrated on a comparable timeline. The transformer manufacturers don't reach nine thousand units a year by 2030 starting from fifteen hundred today without the supply gap widening before it narrows. The chip layer reverts in eighteen months. The grid layer reverts in seven years if everything breaks right.",
+  "Calendars table. Don't narrate every row. Land the bottom note: the three calendars run concurrently. A project clears when the longest one clears. The on-site generation deals — Crusoe, the four-point-seven-five billion Intersect Power acquisition — are hyperscalers pricing the queue as longer than the asset's economic life. They're not betting on grid expansion. They're routing around it.",
+  "Likens quote. Read it slowly. He is naming the structural failure mode in one sentence. If one piece of your supply chain is delayed, then your whole project cannot deliver. The bottleneck is named explicitly in the data. The press release is denominated in dollars. The delivery is denominated in megawatts.",
+  "[03] CALL. Read the title. Pause. Read the three predictions in order. The asymmetric edge is this: the data is public, the data is updated, the data decides who gets power, in what order, on what timeline. The edge is not that the data is hidden. The edge is that the data is in a different document class.",
+  "End-card. Read the standard disclosure verbatim — it's part of the brand. End on the URL."
+]
+</script>
+
+</body>
+</html>

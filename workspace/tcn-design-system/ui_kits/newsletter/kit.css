@@ -1,0 +1,194 @@
+/* ui_kits/newsletter/kit.css — kit-specific layout, on top of colors_and_type.css */
+
+html, body { margin: 0; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.tcn-app {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 48px 96px;
+}
+
+/* ── Masthead ────────────────────────────────────────────────── */
+.tcn-masthead { padding-top: 32px; }
+.tcn-masthead-row {
+  display: flex; align-items: center; justify-content: space-between;
+  padding-bottom: 18px;
+}
+.tcn-mast-brand {
+  display: flex; align-items: center; gap: 14px;
+  text-decoration: none; color: var(--accent);
+}
+.tcn-mast-word {
+  font-family: var(--font-display);
+  font-size: 22px; letter-spacing: -0.5px; line-height: 1;
+  color: var(--accent);
+}
+.tcn-mast-nav { display: flex; gap: 28px; }
+.tcn-mast-link {
+  font-family: var(--font-mono);
+  font-size: 11px; letter-spacing: 0.10em; text-transform: uppercase;
+  color: var(--fg-muted); text-decoration: none;
+  padding: 6px 0; border-bottom: 1px solid transparent;
+  transition: color var(--dur-fast) var(--ease), border-color var(--dur-fast) var(--ease);
+}
+.tcn-mast-link:hover     { color: var(--accent); }
+.tcn-mast-link.is-active { color: var(--accent); border-bottom-color: var(--accent); }
+.tcn-mast-link.is-primary { color: var(--accent); }
+
+.tcn-mast-furniture {
+  display: flex; gap: 12px; align-items: center;
+  font-family: var(--font-mono);
+  font-size: 11px; letter-spacing: 0.10em; text-transform: uppercase;
+  color: var(--fg-muted);
+}
+.tcn-hairline {
+  border: 0; height: 1px;
+  background: linear-gradient(90deg,
+    rgba(42,58,78,0) 0%,
+    var(--hairline) 15%,
+    var(--hairline) 85%,
+    rgba(42,58,78,0) 100%);
+  margin: 18px 0 0 0;
+}
+
+/* ── Hero / kicker ───────────────────────────────────────────── */
+.tcn-hero { padding: 56px 0 40px; display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: end; }
+.tcn-hero h1 {
+  font-family: var(--font-display);
+  font-size: 64px; line-height: 1; letter-spacing: -0.025em;
+  color: var(--accent); margin: 0;
+}
+.tcn-hero .tcn-hero-tag {
+  font-family: var(--font-mono);
+  font-size: 13px; letter-spacing: 0.27em; text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 18px;
+}
+.tcn-hero .tcn-hero-promise {
+  font-size: 15px; line-height: 1.55; color: var(--fg-muted); max-width: 36ch;
+}
+
+/* ── Subscribe field ─────────────────────────────────────────── */
+.tcn-sub {
+  display: flex; align-items: stretch; gap: 0;
+  border: 1px solid var(--hairline);
+  background: var(--bg-raised);
+  max-width: 480px;
+}
+.tcn-sub input {
+  flex: 1; background: transparent; border: 0;
+  padding: 14px 16px; font-family: var(--font-mono);
+  font-size: 14px; color: var(--fg-strong); outline: none;
+}
+.tcn-sub input::placeholder { color: var(--fg-faint); }
+.tcn-sub button {
+  background: var(--accent); border: 0; color: var(--bg);
+  font-family: var(--font-mono); font-size: 11px;
+  letter-spacing: 0.10em; text-transform: uppercase;
+  padding: 0 22px; cursor: pointer;
+}
+.tcn-sub button:hover { filter: brightness(1.1); }
+.tcn-sub.is-confirmed { border-color: var(--accent); }
+.tcn-sub-note { margin-top: 10px; font-size: 11px; letter-spacing: 0.10em; text-transform: uppercase; color: var(--fg-muted); }
+
+/* ── Section titles ──────────────────────────────────────────── */
+.tcn-section-head {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-family: var(--font-mono);
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--fg-muted); margin: 24px 0 24px 0;
+}
+
+/* ── Layout: archive + sidebar ───────────────────────────────── */
+.tcn-stack { display: grid; grid-template-columns: 1fr 280px; gap: 64px; }
+.tcn-sidebar { font-family: var(--font-mono); font-size: 12px; color: var(--fg-muted); }
+.tcn-sidebar h4 { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--fg-muted); margin: 0 0 14px 0; font-weight: 700; }
+.tcn-sidebar .tcn-side-block { margin-bottom: 36px; }
+.tcn-sidebar a { color: var(--accent); text-decoration: none; }
+.tcn-sidebar a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.tcn-sidebar ul { list-style: none; margin: 0; padding: 0; }
+.tcn-sidebar li { padding: 6px 0; border-bottom: 1px dashed var(--hairline); }
+
+/* ── Issue row ───────────────────────────────────────────────── */
+.tcn-issue { padding: 4px 0 0; }
+.tcn-issue-meta {
+  display: flex; gap: 10px; align-items: center;
+  font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.10em;
+  text-transform: uppercase; color: var(--fg-muted); margin-bottom: 10px;
+}
+.tcn-issue-title { margin: 0 0 12px 0; }
+.tcn-issue-title a {
+  font-family: var(--font-display);
+  font-size: 32px; line-height: 1.1; letter-spacing: -0.02em;
+  color: var(--fg-strong); text-decoration: none;
+}
+.tcn-issue-title a:hover { color: var(--accent); }
+.tcn-issue-dek { color: var(--fg); margin: 0 0 16px 0; max-width: 60ch; }
+.tcn-issue-lede { color: var(--fg); max-width: 60ch; padding-left: 16px; border-left: 1px solid var(--hairline); margin: 0 0 16px 0; }
+.tcn-issue-foot { display: flex; justify-content: space-between; align-items: center; }
+.tcn-issue-tags { display: flex; gap: 8px; }
+.tcn-issue-tag {
+  font-family: var(--font-mono); font-size: 9px; letter-spacing: 0.18em;
+  text-transform: uppercase; padding: 4px 8px; border: 1px solid var(--hairline);
+  color: var(--fg-muted);
+}
+.tcn-issue-toggle {
+  background: transparent; border: 1px solid var(--hairline);
+  font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.10em;
+  text-transform: uppercase; color: var(--accent);
+  padding: 8px 14px; cursor: pointer;
+}
+.tcn-issue-toggle:hover { border-color: var(--accent); }
+.tcn-issue-rule { margin: 28px 0; }
+
+/* ── Dispatch reader ─────────────────────────────────────────── */
+.tcn-dispatch { max-width: 720px; margin: 0 auto; }
+.tcn-back {
+  background: transparent; border: 0; cursor: pointer;
+  font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.10em;
+  text-transform: uppercase; color: var(--fg-muted); padding: 32px 0;
+}
+.tcn-back:hover { color: var(--accent); }
+.tcn-dispatch-title {
+  font-family: var(--font-display); font-size: 56px; line-height: 1; letter-spacing: -0.025em;
+  color: var(--accent); margin: 12px 0 18px 0;
+}
+.tcn-dispatch-dek { font-size: 18px; line-height: 1.45; color: var(--fg-strong); max-width: 60ch; margin: 0 0 24px 0; }
+.tcn-dispatch-body { font-size: 16px; line-height: 1.7; color: var(--fg-strong); }
+.tcn-dispatch-body .tcn-lead { font-size: 18px; color: var(--fg-strong); }
+.tcn-dispatch-body h3 {
+  font-family: var(--font-mono); font-size: 13px; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--accent); margin: 36px 0 14px 0; font-weight: 700;
+}
+.tcn-dispatch-body p { margin: 0 0 20px 0; }
+.tcn-dispatch-body ol { padding-left: 0; list-style: none; counter-reset: tcn; }
+.tcn-dispatch-body ol li { position: relative; padding: 14px 0 14px 60px; counter-increment: tcn; border-top: 1px solid var(--hairline); }
+.tcn-dispatch-body ol li:last-child { border-bottom: 1px solid var(--hairline); }
+.tcn-dispatch-body ol li::before {
+  content: "[" counter(tcn, decimal-leading-zero) "]";
+  position: absolute; left: 0; top: 14px;
+  font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.10em; color: var(--accent);
+}
+.tcn-dispatch-body em { color: var(--accent); font-style: italic; }
+.tcn-dispatch-body b { color: var(--fg-strong); }
+
+/* ── Disclosure ──────────────────────────────────────────────── */
+.tcn-disclosure {
+  border: 1px solid var(--hairline);
+  padding: 18px 22px; color: var(--fg-muted);
+  font-size: 12px; line-height: 1.7; margin: 32px 0;
+}
+.tcn-disclosure b {
+  display: block; color: var(--accent); font-weight: 700;
+  font-family: var(--font-mono); font-size: 9px;
+  letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 8px;
+}
+.tcn-disclosure p { margin: 0; }
