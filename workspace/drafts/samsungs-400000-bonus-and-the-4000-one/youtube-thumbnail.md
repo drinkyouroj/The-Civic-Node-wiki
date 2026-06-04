@@ -4,8 +4,9 @@
 **Generated:** 2026-06-03
 **Source:** `Dispatch 006_en.srt` (recorded transcript — won over `youtube-narration.md`)
 **Vibe reference:** "Split-Screen YouTube Thumbnail: Political Commentary" (id=3178) — https://youmind.com/nano-banana-pro-prompts?id=3178 — figure-dominant split: resolute portrait on the dominant side, fractured/shattered field on the other. Translated to TCN illustrated-editorial register (no celebrity likeness carried over — composition + mood only).
-**Chosen headline:** "Who gets to say no?"
+**Chosen headline:** "Who gets to say no?" (mechanism: question / refrain)
 **Ref picks:** Variant A → `fullbody-pointing-right.png` · Variant B → `headshot-smirk.png` (both present; no substitution)
+**Paired surfaces (orthogonal):** title = "Samsung's raise didn't raise your power bill. The same boom did both." (Hidden Move) · description hook = "...the same boom is already on your power bill" (Personal-Implication). This headline is the question/refrain — three distinct mechanisms across the three feed surfaces, so they stack rather than restate. Candidate title #2 ("...could stop the line. You have a billing address.") is the *completion* pairing if you'd rather title+thumbnail read as one Q→A unit.
 
 > Cold-open spine (recorded): two Samsung workers, same shift, 100-to-1 bonus gap ($400,000 vs $4,000) = "the whole AI boom in one picture." One boom, two bottlenecks: the chip workers who could shut the line down captured the upside; the families whose power bills rose ~$14B never got a vote. The deciding question, repeated as a refrain: **who gets to say no.** Central correction the piece makes: the bonus and the bill are *not the same money* — same boom, opposite endings.
 

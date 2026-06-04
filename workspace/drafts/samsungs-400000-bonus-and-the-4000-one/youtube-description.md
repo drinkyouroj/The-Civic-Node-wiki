@@ -1,13 +1,13 @@
 # YouTube description — TCN Dispatch №006
 
-**Generated:** 2026-06-03
+**Generated:** 2026-06-03 (re-run post-record with title + thumbnail present)
 **Source:** transcript (Dispatch 006_en.srt)
 **Article URL:** https://drinkyouroj.substack.com/p/samsungs-400000-bonus-and-the-4000-one  *(confirmed)*
-**Paired title:** no title artifact found
-**Paired title mechanism:** unknown
-**Paired thumbnail headline:** no thumbnail artifact found
-**Paired thumbnail mechanism:** unknown
-**Description hook mechanism:** Personal-Implication  *(orthogonality not enforced — no paired title/thumbnail artifacts present)*
+**Paired title:** "Samsung's raise didn't raise your power bill. The same boom did both."
+**Paired title mechanism:** Hidden Move
+**Paired thumbnail headline:** "Who gets to say no?"
+**Paired thumbnail mechanism:** Question / refrain
+**Description hook mechanism:** Personal-Implication  *(orthogonality enforced — three distinct mechanisms across the three feed surfaces: the thumbnail asks who decides, the title reframes where the cost lands, the description hook makes it the viewer's own bill)*
 **Voice-rules pass:** enforced against workspace/core/anti-ai-writing-style.md
 
 ---
