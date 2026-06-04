@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<style>
+  html, body { margin: 0; }
+  body { background: #0d0d0f; color: #485070; font-family: 'Courier Prime', monospace; padding: 0; box-sizing: border-box; min-height: 320px; position: relative; overflow: hidden; display: grid; grid-template-rows: auto 1fr auto; }
+  .glow1 { position:absolute; right:-200px; top: 60px; width: 600px; height: 600px; background: radial-gradient(rgba(58,106,143,0.10) 0%, rgba(58,106,143,0) 60%); pointer-events: none; }
+  .glow2 { position:absolute; left:-180px; top: -240px; width: 700px; height: 700px; background: radial-gradient(rgba(85,127,163,0.14) 0%, rgba(85,127,163,0) 60%); pointer-events: none; }
+  .rule-row { padding: 32px 32px 14px; display: flex; flex-direction: column; gap: 8px; align-items: stretch; }
+  .rule-row.bottom { flex-direction: column-reverse; padding: 14px 32px 32px; }
+  .rule-row .hair { height: 1px; background: linear-gradient(90deg, rgba(42,58,78,0) 0%, #2A3A4E 15%, #2A3A4E 85%, rgba(42,58,78,0) 100%); }
+  .rule-row .label { font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: #485070; }
+  .stage { display:flex; align-items:center; justify-content:center; gap: 28px; padding: 18px; }
+  .divider { width: 1px; height: 110px; background: linear-gradient(rgba(42,58,78,0) 0%, #2A3A4E 30%, #2A3A4E 70%, rgba(42,58,78,0) 100%); }
+  .word { font-size: 64px; letter-spacing: -1.6px; color: #557fa3; line-height: 1; }
+
+</style>
+</head>
+<body>
+  <div class="glow1"></div>
+  <div class="glow2"></div>
+
+  <div class="rule-row">
+    <div class="label">EST. 2025</div>
+  </div>
+
+  <div class="stage">
+    <svg width="86" height="92" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="3.5" stroke-linecap="round">
+      <line x1="33" y1="0" x2="81" y2="0"/>
+      <line x1="57" y1="0" x2="57" y2="77"/>
+      <line x1="57" y1="77" x2="0" y2="110"/>
+      <line x1="57" y1="77" x2="114" y2="110"/>
+      <circle cx="57" cy="77" r="10" fill="#557fa3" stroke="none"/>
+    </svg>
+    <div class="divider"></div>
+    <div class="word">The Civic Node</div>
+  </div>
+
+  <div class="rule-row bottom">
+    <div class="label" style="text-align:right;">drinkyouroj.substack.com</div>
+  </div>
+</body></html>

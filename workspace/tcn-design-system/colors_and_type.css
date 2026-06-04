@@ -1,0 +1,250 @@
+/* ─────────────────────────────────────────────────────────────────
+   The Civic Node — Colors & Type
+   Philosophy: Terminal Authority. Monospace, slate, dry.
+   ───────────────────────────────────────────────────────────────── */
+
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/CourierPrime-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/CourierPrime-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('fonts/CourierPrime-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Courier Prime';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('fonts/CourierPrime-BoldItalic.ttf') format('truetype');
+}
+
+:root {
+  /* ── Brand colors ────────────────────────────────────────────── */
+  --tcn-slate-400:    rgb(85, 127, 163);   /* #557FA3 — brand · dark mode */
+  --tcn-slate-500:    rgb(72, 105, 134);   /* #486986 — slate mid */
+  --tcn-slate-600:    rgb(58, 106, 143);   /* #3A6A8F — brand · light mode */
+  --tcn-slate-700:    rgb(46, 90, 126);    /* #2E5A7E — slate deep */
+  --tcn-slate-800:    rgb(42, 58, 78);     /* #2A3A4E — divider / hairline */
+  --tcn-slate-900:    rgb(32, 44, 60);     /* #202C3C — slate inkwell */
+  --tcn-twilight:     rgb(72, 80, 112);    /* #485070 — meta / metadata text on dark */
+  --tcn-twilight-2:   rgb(61, 61, 96);     /* #3D3D60 — divider on dark */
+
+  /* ── Neutrals — dark surfaces ────────────────────────────────── */
+  --tcn-black:        rgb(13, 13, 15);     /* #0D0D0F — canvas */
+  --tcn-ink:          rgb(19, 19, 26);     /* #13131A — surface */
+  --tcn-ink-2:        rgb(26, 26, 36);     /* #1A1A24 — raised surface */
+
+  /* ── Neutrals — light surfaces ───────────────────────────────── */
+  --tcn-paper:        rgb(246, 246, 248);  /* #F6F6F8 — light canvas */
+  --tcn-paper-2:      rgb(228, 228, 234);  /* #E4E4EA — light border */
+  --tcn-paper-3:      rgb(228, 228, 236);  /* #E4E4EC — alt border */
+  --tcn-mute:         rgb(152, 152, 176);  /* #9898B0 — meta on light */
+
+  /* ── Tints (alpha) ───────────────────────────────────────────── */
+  --tcn-glow:         rgba(85, 127, 163, 0.14);  /* radial glow on dark */
+  --tcn-haze:         rgba(58, 106, 143, 0.10);  /* secondary glow */
+
+  /* ── Semantic — DARK MODE (default brand context) ────────────── */
+  --bg:               var(--tcn-black);
+  --bg-raised:        var(--tcn-ink);
+  --bg-sunken:        var(--tcn-ink-2);
+  --fg:               var(--tcn-slate-400);
+  --fg-strong:        rgb(180, 200, 220);
+  --fg-muted:         var(--tcn-twilight);
+  --fg-faint:         var(--tcn-twilight-2);
+  --border:           var(--tcn-twilight-2);
+  --hairline:         var(--tcn-slate-800);
+  --accent:           var(--tcn-slate-400);
+  --node:             var(--tcn-slate-400);
+
+  /* ── Type stack ──────────────────────────────────────────────── */
+  --font-mono: 'Courier Prime', 'Courier New', ui-monospace, SFMono-Regular,
+               Menlo, Consolas, monospace;
+  --font-body: 'Courier Prime', 'Courier New', ui-monospace, monospace;
+  --font-display: 'Courier Prime', 'Courier New', monospace;
+
+  /* ── Type scale ──────────────────────────────────────────────── */
+  /* Built from the figma frames: 9 / 11 / 13 / 16 / 28 / 54 / 90 / 166 */
+  --fs-micro:   9px;    /* fine print, image meta */
+  --fs-meta:    11px;   /* labels, tags, EST. 2025 */
+  --fs-tag:     13px;   /* taglines (POLITICS · INFRASTRUCTURE · …) */
+  --fs-body:    16px;   /* body copy */
+  --fs-lead:    20px;   /* lead paragraph */
+  --fs-h3:      28px;   /* section header */
+  --fs-h2:      54px;   /* lockup */
+  --fs-h1:      90px;   /* cover wordmark */
+  --fs-mega:    166px;  /* full-bleed wordmark */
+
+  --tracking-meta: 0.10em;     /* meta labels — wide tracking */
+  --tracking-tag:  0.27em;     /* tagline — very wide */
+  --tracking-tight: -0.025em;  /* display sizes — tight */
+
+  /* ── Spacing (8pt-ish, but anchored on 4) ────────────────────── */
+  --s-0:  0;
+  --s-1:  4px;
+  --s-2:  8px;
+  --s-3:  12px;
+  --s-4:  16px;
+  --s-5:  20px;
+  --s-6:  24px;
+  --s-7:  32px;
+  --s-8:  40px;
+  --s-9:  48px;
+  --s-10: 64px;
+  --s-11: 80px;
+  --s-12: 120px;
+
+  /* ── Radii — terminals don't round much ──────────────────────── */
+  --r-0: 0;            /* default — flat, terminal */
+  --r-1: 2px;          /* hairline rounding for inputs */
+  --r-pill: 999px;     /* circular nodes only */
+
+  /* ── Hairlines & dividers ────────────────────────────────────── */
+  --hairline-w: 1px;
+  --stroke-mark: 3.5px;     /* mark line weight at 114px wide */
+
+  /* ── Motion ──────────────────────────────────────────────────── */
+  --ease: cubic-bezier(0.2, 0, 0, 1);
+  --dur-fast: 120ms;
+  --dur-base: 200ms;
+  --dur-slow: 360ms;
+}
+
+/* ── Light-mode override (used on light surfaces) ──────────────── */
+.tcn-light {
+  --bg:        var(--tcn-paper);
+  --bg-raised: #ffffff;
+  --bg-sunken: var(--tcn-paper-2);
+  --fg:        var(--tcn-slate-600);
+  --fg-strong: var(--tcn-slate-900);
+  --fg-muted:  var(--tcn-mute);
+  --fg-faint:  var(--tcn-paper-2);
+  --border:    var(--tcn-paper-2);
+  --hairline:  var(--tcn-paper-3);
+  --accent:    var(--tcn-slate-600);
+  --node:      var(--tcn-slate-600);
+}
+
+/* ─────────────────────────────────────────────────────────────────
+   Semantic element styling. Use these as a base when mocking.
+   ───────────────────────────────────────────────────────────────── */
+
+.tcn body, .tcn {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.tcn h1, .tcn .h1 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h1);
+  line-height: 1.0;
+  letter-spacing: var(--tracking-tight);
+  color: var(--accent);
+  font-weight: 400;
+  margin: 0;
+}
+
+.tcn h2, .tcn .h2 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h2);
+  line-height: 1.05;
+  letter-spacing: var(--tracking-tight);
+  color: var(--accent);
+  font-weight: 400;
+  margin: 0;
+}
+
+.tcn h3, .tcn .h3 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h3);
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  color: var(--fg-strong);
+  font-weight: 700;
+  margin: 0;
+}
+
+.tcn .lead { font-size: var(--fs-lead); line-height: 1.55; color: var(--fg-strong); }
+.tcn p     { margin: 0 0 1em 0; }
+
+.tcn .meta {
+  font-family: var(--font-mono);
+  font-size: var(--fs-meta);
+  line-height: 1;
+  letter-spacing: var(--tracking-meta);
+  text-transform: uppercase;
+  color: var(--fg-muted);
+}
+
+.tcn .tag {
+  font-family: var(--font-mono);
+  font-size: var(--fs-tag);
+  line-height: 1;
+  letter-spacing: var(--tracking-tag);
+  text-transform: uppercase;
+  color: var(--fg);
+}
+
+.tcn .micro {
+  font-family: var(--font-mono);
+  font-size: var(--fs-micro);
+  letter-spacing: 0.05em;
+  color: var(--fg-muted);
+}
+
+.tcn code, .tcn .code {
+  font-family: var(--font-mono);
+  font-size: 0.92em;
+  background: var(--bg-sunken);
+  padding: 0.05em 0.4em;
+  border-radius: var(--r-1);
+  color: var(--fg-strong);
+}
+
+.tcn a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  text-decoration-color: var(--hairline);
+  transition: color var(--dur-fast) var(--ease),
+              text-decoration-color var(--dur-fast) var(--ease);
+}
+.tcn a:hover { text-decoration-color: var(--accent); }
+
+.tcn hr.hairline {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 58, 78, 0) 0%,
+    var(--hairline) 15%,
+    var(--hairline) 85%,
+    rgba(42, 58, 78, 0) 100%
+  );
+  margin: var(--s-7) 0;
+}
+
+/* Selection: slate, not blue */
+.tcn ::selection {
+  background: var(--tcn-slate-700);
+  color: var(--tcn-paper);
+}

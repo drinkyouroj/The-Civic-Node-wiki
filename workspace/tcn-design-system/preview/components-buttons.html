@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<style>
+  html, body { margin: 0; }
+  body { background: #0d0d0f; color: #557fa3; font-family: 'Courier Prime', monospace; padding: 18px 22px; box-sizing: border-box; }
+  .meta { font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase; color: #485070; margin-bottom: 18px; }
+  .row { display: flex; gap: 12px; flex-wrap: wrap; align-items:center; margin-bottom: 14px; }
+  .btn { font-family: 'Courier Prime', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; padding: 10px 18px; border: 0; cursor: pointer; }
+  .btn.primary  { background: #557FA3; color: #0d0d0f; }
+  .btn.secondary{ background: transparent; color: #557FA3; border: 1px solid #557FA3; }
+  .btn.ghost    { background: transparent; color: #485070; border: 1px solid #2A3A4E; }
+  .lab { font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #485070; }
+</style>
+</head>
+<body>
+  <div class="meta">Buttons · 11px mono caps · 0.10em tracking · no radius</div>
+  <div class="row">
+    <button class="btn primary">Subscribe</button>
+    <button class="btn secondary">Read dispatch</button>
+    <button class="btn ghost">Archive →</button>
+  </div>
+  <div class="row" style="gap:24px;">
+    <div><div class="lab" style="margin-bottom:6px;">PRIMARY</div><div style="font-size:10px; color:#485070;">slate-400 · black text</div></div>
+    <div><div class="lab" style="margin-bottom:6px;">SECONDARY</div><div style="font-size:10px; color:#485070;">1px hairline border</div></div>
+    <div><div class="lab" style="margin-bottom:6px;">GHOST</div><div style="font-size:10px; color:#485070;">muted · for chrome</div></div>
+  </div>
+</body></html>

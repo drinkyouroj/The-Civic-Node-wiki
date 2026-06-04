@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<style>
+  html, body { margin: 0; }
+  body { background: #0d0d0f; color: #557fa3; font-family: 'Courier Prime', monospace; padding: 18px 22px; box-sizing: border-box; }
+  .meta { font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase; color: #485070; margin-bottom: 22px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 18px; }
+  .demo .lab { font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #485070; margin-top: 10px; }
+  .demo .desc { font-size: 9px; color:#485070; margin-top: 4px; }
+  .hairline { height: 1px; width: 100%; background: linear-gradient(90deg, rgba(42,58,78,0) 0%, #2A3A4E 15%, #2A3A4E 85%, rgba(42,58,78,0) 100%); }
+  .glow { height: 110px; background: radial-gradient(ellipse at center, rgba(85,127,163,0.14) 0%, rgba(85,127,163,0) 70%); border:1px dashed #2A3A4E; }
+  .divider { height: 60px; width: 1px; background: linear-gradient(rgba(42,58,78,0) 0%, #2A3A4E 30%, #2A3A4E 70%, rgba(42,58,78,0) 100%); margin: 0 auto; }
+</style>
+</head>
+<body>
+  <div class="meta">Surfaces · Hairlines · Glow — there are no shadows on dark</div>
+  <div class="grid">
+    <div class="demo">
+      <div class="hairline"></div>
+      <div class="lab">Hairline · horizontal</div>
+      <div class="desc">linear-gradient, fades 0 → 15 → 85 → 100%</div>
+    </div>
+    <div class="demo" style="display:flex; flex-direction:column; align-items:center;">
+      <div class="divider"></div>
+      <div class="lab">Hairline · vertical</div>
+      <div class="desc">used between mark and wordmark on banners</div>
+    </div>
+    <div class="demo">
+      <div class="glow"></div>
+      <div class="lab">Radial glow · 14%</div>
+      <div class="desc">behind mark only — not as flat fill</div>
+    </div>
+  </div>
+</body></html>

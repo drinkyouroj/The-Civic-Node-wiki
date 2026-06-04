@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<title>Cover · The Civic Node</title>
+<link rel="stylesheet" href="../../colors_and_type.css"/>
+<style>
+  html, body { margin: 0; background: #1a1a24; }
+  body { display: grid; place-items: center; min-height: 100vh; padding: 48px; box-sizing: border-box; }
+  .cover {
+    position: relative; width: 1500px; height: 500px;
+    background: #0d0d0f; overflow: hidden;
+    transform-origin: top left;
+  }
+  .glow1 { position:absolute; right:-340px; top: -100px; width: 900px; height: 900px;
+           background: radial-gradient(rgba(58,106,143,0.10) 0%, rgba(58,106,143,0) 60%); }
+  .glow2 { position:absolute; left:-180px; top: -240px; width: 900px; height: 900px;
+           background: radial-gradient(rgba(85,127,163,0.14) 0%, rgba(85,127,163,0) 60%); }
+  .top, .bot { position:absolute; left: 80px; right: 80px; height: 1px;
+               background: linear-gradient(90deg, rgba(42,58,78,0) 0%, #2A3A4E 15%, #2A3A4E 85%, rgba(42,58,78,0) 100%); }
+  .top { top: 64px; } .bot { bottom: 64px; }
+  .est, .url { position:absolute; font-family:'Courier Prime',monospace; font-size: 13px;
+               letter-spacing: 0.27em; text-transform: uppercase; color: #485070; }
+  .est { left: 80px;  top: 24px; }
+  .url { right: 80px; bottom: 24px; }
+  .stage { position: absolute; left: 80px; top: 0; bottom: 0; right: 80px;
+           display: flex; align-items: center; gap: 32px; }
+  .divider { width: 1px; height: 110px;
+             background: linear-gradient(rgba(42,58,78,0) 0%, #2A3A4E 30%, #2A3A4E 70%, rgba(42,58,78,0) 100%); }
+  .word { font-family:'Courier Prime',monospace; font-size: 86px; letter-spacing: -2px; line-height: 1; color: #557fa3; }
+  .tag { position: absolute; left: 504px; bottom: 124px;
+         font-family:'Courier Prime',monospace; font-size: 13px; letter-spacing: 0.27em; text-transform: uppercase; color: #3a6a8f; }
+</style>
+</head>
+<body>
+  <div class="cover" id="cov">
+    <div class="glow1"></div>
+    <div class="glow2"></div>
+    <div class="top"></div>
+    <div class="bot"></div>
+    <div class="est">EST. 2025</div>
+    <div class="url">drinkyouroj.substack.com</div>
+    <div class="stage">
+      <svg width="114" height="124" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="3.5" stroke-linecap="round">
+        <line x1="33" y1="0" x2="81" y2="0"/>
+        <line x1="57" y1="0" x2="57" y2="77"/>
+        <line x1="57" y1="77" x2="0" y2="110"/>
+        <line x1="57" y1="77" x2="114" y2="110"/>
+        <circle cx="57" cy="77" r="10" fill="#557fa3" stroke="none"/>
+      </svg>
+      <div class="divider"></div>
+      <div class="word">The Civic Node</div>
+    </div>
+    <div class="tag">POLITICS · INFRASTRUCTURE · AI · POWER · NO HYPE</div>
+  </div>
+  <script>
+    // Letterbox-fit to viewport
+    function fit() {
+      const c = document.getElementById('cov');
+      const pad = 96;
+      const sx = (window.innerWidth  - pad) / 1500;
+      const sy = (window.innerHeight - pad) / 500;
+      const s  = Math.min(sx, sy, 1);
+      c.style.transform = 'scale(' + s + ')';
+      c.style.marginRight = (1500 * (1 - s)) + 'px';
+      c.style.marginBottom = (500 * (1 - s)) + 'px';
+    }
+    fit(); window.addEventListener('resize', fit);
+  </script>
+</body></html>

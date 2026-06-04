@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>The Civic Node · You Own the Hotspot. Nova Labs Owns What It Earns.</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<link rel="stylesheet" href="../colors_and_type.css"/>
+<link rel="stylesheet" href="slides.css"/>
+<script src="deck-stage.js"></script>
+<style>
+  html, body { margin: 0; background: #050507; }
+
+  .ms-numgrid {
+    display: grid;
+    grid-template-columns: 1fr 1px 1fr 1px 1fr;
+    gap: 64px;
+    align-items: stretch;
+  }
+  .ms-numgrid .vrule {
+    background: linear-gradient(rgba(42,58,78,0) 0%,
+      var(--tcn-slate-800) 30%, var(--tcn-slate-800) 70%, rgba(42,58,78,0) 100%);
+  }
+  .ms-numgrid .col {
+    display: grid; grid-template-rows: auto auto auto; gap: 24px; align-content: center;
+  }
+  .ms-numgrid .col .lab {
+    font-family: var(--font-mono); font-size: 22px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--tcn-twilight); margin: 0;
+  }
+  .ms-numgrid .col .big {
+    font-family: var(--font-display); font-size: 200px; line-height: 0.95;
+    letter-spacing: -0.03em; color: var(--tcn-slate-400); margin: 0;
+  }
+  .ms-numgrid .col .big.dim { color: var(--tcn-twilight); }
+  .ms-numgrid .col .sub {
+    font-size: 26px; line-height: 1.45; color: var(--tcn-twilight); margin: 0; max-width: 22ch;
+  }
+  .ms-numgrid .col .sub strong { color: var(--tcn-slate-400); font-weight: 400; }
+
+  /* ── Concentration table — local to this dispatch ──────────── */
+  .hl-conc {
+    display: grid; grid-template-columns: auto 1fr auto; gap: 28px 48px;
+    align-items: baseline;
+  }
+  .hl-conc .row { display: contents; }
+  .hl-conc .lab {
+    font-family: var(--font-mono); font-size: 22px; letter-spacing: 0.18em;
+    text-transform: uppercase; color: var(--tcn-twilight);
+  }
+  .hl-conc .what {
+    font-family: var(--font-display); font-size: 40px; line-height: 1.1;
+    letter-spacing: -0.02em; color: var(--tcn-slate-400);
+  }
+  .hl-conc .pct {
+    font-family: var(--font-display); font-size: 64px; line-height: 1;
+    letter-spacing: -0.02em; color: var(--tcn-slate-400); white-space: nowrap;
+  }
+  .hl-conc .rule {
+    grid-column: 1 / -1;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(42,58,78,0) 0%,
+      var(--tcn-slate-800) 10%, var(--tcn-slate-800) 90%, rgba(42,58,78,0) 100%);
+  }
+  .hl-conc .footnote {
+    grid-column: 1 / -1;
+    font-family: var(--font-mono); font-size: 22px; line-height: 1.45;
+    color: var(--tcn-slate-400); letter-spacing: 0.04em; margin-top: 16px;
+    max-width: 60ch;
+  }
+</style>
+</head>
+<body class="tcn">
+
+<deck-stage>
+
+  <!-- 01 — Title ─────────────────────────────────────────────── -->
+  <section data-screen-label="01 Title" class="sl-title">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand">
+        <span class="word">EST. 2025</span>
+      </div>
+      <div class="sl-kicker">DISPATCH №004</div>
+    </div>
+
+    <div class="sl-glow" style="left: 50%; top: 50%; width: 1400px; height: 1400px; transform: translate(-50%,-50%);"></div>
+
+    <div class="sl-mark-pulse sl-reveal">
+      <svg class="sl-title-mark" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="3.5" stroke-linecap="round">
+        <line x1="33" y1="0" x2="81" y2="0"/>
+        <line x1="57" y1="0" x2="57" y2="77"/>
+        <line x1="57" y1="77" x2="0" y2="110"/>
+        <line x1="57" y1="77" x2="114" y2="110"/>
+        <circle class="node" cx="57" cy="77" r="10" fill="#557fa3" stroke="none"/>
+      </svg>
+    </div>
+
+    <h1 class="sl-reveal sl-reveal-2" style="font-size: 116px; line-height: 1.04; max-width: none;">You own the hotspot.<br/>Nova Labs owns<br/>what it earns.</h1>
+    <div class="sl-tag sl-reveal sl-reveal-3">DEPIN · GOVERNANCE · NO HYPE</div>
+
+    <div class="sl-foot-row">
+      <span>The Civic Node</span>
+      <span>2026·05·22 · 13 MIN</span>
+    </div>
+  </section>
+
+  <!-- 02 — Section [01] CONTEXT ─────────────────────────────── -->
+  <section data-screen-label="02 Context divider" class="sl-section">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">PART ONE OF THREE</div>
+    </div>
+
+    <div class="num sl-reveal">[01]</div>
+    <h2 class="sl-reveal sl-reveal-2">Context.<span class="sl-caret"></span></h2>
+    <div class="sl-hairline" style="max-width: 720px; margin: 8px 0 32px 0;"></div>
+    <p class="desc sl-reveal sl-reveal-3">
+      Operators bought a franchise. They were sold a business.
+      The hardware they paid for is theirs. The pricing authority
+      that determines what it earns is not.
+    </p>
+
+    <div class="sl-foot-row"><span>SECTION</span><span>01 / 03</span></div>
+  </section>
+
+  <!-- 03 — The numbers ──────────────────────────────────────── -->
+  <section data-screen-label="03 The numbers" class="sl-data">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">[01] CONTEXT · THE UNIT ECONOMICS</div>
+    </div>
+
+    <h3 class="sl-reveal">A $949 hardware bet on someone else's pricing.</h3>
+
+    <div class="ms-numgrid">
+      <div class="col sl-reveal sl-reveal-2">
+        <p class="lab">PRO OUTDOOR UNIT</p>
+        <p class="big">$949</p>
+        <p class="sub">Hardware cost, owner-financed. Indoor box: <strong>$249</strong>.</p>
+      </div>
+      <div class="vrule"></div>
+      <div class="col sl-reveal sl-reveal-3">
+        <p class="lab">POST-HALVING · URBAN</p>
+        <p class="big">$4–8<span style="font-size: 56px; letter-spacing: 0;">/mo</span></p>
+        <p class="sub">Well-placed unit, after the <strong>Aug 2025</strong> halving cut new HNT from 15M to 7.5M.</p>
+      </div>
+      <div class="vrule"></div>
+      <div class="col sl-reveal sl-reveal-4">
+        <p class="lab">PAYBACK · OUTDOOR</p>
+        <p class="big dim">10–20<span style="font-size: 80px; letter-spacing: 0;">yr</span></p>
+        <p class="sub">At the rates Nova Labs sets. Operators own the hardware. The authority is delegated.</p>
+      </div>
+    </div>
+
+    <div class="caption">FIG. 01 — Bytetree (2024); Helium blog (Aug 2025); AMBCrypto Engineering (2025).</div>
+  </section>
+
+  <!-- 04 — Lead: the vote that renewed itself ───────────────── -->
+  <section data-screen-label="04 Auto-extension" class="sl-lead">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">[01] CONTEXT · HIP-143 · APR 2026</div>
+    </div>
+
+    <h3 class="sl-reveal" style="max-width: 36ch;">A one-year sunset that extended itself if nobody overrode it. Nobody overrode it.</h3>
+
+    <div>
+      <div class="sl-hairline"></div>
+      <p class="sl-reveal sl-reveal-2" style="margin-top: 36px; max-width: 56ch;">
+        HIP-143 passed April 3, 2025: 90.53% on 763M veHNT cast. It gave Nova Labs pricing authority over T-Mobile and AT&amp;T carrier offload — "extended for one additional year if no HIP is passed by Helium governance that determines otherwise." In April 2026, no superseding HIP was filed. The authority now runs through April 2027, covering 385,000 deployed hotspots.
+      </p>
+    </div>
+
+    <div class="sl-foot-row"><span>SECTION 01 / 03</span><span>SLIDE 04 / 11</span></div>
+  </section>
+
+  <!-- 05 — Section [02] FRAME ────────────────────────────────── -->
+  <section data-screen-label="05 Frame divider" class="sl-section">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">PART TWO OF THREE</div>
+    </div>
+
+    <div class="num sl-reveal">[02]</div>
+    <h2 class="sl-reveal sl-reveal-2">Frame.<span class="sl-caret"></span></h2>
+    <div class="sl-hairline" style="max-width: 720px; margin: 8px 0 32px 0;"></div>
+    <p class="desc sl-reveal sl-reveal-3">
+      Two halves of the network, two votes six months apart, three
+      named proxies. Each future HIP starts from a more concentrated
+      baseline than the last.
+    </p>
+
+    <div class="sl-foot-row"><span>SECTION</span><span>02 / 03</span></div>
+  </section>
+
+  <!-- 06 — Three frames: revenue / vote 1 / vote 2 ──────────── -->
+  <section data-screen-label="06 Three frames" class="sl-frames">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">[02] FRAME · WHERE THE MONEY IS, WHERE THE VOTES WERE</div>
+    </div>
+
+    <div>
+      <div class="sl-kicker sl-reveal" style="color: var(--tcn-slate-400); margin-bottom: 18px;">ONE NETWORK · TWO HALVES · TWO VOTES</div>
+      <h3 style="font-family: var(--font-display); font-size: 64px; line-height: 1.05; letter-spacing: -0.02em; color: var(--tcn-slate-400); margin: 0; max-width: 26ch;" class="sl-reveal sl-reveal-2">
+        The hardware is on one side. The revenue is on the other.
+      </h3>
+    </div>
+
+    <div class="sl-frames-grid">
+      <div class="sl-frame sl-reveal sl-reveal-2">
+        <span class="n">[01] REVENUE</span>
+        <h4>$124 vs. $56,635.</h4>
+        <p>IoT side · 385,000 hotspots · $124.77/day in data-transfer revenue. Mobile side · carrier offload · $56,635/day. One half is the revenue. The other is the hardware.</p>
+      </div>
+      <div class="sl-frame sl-reveal sl-reveal-3">
+        <span class="n">[02] HIP-143 · APR 2025</span>
+        <h4>50% from two.</h4>
+        <p>Delegated pricing authority to Nova Labs. Passed 90.53%. Nova Labs proxy: 26%. ferebee (co-author) proxy: 24%. Together: 50% of the yes votes.</p>
+      </div>
+      <div class="sl-frame sl-reveal sl-reveal-4" style="border-left-color: var(--tcn-slate-400);">
+        <span class="n" style="color: var(--tcn-slate-400);">[03] HIP-148 · OCT 2025</span>
+        <h4>62% from three.</h4>
+        <p>Killed Mobile Mapping rewards; routed 24% of Mobile emissions to Nova Labs. Passed 96.72%. ferebee 31% · Nova Labs 26% · Jay M. 5%.</p>
+      </div>
+    </div>
+
+    <div class="sl-foot-row"><span>SECTION 02 / 03</span><span>SLIDE 06 / 11</span></div>
+  </section>
+
+  <!-- 07 — Compare: McDonald's vs. Helium operator ───────────── -->
+  <section data-screen-label="07 Compare" class="sl-compare">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">[02] FRAME · THE MISSING DOCUMENT</div>
+    </div>
+
+    <div>
+      <h3 style="font-family: var(--font-display); font-size: 72px; line-height: 1.05; letter-spacing: -0.02em; color: var(--tcn-slate-400); margin: 0; max-width: 30ch;" class="sl-reveal">
+        One franchise reads the document before signing. The other gets it three years later.
+      </h3>
+    </div>
+
+    <div class="sl-compare-cols">
+      <div class="sl-compare-col sl-reveal sl-reveal-2">
+        <h5>MCDONALD'S FRANCHISEE</h5>
+        <h6>"FDD before the contract."</h6>
+        <p>Reads a Franchise Disclosure Document before signing. Federal law requires it. Pricing authority, exit provisions, geographic terms — all in writing before any capital moves.</p>
+      </div>
+      <div class="vrule"></div>
+      <div class="sl-compare-col sl-reveal sl-reveal-3">
+        <h5>HELIUM OPERATOR</h5>
+        <h6>"A sequence of HIPs, written after."</h6>
+        <p>Receives the equivalent document as a sequence of HIPs written after the hardware is already plugged in. Works the deal out three years later, from a Messari sector report.</p>
+      </div>
+    </div>
+
+    <div class="sl-foot-row"><span>SECTION 02 / 03</span><span>07 / 11</span></div>
+  </section>
+
+  <!-- 08 — Concentration table ──────────────────────────────── -->
+  <section data-screen-label="08 Concentration" class="sl-data">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">FIG. 02 · TOP SINGLE VOTER SHARE</div>
+    </div>
+
+    <h3 class="sl-reveal">Each vote starts from a more concentrated baseline than the last.</h3>
+
+    <div class="hl-conc" style="margin-top: 24px;">
+      <div class="row sl-reveal sl-reveal-2">
+        <div class="lab">HIP-138 · NOV 2024</div>
+        <div class="what">Return to HNT · top wallet, anonymous</div>
+        <div class="pct">15%</div>
+      </div>
+      <div class="rule"></div>
+      <div class="row sl-reveal sl-reveal-3">
+        <div class="lab">HIP-143 · APR 2025</div>
+        <div class="what">Pricing authority delegated · top: Nova Labs</div>
+        <div class="pct">26%</div>
+      </div>
+      <div class="rule"></div>
+      <div class="row sl-reveal sl-reveal-4">
+        <div class="lab">HIP-148 · OCT 2025</div>
+        <div class="what">Mobile Mapping eliminated · top: ferebee</div>
+        <div class="pct">31%</div>
+      </div>
+      <div class="rule"></div>
+      <div class="footnote sl-reveal sl-reveal-4">
+        Between HIP-143 and HIP-148, ferebee's veHNT grew +55.5% (183.85M → 285.92M).
+        Total network participation grew +18.2% over the same six months. The proposing-entity
+        co-author accumulated voting power at three times the network average.
+      </div>
+    </div>
+
+    <div class="caption">FIG. 02 — heliumvote.com proposal records; Messari State of Helium Q4 2025.</div>
+  </section>
+
+  <!-- 09 — Quote pull ─────────────────────────────────────────── -->
+  <section data-screen-label="09 Quote" class="sl-quote">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">HIP-148 · PROPOSAL TEXT</div>
+    </div>
+
+    <blockquote class="sl-reveal">
+      <div class="body">To simplify technical implementation, we propose to emit the full allocation … to the single Service Provider Nova Labs.</div>
+      <div class="src sl-reveal sl-reveal-2">— HIP-148, passed 96.72% on 902M veHNT · Oct 2025</div>
+    </blockquote>
+
+    <div class="sl-foot-row"><span>SECTION 02 / 03</span><span>09 / 11</span></div>
+  </section>
+
+  <!-- 10 — [03] CALL ─────────────────────────────────────────── -->
+  <section data-screen-label="10 Call" class="sl-section">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand"><span class="word">The Civic Node · №004</span></div>
+      <div class="sl-kicker">[03] CALL · FOUR DISCLOSURES</div>
+    </div>
+
+    <div class="num sl-reveal">[03]</div>
+    <h2 class="sl-reveal sl-reveal-2" style="font-size: 80px;">Do the math before the hardware ships.</h2>
+    <div class="sl-hairline" style="max-width: 720px; margin: 8px 0 32px 0;"></div>
+    <p class="desc sl-reveal sl-reveal-3" style="max-width: 44ch;">
+      [1] A written floor on material reward changes, plus a right
+      to exit. [2] Aggregate revenue disclosure, audited. [3]
+      Geographic acknowledgment — rural coverage and urban traffic
+      are different goods. [4] Sunsets that re-vote, not auto-extend.
+    </p>
+
+    <div class="sl-foot-row"><span>SECTION 03 / 03</span><span>10 / 11</span></div>
+  </section>
+
+  <!-- 11 — End-card / disclosure ─────────────────────────────── -->
+  <section data-screen-label="11 End" class="sl-end">
+    <div class="sl-mark-row">
+      <div class="sl-mark-brand sl-mark-pulse">
+        <svg width="44" height="48" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="6" stroke-linecap="round">
+          <line x1="33" y1="0" x2="81" y2="0"/>
+          <line x1="57" y1="0" x2="57" y2="77"/>
+          <line x1="57" y1="77" x2="0" y2="110"/>
+          <line x1="57" y1="77" x2="114" y2="110"/>
+          <circle class="node" cx="57" cy="77" r="14" fill="#557fa3" stroke="none"/>
+        </svg>
+        <span class="word" style="color:#557fa3;">The Civic Node</span>
+      </div>
+      <div class="sl-kicker">DISPATCH №004 · END</div>
+    </div>
+
+    <h2 class="sl-reveal">If I'm wrong, the primary sources are linked — you can check.</h2>
+
+    <div class="sl-disclosure sl-reveal sl-reveal-2">
+      <b>Standard disclosure</b>
+      No token positions, advisory roles, allocation letters, or sponsored content. If I have an
+      operational relationship with a project or infrastructure mentioned in this piece, it is
+      disclosed in the body before the relevant analysis. I previously ran more than twelve
+      Datagram nodes for seven months without pay; that project collapsed. If I'm wrong, the
+      primary sources are linked — you can check.
+    </div>
+
+    <div class="sl-end-cta sl-reveal sl-reveal-3">
+      <span class="arr">→</span>
+      <span class="url">drinkyouroj.substack.com</span>
+      <span style="flex:1"></span>
+      <span style="color: var(--tcn-twilight);">SUBSCRIBE · WEEKLY · NO HYPE</span>
+    </div>
+  </section>
+
+</deck-stage>
+
+<script type="application/json" id="speaker-notes">
+[
+  "Title slide. Hold the mark for a beat. Then read the title slowly. You own the hotspot — pause — Nova Labs owns what it earns. The whole argument is in that split of ownership. The hardware is the operator's. The pricing authority that determines what the hardware earns is delegated to one party, and as of April 2026 that delegation extended itself by default.",
+  "Section divider, [01] CONTEXT. Breath beat. The framing to land first: operators were sold a business and bought a franchise. The hardware they paid for is genuinely theirs. The pricing authority that determines what that hardware earns is not. Three seconds.",
+  "The numbers. Walk left to right. A pro outdoor unit is nine-forty-nine, indoor box two-forty-nine — that's operator capital, on the operator's credit card. Post-halving a well-placed urban unit earns four-to-eight dollars a month. That makes payback ten years on the high end, twenty on the low end. The payback math is the franchise. The pricing that sets it is in someone else's boardroom.",
+  "Auto-extension lead. Read the headline. Pause. HIP-143 in April 2025 delegated carrier-pricing authority to Nova Labs. The proposal had a one-year initial term with a clause: the authority extends another year if no superseding HIP passes. In April 2026, none did. The authority now runs through April 2027 — over three-hundred-eighty-five-thousand deployed hotspots. The sunset that extended itself is the dispatch.",
+  "Section divider, [02] FRAME. Pause. The frame: two halves of the network, two votes six months apart, three named proxies. Each future HIP starts from a more concentrated baseline than the last.",
+  "Three frames. One — where the money actually is. IoT side, three-hundred-eighty-five-thousand hotspots, a hundred-twenty-four dollars and seventy-seven cents a day in real data-transfer revenue. Mobile side, carrier offload, fifty-six-thousand-six-hundred-thirty-five a day. One half is the revenue, the other half is the hardware that gives the project something to point at. Two — HIP-143 passed ninety-point-five-three percent. Nova Labs proxy held twenty-six, ferebee — a co-author — held twenty-four. Half the yes votes came from two wallets, one of which was the proposing entity. Three — six months later HIP-148 killed Mobile Mapping rewards and routed twenty-four percent of Mobile emissions to Nova Labs. Top three proxies controlled sixty-two percent.",
+  "Compare. The McDonald's analogy is the cleanest read. A franchisee reads a Franchise Disclosure Document before signing — federal law requires it. The Helium operator received the equivalent document as a sequence of HIPs written after the hardware was already plugged in. Same legal shape, opposite information timing. The operator works out the deal three years later, from a Messari sector report.",
+  "Concentration table. Don't narrate every row. Land the trajectory. Top single voter share — fifteen, twenty-six, thirty-one percent across three consecutive HIPs. And in the six months between the second and third vote, ferebee's veHNT grew fifty-five-and-a-half percent while total network participation grew eighteen. The proposing-entity co-author accumulated voting power at three times the network average while proposing changes that consolidated revenue to the proposing entity. Each future HIP starts from a more concentrated baseline.",
+  "Quote. Read it slowly. This is from HIP-148's own proposal text — not commentary, not opposition. The technical-simplification language is doing the work. To simplify implementation we will emit the full allocation to the single service provider, Nova Labs. The vote that ratified this passed at ninety-six-point-seven-two percent.",
+  "[03] CALL. Read the title. Pause. Read the four disclosures in order. A written floor on material reward changes with a right to exit. Aggregate revenue disclosure, audited annually. Geographic acknowledgment — rural coverage and urban traffic are different goods, the operator needs to know which one before the hardware ships. Sunsets that require an active re-vote rather than extending by default. The next DePIN operator does the math before the hardware ships.",
+  "End-card. Read the standard disclosure verbatim — including the Datagram line; it's the disclosure the article ends on. End on the URL."
+]
+</script>
+
+</body>
+</html>

@@ -1,12 +1,12 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-06-02
-total_pages: 1328
-total_sources: 747
-total_entities: 284
+updated: 2026-06-03
+total_pages: 1352
+total_sources: 764
+total_entities: 290
 total_concepts: 168
-total_syntheses: 27
+total_syntheses: 28
 total_articles: 102
 ---
 
@@ -23,6 +23,74 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-03 ingest (Michigan AI cost-incidence localization — DTE rate fight + Saline Stargate campus) (4 sources, 4 new entities, 0 new concepts; [[AI Cost Incidence]] + [[AI Buildout Grid Constraint]] updated)
+
+Surfaced while verifying the June 5 flagship's Personal Code line. The author lives in St. Clair County, MI ([[DTE Energy]] territory); the draft's "a data center two counties over" was checkable and false — the data center actually reshaping DTE's rates is the Oracle/[[Stargate]] [[Saline Township Data Center (The Barn)]] in Saline Township (Washtenaw County), ~3 counties / 90+ mi away on the opposite end of DTE's footprint. The flagship line was corrected to make proximity-irrelevance the point ("you don't have to live near one for the boom to reach the bill") and the 6/10 paid note's parallel "two counties over" (an Ohio illustration) was generalized to "somewhere out on the same grid." This ingest files the Michigan/MISO sources used in that verification — the **retail-rate-case** face of [[AI Cost Incidence]], which the wiki previously held only at the PJM/wholesale layer.
+
+- [[DTE Ties Future Rate Freeze to Data Centers — Planet Detroit - 2026-04-24]] — Dustin Blitchok, Planet Detroit. DTE's 2026 $474.3M (~7.6%) rate filing, ~$9.39/mo, with a ≥2-year freeze promise conditioned on Oracle + Google data-center revenue; MPSC ruling expected within 10 months.
+- [[Michigan Data Centers Could Hike Your Power Bill — Planet Detroit - 2025-10-16]] — Brian Allnutt, Planet Detroit. The canonical retail-mechanism source: proportional cost-socialization of new-generation premiums; Douglas Jester's 5–10%-per-1 GW estimate; DTE 7 GW / Consumers 15 GW pipeline; Consumers' MPSC tariff (15-yr term, exit fees, 80% min demand).
+- [[Saline Township Data Center Construction Underway — Michigan Public - 2026-04-25]] — Brett Dahlberg, Michigan Public. The $16B Oracle/Related Digital/Blackstone campus (>1 GW ≈ 25% of DTE peak) under construction; Nessel's appeal of the MPSC's conditional power-contract approval.
+- [[DTE Data Center Customer Rate Protection Claims — DTE Energy - 2026]] — DTE corporate page. The utility's "data centers will not increase customer rates" denial + the ~$9B-through-2045 / $300M-a-year-grid claims; the contested counterpoint to the cost-shift critique.
+
+**New entities (4):** [[DTE Energy]] — the utility on the author's bill (~2.3M SE-Michigan customers incl. St. Clair Co.; $474.3M 2026 filing; $242.2M approved Feb 2026); [[Saline Township Data Center (The Barn)]] — the >1 GW Oracle/Stargate campus reshaping DTE's rate base; [[Consumers Energy]] — Michigan's other big IOU, first mover on data-center rate-protection tariffs; [[Dana Nessel]] — Michigan AG fighting the DTE hike and appealing the redacted power contracts.
+
+**Concept updates:** [[AI Cost Incidence]] (Michigan retail-rate localization; the proximity-irrelevance mechanism behind the corrected flagship line; Consumers' re-assignment tariff; contested-causation tension with a ⚠️ DTE-denial-vs-critics contradiction); [[AI Buildout Grid Constraint]] (single-load concentration — Saline >1 GW ≈ 25% of DTE peak; DTE 7 GW / Consumers 15 GW vs. 10.2/7.5 GW 2022 peaks).
+
+**Flagged:** (1) Cross-source % discrepancy on the DTE hike — Planet Detroit **7.6%** vs. Detroit News **"nearly 10%"/~9.96%** on identical $474.3M / $9.39-mo figures; base (system vs. residential vs. total-revenue) unreconciled, both recorded, neither asserted canonical. (2) Detroit News originals bot-walled (302 → usatoday.com/bot-detection); Planet Detroit used as the citable equivalent (no user scrape needed). (3) [[Michigan Public Service Commission]] linked across the cluster but not yet a page (entity gap for a future pass); Related Digital / Blackstone mentioned inline only. (4) Michigan is MISO, not PJM — kept out of the flagship body (all-PJM) to avoid a grid-region mismatch; the personal line and paid note stay general.
+
+### 2026-06-03 ingest (Samsung shareholder counter-suit) — the capital-side corner of AI Windfall Sharing (2 sources, 1 new entity, 0 new concepts)
+
+WebFetch ingest of the shareholder challenge to the Samsung profit-share deal — the capital-side claimant that existing Samsung coverage mentioned but never sourced in detail. Surfaced during the June 3 daily-content-plan run (the fresh FB Awareness anchor) and ingested per user request. Corrects the org name (a US search snippet had rendered it "Korea Shareholder Action Headquarters").
+
+- [[Samsung Shareholders Threaten Lawsuit Over Wage Deal — Seoul Economic Daily - 2026-05-21]] — Lee Seok-jin, Seoul Economic Daily. The May 21 rally outside Jay Y. Lee's residence; the [[Korea Shareholders' Movement Headquarters]] (head Min Kyung-kwon) Commercial Act null-and-void theory (allocating pre-tax OP % bypasses the shareholder-resolution procedure); the "Act" platform 1%-derivative-suit drive; institutional-investor letters. (Verbatim full-document read.)
+- [[Samsung Bonus Deal Labor-Management-Shareholder Clash — Seoul Economic Daily - 2026-05-30]] — Ahn Hyun-deok commentary. The post-ratification escalation "heading to court": four remedies (invalidity suit, payout injunction, directors' fiduciary-duty derivative suit, strike-participant damages); the Yellow Envelope "cascade of civil and criminal suits" forecast. (Structured WebFetch digest, not verbatim — re-fetch for full text.)
+
+**New entity (1):** [[Korea Shareholders' Movement Headquarters]] — the minority-shareholder activist group (head Min Kyung-kwon) suing to void the profit-share deal under the Commercial Act; the capital-side claimant in [[AI Windfall Sharing]].
+
+**Entity/concept updates:** [[Samsung]] (dedicated capital-side-challenge fact + corrected org name + 2 source appearances + refined open question), [[AI Cost Incidence]] (the shareholders litigating the cost = the affected party confirming the incidence lands on capital — the cleanest GAP-4 evidence yet), [[AI Windfall Sharing]] (the three-cornered fight: labor won the share, management signed it, capital is suing to void it).
+
+**Status precision (flagged):** both sources confirm *declared / pursued* legal action, not a docketed complaint with a filing date. Daily-plan and downstream prose corrected from "filed a suit May 27" to "declared / pursuing." Raw files persisted (webfetch method; Korean-outlet URL may change or region-lock).
+
+### 2026-06-02 ingest (flagship fact-reconcile — SK Hynix precedent primary) — the "previous fall" template, dated and sourced (1 source, 0 new entities, 0 new concepts)
+
+Surfaced during the June 5 flagship's fact-check loop: the SK Hynix 10%-of-operating-profit precedent (the template Samsung's deal built on) had no dated primary — only secondary references. The user scraped the Bloomberg original to `raw/`; ingested here. The article's "the previous fall" link was swapped from the paywalled bloomberg.com URL to the archive.ph snapshot for reader access.
+
+- [[SK Hynix 2.7 Billion Bonus Deal Ratified — Bloomberg - 2025-09-04]] — **Bloomberg primary** (Yoolim Lee): Sept-4-2025 union vote; 10% of annual operating profit → bonus pool for 33,625 employees; ~$2.7B / ~$80K-avg for 2025; 6% wage hike; 10-year term; abolished the 1,000%-of-base cap; flagged at the time as a precedent that would pressure [[Samsung]]
+
+**Updates:** [[SK Hynix]] (dated-origin primary added to the AI-windfall-precedent fact + a Source Appearance row), [[overview.md]] (running total 757→758). Superseded the earlier paywalled bloomberg.com raw stub (deleted). Note: the [[Cleveland-Cliffs]] Butler Works company page (now linked in the article for the sole-US-GOES-mill claim) remains a `raw/` stub pending full ingestion.
+
+### 2026-06-02 ingest (later — GAP 4 cost-incidence fill) — chip-layer incidence of the AI labor windfall (2 sources, 0 new entities, 0 new concepts)
+
+Independent search to fill **GAP 4** (the hyperscaler chip-cost pass-through left open by the flagship-gap-fill pass below). Outcome: the gap is **refined, not just filled** — the clean "labor cost → chip price → hyperscaler bill" pass-through is **not supported**, because the bonus is a profit-*share* (10.5% of realized OP), "a distribution of earnings, not an upfront cost burden." Incidence falls on shareholders and reinvestment headroom; pass-through would be a strategic use of chokepoint pricing power, not an automatic cost flow.
+
+- [[SK Hynix 100 Trillion Won Reward Burden — Seoul Economic Daily - 2026-05-05]] — chip-layer [[AI Cost Incidence]]: combined shareholder+employee rewards ~100T won (+450% YoY) vs. CAPEX/R&D (+20–30%); competitiveness crowd-out
+- [[Samsung Strike Risk Gone Now the Real Test Is HBM — Investing.com - 2026-05-27]] — the profit-contingent-distribution (not per-unit-cost) structural correction; contributor analysis (flagged), sound on the structural point
+
+**Updates:** [[AI Cost Incidence]] (new chip-layer-incidence evidence + the pass-through-is-a-choice tension), [[SK Hynix]] (reward-burden vs. reinvestment data), [[Samsung]] (GAP 4 open question refined — pass-through named as a strategic choice, not a mechanism; JPMorgan analyst attributed as Jay Kwon). **GAP 4 status:** resolved into honest, sourced framing; no clean pass-through source exists because the deal is structurally a profit-share.
+
+### 2026-06-02 ingest (June 5 flagship gap-fill) — Samsung ratification + transformer/GOES grid layer + 1951 Accord anchor (8 sources, 1 new entity, 0 new concepts)
+
+Source-gap fill ahead of the **June 5 flagship "AI Windfall Sharing — Samsung's $370K Deal and the Labor Layer of the AI Capex Story."** Closes the standing gap flagged since 2026-05-21: the Samsung deal that the flagship is named after existed only as a *tentative*-deal note on the [[Samsung]] entity (the "12% pool" estimate) with **no source page for the May 27 ratification**. This pass ingests the ratification and its framing layers, plus the two grid-layer claims the June 2 daily plan used that were not yet in the wiki (four-year transformer lead times; the Cleveland-Cliffs single-source GOES chokepoint), plus a citable secondary anchor for the [[1951 Treasury-Fed Accord]] (whose Key Sources were previously empty).
+
+**Samsung labor layer (6 sources):**
+- [[Samsung Wage Deal Ratified — Korea Herald - 2026-05-27]] — primary ratification: 73.7% of 62,616 ballots (95.5% turnout of 65,593); 10.5%-of-OP share bonus; the K-shaped "bonus backlash" (memory ~600M won vs. DX "several million"); Donghaeng-union split; Commercial Act shareholder lawsuit
+- [[Samsung Chip Workers Accept $340K Average Bonus — Tom's Hardware - 2026-05-27]] — deal structure (10.5% stock + 1.5% cash + 6.2% wage), 10-year term, 200T/100T-won OP targets, $26.6B pool, 78,000 employees
+- [[The Coming AI Profit Revolt — Axios - 2026-05-25]] — U.S. transmission: "AI productivity dividend" as a 2026 proxy-season demand; UAW/CWA; Newsom universal basic capital; Bannon cross-ideological note
+- [[Samsung AI Labor Showdown Haves Versus Have-Mores — Bloomberg - 2026-05-21]] — **Bloomberg primary** (Catherine Thorbecke) for the "haves vs. have-mores" framing; the 755% Q-profit jump; Samsung = 22.8% of Korean exports / 26% of the stock market (the chokepoint-leverage stat); "wait until its losers do, too"
+- [[Samsung AI Bonuses Prompt Korea Debate — Bloomberg - 2026-05-30]] — **Bloomberg primary** (Choi/Eom/Lee): national-policy layer (Kim Yong-beom "citizen dividend," social solidarity wage, Korean SWF); "AI aristocrats" intra-company divide; Samsung+SK Hynix tax bill >100T won potentially exceeding the government's whole corporate-tax take; TSMC 30% bump; the equities/housing/inflation knock-on
+- [[Foreign Media Frame Samsung Strike as Haves vs Have-Mores — Seoul Economic Daily - 2026-05-20]] — Korean-reception companion to the Thorbecke primary: 70% public disapproval; SK Hynix precedent
+
+**Grid layer (2 sources):**
+- [[US Transformer Lead Times Extend to Four Years — pv magazine USA - 2026-05-11]] — PwC four-year lead time (fresher than the spent 128–160-week figures); GOES + copper as the binding raw-material constraint; Hitachi South Boston 2028 / Siemens $421M Charlotte
+- [[Cleveland-Cliffs Weirton Transformer Plant — Utility Dive - 2024-08-06]] — Cleveland-Cliffs as the **sole U.S. GOES producer** (Butler, PA); $150M Weirton transformer plant; Goncalves "no AI without electricity, no electricity without transformers"
+
+**Accord anchor (1 source):**
+- [[Treasury-Fed Accord — Federal Reserve History]] — Jessie Romero's Fed History essay; fills the previously-empty Key Sources on [[1951 Treasury-Fed Accord]] and supplies the load-bearing facts for the flagship's "Samsung Accord" parallel
+
+**New entity (1):** [[Cleveland-Cliffs]] — sole U.S. producer of grain-oriented electrical steel; the chokepoint inside the transformer chokepoint.
+
+**Entity/concept updates:** [[Samsung]] (tentative→ratified reconciliation + backlash + national-policy/US-transmission), [[SK Hynix]] (added the 10%-of-OP labor precedent, previously absent from its page), [[AI Windfall Sharing]] (ratified case + 4 framing threads), [[AI Buildout Grid Constraint]] (four-year lead time + GOES chokepoint), [[1951 Treasury-Fed Accord]] (Key Sources + "Samsung Accord" parallel note). **Update (same day, Bloomberg primaries ingested):** the user scraped both Bloomberg originals to `raw/`; they are now ingested as primary source pages ([[Samsung AI Labor Showdown Haves Versus Have-Mores — Bloomberg - 2026-05-21]] and [[Samsung AI Bonuses Prompt Korea Debate — Bloomberg - 2026-05-30]]), replacing the earlier Investing.com-mirror stand-in (retired) and superseding the Seoul Economic Daily stand-in (kept as the Korean-reception companion). **Still-open (flagged, not filled):** the hyperscaler-PPA chain — incidence flowing from the 10.5%-of-OP labor claim into chip prices into hyperscaler memory contracts — remains analytical inference, not sourced.
 
 ### 2026-06-02 ingest (single-source, BLS primary release) — JOLTS April 2026 + new Bureau of Labor Statistics entity (1 source, 1 new entity, 0 new concepts)
 
@@ -1957,6 +2025,9 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[Chokepoint Control as Power's Architecture]] — Strait of Hormuz, GENIUS Act reserves, DEA quotas, App Store, Fed rate-setting as the same mechanism; DePIN as structural response
 - [[El Salvador Bitcoin — Policy Failure as Profit Model]] — 92% non-adoption, $333M government gain, IMF forced removal; failed as currency, succeeded as insider enrichment
 
+### AI Capex Distribution Analysis
+- [[The Capex Boom's Two Chokepoints — Labor Captures, the Grid Absorbs]] — Article-research synthesis for the June 5 flagship ("AI Windfall Sharing"). Welds the Samsung labor chokepoint (10.5%-of-OP profit-share, the first permanent profit-indexed labor claim on an AI chokepoint) to the transformer/GOES grid chokepoint (four-year lead times, single-mill steel), naming the **asymmetry** (labor captures upside; ratepayers/grid absorb cost — same cause, opposite directions). Bounds the 1951-Accord parallel to the thin-written-instrument-won-by-refusal axis, and resolves GAP 4 (the windfall is a profit-share whose incidence lands on shareholders/reinvestment; hyperscaler pass-through is a named inference, not a cost flow). Surfaces the "AI Aristocrats" follow-on concept.
+
 ### DRAM Crisis Analysis
 - [[The Perfect Storm — Why RAM Prices Won't Fall (2026)]] — Five-force synthesis: LOI→panic→binding deals, Jevons Paradox, helium/Hormuz, Samsung strike, data center cancellations; timeline to 2028 glut
 - [[Newsletter Draft — The IOU That Broke the Memory Market]] — Editorial brief for newsletter piece; structure, data points, quotes, tone notes
@@ -1973,12 +2044,14 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 
 | Metric | Count |
 |---|---|
-| Total sources ingested | 741 |
-| Published articles tracked | 101 (87 standalone + 11 episodes + 3 backstage) |
-| Entity pages | 269 |
-| Concept pages | 165 |
-| Synthesis pages | 27 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series) |
-| Last updated | 2026-05-24 |
+| Total sources ingested | 757 |
+| Published articles tracked | 102 (per frontmatter; breakdown pending lint re-verification) |
+| Entity pages | 285 |
+| Concept pages | 168 |
+| Synthesis pages | 28 (5 audits + 18 insight sweep + 2 DRAM crisis + 1 audience/editorial + 1 DePIN series + 1 AI capex distribution) |
+| Last updated | 2026-06-02 |
+
+*(Stats table reconciled 2026-06-02 to match frontmatter — it had been lagging since the 2026-05-24 update: sources 741→757, entities 269→285, concepts 165→168. The 2026-05-21 and 2026-06-02 JOLTS + June-5-flagship ingests had rolled the frontmatter forward but not this table.)*
 
 ### 2026-05-24 New Pages (lint + ingest)
 

@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>The Civic Node — drinkyouroj.substack.com</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<link rel="stylesheet" href="../../colors_and_type.css"/>
+<link rel="stylesheet" href="kit.css"/>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+</head>
+<body class="tcn">
+<div id="root"></div>
+
+<script type="text/babel" src="components/Masthead.jsx"></script>
+<script type="text/babel" src="components/IssueRow.jsx"></script>
+<script type="text/babel" src="components/Dispatch.jsx"></script>
+
+<script type="text/babel">
+const ISSUES = [
+  { number: 42, date: "2025·05·05", readingTime: 12, words: 2840,
+    title: "The crowding-out paradox",
+    dek: "When sovereign debt absorbs the productivity premium. Three frames; the third is the one most people miss.",
+    lede: "The Treasury has signalled it three times now. The first time it was a footnote in a refunding announcement; the second, an off-the-record backgrounder. This week it landed in a published auction calendar. Worth taking seriously — the third frame is the one most people miss.",
+    tags: ["MONETARY", "INFRASTRUCTURE", "FRAMEWORKS"] },
+  { number: 41, date: "2025·04·28", readingTime: 9, words: 2110,
+    title: "Who actually clears the network",
+    dek: "Pipes vs. policy. Two settlement layers, one regulator who has not decided yet which one she answers to.",
+    lede: "If you've been watching the SEC and the OCC trade press releases this month, you're watching the wrong thing. The decision was made eighteen months ago, in a working group that did not publish minutes.",
+    tags: ["INFRASTRUCTURE", "REGULATION"] },
+  { number: 40, date: "2025·04·21", readingTime: 14, words: 3260,
+    title: "Stablecoin issuance is a sovereign-debt question",
+    dek: "Why the Treasury, not the central bank, is the agency that ends up writing the rules.",
+    lede: "There are two stories about stablecoins. One is a story about money. The other is a story about who finances the deficit. They are not the same story, and only one of them is being told in public.",
+    tags: ["MONETARY", "DECENTRALIZED"] },
+  { number: 39, date: "2025·04·14", readingTime: 8, words: 1840,
+    title: "The long con of \"AI safety\"",
+    dek: "Three actors, two definitions, one bait-and-switch. A field guide.",
+    lede: "Every actor in the AI-safety conversation is talking about a different thing. They know they are talking about different things. They are pretending that they are not. Here's the field guide.",
+    tags: ["AI", "POWER"] },
+  { number: 38, date: "2025·04·07", readingTime: 11, words: 2420,
+    title: "What the budget bill actually does",
+    dek: "Read past the headline number. The interesting line items are on page 412.",
+    lede: "Budget reporting selects for headline-friendly numbers. The interesting numbers — the ones that constrain the next administration's ability to do anything — are not on the cover page.",
+    tags: ["POLITICS", "FRAMEWORKS"] },
+];
+
+function App() {
+  const [view, setView]         = React.useState("home");      // "home" | "issue"
+  const [activeIssue, setIssue] = React.useState(null);
+  const [expandedNum, setExp]   = React.useState(null);
+  const [email, setEmail]       = React.useState("");
+  const [confirmed, setOK]      = React.useState(false);
+
+  const openIssue = (i) => { setIssue(i); setView("issue"); window.scrollTo(0, 0); };
+  const goHome    = () => { setView("home"); window.scrollTo(0, 0); };
+
+  const subscribe = (e) => {
+    e.preventDefault();
+    if (email.includes("@")) setOK(true);
+  };
+
+  return (
+    <div className="tcn-app">
+      <Masthead activeNav={view === "home" ? "Home" : "Archive"} onNav={(n) => { if (n === "Subscribe →") { document.getElementById("sub")?.scrollIntoView({block:"start"}); } else if (n === "Home") goHome(); }} />
+
+      {view === "home" && (
+        <>
+          <section className="tcn-hero">
+            <div>
+              <div className="tcn-hero-tag">POLITICS · INFRASTRUCTURE · AI · POWER · NO HYPE</div>
+              <h1>Composure<br/>through frameworks.</h1>
+            </div>
+            <div>
+              <p className="tcn-hero-promise">
+                A weekly systems-analysis dispatch on the collision between centralized
+                institutions and the technologies competing with them. Written for readers
+                who have noticed nobody is connecting all three.
+              </p>
+              <form id="sub" className={"tcn-sub" + (confirmed ? " is-confirmed" : "")} onSubmit={subscribe}>
+                <input type="email" placeholder="reader@example.com"
+                       value={email} onChange={(e) => { setEmail(e.target.value); setOK(false); }}
+                       disabled={confirmed}/>
+                <button type="submit">{confirmed ? "Subscribed →" : "Subscribe"}</button>
+              </form>
+              <div className="tcn-sub-note">
+                {confirmed ? "WELCOME · CONFIRMATION SENT" : "FREE · WEEKLY · ONE TAP TO UNSUBSCRIBE"}
+              </div>
+            </div>
+          </section>
+
+          <hr className="tcn-hairline"/>
+
+          <div className="tcn-section-head">
+            <span>ARCHIVE · {ISSUES.length} DISPATCHES</span>
+            <span>NEWEST FIRST</span>
+          </div>
+
+          <div className="tcn-stack">
+            <main>
+              {ISSUES.map(i => (
+                <IssueRow
+                  key={i.number}
+                  issue={i}
+                  expanded={expandedNum === i.number}
+                  onToggle={(n) => setExp(expandedNum === n ? null : n)}
+                  onOpen={openIssue}/>
+              ))}
+            </main>
+            <aside className="tcn-sidebar">
+              <div className="tcn-side-block">
+                <h4>Standing furniture</h4>
+                <div>EST. 2025</div>
+                <div>drinkyouroj.substack.com</div>
+                <div>Editor · OJ</div>
+              </div>
+              <div className="tcn-side-block">
+                <h4>Read by readers of</h4>
+                <ul>
+                  <li>Lyn Alden</li>
+                  <li>Matt Taibbi</li>
+                  <li>Matt Levine</li>
+                  <li>Patrick McKenzie</li>
+                  <li>Concoda</li>
+                </ul>
+              </div>
+              <div className="tcn-side-block">
+                <h4>Permanent anti-patterns</h4>
+                <ul>
+                  <li>Partisan drift</li>
+                  <li>Sponsored content</li>
+                  <li>Community before trust</li>
+                  <li>Contrarianism for its own sake</li>
+                  <li>Doomerism</li>
+                </ul>
+              </div>
+            </aside>
+          </div>
+        </>
+      )}
+
+      {view === "issue" && activeIssue && (
+        <Dispatch issue={activeIssue} onBack={goHome}/>
+      )}
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
+</script>
+</body>
+</html>

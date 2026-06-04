@@ -46,3 +46,13 @@ public/
 # Graphify — knowledge graph generator (env file + generated output)
 .graphify-env
 graphify-out/
+
+# Recording artifacts — large A/V captures from YouTube/video production.
+# Keep these out of git (they're big binaries, e.g. a 66MB dispatch .wav).
+# Transcripts (.srt) and rendered images (.png) are committed normally.
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mov
+*.mkv

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<style>
+  html, body { margin: 0; }
+  body { background: #0d0d0f; font-family: 'Courier Prime', monospace; padding: 0; box-sizing: border-box; display: grid; place-items: center; min-height: 320px; position: relative; overflow: hidden; }
+  .meta { position: absolute; top: 12px; left: 16px; font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase; color: #485070; }
+  .stage { display:flex; gap: 32px; align-items: center; padding: 28px; }
+  .mark-wrap { position: relative; width: 200px; height: 200px; display:grid; place-items:center; }
+  .glow { position:absolute; inset: -60px; border-radius: 50%; background: radial-gradient(rgba(85,127,163,0.14) 0%, rgba(85,127,163,0) 60%); pointer-events: none; }
+  .label { font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; color: #485070; text-align: center; margin-top: 14px; }
+</style>
+</head>
+<body>
+  <div class="meta">Mark · the only icon in the system</div>
+  <div class="stage">
+    <div>
+      <div class="mark-wrap">
+        <div class="glow"></div>
+        <svg width="160" height="170" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="3.5" stroke-linecap="round">
+          <line x1="33" y1="0" x2="81" y2="0"/>
+          <line x1="57" y1="0" x2="57" y2="77"/>
+          <line x1="57" y1="77" x2="0" y2="110"/>
+          <line x1="57" y1="77" x2="114" y2="110"/>
+          <circle cx="57" cy="77" r="10" fill="#557fa3" stroke="none"/>
+        </svg>
+      </div>
+      <div class="label">DARK · NODE FILLED</div>
+    </div>
+    <div>
+      <div class="mark-wrap">
+        <svg width="160" height="170" viewBox="-3 -3 120 130" fill="none" stroke="#557fa3" stroke-width="3.5" stroke-linecap="round">
+          <line x1="33" y1="0" x2="81" y2="0"/>
+          <line x1="57" y1="0" x2="57" y2="77"/>
+          <line x1="57" y1="77" x2="0" y2="110"/>
+          <line x1="57" y1="77" x2="114" y2="110"/>
+          <circle cx="57" cy="77" r="10" fill="none" stroke="#557fa3" stroke-width="3.5"/>
+        </svg>
+      </div>
+      <div class="label">DARK · NODE OUTLINED</div>
+    </div>
+    <div>
+      <div class="mark-wrap" style="background:#f6f6f8;">
+        <svg width="160" height="170" viewBox="-3 -3 120 130" fill="none" stroke="#3a6a8f" stroke-width="3.5" stroke-linecap="round">
+          <line x1="33" y1="0" x2="81" y2="0"/>
+          <line x1="57" y1="0" x2="57" y2="77"/>
+          <line x1="57" y1="77" x2="0" y2="110"/>
+          <line x1="57" y1="77" x2="114" y2="110"/>
+          <circle cx="57" cy="77" r="10" fill="#3a6a8f" stroke="none"/>
+        </svg>
+      </div>
+      <div class="label">LIGHT</div>
+    </div>
+  </div>
+</body></html>
