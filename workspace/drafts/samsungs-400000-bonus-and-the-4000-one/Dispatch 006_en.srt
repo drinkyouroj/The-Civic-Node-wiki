@@ -1,0 +1,339 @@
+﻿1
+00:00:00,000 --> 00:00:06,569
+…Two workers walk out of the same Samsung plant in Korea.
+
+2
+00:00:06,569 --> 00:00:10,632
+Same shift, they worked it a hundred yards apart.
+
+3
+00:00:10,632 --> 00:00:16,195
+One of them builds memory chips. This year, his bonus runs toward four hundred thousand
+
+4
+00:00:16,195 --> 00:00:21,594
+dollars… The other builds phones and televisions.
+
+5
+00:00:21,594 --> 00:00:24,634
+His bonus comes to about four thousand.
+
+6
+00:00:24,634 --> 00:00:31,620
+Same company, same shift, a hundred to one … That
+
+7
+00:00:31,620 --> 00:00:34,880
+gap is the whole AI boom in one picture.
+
+8
+00:00:34,880 --> 00:00:38,530
+One boom hit two different bottlenecks. Two places
+
+9
+00:00:38,530 --> 00:00:42,382
+where everything backs up because one thing is in short supply.
+
+10
+00:00:42,382 --> 00:00:45,715
+At the first one, the workers walked off with a fortune.
+
+11
+00:00:45,715 --> 00:00:49,875
+At the second one, the cost landed on people who never got a vote.
+
+12
+00:00:49,875 --> 00:00:56,505
+Same boom, opposite endings, and one question decides which end you land on.
+
+13
+00:00:56,505 --> 00:01:04,754
+Who gets to say no … So why did the chip worker win?
+
+14
+00:01:04,754 --> 00:01:08,054
+Because he was sitting on the one part the whole boom can't run without
+
+15
+00:01:08,054 --> 00:01:13,152
+, the fast memory that stacks inside every AI chip.
+
+16
+00:01:13,152 --> 00:01:17,952
+Right now, it's sold out, and Samsung is not a normal company.
+
+17
+00:01:17,952 --> 00:01:21,737
+It's almost a quarter of South Korea's entire exports.
+
+18
+00:01:21,737 --> 00:01:26,027
+So one walkout in that plant doesn't dent a single company's quarter.
+
+19
+00:01:26,027 --> 00:01:29,647
+It stalls the AI build out for the whole planet.
+
+20
+00:01:29,647 --> 00:01:33,247
+Their profit had jumped seven hundred and fifty five percent in a year
+
+21
+00:01:33,247 --> 00:01:38,044
+, so the workers asked for a cut, and they got it.
+
+22
+00:01:38,044 --> 00:01:42,882
+Ten and a half percent of the division's profit…every year for ten years
+
+23
+00:01:42,882 --> 00:01:47,256
+…
+
+24
+00:01:47,256 --> 00:01:51,336
+And this is the part that shows up in every other story like it.
+
+25
+00:01:51,336 --> 00:01:54,776
+The chip workers had two things, a union
+
+26
+00:01:54,776 --> 00:01:58,891
+…and a product nobody could buy anywhere else.
+
+27
+00:01:58,891 --> 00:02:02,291
+Put those together and they could shut the whole line down.
+
+28
+00:02:02,291 --> 00:02:05,893
+So when they asked for a cut, the answer had to be yes.
+
+29
+00:02:05,893 --> 00:02:10,816
+That's what this comes down to, the power to say no and make it stick.
+
+30
+00:02:10,816 --> 00:02:15,546
+The bonus is just the receipt. So hold on to the question.
+
+31
+00:02:15,546 --> 00:02:20,377
+Who gets to say no… Because the rest of this boom is full of people who can't
+
+32
+00:02:20,377 --> 00:02:24,575
+…
+
+33
+00:02:24,575 --> 00:02:27,915
+Now follow the electricity instead of the chips.
+
+34
+00:02:27,915 --> 00:02:30,942
+It leads straight to the second bottleneck.
+
+35
+00:02:30,942 --> 00:02:35,530
+Every data center needs a giant transformer before it can switch on.
+
+36
+00:02:35,530 --> 00:02:39,010
+That's the equipment that moves power across the grid.
+
+37
+00:02:39,010 --> 00:02:44,042
+The wait for a big one has stretched to four years, and it gets stranger.
+
+38
+00:02:44,042 --> 00:02:47,222
+The special steel inside that transformer's core comes from
+
+39
+00:02:47,222 --> 00:02:51,055
+exactly one factory in the entire United States.
+
+40
+00:02:51,055 --> 00:02:56,907
+One mill in Butler, Pennsylvania. The CEO of that company says it plainly.
+
+41
+00:02:56,907 --> 00:03:02,490
+No AI without electricity…and no electricity without transformers.
+
+42
+00:03:02,490 --> 00:03:07,100
+The grid is a choke point exactly like the memory plant with one difference
+
+43
+00:03:07,100 --> 00:03:10,877
+…
+
+44
+00:03:10,877 --> 00:03:14,535
+The difference is that nobody here has a hand on the valve.
+
+45
+00:03:14,535 --> 00:03:19,312
+The grid operator for thirteen eastern states ran its auctions for future power.
+
+46
+00:03:19,312 --> 00:03:22,602
+The math came back ugly. Data center demand
+
+47
+00:03:22,602 --> 00:03:26,462
+added almost fourteen billion dollars to customer bills.
+
+48
+00:03:26,462 --> 00:03:31,432
+wholesale power up more than seventy five percent in a single year.
+
+49
+00:03:31,432 --> 00:03:34,852
+That lands on families in Ohio and Virginia.
+
+50
+00:03:34,852 --> 00:03:38,172
+They never voted on the data centers driving the number.
+
+51
+00:03:38,172 --> 00:03:43,387
+They just pay more for the same electricity. The chip workers had a union.
+
+52
+00:03:43,387 --> 00:03:46,057
+The person opening that power bill has a billing address
+
+53
+00:03:46,057 --> 00:03:50,503
+…
+
+54
+00:03:50,503 --> 00:03:53,873
+Here's where the easy version of this story falls apart.
+
+55
+00:03:53,873 --> 00:03:57,803
+You'd think the chip workers bonus just gets passed down to you.
+
+56
+00:03:57,803 --> 00:04:01,203
+Higher chip prices, higher everything, your bill goes up.
+
+57
+00:04:01,203 --> 00:04:04,751
+Clean and simple. It doesn't work that way.
+
+58
+00:04:04,751 --> 00:04:08,898
+The bonus is a slice of profit. It comes out of what's left after the
+
+59
+00:04:08,898 --> 00:04:13,101
+chips sell, not out of the price stamped on each one.
+
+60
+00:04:13,101 --> 00:04:18,693
+So his raise did not pay for your bill, and your bill did not fund his raise.
+
+61
+00:04:18,693 --> 00:04:22,193
+They come out of the same boom. They are not the same money
+
+62
+00:04:22,193 --> 00:04:27,638
+… And this is already spreading.
+
+63
+00:04:27,638 --> 00:04:34,268
+Within days of the Samsung vote, TSMC, the one other chipmaker with the same kind of pull,
+
+64
+00:04:34,268 --> 00:04:38,713
+told its own staff their profit sharing would jump more than thirty percent.
+
+65
+00:04:38,713 --> 00:04:44,763
+In the US, two of the biggest unions are studying exactly what Samsung's workers just pulled off.
+
+66
+00:04:44,763 --> 00:04:49,891
+There's talk of an AI dividend showing up at company shareholder meetings next year.
+
+67
+00:04:49,891 --> 00:04:56,321
+So the same split travels with it. Where workers can organize, they write themselves a claim on the boom.
+
+68
+00:04:56,321 --> 00:05:05,599
+Where they can't, the bill just shows up in the mailbox … The four hundred thousand dollar bonus is the headline.
+
+69
+00:05:05,599 --> 00:05:12,322
+The thing I actually feel is a line on my own power bill, and I don't live anywhere near a data center.
+
+70
+00:05:12,322 --> 00:05:15,879
+you don't have to live near one for the boom to reach the bill.
+
+71
+00:05:15,879 --> 00:05:20,747
+I'm not the four hundred thousand dollar worker here. Odds are you aren't either.
+
+72
+00:05:20,747 --> 00:05:24,327
+So picture those two workers walking out of the plant again.
+
+73
+00:05:24,327 --> 00:05:27,377
+Even the four thousand dollar guy had a union and a vote.
+
+74
+00:05:27,377 --> 00:05:33,332
+He was still inside the deal. The person opening that power bill was never inside it.
+
+75
+00:05:33,332 --> 00:05:37,072
+The chip workers had a hand on the valve, and they turned it.
+
+76
+00:05:37,072 --> 00:05:45,511
+The rest of us are still standing somewhere with no valve to grab … I kept the biggest pieces for the article.
+
+77
+00:05:45,511 --> 00:05:51,043
+A one paragraph deal from nineteen fifty one that this contract quietly rhymes with.
+
+78
+00:05:51,043 --> 00:05:57,915
+Korea's plan to mail every citizen a check funded by AI tax money, the fracture inside Samsung
+
+79
+00:05:57,915 --> 00:06:01,195
+where the phone and TV workers backed this at twenty one percent
+
+80
+00:06:01,195 --> 00:06:05,796
+, the shareholders now suing to tear the whole deal up.
+
+81
+00:06:05,796 --> 00:06:11,536
+and the question I can't close, does Samsung make the cloud giants pay for it?
+
+82
+00:06:11,536 --> 00:06:17,606
+It's all in the piece. … The full piece is on substack.
+
+83
+00:06:17,606 --> 00:06:22,443
+The two workers, the power bill, and the one question that decides who wins this boom.
+
+84
+00:06:22,443 --> 00:06:28,201
+The civic note. Subscribe free at drink your o j dot substack dot com.
+
+85
+00:06:28,201 --> 00:06:31,581
+New issues every week…
