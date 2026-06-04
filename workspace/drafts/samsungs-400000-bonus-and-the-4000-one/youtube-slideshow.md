@@ -1,12 +1,13 @@
 # Claude Design prompt — TCN Dispatch №006 slideshow
 
 > **Artifact header (skill-side, delete before pasting if you like):**
-> - **Format:** beat-segmented *motion* deck (build-on-reveal), NOT the legacy cascade-then-hold deck. 10 narration scenes → 102 beat-steps. See "Motion model" below.
+> - **Format:** beat-segmented *motion* deck (build-on-reveal), NOT the legacy cascade-then-hold deck. 11 narration scenes → 109 beat-steps (synced to narration v7: Scene 09 is now the "No valve to grab" personal landing, Scene 10 the TEASE, Scene 11 the END). See "Motion model" below.
 > - **Justoon mode:** OFF (user inserts an animated face manually in post). The deck is typography-only, but **reserves clear negative space** on the figure slides for the face composite:
 >   - Slides 03, 05, 06 (Receipt) + 08 (Stakes) → reserve the **left ~32%** of the safe zone empty; content lives in the right 65%.
 >   - Slide 07 (Twist) → reserve the **right ~55%** empty; text builds in the left 42%.
->   - Scenes 01, 02, 04, 09, 10 are full typography compositions (incidental negative space only).
+>   - Scenes 01, 02, 04, 09, 10, 11 are full typography compositions (incidental negative space only).
 > - **Primary recording aspect:** 1:1 (1080×1080). 16:9 / 9:16 derive from the same safe-zone.
+> - **Shipped 1:1 deck:** `dispatch-006-1x1.html` — a 1:1-native beat-format render (square `.deck`, reduced hero/h1 type scale so single-token numbers fit the narrower frame), sibling to the 16:9 master `dispatch-006.html`. NOTE: this spec describes the older build-on-reveal `sl-*` / `deck-stage.js` approach; the decks that actually shipped use the standalone beat format. The scene/beat content below is synced to narration v7.
 
 ## Context
 
@@ -15,7 +16,7 @@ You are building an HTML slideshow for The Civic Node, Dispatch №006:
 visual companion to a ~6:30 YouTube narration video (trailer-format).
 Viewers watch the slides while listening to the narration as audio.
 
-This deck uses a **build-on-reveal motion format**. Each of the 10 scenes
+This deck uses a **build-on-reveal motion format**. Each of the 11 scenes
 below is one logical slide (one kicker, one speaker-notes entry), but its
 content is revealed **one beat at a time** — one advance step per spoken
 line — so the screen changes roughly every 2–3 seconds and never sits
@@ -462,33 +463,57 @@ Group 2 — the same split travels (ends on the asymmetry):
 
 ---
 
-### Scene 09 — `sl-lead` (bullet listing) · TEASE · 10 beats · no Justoon
+### Scene 09 — `sl-lead` · THE STAKES · NO VALVE TO GRAB · 10 beats · no Justoon
 
-**Kicker:** `DISPATCH №006 · TEASE`
-**Thumbnail anchor:** `NOT YET.` at `--type-h1` (final beat).
-**Funnel mechanism:** this scene names what the video deliberately did NOT
-cover (the cuts), then leaves the open loop. Bullets reveal one per beat.
+**Kicker:** `DISPATCH №006 · THE STAKES · NO VALVE TO GRAB`
+**Thumbnail anchor:** `NO VALVE TO GRAB` at `--type-h1` (final beat — overlaid in the empty left space beside the lone ratepayer, image 006-05).
+**Funnel mechanism:** this is v7's emotional landing — the author's own power
+bill, the proximity-irrelevance beat, then the two-workers callback and the
+valve bookend that echoes the cold open. The informational open loops are held
+for the TEASE (Scene 10); this scene resolves the *feeling*, not the facts.
 
-Group 1 — what's not in the video **[RESET after B6, keep the header]**:
-- **B1** "I left the biggest parts of this out of the video." → header card `NOT IN THIS VIDEO`
-- **B2** "I didn't tell you about the one-paragraph contract from nineteen fifty-one that this deal quietly rhymes with." → bullet `[01] THE 1951 ECHO` (old one-paragraph document silhouette)
-- **B3** "Or the plan in Korea to mail every citizen a check funded by AI tax money." → bullet `[02] THE CITIZEN DIVIDEND` (a mailed check)
-- **B4** "Or the part where I called this whole thing wrong, in print, back in April," → bullet `[03] I CALLED IT WRONG · APRIL` (faded old headline)
-- **B5** "and then watched the workers do the exact opposite of what I predicted." → a prediction arrow flips to the opposite direction
-- **B6** "That's all in the piece." → `READ THE PIECE` + the Substack article cover thumbnail
+The personal turn:
+- **B1** "The four hundred thousand dollar bonus is the headline." → hero-number `$400,000`, label `the headline`
+- **B2** "The thing I actually feel is a line on my own power bill." → a power-bill document with a rising line (`my own power bill`)
+- **B3** "And I don't live anywhere near a data center." → a proximity map: a marked house in a dashed ring, a far data center, a dotted distance line (`not anywhere near a data center`)
+- **B4** "You don't have to live near one for the boom to reach the bill." → stamp `YOU DON'T HAVE TO LIVE NEAR ONE`
+- **B5** "I'm not the four hundred thousand dollar worker here. Odds are you aren't either." → a single dim figure, `$400,000` faint above (`not me · probably not you`)
 
-Group 2 — the open loop **[RESET — keep nothing]**:
-- **B7** "Along with the question I can't shake." → the `?` returns one last time
-- **B8** "Somebody organized the chip workers." → left figure + union, solid and backed
-- **B9** "Nobody has organized the people opening the power bill." → a lone ratepayer figure, no union behind it
-- **B10** "Not yet." → stark card `NOT YET.` at `--type-h1`, hairline above, `sl-glow` behind. **Hold ~1.5s — last open loop before the CTA.**
+The two-workers callback **[image 006-01 returns]**:
+- **B6** "So picture those two workers walking out of the plant again." → 006-01 standalone (the cold-open image, full-frame, no overlay)
+- **B7** "Even the four thousand dollar guy had a union and a vote. He was still inside the deal." → 006-01 backdrop, overlay `$4,000 · UNION · VOTE` / `still inside the deal`
+- **B8** "The person opening that power bill was never inside it." → 006-05 standalone (the lone ratepayer, full-frame, no overlay)
 
-**Animation:** per-beat `sl-reveal` (the three cuts bullets land 120ms
-quick); hairline above `NOT YET.`; `sl-glow` behind `NOT YET.`
+The valve bookend:
+- **B9** "The chip workers had a hand on the valve. And they turned it." → a bright valve wheel, rotated (turned), small turn-arrow (`they turned it`) — the payoff to Scene 06's dim `no hand on the valve`
+- **B10** "The rest of us are still standing somewhere with no valve to grab." → 006-05 backdrop, `NO VALVE TO GRAB` at `--type-h1` overlaid in the empty left space, `sl-glow` behind. **Hold ~2s — the emotional payoff before the TEASE turn.** [REFRAIN — valve bookend; recurrence rides the valve motif, so the inverted refrain treatment stays reserved for `WHO GETS TO SAY NO?`]
+
+**Animation:** per-beat `sl-reveal`; the 006-01/006-05 image beats cross-dissolve; `sl-glow` behind `NO VALVE TO GRAB`.
 
 ---
 
-### Scene 10 — `sl-end` · END · 5 beats · no Justoon
+### Scene 10 — `sl-lead` (bullet listing) · TEASE · 7 beats · no Justoon
+
+**Kicker:** `DISPATCH №006 · TEASE`
+**Thumbnail anchor:** `WHAT'S NOT IN THIS VIDEO` (header card, B1).
+**Funnel mechanism:** names what the video deliberately did NOT cover (the cuts),
+then routes to the article. One cut per beat. (The April "called it wrong"
+confession was cut from the flagship into the 6/10 paid note, so it is no longer
+teased.)
+
+- **B1** "I kept the biggest pieces for the article." → header card `WHAT'S NOT IN THIS VIDEO`
+- **B2** "A one-paragraph deal from nineteen fifty-one that this contract quietly rhymes with." → bullet `[01] THE 1951 ECHO` (one-paragraph document silhouette)
+- **B3** "Korea's plan to mail every citizen a check funded by AI tax money." → bullet `[02] THE CITIZEN DIVIDEND` (a mailed check)
+- **B4** "The fracture inside Samsung, where the phone and TV workers backed this at twenty-one percent." → bullet `[03] THE FRACTURE` (a cracked badge, `21%`)
+- **B5** "The shareholders now suing to tear the whole deal up." → bullet `[04] THE SHAREHOLDER SUIT` (a gavel)
+- **B6** "And the question I can't close. Does Samsung make the cloud giants pay for it?" → a cloud with an arrow to a `?` (`who pays — the cloud giants?`)
+- **B7** "It's all in the piece." → `READ THE PIECE` + the Substack article cover thumbnail
+
+**Animation:** per-beat `sl-reveal` (the cut bullets land 120ms quick).
+
+---
+
+### Scene 11 — `sl-end` · END · 5 beats · no Justoon
 
 **Kicker:** `DISPATCH №006 · END`
 **Thumbnail anchor:** `The Civic Node` wordmark / the Substack URL.
@@ -509,7 +534,7 @@ with Slide 02's THESIS kicker).
 ## Speaker notes (embed as JSON at end of HTML)
 
 Embed as a `<script type="application/json" id="speaker-notes">` block at
-the end of `<body>`. **One entry per narration scene (10 total), NOT one
+the end of `<body>`. **One entry per narration scene (11 total), NOT one
 per beat.** Each entry is the scene's narration verbatim from
 `youtube-narration.md`.
 
@@ -523,28 +548,30 @@ per beat.** Each entry is the scene's narration verbatim from
   { "slide": 6, "text": "The difference is that nobody here has a hand on the valve. The grid operator for thirteen eastern states ran its auctions for future power. The math came back ugly. Data-center demand added almost fourteen billion dollars to customer bills. Wholesale power, up more than seventy-five percent in a single year. That lands on families in Ohio and Virginia. They never voted on the data centers driving the number. They just pay more for the same electricity. The chip workers had a union. The person opening that power bill has a billing address." },
   { "slide": 7, "text": "Here's where the easy version of this story falls apart. You'd think the chip workers' bonus just gets passed down to you. Higher chip prices, higher everything, your bill goes up. Clean and simple. It doesn't work that way. The bonus is a slice of profit. It comes out of what's left after the chips sell, not out of the price stamped on each one. So his raise did not pay for your bill. And your bill did not fund his raise. They come out of the same boom. They are not the same money." },
   { "slide": 8, "text": "And this is already spreading. Within days of the Samsung vote, TSMC, the one other chipmaker with the same kind of pull, told its own staff their profit-sharing would jump more than thirty percent. In the US, two of the biggest unions are studying exactly what Samsung's workers just pulled off. There's talk of an AI dividend showing up at company shareholder meetings next year. So the same split travels with it. Where workers can organize, they write themselves a claim on the boom. Where they can't, the bill just shows up in the mailbox." },
-  { "slide": 9, "text": "I left the biggest parts of this out of the video. I didn't tell you about the one-paragraph contract from nineteen fifty-one that this deal quietly rhymes with. Or the plan in Korea to mail every citizen a check funded by AI tax money. Or the part where I called this whole thing wrong, in print, back in April, and then watched the workers do the exact opposite of what I predicted. That's all in the piece. Along with the question I can't shake. Somebody organized the chip workers. Nobody has organized the people opening the power bill. Not yet." },
-  { "slide": 10, "text": "The full piece is on Substack. The two workers, the power bill, and the one question that decides who wins this boom. The Civic Node. Subscribe free at drinkyouroj.substack.com. Weekly. No hype." }
+  { "slide": 9, "text": "The four hundred thousand dollar bonus is the headline. The thing I actually feel is a line on my own power bill. And I don't live anywhere near a data center. You don't have to live near one for the boom to reach the bill. I'm not the four hundred thousand dollar worker here. Odds are you aren't either. So picture those two workers walking out of the plant again. Even the four thousand dollar guy had a union and a vote. He was still inside the deal. The person opening that power bill was never inside it. The chip workers had a hand on the valve. And they turned it. The rest of us are still standing somewhere with no valve to grab." },
+  { "slide": 10, "text": "I kept the biggest pieces for the article. A one-paragraph deal from nineteen fifty-one that this contract quietly rhymes with. Korea's plan to mail every citizen a check funded by AI tax money. The fracture inside Samsung, where the phone and TV workers backed this at twenty-one percent. The shareholders now suing to tear the whole deal up. And the question I can't close. Does Samsung make the cloud giants pay for it? It's all in the piece." },
+  { "slide": 11, "text": "The full piece is on Substack. The two workers, the power bill, and the one question that decides who wins this boom. The Civic Node. Subscribe free at drinkyouroj.substack.com. Weekly. No hype." }
 ]
 ```
 
 ## Output requirements
 
-- Single bundled HTML file named `dispatch-006.html`.
+- Single bundled HTML file named `dispatch-006-1x1.html` (the shipped 1:1 deck;
+  `dispatch-006.html` is the 16:9 master).
 - All external resources loaded relatively (`../colors_and_type.css`,
   `../slides.css`, `../deck-stage.js`, `../assets/mark.svg`, etc.) so the
   file drops into `slides/` alongside the existing `deck.html`. No
   character / Justoon images are referenced.
-- Speaker notes embedded as JSON per the section above — **10 entries
-  (one per scene), not 102.**
+- Speaker notes embedded as JSON per the section above — **11 entries
+  (one per scene), not 109.**
 - **Build-on-reveal:** each scene reveals one element per advance step
-  (102 beat-steps total). Manual advance is primary; emit approximate
+  (109 beat-steps total). Manual advance is primary; emit approximate
   `data-advance-at` timestamps as the auto-play fallback. One advance =
   one beat = one new element. Never extend `deck-stage.js`; use its
   existing step/advance mechanism.
 - Self-contained: opens in any browser, plays via `deck-stage.js`.
 - No external CDN calls. No remote fonts. No analytics.
-- Slide IDs: `slide-01` through `slide-10`. Each scene is a top-level
+- Slide IDs: `slide-01` through `slide-11`. Each scene is a top-level
   `<section class="slide slide-[zone]" id="slide-NN">` matching
   `slides/deck.html`'s structure.
 - Renders correctly at 16:9 (1920×1080), 9:16 (1080×1920), and 1:1
@@ -568,4 +595,7 @@ per beat.** Each entry is the scene's narration verbatim from
   pair, equal weight, short gap.
 - Scene 07 / B11: the deck's longest hold (~1.5s) — `NOT THE SAME MONEY`
   is the funnel's payoff.
-- Scene 09 / B10: full stop before `NOT YET.` — last open loop before CTA.
+- Scene 09 / B10: hold the valve bookend `NO VALVE TO GRAB` ~2s — the emotional
+  payoff before the TEASE turn.
+- Scene 10 / B1: `WHAT'S NOT IN THIS VIDEO` is the funnel header; the cut bullets
+  (B2–B6) land quick after it.
