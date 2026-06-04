@@ -2,6 +2,8 @@
 
 ## Inside one company, the AI windfall split 100 to 1. Outside it, the same boom lands on a power bill nobody voted on.
 
+## The Spark: One worker had a hand on the valve
+
 Two workers leave the same Samsung plant in Pyeongtaek at the end of the same shift. They worked it a hundred yards apart. One builds memory chips; this year his bonus runs toward [$400,000](https://archive.ph/jshgC). The other builds phones and televisions; his comes to about [$4,000](https://archive.ph/jshgC). Same company. Same shift. A hundred to one.
 
 That gap is the deal Samsung's chip workers [ratified on May 27](https://www.koreaherald.com/article/10756822): [10.5% of their division's profit, paid out every year for a decade](https://www.tomshardware.com/tech-industry/samsung-chip-workers-vote-to-accept-340000-average-bonus-ending-months-long-strike-threat). They won it at the one spot in the AI economy where the people doing the work had a hand on the valve. Bloomberg calls the winners the ["AI aristocrats."](https://archive.ph/jshgC) The chip worker got his cut because he could choke the supply the whole boom depends on. Most people are standing somewhere with no valve to grab.
