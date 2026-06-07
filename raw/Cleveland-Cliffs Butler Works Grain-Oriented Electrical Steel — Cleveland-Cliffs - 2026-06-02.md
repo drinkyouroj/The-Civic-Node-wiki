@@ -5,26 +5,47 @@ author:
   - "[[Cleveland-Cliffs Inc.]]"
 published: 2026-06-02
 created: 2026-06-02
-description: "STUB — needs full ingestion. Cleveland-Cliffs primary company page for the Butler Works mill, cited in the June 5 flagship for the sole-US-GOES-producer claim."
+clipped: 2026-06-06
+description: "Cleveland-Cliffs primary company page for the Butler Works mill — the sole US producer of Regular Grain-Oriented (RGO) electrical steel for transformers. Cited in the June 5 flagship for the sole-US-GOES-producer claim. Full-clipped 2026-06-06."
+ingest_method: webfetch
+status: ok
 tags:
   - clippings
-  - stub
-ingest_method: manual
-status: ok
+  - steel
+  - transformers
+  - infrastructure
+  - chokepoint
 ---
 
-> **STUB / pending full ingestion.** Created during the iteration-3 fact-reconcile of "Samsung's $400,000 Bonus, and the $4,000 One" (2026-06-02) to track the article's inline link on the phrase "exactly one mill in the United States." The full page body has not been clipped yet.
+# Butler Works — Cleveland-Cliffs
 
-## Why it was added
+*Primary company page. Full text clipped 2026-06-06 via WebFetch (the earlier 2026-06-02 version was a citation stub). Source: https://www.clevelandcliffs.com/operations/steelmaking/butler-works*
 
-The article §2 ("The Pattern") states that grain-oriented electrical steel for transformer cores "comes from exactly one mill in the United States, Cleveland-Cliffs, in Butler, Pennsylvania." The previously-linked Utility Dive article (Weirton plant) supports Butler PA + the CEO quote but does **not** state the sole-producer exclusivity. This primary Cleveland-Cliffs source carries the exclusivity claim.
+## About this Location
 
-## Claim it sources (verified 2026-06-02 via WebSearch corroboration)
+Butler Works is situated in western Pennsylvania, approximately one hour north of Pittsburgh. The facility spans **3.5 million square feet** and houses melting, casting, hot-roll, cold-roll and finishing operations.
 
-- Cleveland-Cliffs' **Butler Works** (Butler, Pennsylvania) is **the only domestic producer of high-silicon grain-oriented electrical steel (GOES)** used in transformers — and the only US producer of Regular Grain-Oriented (RGO) products. Corroborated by the Association for Iron & Steel Technology (AIST) Butler Works page and Cleveland-Cliffs' own DOE Butler Works project page.
+## Products
 
-## To do on full ingest
+- **TRAN-COR®** — high-permeability electrical steel for power transformers
+- **Regular Grain-Oriented (RGO)** electrical steel — *"Regular Grain-Oriented (RGO) products are used for power and distribution transformers. Cleveland-Cliffs is the only producer of this in the United States."*
+- **Cold Rolled Non-Oriented (CRNO)** grades for motors and generators
+- **Chrome Austenitic stainless steel** grades
+- **Carbon slabs**, including ultra-low sulfur variants
 
-- Clip the live company page body.
-- Create/extend the [[Cleveland-Cliffs]] entity page connection (entity page already exists).
-- Set `ingest_method` / `status` per actual retrieval; confirm the page text states the exclusivity in Cleveland-Cliffs' own words (vs. AIST/DOE corroboration).
+## Production Facilities / Equipment
+
+- 230-ton electric arc furnace
+- 175-ton Argon-Oxygen Decarburization (AOD) unit
+- Two double-strand continuous casters
+
+## Markets Served
+
+Power and distribution transformers, electric motors, generators, appliances, and automotive exhaust applications.
+
+---
+
+## Claim it sources (verified 2026-06-02 via WebSearch corroboration; primary text clipped 2026-06-06)
+
+- Cleveland-Cliffs' **Butler Works** (Butler, Pennsylvania) is the **only US producer of Regular Grain-Oriented (RGO) electrical steel** used in power and distribution transformers — stated in Cliffs's own words on this page. Butler Works also produces TRAN-COR high-permeability grain-oriented steel. Corroborated by the Association for Iron & Steel Technology (AIST) Butler Works page and Cleveland-Cliffs' own DOE Butler Works project page.
+- **Precision note:** the page's verbatim exclusivity claim is scoped to **RGO** specifically ("the only producer of this in the United States"). The broader "sole domestic GOES producer" framing used in secondary coverage (Utility Dive) is consistent with this but slightly wider than Cliffs's own narrowly-worded claim.

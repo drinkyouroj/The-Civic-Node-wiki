@@ -1,10 +1,10 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-06-03
-total_pages: 1352
-total_sources: 764
-total_entities: 290
+updated: 2026-06-06
+total_pages: 1356
+total_sources: 766
+total_entities: 292
 total_concepts: 168
 total_syntheses: 28
 total_articles: 102
@@ -23,6 +23,26 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-06 ingest (Virginia SB 253 — SCC cost-shift onto data centers) (1 source, 2 new entities, 0 new concepts; [[AI Cost Incidence]] updated)
+
+Resolves the same-day `TO INGEST` flag (surfaced while verifying the $5.52 Virginia figure cited in the Andy Masley dialogue). The wiki's cleanest *statutory-reversal* instance of [[AI Cost Incidence]]: where the PJM/Michigan sources show the AI grid bill flowing **toward** households, [[Virginia SB 253]] is a regulator-scored attempt to flip the arrow — moving data-center distribution + [[Dominion Energy]] capacity-auction costs onto the GS5 (data-center) rate class, reaching **existing** load through 2033. Captured via Claude-in-Chrome (Brave); WebFetch 403'd (Cloudflare bot-block, not a paywall), so a `raw/` clip is persisted per the schema's chrome-ingest rule.
+
+- [[Bill Would Put More Energy Costs on Data Centers — Virginia Mercury - 2026-02-10]] — Shannon Heckt, Virginia Mercury (States Newsroom). The SCC-scored cost-shift: residential −3.4% / ≈ −$5.52/mo, data-center +15.8%, ~$8.3M 2027 local-government savings; Dominion *supports*; GS5 lineage (14-yr / >25 MW contracts; 85/85/60% min-demand); data centers can't opt out; reaches existing load through 2033.
+
+**New entities (2):** [[Virginia SB 253]] — type=legislation; Sen. [[Louise Lucas]]'s amended bill letting the [[State Corporation Commission]] re-rate data-center load onto GS5; the first wiki bill that *reverses* incidence rather than capping only new load. [[Dominion Energy]] — Virginia's largest utility and the GS5-class author; supports SB 253 (revenue certainty over which class pays); the Virginia analogue to [[DTE Energy]] / [[Consumers Energy]].
+
+**Concept update:** [[AI Cost Incidence]] (new Evidence bullet + Key source — the statutory-reversal/de-socialization instance, with the SCC dollar figures and the utility-supports-it twist).
+
+**Flagged / deferred (defer-until-second-source):** [[Louise Lucas]] (sponsor; Senate Finance chair), [[State Corporation Commission]] (VA regulator), [[Data Center Coalition]] (industry trade group; conditional opposition), [[Southern Environmental Law Center]] (no position per editor's note) — linked but no page yet. A Dominion–NextEra merger referenced in a same-newsroom May 29 headline is **not yet sourced** (flagged as an open question on the Dominion page). Open follow-up: did SB 253 pass the 2026 session, and did the SCC act?
+
+### 2026-06-06 update (Cleveland-Cliffs Butler Works stub → full ingestion) (1 source promoted, 0 new entities; [[Cleveland-Cliffs]] enriched)
+
+Backfill of the open item flagged in the 2026-06-02 SK Hynix log entry. The [[Cleveland-Cliffs]] Butler Works primary company page — the document carrying the sole-US-producer claim the June 5 flagship leans on — was a `raw/` citation stub; now full-clipped (WebFetch, corporate site fetchable) and promoted to a source page. Sharpens the exclusivity claim to Cliffs's own words: the verbatim claim is scoped to **RGO** ("Cleveland-Cliffs is the only producer of this in the United States"); Butler Works also makes TRAN-COR high-permeability GOES.
+
+- [[Butler Works — Cleveland-Cliffs - 2026-06-02]] — Cleveland-Cliffs Inc. primary company page. Sole-US-RGO claim in Cliffs's own words; mill specifics (3.5M sq ft, 230-ton EAF, TRAN-COR/RGO/CRNO product lines); transformer/motor/generator markets.
+
+**Entity update:** [[Cleveland-Cliffs]] — primary-source confirmation added to Key Facts (RGO scoping + TRAN-COR precision + Butler Works scale); new source added to Source Appearances.
 
 ### 2026-06-03 ingest (Michigan AI cost-incidence localization — DTE rate fight + Saline Stargate campus) (4 sources, 4 new entities, 0 new concepts; [[AI Cost Incidence]] + [[AI Buildout Grid Constraint]] updated)
 

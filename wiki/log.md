@@ -2,6 +2,58 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-06-06] update | Cleveland-Cliffs Butler Works stub → full ingestion (1 source promoted; entity enriched)
+
+Backfill of the open item flagged in the 2026-06-02 SK Hynix log entry ("The [[Cleveland-Cliffs]] Butler Works company page … remains a `raw/` stub pending full ingestion"). The primary company page is now full-clipped (WebFetch — the corporate site is fetchable, no Chrome/manual escalation needed) and promoted from a `raw/` citation stub to a source page.
+
+**Created — source (1):** [[Butler Works — Cleveland-Cliffs - 2026-06-02]] — Cliffs's primary page; the sole-US-producer claim in the company's own words.
+
+**Sharpened claim:** the verbatim exclusivity is scoped to **RGO** ("Regular Grain-Oriented (RGO) products … Cleveland-Cliffs is the only producer of this in the United States"). Butler Works also makes **TRAN-COR** high-permeability GOES, CRNO, chrome stainless, and carbon slabs. The broader "sole domestic GOES producer" framing (Utility Dive + AIST/DOE) still holds; this is the precise, primary-sourced version. Global caveat unchanged (sole *domestic*, not *global*).
+
+**Updated:** [[Cleveland-Cliffs]] (Key Facts — primary-source confirmation, RGO/TRAN-COR precision, Butler Works scale; Source Appearances); raw stub promoted to full clip (`ingest_method: webfetch`, stub tag removed); `wiki/index.md` (dated update block; counters total_pages 1355→1356, total_sources 765→766).
+
+## [2026-06-06] ingest | Virginia SB 253 — SCC data-center cost-shift (1 source, 2 new entities; resolves same-day TO-INGEST flag)
+
+Captured via Claude-in-Chrome (Brave) — WebFetch 403'd (Cloudflare bot-block, not a paywall), so the full text is persisted to `raw/` per the schema's chrome-ingest rule. **Resolves** the 2026-06-06 `TO INGEST` flag below (surfaced while verifying the $5.52 Virginia figure cited in the Andy Masley dialogue).
+
+[[Virginia SB 253]] (Sen. [[Louise Lucas]], 2026 General Assembly) is the wiki's cleanest *statutory-reversal* instance of [[AI Cost Incidence]]: it would let the [[State Corporation Commission]] move data-center distribution + [[Dominion Energy]] capacity-auction costs off residential customers and onto the GS5 (data-center) rate class — reaching **existing** load through 2033. SCC-scored at residential −3.4% / ≈ −$5.52/mo, data-center +15.8%, ~$8.3M 2027 local-government savings. Dominion *supports* it (revenue certainty over which class pays). Where the PJM/Michigan sources show the AI grid bill flowing toward households, SB 253 is a scored attempt to flip the arrow.
+
+**Created — source (1):**
+- [[Bill Would Put More Energy Costs on Data Centers — Virginia Mercury - 2026-02-10]] — Shannon Heckt, Virginia Mercury (States Newsroom, CC BY-NC-ND 4.0). The SCC cost-shift; GS5 lineage (14-yr / >25 MW; 85/85/60% min-demand); data centers can't opt out; reaches existing load through 2033; Data Center Coalition's conditional opposition.
+
+**Created — entities (2):** [[Virginia SB 253]] (legislation), [[Dominion Energy]] (organization — Virginia's largest utility, GS5-class author, SB 253 supporter; the VA analogue to [[DTE Energy]] / [[Consumers Energy]]).
+
+**Updated:** [[AI Cost Incidence]] (new Evidence bullet + Key source — the de-socialization instance); `wiki/index.md` (new dated Sources block; counters total_pages 1352→1355, total_sources 764→765, total_entities 290→292).
+
+**Deferred (defer-until-second-source):** [[Louise Lucas]] (sponsor; Senate Finance chair), [[State Corporation Commission]], [[Data Center Coalition]], [[Southern Environmental Law Center]] — linked but no page yet. Dominion–NextEra merger (same-newsroom May 29 headline) **not sourced**; flagged as an open question on the Dominion page.
+
+**Open follow-up:** did SB 253 pass the 2026 session, and did the SCC act on the cost-shift? The source captures only the Feb 10 committee-clearance moment.
+
+## [2026-06-06] note | Day 34 engagement — 5 angles SPENT (dedup baseline for Sunday Day 35)
+
+Saturday engagement pass as @drinkyouroj, run via Chrome against live Substack Notes. Dedup'd against own Likes & Replies first (3-day window already saturated: cost-allocation, transformer/interconnection waits, PJM $13.8B capacity, self-supply, PPA-vs-retail-rate, jobs composition, Samsung three-way claim). Posted 3 comments + 2 restacks, each in a distinct previously-unworked lane.
+
+**SPENT today — do NOT re-lead Sunday (Day 35) or in Issue #7 runway:**
+- **Voluntary-pledge / corporate-preemption** read (hyperscalers' spring Ratepayer Protection Pledge as a forecast of mandatory law) — used on Sen. Mark Warner's "Power for the People Act" Note. The pledge angle is now burned.
+- **Construction-pulse-proves-too-much** (every megaproject delivers a construction-jobs pulse, so jobs can't be the test; what matters is what it leaves running) — used on Rajeshwari's pro-buildout Note.
+- **Approval-fast / cost-slow timing asymmetry** (council approves in one meeting; aquifer + gas-plant costs surface after the yes is locked in) — restack addendum on [[Greg Bolla]]'s Ashville OH data-center series.
+- **Capital-allocation / revealed-preference** (capex choosing compute over housing + roads; read priorities off where money flows) — restack addendum on Jeremy Ney's "more than housing/roads" chart (AI investment = largest Q4 2025 fixed-investment category, @JosephPolitano/BEA).
+- **SB 253 / $5.52 Virginia SCC figure** + Schiff federal bill — used in the Andy Masley reply earlier today (already noted below).
+
+**Also spent earlier in week (own replies, carry forward):** jobs-composition + Samsung $400K/$4K (El-Erian); transformer/interconnection waits (RWATimes, Rothe); PJM $13.8B (CycleHunter); self-supply/who-can't-leave (Michael Thomas); PPA-vs-retail-rate (Van Gundy); Samsung shareholder suit (Illingworth).
+
+**Scheduled Notes (fired/firing tonight):** 8:35 PM chokepoint forward-question (RA Option B); 9:51 PM jobs-composition Framework Hand (Option A, with BLS Table B-1 screenshot). NOTE: the 9:51 jobs Note overlaps the El-Erian reply's composition read — flagged to user, posted on own-feed anyway as a stronger document-anchored version.
+
+**New engagement contact surfaced:** [[Greg Bolla]] — small writer doing primary local reporting on a proposed Ashville, Ohio data center (gas plant + aquifer threat). Ohio-relevant to Issue #7 (Operation Metro Surge). Worth following for the promised water/aquifer follow-ups.
+
+## [2026-06-06] note | TO INGEST — Virginia Mercury, Virginia SB 253 / SCC cost-shift analysis
+
+**URL:** https://virginiamercury.com/2026/02/10/bill-would-put-more-energy-costs-on-data-centers-slash-residential-customerss-rates/
+**Published:** 2026-02-10
+**Key facts:** Virginia Senate Bill 253 (Sen. Louise Lucas, D-Portsmouth) — SCC estimated shifting data center distribution costs to GS5 (data center) rate class would cut residential bills by $5.52/month (3.4% reduction) and raise data center rates 15.8%. State saves $8.3M in 2027. Dominion supports. Extends to new and existing data centers through 2033.
+**Why it matters:** Citable regulatory number for the residential cross-subsidy question. Connects to [[AI Cost Incidence]], [[Ratepayer Protection]], Schiff federal bill. Surfaced while verifying figure cited in Andy Masley blog comment, 2026-06-06.
+**Tab already open in browser.** Article may require Substack/paywall workaround to clip in full — user has access.
+
 ## [2026-06-03] ingest | Michigan AI cost-incidence localization — DTE rate fight + Saline Stargate campus (4 sources, 4 new entities)
 
 Surfaced while fact-checking the June 5 flagship's Personal Code line. The author lives in **St. Clair County, MI** ([[DTE Energy]] territory); the draft's "a data center two counties over" was checkable and **false** — the data center actually reshaping DTE's rates is the $16B Oracle/[[Stargate]] [[Saline Township Data Center (The Barn)]] in Saline Township (**Washtenaw County**), >1 GW (~25% of DTE's peak), ~3 counties / 90+ mi away on the opposite end of DTE's footprint. The flagship line was corrected to make proximity-irrelevance the point ("you don't have to live near one for the boom to reach the bill"); the 6/10 paid note's parallel Ohio "two counties over" was generalized to "somewhere out on the same grid." This pass files the Michigan/MISO sources used in the verification — the **retail-rate-case** face of [[AI Cost Incidence]], previously held only at the PJM/wholesale layer.
