@@ -13,6 +13,7 @@ of truth).
 ```markdown
 # Engagement Worksheet — YYYY-MM-DD
 
+**Date:** YYYY-MM-DD
 **Built from:** workspace/notes/YYYY-MM-DD-<weekday>-options.md
 **Account verified:** @drinkyouroj
 **Dedup summary:** <one line — what was already-spent and skipped, incl. any angle dropped for echoing the day's own Notes>

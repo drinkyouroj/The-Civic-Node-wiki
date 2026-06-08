@@ -129,7 +129,8 @@ local dedup ledger.
    see Fallbacks.
 2. **Load context.** Parse the plan's **Engagement** section (comment targets + angles, restack targets
    + addenda), the `duplication_audit` frontmatter (`spent_this_week`, `fresh_today`), and the hold
-   list. Load the voice anchor. Read yesterday's worksheet in `workspace/engagement/` if present.
+   list. Load the voice anchor. Read prior worksheets from the last `LEDGER_LOOKBACK_DAYS` days in
+   `workspace/engagement/` if present (the local dedup ledger).
 3. **Dedup read (hard gate).** Read Likes & Replies; read the user's own Notes published today; build the
    **spent set** at four levels (note / author / angle / own-published-framing). Merge two supplements:
    the prior worksheet's targets, and the plan note's recommended default pairing / `fresh_today` (a
@@ -159,7 +160,8 @@ Then three checklists. **Each comment item:** `- [ ]` · target author + handle 
 note's gist (1 line) · the paste-ready comment text · "why this target" (1 line: which plan angle, why
 unspent). **Each restack item:** `- [ ]` · note permalink + author · the note's gist (1 line) · the
 paste-ready one-sentence addendum. **Each follow item:** `- [ ]` · account name + profile link ·
-rationale (1 line). See `workspace/engagement/README.md` for the exact template.
+rationale (1 line). The README template at `workspace/engagement/README.md` is authoritative for the
+exact field labels and header format (including the `**Date:**` line) — use its labels verbatim.
 
 ## Fallbacks (skip-not-halt unless a hard gate)
 - **No plan note for today** → offer to invoke `tcn-content-plan` (Mode 1), or take a topic from the
@@ -255,8 +257,9 @@ note:
 1. Use `find` to get the element ref for the note's text.
 2. Open its permalink by clicking the **note body** (read-only navigation), or read the body in place.
 3. Capture the permalink URL for the worksheet (the user needs it to act).
-Reading reply context: opening the comment view is fine (read-only). The reply composer sometimes needs
-an in-modal scroll to reveal fields — only ever to *observe*, never to type.
+Reading reply context: opening the comment view to read existing replies is fine (read-only). **Never
+open the reply composer.** If reply content is not fully visible, scroll the comment *thread* view (not a
+composer) to read it.
 
 ## 2. External dedup read — Likes & Replies
 - Navigate to `substack.com/@drinkyouroj/likes`.
@@ -427,6 +430,7 @@ of truth).
 ```markdown
 # Engagement Worksheet — YYYY-MM-DD
 
+**Date:** YYYY-MM-DD
 **Built from:** workspace/notes/YYYY-MM-DD-<weekday>-options.md
 **Account verified:** @drinkyouroj
 **Dedup summary:** <one line — what was already-spent and skipped, incl. any angle dropped for echoing the day's own Notes>
