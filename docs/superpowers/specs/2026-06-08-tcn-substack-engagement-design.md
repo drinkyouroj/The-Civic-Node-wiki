@@ -153,7 +153,7 @@ A short header records: date, the plan note it was built from, the account verif
 Rank candidate notes by, in priority order:
 1. **In the live conversation** — actively posting the day's beat now (Recent tab, recent feed).
 2. **Maps to a plan angle** — the plan's angles are the analytic payload; a live poster is only a target if Justin has something specific to add.
-3. **Not deduped** — clears all three dedup levels.
+3. **Not deduped** — clears all four dedup levels (including cross-surface vs. own Notes).
 4. **Account fit** — audience overlap and engagement likelihood; mid-tier writers in the live topic usually outperform chasing exact Tier-1 handles.
 
 If no live on-topic posters are found: widen to adjacent beats, then report a **"thin day"** with whatever surfaced — never force weak targets to hit a number.
