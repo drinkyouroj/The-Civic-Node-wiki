@@ -47,7 +47,7 @@ The skill is a **downstream consumer of the daily content plan** and a **daily r
 
 1. **Read-only on the account.** The Chrome extension is a sensor, never a submit button. Claude never types into a composer and never clicks Reply / Restack / Post / Submit / Follow / Like. The worksheet is the only output.
 2. **Account check is a precondition.** Verify the logged-in account is `@drinkyouroj` before any read that informs drafting. If it is not, stop and report — do nothing.
-3. **Dedup is a hard gate.** Read `substack.com/@drinkyouroj/likes` (the Likes & Replies tab) *first*, before drafting. Dedup at three levels: **same note**, **same author**, **same analytical angle**. When one lane of the flagship's thesis is already spent, pivot engagement to the unspent lane.
+3. **Dedup is a hard gate (including cross-surface).** Before drafting, read `substack.com/@drinkyouroj/likes` (the Likes & Replies tab) *and* the user's own Notes/posts published today. Dedup at **four levels**: **same note**, **same author**, **same analytical angle**, and **same as the user's own already-published framing today (cross-surface)**. A comment must not blatantly repeat what the user already said in the day's Notes — it must add a distinct angle or tie the framing to the target's specific point. When one lane of the flagship's thesis is already spent, pivot engagement to the unspent lane.
 4. **Honest, voice-true authorship.** First-person, truthful attribution; never astroturf, never pose as a third party. All drafted copy must pass `workspace/core/anti-ai-writing-style.md`. No template-stamping — each comment answers what the target actually said.
 5. **Stay in the day's authorized lane.** Inherit the plan's spend/hold boundaries. Comments must not spend material the plan is holding for the flagship (e.g., on a cost-layer day: the deaths, sealed evidence, and contempt findings are *held* and must not appear in comments).
 
@@ -63,7 +63,8 @@ The skill is a **downstream consumer of the daily content plan** and a **daily r
   - The **hold list** — material reserved for the flagship that comments must not spend.
 - **Voice DNA** — `workspace/core/anti-ai-writing-style.md`. Loaded in full before any drafting; **never duplicated** into this skill (same contract as `tcn-content-plan`).
 - **Live Substack state** — via the Claude-for-Chrome extension (`mcp__Claude_in_Chrome__*`), read-only:
-  - The user's Likes & Replies (for dedup).
+  - The user's Likes & Replies (for external dedup).
+  - The user's own Notes/posts published today (for cross-surface dedup — see Hard Constraint #3).
   - A topic search of the day's beat (to find live posters).
   - Each candidate note's actual text (so the drafted reply is responsive, not generic).
   - The user's existing follows (so follow recommendations exclude accounts already followed).
@@ -91,8 +92,9 @@ The skill is a **downstream consumer of the daily content plan** and a **daily r
 
 ### 2. Dedup read (hard gate)
 - Open `substack.com/@drinkyouroj/likes`; read recent replies and restacks.
-- Build the **spent set** keyed at three levels: note permalink, author handle, analytical angle.
-- Merge in the prior worksheet's targets as a supplement. **Likes & Replies is the source of truth on any conflict.**
+- Open the user's own Notes/posts for today (the `@drinkyouroj` profile's Notes tab); capture the framing already published across surfaces.
+- Build the **spent set** keyed at four levels: note permalink, author handle, analytical angle, and the user's own already-published framing today (cross-surface).
+- Merge in two supplements: the prior worksheet's targets, and the plan note's recommended default pairing / `fresh_today` (a fallback signal for what was posted if the live Notes read is thin). **Live reads are the source of truth on any conflict.**
 
 ### 3. Live discovery
 - Search the day's topic at `substack.com/search` (Top + Recent tabs) and scan the home/Notes feed for who is *actually* posting the beat right now.
@@ -106,6 +108,7 @@ The skill is a **downstream consumer of the daily content plan** and a **daily r
 - For each confirmed comment target: write the paste-ready reply from the plan's angle **against the note's actual content**, so it responds to what the author said rather than stamping a template.
 - For each restack target: write the one-sentence added-analysis addendum.
 - Run the entire worksheet's prose through the voice DNA check (`anti-ai-writing-style.md`): em dashes, negative parallelisms, dismissal labels, vocabulary cliffs, abstract closers.
+- Enforce **cross-surface distinctness**: if a draft merely restates the day's own published Notes framing, rewrite it to add a distinct angle or to engage the target's specific point. A comment that echoes Justin's own Note is cut or rewritten before it reaches the worksheet.
 - Enforce lane discipline: drop or rewrite anything that would spend held material.
 
 ### 6. Output the worksheet
@@ -141,7 +144,7 @@ The skill is a **downstream consumer of the daily content plan** and a **daily r
 - Account name + profile link
 - Rationale (1 line — why following this account trains the algorithm toward the audience)
 
-A short header records: date, the plan note it was built from, the account verified (`@drinkyouroj`), and a one-line dedup summary (what was found already-spent and skipped).
+A short header records: date, the plan note it was built from, the account verified (`@drinkyouroj`), and a one-line dedup summary (what was found already-spent and skipped — including any angle dropped because it merely echoed the day's own Notes).
 
 ---
 
@@ -173,7 +176,8 @@ Full detail lives in `references/browser-recipe.md`. Core proven patterns (from 
 - The Notes feed lazy-loads and reorders, so coordinate-clicks drift. To act on a specific note reliably: use `find` to get the note-text element ref, then open the permalink by clicking the note body.
 - To read reply context: click the comment icon to open the reply modal (read-only — observe, never type/submit). The reply composer sometimes needs an in-modal scroll to reveal fields.
 - To read restack context: the restack icon → "Restack with a note" surfaces the compose path (observed read-only).
-- Dedup read: `substack.com/@drinkyouroj/likes`.
+- External dedup read: `substack.com/@drinkyouroj/likes` (Likes & Replies tab).
+- Cross-surface dedup read: the `@drinkyouroj` profile's Notes tab — what Justin published today, so a comment doesn't echo his own Note.
 - Topic discovery: `substack.com/search`, Top + Recent tabs.
 - Login check: confirm the visible account is `@drinkyouroj` before any drafting-relevant read.
 
@@ -186,8 +190,9 @@ claude-skills/tcn-substack-engagement/
 ├── SKILL.md                          # controller: doctrine, run flow, preconditions, gates
 └── references/
     ├── browser-recipe.md             # the read-only interaction recipe (above, expanded)
-    └── dedup-and-targeting.md        # three-level dedup, spent-lane pivot, aspirational-Tier-1
-                                       #   caveat, ranking heuristic, follow-selection heuristic
+    └── dedup-and-targeting.md        # four-level dedup (incl. cross-surface vs. own Notes),
+                                       #   spent-lane pivot, aspirational-Tier-1 caveat,
+                                       #   ranking heuristic, follow-selection heuristic
 ```
 
 - Voice DNA is **referenced, never duplicated** — the skill loads `workspace/core/anti-ai-writing-style.md` at runtime (same contract as `tcn-content-plan`).
@@ -222,4 +227,4 @@ claude-skills/tcn-substack-engagement/
 
 - **v2 autonomous worksheet pre-bake** — if scheduled-task pre-baking proves valuable, define the degraded "plan-only, not-live-verified" mode and how it reconciles against the next human-present run's dedup.
 - **Worksheet completion feedback loop** — whether to add a lightweight "mark done" step that improves the local ledger's accuracy over the canonical Likes & Replies read.
-- **Cross-surface dedup** — whether engagement should also dedup against what was said in that day's own Notes (`tcn-substack-notes`) to avoid Justin echoing his own published framing in a comment.
+- **Cross-surface dedup scope (v1 reads Notes only)** — v1 dedups comments against the day's own **Notes**. Whether to extend cross-surface dedup to the day's X/Bluesky standalone and Facebook post (a comment echoing the X post is a softer dud than echoing a Note, and those surfaces aren't read live) is deferred.
