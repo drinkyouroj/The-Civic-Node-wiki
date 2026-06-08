@@ -216,6 +216,17 @@ Good: "Ask whether the same vendor's cameras are still running on private proper
 
 **The litmus question:** if I deleted the pointing-and-labeling sentence entirely, would the surrounding prose lose any actual information? If no, the sentence was carrying connotation rather than content — cut it or rewrite.
 
+**Beyond the deictic shape — the same nouns fail in any grammatical frame (introduce vs. replace).** The sentence shapes above all point and name ("This is the mechanism"). But the same watchlist nouns — and their close cousins (dynamic, factor, force, element, way, approach) — skip the same work anywhere else in a sentence: as the object of a preposition ("with a different mechanism than I expected"), the subject of a clause ("the underlying dynamic is..."), the head of a noun phrase ("a factor that shaped..."). Scoping this rule to the deictic shape lets those through — the noun gets flagged but the grammar doesn't match, so the scan slides past.
+
+The test that catches every frame: does the category-noun **introduce** a specific or **replace** one?
+
+- **Introduce (keep).** The noun sets up a specific that pays off in the same breath, usually via a colon or a concrete that lands within the clause. "The mechanism isn't identical: I expected a military mobilization; what came was an ICE and CBP operation." The noun is scaffolding; the specific arrives.
+- **Replace (rewrite).** The noun is the terminal content and the specific is either missing or — the sharpest tell — already stated. "...the pattern I feared showed up, with a different mechanism than I expected." The difference was named one sentence earlier; "a different mechanism" re-compresses it into the category-noun and adds nothing.
+
+The same word can do both jobs in the same paragraph, which is exactly why banning the word is the wrong tool. A flat ban kills the introducing use along with the replacing one, and it just relocates the vagueness onto the next synonym (way, form, factor, dynamic). Judge the noun by what follows it, not by the token. This is also why "mechanism" stays OFF the § 3A banned-word list: in this project it's the name of the virtue ("name the specific mechanism"), so a string-match would fire on the very rule that enforces good behavior.
+
+**The fix:** if the noun replaces a specific that's already on the page, cut the phrase — the specific already did the work. If it replaces a specific that isn't anywhere, you skipped the work; name it. Reserve the noun for the introducing use.
+
 **Strictness — STRONG TENDENCY, not HARD RULE.** A brief deictic landing IS sometimes the right move — "That's it." after a long setup is human, not AI. "Here's the thing." can earn its place when the setup actually justifies it. The litmus question separates the keepers from the lazy. Apply with judgment, not auto-flag.
 
 ---
