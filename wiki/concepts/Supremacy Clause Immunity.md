@@ -3,8 +3,8 @@ title: "Supremacy Clause Immunity"
 type: concept
 tags: [legal, politics, power, federal-immunity, accountability, minnesota]
 created: 2026-04-18
-updated: 2026-04-18
-sources: 8
+updated: 2026-06-07
+sources: 9
 ---
 
 ## Definition
@@ -36,6 +36,18 @@ Federal courts have denied Supremacy Clause immunity in only four instances in U
 
 In three of the four exceptions, there was "evidence suggesting that the federal officers acted with deliberate malice."
 
+The "1906 Pennsylvania soldiers case" is **_Drury v. Lewis_, 200 U.S. 1 (1906)** — U.S. soldiers indicted in Allegheny County, PA, for killing a civilian; the Supreme Court (9-0) let the state prosecution proceed because the facts (whether the victim had surrendered vs. was fleeing) were **disputed** and belonged to the state factfinder. It is the early, on-point authority that **disputed reasonableness defeats pretrial immunity** — the doctrinal ancestor of the *Horiuchi* en banc result.
+
+### The Two-Part Test and the Removal Mechanism
+
+Modern courts (most influentially the Ninth Circuit, en banc, in *Idaho v. Horiuchi*, 253 F.3d 359 (2001)) apply a **two-part test**: (1) a **subjective** prong — the officer honestly believed the act was necessary and proper to his federal duty — and (2) an **objective** prong — that belief was objectively reasonable (he did no more than a reasonable officer would think necessary). Where reasonableness is genuinely disputed, immunity **cannot** be granted on the papers and the prosecution may proceed.
+
+Procedurally, the doctrine runs through **federal-officer removal, 28 U.S.C. § 1442(a)(1)**: an officer prosecuted in state court "for or relating to any act under color of [federal] office" may remove the case to federal court on a showing of a *colorable* federal defense. Removal does **not** convert the charge into a federal crime — it **remains a state prosecution under state law, with state prosecutors in charge**, decided by a federal judge; a resulting **state conviction is unpardonable by the President**. A bare "I was doing my job" is insufficient (*Mesa v. California*, 489 U.S. 121 (1989), denying removal where there was no colorable federal defense). The doctrine also has an anti-harassment edge: in *Wyoming v. Livingston*, 443 F.3d 1211 (10th Cir. 2006), immunity attached where a state trespass charge was "not a bona fide effort to punish a violation of … law" but an attempt to hinder an unpopular federal program.
+
+### The Live ICE-Era Test (2026)
+
+The first criminal case against a Metro Surge officer — [[Mary Moriarty]]'s assault charge against [[Gregory Donnell Morgan]] — is the clean modern test of these limits: legal analysts agree the agent does **not** have "absolute immunity," that Minnesota's jurisdiction is clear, and that the case turns on the **objective reasonableness** of the conduct after the expected § 1442 removal. (See Reason, May 20 2026, "A state assault case against an ICE agent could illustrate the limits of supremacy-clause immunity.") The decisive constraint is upstream: without the federal evidence file ([[Touhy Doctrine]]), the state may struggle to build a chargeable record at all — which is why the *evidence-compulsion* gap, not the immunity question, is the load-bearing problem.
+
 ### The Minnesota Innovation: "Defensive" Immunity
 
 Traditional immunity: federal officers *defend* against prosecution after state charges are filed; federal courts determine whether conduct fell within official duties.
@@ -58,6 +70,7 @@ Presidential pardon power extends to federal convictions only. State convictions
 
 ## Related Concepts
 
+- [[Touhy Doctrine]] — the *evidentiary* shield that operates before immunity is litigated; the reason the state may never get to test immunity at all
 - [[Federal Immunity Above Constitutional Law]] — the Trump administration's reading exceeds even existing immunity doctrine
 - [[Institutional Gaslighting]] — evidence withholding as a tool to prevent immunity from ever being tested
 - [[Federal Power as Political Instrument]] — selective investigation (Pretti civil rights review but not Good) as political decision

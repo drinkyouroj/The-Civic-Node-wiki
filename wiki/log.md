@@ -2,6 +2,47 @@
 
 Append-only chronological record of all wiki activity.
 
+## [2026-06-09] ingest | Bluesky thread (Civic Node × @iami.earth) — Samsung bonus / contribution–replaceability decoupling (1 source; 2 concepts + 1 entity extended)
+
+Filed a Bluesky reply-thread under TCN's short for the published flagship "Samsung's $400,000 Bonus, and the $4,000 One." **Exception to the standing no-ephemeral-engagement rule** (cf. the same-day note-thread entry below, deliberately not filed): this thread produced a reusable, named thesis that directly supports the next labor-power piece, so the analytical payload was preserved.
+
+**The thesis:** the bonus prices **replaceability, not contribution** (reader @iami.earth's reframe). The decoupling is the new thing — contribution and replaceability *used to be one measurement* (scarce skill made a worker both productive and hard to replace, so "get good and you're safe" worked), and AI is the first technology that splits them: a worker can now be genuinely productive *and* trivially replaceable at once. Once individual skill is commoditized, the only remaining scarcity is collective — "the power to walk." The Samsung memory workers captured ~$400K *because* they still had it (and threatened an 18-day strike to prove it); the replaceable tier got ~$4,000.
+
+**Created — sources (1):** [[Bluesky Thread — Samsung Bonus and the Replaceability Decoupling (Civic Node x iami.earth) - 2026-06-08]] (raw transcript at `raw/bluesky-thread-civicnode-x-iami-samsung-bonus-decoupling-2026-06-08.md`, `ingest_method: manual`, 4 confirmed posts; TCN's drafted close recorded as argument, not as a confirmed post).
+
+**Updated:** [[Leverage Erasure Through Automation]] (new "Contribution–Replaceability Decoupling (2026 — Samsung bonus)" evidence subsection extending the concept from a *temporal* leverage-window claim to a *decoupling* claim + the collective-leverage answer; bidirectional cross-link with [[AI Windfall Sharing]]); [[AI Windfall Sharing]] (new evidence bullet — the priced-replaceability mechanism under "haves vs. have-mores"; Leverage-Erasure cross-link added); [[Samsung]] (source appearance); `index.md` (new dated Sources block; counters total_sources 776→777, total_pages 1370→1371). No new entities or concepts created (the thesis folded into the existing decoupling/windfall concepts rather than fragmenting).
+
+**Flagged:** (1) the published flagship "Samsung's $400,000 Bonus, and the $4,000 One" has **no `wiki/articles/` page** — the bonus story currently lives only in concept/entity pages; worth filing so future pieces and this source can link the published flagship. (2) @iami.earth engaged at high quality across two replies but is **not yet sensor-verified** as an active author account — verify before any follow/engagement recommendation (per the standing handle-verification rule). (3) Stats table (line ~2096) left on its normal lint-reconcile cadence; only frontmatter counters bumped.
+
+## [2026-06-09] note | New concept — Development Agreement Leverage Window (1 concept; under [[AI Cost Incidence]])
+
+Filed a procedural concept surfaced while drafting a Substack Notes reply to Bill Conner (Eyes On USA) on data-center ratepayer cost allocation. The mechanism: the data-center **build** decision (local body — zoning, tax abatement, water/sewer, development agreement) and the **cost-allocation** decision (state utility commission rate case) sit in two venues on two clocks; the local approval comes first, the locality's leverage is concentrated there and nearly gone by the rate case, so cost protections must attach to the development agreement *before* the local vote or they depend on a regulator the town doesn't control. Reframes [[AI Cost Incidence]] from a pricing question into a timing-and-venue question, and gives [[Toothless Transparency Laws]] a sibling (disclosure that arrives after the decision point).
+
+Grounded in existing wiki evidence, no new source ingested: [[El Paso Electric]] bridge-period (protection that expires → costs shift to ratepayers), [[AEP Ohio]] PUCO large-load arrangement (cost set at the state venue, not New Albany's council), [[Virginia SB 253]] (state-level reallocation onto the GS5 class), [[Saline Township Data Center (The Barn)]] / [[DTE Energy]] (locally approved long before the MPSC rate fight). Cataloged under Power & Infrastructure; cross-linked to [[Speed to Power]] (bypasses both venues), [[Regulatory Weaponization]], [[Institutional Capture]]. Newsletter angle flagged: follow one local approval through to the rate case it triggers. Note thread itself not filed as a source (ephemeral engagement).
+
+## [2026-06-07] ingest | Operation Metro Surge — Synthesis 2 gap-fill (9 sources, 2 entities, 2 concepts; ahead of June 12 flagship)
+
+Web-researched gap-fill for the [[Operation Metro Surge as Institutional Breakdown]] synthesis (written 2026-04-08, `sources: 0`), commissioned while selecting the June 12 flagship's seed. Five parallel research agents confirmed the operation is real and heavily documented, then pulled and verified primary sources to close the synthesis's four flagged caveats + five open follow-up questions. **Critical confirmation:** all 2026 facts trace to live fetched pages (CourtListener PDFs, dhs.gov, ag.state.mn.us, foxnews.com DOJ quotes, four independent newsrooms on the FOIA data) — nothing from model memory.
+
+**The gaps closed:**
+- *Arrest denominator* ("requires precision"): the **Deportation Data Project** FOIA dataset — <25% conviction / 13% pending / 63% neither, where ICE's "conviction" includes traffic + unauthorized-entry misdemeanors; 97% street arrests; dataset excludes U.S. citizens. Status floor: 273 work-permit holders.
+- *Court-order primary* ("worth locating"): the actual **Schiltz orders** in *Juan T.R. v. Noem*, 0:26-cv-00107 (ECF 10 = 96/74; ECF 12 = re-verified 97/66 + 113/77 more ≈ 210; criminal-contempt threat).
+- *Evidence-compulsion instrument*: **Touhy v. Ragen + 5 U.S.C. §301** — a shield for the agency, not a sword for the state; DHS asserted "Touhy doesn't apply"; AG alleges "no lawful basis." No clean state compulsion mechanism exists (the structural gap is itself the story).
+- *Federal justification*: thin/procedural register (Blanche "no basis for a criminal civil rights investigation"; parallel-review protocol) vs. the political register (Trump "crooked officials," already in wiki).
+- *Updated fiscal*: AG amended complaint **$240M wages / $610M revenue** (USIPC/UCSD primary) + North Star **$626M** Jan consumer-spend / ~4,600 hospitality jobs.
+
+**Two errors corrected in the wiki:** (1) the 96-orders finding is from the *Juan T.R.* habeas case, **not** the *State of Minnesota v. Noem* halt-bid (Menendez); (2) Davidson's "71% violent" reflects DHS's self-published ~11% highlight reel, not the population (63% no record).
+
+**Created — sources (9):** [[MPR News — Three-Quarters of Metro Surge Arrestees Had No Criminal Record - 2026-03-31]]; [[Minnesota Reformer — More Than 3,700 Arrested in Metro Surge Per New Data - 2026-03-31]]; [[ICE Continues to Remove the Worst of the Worst — DHS - 2026-01-19]]; [[Minnesota Reformer — Work Permit Holders Detained in Metro Surge - 2026-05-22]]; [[Juan T.R. v. Noem — Schiltz Orders on ICE Court-Order Violations]]; [[Tincher v. Noem — Order Restricting ICE Tactics Against Protesters - 2026-01-16]]; [[DOJ Declines Civil Rights Investigation Into Renée Good Killing — Fox News - 2026-01-13]]; [[Minnesota AG — Metro Surge Cost $240M in Wages, $610M in Business Revenue]]; [[North Star Policy Action — Metro Surge Economic Toll]].
+
+**Created — entities (2):** [[Deportation Data Project]], [[Patrick Schiltz]]. **Created — concepts (2):** [[Touhy Doctrine]], [[Enforcement Theater]].
+
+**Raw clips:** court PDFs got full `pdftotext -layout` clips (CourtListener fetchable); Fox/AG/North Star full WebFetch clips; the two Minnesota Reformer pages + the DHS release 403'd → honest `raw/` stubs built from captured verbatim quotes (`ingest_method: manual`, noted on each page). New `sources/raw/` subdir created.
+
+**Updated:** [[Operation Metro Surge]] (denominator + status floor; court-orders docket + ≈210 escalation; fiscal primaries; 9 source appearances; resolved the "docket?" and "sanctions?" open questions); [[Supremacy Clause Immunity]] (Drury v. Lewis named; two-part test + 28 U.S.C. §1442 removal; Mesa, Wyoming v. Livingston; May-2026 Reason ICE-assault test; [[Touhy Doctrine]] cross-link); [[Operation Metro Surge as Institutional Breakdown]] (caveats/follow-ups resolved); `index.md` (new dated Sources block; counters total_pages 1356→1369, total_sources 766→775, total_entities 292→294, total_concepts 168→170); `overview.md` (dated note + running total).
+
+**Flagged / deferred:** create-candidates referenced by ≥2 sources but deferred to keep scope tight — concepts [[Contempt of Court Against the Executive]] and [[Federal Enforcement Cost]]; entities [[Minnesota Reformer]], [[MPR News]], [[North Star Policy Action]], [[Eighth Circuit Court of Appeals]]. Lint near-misses: [[ACLU of Minnesota]] (vs. existing `ACLU.md`), bare [[FBI]] alias (vs. `Federal Bureau of Investigation.md`), [[Renée Good]] person-link (only the event page exists). **Open follow-up:** DOJ/DHS *response brief* to the MN evidence suit (the government's substantive litigation rationale) not yet located — PACER/D. Minn.; and the precise 8th Circuit stay date for *Tincher* (secondary coverage inconsistent — verify on the appellate docket before printing a hard date).
+
 ## [2026-06-06] update | Cleveland-Cliffs Butler Works stub → full ingestion (1 source promoted; entity enriched)
 
 Backfill of the open item flagged in the 2026-06-02 SK Hynix log entry ("The [[Cleveland-Cliffs]] Butler Works company page … remains a `raw/` stub pending full ingestion"). The primary company page is now full-clipped (WebFetch — the corporate site is fetchable, no Chrome/manual escalation needed) and promoted from a `raw/` citation stub to a source page.
@@ -3554,3 +3595,20 @@ Single-source ingest, surfaced during the June 5 flagship's iteration-3 fact-che
 **Housekeeping:** deleted the earlier paywalled bloomberg.com raw stub (superseded by the user's archive.ph scrape). The [[Cleveland-Cliffs]] Butler Works company page — now the article's link for the sole-US-GOES-mill claim — remains a `raw/` stub pending full ingestion.
 
 **Article context:** this ingest closed the last two sourcing items from the flagship's iteration-3 fact-check (08-fact-check-v3.md). Canonical draft advanced v5→v6 (reader-access link swap). The fact-check loop is clean; the piece is at the Step 10 final read-through.
+
+## [2026-06-08] ingest | Touhy v. Ragen, 340 U.S. 462 (1951) — Cornell LII primary (flagship fact-reconcile)
+
+Single-source ingest, surfaced during the "DHS Showed 9%. FOIA Showed Everyone." flagship fact-check (the June 12 Metro Surge piece, slug `dhs-showed-9-foia-showed-everyone`). The draft links "Touhy regulations" to the Cornell LII opinion as the doctrine's primary authority; that URL had no wiki source page — only a `raw/` tracking stub created during the reconcile wiki-audit. Promoted to a full source page (`ingest_method: webfetch`; fetched live from Cornell LII).
+
+**The holding (dated):** Decided **Feb 26, 1951** (Reed, J.; Frankfurter concurring). An agency head may, by regulation under the Housekeeping Statute (then 5 U.S.C. §22, now **5 U.S.C. §301**), strip subordinates of all discretion over record release and reserve that decision for himself — DOJ Order No. 3229 upheld; FBI agent could not be compelled to produce records subpoenaed by inmate Roger Touhy. **Narrow and procedural:** decides *whom to ask and how*, expressly reserves whether the agency head himself can refuse and whether privilege applies. The origin of the "Touhy regulations" and the structural reason Minnesota cannot compel FBI evidence in the [[Killing of Renée Good]] — a shield for the agency, not a sword for the state.
+
+**Created:**
+- [[Touhy v. Ragen — 340 US 462 (1951) — Cornell LII]] — source page (type=source; ingest_method=webfetch; law.cornell.edu/supremecourt/text/340/462).
+
+**Updated:**
+- [[Touhy Doctrine]] — Key Sources now cross-links the ingested primary (was a bare external citation); `updated` bumped to 2026-06-08 (recount hook owns the per-page sources count).
+- [[index.md]] — new 2026-06-08 ingest sub-section under Sources; counters total_pages 1369→1370, total_sources 775→776.
+
+**Housekeeping:** the earlier `raw/Touhy v. Ragen 340 US 462 — Cornell LII.md` tracking stub is retained (referenced in the source page's `raw:` field); it is no longer a pending-ingestion item. The working directory for the flagship was renamed `dhs-showed-11-foia-showed-everyone` → `dhs-showed-9-foia-showed-everyone` after the headline was corrected from "11%" to "9%" (335 ÷ 3,789 = 8.8% ≈ 9%; the prior 11% used DHS's claimed-3,000 denominator).
+
+**Article context:** this ingest clears the only outstanding sourcing/housekeeping item from the flagship's fact-check loop. Every inline link in the draft now resolves to an ingested wiki source. Canonical draft advancing to v6 (headline → 9%, body re-keyed to the 3,789 denominator); a confirming tcn-fact-check follows.

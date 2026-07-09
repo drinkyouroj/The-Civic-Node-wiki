@@ -4,8 +4,8 @@ type: entity
 entity_type: organization
 tags: [technology, infrastructure, supply-chain]
 created: 2026-04-11
-updated: 2026-06-02
-sources: 35
+updated: 2026-06-09
+sources: 36
 ---
 
 ## Overview
@@ -83,6 +83,7 @@ Samsung's dominance in memory chips places it at the center of several newslette
 - [[Samsung AI Bonuses Prompt Korea Debate — Bloomberg - 2026-05-30]] — Bloomberg primary: national-policy layer (citizen dividend, social solidarity wage, SWF); "AI aristocrats" intra-company divide; tax-exceeds-government fact; TSMC 30% bump
 - [[Samsung Shareholders Threaten Lawsuit Over Wage Deal — Seoul Economic Daily - 2026-05-21]] — the capital-side opening: [[Korea Shareholders' Movement Headquarters]] May 21 rally, the Commercial Act null-and-void theory, the "Act" 1%-derivative-suit drive, institutional-investor letters
 - [[Samsung Bonus Deal Labor-Management-Shareholder Clash — Seoul Economic Daily - 2026-05-30]] — the post-ratification escalation: the four remedies (invalidity, injunction, directors' fiduciary-duty derivative suit, strike-participant damages) and the Yellow Envelope "cascade" forecast
+- [[Bluesky Thread — Samsung Bonus and the Replaceability Decoupling (Civic Node x iami.earth) - 2026-06-08]] — reader-dialogue reframe: the bonus split prices *replaceability*, and AI decouples replaceability from contribution (the mechanism under "haves vs. have-mores")
 
 ## Open Questions
 

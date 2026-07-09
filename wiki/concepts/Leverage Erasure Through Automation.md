@@ -3,8 +3,8 @@ title: "Leverage Erasure Through Automation"
 type: concept
 tags: [power, automation, labor, infrastructure, ownership]
 created: 2026-04-06
-updated: 2026-04-06
-sources: 6
+updated: 2026-06-09
+sources: 8
 ---
 
 ## Definition
@@ -50,6 +50,33 @@ The window to negotiate ownership is before robotics arrives. Once operational, 
 
 Path 3 requires leverage workers currently have. Path 1/2 will lock in before workers realize their leverage is gone.
 
+### The Contribution–Replaceability Decoupling (2026 — Samsung bonus)
+
+The ATM and self-checkout cases show leverage eroding while jobs survive. The [[Samsung]]
+bonus structure shows the next stage: a single pay structure that **prices replaceability
+directly**. Memory-division workers (the tier AI can't yet replace) got ~$400K; the
+replaceable tiers got a few thousand. A Bluesky exchange under TCN's short on the deal named
+the mechanism the "haves vs. have-mores" framing leaves implicit ([[Bluesky Thread — Samsung
+Bonus and the Replaceability Decoupling (Civic Node x iami.earth) - 2026-06-08]]):
+
+- **Contribution and replaceability used to be one measurement.** Scarce skill made a worker
+  both productive *and* hard to replace — the two moved together, so "get good and you're
+  safe" worked. Skill was the shield because skill was scarce.
+- **AI decouples them.** It is the first technology that lets a worker be genuinely productive
+  *and* trivially replaceable at the same time. The shield breaks not because the worker got
+  worse, but because the scarcity that protected them got manufactured away across the whole
+  tier at once. Out-skilling your peers stops working when your peers are equally deletable.
+- **The remaining scarcity is collective.** Once individual skill is commoditized, the one
+  thing still scarce is the credible ability to withhold labor together — "the power to walk."
+  This is the same leverage this concept says evaporates, viewed from the worker's side: the
+  Samsung memory workers captured surplus *because* they still had it (and threatened an
+  18-day strike to prove it); the replaceable tier did not. The individual-skill path to
+  protection (Path 3's prerequisite) is precisely what the decoupling closes — which is why
+  the answer the thread lands on is collective, not individual.
+
+This is the bridge between this concept and [[AI Windfall Sharing]]: windfall capture at the
+chokepoint is leverage-erasure run in reverse for the one tier that still has leverage.
+
 ## Tensions & Counterarguments
 
 **Defense**: Previous automation made workers more productive (PCs amplified human capability).
@@ -65,6 +92,7 @@ Path 3 requires leverage workers currently have. Path 1/2 will lock in before wo
 - [[Mechanical Turk Pattern]] — the inverse dynamic; simulated automation that erases leverage by making labor invisible rather than replacing it
 - [[Ownership of Automation]] — who controls the means of automation
 - [[When Robots Leave the Lab]] — detailed exploration of physical AI deployment patterns
+- [[AI Windfall Sharing]] — the inverse case: the tier that still has leverage capturing surplus at the chokepoint
 
 ## Key Sources
 
@@ -72,3 +100,4 @@ Path 3 requires leverage workers currently have. Path 1/2 will lock in before wo
 - [[The Algorithm Ate My Amygdala]] — related pattern in digital automation
 - [[Ghost Work — The Hidden Humans Behind AI]] — global ghost labor ecosystem; workers made invisible by API abstraction
 - [[The Exploited Labor Behind Artificial Intelligence]] — historical etymology (original Mechanical Turk) + full AI labor stack
+- [[Bluesky Thread — Samsung Bonus and the Replaceability Decoupling (Civic Node x iami.earth) - 2026-06-08]] — the contribution–replaceability decoupling + "the power to walk" as the remaining scarcity

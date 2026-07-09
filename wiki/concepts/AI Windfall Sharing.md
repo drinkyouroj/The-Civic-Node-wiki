@@ -3,8 +3,8 @@ title: "AI Windfall Sharing"
 type: concept
 tags: [labor, monetary-policy, ai, politics]
 created: 2026-05-18
-updated: 2026-06-02
-sources: 24
+updated: 2026-06-09
+sources: 25
 ---
 
 ## Definition
@@ -35,6 +35,8 @@ This is the first concept that connects TCN's monetary-policy lane to the labor 
 
 - **The capital side mobilizes — the shareholder counter-suit (May 21–30, 2026)**: windfall sharing produces a counter-claimant. The [[Korea Shareholders' Movement Headquarters]] declared [[Samsung]]'s profit-share deal "illegal" and is pursuing four remedies under the Commercial Act — an invalidity suit, a payout injunction, a derivative suit against directors for breach of fiduciary duty, and damages against strike participants — arguing that indexing bonuses to a percentage of pre-tax operating profit hands over the dividend pool without a shareholder vote. This is the third corner of the fight: labor won the share, management signed it, capital is suing to void it. A permanent, profit-indexed labor claim cannot be settled at the bargaining table alone, because it collides with the corporate-law procedures that protect the shareholder claim on the same profit. [[Samsung Shareholders Threaten Lawsuit Over Wage Deal — Seoul Economic Daily - 2026-05-21]] [[Samsung Bonus Deal Labor-Management-Shareholder Clash — Seoul Economic Daily - 2026-05-30]]
 
+- **The mechanism under "haves vs. have-mores" — priced replaceability (Bluesky thread, June 8, 2026)**: a reader exchange under TCN's short on the deal supplied the *why* beneath the haves-vs-have-mores framing. The bonus split prices **replaceability, not contribution** — the ~$400K memory tier is the labor Samsung can't yet delete; the replaceable tiers got a few thousand. The deeper move: contribution and replaceability *used to be the same measurement* (scarce skill made a worker both productive and hard to replace), and AI decouples them — so windfall capture concentrates in the one tier that still has the leverage to walk, while the replaceable tier has neither the surplus nor the bargaining power. This connects the windfall-capture story to [[Leverage Erasure Through Automation]]: the Samsung memory workers are leverage-erasure run in reverse. [[Bluesky Thread — Samsung Bonus and the Replaceability Decoupling (Civic Node x iami.earth) - 2026-06-08]]
+
 ## Tensions & counterarguments
 
 - Management framing: AI-tied bonus structures formalized at 15% in contract terms create downside-binding obligations in a future cycle when AI revenue normalizes. The "unsustainable in the long term" language is structurally honest about this risk.
@@ -44,6 +46,7 @@ This is the first concept that connects TCN's monetary-policy lane to the labor 
 ## Related concepts
 
 - [[Chokepoint Control]] — windfall sharing happens at supply chokepoints
+- [[Leverage Erasure Through Automation]] — the worker-side mechanism: who captures windfall vs. who gets deleted tracks who keeps bargaining leverage
 - [[AI Cost Incidence]] — the cost-side companion (who pays)
 - [[AI Buildout Grid Constraint]]
 - [[Cantillon Effect]] — adjacent monetary-policy concept (who gets the new money first)

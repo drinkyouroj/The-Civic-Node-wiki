@@ -1,11 +1,11 @@
 ---
 title: "Wiki Index"
 type: index
-updated: 2026-06-06
-total_pages: 1356
-total_sources: 766
-total_entities: 292
-total_concepts: 168
+updated: 2026-06-09
+total_pages: 1371
+total_sources: 777
+total_entities: 294
+total_concepts: 170
 total_syntheses: 28
 total_articles: 102
 ---
@@ -23,6 +23,49 @@ Master catalog of all wiki pages. Updated after every ingest or significant chan
 ---
 
 ## Sources
+
+### 2026-06-09 ingest (Bluesky thread — Samsung bonus / replaceability decoupling) (1 source, 0 new entities, 0 new concepts; [[Leverage Erasure Through Automation]] + [[AI Windfall Sharing]] extended)
+
+A reader reply-thread under TCN's short for the published "Samsung's $400,000 Bonus, and the $4,000 One." Filed as an exception to the usual no-ephemeral-engagement rule because it produced a reusable thesis: the bonus prices **replaceability, not contribution**, and AI **decouples** the two (scarce skill used to deliver both productivity and protection; now a worker can be productive and trivially replaceable at once). The exchange lands on collective leverage — "the power to walk" — as the only scarcity AI hasn't commoditized. The labor-power sequel to the bonus flagship.
+
+**Created — sources (1):**
+- [[Bluesky Thread — Samsung Bonus and the Replaceability Decoupling (Civic Node x iami.earth) - 2026-06-08]] — TCN × @iami.earth dialogue; the contribution–replaceability decoupling + "the power to walk." Raw at `raw/bluesky-thread-civicnode-x-iami-samsung-bonus-decoupling-2026-06-08.md` (ingest_method: manual).
+
+**Updated:** [[Leverage Erasure Through Automation]] (new "Contribution–Replaceability Decoupling" evidence subsection + collective-leverage answer; cross-linked to [[AI Windfall Sharing]]); [[AI Windfall Sharing]] (the mechanism under "haves vs. have-mores"; Leverage-Erasure cross-link); [[Samsung]] (source appearance); `index.md` (counters total_sources 776→777, total_pages 1370→1371).
+
+**Flagged:** the published flagship "Samsung's $400,000 Bonus, and the $4,000 One" has no `wiki/articles/` page (gap — the bonus story currently lives only in concept/entity pages). @iami.earth not yet sensor-verified as an active author — verify before any follow/engagement recommendation.
+
+### 2026-06-08 ingest (flagship fact-reconcile — Touhy v. Ragen primary) (1 source, 0 new entities, 0 new concepts; [[Touhy Doctrine]] cross-linked)
+
+Surfaced during the "DHS Showed 9%. FOIA Showed Everyone." flagship fact-check (the June 12 Metro Surge piece). The draft links "Touhy regulations" to the Cornell LII opinion as the doctrine's primary authority; that URL had no wiki source page (only a `raw/` tracking stub created during reconcile). Promoted to a full source page.
+
+**Created — sources (1):**
+- [[Touhy v. Ragen — 340 US 462 (1951) — Cornell LII]] — **primary** SCOTUS opinion (Reed, J.; Frankfurter concurring); origin of the [[Touhy Doctrine]]. Holds an agency head may centralize all record-release decisions and bar subordinates from producing records (Housekeeping Statute, 5 U.S.C. §301). Narrow and procedural — channels *whom to ask and how*, creates no privilege to withhold; the requester's remedy is an APA suit, not contempt.
+
+**Updated:** [[Touhy Doctrine]] (Key Sources now links the ingested primary).
+
+### 2026-06-07 ingest (Operation Metro Surge — Synthesis 2 gap-fill) (9 sources, 2 new entities, 2 new concepts; [[Operation Metro Surge]] + [[Supremacy Clause Immunity]] updated)
+
+Gap-fill for the [[Operation Metro Surge as Institutional Breakdown]] synthesis (written 2026-04-08 with `sources: 0`), ahead of the June 12 flagship. Closes the synthesis's four flagged caveats and five open follow-up questions with primary sources web-researched and verified this session: the **Deportation Data Project FOIA dataset** (the population denominator the synthesis said "requires precision"), the **actual Schiltz court orders** (the primary docket the synthesis flagged as "worth locating"), the **Touhy/Neagle evidence-compulsion doctrine** (the legal-instrument question), and the **updated fiscal accounting**. Two synthesis errors corrected: the 96-orders finding is from the *Juan T.R. v. Noem* habeas case (0:26-cv-00107), **not** the state halt-bid; and Davidson's "71% violent" is DHS's self-published ~11% highlight reel, not the population (which is 63% no-record).
+
+**Created — sources (9):**
+- [[MPR News — Three-Quarters of Metro Surge Arrestees Had No Criminal Record - 2026-03-31]] — APM Reports analysis of the FOIA data; 3,789 arrested, <25% conviction / 13% pending / ~35% collateral.
+- [[Minnesota Reformer — More Than 3,700 Arrested in Metro Surge Per New Data - 2026-03-31]] — the load-bearing denominator definition (ICE counts "any conviction," incl. traffic/unauthorized-entry; dataset excludes U.S. citizens). *(raw stub — Reformer 403'd.)*
+- [[ICE Continues to Remove the Worst of the Worst — DHS - 2026-01-19]] — DHS primary; the "worst of the worst" 3,000 claim the data refutes. *(raw stub — dhs.gov 403'd.)*
+- [[Minnesota Reformer — Work Permit Holders Detained in Metro Surge - 2026-05-22]] — 273 valid-work-permit holders detained; best legal-status evidence (a floor). *(raw stub — Reformer 403'd.)*
+- [[Juan T.R. v. Noem — Schiltz Orders on ICE Court-Order Violations]] — **primary court records** (CourtListener ECF 10 + 12, full `pdftotext` clips): 96→~210 violations; criminal-contempt threat.
+- [[Tincher v. Noem — Order Restricting ICE Tactics Against Protesters - 2026-01-16]] — **primary** Menendez injunction (ECF 85, 83 pp.) + 8th Circuit stay.
+- [[DOJ Declines Civil Rights Investigation Into Renée Good Killing — Fox News - 2026-01-13]] — the official thin justification (Blanche "no basis"; parallel-review protocol).
+- [[Minnesota AG — Metro Surge Cost $240M in Wages, $610M in Business Revenue]] — **primary** AG release (Apr 21); USIPC/UCSD methodology; metro-wide cost update.
+- [[North Star Policy Action — Metro Surge Economic Toll]] — **primary** independent economists; ~$626M Jan consumer-spending loss; ~4,600 hospitality jobs.
+
+**New entities (2):** [[Deportation Data Project]] — type=organization; the FOIA-litigation effort whose dataset underlies the arrest-demographics correction. [[Patrick Schiltz]] — type=person; D. Minn. chief judge behind the 96→210 court-order-violation findings.
+
+**New concepts (2):** [[Touhy Doctrine]] — the evidence-compulsion answer (Touhy v. Ragen + 5 U.S.C. §301 as the agency's shield, not the state's sword; DHS asserted "Touhy doesn't apply"). [[Enforcement Theater]] — the synthesis's central thesis (maximum visibility, minimum precision, structural insulation), quantified by the rhetoric-vs-FOIA-data gap.
+
+**Updated:** [[Operation Metro Surge]] (arrest-demographics denominator + legal-status floor; court-orders docket + Feb-26 escalation to ≈210; fiscal primaries; 9 source appearances; 2 open questions resolved), [[Supremacy Clause Immunity]] (Drury v. Lewis named; two-part test + §1442 removal; Mesa, Wyoming v. Livingston; the May-2026 Reason ICE-assault test; Touhy cross-link), [[Operation Metro Surge as Institutional Breakdown]] (synthesis caveats/follow-ups resolved; sources recount).
+
+**Flagged / deferred (defer-until-second-source or lint):** new danglers awaiting pages — [[Minnesota Reformer]], [[MPR News]], [[North Star Policy Action]], [[Eighth Circuit Court of Appeals]], concept [[Contempt of Court Against the Executive]], concept [[Federal Enforcement Cost]] (both strong create-candidates, referenced by multiple sources). Lint: a writer linked [[ACLU of Minnesota]] though `ACLU.md` exists (near-miss); [[FBI]] used as a bare alias though the page is `Federal Bureau of Investigation.md`; [[Renée Good]] person-link resolves only to the `Killing of Renée Good` event page. Open follow-up: DOJ/DHS *response brief* to the MN evidence suit (would carry the government's substantive litigation rationale) not yet located — PACER/D. Minn. check.
 
 ### 2026-06-06 ingest (Virginia SB 253 — SCC cost-shift onto data centers) (1 source, 2 new entities, 0 new concepts; [[AI Cost Incidence]] updated)
 
@@ -1740,6 +1783,7 @@ Source page **corrected**: [[A Majority of Voters Are Unfavorable of ICE, Are Di
 - [[AI Buildout Grid Constraint]] — Master concept for the 2026-2030 AI buildout's binding physical bottleneck; four interlocking sub-constraints (interconnection-queue depth, transformer/substation lead times, transmission timelines, PPA cycles); chip-layer-vs-grid-layer choice as the analytical frame; primary research base for May 15 article
 - [[Interconnection Queue]] — Vocabulary for the queue sub-constraint; ~2,600 GW in queues vs ~1,279 GW installed capacity (LBNL); 70% withdrawal rate; FERC Dec 18 2025 PJM order = first major regulatory recognition
 - [[Power Transformer Shortage]] — Sub-concept of AI Buildout Grid Constraint focused on transformer hardware; Wood Mackenzie 30% supply deficit projection; lead times 128 weeks (large) / 144 weeks (GSU) / 160+ weeks (substation, 2026); ~$1.8B announced manufacturing buildout through 2028; Patrick Tarver contrarian view documented
+- [[Development Agreement Leverage Window]] — Procedural mechanism under [[AI Cost Incidence]]: the data-center build decision (local body — zoning, abatement, water, development agreement) and the cost-allocation decision (state rate case) sit in separate venues on separate clocks; the locality's leverage is front-loaded into the approval and nearly gone by the rate case, so cost protections must attach before the local vote; El Paso "bridge period" / AEP Ohio PUCO / Virginia SB 253 / Saline-DTE as evidence
 - [[AI DRAM Crisis]] — The LOI mechanism: non-binding OpenAI demand signal → market panic → binding contracts → prices locked 2027-2028; three-company oligopoly (91.5% global revenue); synthesis concept for the DRAM cluster
 - [[Chokepoint Control]] — How geographic/infrastructure bottlenecks confer coercive power; Strait as paradigm case; rare-earth licensing as bureaucratic-chokepoint variant
 - [[Rare Earth Export Controls]] — China's permit/licensing regime; 89% global REE refining concentration; April 2025 7-element regime as operational chokepoint over Western defense; Busan pause did not suspend it

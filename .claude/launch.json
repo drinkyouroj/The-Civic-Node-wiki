@@ -18,6 +18,12 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "8741", "--directory", "workspace/drafts/samsungs-400000-bonus-and-the-4000-one"],
       "port": 8741
+    },
+    {
+      "name": "dispatch007",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8742", "--directory", "workspace/drafts/dhs-showed-9-foia-showed-everyone"],
+      "port": 8742
     }
   ]
 }

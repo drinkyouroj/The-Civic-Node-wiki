@@ -4,20 +4,24 @@ type: entity
 entity_type: event
 tags: [politics, power, immigration, minnesota, infrastructure]
 created: 2026-04-07
-updated: 2026-04-30
-sources: 41
+updated: 2026-06-07
+sources: 50
 ---
 
 ## Overview
-Operation Metro Surge was a mass immigration enforcement operation conducted by ICE and CBP in the Minneapolis–Saint Paul metropolitan area, beginning December 4, 2025 and expanding significantly on January 6, 2026. DHS called it "the largest immigration enforcement operation ever carried out." The operation resulted in at least 3,789 arrests, two civilian deaths (both U.S. citizens: [[Killing of Renée Good|Renée Good]] and Alex Pretti), one in-custody death, and at least 96 confirmed violations of court orders per Chief U.S. District Judge Patrick Schiltz's Jan. 28, 2026 finding. The preliminary impact assessment released by the City of Minneapolis on Feb. 12, 2026 estimates **$203.1 million in total impact in one month**, including **$81 million in business revenue losses** and **$47 million in lost wages**.
+Operation Metro Surge was a mass immigration enforcement operation conducted by ICE and CBP in the Minneapolis–Saint Paul metropolitan area, beginning December 4, 2025 and expanding significantly on January 6, 2026. DHS called it "the largest immigration enforcement operation ever carried out." The operation resulted in at least 3,789 arrests, two civilian deaths (both U.S. citizens: [[Killing of Renée Good|Renée Good]] and [[Alex Pretti]]), one in-custody death, and a documented, escalating record of court-order defiance — 96 violations (in 74 cases) per Chief U.S. District Judge [[Patrick Schiltz]]'s Jan. 28, 2026 finding in *Juan T.R. v. Noem* (No. 0:26-cv-00107), re-verified and expanded to roughly 210 in his Feb. 26 supplemental order. The preliminary impact assessment released by the City of Minneapolis on Feb. 12, 2026 estimates **$203.1 million in total impact in one month**, including **$81 million in business revenue losses** and **$47 million in lost wages**.
 
 ## Key Facts
 - Duration: December 4, 2025 – February 2026; residual force of 650 officers remained in early March [[Operation Metro Surge - Wikipedia]]
 - At peak: 2,000 ICE agents + 1,000 CBP officers deployed [[Operation Metro Surge - Wikipedia]]
-- 3,789+ arrests; majority from Ecuador and Mexico; fewer than 25% had criminal records; ~35% were "collateral" (street sweep, not targeted) [[Operation Metro Surge - Wikipedia]]
+- 3,789+ arrests; majority from Ecuador and Mexico; ~35% ICE-labeled "collateral" (street sweep, not targeted) [[Operation Metro Surge - Wikipedia]]
+- **Arrest demographics, population-level** (Deportation Data Project FOIA data, analyzed Mar 2026): fewer than **25% had a criminal conviction**, ~**13%** had pending charges, ~**63%** had neither — and ICE's "conviction" category includes misdemeanors down to **traffic violations and unauthorized entry**, so even the <25% overstates *serious* criminality. **97%** were non-custodial "street arrests" (vs. ~52% nationally). This population denominator is what contextualizes the "71% violent" figure in [[I Mapped Every Confirmed ICE Arrest in Minnesota Heres What I Found]] — Davidson mapped only the ~11% of arrests DHS chose to publicize, not the full population. [[MPR News — Three-Quarters of Metro Surge Arrestees Had No Criminal Record - 2026-03-31]]; [[Minnesota Reformer — More Than 3,700 Arrested in Metro Surge Per New Data - 2026-03-31]]; [[Deportation Data Project]]
+- **Legal status of arrestees**: the FOIA dataset has no legal-status field and excludes U.S. citizens (per a 2021 GAO finding, ICE doesn't systematically track citizen arrests); from 1,100+ habeas petitions the Reformer identified **273 valid-work-permit holders** (asylees, refugees, DACA recipients) arrested — a documented floor, not a ceiling. [[Minnesota Reformer — Work Permit Holders Detained in Metro Surge - 2026-05-22]]
+- **DHS's countervailing claim**: ICE removed "the worst of the worst … vicious murderers, rapists, child pedophiles" — asserted with ~13 named profiles and **no statistical breakdown**; the rhetorical frame the FOIA data refutes. [[ICE Continues to Remove the Worst of the Worst — DHS - 2026-01-19]]
 - Deaths: Renée Good (Jan. 7, 2026), Alex Pretti, and one in-custody death [[Operation Metro Surge - Wikipedia]]
 - Despite ostensible focus on Somali-American fraud, only 106 arrestees (<3%) were Somali, and none tied to Feeding Our Future fraud case [[Operation Metro Surge - Wikipedia]]
-- Jan. 28, 2026: Chief U.S. District Judge Patrick Schiltz (D. Minn.) found ICE violated at least 96 court orders in Minnesota since Jan. 1, 2026 [[Operation Metro Surge - Wikipedia]]
+- Jan. 28, 2026: Chief U.S. District Judge [[Patrick Schiltz]] (D. Minn.) found ICE violated **96 court orders in 74 cases** since Jan. 1, 2026 — in the individual habeas case ***Juan T.R. v. Noem*, No. 0:26-cv-00107 (PJS/DLM)** (ECF No. 10), **not** the state halt-bid suit (a common conflation). His **Feb. 26 supplemental order** (ECF No. 12), prompted by U.S. Attorney Daniel Rosen's accuracy challenge, re-verified the count (97 in 66 cases) and documented **113 additional violations in 77 more cases** (≈210 total), threatening **criminal contempt**: "ICE is not a law unto itself." [[Juan T.R. v. Noem — Schiltz Orders on ICE Court-Order Violations]]
+- Jan. 16, 2026: Judge [[Katherine Menendez]] (D. Minn.) granted a preliminary injunction restricting ICE tactics against protesters/observers (no retaliation, no pepper-spray on peaceful protesters, no vehicle stops without reasonable suspicion — "safely following … does not, by itself, create reasonable suspicion") in *Tincher v. Noem*, No. 0:25-cv-04669; the **Eighth Circuit stayed it** (~Jan 21 / Jan 26–27) as "overly broad" and "impermissibly vague." [[Tincher v. Noem — Order Restricting ICE Tactics Against Protesters - 2026-01-16]]
 - Jan. 31, 2026: District Judge Katherine Menendez denied Minnesota's request for a preliminary injunction in the state + Minneapolis + St. Paul suit, but acknowledged the consequences were "profound and even heartbreaking" and would be "difficult to overstate." The court relied on *United States v. Texas* (states lack standing for downstream fiscal harm from federal immigration decisions) and noted the anti-commandeering doctrine has limited Supreme Court guidance for enforcement-deployment cases. [[JURIST — US federal court denies Minnesota bid to stop Operation Metro Surge]]
 
 ### Economic Impact — Corrected Figures (per Feb 12, 2026 City of Minneapolis preliminary assessment)
@@ -38,9 +42,9 @@ Earlier drafts of this wiki referenced a "$81 billion" business revenue figure �
 
 Primary source: [[City of Minneapolis — Operation Metro Surge results in $203 million impact]]. The city labels this a "very likely significant underestimation."
 
-**Independent econometric estimate** (Rosenthal + Sojourner, North Star Policy Action): **$106.1 million in lost wages** in the Twin Cities metro area from Jan. 3 – Feb. 17, 2026, using synthetic difference-in-differences methodology against 49 comparison metro areas. Surge reduced employees working by 2.8%, total hours worked by 1.9%, open business locations by 1.7%. Data source: Homebase timekeeping platform. See [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]].
+**Independent econometric estimate** (Rosenthal + Sojourner, North Star Policy Action): **$106.1 million in lost wages** in the Twin Cities metro area from Jan. 3 – Feb. 17, 2026, using synthetic difference-in-differences methodology against 49 comparison metro areas. Surge reduced employees working by 2.8%, total hours worked by 1.9%, open business locations by 1.7%. A companion North Star consumer-spending study (Opportunity Insights card-spending data) put January's statewide spending loss at ~**$626M**. **Primary**: [[North Star Policy Action — Metro Surge Economic Toll]]; secondary walkthrough: [[Minnesota Reformer — Measuring the economic damage of Minnesota's ICE surge is hard]].
 
-**MN AG amended complaint estimate (April 2026):** Minneapolis and Saint Paul residents lost **over $240 million in wages** and businesses lost **over $600 million in revenue** during the operation. Cited in [[Frozen Accountability How the Federal Government Handled and Buried the Killing of Renee Good]]; sourced from the April 2026 amended complaint in MN AG Keith Ellison's federal suit. Broader scope than the city estimate (metro-wide; longer period).
+**MN AG amended complaint estimate (April 2026):** Minneapolis and Saint Paul residents lost **over $240 million in wages** and businesses lost **over $610 million in revenue** during the operation — broader scope than the city estimate (metro-wide; longer period). **Primary source** (AG release, Apr 21 2026; figures from UC San Diego's U.S. Immigration Policy Center, drawn from Feb 17–Mar 6 surveys of 1,390 individuals + ~900 businesses): wages **Minneapolis $189.2M + Saint Paul $54.6M**; revenue **Minneapolis $444.8M + Saint Paul $165.4M**. [[Minnesota AG — Metro Surge Cost $240M in Wages, $610M in Business Revenue]] (also cited in [[Frozen Accountability How the Federal Government Handled and Buried the Killing of Renee Good]]).
 - Schools shifted to remote learning; ICE arrested restaurant, airport, hotel workers, Target employees, children, Native Americans, US citizens, legal residents [[Operation Metro Surge - Wikipedia]]
 - [[Don Lemon]] and other journalists arrested while covering protests [[Operation Metro Surge - Wikipedia]]
 - Minneapolis Mayor Jacob Frey banned federal officials from using city property as staging areas [[Operation Metro Surge - Wikipedia]]
@@ -92,7 +96,18 @@ Metro Surge is the clearest recent example of [[Sanctuary Infrastructure]] under
 - [[DHS Admits It Provided Erroneous Information on Texts of Noem and DHS Brass]] — DHS admits in court that prior records-non-existence claim was "erroneous"; April 2025 text-archive disablement; NARA Sept 3 order ignored
 - [[DHS Says Recording or Following Law Enforcement Sure Sounds Like Obstruction of Justice]] — DHS: recording federal LE "sure sounds like obstruction"; 7 federal circuits disagree; Cato/Bier nationwide-policy report
 - [[Data of thousands of taxpayers wrongly shared with DHS court filing says]] — IRS confirms 1.28M names → 47K verified → <5% additional address info; MA federal court orders IRS to stop residential-address sharing; Public Citizen lawsuit
-- [[I Mapped Every Confirmed ICE Arrest in Minnesota Heres What I Found]] — Davidson maps DHS's own claims: only 335 named arrests of 3,000+ claimed (~11% disclosure); rural arrests concentrate at federal prisons (transfer-as-arrest accounting); Twin Cities 71% violent-offense rate
+- [[I Mapped Every Confirmed ICE Arrest in Minnesota Heres What I Found]] — Davidson maps DHS's own claims: only 335 named arrests of 3,000+ claimed (~11% disclosure); rural arrests concentrate at federal prisons (transfer-as-arrest accounting); Twin Cities 71% violent-offense rate *within DHS's self-published list* (contextualized by the population FOIA data below)
+
+### June 2026 ingest additions (gap-fill for the [[Operation Metro Surge as Institutional Breakdown]] synthesis)
+- [[MPR News — Three-Quarters of Metro Surge Arrestees Had No Criminal Record - 2026-03-31]] — APM Reports analysis of the Deportation Data Project FOIA data; 3,789 arrested; <25% conviction, 13% pending, ~35% collateral
+- [[Minnesota Reformer — More Than 3,700 Arrested in Metro Surge Per New Data - 2026-03-31]] — the load-bearing denominator definition: ICE counts "any conviction," incl. traffic/unauthorized-entry misdemeanors; dataset excludes U.S. citizens
+- [[ICE Continues to Remove the Worst of the Worst — DHS - 2026-01-19]] — DHS primary; the "worst of the worst" 3,000 claim the FOIA data refutes
+- [[Minnesota Reformer — Work Permit Holders Detained in Metro Surge - 2026-05-22]] — 273 valid-work-permit holders detained; best legal-status evidence (a floor)
+- [[Juan T.R. v. Noem — Schiltz Orders on ICE Court-Order Violations]] — **primary court records** (ECF 10 + 12): 96→~210 violations; docket 0:26-cv-00107; criminal-contempt threat
+- [[Tincher v. Noem — Order Restricting ICE Tactics Against Protesters - 2026-01-16]] — **primary** Menendez injunction (ECF 85, 83 pp.) + 8th Circuit stay
+- [[DOJ Declines Civil Rights Investigation Into Renée Good Killing — Fox News - 2026-01-13]] — the official thin justification: Blanche "no basis for a criminal civil rights investigation" + parallel-review protocol
+- [[Minnesota AG — Metro Surge Cost $240M in Wages, $610M in Business Revenue]] — **primary** AG release; USIPC/UCSD methodology; the metro-wide cost update
+- [[North Star Policy Action — Metro Surge Economic Toll]] — **primary** independent economists; $626M January consumer-spending loss; ~4,600 hospitality jobs
 
 ## Accountability Developments (updated April 24, 2026)
 
@@ -119,10 +134,10 @@ Metro Surge is the clearest recent example of [[Sanctuary Infrastructure]] under
 
 ## Open Questions
 - What happened to the Feeding Our Future fraud prosecutions after the lead prosecutors resigned?
-- Were any of the 96 court violations prosecuted? Did DHS face any sanctions?
+- **[Partially resolved 2026-06-07]** Were the violations sanctioned? Schiltz's Feb. 26 supplemental order documented ≈210 total violations and threatened **criminal contempt**; separately, Judge Laura Provinzino held DOJ attorney Matthew Isihara in **civil contempt at $500/day**, with a later push targeting U.S. Attorney Daniel Rosen. No criminal-contempt *prosecution* had been initiated as of spring 2026 — and the enforcement ceiling is structural (criminal contempt is pardonable; civil contempt and Marshals enforcement run through the executive). [[Juan T.R. v. Noem — Schiltz Orders on ICE Court-Order Violations]]
 - Will the anti-commandeering doctrine case eventually be heard on the merits at the Eighth Circuit or Supreme Court?
 - Did the sanctuary model (synagogues, churches sheltering migrants) lead to federal enforcement action?
-- What is the full docket number for Judge Schiltz's Jan 28 96-violations finding?
+- **[Resolved 2026-06-07]** Docket for Schiltz's Jan 28 96-violations finding: ***Juan T.R. v. Noem*, No. 0:26-cv-00107 (PJS/DLM)**, ECF No. 10 (finding) + ECF No. 12 (Feb 26 supplemental). [[Juan T.R. v. Noem — Schiltz Orders on ICE Court-Order Violations]]
 - Will the evidence lawsuit produce court-ordered disclosure before Moriarty leaves office?
 - What is the status of the 14 additional investigations beyond the Morgan assault case?
 - Will Morgan's case survive a Supremacy Clause immunity challenge?

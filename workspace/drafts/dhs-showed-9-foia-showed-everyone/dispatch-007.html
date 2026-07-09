@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Civic Node — Dispatch №007</title>
+<!--
+  Dispatch №007 — "DHS Showed 9%. FOIA Showed Everyone."
+  Beat-segmented constant-motion deck. 1:1 (1080×1080) recording canvas.
+  121 slides = 10 scene-headers + 111 beat slides.
+  Advance: → / Space / ↓ / click.  Retreat: ← / ↑.  HUD toggle: h.
+  Images: 007-01..007-05 (1024² flat-vector), cover.png (flagship cover, contain-fit).
+-->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap');
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  font-family: 'Courier Prime', monospace;
+}
+
+.deck {
+  position: relative;
+  width: min(100vw, 100vh);
+  height: min(100vw, 100vh);
+  background: #0f172a;
+  overflow: hidden;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;   /* explicit — container-type:size won't derive height from inset alone */
+  container-type: size;
+  opacity: 0;
+  transition: opacity 200ms cubic-bezier(0.2, 0, 0, 1);
+  pointer-events: none;
+  background: #0f172a;
+
+  --type-hero:   clamp(80px, 24cqmin, 360px);
+  --type-h1:     clamp(28px,  9cqmin, 144px);
+  --type-h2-mid: clamp(22px,  6.5cqmin, 96px);
+  --type-body:   clamp(14px,  5cqmin,  72px);
+  --type-small:  clamp(11px,  3.4cqmin, 48px);
+  --type-kicker: clamp(10px,  2.5cqmin, 36px);
+  --safe:        min(85cqw, 85cqh);
+}
+.slide.active { opacity: 1; pointer-events: auto; }
+
+/* ---- palette ---- */
+:root {
+  --bg:#0f172a; --ink:#e2e8f0; --kick:#557FA3;
+  --mid:#334155; --slate:#475569; --light:#64748b; --soft:#94a3b8;
+  --lit:#cfe0ee; --tickdim:#3b4a61; --tickdark:#1c2535;
+  --card:#0b1322; --line:#334155;
+}
+
+/* ===== scene-header ===== */
+.slide.scene-header { display:flex; align-items:center; justify-content:center; }
+.slide.scene-header .kicker {
+  font-size: var(--type-kicker); letter-spacing:.18em; text-transform:uppercase;
+  color: var(--kick); text-align:center; text-wrap:balance; padding:0 8cqw; line-height:1.7;
+}
+.slide.scene-header .kicker .num { color:var(--soft); }
+
+/* ===== stamp ===== */
+.slide.stamp { display:flex; align-items:center; justify-content:center; padding: min(8cqw,8cqh); }
+.slide.stamp .text { font-size: var(--type-h1); color: var(--ink); text-align:center; text-wrap:balance; line-height:1.15; }
+.slide.stamp .text.mid  { font-size: var(--type-h2-mid); }
+.slide.stamp .text.body { font-size: var(--type-body); }
+.slide.stamp .sub { display:block; margin-top:3cqmin; font-size:var(--type-small); color:var(--soft); letter-spacing:.05em; }
+/* title-card emphasis */
+.slide.stamp.title .text { color:#fff; }
+.slide.stamp.title .text::after { content:""; display:block; width:18cqmin; height:2px; background:var(--slate); margin:3.5cqmin auto 0; }
+
+/* quote card (building) */
+.slide.quote { display:flex; align-items:center; justify-content:center; padding: min(9cqw,9cqh); }
+.slide.quote .q { font-size: var(--type-h2-mid); color:var(--ink); text-align:left; line-height:1.35; max-width:78cqw; }
+.slide.quote .q .l { display:block; }
+.slide.quote .q .dim { color:var(--slate); }
+.slide.quote .attr { margin-top:5cqmin; font-size:var(--type-small); color:var(--soft); }
+.slide.quote.big .q { font-size: var(--type-h1); text-align:center; }
+.slide.quote .mark { color:var(--slate); }
+
+/* news headline card */
+.slide.headline { display:flex; align-items:center; justify-content:center; padding:min(8cqw,8cqh); }
+.slide.headline .hl { border-left:4px solid var(--slate); padding:3cqmin 0 3cqmin 4cqmin; max-width:80cqw; }
+.slide.headline .src { font-size:var(--type-small); color:var(--soft); letter-spacing:.14em; text-transform:uppercase; }
+.slide.headline .txt { font-size:var(--type-h2-mid); color:var(--ink); margin-top:2cqmin; line-height:1.2; }
+
+/* ===== hero-number ===== */
+.slide.hero-number { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:1cqmin; }
+.slide.hero-number .number { font-size: var(--type-hero); color:var(--ink); text-align:center; line-height:1.02; max-width:92cqw; text-wrap:balance; }
+.slide.hero-number .number.sm { font-size: clamp(40px,11.5cqmin,150px); white-space:nowrap; }
+.slide.hero-number .label { font-size: var(--type-body); color:var(--kick); text-align:center; text-wrap:balance; max-width:80cqw; margin-top:1cqmin; }
+.slide.hero-number .pre { font-size:var(--type-small); color:var(--soft); letter-spacing:.1em; text-transform:uppercase; margin-bottom:2cqmin; }
+.slide.hero-number .hero-wrap { position:relative; z-index:2; display:flex; flex-direction:column; align-items:center; }
+.slide.hero-number .number.dark { color:var(--light); }
+/* two-up numbers */
+.slide.hero-number .duo { display:flex; gap:9cqmin; align-items:flex-end; z-index:2; }
+.slide.hero-number .duo .col { display:flex; flex-direction:column; align-items:center; }
+.slide.hero-number .duo .number { font-size: clamp(48px,15cqmin,220px); }
+
+/* ===== refrain ===== */
+.slide.refrain { background:#f8fafc; display:flex; align-items:center; justify-content:center; padding: min(8cqw,8cqh); }
+.slide.refrain .text { font-size: var(--type-h1); color:#0f172a; text-align:center; text-wrap:balance; line-height:1.2; }
+.slide.refrain .text .b { display:block; }
+
+/* ===== images ===== */
+/* image slides keep .slide's position:absolute — an absolutely-positioned element is
+   itself a containing block for its absolute children (.bg-image / .overlay-text),
+   so no position:relative override is needed (and it would break inset:0 stacking). */
+.slide .bg-image { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; object-position:center; }
+.slide.cover-slide { background:#070b14; }
+.slide.cover-slide .bg-image { object-fit:contain; }
+.slide.image-backdrop::after, .slide.cover-slide.cap-on::after {
+  content:""; position:absolute; inset:0; pointer-events:none;
+  background: linear-gradient(to top, rgba(7,11,20,.85) 0%, rgba(7,11,20,.35) 26%, rgba(7,11,20,0) 50%);
+}
+.slide .overlay-text {
+  position:absolute; bottom:12cqh; left:50%; transform:translateX(-50%);
+  font-size:var(--type-h1); color:var(--ink); text-align:center; text-wrap:balance;
+  max-width:84cqw; z-index:3; text-shadow:0 2px 30px rgba(0,0,0,.9);
+}
+.slide .overlay-text.mid  { font-size:var(--type-h2-mid); }
+.slide .overlay-text.body { font-size:var(--type-body); letter-spacing:.04em; }
+.slide .overlay-text.kick { font-size:var(--type-small); color:var(--soft); letter-spacing:.16em; text-transform:uppercase; }
+
+/* placeholder for missing image */
+.slide.ph { display:flex; align-items:center; justify-content:center; background:#0b1322; }
+.slide.ph .pht { color:var(--light); font-size:var(--type-small); text-align:center; padding:0 10cqw; }
+
+/* ===== diagram / icon slides ===== */
+.slide.diagram { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:4cqmin; padding:min(9cqw,9cqh); }
+.glyph svg { width:min(40cqmin,40cqh); height:min(40cqmin,40cqh); display:block; }
+.slide svg .st { fill:none; stroke:var(--light); stroke-width:3; stroke-linejoin:round; stroke-linecap:round; }
+.slide svg .stf { fill:var(--mid); stroke:var(--light); stroke-width:3; }
+.slide svg .ink { fill:var(--ink); }
+.slide svg .warn { stroke:#c98a8a; }
+.slide svg .lit { stroke:var(--lit); fill:none; }
+.cap { font-size:var(--type-body); color:var(--soft); text-align:center; text-wrap:balance; max-width:82cqw; line-height:1.3; }
+.cap .em { color:var(--ink); }
+
+/* node boxes / flow */
+.flow { display:flex; align-items:center; justify-content:center; gap:4cqmin; flex-wrap:wrap; z-index:2; }
+.node-box { border:2px solid var(--slate); color:var(--ink); font-size:var(--type-body); padding:2.4cqmin 4cqmin; border-radius:2px; letter-spacing:.05em; }
+.node-box.dim { border-color:var(--mid); color:var(--soft); }
+.arrow { color:var(--light); font-size:var(--type-h2-mid); }
+.arrow.brk { color:#c98a8a; }
+.conn { display:inline-block; width:11cqmin; border-top:3px solid var(--slate); align-self:center; }
+.conn.broken { border-top:3px dashed #c98a8a; }
+
+/* ===== invoice ===== */
+.invoice { width:min(74cqw,74cqh); background:var(--card); border:1px solid var(--line); padding:4.5cqmin 5cqmin; display:flex; flex-direction:column; gap:2.4cqmin; z-index:2; }
+.invoice .inv-head { font-size:var(--type-small); color:var(--soft); letter-spacing:.14em; text-transform:uppercase; border-bottom:1px solid var(--line); padding-bottom:2.2cqmin; display:flex; justify-content:space-between; }
+.inv-row { display:flex; justify-content:space-between; align-items:baseline; font-size:var(--type-body); color:#cbd5e1; }
+.inv-row .amt { color:var(--ink); }
+.inv-row .amt.pending { color:var(--slate); }
+.inv-row.muted { color:var(--slate); font-style:italic; }
+.inv-total { margin-top:1.5cqmin; border-top:1px solid var(--slate); padding-top:2.6cqmin; display:flex; justify-content:space-between; align-items:baseline; }
+.inv-total .lab { font-size:var(--type-small); color:var(--soft); letter-spacing:.1em; text-transform:uppercase; }
+.inv-total .val { font-size:var(--type-h2-mid); color:#fff; }
+.inv-total .val small { font-size:var(--type-small); color:var(--soft); display:block; text-align:right; letter-spacing:.12em; }
+.invoice.faint { opacity:.32; }
+.mag { position:absolute; right:24cqw; top:42cqh; z-index:3; }
+.mag svg { width:22cqmin; height:22cqmin; }
+
+/* ===== crowd ===== */
+.crowd { display:grid; grid-template-columns:repeat(40, 1fr); gap:.55cqmin; width:min(80cqw,72cqh); margin:0 auto; }
+.crowd.behind { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); opacity:.22; z-index:1; }
+.crowd .tick { width:100%; aspect-ratio:1/2.1; background:var(--tickdim); border-radius:1px; }
+.crowd .tick.lit { background:var(--lit); }
+.crowd .tick.dk { background:var(--tickdark); }
+.slide.crowd-slide { display:flex; flex-direction:column; align-items:center; justify-content:center; padding:min(6cqw,6cqh); }
+.slide.crowd-slide .ovl { margin-top:5cqmin; font-size:var(--type-body); color:var(--soft); text-align:center; text-wrap:balance; }
+.slide.crowd-slide .ovl .em { color:var(--ink); }
+
+/* ===== namelist ===== */
+.namelist { display:flex; flex-direction:column; gap:1.5cqmin; width:min(54cqw,54cqh); z-index:2; }
+.namelist .namebar { height:3.4cqmin; background:var(--mid); border-radius:2px; width:100%; }
+.namelist .namebar.lit { background:var(--lit); }
+.namelist .namebar:nth-child(even){ width:86%; }
+.namelist .namebar:nth-child(3n){ width:74%; }
+.listwrap { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:4cqmin; height:100%; padding:min(8cqw,8cqh); }
+.listwrap .lcap { font-size:var(--type-body); color:var(--soft); text-align:center; }
+.listwrap .lcap .em { color:var(--ink); }
+
+/* ===== map ===== */
+.slide.map-slide { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3cqmin; padding:min(7cqw,7cqh); }
+.usmap { width:min(82cqw,70cqh); height:auto; }
+.usmap .land { fill:#16223a; stroke:var(--slate); stroke-width:4; }
+.usmap .hl { fill:#24405f; }
+.usmap .dot { fill:var(--lit); }
+.usmap .dot-ring { fill:none; stroke:var(--lit); stroke-width:3; opacity:.6; }
+.usmap .mlabel { fill:var(--ink); font-family:'Courier Prime',monospace; font-size:40px; }
+.map-slide .mcap { font-size:var(--type-body); color:var(--soft); text-align:center; text-wrap:balance; max-width:82cqw; }
+.map-slide .mcap .em { color:var(--ink); }
+
+/* tag morph */
+.tagmorph { display:flex; align-items:center; justify-content:center; gap:4cqmin; z-index:2; }
+.tagpill { border:2px solid var(--slate); color:var(--ink); border-radius:999px; padding:2cqmin 4cqmin; font-size:var(--type-h2-mid); }
+.tagpill.small { font-size:var(--type-small); color:var(--soft); border-color:var(--mid); padding:1.4cqmin 3cqmin; }
+
+/* end card */
+.slide.endcard { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3cqmin; }
+.slide.endcard .logo { font-size:var(--type-h1); color:#fff; letter-spacing:.02em; display:flex; align-items:center; gap:2.5cqmin; }
+.slide.endcard .logo .mark { width:3.2cqmin; height:3.2cqmin; border-radius:50%; background:var(--slate); display:inline-block; }
+.slide.endcard .url { font-size:var(--type-body); color:var(--kick); letter-spacing:.04em; }
+.slide.endcard .btn { margin-top:1cqmin; border:2px solid var(--slate); color:var(--ink); padding:2cqmin 5cqmin; border-radius:3px; font-size:var(--type-small); letter-spacing:.12em; text-transform:uppercase; }
+
+/* HUD (hidden; toggle 'h') — for beat-by-beat recording */
+#hud { position:fixed; left:10px; bottom:8px; font-family:'Courier Prime',monospace; font-size:12px;
+  color:#64748b; background:rgba(0,0,0,.5); padding:3px 8px; border-radius:3px; display:none; z-index:99; }
+#hud.on { display:block; }
+</style>
+</head>
+<body>
+<div class="deck" id="deck">
+
+<!-- ============================================================ SCENE 01 — HOOK -->
+<div class="slide scene-header active" data-s="01" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · HOOK</div></div>
+
+<div class="slide image-backdrop" data-s="01" data-b="1"><img class="bg-image" src="007-01.png" alt=""><div class="overlay-text mid">Minneapolis, January 2026</div></div>
+<div class="slide image-backdrop" data-s="01" data-b="2"><img class="bg-image" src="007-01.png" alt=""><div class="overlay-text">"The worst of the worst."</div></div>
+<div class="slide quote" data-s="01" data-b="3"><div class="q"><span class="l">"Vicious murderers.<span class="mark">"</span></span></div></div>
+<div class="slide quote" data-s="01" data-b="4"><div class="q"><span class="l">"Vicious murderers.</span><span class="l">Rapists.<span class="mark">"</span></span></div></div>
+<div class="slide quote" data-s="01" data-b="5"><div class="q"><span class="l">"Vicious murderers.</span><span class="l">Rapists.</span><span class="l">Child pedophiles."</span><span class="attr">— DHS, Jan 19</span></div></div>
+
+<div class="slide listwrap" data-s="01" data-b="6"><div class="namelist" data-bars="14" data-litpct="100"></div><div class="lcap">DHS published a list of <span class="em">names</span></div></div>
+<div class="slide crowd-slide" data-s="01" data-b="7"><div class="crowd" data-total="1000" data-lit="0"></div><div class="ovl">then arrested <span class="em">3,789 people</span></div></div>
+<div class="slide crowd-slide" data-s="01" data-b="8"><div class="crowd" data-total="1000" data-lit="0"></div><div class="ovl"><span class="em">ICE's own records</span> · FOIA</div></div>
+
+<div class="slide hero-number" data-s="01" data-b="9"><div class="crowd behind" data-total="1000" data-lit="0"></div><div class="hero-wrap"><div class="number">63%</div><div class="label">had no criminal record</div></div></div>
+<div class="slide hero-number" data-s="01" data-b="10"><div class="crowd behind" data-total="1000" data-lit="0"></div><div class="hero-wrap"><div class="number">97%</div><div class="label">were street arrests</div></div></div>
+
+<div class="slide diagram" data-s="01" data-b="11"><div class="glyph"><svg viewBox="0 0 200 200">
+  <line class="st" x1="20" y1="150" x2="180" y2="150"/>
+  <g class="st"><line x1="60" y1="120" x2="60" y2="92"/><circle cx="60" cy="80" r="9"/></g>
+  <g class="st"><line x1="100" y1="112" x2="100" y2="84"/><circle cx="100" cy="72" r="9"/></g>
+  <g class="st"><line x1="140" y1="120" x2="140" y2="92"/><circle cx="140" cy="80" r="9"/></g>
+  <g class="lit"><line x1="100" y1="60" x2="100" y2="36"/><polyline points="90,48 100,36 110,48"/></g>
+</svg></div><div class="cap">pulled off <span class="em">sidewalks</span></div></div>
+
+<div class="slide diagram" data-s="01" data-b="12"><div class="glyph"><svg viewBox="0 0 200 200">
+  <rect class="st" x="40" y="46" width="120" height="118"/>
+  <line class="st" x1="70" y1="46" x2="70" y2="164"/><line class="st" x1="100" y1="46" x2="100" y2="164"/><line class="st" x1="130" y1="46" x2="130" y2="164"/>
+  <line class="st warn" x1="48" y1="54" x2="152" y2="156"/><line class="st warn" x1="152" y1="54" x2="48" y2="156"/>
+</svg></div><div class="cap">not out of <span class="em">jail</span></div></div>
+
+<div class="slide stamp" data-s="01" data-b="13"><div class="text body" style="border:1px solid var(--mid); padding:4cqmin 6cqmin; letter-spacing:.1em;">ICE FOIA DATA<span class="sub">these are ICE's own numbers</span></div></div>
+
+<!-- ============================================================ SCENE 02 — THESIS -->
+<div class="slide scene-header" data-s="02" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · THESIS</div></div>
+
+<div class="slide stamp title" data-s="02" data-b="1"><div class="text">Operation Metro Surge</div></div>
+<div class="slide stamp" data-s="02" data-b="2"><div class="text mid">~60 days · Minneapolis metro</div></div>
+<div class="slide stamp" data-s="02" data-b="3"><div class="text">never voted</div></div>
+<div class="slide stamp" data-s="02" data-b="4"><div class="text">never authorized</div></div>
+<div class="slide stamp" data-s="02" data-b="5"><div class="text">never allowed to review</div></div>
+
+<div class="slide diagram" data-s="02" data-b="6"><div class="invoice"><div class="inv-head"><span>Invoice · City of Minneapolis</span><span>—</span></div><div class="inv-row"><span>—</span><span class="amt pending">—</span></div><div class="inv-row"><span>—</span><span class="amt pending">—</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="02" data-b="7"><div class="invoice"><div class="inv-head"><span>Invoice · City of Minneapolis</span><span>line items?</span></div><div class="inv-row"><span>—</span><span class="amt pending">—</span></div><div class="inv-row"><span>—</span><span class="amt pending">—</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div><div class="mag"><svg viewBox="0 0 100 100"><circle class="st" cx="42" cy="42" r="28"/><line class="st" x1="62" y1="62" x2="86" y2="86"/></svg></div></div>
+<div class="slide hero-number" data-s="02" data-b="8"><div class="hero-wrap"><div class="pre">billed to Minneapolis</div><div class="number sm">$203,000,000</div></div></div>
+<div class="slide hero-number" data-s="02" data-b="9"><div class="hero-wrap"><div class="pre">$203,000,000</div><div class="number">ONE MONTH</div></div></div>
+<div class="slide diagram" data-s="02" data-b="10"><div class="glyph"><svg viewBox="0 0 200 200">
+  <rect class="stf" x="50" y="36" width="100" height="140"/>
+  <line class="st" x1="50" y1="82" x2="150" y2="82"/><line class="st" x1="50" y1="128" x2="150" y2="128"/>
+  <line class="st" x1="92" y1="59" x2="108" y2="59"/><line class="st" x1="92" y1="105" x2="108" y2="105"/><line class="st" x1="92" y1="151" x2="108" y2="151"/>
+  <g class="lit"><rect x="86" y="6" width="28" height="22" rx="4" transform="translate(0,0)"/><path d="M91 6 v-6 a9 9 0 0 1 18 0 v6"/></g>
+</svg></div><div class="cap">the agency is <span class="em">sitting on the evidence</span></div></div>
+
+<div class="slide refrain" data-s="02" data-b="11"><div class="text"><span class="b">Minneapolis got the invoice.</span><span class="b">ICE kept the receipt.</span></div></div>
+
+<!-- ============================================================ SCENE 03 — THE RECEIPT · THE BILL -->
+<div class="slide scene-header" data-s="03" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · THE RECEIPT · THE BILL</div></div>
+
+<div class="slide diagram" data-s="03" data-b="1"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="03" data-b="2"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-row"><span>lost business revenue</span><span class="amt pending">—</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="03" data-b="3"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-row"><span>lost business revenue</span><span class="amt">$81M</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="03" data-b="4"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-row"><span>lost business revenue</span><span class="amt">$81M</span></div><div class="inv-row"><span>lost wages</span><span class="amt pending">—</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="03" data-b="5"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-row"><span>lost business revenue</span><span class="amt">$81M</span></div><div class="inv-row"><span>lost wages</span><span class="amt">$47M</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="03" data-b="6"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-row"><span>lost business revenue</span><span class="amt">$81M</span></div><div class="inv-row"><span>lost wages</span><span class="amt">$47M</span></div><div class="inv-row"><span>emergency rent help</span><span class="amt pending">—</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="03" data-b="7"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-row"><span>lost business revenue</span><span class="amt">$81M</span></div><div class="inv-row"><span>lost wages</span><span class="amt">$47M</span></div><div class="inv-row"><span>emergency rent help</span><span class="amt">$15.7M</span></div><div class="inv-total"><span class="lab">total</span><span class="val">—</span></div></div></div>
+<div class="slide diagram" data-s="03" data-b="8"><div class="invoice"><div class="inv-head"><span>February 2026 · preliminary</span><span>Minneapolis</span></div><div class="inv-row"><span>lost business revenue</span><span class="amt">$81M</span></div><div class="inv-row"><span>lost wages</span><span class="amt">$47M</span></div><div class="inv-row"><span>emergency rent help</span><span class="amt">$15.7M</span></div><div class="inv-row muted"><span>+ other costs</span><span class="amt pending"></span></div><div class="inv-total"><span class="lab">total</span><span class="val">$203.1M<small>ONE MONTH</small></span></div></div></div>
+
+<div class="slide diagram" data-s="03" data-b="9"><div class="glyph"><svg viewBox="0 0 200 200">
+  <circle class="st" cx="100" cy="100" r="70"/><circle class="st" cx="100" cy="100" r="52"/>
+  <polygon class="st" points="100,66 108,90 134,90 113,106 121,132 100,116 79,132 87,106 66,90 92,90"/>
+</svg></div><div class="cap"><span class="em">amended complaint</span> · April · MN Attorney General</div></div>
+
+<div class="slide hero-number" data-s="03" data-b="10"><div class="hero-wrap"><div class="number">$240M</div><div class="label">lost wages — metro-wide</div></div></div>
+<div class="slide hero-number" data-s="03" data-b="11"><div class="duo"><div class="col"><div class="number">$240M</div><div class="label">wages</div></div><div class="col"><div class="number">$610M</div><div class="label">business</div></div></div></div>
+<div class="slide stamp" data-s="03" data-b="12"><div class="text mid">fear travels further than enforcement</div></div>
+
+<div class="slide image-moment" data-s="03" data-b="13"><img class="bg-image" src="007-02.png" alt=""></div>
+<div class="slide image-moment" data-s="03" data-b="14"><img class="bg-image" src="007-03.png" alt=""></div>
+
+<!-- ============================================================ SCENE 04 — THE RECEIPT · THE DATA -->
+<div class="slide scene-header" data-s="04" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · THE RECEIPT · THE DATA</div></div>
+
+<div class="slide stamp" data-s="04" data-b="1"><div class="text mid">What did the money buy?</div></div>
+<div class="slide crowd-slide" data-s="04" data-b="2"><div class="crowd" data-total="1000" data-lit="0"></div><div class="ovl">at least <span class="em">3,789 arrests</span></div></div>
+<div class="slide hero-number" data-s="04" data-b="3"><div class="hero-wrap"><div class="number">2</div><div class="label">U.S. citizens dead</div></div></div>
+
+<div class="slide image-backdrop" data-s="04" data-b="4"><img class="bg-image" src="007-04.png" alt=""><div class="overlay-text">Renée Good</div></div>
+<div class="slide image-moment" data-s="04" data-b="5"><img class="bg-image" src="007-04.png" alt=""></div>
+<div class="slide stamp" data-s="04" data-b="6"><div class="text">Alex Pretti</div></div>
+<div class="slide hero-number" data-s="04" data-b="7"><div class="hero-wrap"><div class="number">1</div><div class="label">in-custody death</div></div></div>
+<div class="slide stamp" data-s="04" data-b="8"><div class="text body" style="border:1px solid var(--mid); padding:4cqmin 6cqmin; letter-spacing:.08em;">FOIA LAWSUIT<span class="sub">Deportation Data Project</span></div></div>
+
+<div class="slide crowd-slide" data-s="04" data-b="9"><div class="crowd" data-total="1000" data-lit="25"></div><div class="ovl">under <span class="em">25%</span> — any conviction</div></div>
+<div class="slide crowd-slide" data-s="04" data-b="10"><div class="crowd" data-total="1000" data-lit="13"></div><div class="ovl"><span class="em">13%</span> — charges pending</div></div>
+<div class="slide crowd-slide" data-s="04" data-b="11"><div class="crowd" data-total="1000" data-lit="63"></div><div class="ovl"><span class="em">63%</span> — neither</div></div>
+
+<div class="slide diagram" data-s="04" data-b="12"><div class="tagmorph"><span class="tagpill">CONVICTION</span><span class="arrow">→</span><span class="tagpill small">traffic ticket</span></div><div class="cap" style="margin-top:5cqmin;">the convictions run down to <span class="em">traffic tickets</span></div></div>
+<div class="slide hero-number" data-s="04" data-b="13"><div class="hero-wrap"><div class="number">273</div><div class="label">valid work permits — asylees, refugees, DACA</div></div></div>
+
+<!-- ============================================================ SCENE 05 — THE FRAME · 9% AND EVERYONE -->
+<div class="slide scene-header" data-s="05" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · THE FRAME · 9% AND EVERYONE</div></div>
+
+<div class="slide headline" data-s="05" data-b="1"><div class="hl"><div class="src">the number going around</div><div class="txt">71% violent or sexual</div></div></div>
+<div class="slide hero-number" data-s="05" data-b="2"><div class="hero-wrap"><div class="number">71%</div><div class="label">flagged violent / sexual</div></div></div>
+<div class="slide diagram" data-s="05" data-b="3"><div class="glyph"><svg viewBox="0 0 200 200"><circle class="st" cx="100" cy="100" r="74"/><polyline class="lit" points="64,104 90,130 138,74" style="stroke-width:9"/></svg></div><div class="cap">that number is <span class="em">real</span></div></div>
+<div class="slide listwrap" data-s="05" data-b="4"><div class="namelist" data-bars="14" data-litpct="71"></div><div class="lcap">but it covers <span class="em">124 of 174 names</span></div></div>
+<div class="slide listwrap" data-s="05" data-b="5"><div class="namelist" data-bars="14" data-litpct="100"></div><div class="lcap">a slice of the list DHS published — <span class="em">335 names</span></div></div>
+<div class="slide crowd-slide" data-s="05" data-b="6"><div class="crowd" data-total="1000" data-lit="0"></div><div class="ovl">out of <span class="em">3,789 arrests</span></div></div>
+
+<div class="slide hero-number" data-s="05" data-b="7"><div class="crowd behind" data-total="1000" data-lit="9"></div><div class="hero-wrap"><div class="number">9%</div><div class="label">the list = 9% of the operation</div></div></div>
+<div class="slide crowd-slide" data-s="05" data-b="8"><div class="crowd" data-total="1000" data-lit="9" data-mode="dark"></div><div class="ovl">DHS showed you <span class="em">nine percent</span></div></div>
+<div class="slide hero-number" data-s="05" data-b="9"><div class="crowd behind" data-total="1000" data-lit="9" data-mode="dark"></div><div class="hero-wrap"><div class="number dark">91%</div><div class="label">left out</div></div></div>
+
+<div class="slide stamp" data-s="05" data-b="10"><div class="text mid">the press release showed you 9%</div></div>
+<div class="slide stamp title" data-s="05" data-b="11"><div class="text">FOIA Showed Everyone.</div></div>
+<div class="slide refrain" data-s="05" data-b="12"><div class="text"><span class="b">Minneapolis got the invoice.</span><span class="b">ICE kept the receipt.</span></div></div>
+
+<!-- ============================================================ SCENE 06 — THE TWIST · THE COURT SAID STOP -->
+<div class="slide scene-header" data-s="06" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · THE TWIST · THE COURT SAID STOP</div></div>
+
+<div class="slide stamp" data-s="06" data-b="1"><div class="text mid">U.S. District Court — Minnesota</div></div>
+<div class="slide stamp" data-s="06" data-b="2"><div class="text">Chief Judge Patrick Schiltz</div></div>
+<div class="slide stamp" data-s="06" data-b="3"><div class="text mid">presiding over the detention challenges</div></div>
+<div class="slide hero-number" data-s="06" data-b="4"><div class="hero-wrap"><div class="pre">Jan 28</div><div class="number">96</div><div class="label">violations of his orders · across 74 cases</div></div></div>
+<div class="slide hero-number" data-s="06" data-b="5"><div class="hero-wrap"><div class="pre">by Feb 26</div><div class="number">~210</div><div class="label">and climbing</div></div></div>
+<div class="slide quote" data-s="06" data-b="6"><div class="q"><span class="l mark">"</span><span class="l">ICE is not…</span></div></div>
+<div class="slide quote big" data-s="06" data-b="7"><div class="q"><span class="mark">"</span>ICE is not a law unto itself.<span class="mark">"</span></div></div>
+<div class="slide stamp" data-s="06" data-b="8"><div class="text mid">threatened criminal contempt</div></div>
+<div class="slide diagram" data-s="06" data-b="9"><div class="glyph"><svg viewBox="0 0 200 200">
+  <g class="st"><rect x="118" y="40" width="46" height="20" rx="3" transform="rotate(45 141 50)"/><line x1="120" y1="70" x2="150" y2="100"/><line x1="60" y1="150" x2="120" y2="150"/></g>
+  <g class="lit"><line x1="20" y1="40" x2="92" y2="40"/><polyline points="80,30 92,40 80,50"/><line x1="20" y1="64" x2="78" y2="64"/><polyline points="66,54 78,64 66,74"/></g>
+</svg></div><div class="cap">the operation <span class="em">kept going anyway</span></div></div>
+
+<!-- ============================================================ SCENE 07 — THE TWIST · WHO HOLDS THE EVIDENCE -->
+<div class="slide scene-header" data-s="07" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · THE TWIST · WHO HOLDS THE EVIDENCE</div></div>
+
+<div class="slide image-moment" data-s="07" data-b="1"><img class="bg-image" src="007-04.png" alt=""></div>
+<div class="slide diagram" data-s="07" data-b="2"><div class="flow"><span class="node-box">FBI</span><span class="conn"></span><span class="node-box">MINNESOTA</span></div><div class="cap">agreed to investigate <span class="em">together</span></div></div>
+<div class="slide diagram" data-s="07" data-b="3"><div class="flow"><span class="node-box">FBI</span><span class="conn broken"></span><span class="node-box dim">MINNESOTA</span></div><div class="cap">then it <span class="em">reversed</span></div></div>
+<div class="slide image-moment" data-s="07" data-b="4"><img class="bg-image" src="007-05.png" alt=""></div>
+<div class="slide diagram" data-s="07" data-b="5"><div class="glyph"><svg viewBox="0 0 200 200"><polygon class="stf" points="40,72 160,72 160,160 40,160"/><polygon class="st" points="40,72 100,44 160,72"/><line class="st" x1="100" y1="44" x2="100" y2="160"/><rect class="st" x="86" y="96" width="28" height="16"/></svg></div><div class="cap">the <span class="em">forensic evidence</span></div></div>
+<div class="slide diagram" data-s="07" data-b="6"><div class="glyph"><svg viewBox="0 0 200 200"><line class="st" x1="24" y1="150" x2="176" y2="150"/><g class="st"><line x1="64" y1="150" x2="64" y2="104"/><circle cx="64" cy="92" r="11"/></g><g class="st"><line x1="100" y1="150" x2="100" y2="98"/><circle cx="100" cy="86" r="11"/></g><g class="st"><line x1="136" y1="150" x2="136" y2="104"/><circle cx="136" cy="92" r="11"/></g></svg></div><div class="cap">the <span class="em">witness interviews</span></div></div>
+<div class="slide diagram" data-s="07" data-b="7"><div class="glyph"><svg viewBox="0 0 200 200"><g class="st"><line x1="60" y1="40" x2="60" y2="170"/><line x1="140" y1="40" x2="140" y2="170"/><line x1="60" y1="40" x2="140" y2="40"/><line x1="60" y1="78" x2="140" y2="78"/><line x1="60" y1="116" x2="140" y2="116"/><line x1="60" y1="154" x2="140" y2="154"/></g><g class="st"><rect x="14" y="118" width="22" height="22" rx="3"/></g></svg></div><div class="cap"><span class="em">locked the state out</span></div></div>
+<div class="slide diagram" data-s="07" data-b="8"><div class="flow"><span class="node-box dim">MINNESOTA<br><span style="font-size:.6em;color:var(--soft)">requests records</span></span><span class="arrow">→</span><span class="node-box">THE AGENCY<br><span style="font-size:.6em;color:var(--soft)">whose agent fired</span></span></div></div>
+<div class="slide stamp" data-s="07" data-b="9"><div class="text body" style="border-left:3px solid var(--slate); padding-left:4cqmin; text-align:left; max-width:80cqw;">Touhy: a federal agency head decides what outsiders see</div></div>
+<div class="slide stamp" data-s="07" data-b="10"><div class="text">Minnesota asked.</div></div>
+<div class="slide stamp" data-s="07" data-b="11"><div class="text mid">DHS: "Touhy doesn't apply here."</div></div>
+<div class="slide diagram" data-s="07" data-b="12"><div class="glyph"><svg viewBox="0 0 200 200">
+  <rect class="stf" x="50" y="36" width="100" height="140"/>
+  <line class="st" x1="50" y1="82" x2="150" y2="82"/><line class="st" x1="50" y1="128" x2="150" y2="128"/>
+  <line class="st" x1="92" y1="59" x2="108" y2="59"/><line class="st" x1="92" y1="105" x2="108" y2="105"/><line class="st" x1="92" y1="151" x2="108" y2="151"/>
+  <g class="lit"><rect x="86" y="6" width="28" height="22" rx="4"/><path d="M91 6 v-6 a9 9 0 0 1 18 0 v6"/></g>
+</svg></div><div class="cap">the agency decided <span class="em">its own rules didn't bind it</span></div></div>
+
+<!-- ============================================================ SCENE 08 — THE STAKES · A BILL YOU DIDN'T VOTE FOR -->
+<div class="slide scene-header" data-s="08" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · THE STAKES · A BILL YOU DIDN'T VOTE FOR</div></div>
+
+<div class="slide stamp" data-s="08" data-b="1"><div class="text mid">the same logic, different stories</div></div>
+<div class="slide stamp" data-s="08" data-b="2"><div class="text mid">a cost that arrives without a vote</div></div>
+<div class="slide map-slide" data-s="08" data-b="3">
+  <svg class="usmap" viewBox="0 0 1000 600">
+    <polygon class="land" points="70,165 180,150 370,145 560,142 630,152 660,130 690,158 745,152 790,168 835,152 940,152 972,168 938,200 900,215 882,255 868,305 858,358 842,400 852,438 833,482 815,445 810,402 760,418 705,436 612,458 556,442 478,458 437,500 408,476 395,436 322,434 250,430 150,414 118,358 92,272 76,208"/>
+    <circle class="dot-ring" cx="96" cy="172" r="26"/><circle class="dot" cx="96" cy="172" r="12"/>
+    <text class="mlabel" x="44" y="150">Seattle</text>
+  </svg>
+  <div class="mcap">after the last election, I left <span class="em">Seattle</span></div>
+</div>
+<div class="slide map-slide" data-s="08" data-b="4">
+  <svg class="usmap" viewBox="0 0 1000 600">
+    <polygon class="land" points="70,165 180,150 370,145 560,142 630,152 660,130 690,158 745,152 790,168 835,152 940,152 972,168 938,200 900,215 882,255 868,305 858,358 842,400 852,438 833,482 815,445 810,402 760,418 705,436 612,458 556,442 478,458 437,500 408,476 395,436 322,434 250,430 150,414 118,358 92,272 76,208"/>
+    <circle class="dot-ring" cx="715" cy="200" r="26"/><circle class="dot" cx="715" cy="200" r="12"/>
+    <text class="mlabel" x="652" y="182">Michigan</text>
+  </svg>
+  <div class="mcap">I moved back to a <span class="em">suburb of Detroit</span></div>
+</div>
+<div class="slide stamp" data-s="08" data-b="5"><div class="text mid">I'll be honest about why</div></div>
+<div class="slide stamp" data-s="08" data-b="6"><div class="text mid">somewhere harder to find</div></div>
+<div class="slide map-slide" data-s="08" data-b="7">
+  <svg class="usmap" viewBox="0 0 1000 600">
+    <polygon class="land" points="70,165 180,150 370,145 560,142 630,152 660,130 690,158 745,152 790,168 835,152 940,152 972,168 938,200 900,215 882,255 868,305 858,358 842,400 852,438 833,482 815,445 810,402 760,418 705,436 612,458 556,442 478,458 437,500 408,476 395,436 322,434 250,430 150,414 118,358 92,272 76,208"/>
+    <polygon class="hl" points="76,208 92,180 150,165 165,165 168,410 150,414 118,358 92,272"/>
+  </svg>
+  <div class="mcap">I thought retribution would hit the <span class="em">blue West Coast</span></div>
+</div>
+<div class="slide map-slide" data-s="08" data-b="8">
+  <svg class="usmap" viewBox="0 0 1000 600">
+    <polygon class="land" points="70,165 180,150 370,145 560,142 630,152 660,130 690,158 745,152 790,168 835,152 940,152 972,168 938,200 900,215 882,255 868,305 858,358 842,400 852,438 833,482 815,445 810,402 760,418 705,436 612,458 556,442 478,458 437,500 408,476 395,436 322,434 250,430 150,414 118,358 92,272 76,208"/>
+    <circle class="dot-ring" cx="575" cy="190" r="28"/><circle class="dot" cx="575" cy="190" r="12"/>
+    <text class="mlabel" x="498" y="166">Minnesota</text>
+  </svg>
+  <div class="mcap">it landed in <span class="em">Minnesota</span> instead</div>
+</div>
+<div class="slide stamp" data-s="08" data-b="9"><div class="text mid">something I never wanted to be right about</div></div>
+<div class="slide diagram" data-s="08" data-b="10"><div class="invoice faint"><div class="inv-head"><span>a bill you didn't vote for</span><span></span></div><div class="inv-row"><span>—</span><span class="amt pending">—</span></div><div class="inv-total"><span class="lab">total</span><span class="val">?</span></div></div><div class="cap" style="margin-top:5cqmin;">two ways to answer <span class="em">a bill you didn't vote for</span></div></div>
+<div class="slide stamp" data-s="08" data-b="11"><div class="text">fight it</div></div>
+<div class="slide stamp" data-s="08" data-b="12"><div class="text">get smaller</div></div>
+<div class="slide map-slide" data-s="08" data-b="13">
+  <svg class="usmap" viewBox="0 0 1000 600">
+    <polygon class="land" points="70,165 180,150 370,145 560,142 630,152 660,130 690,158 745,152 790,168 835,152 940,152 972,168 938,200 900,215 882,255 868,305 858,358 842,400 852,438 833,482 815,445 810,402 760,418 705,436 612,458 556,442 478,458 437,500 408,476 395,436 322,434 250,430 150,414 118,358 92,272 76,208"/>
+    <circle class="dot-ring" cx="715" cy="200" r="26"/><circle class="dot" cx="715" cy="200" r="12"/>
+  </svg>
+  <div class="mcap"><span class="em">moving to Michigan was the second kind</span></div>
+</div>
+
+<!-- ============================================================ SCENE 09 — TEASE -->
+<div class="slide scene-header" data-s="09" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · TEASE</div></div>
+
+<div class="slide stamp" data-s="09" data-b="1"><div class="text mid">what didn't fit in six minutes</div></div>
+<div class="slide diagram" data-s="09" data-b="2"><div class="glyph"><svg viewBox="0 0 200 200">
+  <g class="st"><rect x="30" y="40" width="40" height="18" rx="3" transform="rotate(45 50 49)"/><line x1="34" y1="66" x2="58" y2="90"/><line x1="14" y1="130" x2="62" y2="130"/></g>
+  <g class="st"><rect x="118" y="70" width="60" height="86" rx="4"/><line x1="118" y1="92" x2="178" y2="92"/><circle cx="148" cy="124" r="12"/></g>
+</svg></div><div class="cap">a county attorney <span class="em">charged an ICE officer</span></div></div>
+<div class="slide diagram" data-s="09" data-b="3"><div class="glyph"><svg viewBox="0 0 200 200"><path class="stf" d="M100 30 L160 52 V104 C160 146 132 168 100 178 C68 168 40 146 40 104 V52 Z"/></svg></div><div class="cap">a doctrine that <span class="em">shields federal agents</span> from state charges</div></div>
+<div class="slide diagram" data-s="09" data-b="4"><div class="glyph"><svg viewBox="0 0 200 200"><g class="stf"><path d="M44 50 h54 l14 16 v84 h-68 Z"/></g><g class="st"><path d="M104 64 h44 l0 86 h-44"/></g></svg></div><div class="cap">two old cases break that shield · <span class="em">Ruby Ridge · 1906</span></div></div>
+<div class="slide diagram" data-s="09" data-b="5"><div class="glyph"><svg viewBox="0 0 200 200"><path class="stf" d="M58 36 h64 l24 24 v104 h-88 Z"/><line class="st" x1="74" y1="78" x2="130" y2="78"/><line class="st" x1="74" y1="104" x2="130" y2="104"/><line class="st warn" x1="50" y1="44" x2="150" y2="160"/></svg></div><div class="cap">one lever even a <span class="em">presidential pardon</span> can't reach</div></div>
+<div class="slide stamp" data-s="09" data-b="6"><div class="text">every number sourced</div></div>
+<div class="slide diagram" data-s="09" data-b="7"><div class="flow" style="gap:7cqmin;">
+  <div style="display:flex;flex-direction:column;align-items:center;gap:2cqmin;"><svg viewBox="0 0 76 76" style="width:18cqmin;height:18cqmin"><g class="st" transform="translate(6,6)"><line x1="4" y1="60" x2="64" y2="60"/><polygon points="34,8 8,28 60,28"/><line x1="16" y1="28" x2="16" y2="56"/><line x1="34" y1="28" x2="34" y2="56"/><line x1="52" y1="28" x2="52" y2="56"/></g></svg><div class="cap" style="font-size:var(--type-small)">court records</div></div>
+  <div style="display:flex;flex-direction:column;align-items:center;gap:2cqmin;"><svg viewBox="0 0 76 76" style="width:18cqmin;height:18cqmin"><g class="st" transform="translate(8,6)"><ellipse cx="28" cy="12" rx="26" ry="9"/><path d="M2 12 V52 a26 9 0 0 0 52 0 V12"/><path d="M2 32 a26 9 0 0 0 52 0"/></g></svg><div class="cap" style="font-size:var(--type-small)">ICE data</div></div>
+  <div style="display:flex;flex-direction:column;align-items:center;gap:2cqmin;"><svg viewBox="0 0 76 76" style="width:18cqmin;height:18cqmin"><g class="st" transform="translate(12,4)"><path d="M6 4 h32 l8 8 v52 h-40 Z"/><line x1="14" y1="24" x2="38" y2="24"/><line x1="14" y1="38" x2="38" y2="38"/></g></svg><div class="cap" style="font-size:var(--type-small)">state filings</div></div>
+</div></div>
+<div class="slide stamp" data-s="09" data-b="8"><div class="text">all linked</div></div>
+<div class="slide refrain" data-s="09" data-b="9"><div class="text"><span class="b">Minneapolis got the invoice.</span><span class="b">ICE kept the receipt.</span></div></div>
+<div class="slide cover-slide cap-on" data-s="09" data-b="10"><img class="bg-image" src="cover.png" alt=""><div class="overlay-text body">the full accounting → Substack</div></div>
+
+<!-- ============================================================ SCENE 10 — END -->
+<div class="slide scene-header" data-s="10" data-b="—"><div class="kicker">DISPATCH <span class="num">№007</span> · END</div></div>
+
+<div class="slide endcard" data-s="10" data-b="1"><div class="logo"><span class="mark"></span>The Civic Node</div></div>
+<div class="slide endcard" data-s="10" data-b="2"><div class="url">drinkyouroj.substack.com</div><div class="btn">Subscribe — free</div></div>
+<div class="slide endcard" data-s="10" data-b="3"><div class="logo">Weekly.</div></div>
+<div class="slide stamp title" data-s="10" data-b="4"><div class="text">No hype.</div></div>
+
+</div>
+
+<div id="hud"></div>
+
+<script>
+// ---- populate repetitive geometry: crowd fields + name-list bars ----
+function buildCrowds(){
+  document.querySelectorAll('.crowd').forEach(c=>{
+    const total = +(c.dataset.total||1000);
+    const litPct = +(c.dataset.lit||0);
+    const dark   = c.dataset.mode === 'dark';
+    const frag = document.createDocumentFragment();
+    for(let i=0;i<total;i++){
+      const t = document.createElement('span');
+      t.className = 'tick';
+      const isLit = litPct>0 && (Math.floor((i+1)*litPct/100) > Math.floor(i*litPct/100));
+      if(isLit) t.classList.add('lit');
+      else if(dark) t.classList.add('dk');
+      frag.appendChild(t);
+    }
+    c.appendChild(frag);
+  });
+}
+function buildLists(){
+  document.querySelectorAll('.namelist').forEach(n=>{
+    const bars = +(n.dataset.bars||14);
+    const litPct = +(n.dataset.litpct||0);
+    const litN = Math.round(bars*litPct/100);
+    const frag = document.createDocumentFragment();
+    for(let i=0;i<bars;i++){
+      const b = document.createElement('div');
+      b.className = 'namebar' + (i < litN ? ' lit' : '');
+      frag.appendChild(b);
+    }
+    n.appendChild(frag);
+  });
+}
+buildCrowds();
+buildLists();
+
+// ---- advance / retreat ----
+const slides = Array.from(document.querySelectorAll('.slide'));
+let current = 0;
+const hud = document.getElementById('hud');
+function paintHud(){
+  const s = slides[current];
+  hud.textContent = (current+1)+' / '+slides.length+'   ·   S'+s.dataset.s+(s.dataset.b!=='—' ? ' · B'+s.dataset.b : ' · header');
+}
+function show(n){
+  slides[current].classList.remove('active');
+  current = Math.max(0, Math.min(n, slides.length-1));
+  slides[current].classList.add('active');
+  paintHud();
+}
+function advance(){ show(current+1); }
+function retreat(){ show(current-1); }
+paintHud();
+
+document.addEventListener('keydown', e=>{
+  if(e.key==='ArrowRight'||e.key===' '||e.key==='ArrowDown'){ e.preventDefault(); advance(); }
+  else if(e.key==='ArrowLeft'||e.key==='ArrowUp'){ e.preventDefault(); retreat(); }
+  else if(e.key==='Home'){ show(0); }
+  else if(e.key==='End'){ show(slides.length-1); }
+  else if(e.key==='h'||e.key==='H'){ hud.classList.toggle('on'); }
+});
+document.addEventListener('click', advance);
+</script>
+</body>
+</html>
